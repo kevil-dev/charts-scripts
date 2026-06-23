@@ -1,0 +1,2011 @@
+{
+  "platform": "apple",
+  "country": "it",
+  "genre": "News",
+  "genre_id": "1489",
+  "slug": "news",
+  "fetched_at": "2026-06-23T09:19:29Z",
+  "count": 200,
+  "shows": [
+    {
+      "rank": 1,
+      "apple_id": "291100561",
+      "name": "La Zanzara",
+      "artist": "Radio 24",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/c2/12/33/c21233b0-119a-d816-66f5-a1174b0de660/mza_11240176167337869093.jpg/170x170bb.png",
+      "genre": "News",
+      "genre_id": "1489",
+      "url": "https://podcasts.apple.com/it/podcast/la-zanzara/id291100561?uo=2"
+    },
+    {
+      "rank": 2,
+      "apple_id": "1642167995",
+      "name": "Non hanno un amico",
+      "artist": "Luca Bizzarri - Chora Media",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/10/f5/72/10f57228-f4e7-9103-637a-db1faf005db5/mza_8462891008961195874.jpeg/170x170bb.png",
+      "genre": "Politics",
+      "genre_id": "1527",
+      "url": "https://podcasts.apple.com/it/podcast/non-hanno-un-amico/id1642167995?uo=2"
+    },
+    {
+      "rank": 3,
+      "apple_id": "1797866685",
+      "name": "SEIETRENTA - La rassegna stampa di Chora Media",
+      "artist": "Chora Media",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/53/7f/b2/537fb2d7-0f91-65a0-96c5-371f0aaea225/mza_4461750141574078890.jpg/170x170bb.png",
+      "genre": "News Commentary",
+      "genre_id": "1530",
+      "url": "https://podcasts.apple.com/it/podcast/seietrenta-la-rassegna-stampa-di-chora-media/id1797866685?uo=2"
+    },
+    {
+      "rank": 4,
+      "apple_id": "1603848579",
+      "name": "Stories",
+      "artist": "Cecilia Sala – Chora Media",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/6b/59/e8/6b59e847-6003-5db7-020f-62ba62c55d7e/mza_11767023638549708434.jpeg/170x170bb.png",
+      "genre": "News",
+      "genre_id": "1489",
+      "url": "https://podcasts.apple.com/it/podcast/stories/id1603848579?uo=2"
+    },
+    {
+      "rank": 5,
+      "apple_id": "1522058082",
+      "name": "Giorno per giorno",
+      "artist": "Corriere della Sera – Francesco Giambertone",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/67/22/18/672218e0-9ac3-ca3d-e6ae-0a98c122d816/mza_13765113294021382142.jpg/170x170bb.png",
+      "genre": "Daily News",
+      "genre_id": "1526",
+      "url": "https://podcasts.apple.com/it/podcast/giorno-per-giorno/id1522058082?uo=2"
+    },
+    {
+      "rank": 6,
+      "apple_id": "1896899681",
+      "name": "Capitalismo: luci e ombre dell’idea che ha rivoluzionato la storia",
+      "artist": "Il Sole 24 Ore",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/08/1a/00/081a0072-c7c2-c64e-ab7a-9b73a539fc3c/mza_16364541897010474244.jpg/170x170bb.png",
+      "genre": "News",
+      "genre_id": "1489",
+      "url": "https://podcasts.apple.com/it/podcast/capitalismo-luci-e-ombre-dellidea-che-ha-rivoluzionato/id1896899681?uo=2"
+    },
+    {
+      "rank": 7,
+      "apple_id": "1705847056",
+      "name": "The Essential",
+      "artist": "Will Media - Chiara Piotto",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/6f/40/38/6f403814-c1f1-5de1-cd80-1445fe437d94/mza_7540806088815937063.jpg/170x170bb.png",
+      "genre": "Daily News",
+      "genre_id": "1526",
+      "url": "https://podcasts.apple.com/it/podcast/the-essential/id1705847056?uo=2"
+    },
+    {
+      "rank": 8,
+      "apple_id": "1667941272",
+      "name": "Il Mondo",
+      "artist": "Internazionale",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/eb/ce/15/ebce15f3-fd72-7746-49d3-55cf984559b4/mza_1181196246366930039.jpg/170x170bb.png",
+      "genre": "News",
+      "genre_id": "1489",
+      "url": "https://podcasts.apple.com/it/podcast/il-mondo/id1667941272?uo=2"
+    },
+    {
+      "rank": 9,
+      "apple_id": "127782776",
+      "name": "Deejay Chiama Italia",
+      "artist": "Radio Deejay",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts122/v4/35/f3/c9/35f3c9eb-a31b-7ea2-eb22-2754f6cffe4c/mza_16249227948654058026.jpg/170x170bb.png",
+      "genre": "News",
+      "genre_id": "1489",
+      "url": "https://podcasts.apple.com/it/podcast/deejay-chiama-italia/id127782776?uo=2"
+    },
+    {
+      "rank": 10,
+      "apple_id": "1540796758",
+      "name": "Market Mover",
+      "artist": "Il Sole 24 Ore",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/bb/db/0a/bbdb0ae9-d3bd-aab4-5b1c-b3cfbb21d1b9/mza_6844165700810349820.jpg/170x170bb.png",
+      "genre": "News",
+      "genre_id": "1489",
+      "url": "https://podcasts.apple.com/it/podcast/market-mover/id1540796758?uo=2"
+    },
+    {
+      "rank": 11,
+      "apple_id": "1835378422",
+      "name": "Now What?",
+      "artist": "Mia Ceran",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/d8/e6/3c/d8e63cac-645a-f5e3-effe-2d4b09597476/mza_12182793339053488442.jpeg/170x170bb.png",
+      "genre": "News",
+      "genre_id": "1489",
+      "url": "https://podcasts.apple.com/it/podcast/now-what/id1835378422?uo=2"
+    },
+    {
+      "rank": 12,
+      "apple_id": "1648645980",
+      "name": "Altri Orienti",
+      "artist": "Simone Pieranni - Chora Media",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts122/v4/25/bf/d9/25bfd9a8-a5eb-4e3a-18b2-10cccd770423/mza_15100382235722530193.jpg/170x170bb.png",
+      "genre": "News",
+      "genre_id": "1489",
+      "url": "https://podcasts.apple.com/it/podcast/altri-orienti/id1648645980?uo=2"
+    },
+    {
+      "rank": 13,
+      "apple_id": "1516817035",
+      "name": "Actually",
+      "artist": "Will Media",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/e4/5b/1b/e45b1b1b-ba45-6122-4210-9d56c72b907b/mza_13101311386068929468.jpg/170x170bb.png",
+      "genre": "Tech News",
+      "genre_id": "1528",
+      "url": "https://podcasts.apple.com/it/podcast/actually/id1516817035?uo=2"
+    },
+    {
+      "rank": 14,
+      "apple_id": "560454583",
+      "name": "Tutti convocati",
+      "artist": "Radio 24",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts122/v4/63/ef/28/63ef2887-209b-445b-8ed8-705b1bb49972/mza_11752179041327031607.jpg/170x170bb.png",
+      "genre": "News",
+      "genre_id": "1489",
+      "url": "https://podcasts.apple.com/it/podcast/tutti-convocati/id560454583?uo=2"
+    },
+    {
+      "rank": 15,
+      "apple_id": "291685321",
+      "name": "Focus economia",
+      "artist": "Radio 24",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/10/7d/f7/107df76d-0ad4-3b0b-f819-b34863e6e1c1/mza_1140024126204185370.jpg/170x170bb.png",
+      "genre": "News",
+      "genre_id": "1489",
+      "url": "https://podcasts.apple.com/it/podcast/focus-economia/id291685321?uo=2"
+    },
+    {
+      "rank": 16,
+      "apple_id": "135067274",
+      "name": "Global News Podcast",
+      "artist": "BBC World Service",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/84/57/09/8457093f-677a-d6de-5666-6514cc588a7e/mza_17083078915388787537.jpg/170x170bb.png",
+      "genre": "Daily News",
+      "genre_id": "1526",
+      "url": "https://podcasts.apple.com/it/podcast/global-news-podcast/id135067274?uo=2"
+    },
+    {
+      "rank": 17,
+      "apple_id": "1796846274",
+      "name": "Limes - Il podcast di Geopolitica",
+      "artist": "OnePodcast",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/47/51/15/47511540-c7e6-2d50-3f24-ca5a2051e49f/mza_12795103877660738491.jpg/170x170bb.png",
+      "genre": "News",
+      "genre_id": "1489",
+      "url": "https://podcasts.apple.com/it/podcast/limes-il-podcast-di-geopolitica/id1796846274?uo=2"
+    },
+    {
+      "rank": 18,
+      "apple_id": "1502634775",
+      "name": "Start",
+      "artist": "Il Sole 24 Ore",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/03/a7/44/03a744a8-f518-2ace-c920-fb08c6b21fc2/mza_10315082278754454081.jpg/170x170bb.png",
+      "genre": "News",
+      "genre_id": "1489",
+      "url": "https://podcasts.apple.com/it/podcast/start/id1502634775?uo=2"
+    },
+    {
+      "rank": 19,
+      "apple_id": "1691855830",
+      "name": "Fuori Da Qui",
+      "artist": "Simone Pieranni - Chora Media",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e3/a7/07/e3a70780-486d-ce09-063f-5ddb0f8f39ad/mza_18325250887224054229.jpeg/170x170bb.png",
+      "genre": "News",
+      "genre_id": "1489",
+      "url": "https://podcasts.apple.com/it/podcast/fuori-da-qui/id1691855830?uo=2"
+    },
+    {
+      "rank": 20,
+      "apple_id": "1495593341",
+      "name": "Notizie a colazione",
+      "artist": "Pasquale Ancona, Emanuele Bonora, Anna Di Rocco e Maria Mantero",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/d4/f0/48/d4f04878-4831-c040-d7f3-7565b96a3630/mza_14791706510339370363.jpeg/170x170bb.png",
+      "genre": "Daily News",
+      "genre_id": "1526",
+      "url": "https://podcasts.apple.com/it/podcast/notizie-a-colazione/id1495593341?uo=2"
+    },
+    {
+      "rank": 21,
+      "apple_id": "1650539882",
+      "name": "3 Fattori - Il podcast di Mariangela Pira",
+      "artist": "Sky Tg24",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/9f/d6/1a/9fd61a8d-dcaf-3ea2-3864-39e1ace1e31f/mza_14160289162999991149.jpg/170x170bb.png",
+      "genre": "News Commentary",
+      "genre_id": "1530",
+      "url": "https://podcasts.apple.com/it/podcast/3-fattori-il-podcast-di-mariangela-pira/id1650539882?uo=2"
+    },
+    {
+      "rank": 22,
+      "apple_id": "1485097768",
+      "name": "Phastidio Podcast",
+      "artist": "Mario Seminerio",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/c5/19/a2/c519a21e-782f-808b-758a-f98e16c3b829/mza_7256711836556823119.jpg/170x170bb.png",
+      "genre": "News Commentary",
+      "genre_id": "1530",
+      "url": "https://podcasts.apple.com/it/podcast/phastidio-podcast/id1485097768?uo=2"
+    },
+    {
+      "rank": 23,
+      "apple_id": "673961966",
+      "name": "Nessun luogo è lontano",
+      "artist": "Radio 24",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/01/65/d4/0165d45b-146a-2ce3-136f-e96d2456f419/mza_7859702383535306488.jpg/170x170bb.png",
+      "genre": "News",
+      "genre_id": "1489",
+      "url": "https://podcasts.apple.com/it/podcast/nessun-luogo-%C3%A8-lontano/id673961966?uo=2"
+    },
+    {
+      "rank": 24,
+      "apple_id": "1546749645",
+      "name": "Don Chisciotte",
+      "artist": "Will Media",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts122/v4/9a/ef/d4/9aefd4cc-15ff-a86f-8fe8-b97eaad8a9ad/mza_14603662794180435362.png/170x170bb.png",
+      "genre": "News Commentary",
+      "genre_id": "1530",
+      "url": "https://podcasts.apple.com/it/podcast/don-chisciotte/id1546749645?uo=2"
+    },
+    {
+      "rank": 25,
+      "apple_id": "290890570",
+      "name": "2024",
+      "artist": "Radio 24",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/bd/78/27/bd782768-5312-20e0-6d58-6622176d9ed2/mza_14040079663532570953.jpg/170x170bb.png",
+      "genre": "News",
+      "genre_id": "1489",
+      "url": "https://podcasts.apple.com/it/podcast/2024/id290890570?uo=2"
+    },
+    {
+      "rank": 26,
+      "apple_id": "1561208999",
+      "name": "Globally - La geopolitica spiegata in modo chiaro",
+      "artist": "Will Media",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/91/68/5a/91685a5c-0058-d250-3d54-4137c1f5dc52/mza_3203592046319083774.jpg/170x170bb.png",
+      "genre": "Politics",
+      "genre_id": "1527",
+      "url": "https://podcasts.apple.com/it/podcast/globally-la-geopolitica-spiegata-in-modo-chiaro/id1561208999?uo=2"
+    },
+    {
+      "rank": 27,
+      "apple_id": "290928166",
+      "name": "Melog",
+      "artist": "Radio 24",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/34/24/a2/3424a2e4-58b2-33b4-8d17-f728012671d9/mza_12890552635685024016.jpg/170x170bb.png",
+      "genre": "News",
+      "genre_id": "1489",
+      "url": "https://podcasts.apple.com/it/podcast/melog/id290928166?uo=2"
+    },
+    {
+      "rank": 28,
+      "apple_id": "1896817024",
+      "name": "La resa",
+      "artist": "Radio 24",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/b8/da/85/b8da8517-4170-6b6f-a388-159d713e69df/mza_10389087282303073558.jpg/170x170bb.png",
+      "genre": "News",
+      "genre_id": "1489",
+      "url": "https://podcasts.apple.com/it/podcast/la-resa/id1896817024?uo=2"
+    },
+    {
+      "rank": 29,
+      "apple_id": "1707542651",
+      "name": "La via per l'Impero",
+      "artist": "Imperium Aureum",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/d6/8d/6f/d68d6f32-ad56-806b-40c6-17ef92694cc8/mza_5418345602601033967.jpg/170x170bb.png",
+      "genre": "Politics",
+      "genre_id": "1527",
+      "url": "https://podcasts.apple.com/it/podcast/la-via-per-limpero/id1707542651?uo=2"
+    },
+    {
+      "rank": 30,
+      "apple_id": "1558665560",
+      "name": "Le news di Sky Tg 24",
+      "artist": "Sky TG 24",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/45/79/12/4579121a-15f7-2888-e058-553442612e16/mza_953796559803708337.jpg/170x170bb.png",
+      "genre": "Daily News",
+      "genre_id": "1526",
+      "url": "https://podcasts.apple.com/it/podcast/le-news-di-sky-tg-24/id1558665560?uo=2"
+    },
+    {
+      "rank": 31,
+      "apple_id": "308039446",
+      "name": "24 Mattino",
+      "artist": "Radio 24",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/66/1c/2b/661c2bac-6d1d-1ba0-26d9-22e79c6cd4d7/mza_2757030455865051377.jpg/170x170bb.png",
+      "genre": "News",
+      "genre_id": "1489",
+      "url": "https://podcasts.apple.com/it/podcast/24-mattino/id308039446?uo=2"
+    },
+    {
+      "rank": 32,
+      "apple_id": "1200361736",
+      "name": "The Daily",
+      "artist": "The New York Times",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ab/64/66/ab6466a9-9a7d-e20e-7a3d-bc5be37d29ce/mza_15084852813176276273.jpg/170x170bb.png",
+      "genre": "Daily News",
+      "genre_id": "1526",
+      "url": "https://podcasts.apple.com/it/podcast/the-daily/id1200361736?uo=2"
+    },
+    {
+      "rank": 33,
+      "apple_id": "1692130594",
+      "name": "Materie",
+      "artist": "Radio 24",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/51/ff/99/51ff99c3-4dac-cef6-60b8-ecad57d1e642/mza_13858883201141328872.jpg/170x170bb.png",
+      "genre": "News",
+      "genre_id": "1489",
+      "url": "https://podcasts.apple.com/it/podcast/materie/id1692130594?uo=2"
+    },
+    {
+      "rank": 34,
+      "apple_id": "1896928271",
+      "name": "Distinti e Popolari",
+      "artist": "Radio 24",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/91/d3/ac/91d3ac61-67e3-0814-ccb1-fa016d2fdc0c/mza_9589451136437050650.jpg/170x170bb.png",
+      "genre": "News",
+      "genre_id": "1489",
+      "url": "https://podcasts.apple.com/it/podcast/distinti-e-popolari/id1896928271?uo=2"
+    },
+    {
+      "rank": 35,
+      "apple_id": "1869867257",
+      "name": "Complotti",
+      "artist": "Internazionale",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/68/bd/af/68bdaf43-7e5d-6380-02f0-4b24d87fb729/mza_2904333169946589679.jpg/170x170bb.png",
+      "genre": "News Commentary",
+      "genre_id": "1530",
+      "url": "https://podcasts.apple.com/it/podcast/complotti/id1869867257?uo=2"
+    },
+    {
+      "rank": 36,
+      "apple_id": "1435052305",
+      "name": "Uno, nessuno, 100Milan",
+      "artist": "Radio 24",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/57/cd/e9/57cde9d9-a2ff-2e34-5b0a-3b45439479c3/mza_5433870488131752871.jpg/170x170bb.png",
+      "genre": "News",
+      "genre_id": "1489",
+      "url": "https://podcasts.apple.com/it/podcast/uno-nessuno-100milan/id1435052305?uo=2"
+    },
+    {
+      "rank": 37,
+      "apple_id": "1547953350",
+      "name": "Altre/Storie americane",
+      "artist": "Mario Calabresi e Marco Bardazzi - Chora Media",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/3c/0a/94/3c0a9478-1f36-2a30-a1a6-ca5ae43f27fc/mza_12951445412263499256.jpg/170x170bb.png",
+      "genre": "News Commentary",
+      "genre_id": "1530",
+      "url": "https://podcasts.apple.com/it/podcast/altre-storie-americane/id1547953350?uo=2"
+    },
+    {
+      "rank": 38,
+      "apple_id": "1814548989",
+      "name": "Wilson - Le notizie, spiegate bene",
+      "artist": "Il Post - Francesco Costa",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/7b/c1/59/7bc159ab-150f-d9bd-2f8e-be8351aabb08/mza_14014151817939624896.jpg/170x170bb.png",
+      "genre": "News Commentary",
+      "genre_id": "1530",
+      "url": "https://podcasts.apple.com/it/podcast/wilson-le-notizie-spiegate-bene/id1814548989?uo=2"
+    },
+    {
+      "rank": 39,
+      "apple_id": "1752704928",
+      "name": "...and the Economy",
+      "artist": "Il Sole 24 Ore",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/48/77/74/4877744a-4661-28c2-5534-661b31b480bc/mza_7164876448582135244.jpg/170x170bb.png",
+      "genre": "News",
+      "genre_id": "1489",
+      "url": "https://podcasts.apple.com/it/podcast/and-the-economy/id1752704928?uo=2"
+    },
+    {
+      "rank": 40,
+      "apple_id": "1511917213",
+      "name": "Tg La7",
+      "artist": "la7",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/1a/43/72/1a4372cd-27c5-414b-9d1d-f69ee3a8b66f/mza_3184441380376287764.jpeg/170x170bb.png",
+      "genre": "News",
+      "genre_id": "1489",
+      "url": "https://podcasts.apple.com/it/podcast/tg-la7/id1511917213?uo=2"
+    },
+    {
+      "rank": 41,
+      "apple_id": "1479855029",
+      "name": "24 Mattino - Le interviste",
+      "artist": "Radio 24",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/19/2f/2f/192f2f0f-b589-c592-c024-08c2f623956f/mza_14862883900962342430.jpg/170x170bb.png",
+      "genre": "News",
+      "genre_id": "1489",
+      "url": "https://podcasts.apple.com/it/podcast/24-mattino-le-interviste/id1479855029?uo=2"
+    },
+    {
+      "rank": 42,
+      "apple_id": "1627015614",
+      "name": "Veleno",
+      "artist": "OnePodcast",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/62/25/25/6225259c-55a7-2ef9-e582-73f6f8ab0101/mza_13200700264679575534.jpg/170x170bb.png",
+      "genre": "News",
+      "genre_id": "1489",
+      "url": "https://podcasts.apple.com/it/podcast/veleno/id1627015614?uo=2"
+    },
+    {
+      "rank": 43,
+      "apple_id": "1848935583",
+      "name": "Garlasco -  Anatomia di un crimine",
+      "artist": "Floriana Bulfon e Piero Colaprico - Chora Media",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/10/7b/62/107b62b7-71b9-482e-6b2b-6746aa41e211/mza_15301696605369035491.jpeg/170x170bb.png",
+      "genre": "News",
+      "genre_id": "1489",
+      "url": "https://podcasts.apple.com/it/podcast/garlasco-anatomia-di-un-crimine/id1848935583?uo=2"
+    },
+    {
+      "rank": 44,
+      "apple_id": "1611374685",
+      "name": "The Rest Is Politics",
+      "artist": "Goalhanger",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d0/a7/d6/d0a7d6a3-e1d3-52ba-60fd-d788ceb7d559/mza_17193364103373697567.jpg/170x170bb.png",
+      "genre": "Politics",
+      "genre_id": "1527",
+      "url": "https://podcasts.apple.com/it/podcast/the-rest-is-politics/id1611374685?uo=2"
+    },
+    {
+      "rank": 45,
+      "apple_id": "1621290418",
+      "name": "News dal pianeta Terra",
+      "artist": "LifeGate Radio",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/8c/0b/c8/8c0bc8d4-ea78-d831-f02d-918c37debd6a/mza_4280562512259272911.jpg/170x170bb.png",
+      "genre": "Daily News",
+      "genre_id": "1526",
+      "url": "https://podcasts.apple.com/it/podcast/news-dal-pianeta-terra/id1621290418?uo=2"
+    },
+    {
+      "rank": 46,
+      "apple_id": "1881642628",
+      "name": "Epstein Files - Analisi di un sistema",
+      "artist": "OnePodcast",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c1/3e/0f/c13e0fa2-80f8-e481-401e-ce04a765b8a0/mza_5945507674302008505.jpg/170x170bb.png",
+      "genre": "News",
+      "genre_id": "1489",
+      "url": "https://podcasts.apple.com/it/podcast/epstein-files-analisi-di-un-sistema/id1881642628?uo=2"
+    },
+    {
+      "rank": 47,
+      "apple_id": "128515507",
+      "name": "Chiamate Roma Triuno Triuno",
+      "artist": "Radio Deejay",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/59/8d/63/598d63e8-e32c-be3f-415a-247cb14b1d19/mza_12255051302712381012.jpg/170x170bb.png",
+      "genre": "News",
+      "genre_id": "1489",
+      "url": "https://podcasts.apple.com/it/podcast/chiamate-roma-triuno-triuno/id128515507?uo=2"
+    },
+    {
+      "rank": 48,
+      "apple_id": "1440282187",
+      "name": "Zuppa di Porro",
+      "artist": "Nicola Porro",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/7a/94/8b/7a948be7-7ae1-15d5-006d-cf487223ea30/mza_4654340310813698853.jpg/170x170bb.png",
+      "genre": "Politics",
+      "genre_id": "1527",
+      "url": "https://podcasts.apple.com/it/podcast/zuppa-di-porro/id1440282187?uo=2"
+    },
+    {
+      "rank": 49,
+      "apple_id": "1687174172",
+      "name": "2024 - Speciale Intelligenza Artificiale",
+      "artist": "Radio 24",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/67/60/66/67606638-a7f9-07c7-9a7d-ba858e3ef20e/mza_9648463753881367486.jpg/170x170bb.png",
+      "genre": "News",
+      "genre_id": "1489",
+      "url": "https://podcasts.apple.com/it/podcast/2024-speciale-intelligenza-artificiale/id1687174172?uo=2"
+    },
+    {
+      "rank": 50,
+      "apple_id": "1584788102",
+      "name": "Matteo Caccia racconta",
+      "artist": "Radio 24",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/f0/c1/fd/f0c1fd5c-1677-ddce-5a6e-5fabd78f1858/mza_15275166588613948812.jpg/170x170bb.png",
+      "genre": "News",
+      "genre_id": "1489",
+      "url": "https://podcasts.apple.com/it/podcast/matteo-caccia-racconta/id1584788102?uo=2"
+    },
+    {
+      "rank": 51,
+      "apple_id": "1481828326",
+      "name": "ANSA Daily",
+      "artist": "ANSA",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/26/9e/bd/269ebdce-1917-68e8-9c24-4c8d33b46887/mza_5932879059375101236.jpg/170x170bb.png",
+      "genre": "Daily News",
+      "genre_id": "1526",
+      "url": "https://podcasts.apple.com/it/podcast/ansa-daily/id1481828326?uo=2"
+    },
+    {
+      "rank": 52,
+      "apple_id": "1637354322",
+      "name": "Circo Massimo - Lo spettacolo della politica",
+      "artist": "OnePodcast",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/66/e4/f5/66e4f5e6-93d3-8fca-2633-e9334bb39a93/mza_16027122196963691186.jpg/170x170bb.png",
+      "genre": "News",
+      "genre_id": "1489",
+      "url": "https://podcasts.apple.com/it/podcast/circo-massimo-lo-spettacolo-della-politica/id1637354322?uo=2"
+    },
+    {
+      "rank": 53,
+      "apple_id": "1737834340",
+      "name": "History Telling",
+      "artist": "Il Sole 24 Ore",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/37/50/a5/3750a5af-ab4d-aee7-8ff1-59a3f4b5176b/mza_10669617759008679463.jpg/170x170bb.png",
+      "genre": "News",
+      "genre_id": "1489",
+      "url": "https://podcasts.apple.com/it/podcast/history-telling/id1737834340?uo=2"
+    },
+    {
+      "rank": 54,
+      "apple_id": "1654454285",
+      "name": "Globo",
+      "artist": "Il Post",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/dd/07/10/dd071084-830f-8cf5-9115-659b9fb9e9f8/mza_15097905204019136994.jpg/170x170bb.png",
+      "genre": "News Commentary",
+      "genre_id": "1530",
+      "url": "https://podcasts.apple.com/it/podcast/globo/id1654454285?uo=2"
+    },
+    {
+      "rank": 55,
+      "apple_id": "1438449989",
+      "name": "FT News Briefing",
+      "artist": "Financial Times",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/60/fd/0c/60fd0c79-808e-cc79-e121-27527becbdc6/mza_1413179331890984538.jpeg/170x170bb.png",
+      "genre": "Daily News",
+      "genre_id": "1526",
+      "url": "https://podcasts.apple.com/it/podcast/ft-news-briefing/id1438449989?uo=2"
+    },
+    {
+      "rank": 56,
+      "apple_id": "1567020450",
+      "name": "Schiaffo al volo",
+      "artist": "Warner Bros. Discovery Podcast",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/bc/c8/4a/bcc84a92-b070-ecf8-152b-c219f685c895/mza_16819189119025304039.jpg/170x170bb.png",
+      "genre": "Sports News",
+      "genre_id": "1529",
+      "url": "https://podcasts.apple.com/it/podcast/schiaffo-al-volo/id1567020450?uo=2"
+    },
+    {
+      "rank": 57,
+      "apple_id": "1841328094",
+      "name": "In Direzione Contraria",
+      "artist": "Il Fatto quotidiano",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/b5/19/e5/b519e554-87f8-2618-c196-3d1da5dc2161/mza_2065059051783978444.jpg/170x170bb.png",
+      "genre": "Daily News",
+      "genre_id": "1526",
+      "url": "https://podcasts.apple.com/it/podcast/in-direzione-contraria/id1841328094?uo=2"
+    },
+    {
+      "rank": 58,
+      "apple_id": "1653369528",
+      "name": "Pagine",
+      "artist": "Sky TG24",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/8a/94/49/8a9449ab-4258-e492-f882-7facdc82d713/mza_16156587338617306735.jpg/170x170bb.png",
+      "genre": "Daily News",
+      "genre_id": "1526",
+      "url": "https://podcasts.apple.com/it/podcast/pagine/id1653369528?uo=2"
+    },
+    {
+      "rank": 59,
+      "apple_id": "716679011",
+      "name": "Il Volo del Mattino",
+      "artist": "Radio Deejay",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts122/v4/a9/57/bc/a957bc9d-ca95-2a7a-3461-12c6d44a2514/mza_9442465047237481576.jpg/170x170bb.png",
+      "genre": "News",
+      "genre_id": "1489",
+      "url": "https://podcasts.apple.com/it/podcast/il-volo-del-mattino/id716679011?uo=2"
+    },
+    {
+      "rank": 60,
+      "apple_id": "673995033",
+      "name": "24 Mattino - Rassegna stampa",
+      "artist": "Radio 24",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/34/eb/12/34eb126b-fa6b-84a4-30d5-61eb779356d6/mza_15831295085313829515.jpg/170x170bb.png",
+      "genre": "News",
+      "genre_id": "1489",
+      "url": "https://podcasts.apple.com/it/podcast/24-mattino-rassegna-stampa/id673995033?uo=2"
+    },
+    {
+      "rank": 61,
+      "apple_id": "1708943121",
+      "name": "Nessuno Escluso",
+      "artist": "Chiara Piotto e Pietro Forti - Will Media",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/4c/db/9a/4cdb9a55-cfd5-c08b-71ef-6947d175a9ba/mza_3639620572269120585.jpeg/170x170bb.png",
+      "genre": "Daily News",
+      "genre_id": "1526",
+      "url": "https://podcasts.apple.com/it/podcast/nessuno-escluso/id1708943121?uo=2"
+    },
+    {
+      "rank": 62,
+      "apple_id": "1836438746",
+      "name": "SCANNER",
+      "artist": "Fanpage.it",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ec/bd/4b/ecbd4b14-27e9-28bb-77f8-f7758b9b71f0/mza_16026012651203584600.jpg/170x170bb.png",
+      "genre": "Daily News",
+      "genre_id": "1526",
+      "url": "https://podcasts.apple.com/it/podcast/scanner/id1836438746?uo=2"
+    },
+    {
+      "rank": 63,
+      "apple_id": "1732121464",
+      "name": "That's America",
+      "artist": "Radio 24",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/6c/26/d0/6c26d06a-fbff-623d-0b53-af45fc4f9927/mza_1756134901959612467.jpg/170x170bb.png",
+      "genre": "News",
+      "genre_id": "1489",
+      "url": "https://podcasts.apple.com/it/podcast/thats-america/id1732121464?uo=2"
+    },
+    {
+      "rank": 64,
+      "apple_id": "1442205411",
+      "name": "Lavoro Meglio con l'AI",
+      "artist": "Leonarda Vanicelli",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/4d/f4/f2/4df4f269-5230-d78d-e288-f84b882c778b/mza_14293347059913153950.jpg/170x170bb.png",
+      "genre": "Tech News",
+      "genre_id": "1528",
+      "url": "https://podcasts.apple.com/it/podcast/lavoro-meglio-con-lai/id1442205411?uo=2"
+    },
+    {
+      "rank": 65,
+      "apple_id": "1660000454",
+      "name": "Macro",
+      "artist": "Il Sole 24 Ore",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/39/f5/ce/39f5ce5e-9faa-829d-d5bd-52abb4b69317/mza_8535959458910717164.jpg/170x170bb.png",
+      "genre": "News",
+      "genre_id": "1489",
+      "url": "https://podcasts.apple.com/it/podcast/macro/id1660000454?uo=2"
+    },
+    {
+      "rank": 66,
+      "apple_id": "501023973",
+      "name": "Mister Gadget Daily",
+      "artist": "Luca Viscardi",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/41/65/8d/41658db6-dadd-c862-6539-6b5ee24d2f1c/mza_17292427800775120920.jpg/170x170bb.png",
+      "genre": "Tech News",
+      "genre_id": "1528",
+      "url": "https://podcasts.apple.com/it/podcast/mister-gadget-daily/id501023973?uo=2"
+    },
+    {
+      "rank": 67,
+      "apple_id": "1554071963",
+      "name": "Catteland",
+      "artist": "Radio Deejay",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/38/ba/3c/38ba3cf8-102b-a1dc-0be6-c16f13c7dee7/mza_1657109513588840944.jpg/170x170bb.png",
+      "genre": "News",
+      "genre_id": "1489",
+      "url": "https://podcasts.apple.com/it/podcast/catteland/id1554071963?uo=2"
+    },
+    {
+      "rank": 68,
+      "apple_id": "1796995400",
+      "name": "Unchained",
+      "artist": "Valori.it",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/13/b8/eb/13b8ebe3-2832-453d-66d9-4a9857de63f6/mza_65027762109014146.jpg/170x170bb.png",
+      "genre": "News",
+      "genre_id": "1489",
+      "url": "https://podcasts.apple.com/it/podcast/unchained/id1796995400?uo=2"
+    },
+    {
+      "rank": 69,
+      "apple_id": "917918570",
+      "name": "Serial",
+      "artist": "Serial Productions & The New York Times",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/9a/fb/87/9afb8760-0e05-2b3e-24a2-7e14cce74570/mza_14816055607064169808.jpg/170x170bb.png",
+      "genre": "News",
+      "genre_id": "1489",
+      "url": "https://podcasts.apple.com/it/podcast/serial/id917918570?uo=2"
+    },
+    {
+      "rank": 70,
+      "apple_id": "1258097551",
+      "name": "Personal best",
+      "artist": "Radio 24",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/b5/15/fd/b515fd4a-1fc8-3209-ab60-e50fd3b17f87/mza_12972780615296720672.jpg/170x170bb.png",
+      "genre": "News",
+      "genre_id": "1489",
+      "url": "https://podcasts.apple.com/it/podcast/personal-best/id1258097551?uo=2"
+    },
+    {
+      "rank": 71,
+      "apple_id": "1582828457",
+      "name": "Lanz + Precht",
+      "artist": "ZDF, Markus Lanz & Richard David Precht",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/77/6b/e0/776be00d-6661-737d-a7dd-f5662c5fa110/mza_18360247097984895676.jpg/170x170bb.png",
+      "genre": "Politics",
+      "genre_id": "1527",
+      "url": "https://podcasts.apple.com/it/podcast/lanz-precht/id1582828457?uo=2"
+    },
+    {
+      "rank": 72,
+      "apple_id": "283303807",
+      "name": "Ciao Belli",
+      "artist": "Radio Deejay",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/14/a2/8c/14a28c45-7062-a507-c827-5daf2245944a/mza_15547383434431319892.jpg/170x170bb.png",
+      "genre": "News",
+      "genre_id": "1489",
+      "url": "https://podcasts.apple.com/it/podcast/ciao-belli/id283303807?uo=2"
+    },
+    {
+      "rank": 73,
+      "apple_id": "1663863397",
+      "name": "Bloomberg Daybreak: Europe Edition",
+      "artist": "Bloomberg",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/46/01/33/460133ff-dcb9-09f0-b681-713ede457c81/mza_6106863297893112412.jpg/170x170bb.png",
+      "genre": "Business News",
+      "genre_id": "1490",
+      "url": "https://podcasts.apple.com/it/podcast/bloomberg-daybreak-europe-edition/id1663863397?uo=2"
+    },
+    {
+      "rank": 74,
+      "apple_id": "1650534351",
+      "name": "Cripto",
+      "artist": "Il Sole 24 Ore",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ec/aa/a7/ecaaa76a-45cf-aa32-c2f2-0f22ba4abdfd/mza_1786173709815485347.jpg/170x170bb.png",
+      "genre": "News",
+      "genre_id": "1489",
+      "url": "https://podcasts.apple.com/it/podcast/cripto/id1650534351?uo=2"
+    },
+    {
+      "rank": 75,
+      "apple_id": "1895651285",
+      "name": "Interno giorno",
+      "artist": "il manifesto",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e9/e1/5c/e9e15c3c-1fe5-a71a-7d01-5a446b64214b/mza_11846919832423751432.jpg/170x170bb.png",
+      "genre": "News",
+      "genre_id": "1489",
+      "url": "https://podcasts.apple.com/it/podcast/interno-giorno/id1895651285?uo=2"
+    },
+    {
+      "rank": 76,
+      "apple_id": "146324637",
+      "name": "Radio Radicale - Stampa e regime",
+      "artist": "Radio Radicale",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/16/ad/f3/16adf31c-f4f8-dd75-efea-7feb61c60114/mza_10308621721314704863.jpg/170x170bb.png",
+      "genre": "News",
+      "genre_id": "1489",
+      "url": "https://podcasts.apple.com/it/podcast/radio-radicale-stampa-e-regime/id146324637?uo=2"
+    },
+    {
+      "rank": 77,
+      "apple_id": "1773061271",
+      "name": "La geopolitica dello spazio",
+      "artist": "Radio 24",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/a5/17/82/a51782a6-1b47-f762-fb47-b637cf652ac1/mza_16468531192858342605.jpg/170x170bb.png",
+      "genre": "News",
+      "genre_id": "1489",
+      "url": "https://podcasts.apple.com/it/podcast/la-geopolitica-dello-spazio/id1773061271?uo=2"
+    },
+    {
+      "rank": 78,
+      "apple_id": "567990910",
+      "name": "Giornale Radio",
+      "artist": "Radio Popolare",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/38/33/37/383337a2-9f29-7e94-487b-8cada568bfd6/mza_14618014736127657889.png/170x170bb.png",
+      "genre": "Daily News",
+      "genre_id": "1526",
+      "url": "https://podcasts.apple.com/it/podcast/giornale-radio/id567990910?uo=2"
+    },
+    {
+      "rank": 79,
+      "apple_id": "1722322123",
+      "name": "Claude AI",
+      "artist": "Claude AI",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/bb/6d/aa/bb6daa11-6190-d473-a2e9-a0d5ad51ce21/mza_29215563039164085.jpeg/170x170bb.png",
+      "genre": "Tech News",
+      "genre_id": "1528",
+      "url": "https://podcasts.apple.com/it/podcast/claude-ai/id1722322123?uo=2"
+    },
+    {
+      "rank": 80,
+      "apple_id": "1799215560",
+      "name": "Cinque Minuti (di rivoluzione)",
+      "artist": "Teresa Cinque - Hypercast",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/fd/31/80/fd3180c2-20bc-fd25-c8cd-ad43f4061a09/mza_14237769034916260210.jpg/170x170bb.png",
+      "genre": "Politics",
+      "genre_id": "1527",
+      "url": "https://podcasts.apple.com/it/podcast/cinque-minuti-di-rivoluzione/id1799215560?uo=2"
+    },
+    {
+      "rank": 81,
+      "apple_id": "1871515049",
+      "name": "settepiùsette",
+      "artist": "ISPI",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/83/da/44/83da44ea-c55e-0e0c-f95b-a513565d8d0e/mza_1701147442587436453.jpg/170x170bb.png",
+      "genre": "Politics",
+      "genre_id": "1527",
+      "url": "https://podcasts.apple.com/it/podcast/settepi%C3%B9sette/id1871515049?uo=2"
+    },
+    {
+      "rank": 82,
+      "apple_id": "1449631195",
+      "name": "The Intelligence from The Economist",
+      "artist": "The Economist",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/13/a6/58/13a65875-b7c7-a663-9b40-0bb42f62bf74/mza_18066604315473996895.jpeg/170x170bb.png",
+      "genre": "Daily News",
+      "genre_id": "1526",
+      "url": "https://podcasts.apple.com/it/podcast/the-intelligence-from-the-economist/id1449631195?uo=2"
+    },
+    {
+      "rank": 83,
+      "apple_id": "1852965168",
+      "name": "MOW Privé by Escort Advisor",
+      "artist": "MOW",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/45/43/d0/4543d0ef-27a9-bea5-ee45-b41030e4f3bf/mza_6726714941846831931.jpg/170x170bb.png",
+      "genre": "Entertainment News",
+      "genre_id": "1531",
+      "url": "https://podcasts.apple.com/it/podcast/mow-priv%C3%A9-by-escort-advisor/id1852965168?uo=2"
+    },
+    {
+      "rank": 84,
+      "apple_id": "1440133626",
+      "name": "Today in Focus",
+      "artist": "The Guardian",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/f1/13/71/f113715f-56e4-f542-a08c-b5890c0841bc/mza_18228009703397905678.jpg/170x170bb.png",
+      "genre": "Daily News",
+      "genre_id": "1526",
+      "url": "https://podcasts.apple.com/it/podcast/today-in-focus/id1440133626?uo=2"
+    },
+    {
+      "rank": 85,
+      "apple_id": "1735891125",
+      "name": "Appunti - Il podcast della newsletter di Stefano Feltri",
+      "artist": "Stefano Feltri",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/66/a2/9c/66a29c25-a8ae-ba95-28ae-946dd2d1909b/mza_1937252817684067910.jpg/170x170bb.png",
+      "genre": "News Commentary",
+      "genre_id": "1530",
+      "url": "https://podcasts.apple.com/it/podcast/appunti-il-podcast-della-newsletter-di-stefano-feltri/id1735891125?uo=2"
+    },
+    {
+      "rank": 86,
+      "apple_id": "1744607189",
+      "name": "Quello che i soldi non dicono",
+      "artist": "Chiara Albanese e Tommaso Ebhardt - Chora Media",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/37/59/eb/3759ebf4-75d4-1801-fd07-d8a212141f54/mza_2359190780398293032.jpeg/170x170bb.png",
+      "genre": "Business News",
+      "genre_id": "1490",
+      "url": "https://podcasts.apple.com/it/podcast/quello-che-i-soldi-non-dicono/id1744607189?uo=2"
+    },
+    {
+      "rank": 87,
+      "apple_id": "1811531541",
+      "name": "Fentanyl. La molecola del diavolo",
+      "artist": "Il Sole 24 Ore",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/3e/b8/c5/3eb8c5a0-bc67-f6af-beea-ca34ade7ca8b/mza_147774022508037840.jpg/170x170bb.png",
+      "genre": "News",
+      "genre_id": "1489",
+      "url": "https://podcasts.apple.com/it/podcast/fentanyl-la-molecola-del-diavolo/id1811531541?uo=2"
+    },
+    {
+      "rank": 88,
+      "apple_id": "1867799420",
+      "name": "Tecno",
+      "artist": "Il Sole 24 Ore",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/09/a5/cf/09a5cfdb-9de7-a0fb-25ac-f0ff627ae884/mza_4917704352843394810.jpg/170x170bb.png",
+      "genre": "News",
+      "genre_id": "1489",
+      "url": "https://podcasts.apple.com/it/podcast/tecno/id1867799420?uo=2"
+    },
+    {
+      "rank": 89,
+      "apple_id": "292651411",
+      "name": "World Business Report",
+      "artist": "BBC World Service",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/4c/59/e5/4c59e58d-3705-07ae-8202-cd6dc0c1a775/mza_14776944308557775503.jpg/170x170bb.png",
+      "genre": "Business News",
+      "genre_id": "1490",
+      "url": "https://podcasts.apple.com/it/podcast/world-business-report/id292651411?uo=2"
+    },
+    {
+      "rank": 90,
+      "apple_id": "1706061881",
+      "name": "Chiacchiericcio",
+      "artist": "Radio Deejay",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/41/c0/2a/41c02ad1-5a55-d70e-871a-743a37d3719c/mza_7842707246234774802.jpg/170x170bb.png",
+      "genre": "News",
+      "genre_id": "1489",
+      "url": "https://podcasts.apple.com/it/podcast/chiacchiericcio/id1706061881?uo=2"
+    },
+    {
+      "rank": 91,
+      "apple_id": "1896943537",
+      "name": "Ok Boomer? Accademici e GenZ a confronto",
+      "artist": "Virginia Della sala",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e6/b1/eb/e6b1ebb2-8c06-136b-977f-9ddcdf28fc40/mza_71294844493197898.jpg/170x170bb.png",
+      "genre": "Tech News",
+      "genre_id": "1528",
+      "url": "https://podcasts.apple.com/it/podcast/ok-boomer-accademici-e-genz-a-confronto/id1896943537?uo=2"
+    },
+    {
+      "rank": 92,
+      "apple_id": "1573764973",
+      "name": "Journal en français facile",
+      "artist": "Français Facile - RFI",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/81/15/23/8115239e-731b-e9eb-aeb4-bcc7bab89aae/mza_92410675554346166.jpg/170x170bb.png",
+      "genre": "News",
+      "genre_id": "1489",
+      "url": "https://podcasts.apple.com/it/podcast/journal-en-fran%C3%A7ais-facile/id1573764973?uo=2"
+    },
+    {
+      "rank": 93,
+      "apple_id": "1625662548",
+      "name": "Stati di tensione",
+      "artist": "Dario Fabbri – Chora",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/42/6b/7f/426b7f21-5951-9c83-7162-6ab5366ec6e0/mza_13127574852665666716.jpg/170x170bb.png",
+      "genre": "News",
+      "genre_id": "1489",
+      "url": "https://podcasts.apple.com/it/podcast/stati-di-tensione/id1625662548?uo=2"
+    },
+    {
+      "rank": 94,
+      "apple_id": "1668063365",
+      "name": "Daily Five - Emilio Mola",
+      "artist": "CNC Media",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/04/76/7f/04767f11-483c-4144-c018-4fe7dd32a555/mza_5644614436988997389.jpg/170x170bb.png",
+      "genre": "Daily News",
+      "genre_id": "1526",
+      "url": "https://podcasts.apple.com/it/podcast/daily-five-emilio-mola/id1668063365?uo=2"
+    },
+    {
+      "rank": 95,
+      "apple_id": "1140047128",
+      "name": "Pinocchio",
+      "artist": "Radio Deejay",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/13/49/06/13490658-dff0-7934-92b3-e441c1c5701a/mza_482576154459753464.jpg/170x170bb.png",
+      "genre": "News",
+      "genre_id": "1489",
+      "url": "https://podcasts.apple.com/it/podcast/pinocchio/id1140047128?uo=2"
+    },
+    {
+      "rank": 96,
+      "apple_id": "1640878689",
+      "name": "The News Agents",
+      "artist": "Global",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/40/86/8d/40868d10-4f7c-a931-e314-0e31be83667b/mza_15291423343249011134.jpg/170x170bb.png",
+      "genre": "Daily News",
+      "genre_id": "1526",
+      "url": "https://podcasts.apple.com/it/podcast/the-news-agents/id1640878689?uo=2"
+    },
+    {
+      "rank": 97,
+      "apple_id": "296237493",
+      "name": "Bloomberg Surveillance",
+      "artist": "Bloomberg",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/02/c5/36/02c5367b-22cc-2555-ff0c-d8a7981014ea/mza_17425960332446088310.jpg/170x170bb.png",
+      "genre": "Business News",
+      "genre_id": "1490",
+      "url": "https://podcasts.apple.com/it/podcast/bloomberg-surveillance/id296237493?uo=2"
+    },
+    {
+      "rank": 98,
+      "apple_id": "1642362071",
+      "name": "TG Luna",
+      "artist": "storielibere.fm",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ec/79/b3/ec79b383-0f02-2b56-dc8a-06a88b8d62b1/mza_18426640867937308920.jpg/170x170bb.png",
+      "genre": "Politics",
+      "genre_id": "1527",
+      "url": "https://podcasts.apple.com/it/podcast/tg-luna/id1642362071?uo=2"
+    },
+    {
+      "rank": 99,
+      "apple_id": "1376446768",
+      "name": "Hoy en EL PAÍS",
+      "artist": "EL PAÍS",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ce/e3/99/cee3998c-178a-028a-7dd5-d3fca27d5f5c/mza_2201723858563039711.jpg/170x170bb.png",
+      "genre": "Daily News",
+      "genre_id": "1526",
+      "url": "https://podcasts.apple.com/it/podcast/hoy-en-el-pa%C3%ADs/id1376446768?uo=2"
+    },
+    {
+      "rank": 100,
+      "apple_id": "1689061939",
+      "name": "Breaking News Italia - Ultime Notizie",
+      "artist": "Breaking News",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/4b/a1/0d/4ba10dfb-3cf7-1ced-5e0e-da34be2008e9/mza_5313458267897104538.jpg/170x170bb.png",
+      "genre": "Daily News",
+      "genre_id": "1526",
+      "url": "https://podcasts.apple.com/it/podcast/breaking-news-italia-ultime-notizie/id1689061939?uo=2"
+    },
+    {
+      "rank": 101,
+      "apple_id": "1895714059",
+      "name": "Marco. Sai chi era Pannella?",
+      "artist": "Il Sole 24 Ore",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/24/f6/f1/24f6f1a3-8bfd-28d5-a7f8-04668900c4de/mza_4162638709655403171.jpg/170x170bb.png",
+      "genre": "News",
+      "genre_id": "1489",
+      "url": "https://podcasts.apple.com/it/podcast/marco-sai-chi-era-pannella/id1895714059?uo=2"
+    },
+    {
+      "rank": 102,
+      "apple_id": "1758855019",
+      "name": "The Headlines",
+      "artist": "The New York Times",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/fc/8a/52/fc8a527d-8979-adf2-977b-06304a816969/mza_684749869280596722.jpg/170x170bb.png",
+      "genre": "Daily News",
+      "genre_id": "1526",
+      "url": "https://podcasts.apple.com/it/podcast/the-headlines/id1758855019?uo=2"
+    },
+    {
+      "rank": 103,
+      "apple_id": "1572264828",
+      "name": "EL MUNDO al día",
+      "artist": "El Mundo - Javier Attard",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/04/74/73/0474731d-535f-2a3b-5b6c-e4672712dd61/mza_12510443219952103263.jpg/170x170bb.png",
+      "genre": "Daily News",
+      "genre_id": "1526",
+      "url": "https://podcasts.apple.com/it/podcast/el-mundo-al-d%C3%ADa/id1572264828?uo=2"
+    },
+    {
+      "rank": 104,
+      "apple_id": "1665736539",
+      "name": "Chi è Matteo Messina Denaro",
+      "artist": "Mario Calabresi - Chora",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/5c/d3/0c/5cd30c82-a43a-e454-c42c-a3ae20628b3f/mza_18422905832467127986.jpg/170x170bb.png",
+      "genre": "News",
+      "genre_id": "1489",
+      "url": "https://podcasts.apple.com/it/podcast/chi-%C3%A8-matteo-messina-denaro/id1665736539?uo=2"
+    },
+    {
+      "rank": 105,
+      "apple_id": "1192761536",
+      "name": "Pod Save America",
+      "artist": "Pod Save America",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/44/dc/61/44dc6141-25e9-5bb3-e19e-a2337233d19e/mza_5506771870755587769.jpg/170x170bb.png",
+      "genre": "Politics",
+      "genre_id": "1527",
+      "url": "https://podcasts.apple.com/it/podcast/pod-save-america/id1192761536?uo=2"
+    },
+    {
+      "rank": 106,
+      "apple_id": "1278866964",
+      "name": "Due di denari",
+      "artist": "Radio 24",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/2f/16/29/2f16290e-f7c1-5d49-fa50-3627eaff81d5/mza_12083195395713519323.jpg/170x170bb.png",
+      "genre": "News",
+      "genre_id": "1489",
+      "url": "https://podcasts.apple.com/it/podcast/due-di-denari/id1278866964?uo=2"
+    },
+    {
+      "rank": 107,
+      "apple_id": "1648096075",
+      "name": "Leoni per Agnelli",
+      "artist": "Radio 24",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/f7/a3/3a/f7a33aef-ab95-d78a-9f72-d293968e522b/mza_6819349683247322350.jpg/170x170bb.png",
+      "genre": "News",
+      "genre_id": "1489",
+      "url": "https://podcasts.apple.com/it/podcast/leoni-per-agnelli/id1648096075?uo=2"
+    },
+    {
+      "rank": 108,
+      "apple_id": "1521428014",
+      "name": "In Onda",
+      "artist": "la7",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts124/v4/7a/bc/f6/7abcf681-5fda-a9fd-bae8-3f8c821d53b5/mza_17821877679690463152.jpg/170x170bb.png",
+      "genre": "News",
+      "genre_id": "1489",
+      "url": "https://podcasts.apple.com/it/podcast/in-onda/id1521428014?uo=2"
+    },
+    {
+      "rank": 109,
+      "apple_id": "151230264",
+      "name": "Economist Podcasts",
+      "artist": "The Economist",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/92/68/ba/9268bae8-1bd5-2a15-7f1b-7e265d4773bd/mza_10204374987848109193.png/170x170bb.png",
+      "genre": "News",
+      "genre_id": "1489",
+      "url": "https://podcasts.apple.com/it/podcast/economist-podcasts/id151230264?uo=2"
+    },
+    {
+      "rank": 110,
+      "apple_id": "1570119588",
+      "name": "Radio Radio",
+      "artist": "Radio Radio",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/PodcastSource115/v4/e9/a4/b4/e9a4b4b5-d23a-813c-1fce-0100dbd57fff/6b5f3f1a-f3a0-4eaa-8200-f4d8df756a36.jpg/170x170bb.png",
+      "genre": "News",
+      "genre_id": "1489",
+      "url": "https://podcasts.apple.com/it/podcast/radio-radio/id1570119588?uo=2"
+    },
+    {
+      "rank": 111,
+      "apple_id": "1658096986",
+      "name": "Linea mercati",
+      "artist": "Class Editori",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ee/e8/54/eee85446-6dab-b0a6-21f4-3cf570abad86/mza_6052059167874579096.jpeg/170x170bb.png",
+      "genre": "Business News",
+      "genre_id": "1490",
+      "url": "https://podcasts.apple.com/it/podcast/linea-mercati/id1658096986?uo=2"
+    },
+    {
+      "rank": 112,
+      "apple_id": "1748999009",
+      "name": "Sentenze",
+      "artist": "Pagella Politica",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/40/62/84/4062846f-ef9f-d73a-93a7-d80c36e1ed1f/mza_14667400390785261938.jpg/170x170bb.png",
+      "genre": "Politics",
+      "genre_id": "1527",
+      "url": "https://podcasts.apple.com/it/podcast/sentenze/id1748999009?uo=2"
+    },
+    {
+      "rank": 113,
+      "apple_id": "1743030473",
+      "name": "The Rest Is Politics: US",
+      "artist": "Goalhanger",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/3a/f4/51/3af451dd-f500-9c3e-8834-839d86076411/mza_11954146268283790758.jpg/170x170bb.png",
+      "genre": "Politics",
+      "genre_id": "1527",
+      "url": "https://podcasts.apple.com/it/podcast/the-rest-is-politics-us/id1743030473?uo=2"
+    },
+    {
+      "rank": 114,
+      "apple_id": "1896857456",
+      "name": "150.0 - Corriere Startup",
+      "artist": "Corriere della Sera",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/29/e6/0d/29e60d01-636e-ef58-08f5-856522229cbe/mza_3197780140791733158.jpg/170x170bb.png",
+      "genre": "News",
+      "genre_id": "1489",
+      "url": "https://podcasts.apple.com/it/podcast/150-0-corriere-startup/id1896857456?uo=2"
+    },
+    {
+      "rank": 115,
+      "apple_id": "1572272144",
+      "name": "Limoni",
+      "artist": "Internazionale",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/82/c0/42/82c042b8-0387-b56c-2c53-0231b3410f1b/mza_4094953581913300327.jpg/170x170bb.png",
+      "genre": "News",
+      "genre_id": "1489",
+      "url": "https://podcasts.apple.com/it/podcast/limoni/id1572272144?uo=2"
+    },
+    {
+      "rank": 116,
+      "apple_id": "1494307824",
+      "name": "Wall Street Week",
+      "artist": "Bloomberg",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/0d/52/2e/0d522e7d-f2b4-d552-cd73-1c0272253338/mza_8159196162084354196.jpg/170x170bb.png",
+      "genre": "Business News",
+      "genre_id": "1490",
+      "url": "https://podcasts.apple.com/it/podcast/wall-street-week/id1494307824?uo=2"
+    },
+    {
+      "rank": 117,
+      "apple_id": "1382202541",
+      "name": "100 secondi con Enrico Mentana",
+      "artist": "RDS 100% Grandi Successi",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/b6/c0/7a/b6c07ab6-506a-e1a7-cf4c-74e33fadd021/mza_17209211959441427966.jpg/170x170bb.png",
+      "genre": "News Commentary",
+      "genre_id": "1530",
+      "url": "https://podcasts.apple.com/it/podcast/100-secondi-con-enrico-mentana/id1382202541?uo=2"
+    },
+    {
+      "rank": 118,
+      "apple_id": "1785212380",
+      "name": "Orazio",
+      "artist": "Il Post - Matteo Caccia",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/0c/81/46/0c814696-fc3b-202c-7c4c-5f742a06755e/mza_12534484374114047314.jpg/170x170bb.png",
+      "genre": "Entertainment News",
+      "genre_id": "1531",
+      "url": "https://podcasts.apple.com/it/podcast/orazio/id1785212380?uo=2"
+    },
+    {
+      "rank": 119,
+      "apple_id": "1895650937",
+      "name": "Esterno notte",
+      "artist": "il manifesto",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/b1/dd/d7/b1ddd771-13f5-38aa-8b3f-d5af1d7618c6/mza_4458964601943616867.jpg/170x170bb.png",
+      "genre": "News",
+      "genre_id": "1489",
+      "url": "https://podcasts.apple.com/it/podcast/esterno-notte/id1895650937?uo=2"
+    },
+    {
+      "rank": 120,
+      "apple_id": "1584377893",
+      "name": "Morning",
+      "artist": "Francesco Costa - Il Post",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/2c/96/7e/2c967e42-d58c-5afd-3db5-bf2727fff3b1/mza_10797693998728712882.jpg/170x170bb.png",
+      "genre": "Daily News",
+      "genre_id": "1526",
+      "url": "https://podcasts.apple.com/it/podcast/morning/id1584377893?uo=2"
+    },
+    {
+      "rank": 121,
+      "apple_id": "1780533056",
+      "name": "Cherosene",
+      "artist": "Radio 24",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/51/df/93/51df93de-1f4a-deb6-f153-f655ed8e8e71/mza_11849786465228166876.jpg/170x170bb.png",
+      "genre": "News",
+      "genre_id": "1489",
+      "url": "https://podcasts.apple.com/it/podcast/cherosene/id1780533056?uo=2"
+    },
+    {
+      "rank": 122,
+      "apple_id": "1889111267",
+      "name": "Milano l’Avana solo andata",
+      "artist": "Il Sole 24 Ore",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ee/c8/9c/eec89c10-08c3-9b2e-9ff9-74fd992b1cd4/mza_8615726381194399389.jpg/170x170bb.png",
+      "genre": "News",
+      "genre_id": "1489",
+      "url": "https://podcasts.apple.com/it/podcast/milano-lavana-solo-andata/id1889111267?uo=2"
+    },
+    {
+      "rank": 123,
+      "apple_id": "1438024613",
+      "name": "Interesting Times with Ross Douthat",
+      "artist": "New York Times Opinion",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/8c/58/6b/8c586bf2-a6cb-b585-fec9-ab95039c49b3/mza_7541535115834092105.jpg/170x170bb.png",
+      "genre": "News",
+      "genre_id": "1489",
+      "url": "https://podcasts.apple.com/it/podcast/interesting-times-with-ross-douthat/id1438024613?uo=2"
+    },
+    {
+      "rank": 124,
+      "apple_id": "1279335230",
+      "name": "Was jetzt?",
+      "artist": "DIE ZEIT",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/4f/4c/15/4f4c153d-b67a-4382-de92-07b5833d5f62/mza_9588800763383016553.jpg/170x170bb.png",
+      "genre": "News",
+      "genre_id": "1489",
+      "url": "https://podcasts.apple.com/it/podcast/was-jetzt/id1279335230?uo=2"
+    },
+    {
+      "rank": 125,
+      "apple_id": "1793073080",
+      "name": "Squali",
+      "artist": "Il Sole 24 Ore",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/7d/49/5a/7d495a0c-4fa1-6d9a-5140-43f6e6000aaf/mza_2512949326368177480.jpg/170x170bb.png",
+      "genre": "News",
+      "genre_id": "1489",
+      "url": "https://podcasts.apple.com/it/podcast/squali/id1793073080?uo=2"
+    },
+    {
+      "rank": 126,
+      "apple_id": "356157099",
+      "name": "Newshour",
+      "artist": "BBC World Service",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/60/6d/79/606d7992-2e59-3374-579f-83d3010f25bd/mza_15128963149149619329.jpg/170x170bb.png",
+      "genre": "Daily News",
+      "genre_id": "1526",
+      "url": "https://podcasts.apple.com/it/podcast/newshour/id356157099?uo=2"
+    },
+    {
+      "rank": 127,
+      "apple_id": "1896787557",
+      "name": "A casa loro",
+      "artist": "Chiara Vitali - Avvenire",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/4d/a0/d3/4da0d329-2115-df35-a1bd-5db14856d55c/mza_820917594333845360.jpg/170x170bb.png",
+      "genre": "News Commentary",
+      "genre_id": "1530",
+      "url": "https://podcasts.apple.com/it/podcast/a-casa-loro/id1896787557?uo=2"
+    },
+    {
+      "rank": 128,
+      "apple_id": "1813421985",
+      "name": "Un vocale lungo",
+      "artist": "Il Post - Chiara Valerio",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/86/eb/a2/86eba285-8080-3e0d-7382-2b7bba1d44e5/mza_13789915847974242988.jpg/170x170bb.png",
+      "genre": "Entertainment News",
+      "genre_id": "1531",
+      "url": "https://podcasts.apple.com/it/podcast/un-vocale-lungo/id1813421985?uo=2"
+    },
+    {
+      "rank": 129,
+      "apple_id": "1896918330",
+      "name": "Tocqueville Road Trip from The Economist",
+      "artist": "The Economist",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/03/d6/9d/03d69d72-d072-0ccb-a309-2a878f47d8b8/mza_2643074564668278483.jpeg/170x170bb.png",
+      "genre": "Politics",
+      "genre_id": "1527",
+      "url": "https://podcasts.apple.com/it/podcast/tocqueville-road-trip-from-the-economist/id1896918330?uo=2"
+    },
+    {
+      "rank": 130,
+      "apple_id": "1244862657",
+      "name": "Brussels Playbook Podcast",
+      "artist": "POLITICO",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/69/8b/63/698b63c2-8a8a-6424-40dd-8a4f0de1558b/mza_3656712515366282309.jpg/170x170bb.png",
+      "genre": "Politics",
+      "genre_id": "1527",
+      "url": "https://podcasts.apple.com/it/podcast/brussels-playbook-podcast/id1244862657?uo=2"
+    },
+    {
+      "rank": 131,
+      "apple_id": "152016440",
+      "name": "WSJ What’s News",
+      "artist": "The Wall Street Journal",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/65/7d/a7/657da78c-5043-57ae-bd81-fb5352479baa/mza_999814641005091524.jpg/170x170bb.png",
+      "genre": "Daily News",
+      "genre_id": "1526",
+      "url": "https://podcasts.apple.com/it/podcast/wsj-whats-news/id152016440?uo=2"
+    },
+    {
+      "rank": 132,
+      "apple_id": "1604165543",
+      "name": "Politics",
+      "artist": "Il Post",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/95/36/97/95369779-080b-431b-fcca-9f519652388c/mza_2139864610299932603.jpg/170x170bb.png",
+      "genre": "Politics",
+      "genre_id": "1527",
+      "url": "https://podcasts.apple.com/it/podcast/politics/id1604165543?uo=2"
+    },
+    {
+      "rank": 133,
+      "apple_id": "672288149",
+      "name": "Il cacciatore di libri",
+      "artist": "Radio 24",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/64/0c/06/640c0697-dd63-54ed-92ac-bc63cd319ece/mza_3095626317943718389.jpg/170x170bb.png",
+      "genre": "News",
+      "genre_id": "1489",
+      "url": "https://podcasts.apple.com/it/podcast/il-cacciatore-di-libri/id672288149?uo=2"
+    },
+    {
+      "rank": 134,
+      "apple_id": "1790160352",
+      "name": "Radio Up&Down",
+      "artist": "Radio 24",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/98/a3/ba/98a3bac9-aba3-3877-50ef-edfff7b7fccd/mza_15044578641619240146.jpg/170x170bb.png",
+      "genre": "News",
+      "genre_id": "1489",
+      "url": "https://podcasts.apple.com/it/podcast/radio-up-down/id1790160352?uo=2"
+    },
+    {
+      "rank": 135,
+      "apple_id": "1885150614",
+      "name": "DigitMondo",
+      "artist": "Francesco Marino",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/24/0b/d9/240bd927-20c4-04db-4761-59b268304e25/mza_2963016945300752966.jpg/170x170bb.png",
+      "genre": "Tech News",
+      "genre_id": "1528",
+      "url": "https://podcasts.apple.com/it/podcast/digitmondo/id1885150614?uo=2"
+    },
+    {
+      "rank": 136,
+      "apple_id": "121493675",
+      "name": "NPR News Now",
+      "artist": "NPR",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/27/a0/ab/27a0abb7-817f-d80c-4fed-6fd04d424333/mza_16804553558295235422.jpg/170x170bb.png",
+      "genre": "Daily News",
+      "genre_id": "1526",
+      "url": "https://podcasts.apple.com/it/podcast/npr-news-now/id121493675?uo=2"
+    },
+    {
+      "rank": 137,
+      "apple_id": "1565122751",
+      "name": "ANSA EconoMIA",
+      "artist": "ANSA",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/54/2d/f3/542df35d-610f-a690-63da-1c50a56c2487/mza_9200722808876977712.jpg/170x170bb.png",
+      "genre": "Business News",
+      "genre_id": "1490",
+      "url": "https://podcasts.apple.com/it/podcast/ansa-economia/id1565122751?uo=2"
+    },
+    {
+      "rank": 138,
+      "apple_id": "1805598177",
+      "name": "Sindrome americana",
+      "artist": "il manifesto",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/2b/72/f7/2b72f7ec-01cc-1c4c-4313-a8cf35ff14ae/mza_9147181508545453934.jpg/170x170bb.png",
+      "genre": "News",
+      "genre_id": "1489",
+      "url": "https://podcasts.apple.com/it/podcast/sindrome-americana/id1805598177?uo=2"
+    },
+    {
+      "rank": 139,
+      "apple_id": "1460665200",
+      "name": "Breaking Italy Night",
+      "artist": "Breaking Italy",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/12/cc/0f/12cc0ff6-aa6c-aa49-8eda-f8bf9757444c/mza_13578112762763216485.jpg/170x170bb.png",
+      "genre": "Politics",
+      "genre_id": "1527",
+      "url": "https://podcasts.apple.com/it/podcast/breaking-italy-night/id1460665200?uo=2"
+    },
+    {
+      "rank": 140,
+      "apple_id": "1665265193",
+      "name": "The Rest Is Politics: Leading",
+      "artist": "Goalhanger",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/39/fb/9f/39fb9f6d-a443-5667-38f8-9baa8a6bdcd4/mza_13045446392846167658.jpg/170x170bb.png",
+      "genre": "Politics",
+      "genre_id": "1527",
+      "url": "https://podcasts.apple.com/it/podcast/the-rest-is-politics-leading/id1665265193?uo=2"
+    },
+    {
+      "rank": 141,
+      "apple_id": "1469394914",
+      "name": "The Journal.",
+      "artist": "The Wall Street Journal & Spotify Studios",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/91/0e/ca/910eca32-75a3-48b6-9be7-f45799ef5f2f/mza_9869666721903280546.jpg/170x170bb.png",
+      "genre": "Daily News",
+      "genre_id": "1526",
+      "url": "https://podcasts.apple.com/it/podcast/the-journal/id1469394914?uo=2"
+    },
+    {
+      "rank": 142,
+      "apple_id": "1460600818",
+      "name": "The Charlie Kirk Show",
+      "artist": "Charlie Kirk",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a4/ec/27/a4ec2744-0819-caea-f34a-98a9384b53a8/mza_198406029451208643.jpg/170x170bb.png",
+      "genre": "News Commentary",
+      "genre_id": "1530",
+      "url": "https://podcasts.apple.com/it/podcast/the-charlie-kirk-show/id1460600818?uo=2"
+    },
+    {
+      "rank": 143,
+      "apple_id": "1603820936",
+      "name": "The State of It",
+      "artist": "The Times",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/21/5f/77/215f776b-dc31-af80-d264-21c399b50288/mza_12997460500251695992.jpeg/170x170bb.png",
+      "genre": "Politics",
+      "genre_id": "1527",
+      "url": "https://podcasts.apple.com/it/podcast/the-state-of-it/id1603820936?uo=2"
+    },
+    {
+      "rank": 144,
+      "apple_id": "377785090",
+      "name": "Fareed Zakaria GPS",
+      "artist": "CNN Podcasts",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/7b/6d/ec/7b6deca2-e1ef-bd33-6f8b-f9af9fbfe439/mza_3617658654711387260.jpeg/170x170bb.png",
+      "genre": "News",
+      "genre_id": "1489",
+      "url": "https://podcasts.apple.com/it/podcast/fareed-zakaria-gps/id377785090?uo=2"
+    },
+    {
+      "rank": 145,
+      "apple_id": "1561599754",
+      "name": "La Primera de Expansión",
+      "artist": "Expansión",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ca/8d/59/ca8d59ea-a08e-183e-b59f-577aaabe22b9/mza_18425473120842533560.jpg/170x170bb.png",
+      "genre": "Daily News",
+      "genre_id": "1526",
+      "url": "https://podcasts.apple.com/it/podcast/la-primera-de-expansi%C3%B3n/id1561599754?uo=2"
+    },
+    {
+      "rank": 146,
+      "apple_id": "1740653557",
+      "name": "WAR - We Are the Robots",
+      "artist": "Centro studi sulla Cina contemporanea",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/14/77/04/147704be-5448-c665-ea06-ba2e444a0889/mza_683747416821120277.jpg/170x170bb.png",
+      "genre": "Politics",
+      "genre_id": "1527",
+      "url": "https://podcasts.apple.com/it/podcast/war-we-are-the-robots/id1740653557?uo=2"
+    },
+    {
+      "rank": 147,
+      "apple_id": "1870865087",
+      "name": "The State of It: USA",
+      "artist": "The Times",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/5b/2c/9a/5b2c9a48-6e2b-b927-8f09-2aef48317cbb/mza_17277997927541325626.jpeg/170x170bb.png",
+      "genre": "Politics",
+      "genre_id": "1527",
+      "url": "https://podcasts.apple.com/it/podcast/the-state-of-it-usa/id1870865087?uo=2"
+    },
+    {
+      "rank": 148,
+      "apple_id": "1565940244",
+      "name": "La variante Parenzo",
+      "artist": "Radio 24",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/87/1c/77/871c77f6-bbcf-bee6-11e6-e38adc278fef/mza_1299838300008656446.jpg/170x170bb.png",
+      "genre": "News",
+      "genre_id": "1489",
+      "url": "https://podcasts.apple.com/it/podcast/la-variante-parenzo/id1565940244?uo=2"
+    },
+    {
+      "rank": 149,
+      "apple_id": "719431987",
+      "name": "Effetto notte",
+      "artist": "Radio 24",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/e0/c1/67/e0c167d4-d6e1-bb7e-a5d6-e40b3d615259/mza_14983806995780626621.jpg/170x170bb.png",
+      "genre": "News",
+      "genre_id": "1489",
+      "url": "https://podcasts.apple.com/it/podcast/effetto-notte/id719431987?uo=2"
+    },
+    {
+      "rank": 150,
+      "apple_id": "1346207297",
+      "name": "Today, Explained",
+      "artist": "Vox",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/57/bc/e4/57bce477-b6e7-ba7d-5bca-6289f3f32e26/mza_17986217629149107841.jpeg/170x170bb.png",
+      "genre": "Daily News",
+      "genre_id": "1526",
+      "url": "https://podcasts.apple.com/it/podcast/today-explained/id1346207297?uo=2"
+    },
+    {
+      "rank": 151,
+      "apple_id": "1072894402",
+      "name": "IO&TEch",
+      "artist": "Jacopo Reale",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ee/e5/1b/eee51be0-46ca-b658-af0a-42b1cafdcde8/mza_14573725008040216451.jpg/170x170bb.png",
+      "genre": "Tech News",
+      "genre_id": "1528",
+      "url": "https://podcasts.apple.com/it/podcast/io-tech/id1072894402?uo=2"
+    },
+    {
+      "rank": 152,
+      "apple_id": "1790428640",
+      "name": "Elon. Uno, nessuno, cento Musk",
+      "artist": "Il Sole 24 Ore",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/43/69/9e/43699e74-4230-9697-f679-e5dc889a67c6/mza_5964866116450575565.jpg/170x170bb.png",
+      "genre": "News",
+      "genre_id": "1489",
+      "url": "https://podcasts.apple.com/it/podcast/elon-uno-nessuno-cento-musk/id1790428640?uo=2"
+    },
+    {
+      "rank": 153,
+      "apple_id": "1711630576",
+      "name": "GeopolitiX",
+      "artist": "Geopop",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/a6/43/37/a643373c-c218-8ded-1659-ec1e90bd5e4d/mza_13523176785013828161.jpeg/170x170bb.png",
+      "genre": "Politics",
+      "genre_id": "1527",
+      "url": "https://podcasts.apple.com/it/podcast/geopolitix/id1711630576?uo=2"
+    },
+    {
+      "rank": 154,
+      "apple_id": "1762898126",
+      "name": "The Opinions",
+      "artist": "The New York Times Opinion",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/2d/af/bf/2dafbf10-c118-d531-b43b-5c0e97878e29/mza_12716482502454917697.jpg/170x170bb.png",
+      "genre": "News",
+      "genre_id": "1489",
+      "url": "https://podcasts.apple.com/it/podcast/the-opinions/id1762898126?uo=2"
+    },
+    {
+      "rank": 155,
+      "apple_id": "1814856494",
+      "name": "Disordine",
+      "artist": "Il Sole 24 Ore",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/6d/88/40/6d884016-67fc-a912-18cc-86dc3d630d58/mza_8762220282545664072.jpg/170x170bb.png",
+      "genre": "News",
+      "genre_id": "1489",
+      "url": "https://podcasts.apple.com/it/podcast/disordine/id1814856494?uo=2"
+    },
+    {
+      "rank": 156,
+      "apple_id": "593535863",
+      "name": "Global Dispatches -- World News That Matters",
+      "artist": "Global Dispatches",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/7f/ac/b6/7facb67d-7385-5aa7-94f2-6e9da931ad1b/mza_17215320525054465166.jpg/170x170bb.png",
+      "genre": "Politics",
+      "genre_id": "1527",
+      "url": "https://podcasts.apple.com/it/podcast/global-dispatches-world-news-that-matters/id593535863?uo=2"
+    },
+    {
+      "rank": 157,
+      "apple_id": "495637934",
+      "name": "Smart City",
+      "artist": "Radio 24",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/0e/bf/af/0ebfafae-820d-e1ba-527d-58c5904739dc/mza_16800907711278554549.jpg/170x170bb.png",
+      "genre": "News",
+      "genre_id": "1489",
+      "url": "https://podcasts.apple.com/it/podcast/smart-city/id495637934?uo=2"
+    },
+    {
+      "rank": 158,
+      "apple_id": "1222114325",
+      "name": "Up First from NPR",
+      "artist": "NPR",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/0e/35/25/0e352569-e694-81d9-ea55-5f935981c15a/mza_1788275989855583986.png/170x170bb.png",
+      "genre": "Daily News",
+      "genre_id": "1526",
+      "url": "https://podcasts.apple.com/it/podcast/up-first-from-npr/id1222114325?uo=2"
+    },
+    {
+      "rank": 159,
+      "apple_id": "1700432142",
+      "name": "RONZHEIMER.",
+      "artist": "Paul Ronzheimer",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/16/ab/81/16ab81cb-e31f-5ea0-81a7-902a96dfd750/mza_17924075471806194431.jpg/170x170bb.png",
+      "genre": "Politics",
+      "genre_id": "1527",
+      "url": "https://podcasts.apple.com/it/podcast/ronzheimer/id1700432142?uo=2"
+    },
+    {
+      "rank": 160,
+      "apple_id": "1073226719",
+      "name": "Pivot",
+      "artist": "New York Magazine",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/13/22/39/1322397a-976e-3c8f-7764-91cc38d0dd70/mza_12130189257448841692.jpeg/170x170bb.png",
+      "genre": "News Commentary",
+      "genre_id": "1530",
+      "url": "https://podcasts.apple.com/it/podcast/pivot/id1073226719?uo=2"
+    },
+    {
+      "rank": 161,
+      "apple_id": "1877092033",
+      "name": "Sky Cube - Cosa c'è da sapere",
+      "artist": "Sky TG24",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/f6/5a/36/f65a36e3-88b8-1f54-ee67-1962f01dc4ee/mza_12527008199817481335.jpg/170x170bb.png",
+      "genre": "Daily News",
+      "genre_id": "1526",
+      "url": "https://podcasts.apple.com/it/podcast/sky-cube-cosa-c%C3%A8-da-sapere/id1877092033?uo=2"
+    },
+    {
+      "rank": 162,
+      "apple_id": "1553782534",
+      "name": "RISTRETTO ITALIANO",
+      "artist": "Ruggero Po",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/34/0b/09/340b09bb-523f-e46d-66ef-5da591710382/mza_5454598011154059541.jpg/170x170bb.png",
+      "genre": "News",
+      "genre_id": "1489",
+      "url": "https://podcasts.apple.com/it/podcast/ristretto-italiano/id1553782534?uo=2"
+    },
+    {
+      "rank": 163,
+      "apple_id": "1767384427",
+      "name": "Presto Presto - Giornali e commenti",
+      "artist": "Radio Popolare",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/11/10/30/111030e4-25f1-678f-7761-9125358de3f2/mza_1626954301688861912.jpg/170x170bb.png",
+      "genre": "News",
+      "genre_id": "1489",
+      "url": "https://podcasts.apple.com/it/podcast/presto-presto-giornali-e-commenti/id1767384427?uo=2"
+    },
+    {
+      "rank": 164,
+      "apple_id": "1844850740",
+      "name": "Quel che resta del giorno",
+      "artist": "Linkiesta",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ca/9e/d0/ca9ed0f5-36e0-825d-d3a2-bf80d0ec2135/mza_7674158462283065511.jpg/170x170bb.png",
+      "genre": "News",
+      "genre_id": "1489",
+      "url": "https://podcasts.apple.com/it/podcast/quel-che-resta-del-giorno/id1844850740?uo=2"
+    },
+    {
+      "rank": 165,
+      "apple_id": "719431928",
+      "name": "Effetto giorno",
+      "artist": "Radio 24",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/22/f1/35/22f135fe-9988-9a29-bb4c-10b02c900d0b/mza_4397297653383653699.jpg/170x170bb.png",
+      "genre": "News",
+      "genre_id": "1489",
+      "url": "https://podcasts.apple.com/it/podcast/effetto-giorno/id719431928?uo=2"
+    },
+    {
+      "rank": 166,
+      "apple_id": "1592729231",
+      "name": "Prima Pagina",
+      "artist": "Il Messaggero",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/62/57/4b/62574b21-123b-557e-5427-5639430f07f8/mza_12386972946947294544.jpg/170x170bb.png",
+      "genre": "Daily News",
+      "genre_id": "1526",
+      "url": "https://podcasts.apple.com/it/podcast/prima-pagina/id1592729231?uo=2"
+    },
+    {
+      "rank": 167,
+      "apple_id": "1333058978",
+      "name": "Effetto Mondo",
+      "artist": "Radio 24",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/15/d3/e1/15d3e101-9bca-c6f5-9dfa-f70f3a6b0d75/mza_7095887327947307079.jpg/170x170bb.png",
+      "genre": "News",
+      "genre_id": "1489",
+      "url": "https://podcasts.apple.com/it/podcast/effetto-mondo/id1333058978?uo=2"
+    },
+    {
+      "rank": 168,
+      "apple_id": "1042628703",
+      "name": "Il demone del tardi",
+      "artist": "Radio Popolare",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/4b/ac/51/4bac510c-20f5-f685-b954-4d0467d07811/mza_5738120231609580371.png/170x170bb.png",
+      "genre": "News",
+      "genre_id": "1489",
+      "url": "https://podcasts.apple.com/it/podcast/il-demone-del-tardi/id1042628703?uo=2"
+    },
+    {
+      "rank": 169,
+      "apple_id": "268213039",
+      "name": "The Political Scene | The New Yorker",
+      "artist": "The New Yorker",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/dc/e6/83/dce6837d-bb84-ab24-417b-776523ac6456/mza_4556673873494746368.jpeg/170x170bb.png",
+      "genre": "Politics",
+      "genre_id": "1527",
+      "url": "https://podcasts.apple.com/it/podcast/the-political-scene-the-new-yorker/id268213039?uo=2"
+    },
+    {
+      "rank": 170,
+      "apple_id": "1498123517",
+      "name": "GPOne.com Podcast",
+      "artist": "GPOne MotoGP e SBK Podcast",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/45/75/e6/4575e619-bd12-b386-bc9d-6087c56cf5da/mza_6468447136097920471.jpg/170x170bb.png",
+      "genre": "Sports News",
+      "genre_id": "1529",
+      "url": "https://podcasts.apple.com/it/podcast/gpone-com-podcast/id1498123517?uo=2"
+    },
+    {
+      "rank": 171,
+      "apple_id": "1758309198",
+      "name": "OttolinaTV",
+      "artist": "OttolinaTV",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/cc/e7/33/cce73349-dc86-b3bb-23ee-b3414eafa584/mza_7731871803683418446.jpg/170x170bb.png",
+      "genre": "News",
+      "genre_id": "1489",
+      "url": "https://podcasts.apple.com/it/podcast/ottolinatv/id1758309198?uo=2"
+    },
+    {
+      "rank": 172,
+      "apple_id": "1650360184",
+      "name": "Pecore elettriche",
+      "artist": "QUOTIDIANO NAZIONALE - David Allegranti",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a1/8e/cb/a18ecbf4-7ac8-bc94-482b-ce234289e0d9/mza_15883350045808989862.jpg/170x170bb.png",
+      "genre": "Politics",
+      "genre_id": "1527",
+      "url": "https://podcasts.apple.com/it/podcast/pecore-elettriche/id1650360184?uo=2"
+    },
+    {
+      "rank": 173,
+      "apple_id": "1624470685",
+      "name": "Il metodo Falcone",
+      "artist": "Il Sole 24 Ore",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/41/d2/dc/41d2dc72-5271-7ce4-6948-1137eb81b2db/mza_10831906815826622146.jpg/170x170bb.png",
+      "genre": "News",
+      "genre_id": "1489",
+      "url": "https://podcasts.apple.com/it/podcast/il-metodo-falcone/id1624470685?uo=2"
+    },
+    {
+      "rank": 174,
+      "apple_id": "1882484312",
+      "name": "Daily News CNN: A Daily News Podcast",
+      "artist": "Pat",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/bf/d6/7a/bfd67a96-05b6-1af7-f529-12d35c7e7de7/mza_11262552984527978103.jpg/170x170bb.png",
+      "genre": "Daily News",
+      "genre_id": "1526",
+      "url": "https://podcasts.apple.com/it/podcast/daily-news-cnn-a-daily-news-podcast/id1882484312?uo=2"
+    },
+    {
+      "rank": 175,
+      "apple_id": "1050430296",
+      "name": "The New Yorker Radio Hour",
+      "artist": "WNYC Studios and The New Yorker",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/08/d7/f9/08d7f9be-6657-6ed8-f6a7-b1c2db243ca4/mza_1050541904651421683.jpg/170x170bb.png",
+      "genre": "Politics",
+      "genre_id": "1527",
+      "url": "https://podcasts.apple.com/it/podcast/the-new-yorker-radio-hour/id1050430296?uo=2"
+    },
+    {
+      "rank": 176,
+      "apple_id": "1581494919",
+      "name": "Kabul: perché?",
+      "artist": "Cecilia Sala, Francesca Mannocchi - Chora",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/4f/81/e7/4f81e7b1-5742-cd0d-7d79-1a1b25861f2f/mza_10207488259030262731.jpg/170x170bb.png",
+      "genre": "News",
+      "genre_id": "1489",
+      "url": "https://podcasts.apple.com/it/podcast/kabul-perch%C3%A9/id1581494919?uo=2"
+    },
+    {
+      "rank": 177,
+      "apple_id": "1818778448",
+      "name": "L'opinione di Davide Giacalone",
+      "artist": "RTL 102.5",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e1/80/5d/e1805d9f-4716-ed77-34d7-59ef7ed80933/mza_5226721759305416786.jpg/170x170bb.png",
+      "genre": "News",
+      "genre_id": "1489",
+      "url": "https://podcasts.apple.com/it/podcast/lopinione-di-davide-giacalone/id1818778448?uo=2"
+    },
+    {
+      "rank": 178,
+      "apple_id": "390165226",
+      "name": "Les Matins de France Culture",
+      "artist": "France Culture",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/b9/fe/a2/b9fea2c3-b19e-bab3-05f3-b795dfe87109/mza_15183546313133508714.jpg/170x170bb.png",
+      "genre": "News",
+      "genre_id": "1489",
+      "url": "https://podcasts.apple.com/it/podcast/les-matins-de-france-culture/id390165226?uo=2"
+    },
+    {
+      "rank": 179,
+      "apple_id": "1578456610",
+      "name": "Rassegna Stampa Weekend",
+      "artist": "Radio 24",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/73/47/d3/7347d3ef-49d5-e261-7c52-21db2c468c82/mza_403850600366700126.jpg/170x170bb.png",
+      "genre": "News",
+      "genre_id": "1489",
+      "url": "https://podcasts.apple.com/it/podcast/rassegna-stampa-weekend/id1578456610?uo=2"
+    },
+    {
+      "rank": 180,
+      "apple_id": "1611767434",
+      "name": "Bloomberg Tech",
+      "artist": "Bloomberg",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/f5/9c/9f/f59c9f1f-cbc8-0e46-629d-2df7e6a18274/mza_3594252261487211794.jpg/170x170bb.png",
+      "genre": "Tech News",
+      "genre_id": "1528",
+      "url": "https://podcasts.apple.com/it/podcast/bloomberg-tech/id1611767434?uo=2"
+    },
+    {
+      "rank": 181,
+      "apple_id": "1841872154",
+      "name": "La cartolina di Luca Bottura",
+      "artist": "La Stampa",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c1/3f/b0/c13fb074-9112-540e-eb14-6489eac1d323/mza_16905647572017865462.jpg/170x170bb.png",
+      "genre": "News",
+      "genre_id": "1489",
+      "url": "https://podcasts.apple.com/it/podcast/la-cartolina-di-luca-bottura/id1841872154?uo=2"
+    },
+    {
+      "rank": 182,
+      "apple_id": "326301337",
+      "name": "Bloomberg Intelligence",
+      "artist": "Bloomberg",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/cd/3f/e6/cd3fe63c-5a08-7ff6-ff6c-32cdcd53411f/mza_15386103358990007192.jpg/170x170bb.png",
+      "genre": "Business News",
+      "genre_id": "1490",
+      "url": "https://podcasts.apple.com/it/podcast/bloomberg-intelligence/id326301337?uo=2"
+    },
+    {
+      "rank": 183,
+      "apple_id": "1550077369",
+      "name": "La Legge Per Tutti",
+      "artist": "La Legge Per Tutti",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/9c/69/56/9c6956cf-d3d9-2956-9a76-d4f8a2574ef2/mza_8647473902646615383.jpg/170x170bb.png",
+      "genre": "News",
+      "genre_id": "1489",
+      "url": "https://podcasts.apple.com/it/podcast/la-legge-per-tutti/id1550077369?uo=2"
+    },
+    {
+      "rank": 184,
+      "apple_id": "1202441485",
+      "name": "WSJ Minute Briefing",
+      "artist": "The Wall Street Journal",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/21/16/ab/2116ab5c-956f-710e-9652-8f56bd406952/mza_15984819754947628088.jpg/170x170bb.png",
+      "genre": "Business News",
+      "genre_id": "1490",
+      "url": "https://podcasts.apple.com/it/podcast/wsj-minute-briefing/id1202441485?uo=2"
+    },
+    {
+      "rank": 185,
+      "apple_id": "1830946149",
+      "name": "La Chronique du Grand Continent",
+      "artist": "France Culture",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/50/7f/2d/507f2d27-0e44-e764-868c-f23e912b5436/mza_3182654902867997802.jpg/170x170bb.png",
+      "genre": "News",
+      "genre_id": "1489",
+      "url": "https://podcasts.apple.com/it/podcast/la-chronique-du-grand-continent/id1830946149?uo=2"
+    },
+    {
+      "rank": 186,
+      "apple_id": "300172145",
+      "name": "Эхо Москвы",
+      "artist": "Feed Master by Umputun",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/ef/18/82/ef1882fd-2738-230b-5698-209727f22cf0/mza_2852257986240573433.png/170x170bb.png",
+      "genre": "News",
+      "genre_id": "1489",
+      "url": "https://podcasts.apple.com/it/podcast/%D1%8D%D1%85%D0%BE-%D0%BC%D0%BE%D1%81%D0%BA%D0%B2%D1%8B/id300172145?uo=2"
+    },
+    {
+      "rank": 187,
+      "apple_id": "1508202790",
+      "name": "The Daily Beast Podcast",
+      "artist": "The Daily Beast, Joanna Coles",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/95/0b/26/950b261d-3741-e9f7-e075-5e905d3b0344/mza_18428683356059909118.jpeg/170x170bb.png",
+      "genre": "News",
+      "genre_id": "1489",
+      "url": "https://podcasts.apple.com/it/podcast/the-daily-beast-podcast/id1508202790?uo=2"
+    },
+    {
+      "rank": 188,
+      "apple_id": "1895251483",
+      "name": "Oklahoma Podcast",
+      "artist": "Cusano Media Group",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/57/57/20/57572033-531f-6711-d4d8-f3af114ae86b/mza_914398757534729247.jpeg/170x170bb.png",
+      "genre": "Daily News",
+      "genre_id": "1526",
+      "url": "https://podcasts.apple.com/it/podcast/oklahoma-podcast/id1895251483?uo=2"
+    },
+    {
+      "rank": 189,
+      "apple_id": "1500023595",
+      "name": "OK, America?",
+      "artist": "DIE ZEIT",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/6b/2f/4b/6b2f4ba5-d577-50c9-6d8e-6528a17aecda/mza_9610633569418055098.jpg/170x170bb.png",
+      "genre": "Politics",
+      "genre_id": "1527",
+      "url": "https://podcasts.apple.com/it/podcast/ok-america/id1500023595?uo=2"
+    },
+    {
+      "rank": 190,
+      "apple_id": "1586340606",
+      "name": "La poco invidiabile classifica di Focus economia",
+      "artist": "Radio 24",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/0e/13/ce/0e13ce3b-21b9-2831-9244-cb6eba63e40e/mza_12999792407167524627.jpg/170x170bb.png",
+      "genre": "News",
+      "genre_id": "1489",
+      "url": "https://podcasts.apple.com/it/podcast/la-poco-invidiabile-classifica-di-focus-economia/id1586340606?uo=2"
+    },
+    {
+      "rank": 191,
+      "apple_id": "1874654445",
+      "name": "MED Insights",
+      "artist": "ISPI",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/07/8f/6f/078f6f41-862a-5ec2-21fc-8f999d1c6131/mza_6624376295718445881.jpg/170x170bb.png",
+      "genre": "Politics",
+      "genre_id": "1527",
+      "url": "https://podcasts.apple.com/it/podcast/med-insights/id1874654445?uo=2"
+    },
+    {
+      "rank": 192,
+      "apple_id": "1281258442",
+      "name": "Obiettivo salute",
+      "artist": "Radio 24",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/03/3e/b0/033eb0cf-c89b-0f0a-1f99-f1fa6ca3f10f/mza_16996866494781147836.jpg/170x170bb.png",
+      "genre": "News",
+      "genre_id": "1489",
+      "url": "https://podcasts.apple.com/it/podcast/obiettivo-salute/id1281258442?uo=2"
+    },
+    {
+      "rank": 193,
+      "apple_id": "1533778446",
+      "name": "Comunicazione politica - capire le strategie del consenso",
+      "artist": "Marco Venturini",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/3b/c4/2d/3bc42d3d-f2d5-3886-79d0-1367e72fe48b/mza_16200988091230640894.jpg/170x170bb.png",
+      "genre": "Politics",
+      "genre_id": "1527",
+      "url": "https://podcasts.apple.com/it/podcast/comunicazione-politica-capire-le-strategie-del-consenso/id1533778446?uo=2"
+    },
+    {
+      "rank": 194,
+      "apple_id": "1392985748",
+      "name": "Radici",
+      "artist": "storielibere.fm",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/93/cf/74/93cf746a-e9e4-d90c-0227-aeb1bc749626/mza_13223274782259262425.jpg/170x170bb.png",
+      "genre": "News",
+      "genre_id": "1489",
+      "url": "https://podcasts.apple.com/it/podcast/radici/id1392985748?uo=2"
+    },
+    {
+      "rank": 195,
+      "apple_id": "1873978502",
+      "name": "I macchiaioli",
+      "artist": "Radio 24",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/fa/fc/f1/fafcf19e-ae5a-8be8-5ab6-f464fb0fbe5c/mza_12109706587683558236.jpg/170x170bb.png",
+      "genre": "News",
+      "genre_id": "1489",
+      "url": "https://podcasts.apple.com/it/podcast/i-macchiaioli/id1873978502?uo=2"
+    },
+    {
+      "rank": 196,
+      "apple_id": "1057255460",
+      "name": "The NPR Politics Podcast",
+      "artist": "NPR",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/71/15/1d/71151d33-32e7-f0e1-2a6b-412bf4835c5d/mza_9550948332778108059.jpg/170x170bb.png",
+      "genre": "Politics",
+      "genre_id": "1527",
+      "url": "https://podcasts.apple.com/it/podcast/the-npr-politics-podcast/id1057255460?uo=2"
+    },
+    {
+      "rank": 197,
+      "apple_id": "1315776736",
+      "name": "The Europeans | European news, politics and culture",
+      "artist": "Katy Lee and Dominic Kraemer",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/b5/cd/5d/b5cd5d9d-47bb-e681-2638-588a5e2c8472/mza_4751760857272852722.jpg/170x170bb.png",
+      "genre": "News",
+      "genre_id": "1489",
+      "url": "https://podcasts.apple.com/it/podcast/the-europeans-european-news-politics-and-culture/id1315776736?uo=2"
+    },
+    {
+      "rank": 198,
+      "apple_id": "1501725808",
+      "name": "Das Politikteil",
+      "artist": "DIE ZEIT",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/70/06/86/700686f8-eab4-05dd-6d94-22dc06df5389/mza_1531918669163599599.jpg/170x170bb.png",
+      "genre": "Politics",
+      "genre_id": "1527",
+      "url": "https://podcasts.apple.com/it/podcast/das-politikteil/id1501725808?uo=2"
+    },
+    {
+      "rank": 199,
+      "apple_id": "974299441",
+      "name": "Morning Joe",
+      "artist": "Joe Scarborough, Mika Brzezinski, MS NOW, Willie Geist",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/c6/c9/3b/c6c93b35-1f3f-79fb-20c0-fc26efae4863/mza_3156122001457171418.jpg/170x170bb.png",
+      "genre": "News",
+      "genre_id": "1489",
+      "url": "https://podcasts.apple.com/it/podcast/morning-joe/id974299441?uo=2"
+    },
+    {
+      "rank": 200,
+      "apple_id": "1380633567",
+      "name": "Poteri forti",
+      "artist": "Pagella Politica",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c9/fc/8f/c9fc8f81-748a-ebe4-4a0e-056a21b06bd0/mza_11441771936308370608.jpg/170x170bb.png",
+      "genre": "Politics",
+      "genre_id": "1527",
+      "url": "https://podcasts.apple.com/it/podcast/poteri-forti/id1380633567?uo=2"
+    }
+  ]
+}

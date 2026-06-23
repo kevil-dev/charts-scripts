@@ -1,0 +1,26 @@
+{
+  "platform": "spotify",
+  "limit": 100,
+  "countries": ["us", "gb", "ca", "au", "ie", "nz", "de", "fr", "es", "it", "nl", "se", "br", "mx", "ar", "cl", "co", "jp", "id", "ph", "in"],
+  "genres": [
+    { "slug": "top-podcasts",           "name": "Top Podcasts" },
+    { "slug": "trending",               "name": "Trending Podcasts" },
+    { "slug": "arts",                   "name": "Arts" },
+    { "slug": "business",               "name": "Business" },
+    { "slug": "comedy",                 "name": "Comedy" },
+    { "slug": "education",              "name": "Education" },
+    { "slug": "fiction",                "name": "Fiction" },
+    { "slug": "health-fitness",         "name": "Health & Fitness" },
+    { "slug": "history",                "name": "History" },
+    { "slug": "leisure",                "name": "Leisure" },
+    { "slug": "music",                  "name": "Music" },
+    { "slug": "news",                   "name": "News" },
+    { "slug": "religion-spirituality",  "name": "Religion & Spirituality" },
+    { "slug": "science",                "name": "Science" },
+    { "slug": "society-culture",        "name": "Society & Culture" },
+    { "slug": "sports",                 "name": "Sports" },
+    { "slug": "technology",             "name": "Technology" },
+    { "slug": "true-crime",             "name": "True Crime" },
+    { "slug": "tv-film",                "name": "TV & Film" }
+  ]
+}

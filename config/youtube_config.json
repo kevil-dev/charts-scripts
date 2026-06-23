@@ -1,0 +1,17 @@
+{
+  "platform": "youtube",
+  "countries": ["us", "ca", "mx"],
+  "context": {
+    "client": {
+      "clientName": "WEB_MUSIC_ANALYTICS",
+      "clientVersion": "2.0",
+      "hl": "en",
+      "gl": "US",
+      "experimentIds": [],
+      "experimentsToken": "",
+      "theme": "MUSIC"
+    },
+    "capabilities": {},
+    "request": { "internalExperimentFlags": [] }
+  }
+}

@@ -1,0 +1,44 @@
+2026-06-23 14:48:39,969  INFO     ======================================================================
+2026-06-23 14:48:39,969  INFO     pipeline start  run_date=2026-06-23  dir=C:\Users\Admin\Desktop\scripts
+2026-06-23 14:48:39,970  INFO     [apple fetch] starting  (scrapers.apple_test, timeout 7200s)
+2026-06-23 14:49:47,470  INFO     [apple fetch] done  rc=0  68s
+2026-06-23 14:49:47,470  INFO     [spotify fetch] starting  (scrapers.spotify_test, timeout 3600s)
+2026-06-23 14:51:06,960  INFO     [spotify fetch] done  rc=0  79s
+2026-06-23 14:51:06,960  INFO     [youtube fetch] starting  (scrapers.youtube_test, timeout 1800s)
+2026-06-23 14:51:13,984  INFO     [youtube fetch] done  rc=0  7s
+2026-06-23 14:51:13,984  INFO     [loader] starting  (loader.py, timeout 1800s)
+2026-06-23 14:51:41,643  INFO     [loader] stdout (tail):
+2026-06-23 14:51:41,202  INFO     ok   spotify SE/tv-film      loaded=50 skipped=0
+2026-06-23 14:51:41,210  INFO     ok   spotify US/arts         loaded=50 skipped=0
+2026-06-23 14:51:41,218  INFO     ok   spotify US/business     loaded=50 skipped=0
+2026-06-23 14:51:41,225  INFO     ok   spotify US/comedy       loaded=50 skipped=0
+2026-06-23 14:51:41,233  INFO     ok   spotify US/education    loaded=50 skipped=0
+2026-06-23 14:51:41,240  INFO     ok   spotify US/fiction      loaded=50 skipped=0
+2026-06-23 14:51:41,248  INFO     ok   spotify US/health-fitness loaded=50 skipped=0
+2026-06-23 14:51:41,256  INFO     ok   spotify US/history      loaded=50 skipped=0
+2026-06-23 14:51:41,279  INFO     ok   spotify US/leisure      loaded=50 skipped=0
+2026-06-23 14:51:41,293  INFO     ok   spotify US/music        loaded=50 skipped=0
+2026-06-23 14:51:41,324  INFO     ok   spotify US/news         loaded=50 skipped=0
+2026-06-23 14:51:41,344  INFO     ok   spotify US/religion-spirituality loaded=50 skipped=0
+2026-06-23 14:51:41,358  INFO     ok   spotify US/science      loaded=50 skipped=0
+2026-06-23 14:51:41,373  INFO     ok   spotify US/society-culture loaded=50 skipped=0
+2026-06-23 14:51:41,396  INFO     ok   spotify US/sports       loaded=50 skipped=0
+2026-06-23 14:51:41,415  INFO     ok   spotify US/technology   loaded=50 skipped=0
+2026-06-23 14:51:41,475  INFO     ok   spotify US/top-podcasts loaded=200 skipped=0
+2026-06-23 14:51:41,525  INFO     ok   spotify US/trending     loaded=200 skipped=0
+2026-06-23 14:51:41,540  INFO     ok   spotify US/true-crime   loaded=50 skipped=0
+2026-06-23 14:51:41,567  INFO     ok   spotify US/tv-film      loaded=50 skipped=0
+2026-06-23 14:51:41,598  INFO     ok   youtube CA/top          loaded=100 skipped=0
+2026-06-23 14:51:41,616  INFO     ok   youtube MX/top          loaded=100 skipped=0
+2026-06-23 14:51:41,627  INFO     ok   youtube US/top          loaded=100 skipped=0
+2026-06-23 14:51:41,628  INFO     loader done  files=404 ok=404 skipped=0 rows_loaded=62628 rows_skipped=0
+2026-06-23 14:51:41,628  INFO     manifest -> logs\manifest_2026-06-23.json
+2026-06-23 14:51:41,644  INFO     [loader] done  rc=0  28s
+2026-06-23 14:51:41,644  INFO     ----------------------------------------------------------------------
+2026-06-23 14:51:41,644  INFO     pipeline summary:
+2026-06-23 14:51:41,644  INFO         apple fetch    OK
+2026-06-23 14:51:41,644  INFO         spotify fetch  OK
+2026-06-23 14:51:41,644  INFO         youtube fetch  OK
+2026-06-23 14:51:41,644  INFO         loader         OK
+2026-06-23 14:51:41,644  INFO     pipeline done  4/4 stages ok
+2026-06-23 14:51:41,645  INFO     ======================================================================

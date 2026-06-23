@@ -1,0 +1,2011 @@
+{
+  "platform": "apple",
+  "country": "in",
+  "genre": "Education",
+  "genre_id": "1304",
+  "slug": "education",
+  "fetched_at": "2026-06-23T09:19:10Z",
+  "count": 200,
+  "shows": [
+    {
+      "rank": 1,
+      "apple_id": "1501941375",
+      "name": "Raj Shamani's Figuring Out",
+      "artist": "Raj Shamani",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d7/f7/79/d7f77902-2cae-cdce-f752-a4c23c09554d/mza_3616614916805177466.jpg/170x170bb.png",
+      "genre": "Education",
+      "genre_id": "1304",
+      "url": "https://podcasts.apple.com/in/podcast/raj-shamanis-figuring-out/id1501941375?uo=2"
+    },
+    {
+      "rank": 2,
+      "apple_id": "1646101002",
+      "name": "The Mel Robbins Podcast",
+      "artist": "Mel Robbins",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/2a/9f/c7/2a9fc792-c6a7-e159-0e10-a4442eec27d5/mza_5919882476720095362.jpg/170x170bb.png",
+      "genre": "Self-Improvement",
+      "genre_id": "1500",
+      "url": "https://podcasts.apple.com/in/podcast/the-mel-robbins-podcast/id1646101002?uo=2"
+    },
+    {
+      "rank": 3,
+      "apple_id": "1706194517",
+      "name": "20 Minute Books",
+      "artist": "20 Minute Books",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/58/c4/7b/58c47bd8-b264-5afa-437f-967aca84621d/mza_16715360875716481817.png/170x170bb.png",
+      "genre": "Self-Improvement",
+      "genre_id": "1500",
+      "url": "https://podcasts.apple.com/in/podcast/20-minute-books/id1706194517?uo=2"
+    },
+    {
+      "rank": 4,
+      "apple_id": "262026989",
+      "name": "Learning English Conversations",
+      "artist": "BBC Radio",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/9d/9f/9a/9d9f9ac2-18ed-fef1-6b5a-2370cb2d2eca/mza_16678796634995991769.jpg/170x170bb.png",
+      "genre": "Language Learning",
+      "genre_id": "1498",
+      "url": "https://podcasts.apple.com/in/podcast/learning-english-conversations/id262026989?uo=2"
+    },
+    {
+      "rank": 5,
+      "apple_id": "1806232274",
+      "name": "Premanand ji maharaj vartalap",
+      "artist": "Shaileshmudgal",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/89/25/29/89252989-6f20-c7c7-fb7d-71a77e469946/mza_7213581462154788242.jpg/170x170bb.png",
+      "genre": "Self-Improvement",
+      "genre_id": "1500",
+      "url": "https://podcasts.apple.com/in/podcast/premanand-ji-maharaj-vartalap/id1806232274?uo=2"
+    },
+    {
+      "rank": 6,
+      "apple_id": "262026947",
+      "name": "6 Minute English",
+      "artist": "BBC Radio",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ba/98/35/ba9835eb-1ef3-60e4-bf05-3d141b8d1c7a/mza_3844641997714022659.jpg/170x170bb.png",
+      "genre": "Language Learning",
+      "genre_id": "1498",
+      "url": "https://podcasts.apple.com/in/podcast/6-minute-english/id262026947?uo=2"
+    },
+    {
+      "rank": 7,
+      "apple_id": "1490896085",
+      "name": "The Ranveer Show",
+      "artist": "BeerBiceps aka Ranveer Allahbadia",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/58/6e/a9/586ea984-3bf8-302e-a8fd-2e7b002044d2/mza_2944927475341717105.jpg/170x170bb.png",
+      "genre": "Self-Improvement",
+      "genre_id": "1500",
+      "url": "https://podcasts.apple.com/in/podcast/the-ranveer-show/id1490896085?uo=2"
+    },
+    {
+      "rank": 8,
+      "apple_id": "1482297423",
+      "name": "Easy German: Learn German with native speakers | Deutsch lernen mit Muttersprachlern",
+      "artist": "Cari, Manuel und das Team von Easy German",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/4f/48/89/4f488920-28f6-b522-d107-9dd047055e9b/mza_11652693665754415823.jpg/170x170bb.png",
+      "genre": "Language Learning",
+      "genre_id": "1498",
+      "url": "https://podcasts.apple.com/in/podcast/easy-german-learn-german-with-native-speakers-deutsch/id1482297423?uo=2"
+    },
+    {
+      "rank": 9,
+      "apple_id": "1733478812",
+      "name": "On Your Marks",
+      "artist": "ACCA",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/6d/aa/be/6daabe2a-dad2-21be-756e-7dda8832581f/mza_5141210050231555722.jpg/170x170bb.png",
+      "genre": "How To",
+      "genre_id": "1499",
+      "url": "https://podcasts.apple.com/in/podcast/on-your-marks/id1733478812?uo=2"
+    },
+    {
+      "rank": 10,
+      "apple_id": "1521068608",
+      "name": "The Daily Mastery Podcast by Robin Sharma",
+      "artist": "Robin Sharma",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/06/53/f2/0653f20f-5e73-2f09-18ac-96deeebaa6c3/mza_15057753577398861592.jpg/170x170bb.png",
+      "genre": "Self-Improvement",
+      "genre_id": "1500",
+      "url": "https://podcasts.apple.com/in/podcast/the-daily-mastery-podcast-by-robin-sharma/id1521068608?uo=2"
+    },
+    {
+      "rank": 11,
+      "apple_id": "1553736924",
+      "name": "The Jaipur Dialogues Podcasts",
+      "artist": "The Jaipur Dialogues",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts114/v4/5d/ea/e8/5deae834-b451-592c-747a-7708ef2d2b71/mza_16982363777874284497.jpg/170x170bb.png",
+      "genre": "Education",
+      "genre_id": "1304",
+      "url": "https://podcasts.apple.com/in/podcast/the-jaipur-dialogues-podcasts/id1553736924?uo=2"
+    },
+    {
+      "rank": 12,
+      "apple_id": "1247526593",
+      "name": "SOLVED with Mark Manson",
+      "artist": "Mark Manson",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/98/4c/b3/984cb3a2-22fd-4637-eccf-c4ae2afb603a/mza_9097687970736985049.jpeg/170x170bb.png",
+      "genre": "Self-Improvement",
+      "genre_id": "1500",
+      "url": "https://podcasts.apple.com/in/podcast/solved-with-mark-manson/id1247526593?uo=2"
+    },
+    {
+      "rank": 13,
+      "apple_id": "1573528786",
+      "name": "Lessons for Life",
+      "artist": "Gaur Gopal Das",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/f4/6b/e3/f46be36a-eebc-6419-52af-ea79ba78e989/mza_17207257654263606805.jpg/170x170bb.png",
+      "genre": "Self-Improvement",
+      "genre_id": "1500",
+      "url": "https://podcasts.apple.com/in/podcast/lessons-for-life/id1573528786?uo=2"
+    },
+    {
+      "rank": 14,
+      "apple_id": "751574016",
+      "name": "All Ears English Podcast",
+      "artist": "Lindsay McMahon and Michelle Kaplan",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/cb/a1/13/cba113a7-999d-3c3d-a594-900adb69624e/mza_7992161192502469150.jpg/170x170bb.png",
+      "genre": "Language Learning",
+      "genre_id": "1498",
+      "url": "https://podcasts.apple.com/in/podcast/all-ears-english-podcast/id751574016?uo=2"
+    },
+    {
+      "rank": 15,
+      "apple_id": "582272991",
+      "name": "The Rich Roll Podcast",
+      "artist": "Rich Roll",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/24/79/73/247973ca-0868-9852-e66b-61e28e0ee71a/mza_7587627905992125546.jpeg/170x170bb.png",
+      "genre": "Self-Improvement",
+      "genre_id": "1500",
+      "url": "https://podcasts.apple.com/in/podcast/the-rich-roll-podcast/id582272991?uo=2"
+    },
+    {
+      "rank": 16,
+      "apple_id": "1810204813",
+      "name": "The Masoom Minawala Show",
+      "artist": "The Masoom Minawala Show",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/6e/0a/42/6e0a42ce-9b0d-d438-0e35-86d2d6b4c31c/mza_15103089885931139985.jpg/170x170bb.png",
+      "genre": "Self-Improvement",
+      "genre_id": "1500",
+      "url": "https://podcasts.apple.com/in/podcast/the-masoom-minawala-show/id1810204813?uo=2"
+    },
+    {
+      "rank": 17,
+      "apple_id": "1430315931",
+      "name": "The Daily Stoic",
+      "artist": "Daily Stoic | Backyard Ventures",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/00/4b/cd/004bcd1b-3036-86ae-2394-e3ac6798cace/mza_2488584016134530967.jpeg/170x170bb.png",
+      "genre": "Education",
+      "genre_id": "1304",
+      "url": "https://podcasts.apple.com/in/podcast/the-daily-stoic/id1430315931?uo=2"
+    },
+    {
+      "rank": 18,
+      "apple_id": "263170419",
+      "name": "Coffee Break French",
+      "artist": "Coffee Break Languages",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/73/01/0a/73010a40-85a8-4d98-1f0d-b25d96b8e86f/mza_11764534205288833014.jpg/170x170bb.png",
+      "genre": "Language Learning",
+      "genre_id": "1498",
+      "url": "https://podcasts.apple.com/in/podcast/coffee-break-french/id263170419?uo=2"
+    },
+    {
+      "rank": 19,
+      "apple_id": "1471500012",
+      "name": "Japanese podcast for beginners (Nihongo con Teppei)",
+      "artist": "Japanese podcast for beginners (Nihongo con Teppei)",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/6a/30/4c/6a304ce0-6794-5472-f436-c687bdda2745/mza_7253643594919702969.png/170x170bb.png",
+      "genre": "Language Learning",
+      "genre_id": "1498",
+      "url": "https://podcasts.apple.com/in/podcast/japanese-podcast-for-beginners-nihongo-con-teppei/id1471500012?uo=2"
+    },
+    {
+      "rank": 20,
+      "apple_id": "1036379102",
+      "name": "Learning English Vocabulary",
+      "artist": "BBC Radio",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c9/f7/d1/c9f7d1c3-7d9f-286c-bd34-dd9ed6c8dbae/mza_15142415083290293434.jpg/170x170bb.png",
+      "genre": "Language Learning",
+      "genre_id": "1498",
+      "url": "https://podcasts.apple.com/in/podcast/learning-english-vocabulary/id1036379102?uo=2"
+    },
+    {
+      "rank": 21,
+      "apple_id": "595399272",
+      "name": "Coffee Break German",
+      "artist": "Coffee Break Languages",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/77/eb/5e/77eb5ef8-2cf0-457f-f063-696c855e299b/mza_4060652957614734358.jpg/170x170bb.png",
+      "genre": "Language Learning",
+      "genre_id": "1498",
+      "url": "https://podcasts.apple.com/in/podcast/coffee-break-german/id595399272?uo=2"
+    },
+    {
+      "rank": 22,
+      "apple_id": "1231472946",
+      "name": "InnerFrench",
+      "artist": "innerFrench",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/5f/4b/51/5f4b5121-b307-4b0c-4ba9-3fba7aba161d/mza_1141892237621262066.jpg/170x170bb.png",
+      "genre": "Language Learning",
+      "genre_id": "1498",
+      "url": "https://podcasts.apple.com/in/podcast/innerfrench/id1231472946?uo=2"
+    },
+    {
+      "rank": 23,
+      "apple_id": "1752920555",
+      "name": "Konjam Think Panlaama - Tamil Podcast",
+      "artist": "Anu",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/48/84/20/48842022-dced-6bce-4d4a-231d2b49b0e2/mza_11916550153174783303.jpg/170x170bb.png",
+      "genre": "Self-Improvement",
+      "genre_id": "1500",
+      "url": "https://podcasts.apple.com/in/podcast/konjam-think-panlaama-tamil-podcast/id1752920555?uo=2"
+    },
+    {
+      "rank": 24,
+      "apple_id": "1726947236",
+      "name": "Learning English For Work",
+      "artist": "BBC News",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/97/e3/71/97e3711e-dd33-9114-8944-2597478a4f5e/mza_5716563979489173010.jpg/170x170bb.png",
+      "genre": "Language Learning",
+      "genre_id": "1498",
+      "url": "https://podcasts.apple.com/in/podcast/learning-english-for-work/id1726947236?uo=2"
+    },
+    {
+      "rank": 25,
+      "apple_id": "1458568923",
+      "name": "anything goes with emma chamberlain",
+      "artist": "emma chamberlain",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/9d/a2/6a/9da26a93-dc8a-fb0b-8d23-f8b2f5724437/mza_7015616659361364708.jpeg/170x170bb.png",
+      "genre": "Self-Improvement",
+      "genre_id": "1500",
+      "url": "https://podcasts.apple.com/in/podcast/anything-goes-with-emma-chamberlain/id1458568923?uo=2"
+    },
+    {
+      "rank": 26,
+      "apple_id": "1615941419",
+      "name": "Mufti Tariq Masood Podcast",
+      "artist": "Mufti Tariq Masood Speeches",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/7d/66/c8/7d66c83b-b984-c4e7-0c73-afd0d6a8f095/mza_5864167524595549146.jpeg/170x170bb.png",
+      "genre": "Education",
+      "genre_id": "1304",
+      "url": "https://podcasts.apple.com/in/podcast/mufti-tariq-masood-podcast/id1615941419?uo=2"
+    },
+    {
+      "rank": 27,
+      "apple_id": "1742967932",
+      "name": "Learning Easy English",
+      "artist": "BBC",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ca/43/99/ca439923-ed6a-90a6-e3b3-056802b84c20/mza_6408114298553732245.jpg/170x170bb.png",
+      "genre": "Language Learning",
+      "genre_id": "1498",
+      "url": "https://podcasts.apple.com/in/podcast/learning-easy-english/id1742967932?uo=2"
+    },
+    {
+      "rank": 28,
+      "apple_id": "312059190",
+      "name": "Luke's ENGLISH Podcast - Learn British English with Luke Thompson",
+      "artist": "Luke Thompson",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/07/8c/30/078c3053-2fdf-bd8b-7065-0eb490e27029/mza_8948714377807896144.jpeg/170x170bb.png",
+      "genre": "Language Learning",
+      "genre_id": "1498",
+      "url": "https://podcasts.apple.com/in/podcast/lukes-english-podcast-learn-british-english-with-luke/id312059190?uo=2"
+    },
+    {
+      "rank": 29,
+      "apple_id": "1068207118",
+      "name": "The Robin Sharma Mastery Sessions",
+      "artist": "Robin Sharma",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts118/v4/00/9f/2c/009f2cb9-f594-8dc4-dbee-8178f574183f/mza_7659771604779660907.png/170x170bb.png",
+      "genre": "Education",
+      "genre_id": "1304",
+      "url": "https://podcasts.apple.com/in/podcast/the-robin-sharma-mastery-sessions/id1068207118?uo=2"
+    },
+    {
+      "rank": 30,
+      "apple_id": "1508751109",
+      "name": "Chanakya Neeti - Hindi - Complete",
+      "artist": "Vishal S",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/b8/74/12/b874128e-4b4e-7898-8a8c-2d1bd4310343/mza_13710786197765932847.jpg/170x170bb.png",
+      "genre": "Self-Improvement",
+      "genre_id": "1500",
+      "url": "https://podcasts.apple.com/in/podcast/chanakya-neeti-hindi-complete/id1508751109?uo=2"
+    },
+    {
+      "rank": 31,
+      "apple_id": "1579900012",
+      "name": "JIM ROHN",
+      "artist": "JIM ROHN TALKS",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/91/a1/8f/91a18fb1-8094-9506-ac62-4f9218f16ac6/mza_844221103111633942.jpg/170x170bb.png",
+      "genre": "Self-Improvement",
+      "genre_id": "1500",
+      "url": "https://podcasts.apple.com/in/podcast/jim-rohn/id1579900012?uo=2"
+    },
+    {
+      "rank": 32,
+      "apple_id": "1634106069",
+      "name": "The Daily Motivation",
+      "artist": "Lewis Howes",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/d9/f1/26/d9f12605-0f7d-7ff6-0139-6135a54c9437/mza_1103685437097700546.jpg/170x170bb.png",
+      "genre": "Self-Improvement",
+      "genre_id": "1500",
+      "url": "https://podcasts.apple.com/in/podcast/the-daily-motivation/id1634106069?uo=2"
+    },
+    {
+      "rank": 33,
+      "apple_id": "1717655351",
+      "name": "Self Obsessed",
+      "artist": "Tam Kaur",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts122/v4/67/0f/90/670f90a0-38c6-f3c2-8400-ceae5f4d9c2e/mza_1604654314095525710.jpg/170x170bb.png",
+      "genre": "Self-Improvement",
+      "genre_id": "1500",
+      "url": "https://podcasts.apple.com/in/podcast/self-obsessed/id1717655351?uo=2"
+    },
+    {
+      "rank": 34,
+      "apple_id": "1080974028",
+      "name": "Learning English Grammar",
+      "artist": "BBC Radio",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a7/a8/92/a7a89295-49a4-70f7-978f-02e1dd79e104/mza_15000125055783101974.jpg/170x170bb.png",
+      "genre": "Language Learning",
+      "genre_id": "1498",
+      "url": "https://podcasts.apple.com/in/podcast/learning-english-grammar/id1080974028?uo=2"
+    },
+    {
+      "rank": 35,
+      "apple_id": "1759165996",
+      "name": "Mufti Menk Podcast",
+      "artist": "Mufti Ismail Menk",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/9a/64/91/9a649103-3a14-50e5-d0cf-481a1f90fd4e/mza_15120754204541085346.jpeg/170x170bb.png",
+      "genre": "Education",
+      "genre_id": "1304",
+      "url": "https://podcasts.apple.com/in/podcast/mufti-menk-podcast/id1759165996?uo=2"
+    },
+    {
+      "rank": 36,
+      "apple_id": "1872319309",
+      "name": "TOEIC L＆Rテスト でる模試 リスニング 700問　TEST 5",
+      "artist": "アスク出版",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/2d/51/9c/2d519c8c-9744-265a-b27e-db020377ef7a/mza_11252468742117252478.jpg/170x170bb.png",
+      "genre": "Language Learning",
+      "genre_id": "1498",
+      "url": "https://podcasts.apple.com/in/podcast/toeic-l-r%E3%83%86%E3%82%B9%E3%83%88-%E3%81%A7%E3%82%8B%E6%A8%A1%E8%A9%A6-%E3%83%AA%E3%82%B9%E3%83%8B%E3%83%B3%E3%82%B0-700%E5%95%8F-test-5/id1872319309?uo=2"
+    },
+    {
+      "rank": 37,
+      "apple_id": "1581058922",
+      "name": "Motivation Daily by Motiversity",
+      "artist": "Motiversity",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/d1/ba/84/d1ba84c6-ee07-40b7-9479-32da0b4dcab0/mza_3543043232373289137.jpeg/170x170bb.png",
+      "genre": "Education",
+      "genre_id": "1304",
+      "url": "https://podcasts.apple.com/in/podcast/motivation-daily-by-motiversity/id1581058922?uo=2"
+    },
+    {
+      "rank": 38,
+      "apple_id": "1817358478",
+      "name": "Deep Dive: CFA® Level I Prep 2026",
+      "artist": "Deep Dive Prep",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/34/16/02/341602df-388c-0f3e-4c64-bd7765d69eb3/mza_15625988388266621088.jpg/170x170bb.png",
+      "genre": "Courses",
+      "genre_id": "1501",
+      "url": "https://podcasts.apple.com/in/podcast/deep-dive-cfa-level-i-prep-2026/id1817358478?uo=2"
+    },
+    {
+      "rank": 39,
+      "apple_id": "600128442",
+      "name": "RealLife English: Learn and Speak Confident, Natural English",
+      "artist": "RealLife English",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/6a/16/96/6a16968c-e765-54f6-d222-ed5fbe16efdc/mza_17156835718007196421.png/170x170bb.png",
+      "genre": "Language Learning",
+      "genre_id": "1498",
+      "url": "https://podcasts.apple.com/in/podcast/reallife-english-learn-and-speak-confident-natural/id600128442?uo=2"
+    },
+    {
+      "rank": 40,
+      "apple_id": "1544098624",
+      "name": "How to Be a Better Human",
+      "artist": "TED",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/07/e2/84/07e2843d-0ca6-4f93-7fb8-cc93ff0cfa6f/mza_12830515654437380525.jpg/170x170bb.png",
+      "genre": "Self-Improvement",
+      "genre_id": "1500",
+      "url": "https://podcasts.apple.com/in/podcast/how-to-be-a-better-human/id1544098624?uo=2"
+    },
+    {
+      "rank": 41,
+      "apple_id": "1863224777",
+      "name": "Jim Rohn Motivation Daily",
+      "artist": "Jim Rohn",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/82/3e/bc/823ebcc7-edc7-5d47-93f4-1fc436629613/mza_17692268478531608099.jpeg/170x170bb.png",
+      "genre": "Self-Improvement",
+      "genre_id": "1500",
+      "url": "https://podcasts.apple.com/in/podcast/jim-rohn-motivation-daily/id1863224777?uo=2"
+    },
+    {
+      "rank": 42,
+      "apple_id": "1620902509",
+      "name": "How to Learn Anything",
+      "artist": "Brandon Stover | Plato University",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/9d/c8/60/9dc86064-2864-2ff9-9eb1-8dbe946ee5fb/mza_14292413272321164152.jpg/170x170bb.png",
+      "genre": "How To",
+      "genre_id": "1499",
+      "url": "https://podcasts.apple.com/in/podcast/how-to-learn-anything/id1620902509?uo=2"
+    },
+    {
+      "rank": 43,
+      "apple_id": "1305631801",
+      "name": "Weekly Motivation by Ben Lionel Scott",
+      "artist": "Ben Lionel Scott",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/6e/ee/33/6eee33fa-a608-804d-e61d-3d7746f84e78/mza_16411026826729499426.jpg/170x170bb.png",
+      "genre": "Self-Improvement",
+      "genre_id": "1500",
+      "url": "https://podcasts.apple.com/in/podcast/weekly-motivation-by-ben-lionel-scott/id1305631801?uo=2"
+    },
+    {
+      "rank": 44,
+      "apple_id": "1540650504",
+      "name": "The Art of Accomplishment",
+      "artist": "Joe Hudson and Brett Kistler",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/b6/e5/34/b6e53440-248f-ac0d-98c5-477b50caa637/mza_4503121965581823669.jpg/170x170bb.png",
+      "genre": "Self-Improvement",
+      "genre_id": "1500",
+      "url": "https://podcasts.apple.com/in/podcast/the-art-of-accomplishment/id1540650504?uo=2"
+    },
+    {
+      "rank": 45,
+      "apple_id": "1208024744",
+      "name": "Kwik Brain with Jim Kwik",
+      "artist": "Jim Kwik, Your Brain Coach, Founder www.KwikLearning.com",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/41/ea/7f/41ea7fd2-d41c-180f-d37c-94b0d766658e/mza_9765579348787816493.jpeg/170x170bb.png",
+      "genre": "Education",
+      "genre_id": "1304",
+      "url": "https://podcasts.apple.com/in/podcast/kwik-brain-with-jim-kwik/id1208024744?uo=2"
+    },
+    {
+      "rank": 46,
+      "apple_id": "1474389130",
+      "name": "Speak Better English with Harry",
+      "artist": "Harry",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/75/84/7a/75847a12-579f-47f7-6b9b-b30722dafb7c/mza_771048615833820258.jpg/170x170bb.png",
+      "genre": "Language Learning",
+      "genre_id": "1498",
+      "url": "https://podcasts.apple.com/in/podcast/speak-better-english-with-harry/id1474389130?uo=2"
+    },
+    {
+      "rank": 47,
+      "apple_id": "135066958",
+      "name": "EconTalk",
+      "artist": "Russ Roberts",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/a0/13/c5/a013c54f-362a-670d-a75c-1c5486dfc40f/mza_6055952261821533990.jpg/170x170bb.png",
+      "genre": "Courses",
+      "genre_id": "1501",
+      "url": "https://podcasts.apple.com/in/podcast/econtalk/id135066958?uo=2"
+    },
+    {
+      "rank": 48,
+      "apple_id": "1858290878",
+      "name": "The Secret Sauce",
+      "artist": "Mukul Deora",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/87/e7/7c/87e77c0e-f4c4-df56-1b15-1ef0959e2b79/mza_15005568585668314128.jpeg/170x170bb.png",
+      "genre": "How To",
+      "genre_id": "1499",
+      "url": "https://podcasts.apple.com/in/podcast/the-secret-sauce/id1858290878?uo=2"
+    },
+    {
+      "rank": 49,
+      "apple_id": "1894926028",
+      "name": "Lies we live by",
+      "artist": "Master Aazam",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/5f/e2/c0/5fe2c0bd-5c05-5acf-e1f3-acfbe0caf5cb/mza_18056287792858973049.png/170x170bb.png",
+      "genre": "Education",
+      "genre_id": "1304",
+      "url": "https://podcasts.apple.com/in/podcast/lies-we-live-by/id1894926028?uo=2"
+    },
+    {
+      "rank": 50,
+      "apple_id": "1754592060",
+      "name": "The Jefferson Fisher Podcast",
+      "artist": "Civility Media",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/0c/65/c8/0c65c825-7d21-3a13-665c-79ed8a52daf6/mza_5851506895133185612.jpeg/170x170bb.png",
+      "genre": "Self-Improvement",
+      "genre_id": "1500",
+      "url": "https://podcasts.apple.com/in/podcast/the-jefferson-fisher-podcast/id1754592060?uo=2"
+    },
+    {
+      "rank": 51,
+      "apple_id": "1483304964",
+      "name": "» Divine Intervention Podcasts",
+      "artist": "Divine-Favour Anene",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/db/2f/2d/db2f2d87-c853-00d7-eec9-fc2b96436049/mza_17274053337058593295.jpg/170x170bb.png",
+      "genre": "Courses",
+      "genre_id": "1501",
+      "url": "https://podcasts.apple.com/in/podcast/divine-intervention-podcasts/id1483304964?uo=2"
+    },
+    {
+      "rank": 52,
+      "apple_id": "1896560473",
+      "name": "TED-Ed",
+      "artist": "TED-Ed",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/65/1b/fb/651bfb66-1b02-a1d0-58a4-1f1704dba661/mza_6307764766413892747.jpg/170x170bb.png",
+      "genre": "Education",
+      "genre_id": "1304",
+      "url": "https://podcasts.apple.com/in/podcast/ted-ed/id1896560473?uo=2"
+    },
+    {
+      "rank": 53,
+      "apple_id": "1472370879",
+      "name": "Psychology In Hindi",
+      "artist": "Saurabh Gandhi",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/a3/0c/32/a30c32aa-134e-1ba9-fde1-03c175ea0c7c/mza_3137813508108224400.jpg/170x170bb.png",
+      "genre": "Education",
+      "genre_id": "1304",
+      "url": "https://podcasts.apple.com/in/podcast/psychology-in-hindi/id1472370879?uo=2"
+    },
+    {
+      "rank": 54,
+      "apple_id": "1579628404",
+      "name": "Kannada Gothilla Podcast",
+      "artist": "Learning Kannada",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/e0/17/67/e017671e-8982-f684-a31d-a1cf6a0626aa/mza_9028779380261297369.jpg/170x170bb.png",
+      "genre": "Language Learning",
+      "genre_id": "1498",
+      "url": "https://podcasts.apple.com/in/podcast/kannada-gothilla-podcast/id1579628404?uo=2"
+    },
+    {
+      "rank": 55,
+      "apple_id": "983795625",
+      "name": "Conversations with Tyler",
+      "artist": "Mercatus Center at George Mason University",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/e9/5f/21/e95f218a-2962-8ae4-7e85-a006bb2b7d3b/mza_11200897794344120781.jpg/170x170bb.png",
+      "genre": "Education",
+      "genre_id": "1304",
+      "url": "https://podcasts.apple.com/in/podcast/conversations-with-tyler/id983795625?uo=2"
+    },
+    {
+      "rank": 56,
+      "apple_id": "1788815085",
+      "name": "English Learning Podcast",
+      "artist": "EnglishPod",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/f2/ff/6d/f2ff6d37-d7f6-bc95-9a94-f5bcdbdad897/mza_13908672640832875993.jpg/170x170bb.png",
+      "genre": "Language Learning",
+      "genre_id": "1498",
+      "url": "https://podcasts.apple.com/in/podcast/english-learning-podcast/id1788815085?uo=2"
+    },
+    {
+      "rank": 57,
+      "apple_id": "1291980917",
+      "name": "Learning English from the News",
+      "artist": "BBC Radio",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/0d/0d/f8/0d0df862-76cd-1779-953e-8e332ba0c946/mza_14074668406081675853.jpg/170x170bb.png",
+      "genre": "Language Learning",
+      "genre_id": "1498",
+      "url": "https://podcasts.apple.com/in/podcast/learning-english-from-the-news/id1291980917?uo=2"
+    },
+    {
+      "rank": 58,
+      "apple_id": "1607672994",
+      "name": "Dr. Sandeep Patil podcast.",
+      "artist": "Dr. Sandeep patil",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/f5/55/03/f55503cb-fce1-3535-638f-4296f4ee5c23/mza_2604775193534268772.jpg/170x170bb.png",
+      "genre": "Education",
+      "genre_id": "1304",
+      "url": "https://podcasts.apple.com/in/podcast/dr-sandeep-patil-podcast/id1607672994?uo=2"
+    },
+    {
+      "rank": 59,
+      "apple_id": "1894403077",
+      "name": "Learn Hindi with Fexingo",
+      "artist": "Fexingo",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ce/0c/eb/ce0ceb9a-d58e-78b1-e249-88935daa82dc/mza_9683859687891765775.png/170x170bb.png",
+      "genre": "Language Learning",
+      "genre_id": "1498",
+      "url": "https://podcasts.apple.com/in/podcast/learn-hindi-with-fexingo/id1894403077?uo=2"
+    },
+    {
+      "rank": 60,
+      "apple_id": "1085828103",
+      "name": "Slow German",
+      "artist": "Annik Rubens",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/19/f6/0b/19f60bbe-3bb3-ce26-b346-e60dfbb3518c/mza_3134750145267089852.jpg/170x170bb.png",
+      "genre": "Language Learning",
+      "genre_id": "1498",
+      "url": "https://podcasts.apple.com/in/podcast/slow-german/id1085828103?uo=2"
+    },
+    {
+      "rank": 61,
+      "apple_id": "977345837",
+      "name": "Real English Conversations Podcast | Confident English Communication for International Professionals",
+      "artist": "Real English Conversations: With Curtis Davies - English Podcast",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/61/7b/bd/617bbd1b-f044-32de-ea79-49ef786c4775/mza_16513957672551773115.jpg/170x170bb.png",
+      "genre": "Courses",
+      "genre_id": "1501",
+      "url": "https://podcasts.apple.com/in/podcast/real-english-conversations-podcast-confident-english/id977345837?uo=2"
+    },
+    {
+      "rank": 62,
+      "apple_id": "1884145882",
+      "name": "Learn English A1 with News | Slow Easy English for Beginners",
+      "artist": "LinguaWire",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/14/1c/af/141caf81-bb7e-7571-5379-dc948d3c67f8/mza_17935933153399868747.jpg/170x170bb.png",
+      "genre": "Language Learning",
+      "genre_id": "1498",
+      "url": "https://podcasts.apple.com/in/podcast/learn-english-a1-with-news-slow-easy-english-for-beginners/id1884145882?uo=2"
+    },
+    {
+      "rank": 63,
+      "apple_id": "1740768777",
+      "name": "Value Research",
+      "artist": "Value Research",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/f5/b3/49/f5b349ca-3034-22ad-d352-b65a5ce65c91/mza_7391041517116061570.png/170x170bb.png",
+      "genre": "Education",
+      "genre_id": "1304",
+      "url": "https://podcasts.apple.com/in/podcast/value-research/id1740768777?uo=2"
+    },
+    {
+      "rank": 64,
+      "apple_id": "1532956108",
+      "name": "IMO with Michelle Obama and Craig Robinson",
+      "artist": "Higher Ground",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/8c/ce/36/8cce3648-2e76-735c-f6d8-8e72febc8ed7/mza_13220543383965859061.jpeg/170x170bb.png",
+      "genre": "Self-Improvement",
+      "genre_id": "1500",
+      "url": "https://podcasts.apple.com/in/podcast/imo-with-michelle-obama-and-craig-robinson/id1532956108?uo=2"
+    },
+    {
+      "rank": 65,
+      "apple_id": "1604034708",
+      "name": "Busy, Yet Pretty",
+      "artist": "Jadyn Hailey",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/4f/8b/39/4f8b39ff-3987-0cb8-ea87-dac109bc69ea/mza_9474169831106726752.jpeg/170x170bb.png",
+      "genre": "Self-Improvement",
+      "genre_id": "1500",
+      "url": "https://podcasts.apple.com/in/podcast/busy-yet-pretty/id1604034708?uo=2"
+    },
+    {
+      "rank": 66,
+      "apple_id": "1544282221",
+      "name": "Rizwanani",
+      "artist": "rizwanani",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts124/v4/c0/cd/51/c0cd5186-bf53-67da-b15f-4c252e851bc3/mza_5739105361980144507.jpg/170x170bb.png",
+      "genre": "Self-Improvement",
+      "genre_id": "1500",
+      "url": "https://podcasts.apple.com/in/podcast/rizwanani/id1544282221?uo=2"
+    },
+    {
+      "rank": 67,
+      "apple_id": "1184022695",
+      "name": "The Jordan B. Peterson Podcast",
+      "artist": "Dr. Jordan B. Peterson",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/58/16/42/581642ef-7f31-d538-7c69-0a42ec25c604/mza_5721699391369703653.jpeg/170x170bb.png",
+      "genre": "Education",
+      "genre_id": "1304",
+      "url": "https://podcasts.apple.com/in/podcast/the-jordan-b-peterson-podcast/id1184022695?uo=2"
+    },
+    {
+      "rank": 68,
+      "apple_id": "925326414",
+      "name": "Learning English Stories",
+      "artist": "BBC Radio",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/f7/c4/f5/f7c4f52e-525c-4214-f7a7-b1c087ef8ad2/mza_11004143992691265319.jpg/170x170bb.png",
+      "genre": "Language Learning",
+      "genre_id": "1498",
+      "url": "https://podcasts.apple.com/in/podcast/learning-english-stories/id925326414?uo=2"
+    },
+    {
+      "rank": 69,
+      "apple_id": "1709421844",
+      "name": "Andrew Tate Motivation",
+      "artist": "Andrew Tate Motivation",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/73/2b/01/732b0190-b332-cfa3-313e-1af90be5e804/mza_9190415142087204322.jpg/170x170bb.png",
+      "genre": "Self-Improvement",
+      "genre_id": "1500",
+      "url": "https://podcasts.apple.com/in/podcast/andrew-tate-motivation/id1709421844?uo=2"
+    },
+    {
+      "rank": 70,
+      "apple_id": "1761575936",
+      "name": "Jim Rohn Motivation",
+      "artist": "Jim Rohn Motivation",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/9c/06/26/9c062664-0d07-b1a3-7bdf-e63ad8e21907/mza_12017393108891226503.png/170x170bb.png",
+      "genre": "Education",
+      "genre_id": "1304",
+      "url": "https://podcasts.apple.com/in/podcast/jim-rohn-motivation/id1761575936?uo=2"
+    },
+    {
+      "rank": 71,
+      "apple_id": "1606809265",
+      "name": "Trying Not to Care",
+      "artist": "Ashley Corbo",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/be/72/00/be7200c4-f120-94e2-a6d8-3aed3fa5a9c0/mza_5302945902464215756.jpg/170x170bb.png",
+      "genre": "Self-Improvement",
+      "genre_id": "1500",
+      "url": "https://podcasts.apple.com/in/podcast/trying-not-to-care/id1606809265?uo=2"
+    },
+    {
+      "rank": 72,
+      "apple_id": "1721113418",
+      "name": "French Mornings with Elisa",
+      "artist": "French Mornings with Elisa",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/4a/fe/f9/4afef96b-22e9-1691-beed-dc7bbb7f8b14/mza_13877052066769142561.jpg/170x170bb.png",
+      "genre": "Language Learning",
+      "genre_id": "1498",
+      "url": "https://podcasts.apple.com/in/podcast/french-mornings-with-elisa/id1721113418?uo=2"
+    },
+    {
+      "rank": 73,
+      "apple_id": "1556878879",
+      "name": "Listening Time: English Practice",
+      "artist": "Sonoro |  Conner Pe",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/2e/24/87/2e248729-c61f-c9f4-5118-1c94120248a2/mza_11068340913129106664.jpg/170x170bb.png",
+      "genre": "Language Learning",
+      "genre_id": "1498",
+      "url": "https://podcasts.apple.com/in/podcast/listening-time-english-practice/id1556878879?uo=2"
+    },
+    {
+      "rank": 74,
+      "apple_id": "1609278476",
+      "name": "The Learn German Vocabulary A1 To B2 Podcast",
+      "artist": "Sumitha Prathap",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/d5/81/c0/d581c090-62ff-b40a-27a4-dcf470920389/mza_10604068942082348291.png/170x170bb.png",
+      "genre": "Language Learning",
+      "genre_id": "1498",
+      "url": "https://podcasts.apple.com/in/podcast/the-learn-german-vocabulary-a1-to-b2-podcast/id1609278476?uo=2"
+    },
+    {
+      "rank": 75,
+      "apple_id": "1216879060",
+      "name": "Speak English Now Podcast: Learn English | Speak English without grammar.",
+      "artist": "Georgiana, founder of SpeakEnglishPodcast.com",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/39/33/84/3933847d-f5e4-f944-64ef-98e92afeefc7/mza_15917938993364345982.jpg/170x170bb.png",
+      "genre": "Language Learning",
+      "genre_id": "1498",
+      "url": "https://podcasts.apple.com/in/podcast/speak-english-now-podcast-learn-english-speak-english/id1216879060?uo=2"
+    },
+    {
+      "rank": 76,
+      "apple_id": "1633725927",
+      "name": "Know Thyself",
+      "artist": "André Duqum",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/9a/5f/ad/9a5fadca-5acd-d2d6-a0e5-03d2e0e4c3be/mza_13997784639600787700.jpg/170x170bb.png",
+      "genre": "Self-Improvement",
+      "genre_id": "1500",
+      "url": "https://podcasts.apple.com/in/podcast/know-thyself/id1633725927?uo=2"
+    },
+    {
+      "rank": 77,
+      "apple_id": "1882584624",
+      "name": "The Youth Mind",
+      "artist": "AVI'",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/PodcastSource221/v4/15/7d/0f/157d0fe6-579b-c34c-7f7e-9c8bfe9fe060/f9d4bfbf-920b-4e77-9ee6-16ef896cc93b.jpg/170x170bb.png",
+      "genre": "Self-Improvement",
+      "genre_id": "1500",
+      "url": "https://podcasts.apple.com/in/podcast/the-youth-mind/id1882584624?uo=2"
+    },
+    {
+      "rank": 78,
+      "apple_id": "1647991952",
+      "name": "Easy English: Learn English with everyday conversations",
+      "artist": "Isi & Mitch",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/8b/e4/21/8be421e6-2331-de70-e4a8-0a43f234b0a4/mza_17917379900531690977.jpg/170x170bb.png",
+      "genre": "Language Learning",
+      "genre_id": "1498",
+      "url": "https://podcasts.apple.com/in/podcast/easy-english-learn-english-with-everyday-conversations/id1647991952?uo=2"
+    },
+    {
+      "rank": 79,
+      "apple_id": "173429229",
+      "name": "Grammar Girl: For Writers and Language Lovers.",
+      "artist": "QuickAndDirtyTips.com",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/f5/5b/bb/f55bbbd8-d00f-733a-e19a-1d4d234ffdbe/mza_5090015985788464869.jpg/170x170bb.png",
+      "genre": "Education",
+      "genre_id": "1304",
+      "url": "https://podcasts.apple.com/in/podcast/grammar-girl-for-writers-and-language-lovers/id173429229?uo=2"
+    },
+    {
+      "rank": 80,
+      "apple_id": "1067688314",
+      "name": "Optimal Living Daily - Personal Development and Self-Improvement",
+      "artist": "Justin Malik",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/4c/d8/47/4cd847df-3f6d-e1b4-4124-48221c11fd71/mza_6339034916560542601.jpg/170x170bb.png",
+      "genre": "Self-Improvement",
+      "genre_id": "1500",
+      "url": "https://podcasts.apple.com/in/podcast/optimal-living-daily-personal-development-and-self/id1067688314?uo=2"
+    },
+    {
+      "rank": 81,
+      "apple_id": "1896310349",
+      "name": "Bob Proctor: The Science of Success",
+      "artist": "Bob Proctor",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/44/4c/f3/444cf322-ebbc-05ce-80f3-ed2f4837872a/mza_7769762278490807506.jpeg/170x170bb.png",
+      "genre": "Self-Improvement",
+      "genre_id": "1500",
+      "url": "https://podcasts.apple.com/in/podcast/bob-proctor-the-science-of-success/id1896310349?uo=2"
+    },
+    {
+      "rank": 82,
+      "apple_id": "1598118159",
+      "name": "German Stories - Learn German with Stories",
+      "artist": "german-stories.com",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/0e/8f/76/0e8f7662-5bae-f459-fc65-86fdd72ab30c/mza_1849258563597029645.jpg/170x170bb.png",
+      "genre": "Language Learning",
+      "genre_id": "1498",
+      "url": "https://podcasts.apple.com/in/podcast/german-stories-learn-german-with-stories/id1598118159?uo=2"
+    },
+    {
+      "rank": 83,
+      "apple_id": "1798055916",
+      "name": "SyllabuswithRohit",
+      "artist": "SyllabuswithRohit",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/e3/77/d8/e377d8a6-069c-16f6-d660-cce2d5b9a8e1/mza_15759014430896799464.jpg/170x170bb.png",
+      "genre": "Education",
+      "genre_id": "1304",
+      "url": "https://podcasts.apple.com/in/podcast/syllabuswithrohit/id1798055916?uo=2"
+    },
+    {
+      "rank": 84,
+      "apple_id": "1502588575",
+      "name": "Self Motivation podcast (HINDI)",
+      "artist": "Manish Naha",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/d7/be/3b/d7be3b2c-b138-a1d5-86d5-d7cb580687ce/mza_5076383509348628581.jpg/170x170bb.png",
+      "genre": "Self-Improvement",
+      "genre_id": "1500",
+      "url": "https://podcasts.apple.com/in/podcast/self-motivation-podcast-hindi/id1502588575?uo=2"
+    },
+    {
+      "rank": 85,
+      "apple_id": "1832334535",
+      "name": "Complete Bhagavad Gita (Hindi)",
+      "artist": "LipotleLover",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ec/20/22/ec202286-61ca-1457-ad1d-ec1dd963c854/mza_694334576319235069.jpg/170x170bb.png",
+      "genre": "Self-Improvement",
+      "genre_id": "1500",
+      "url": "https://podcasts.apple.com/in/podcast/complete-bhagavad-gita-hindi/id1832334535?uo=2"
+    },
+    {
+      "rank": 86,
+      "apple_id": "1720850195",
+      "name": "Stoic Lessons",
+      "artist": "Stoic Lessons",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c7/fb/d4/c7fbd4df-34b4-0665-ed8a-b2726540aea8/mza_2704942427800472288.jpg/170x170bb.png",
+      "genre": "Education",
+      "genre_id": "1304",
+      "url": "https://podcasts.apple.com/in/podcast/stoic-lessons/id1720850195?uo=2"
+    },
+    {
+      "rank": 87,
+      "apple_id": "969076668",
+      "name": "IELTS Energy English 7+",
+      "artist": "Lindsay McMahon, Jessica Beck, Aubrey Carter",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/3c/05/50/3c055046-4900-44d9-a803-bc383300cd99/mza_4842244749630690355.jpg/170x170bb.png",
+      "genre": "Language Learning",
+      "genre_id": "1498",
+      "url": "https://podcasts.apple.com/in/podcast/ielts-energy-english-7/id969076668?uo=2"
+    },
+    {
+      "rank": 88,
+      "apple_id": "1773654094",
+      "name": "The Secret Sessions with Rhonda Byrne",
+      "artist": "The Secret by Rhonda Byrne, Copyright ©️ 2025 Prime Time US LLC.",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ec/13/22/ec13223c-7505-c0d5-91a2-d02d8158d484/mza_5017170427443146950.jpg/170x170bb.png",
+      "genre": "Self-Improvement",
+      "genre_id": "1500",
+      "url": "https://podcasts.apple.com/in/podcast/the-secret-sessions-with-rhonda-byrne/id1773654094?uo=2"
+    },
+    {
+      "rank": 89,
+      "apple_id": "1840133420",
+      "name": "Book Journey Insider – Hindi Audiobook",
+      "artist": "Book Journey Insider",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/6b/ab/f9/6babf94c-3768-3e38-46a1-6b904b190d32/mza_2972219772888444462.jpg/170x170bb.png",
+      "genre": "Education",
+      "genre_id": "1304",
+      "url": "https://podcasts.apple.com/in/podcast/book-journey-insider-hindi-audiobook/id1840133420?uo=2"
+    },
+    {
+      "rank": 90,
+      "apple_id": "1501370140",
+      "name": "MkJayadev",
+      "artist": "M K Jayadev",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/15/18/f9/1518f9d7-bec5-de5f-97a6-418b20991039/mza_7290941010579498550.jpg/170x170bb.png",
+      "genre": "Self-Improvement",
+      "genre_id": "1500",
+      "url": "https://podcasts.apple.com/in/podcast/mkjayadev/id1501370140?uo=2"
+    },
+    {
+      "rank": 91,
+      "apple_id": "1523898793",
+      "name": "Platypus Economics with Justin Wolfers",
+      "artist": "Platypus Economics",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/1e/27/e0/1e27e0df-19c3-9a58-fa8f-f0229b3ebb8a/mza_1587092189444610945.jpg/170x170bb.png",
+      "genre": "Courses",
+      "genre_id": "1501",
+      "url": "https://podcasts.apple.com/in/podcast/platypus-economics-with-justin-wolfers/id1523898793?uo=2"
+    },
+    {
+      "rank": 92,
+      "apple_id": "1706743139",
+      "name": "Motivational daily by I am worthy club",
+      "artist": "I am worthy club",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/63/2e/e0/632ee0da-a86a-6f66-8382-99ff315e9642/mza_1303541077935633112.jpg/170x170bb.png",
+      "genre": "How To",
+      "genre_id": "1499",
+      "url": "https://podcasts.apple.com/in/podcast/motivational-daily-by-i-am-worthy-club/id1706743139?uo=2"
+    },
+    {
+      "rank": 93,
+      "apple_id": "1827641430",
+      "name": "Tafseer-e-Quran by Mufti Tariq Masood",
+      "artist": "Mufti Tariq Masood",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/71/7e/c2/717ec25d-231d-be20-304f-cb131fc4115f/mza_9302444798112273112.jpeg/170x170bb.png",
+      "genre": "Education",
+      "genre_id": "1304",
+      "url": "https://podcasts.apple.com/in/podcast/tafseer-e-quran-by-mufti-tariq-masood/id1827641430?uo=2"
+    },
+    {
+      "rank": 94,
+      "apple_id": "1562025210",
+      "name": "The Resilient Mind",
+      "artist": "The Resilient Mind",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/0b/3f/57/0b3f571b-8582-914c-f079-e48c0d401b29/mza_11324806694383546215.jpg/170x170bb.png",
+      "genre": "Self-Improvement",
+      "genre_id": "1500",
+      "url": "https://podcasts.apple.com/in/podcast/the-resilient-mind/id1562025210?uo=2"
+    },
+    {
+      "rank": 95,
+      "apple_id": "1649893842",
+      "name": "Open Ah Peslama? ( Tamil Podcast )",
+      "artist": "By Vardhini Padmanaban",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/fe/87/98/fe879872-6115-6aff-4621-3287f858aedf/mza_17703620858048027533.jpg/170x170bb.png",
+      "genre": "Self-Improvement",
+      "genre_id": "1500",
+      "url": "https://podcasts.apple.com/in/podcast/open-ah-peslama-tamil-podcast/id1649893842?uo=2"
+    },
+    {
+      "rank": 96,
+      "apple_id": "1684228055",
+      "name": "Finance Simplified by CA Rachana Ranade",
+      "artist": "CA Rachana Ranade",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/1d/90/11/1d9011c4-90d9-152e-1197-dde797f6bb3f/mza_17189008252916530267.jpg/170x170bb.png",
+      "genre": "Education",
+      "genre_id": "1304",
+      "url": "https://podcasts.apple.com/in/podcast/finance-simplified-by-ca-rachana-ranade/id1684228055?uo=2"
+    },
+    {
+      "rank": 97,
+      "apple_id": "1466481869",
+      "name": "Learn Hindi On The Go",
+      "artist": "Jaibodh Pandey , Shraddha Pandey & Ritansh",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/01/40/2b/01402b66-fd7a-0e51-bfa2-a7b1ad74eafd/mza_6422761393797314677.jpg/170x170bb.png",
+      "genre": "Language Learning",
+      "genre_id": "1498",
+      "url": "https://podcasts.apple.com/in/podcast/learn-hindi-on-the-go/id1466481869?uo=2"
+    },
+    {
+      "rank": 98,
+      "apple_id": "1712062853",
+      "name": "Slow German listening experience",
+      "artist": "Teja D.",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/cc/ee/8f/ccee8f5e-ebd7-89af-a2e6-78ac92957fcc/mza_10593414197143037956.jpg/170x170bb.png",
+      "genre": "Language Learning",
+      "genre_id": "1498",
+      "url": "https://podcasts.apple.com/in/podcast/slow-german-listening-experience/id1712062853?uo=2"
+    },
+    {
+      "rank": 99,
+      "apple_id": "1488201401",
+      "name": "IELTS Speaking for Success",
+      "artist": "Podcourses",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/19/d7/fe/19d7fe0d-8c0d-6565-8c28-a506755ee9d0/mza_8112732911637303872.png/170x170bb.png",
+      "genre": "Language Learning",
+      "genre_id": "1498",
+      "url": "https://podcasts.apple.com/in/podcast/ielts-speaking-for-success/id1488201401?uo=2"
+    },
+    {
+      "rank": 100,
+      "apple_id": "1535401964",
+      "name": "Thinking in English",
+      "artist": "Thomas Wilkinson",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/6a/d9/84/6ad984d4-46b5-80f4-801b-ccfda17d6d32/mza_7127684008959106584.jpg/170x170bb.png",
+      "genre": "Language Learning",
+      "genre_id": "1498",
+      "url": "https://podcasts.apple.com/in/podcast/thinking-in-english/id1535401964?uo=2"
+    },
+    {
+      "rank": 101,
+      "apple_id": "958179457",
+      "name": "Coffee Break Italian",
+      "artist": "Coffee Break Languages",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/10/70/33/107033f3-ea12-be10-72a2-11f580da2c4c/mza_12195287134743039334.jpg/170x170bb.png",
+      "genre": "Language Learning",
+      "genre_id": "1498",
+      "url": "https://podcasts.apple.com/in/podcast/coffee-break-italian/id958179457?uo=2"
+    },
+    {
+      "rank": 102,
+      "apple_id": "1648626033",
+      "name": "Manifestation: Law of Attraction, LOA, Vibration, Affirmations, Meditation, Mindset",
+      "artist": "Manifestation",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/12/f6/fd/12f6fdfc-a557-d775-aea1-4968cc9761c4/mza_11766919606930515483.jpeg/170x170bb.png",
+      "genre": "How To",
+      "genre_id": "1499",
+      "url": "https://podcasts.apple.com/in/podcast/manifestation-law-of-attraction-loa-vibration/id1648626033?uo=2"
+    },
+    {
+      "rank": 103,
+      "apple_id": "1806401269",
+      "name": "Hot Water (fka Mind Your Manners)",
+      "artist": "Sara Jane Ho",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/f3/ed/c5/f3edc581-4a46-766a-1d28-c333ef89121b/mza_1624207489235623167.jpg/170x170bb.png",
+      "genre": "Self-Improvement",
+      "genre_id": "1500",
+      "url": "https://podcasts.apple.com/in/podcast/hot-water-fka-mind-your-manners/id1806401269?uo=2"
+    },
+    {
+      "rank": 104,
+      "apple_id": "1876905158",
+      "name": "FF Kipas Download Beta Server (Free Fire) For Android OB52",
+      "artist": "FF Kipas Team",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/e7/a5/b6/e7a5b651-ca3a-d67a-ee02-2cb019bd35d7/mza_1921853147265846403.jpg/170x170bb.png",
+      "genre": "How To",
+      "genre_id": "1499",
+      "url": "https://podcasts.apple.com/in/podcast/ff-kipas-download-beta-server-free-fire-for-android-ob52/id1876905158?uo=2"
+    },
+    {
+      "rank": 105,
+      "apple_id": "282933246",
+      "name": "Deutsche im Alltag – Alltagsdeutsch | Audios | DW Deutsch lernen",
+      "artist": "DW",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/68/25/5c/68255cf6-0338-2316-aaa9-6bee7c9ef194/mza_2033359263907759661.jpg/170x170bb.png",
+      "genre": "Language Learning",
+      "genre_id": "1498",
+      "url": "https://podcasts.apple.com/in/podcast/deutsche-im-alltag-alltagsdeutsch-audios-dw-deutsch/id282933246?uo=2"
+    },
+    {
+      "rank": 106,
+      "apple_id": "1700171470",
+      "name": "How I Write",
+      "artist": "David Perell",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/12/90/83/129083d6-e4da-1c09-6b9f-bfbc5cff772a/mza_1113093650591453909.jpeg/170x170bb.png",
+      "genre": "Education",
+      "genre_id": "1304",
+      "url": "https://podcasts.apple.com/in/podcast/how-i-write/id1700171470?uo=2"
+    },
+    {
+      "rank": 107,
+      "apple_id": "1191490521",
+      "name": "Talk Chineasy - Learn Chinese every day with ShaoLan",
+      "artist": "Chineasy by ShaoLan",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/26/27/4c/26274c56-f69c-c644-05e9-fe0518406a6c/mza_1249301203404815261.jpg/170x170bb.png",
+      "genre": "Education",
+      "genre_id": "1304",
+      "url": "https://podcasts.apple.com/in/podcast/talk-chineasy-learn-chinese-every-day-with-shaolan/id1191490521?uo=2"
+    },
+    {
+      "rank": 108,
+      "apple_id": "1557471374",
+      "name": "Easy Spanish: Learn Spanish with everyday conversations | Conversaciones del día a día para aprender español",
+      "artist": "Pau and the Easy Spanish team",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts114/v4/4c/63/0f/4c630f95-0cd9-2545-ab3a-c1d2588f09ac/mza_9317916818140148952.jpg/170x170bb.png",
+      "genre": "Language Learning",
+      "genre_id": "1498",
+      "url": "https://podcasts.apple.com/in/podcast/easy-spanish-learn-spanish-with-everyday-conversations/id1557471374?uo=2"
+    },
+    {
+      "rank": 109,
+      "apple_id": "75908431",
+      "name": "Speak English with ESLPod.com",
+      "artist": "ESLPod.com",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/c8/3f/c0/c83fc00c-83da-2f0f-d9a9-b2d452b17143/mza_13256015077770363290.jpeg/170x170bb.png",
+      "genre": "Language Learning",
+      "genre_id": "1498",
+      "url": "https://podcasts.apple.com/in/podcast/speak-english-with-eslpod-com/id75908431?uo=2"
+    },
+    {
+      "rank": 110,
+      "apple_id": "1456966267",
+      "name": "American English Podcast",
+      "artist": "Shana Thompson",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c1/b5/60/c1b560a1-585d-5f25-6ff5-195161e03f53/mza_8466093335227729312.jpg/170x170bb.png",
+      "genre": "Language Learning",
+      "genre_id": "1498",
+      "url": "https://podcasts.apple.com/in/podcast/american-english-podcast/id1456966267?uo=2"
+    },
+    {
+      "rank": 111,
+      "apple_id": "1587046024",
+      "name": "How to Age Up",
+      "artist": "The Atlantic",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/8f/47/87/8f4787c8-2f33-a1f8-5660-d1c240fc0845/mza_7968717740753650748.jpeg/170x170bb.png",
+      "genre": "Self-Improvement",
+      "genre_id": "1500",
+      "url": "https://podcasts.apple.com/in/podcast/how-to-age-up/id1587046024?uo=2"
+    },
+    {
+      "rank": 112,
+      "apple_id": "1461493560",
+      "name": "Life Kit",
+      "artist": "NPR",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/d5/80/28/d5802807-0091-e50c-6395-09944a6124ea/mza_4206547085430839338.jpg/170x170bb.png",
+      "genre": "Self-Improvement",
+      "genre_id": "1500",
+      "url": "https://podcasts.apple.com/in/podcast/life-kit/id1461493560?uo=2"
+    },
+    {
+      "rank": 113,
+      "apple_id": "1732158444",
+      "name": "Busy Glowing Up",
+      "artist": "Liv Merima",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/7b/53/d0/7b53d04c-919d-cce0-8c6d-9aec9f891900/mza_5466672035464285833.jpg/170x170bb.png",
+      "genre": "How To",
+      "genre_id": "1499",
+      "url": "https://podcasts.apple.com/in/podcast/busy-glowing-up/id1732158444?uo=2"
+    },
+    {
+      "rank": 114,
+      "apple_id": "1500641870",
+      "name": "Live Like the World is Dying",
+      "artist": "Strangers in a Tangled Wilderness",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/73/d4/b9/73d4b936-9404-cbf4-1c61-8adc648a7e59/mza_400349291494078540.jpg/170x170bb.png",
+      "genre": "Education",
+      "genre_id": "1304",
+      "url": "https://podcasts.apple.com/in/podcast/live-like-the-world-is-dying/id1500641870?uo=2"
+    },
+    {
+      "rank": 115,
+      "apple_id": "201598403",
+      "name": "Coffee Break Spanish",
+      "artist": "Coffee Break Languages",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/8c/60/bb/8c60bbc0-0bfb-13c9-ec70-ec7812061d5e/mza_3440928626851101255.jpg/170x170bb.png",
+      "genre": "Language Learning",
+      "genre_id": "1498",
+      "url": "https://podcasts.apple.com/in/podcast/coffee-break-spanish/id201598403?uo=2"
+    },
+    {
+      "rank": 116,
+      "apple_id": "323145903",
+      "name": "Learn English | EnglishClass101.com",
+      "artist": "EnglishClass101.com",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/6a/5d/ae/6a5dae07-1174-dfe1-62c5-aa4b2ff93366/mza_2679248944706651363.jpg/170x170bb.png",
+      "genre": "Language Learning",
+      "genre_id": "1498",
+      "url": "https://podcasts.apple.com/in/podcast/learn-english-englishclass101-com/id323145903?uo=2"
+    },
+    {
+      "rank": 117,
+      "apple_id": "1786446850",
+      "name": "Andrew Tate Speech Daily",
+      "artist": "Andrew Tate Daily",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/1a/14/e0/1a14e0c6-5687-541b-54a7-6f985201eb32/mza_12847258300479947657.jpg/170x170bb.png",
+      "genre": "Self-Improvement",
+      "genre_id": "1500",
+      "url": "https://podcasts.apple.com/in/podcast/andrew-tate-speech-daily/id1786446850?uo=2"
+    },
+    {
+      "rank": 118,
+      "apple_id": "1888277967",
+      "name": "Elite Audiobooks",
+      "artist": "elite audiobooks",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d6/7c/e3/d67ce35e-ca1c-ceb2-9129-4cbaeed81512/mza_14449750921523262812.jpg/170x170bb.png",
+      "genre": "Self-Improvement",
+      "genre_id": "1500",
+      "url": "https://podcasts.apple.com/in/podcast/elite-audiobooks/id1888277967?uo=2"
+    },
+    {
+      "rank": 119,
+      "apple_id": "1894375995",
+      "name": "Learn Arabic with Fexingo",
+      "artist": "Fexingo",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/80/72/67/807267ce-8f07-7f04-8188-81503e9c1571/mza_4235502664399336362.png/170x170bb.png",
+      "genre": "Language Learning",
+      "genre_id": "1498",
+      "url": "https://podcasts.apple.com/in/podcast/learn-arabic-with-fexingo/id1894375995?uo=2"
+    },
+    {
+      "rank": 120,
+      "apple_id": "1594031639",
+      "name": "Aware and Aggravated",
+      "artist": "Aware and Aggravated",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/aa/16/bb/aa16bb2d-350e-011e-4f43-2572805b452f/mza_13392868662349480643.jpg/170x170bb.png",
+      "genre": "Self-Improvement",
+      "genre_id": "1500",
+      "url": "https://podcasts.apple.com/in/podcast/aware-and-aggravated/id1594031639?uo=2"
+    },
+    {
+      "rank": 121,
+      "apple_id": "1730954168",
+      "name": "Makes Sense - with Dr. JC Doornick",
+      "artist": "Dr. JC Doornick \"The Dragon\"",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/11/12/31/11123104-ca33-d94a-4cd8-207a436d9ad7/mza_9077846304850236016.jpg/170x170bb.png",
+      "genre": "Self-Improvement",
+      "genre_id": "1500",
+      "url": "https://podcasts.apple.com/in/podcast/makes-sense-with-dr-jc-doornick/id1730954168?uo=2"
+    },
+    {
+      "rank": 122,
+      "apple_id": "1550651285",
+      "name": "The Manifestation Collective Podcast",
+      "artist": "The Manifestation Collective",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/5f/61/35/5f61357e-662c-045c-f061-bd88a7fe38a0/mza_221877599951152328.jpeg/170x170bb.png",
+      "genre": "Self-Improvement",
+      "genre_id": "1500",
+      "url": "https://podcasts.apple.com/in/podcast/the-manifestation-collective-podcast/id1550651285?uo=2"
+    },
+    {
+      "rank": 123,
+      "apple_id": "1528899170",
+      "name": "Calm Your Daily Stress - Stress Relief for the Busy Midlife Woman",
+      "artist": "Denise Eckert, Creator of the Relax Now Mobile App - Anxiety and Stress Relief",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/cc/4f/7c/cc4f7c87-b115-fe3a-283d-2bb95af069fc/mza_10076938265403357015.jpg/170x170bb.png",
+      "genre": "Self-Improvement",
+      "genre_id": "1500",
+      "url": "https://podcasts.apple.com/in/podcast/calm-your-daily-stress-stress-relief-for-the-busy/id1528899170?uo=2"
+    },
+    {
+      "rank": 124,
+      "apple_id": "688091468",
+      "name": "Let's Master English! An English podcast for English learners",
+      "artist": "Coach Shane",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/73/3c/58/733c58af-104d-6281-be50-7d802328d595/mza_12131862058616360904.jpg/170x170bb.png",
+      "genre": "Courses",
+      "genre_id": "1501",
+      "url": "https://podcasts.apple.com/in/podcast/lets-master-english-an-english-podcast-for-english/id688091468?uo=2"
+    },
+    {
+      "rank": 125,
+      "apple_id": "1779901745",
+      "name": "Learn GCSE Biology with Cognito",
+      "artist": "Cognito GCSE Biology",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/f1/93/7c/f1937c62-1c1c-281b-b6a6-e4d4fc9107ff/mza_11229390370124033286.jpg/170x170bb.png",
+      "genre": "Courses",
+      "genre_id": "1501",
+      "url": "https://podcasts.apple.com/in/podcast/learn-gcse-biology-with-cognito/id1779901745?uo=2"
+    },
+    {
+      "rank": 126,
+      "apple_id": "1824923924",
+      "name": "Certified: The CISM Audio Course",
+      "artist": "Dr. Jason Edwards",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/69/98/60/699860f0-0262-7fee-002c-0a377ea95de1/mza_13217233589702895002.jpg/170x170bb.png",
+      "genre": "Courses",
+      "genre_id": "1501",
+      "url": "https://podcasts.apple.com/in/podcast/certified-the-cism-audio-course/id1824923924?uo=2"
+    },
+    {
+      "rank": 127,
+      "apple_id": "1890272725",
+      "name": "Fear of Public Speaking: A Practical Cure (Stop Speaking Anxiety Fast with Video Practice)",
+      "artist": "TJ Walker",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/72/1f/fa/721ffac0-bf45-c2cb-58b1-a5a2adf60d23/mza_2503658943110769925.png/170x170bb.png",
+      "genre": "Self-Improvement",
+      "genre_id": "1500",
+      "url": "https://podcasts.apple.com/in/podcast/fear-of-public-speaking-a-practical-cure-stop/id1890272725?uo=2"
+    },
+    {
+      "rank": 128,
+      "apple_id": "1674060379",
+      "name": "CISSP Cyber Training Podcast - CISSP Training Program",
+      "artist": "Shon Gerber, vCISO, CISSP, Cybersecurity Consultant and Entrepreneur",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/6a/9c/94/6a9c9407-325a-3fd2-5f58-a9de8ffd643c/mza_1645455800644216760.jpg/170x170bb.png",
+      "genre": "Courses",
+      "genre_id": "1501",
+      "url": "https://podcasts.apple.com/in/podcast/cissp-cyber-training-podcast-cissp-training-program/id1674060379?uo=2"
+    },
+    {
+      "rank": 129,
+      "apple_id": "1551272320",
+      "name": "Shrising- Literature music & my Quora readings",
+      "artist": "G Shrinithyaa",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts114/v4/d2/39/84/d2398455-e688-4e53-c3ae-32ab7459f4e4/mza_15260034697771566970.jpg/170x170bb.png",
+      "genre": "Self-Improvement",
+      "genre_id": "1500",
+      "url": "https://podcasts.apple.com/in/podcast/shrising-literature-music-my-quora-readings/id1551272320?uo=2"
+    },
+    {
+      "rank": 130,
+      "apple_id": "1697650180",
+      "name": "Tate Therapy",
+      "artist": "Top G",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/f3/40/37/f3403718-3171-3a73-3c71-7eec41d5abe0/mza_13850731860898682162.jpg/170x170bb.png",
+      "genre": "Self-Improvement",
+      "genre_id": "1500",
+      "url": "https://podcasts.apple.com/in/podcast/tate-therapy/id1697650180?uo=2"
+    },
+    {
+      "rank": 131,
+      "apple_id": "1677329601",
+      "name": "STUDYIQ UPSC PODCAST HINGLISH",
+      "artist": "Avlokit Meshram",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/51/94/30/51943026-20e1-fe33-69c2-fe0fcebbee56/mza_13879411843540529876.jpeg/170x170bb.png",
+      "genre": "Courses",
+      "genre_id": "1501",
+      "url": "https://podcasts.apple.com/in/podcast/studyiq-upsc-podcast-hinglish/id1677329601?uo=2"
+    },
+    {
+      "rank": 132,
+      "apple_id": "993988537",
+      "name": "A Changed Mind | Mindset That Matters",
+      "artist": "David Bayer",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/c0/4a/9d/c04a9dd1-eeda-2e35-1aac-34461f738ea7/mza_17966210569365645826.jpeg/170x170bb.png",
+      "genre": "Self-Improvement",
+      "genre_id": "1500",
+      "url": "https://podcasts.apple.com/in/podcast/a-changed-mind-mindset-that-matters/id993988537?uo=2"
+    },
+    {
+      "rank": 133,
+      "apple_id": "811377230",
+      "name": "Hello Internet",
+      "artist": "CGP Grey & Brady Haran",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts6/v4/19/33/fe/1933fe85-cd86-2191-8187-d725ca7359bf/mza_8038397602264410223.png/170x170bb.png",
+      "genre": "Education",
+      "genre_id": "1304",
+      "url": "https://podcasts.apple.com/in/podcast/hello-internet/id811377230?uo=2"
+    },
+    {
+      "rank": 134,
+      "apple_id": "1678627920",
+      "name": "A Better You by Fernanda Ramirez",
+      "artist": "Fernanda Ramirez",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/2b/27/69/2b276931-230c-c4fd-997c-59d145259c8a/mza_1272876162547159651.jpg/170x170bb.png",
+      "genre": "Self-Improvement",
+      "genre_id": "1500",
+      "url": "https://podcasts.apple.com/in/podcast/a-better-you-by-fernanda-ramirez/id1678627920?uo=2"
+    },
+    {
+      "rank": 135,
+      "apple_id": "1868606400",
+      "name": "はじめての日本語能力試験 合格模試 N5 TEST 3",
+      "artist": "アスク出版",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a6/f1/9a/a6f19a51-46f3-ecf6-4436-b874d939920d/mza_9076349831196830234.jpg/170x170bb.png",
+      "genre": "Language Learning",
+      "genre_id": "1498",
+      "url": "https://podcasts.apple.com/in/podcast/%E3%81%AF%E3%81%98%E3%82%81%E3%81%A6%E3%81%AE%E6%97%A5%E6%9C%AC%E8%AA%9E%E8%83%BD%E5%8A%9B%E8%A9%A6%E9%A8%93-%E5%90%88%E6%A0%BC%E6%A8%A1%E8%A9%A6-n5-test-3/id1868606400?uo=2"
+    },
+    {
+      "rank": 136,
+      "apple_id": "1773945766",
+      "name": "Ohlala la France !",
+      "artist": "Ohlala French Course",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/07/2a/ac072a96-cfa8-89c3-c4a1-17631f2c2d29/mza_3830930304506399218.jpg/170x170bb.png",
+      "genre": "Education",
+      "genre_id": "1304",
+      "url": "https://podcasts.apple.com/in/podcast/ohlala-la-france/id1773945766?uo=2"
+    },
+    {
+      "rank": 137,
+      "apple_id": "1364706343",
+      "name": "Academy of Ideas",
+      "artist": "Academy of Ideas",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/cf/19/00/cf19000e-fe05-dd66-585d-78a0646c2d18/mza_8027590118933483370.png/170x170bb.png",
+      "genre": "Self-Improvement",
+      "genre_id": "1500",
+      "url": "https://podcasts.apple.com/in/podcast/academy-of-ideas/id1364706343?uo=2"
+    },
+    {
+      "rank": 138,
+      "apple_id": "1811649647",
+      "name": "DeutschFluss - German Podcast For Beginners",
+      "artist": "DeutschFluss",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/35/eb/4d/35eb4dc4-8bc6-b529-67ed-82996cdf2b52/mza_17046509025535191426.jpg/170x170bb.png",
+      "genre": "Language Learning",
+      "genre_id": "1498",
+      "url": "https://podcasts.apple.com/in/podcast/deutschfluss-german-podcast-for-beginners/id1811649647?uo=2"
+    },
+    {
+      "rank": 139,
+      "apple_id": "1841049101",
+      "name": "CapCut 94FBR",
+      "artist": "CapCut 94FBR",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/a5/62/8d/a5628de8-0e35-9ca0-22e8-1dada343c2bc/mza_6183693877640542202.jpeg/170x170bb.png",
+      "genre": "Education",
+      "genre_id": "1304",
+      "url": "https://podcasts.apple.com/in/podcast/capcut-94fbr/id1841049101?uo=2"
+    },
+    {
+      "rank": 140,
+      "apple_id": "1885536008",
+      "name": "Learn German A1 with News | Slow Easy German for Beginners",
+      "artist": "LinguaWire",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c2/8c/f3/c28cf353-e91e-4784-774c-64b9593234a6/mza_7419930519816525032.jpg/170x170bb.png",
+      "genre": "Language Learning",
+      "genre_id": "1498",
+      "url": "https://podcasts.apple.com/in/podcast/learn-german-a1-with-news-slow-easy-german-for-beginners/id1885536008?uo=2"
+    },
+    {
+      "rank": 141,
+      "apple_id": "1738436009",
+      "name": "Ask Mufti Tariq Masood Podcast",
+      "artist": "Ask Mufti Tariq Masood",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/07/ad/89/07ad89f0-7677-f277-5018-2bc3ef13d523/mza_11271017443059406176.png/170x170bb.png",
+      "genre": "Education",
+      "genre_id": "1304",
+      "url": "https://podcasts.apple.com/in/podcast/ask-mufti-tariq-masood-podcast/id1738436009?uo=2"
+    },
+    {
+      "rank": 142,
+      "apple_id": "1447267503",
+      "name": "Talk About Talk - Executive & Leadership Communication Skills",
+      "artist": "Dr. Andrea Wojnicki",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/1a/46/64/1a466478-02e8-6371-6006-7d29f49327c5/mza_7998611489197552290.jpg/170x170bb.png",
+      "genre": "Self-Improvement",
+      "genre_id": "1500",
+      "url": "https://podcasts.apple.com/in/podcast/talk-about-talk-executive-leadership-communication/id1447267503?uo=2"
+    },
+    {
+      "rank": 143,
+      "apple_id": "212382281",
+      "name": "The Art of Charm",
+      "artist": "The Art of Charm",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/64/c9/fc/64c9fccb-73ae-3cbb-fc23-47d635024bd6/mza_9208090716938236868.jpg/170x170bb.png",
+      "genre": "Education",
+      "genre_id": "1304",
+      "url": "https://podcasts.apple.com/in/podcast/the-art-of-charm/id212382281?uo=2"
+    },
+    {
+      "rank": 144,
+      "apple_id": "1622000957",
+      "name": "14 Minuten - Deine tägliche Portion Deutsch - Deutsch lernen für Fortgeschrittene",
+      "artist": "Patrick Thun und Jan Kruse",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/90/e8/57/90e857ad-3f65-09cf-4a8c-1706284ce541/mza_11935815811928314505.png/170x170bb.png",
+      "genre": "Language Learning",
+      "genre_id": "1498",
+      "url": "https://podcasts.apple.com/in/podcast/14-minuten-deine-t%C3%A4gliche-portion-deutsch-deutsch-lernen/id1622000957?uo=2"
+    },
+    {
+      "rank": 145,
+      "apple_id": "1320696072",
+      "name": "Manifestation Babe",
+      "artist": "Kathrin Zenkina",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/81/ac/4a/81ac4ada-5e97-038f-e85f-509aa4fb0067/mza_11970932007302428725.png/170x170bb.png",
+      "genre": "Education",
+      "genre_id": "1304",
+      "url": "https://podcasts.apple.com/in/podcast/manifestation-babe/id1320696072?uo=2"
+    },
+    {
+      "rank": 146,
+      "apple_id": "1482067226",
+      "name": "The Next Big Idea",
+      "artist": "Next Big Idea Club",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ec/0a/20/ec0a2061-521a-37a9-2fc8-656d0afc9d8c/mza_971099888000162833.jpg/170x170bb.png",
+      "genre": "Education",
+      "genre_id": "1304",
+      "url": "https://podcasts.apple.com/in/podcast/the-next-big-idea/id1482067226?uo=2"
+    },
+    {
+      "rank": 147,
+      "apple_id": "1530967367",
+      "name": "Epic Life Podcast",
+      "artist": "Epic Life Tamil",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/22/26/51/2226517f-105f-6914-efbc-45e56540bfe4/mza_15311000288124541580.jpg/170x170bb.png",
+      "genre": "Self-Improvement",
+      "genre_id": "1500",
+      "url": "https://podcasts.apple.com/in/podcast/epic-life-podcast/id1530967367?uo=2"
+    },
+    {
+      "rank": 148,
+      "apple_id": "1723910278",
+      "name": "Intermediate French with Carlito",
+      "artist": "French Teacher Carlito",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/8d/51/29/8d5129f8-8827-672b-9da8-1a2158d5dc9b/mza_5353483960620928016.jpg/170x170bb.png",
+      "genre": "Language Learning",
+      "genre_id": "1498",
+      "url": "https://podcasts.apple.com/in/podcast/intermediate-french-with-carlito/id1723910278?uo=2"
+    },
+    {
+      "rank": 149,
+      "apple_id": "1443862257",
+      "name": "Diego Ruzzarin",
+      "artist": "Diego Ruzzarin",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ab/81/16/ab81160c-0bbe-429e-c2ef-6dedd12cde17/mza_3553988092192298604.png/170x170bb.png",
+      "genre": "Self-Improvement",
+      "genre_id": "1500",
+      "url": "https://podcasts.apple.com/in/podcast/diego-ruzzarin/id1443862257?uo=2"
+    },
+    {
+      "rank": 150,
+      "apple_id": "279999557",
+      "name": "Culips Everyday English Podcast",
+      "artist": "Culips English Podcast",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/ca/bd/be/cabdbe46-9408-6ff9-dd4c-fa944d90d9f4/mza_9088968848133222748.jpg/170x170bb.png",
+      "genre": "Language Learning",
+      "genre_id": "1498",
+      "url": "https://podcasts.apple.com/in/podcast/culips-everyday-english-podcast/id279999557?uo=2"
+    },
+    {
+      "rank": 151,
+      "apple_id": "1450018819",
+      "name": "Before Breakfast",
+      "artist": "iHeartPodcasts",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/8b/11/e9/8b11e983-d19b-eb18-e2d5-8b55e6dde2bf/mza_12785369782448215135.jpg/170x170bb.png",
+      "genre": "Self-Improvement",
+      "genre_id": "1500",
+      "url": "https://podcasts.apple.com/in/podcast/before-breakfast/id1450018819?uo=2"
+    },
+    {
+      "rank": 152,
+      "apple_id": "1768498309",
+      "name": "Hindi Audiobook",
+      "artist": "Yash Sitaram Maaker",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/44/e9/44/44e9446f-9bfd-16f3-4907-155bada6ed53/mza_1022558979909932139.jpg/170x170bb.png",
+      "genre": "Self-Improvement",
+      "genre_id": "1500",
+      "url": "https://podcasts.apple.com/in/podcast/hindi-audiobook/id1768498309?uo=2"
+    },
+    {
+      "rank": 153,
+      "apple_id": "1273606075",
+      "name": "Growth Mindset Psychology: The Science of Self-Improvement",
+      "artist": "Sam Webster Harris | Growth Mindset Psychology",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/55/cb/2b/55cb2b32-1d7e-8231-1a09-b8bcac6a90e2/mza_11101309328025720899.png/170x170bb.png",
+      "genre": "Self-Improvement",
+      "genre_id": "1500",
+      "url": "https://podcasts.apple.com/in/podcast/growth-mindset-psychology-the-science-of-self-improvement/id1273606075?uo=2"
+    },
+    {
+      "rank": 154,
+      "apple_id": "1501085355",
+      "name": "Prakhar Ke Pravachan",
+      "artist": "Prakhar Gupta",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/22/db/1b/22db1b88-eeea-34ce-cadd-5305fafab81e/mza_9924871108382433028.jpg/170x170bb.png",
+      "genre": "Self-Improvement",
+      "genre_id": "1500",
+      "url": "https://podcasts.apple.com/in/podcast/prakhar-ke-pravachan/id1501085355?uo=2"
+    },
+    {
+      "rank": 155,
+      "apple_id": "1514516283",
+      "name": "Le français avec Fluidité",
+      "artist": "Fabien Sausset",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts122/v4/0a/6b/c0/0a6bc046-a612-8de6-2cd3-0e95e6be4248/mza_3529766839899471968.png/170x170bb.png",
+      "genre": "Language Learning",
+      "genre_id": "1498",
+      "url": "https://podcasts.apple.com/in/podcast/le-fran%C3%A7ais-avec-fluidit%C3%A9/id1514516283?uo=2"
+    },
+    {
+      "rank": 156,
+      "apple_id": "1541856876",
+      "name": "Little Talk in Slow French",
+      "artist": "Nagisa Morimoto",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/6c/8e/65/6c8e65f2-e8d1-fbce-02bd-fecaafd5732b/mza_14640602584447142670.jpg/170x170bb.png",
+      "genre": "Language Learning",
+      "genre_id": "1498",
+      "url": "https://podcasts.apple.com/in/podcast/little-talk-in-slow-french/id1541856876?uo=2"
+    },
+    {
+      "rank": 157,
+      "apple_id": "647826736",
+      "name": "Good Life Project",
+      "artist": "Jonathan Fields / Acast",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/0b/3b/1d/0b3b1d64-205d-febc-ae10-e33e34d045c8/mza_12028558795167970983.jpeg/170x170bb.png",
+      "genre": "Self-Improvement",
+      "genre_id": "1500",
+      "url": "https://podcasts.apple.com/in/podcast/good-life-project/id647826736?uo=2"
+    },
+    {
+      "rank": 158,
+      "apple_id": "1093028505",
+      "name": "The Bossticks",
+      "artist": "Lauryn Bosstick and Michael Bosstick / Dear Media",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/74/3f/e8/743fe8fd-31d0-2204-936f-fc5c06b4054e/mza_1022273159166077539.jpg/170x170bb.png",
+      "genre": "Education",
+      "genre_id": "1304",
+      "url": "https://podcasts.apple.com/in/podcast/the-bossticks/id1093028505?uo=2"
+    },
+    {
+      "rank": 159,
+      "apple_id": "1741757704",
+      "name": "СИЛЬНЫЙ ПОДКАСТ | АРСЕН МАРКАРЯН",
+      "artist": "Арсен Маркарян",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/0a/87/46/0a874607-63b3-c8b5-9b80-f5f3573ffc11/mza_5669316941857885897.png/170x170bb.png",
+      "genre": "Self-Improvement",
+      "genre_id": "1500",
+      "url": "https://podcasts.apple.com/in/podcast/%D1%81%D0%B8%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9-%D0%BF%D0%BE%D0%B4%D0%BA%D0%B0%D1%81%D1%82-%D0%B0%D1%80%D1%81%D0%B5%D0%BD-%D0%BC%D0%B0%D1%80%D0%BA%D0%B0%D1%80%D1%8F%D0%BD/id1741757704?uo=2"
+    },
+    {
+      "rank": 160,
+      "apple_id": "1854946571",
+      "name": "Let's Talk with Shyju Mathew",
+      "artist": "Shyju Mathew",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/a4/46/d0/a446d0c3-53da-c389-86f5-d66b2414d9c5/mza_12821633895017026995.jpg/170x170bb.png",
+      "genre": "Self-Improvement",
+      "genre_id": "1500",
+      "url": "https://podcasts.apple.com/in/podcast/lets-talk-with-shyju-mathew/id1854946571?uo=2"
+    },
+    {
+      "rank": 161,
+      "apple_id": "109522474",
+      "name": "VOA Learning English Podcast - VOA Learning English",
+      "artist": "VOA Learning English",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/b1/7f/67/b17f67f4-2172-877e-7b94-f92dcf453f9a/mza_12949690279154463610.jpg/170x170bb.png",
+      "genre": "Language Learning",
+      "genre_id": "1498",
+      "url": "https://podcasts.apple.com/in/podcast/voa-learning-english-podcast-voa-learning-english/id109522474?uo=2"
+    },
+    {
+      "rank": 162,
+      "apple_id": "1772488404",
+      "name": "Stoicism Meditation",
+      "artist": "Stoicism Meditation",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e4/2f/94/e42f94df-1f1a-d54d-32ef-8ed82d13cfe6/mza_14656498230896966459.jpg/170x170bb.png",
+      "genre": "Education",
+      "genre_id": "1304",
+      "url": "https://podcasts.apple.com/in/podcast/stoicism-meditation/id1772488404?uo=2"
+    },
+    {
+      "rank": 163,
+      "apple_id": "1351156701",
+      "name": "Be Positive Stay Positive Podcast",
+      "artist": "Nat Barouch",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts122/v4/81/e9/c9/81e9c947-5b0a-0098-35df-0feb31a5482e/mza_6612011853456509072.jpg/170x170bb.png",
+      "genre": "Self-Improvement",
+      "genre_id": "1500",
+      "url": "https://podcasts.apple.com/in/podcast/be-positive-stay-positive-podcast/id1351156701?uo=2"
+    },
+    {
+      "rank": 164,
+      "apple_id": "1142321584",
+      "name": "News in Slow German (Intermediate)",
+      "artist": "Linguistica 360",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/af/ea/33/afea332a-296f-0740-b17e-d08d428043f5/mza_17896985029114668010.png/170x170bb.png",
+      "genre": "Language Learning",
+      "genre_id": "1498",
+      "url": "https://podcasts.apple.com/in/podcast/news-in-slow-german-intermediate/id1142321584?uo=2"
+    },
+    {
+      "rank": 165,
+      "apple_id": "1533216336",
+      "name": "The British English Podcast",
+      "artist": "Charlie Baxter",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/fe/7e/2c/fe7e2cac-5fb2-4f52-fde0-b011f8398442/mza_10054444666577782202.jpg/170x170bb.png",
+      "genre": "Language Learning",
+      "genre_id": "1498",
+      "url": "https://podcasts.apple.com/in/podcast/the-british-english-podcast/id1533216336?uo=2"
+    },
+    {
+      "rank": 166,
+      "apple_id": "278088281",
+      "name": "Learn French | FrenchPod101.com",
+      "artist": "FrenchPod101.com",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/1a/77/44/1a7744a0-24c7-53dc-eeb6-38a3bdb21320/mza_424581271872898436.jpg/170x170bb.png",
+      "genre": "Language Learning",
+      "genre_id": "1498",
+      "url": "https://podcasts.apple.com/in/podcast/learn-french-frenchpod101-com/id278088281?uo=2"
+    },
+    {
+      "rank": 167,
+      "apple_id": "1699150379",
+      "name": "French Learning Accelerator",
+      "artist": "Language Learning Accelerator",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/a0/99/36/a09936b4-a583-8934-a5e9-e46a7b285b52/mza_12584764426078578333.png/170x170bb.png",
+      "genre": "Language Learning",
+      "genre_id": "1498",
+      "url": "https://podcasts.apple.com/in/podcast/french-learning-accelerator/id1699150379?uo=2"
+    },
+    {
+      "rank": 168,
+      "apple_id": "1882573737",
+      "name": "Slow Spanish Podcast for Beginners (A1-B1)",
+      "artist": "Learn Spanish with Rasi",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/0d/2e/94/0d2e9418-394e-60ef-b7b1-3b408e46196c/mza_8202289111826517866.jpg/170x170bb.png",
+      "genre": "Language Learning",
+      "genre_id": "1498",
+      "url": "https://podcasts.apple.com/in/podcast/slow-spanish-podcast-for-beginners-a1-b1/id1882573737?uo=2"
+    },
+    {
+      "rank": 169,
+      "apple_id": "1781912934",
+      "name": "Learn German for Beginners with Thomas",
+      "artist": "Thomas Schulze",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/be/0e/30/be0e302d-7752-e312-4cd3-337ba788dcfd/mza_10550984991593472898.jpg/170x170bb.png",
+      "genre": "Language Learning",
+      "genre_id": "1498",
+      "url": "https://podcasts.apple.com/in/podcast/learn-german-for-beginners-with-thomas/id1781912934?uo=2"
+    },
+    {
+      "rank": 170,
+      "apple_id": "1638860158",
+      "name": "The Art of Public Speaking",
+      "artist": "Dale Carnegie",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/8f/75/4f/8f754fea-f926-5468-a9ea-cc5e3d6c2d7b/mza_1960752754259625494.jpg/170x170bb.png",
+      "genre": "How To",
+      "genre_id": "1499",
+      "url": "https://podcasts.apple.com/in/podcast/the-art-of-public-speaking/id1638860158?uo=2"
+    },
+    {
+      "rank": 171,
+      "apple_id": "1893754112",
+      "name": "Being Human with Leana Deeb",
+      "artist": "Leana Deeb & Pursuit Network",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/03/ec/7d/03ec7de1-48d1-2bd9-06c5-bcbc36736ac0/mza_14517672033155671948.jpeg/170x170bb.png",
+      "genre": "Self-Improvement",
+      "genre_id": "1500",
+      "url": "https://podcasts.apple.com/in/podcast/being-human-with-leana-deeb/id1893754112?uo=2"
+    },
+    {
+      "rank": 172,
+      "apple_id": "668541939",
+      "name": "The 5 AM Miracle: Healthy Productivity for High Achievers",
+      "artist": "Jeff Sanders",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a0/43/3a/a0433a6d-1d8f-cb48-ce0f-15c1936ff08f/mza_305409957166923872.jpeg/170x170bb.png",
+      "genre": "Self-Improvement",
+      "genre_id": "1500",
+      "url": "https://podcasts.apple.com/in/podcast/the-5-am-miracle-healthy-productivity-for-high-achievers/id668541939?uo=2"
+    },
+    {
+      "rank": 173,
+      "apple_id": "1358713082",
+      "name": "Spanish for Beginners",
+      "artist": "Linguistica 360",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/08/63/c5/0863c58c-6a35-79f6-2f65-4d845be76a60/mza_5025471784401085117.png/170x170bb.png",
+      "genre": "Education",
+      "genre_id": "1304",
+      "url": "https://podcasts.apple.com/in/podcast/spanish-for-beginners/id1358713082?uo=2"
+    },
+    {
+      "rank": 174,
+      "apple_id": "1679077626",
+      "name": "BEING HER with Margarita Nazarenko",
+      "artist": "Margarita Nazarenko",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/72/c2/87/72c28732-a571-46bd-8b71-b58bd5432cfc/mza_16866477253860176507.jpeg/170x170bb.png",
+      "genre": "Education",
+      "genre_id": "1304",
+      "url": "https://podcasts.apple.com/in/podcast/being-her-with-margarita-nazarenko/id1679077626?uo=2"
+    },
+    {
+      "rank": 175,
+      "apple_id": "1532849701",
+      "name": "جافکری | Jafekri",
+      "artist": "Amirali Gh",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c4/56/0a/c4560ad9-79d3-1666-c64f-76a42f4d3fea/mza_2542341223877899490.jpeg/170x170bb.png",
+      "genre": "Self-Improvement",
+      "genre_id": "1500",
+      "url": "https://podcasts.apple.com/in/podcast/%D8%AC%D8%A7%D9%81%DA%A9%D8%B1%DB%8C-jafekri/id1532849701?uo=2"
+    },
+    {
+      "rank": 176,
+      "apple_id": "1751977678",
+      "name": "Graduate International Connection",
+      "artist": "Graduate International Connect",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/53/7e/e0/537ee0e0-833a-9521-f40c-55075f40fd09/mza_10685063957802594727.jpg/170x170bb.png",
+      "genre": "Education",
+      "genre_id": "1304",
+      "url": "https://podcasts.apple.com/in/podcast/graduate-international-connection/id1751977678?uo=2"
+    },
+    {
+      "rank": 177,
+      "apple_id": "1587142091",
+      "name": "Deep Dive with Ali Abdaal",
+      "artist": "Ali Abdaal",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/69/f7/35/69f73520-badc-5268-3c59-295a6f348346/mza_1538980311419881604.jpg/170x170bb.png",
+      "genre": "Self-Improvement",
+      "genre_id": "1500",
+      "url": "https://podcasts.apple.com/in/podcast/deep-dive-with-ali-abdaal/id1587142091?uo=2"
+    },
+    {
+      "rank": 178,
+      "apple_id": "1025326955",
+      "name": "Finding Mastery with Dr. Michael Gervais",
+      "artist": "Dr. Michael Gervais",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/87/e1/95/87e195b5-029c-6e47-fbbf-aa03cf521980/mza_14530874847886716344.jpeg/170x170bb.png",
+      "genre": "Self-Improvement",
+      "genre_id": "1500",
+      "url": "https://podcasts.apple.com/in/podcast/finding-mastery-with-dr-michael-gervais/id1025326955?uo=2"
+    },
+    {
+      "rank": 179,
+      "apple_id": "1098413063",
+      "name": "The Tony Robbins Channel",
+      "artist": "Tony Robbins",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/52/da/73/52da73c8-b571-c643-a4c5-f6d1697f454e/mza_7337086062522968307.png/170x170bb.png",
+      "genre": "Education",
+      "genre_id": "1304",
+      "url": "https://podcasts.apple.com/in/podcast/the-tony-robbins-channel/id1098413063?uo=2"
+    },
+    {
+      "rank": 180,
+      "apple_id": "1566479559",
+      "name": "The Koe Cast",
+      "artist": "Dan Koe",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/71/57/e5/7157e504-cf5d-366f-4b59-d2f75e9a55f2/mza_4539399987799982527.jpg/170x170bb.png",
+      "genre": "Self-Improvement",
+      "genre_id": "1500",
+      "url": "https://podcasts.apple.com/in/podcast/the-koe-cast/id1566479559?uo=2"
+    },
+    {
+      "rank": 181,
+      "apple_id": "1668235178",
+      "name": "The Sabrina Zohar Show",
+      "artist": "The Sabrina Zohar Show",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/51/c9/ba/51c9ba97-86f5-cfce-ee3b-17516d28ba16/mza_13978704547857402043.jpeg/170x170bb.png",
+      "genre": "Self-Improvement",
+      "genre_id": "1500",
+      "url": "https://podcasts.apple.com/in/podcast/the-sabrina-zohar-show/id1668235178?uo=2"
+    },
+    {
+      "rank": 182,
+      "apple_id": "1832675480",
+      "name": "ESL Pod Official - Speak English Fluently by Listening (with Text)",
+      "artist": "Dr. Jeff McQuillan",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/0d/2b/14/0d2b143b-30d2-f49a-2cbd-e1f4171606a9/mza_8991437551932302538.jpg/170x170bb.png",
+      "genre": "Education",
+      "genre_id": "1304",
+      "url": "https://podcasts.apple.com/in/podcast/esl-pod-official-speak-english-fluently-by-listening/id1832675480?uo=2"
+    },
+    {
+      "rank": 183,
+      "apple_id": "1628014504",
+      "name": "Learn About Islam",
+      "artist": "LK",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d0/46/b2/d046b278-3d44-a307-07db-a17ccca17b4b/mza_1339060406162034256.jpeg/170x170bb.png",
+      "genre": "Education",
+      "genre_id": "1304",
+      "url": "https://podcasts.apple.com/in/podcast/learn-about-islam/id1628014504?uo=2"
+    },
+    {
+      "rank": 184,
+      "apple_id": "1707679189",
+      "name": "The Money Podcast 🎙️",
+      "artist": "The Money Podcast By Neeraj Arora",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/a9/e0/1c/a9e01c4f-f62a-c2c4-2378-663254f5e4be/mza_10362353759394389082.jpg/170x170bb.png",
+      "genre": "How To",
+      "genre_id": "1499",
+      "url": "https://podcasts.apple.com/in/podcast/the-money-podcast/id1707679189?uo=2"
+    },
+    {
+      "rank": 185,
+      "apple_id": "1496988806",
+      "name": "رادیو راه با مجتبی شکوری",
+      "artist": "رادیو راه",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/00/31/4c/00314cb7-6716-d77a-d134-673ca137f476/mza_12390173946242352654.jpg/170x170bb.png",
+      "genre": "Education",
+      "genre_id": "1304",
+      "url": "https://podcasts.apple.com/in/podcast/%D8%B1%D8%A7%D8%AF%DB%8C%D9%88-%D8%B1%D8%A7%D9%87-%D8%A8%D8%A7-%D9%85%D8%AC%D8%AA%D8%A8%DB%8C-%D8%B4%DA%A9%D9%88%D8%B1%DB%8C/id1496988806?uo=2"
+    },
+    {
+      "rank": 186,
+      "apple_id": "1505833862",
+      "name": "Avigatkabir",
+      "artist": "Avigatkabir",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/d7/f2/6b/d7f26be4-6b43-44e0-e7f7-8a64a6f350fd/mza_3028497290579519537.jpg/170x170bb.png",
+      "genre": "Self-Improvement",
+      "genre_id": "1500",
+      "url": "https://podcasts.apple.com/in/podcast/avigatkabir/id1505833862?uo=2"
+    },
+    {
+      "rank": 187,
+      "apple_id": "1344999619",
+      "name": "The Jordan Harbinger Show",
+      "artist": "Jordan Harbinger",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ce/57/a9/ce57a912-523d-5e81-f461-c71591eb2b4b/mza_855972047978822038.jpeg/170x170bb.png",
+      "genre": "Education",
+      "genre_id": "1304",
+      "url": "https://podcasts.apple.com/in/podcast/the-jordan-harbinger-show/id1344999619?uo=2"
+    },
+    {
+      "rank": 188,
+      "apple_id": "282930329",
+      "name": "Langsam Gesprochene Nachrichten | Audios | DW Deutsch lernen",
+      "artist": "DW",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/1e/df/06/1edf0665-4988-efe0-9d61-e63c758b9c6d/mza_15919451077030319178.jpg/170x170bb.png",
+      "genre": "Language Learning",
+      "genre_id": "1498",
+      "url": "https://podcasts.apple.com/in/podcast/langsam-gesprochene-nachrichten-audios-dw-deutsch-lernen/id282930329?uo=2"
+    },
+    {
+      "rank": 189,
+      "apple_id": "582330874",
+      "name": "French for Beginners",
+      "artist": "Linguistica 360",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/cb/96/bd/cb96bdb0-b4ac-961a-d12c-b9ffa667e992/mza_10986369628585275945.png/170x170bb.png",
+      "genre": "Language Learning",
+      "genre_id": "1498",
+      "url": "https://podcasts.apple.com/in/podcast/french-for-beginners/id582330874?uo=2"
+    },
+    {
+      "rank": 190,
+      "apple_id": "1723421561",
+      "name": "6 Minutes to Learn More",
+      "artist": "6 Min. to Learn More Podcast",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/a4/27/4a/a4274a70-8557-c493-2ceb-4897df4d81ef/mza_2356178312295247855.jpg/170x170bb.png",
+      "genre": "Courses",
+      "genre_id": "1501",
+      "url": "https://podcasts.apple.com/in/podcast/6-minutes-to-learn-more/id1723421561?uo=2"
+    },
+    {
+      "rank": 191,
+      "apple_id": "1563084544",
+      "name": "Discover your SecondAct Podcast",
+      "artist": "Archana Dutta",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/19/9d/4e/199d4e86-702f-3243-b1b8-94fc0c439e71/mza_6554493120319594621.jpg/170x170bb.png",
+      "genre": "Self-Improvement",
+      "genre_id": "1500",
+      "url": "https://podcasts.apple.com/in/podcast/discover-your-secondact-podcast/id1563084544?uo=2"
+    },
+    {
+      "rank": 192,
+      "apple_id": "1744686948",
+      "name": "I Love Public Speaking with Bishal Sarkar",
+      "artist": "Mr. Bishal Sarkar",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/e0/e5/f9/e0e5f929-b89f-c09d-b541-e32fef3d0eea/mza_4812638975989343063.jpg/170x170bb.png",
+      "genre": "Self-Improvement",
+      "genre_id": "1500",
+      "url": "https://podcasts.apple.com/in/podcast/i-love-public-speaking-with-bishal-sarkar/id1744686948?uo=2"
+    },
+    {
+      "rank": 193,
+      "apple_id": "1537602643",
+      "name": "Trauma Rewired",
+      "artist": "Elisabeth Kristof & Jennifer Wallace",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/46/8f/1e/468f1e31-5e0a-1657-cc37-1949f1ce77c5/mza_10611526823969350248.png/170x170bb.png",
+      "genre": "Self-Improvement",
+      "genre_id": "1500",
+      "url": "https://podcasts.apple.com/in/podcast/trauma-rewired/id1537602643?uo=2"
+    },
+    {
+      "rank": 194,
+      "apple_id": "1522302143",
+      "name": "French Through Stories",
+      "artist": "French Through Stories",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts124/v4/24/45/1a/24451ac5-e3a1-1495-8ee9-a552de121313/mza_1937087324771330118.jpg/170x170bb.png",
+      "genre": "Language Learning",
+      "genre_id": "1498",
+      "url": "https://podcasts.apple.com/in/podcast/french-through-stories/id1522302143?uo=2"
+    },
+    {
+      "rank": 195,
+      "apple_id": "1556286643",
+      "name": "The Tim Ferriss Show | 5 minute podcast summaries",
+      "artist": "5 minute podcast summaries",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/34/bd/8f/34bd8f7f-0aed-bdc0-2f53-df5ff3fed981/mza_4266608687277869219.jpg/170x170bb.png",
+      "genre": "Self-Improvement",
+      "genre_id": "1500",
+      "url": "https://podcasts.apple.com/in/podcast/the-tim-ferriss-show-5-minute-podcast-summaries/id1556286643?uo=2"
+    },
+    {
+      "rank": 196,
+      "apple_id": "1738599143",
+      "name": "English Conversation",
+      "artist": "English Conversation",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/85/f0/ff/85f0ff9c-3800-3e46-42e9-0a6ded4a3612/mza_15134187835927332848.jpg/170x170bb.png",
+      "genre": "Language Learning",
+      "genre_id": "1498",
+      "url": "https://podcasts.apple.com/in/podcast/english-conversation/id1738599143?uo=2"
+    },
+    {
+      "rank": 197,
+      "apple_id": "1528125685",
+      "name": "Anil Thomas | NLP & Gestalt",
+      "artist": "Anil Thomas",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/29/c9/74/29c97430-cd27-590c-39c7-8bf00b95f4d3/mza_14446261593499634798.jpg/170x170bb.png",
+      "genre": "Education",
+      "genre_id": "1304",
+      "url": "https://podcasts.apple.com/in/podcast/anil-thomas-nlp-gestalt/id1528125685?uo=2"
+    },
+    {
+      "rank": 198,
+      "apple_id": "1515008420",
+      "name": "Deutsch Podcast - Deutsch lernen",
+      "artist": "Deutsch-Podcast",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/ed/e6/ca/ede6cac4-1cc6-6854-0acc-7642946c0bb3/mza_5745807081005945806.jpg/170x170bb.png",
+      "genre": "Language Learning",
+      "genre_id": "1498",
+      "url": "https://podcasts.apple.com/in/podcast/deutsch-podcast-deutsch-lernen/id1515008420?uo=2"
+    },
+    {
+      "rank": 199,
+      "apple_id": "1831619588",
+      "name": "Philosophy Talk",
+      "artist": "Philosophy Talk",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/37/b3/ae/37b3ae9e-2974-8d38-060d-af7182a4767b/mza_15759602466202991807.jpg/170x170bb.png",
+      "genre": "Education",
+      "genre_id": "1304",
+      "url": "https://podcasts.apple.com/in/podcast/philosophy-talk/id1831619588?uo=2"
+    },
+    {
+      "rank": 200,
+      "apple_id": "1624981488",
+      "name": "Easy French: Learn French through authentic conversations | Conversations authentiques pour apprendre le français",
+      "artist": "Hélène & Judith",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts122/v4/3a/97/78/3a9778d3-4932-96d9-fb69-95dfae76e61a/mza_11621599327333719166.jpg/170x170bb.png",
+      "genre": "Language Learning",
+      "genre_id": "1498",
+      "url": "https://podcasts.apple.com/in/podcast/easy-french-learn-french-through-authentic-conversations/id1624981488?uo=2"
+    }
+  ]
+}

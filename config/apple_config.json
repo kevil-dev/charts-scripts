@@ -1,0 +1,27 @@
+{
+  "platform": "apple",
+  "limit": 200,
+  "countries": ["us", "gb", "ca", "au", "in", "de", "fr", "es", "it", "br", "mx", "jp"],
+  "genres": [
+    { "id": "",     "name": "Top Podcasts",            "slug": "top" },
+    { "id": "1301", "name": "Arts",                     "slug": "arts" },
+    { "id": "1321", "name": "Business",                 "slug": "business" },
+    { "id": "1303", "name": "Comedy",                   "slug": "comedy" },
+    { "id": "1304", "name": "Education",                "slug": "education" },
+    { "id": "1483", "name": "Fiction",                  "slug": "fiction" },
+    { "id": "1511", "name": "Government",               "slug": "government" },
+    { "id": "1512", "name": "Health & Fitness",         "slug": "health-fitness" },
+    { "id": "1487", "name": "History",                  "slug": "history" },
+    { "id": "1305", "name": "Kids & Family",            "slug": "kids-family" },
+    { "id": "1502", "name": "Leisure",                  "slug": "leisure" },
+    { "id": "1310", "name": "Music",                    "slug": "music" },
+    { "id": "1489", "name": "News",                     "slug": "news" },
+    { "id": "1314", "name": "Religion & Spirituality",  "slug": "religion-spirituality" },
+    { "id": "1533", "name": "Science",                  "slug": "science" },
+    { "id": "1324", "name": "Society & Culture",        "slug": "society-culture" },
+    { "id": "1545", "name": "Sports",                   "slug": "sports" },
+    { "id": "1318", "name": "Technology",               "slug": "technology" },
+    { "id": "1488", "name": "True Crime",               "slug": "true-crime" },
+    { "id": "1309", "name": "TV & Film",                "slug": "tv-film" }
+  ]
+}

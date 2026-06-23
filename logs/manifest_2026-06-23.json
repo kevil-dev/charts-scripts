@@ -1,0 +1,3650 @@
+{
+  "run_date": "2026-06-23",
+  "started_at": "2026-06-23T14:51:14.075160",
+  "files": [
+    {
+      "file": "data\\apple\\au\\arts.json",
+      "platform": "apple",
+      "country": "AU",
+      "chart": "arts",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\au\\business.json",
+      "platform": "apple",
+      "country": "AU",
+      "chart": "business",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\au\\comedy.json",
+      "platform": "apple",
+      "country": "AU",
+      "chart": "comedy",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\au\\education.json",
+      "platform": "apple",
+      "country": "AU",
+      "chart": "education",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\au\\fiction.json",
+      "platform": "apple",
+      "country": "AU",
+      "chart": "fiction",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\au\\government.json",
+      "platform": "apple",
+      "country": "AU",
+      "chart": "government",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\au\\health-fitness.json",
+      "platform": "apple",
+      "country": "AU",
+      "chart": "health-fitness",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\au\\history.json",
+      "platform": "apple",
+      "country": "AU",
+      "chart": "history",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\au\\kids-family.json",
+      "platform": "apple",
+      "country": "AU",
+      "chart": "kids-family",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\au\\leisure.json",
+      "platform": "apple",
+      "country": "AU",
+      "chart": "leisure",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\au\\music.json",
+      "platform": "apple",
+      "country": "AU",
+      "chart": "music",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\au\\news.json",
+      "platform": "apple",
+      "country": "AU",
+      "chart": "news",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\au\\religion-spirituality.json",
+      "platform": "apple",
+      "country": "AU",
+      "chart": "religion-spirituality",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\au\\science.json",
+      "platform": "apple",
+      "country": "AU",
+      "chart": "science",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\au\\society-culture.json",
+      "platform": "apple",
+      "country": "AU",
+      "chart": "society-culture",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\au\\sports.json",
+      "platform": "apple",
+      "country": "AU",
+      "chart": "sports",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\au\\technology.json",
+      "platform": "apple",
+      "country": "AU",
+      "chart": "technology",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\au\\top.json",
+      "platform": "apple",
+      "country": "AU",
+      "chart": "top",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\au\\true-crime.json",
+      "platform": "apple",
+      "country": "AU",
+      "chart": "true-crime",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\au\\tv-film.json",
+      "platform": "apple",
+      "country": "AU",
+      "chart": "tv-film",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\br\\arts.json",
+      "platform": "apple",
+      "country": "BR",
+      "chart": "arts",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\br\\business.json",
+      "platform": "apple",
+      "country": "BR",
+      "chart": "business",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\br\\comedy.json",
+      "platform": "apple",
+      "country": "BR",
+      "chart": "comedy",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\br\\education.json",
+      "platform": "apple",
+      "country": "BR",
+      "chart": "education",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\br\\fiction.json",
+      "platform": "apple",
+      "country": "BR",
+      "chart": "fiction",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\br\\government.json",
+      "platform": "apple",
+      "country": "BR",
+      "chart": "government",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\br\\health-fitness.json",
+      "platform": "apple",
+      "country": "BR",
+      "chart": "health-fitness",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\br\\history.json",
+      "platform": "apple",
+      "country": "BR",
+      "chart": "history",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\br\\kids-family.json",
+      "platform": "apple",
+      "country": "BR",
+      "chart": "kids-family",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\br\\leisure.json",
+      "platform": "apple",
+      "country": "BR",
+      "chart": "leisure",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\br\\music.json",
+      "platform": "apple",
+      "country": "BR",
+      "chart": "music",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\br\\news.json",
+      "platform": "apple",
+      "country": "BR",
+      "chart": "news",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\br\\religion-spirituality.json",
+      "platform": "apple",
+      "country": "BR",
+      "chart": "religion-spirituality",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\br\\science.json",
+      "platform": "apple",
+      "country": "BR",
+      "chart": "science",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\br\\society-culture.json",
+      "platform": "apple",
+      "country": "BR",
+      "chart": "society-culture",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\br\\sports.json",
+      "platform": "apple",
+      "country": "BR",
+      "chart": "sports",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\br\\technology.json",
+      "platform": "apple",
+      "country": "BR",
+      "chart": "technology",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\br\\top.json",
+      "platform": "apple",
+      "country": "BR",
+      "chart": "top",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\br\\true-crime.json",
+      "platform": "apple",
+      "country": "BR",
+      "chart": "true-crime",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\br\\tv-film.json",
+      "platform": "apple",
+      "country": "BR",
+      "chart": "tv-film",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\ca\\arts.json",
+      "platform": "apple",
+      "country": "CA",
+      "chart": "arts",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\ca\\business.json",
+      "platform": "apple",
+      "country": "CA",
+      "chart": "business",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\ca\\comedy.json",
+      "platform": "apple",
+      "country": "CA",
+      "chart": "comedy",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\ca\\education.json",
+      "platform": "apple",
+      "country": "CA",
+      "chart": "education",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\ca\\fiction.json",
+      "platform": "apple",
+      "country": "CA",
+      "chart": "fiction",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\ca\\government.json",
+      "platform": "apple",
+      "country": "CA",
+      "chart": "government",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\ca\\health-fitness.json",
+      "platform": "apple",
+      "country": "CA",
+      "chart": "health-fitness",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\ca\\history.json",
+      "platform": "apple",
+      "country": "CA",
+      "chart": "history",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\ca\\kids-family.json",
+      "platform": "apple",
+      "country": "CA",
+      "chart": "kids-family",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\ca\\leisure.json",
+      "platform": "apple",
+      "country": "CA",
+      "chart": "leisure",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\ca\\music.json",
+      "platform": "apple",
+      "country": "CA",
+      "chart": "music",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\ca\\news.json",
+      "platform": "apple",
+      "country": "CA",
+      "chart": "news",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\ca\\religion-spirituality.json",
+      "platform": "apple",
+      "country": "CA",
+      "chart": "religion-spirituality",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\ca\\science.json",
+      "platform": "apple",
+      "country": "CA",
+      "chart": "science",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\ca\\society-culture.json",
+      "platform": "apple",
+      "country": "CA",
+      "chart": "society-culture",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\ca\\sports.json",
+      "platform": "apple",
+      "country": "CA",
+      "chart": "sports",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\ca\\technology.json",
+      "platform": "apple",
+      "country": "CA",
+      "chart": "technology",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\ca\\top.json",
+      "platform": "apple",
+      "country": "CA",
+      "chart": "top",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\ca\\true-crime.json",
+      "platform": "apple",
+      "country": "CA",
+      "chart": "true-crime",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\ca\\tv-film.json",
+      "platform": "apple",
+      "country": "CA",
+      "chart": "tv-film",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\de\\arts.json",
+      "platform": "apple",
+      "country": "DE",
+      "chart": "arts",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\de\\business.json",
+      "platform": "apple",
+      "country": "DE",
+      "chart": "business",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\de\\comedy.json",
+      "platform": "apple",
+      "country": "DE",
+      "chart": "comedy",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\de\\education.json",
+      "platform": "apple",
+      "country": "DE",
+      "chart": "education",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\de\\fiction.json",
+      "platform": "apple",
+      "country": "DE",
+      "chart": "fiction",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\de\\government.json",
+      "platform": "apple",
+      "country": "DE",
+      "chart": "government",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\de\\health-fitness.json",
+      "platform": "apple",
+      "country": "DE",
+      "chart": "health-fitness",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\de\\history.json",
+      "platform": "apple",
+      "country": "DE",
+      "chart": "history",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\de\\kids-family.json",
+      "platform": "apple",
+      "country": "DE",
+      "chart": "kids-family",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\de\\leisure.json",
+      "platform": "apple",
+      "country": "DE",
+      "chart": "leisure",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\de\\music.json",
+      "platform": "apple",
+      "country": "DE",
+      "chart": "music",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\de\\news.json",
+      "platform": "apple",
+      "country": "DE",
+      "chart": "news",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\de\\religion-spirituality.json",
+      "platform": "apple",
+      "country": "DE",
+      "chart": "religion-spirituality",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\de\\science.json",
+      "platform": "apple",
+      "country": "DE",
+      "chart": "science",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\de\\society-culture.json",
+      "platform": "apple",
+      "country": "DE",
+      "chart": "society-culture",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\de\\sports.json",
+      "platform": "apple",
+      "country": "DE",
+      "chart": "sports",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\de\\technology.json",
+      "platform": "apple",
+      "country": "DE",
+      "chart": "technology",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\de\\top.json",
+      "platform": "apple",
+      "country": "DE",
+      "chart": "top",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\de\\true-crime.json",
+      "platform": "apple",
+      "country": "DE",
+      "chart": "true-crime",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\de\\tv-film.json",
+      "platform": "apple",
+      "country": "DE",
+      "chart": "tv-film",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\es\\arts.json",
+      "platform": "apple",
+      "country": "ES",
+      "chart": "arts",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\es\\business.json",
+      "platform": "apple",
+      "country": "ES",
+      "chart": "business",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\es\\comedy.json",
+      "platform": "apple",
+      "country": "ES",
+      "chart": "comedy",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\es\\education.json",
+      "platform": "apple",
+      "country": "ES",
+      "chart": "education",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\es\\fiction.json",
+      "platform": "apple",
+      "country": "ES",
+      "chart": "fiction",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\es\\government.json",
+      "platform": "apple",
+      "country": "ES",
+      "chart": "government",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\es\\health-fitness.json",
+      "platform": "apple",
+      "country": "ES",
+      "chart": "health-fitness",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\es\\history.json",
+      "platform": "apple",
+      "country": "ES",
+      "chart": "history",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\es\\kids-family.json",
+      "platform": "apple",
+      "country": "ES",
+      "chart": "kids-family",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\es\\leisure.json",
+      "platform": "apple",
+      "country": "ES",
+      "chart": "leisure",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\es\\music.json",
+      "platform": "apple",
+      "country": "ES",
+      "chart": "music",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\es\\news.json",
+      "platform": "apple",
+      "country": "ES",
+      "chart": "news",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\es\\religion-spirituality.json",
+      "platform": "apple",
+      "country": "ES",
+      "chart": "religion-spirituality",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\es\\science.json",
+      "platform": "apple",
+      "country": "ES",
+      "chart": "science",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\es\\society-culture.json",
+      "platform": "apple",
+      "country": "ES",
+      "chart": "society-culture",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\es\\sports.json",
+      "platform": "apple",
+      "country": "ES",
+      "chart": "sports",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\es\\technology.json",
+      "platform": "apple",
+      "country": "ES",
+      "chart": "technology",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\es\\top.json",
+      "platform": "apple",
+      "country": "ES",
+      "chart": "top",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\es\\true-crime.json",
+      "platform": "apple",
+      "country": "ES",
+      "chart": "true-crime",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\es\\tv-film.json",
+      "platform": "apple",
+      "country": "ES",
+      "chart": "tv-film",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\fr\\arts.json",
+      "platform": "apple",
+      "country": "FR",
+      "chart": "arts",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\fr\\business.json",
+      "platform": "apple",
+      "country": "FR",
+      "chart": "business",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\fr\\comedy.json",
+      "platform": "apple",
+      "country": "FR",
+      "chart": "comedy",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\fr\\education.json",
+      "platform": "apple",
+      "country": "FR",
+      "chart": "education",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\fr\\fiction.json",
+      "platform": "apple",
+      "country": "FR",
+      "chart": "fiction",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\fr\\government.json",
+      "platform": "apple",
+      "country": "FR",
+      "chart": "government",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\fr\\health-fitness.json",
+      "platform": "apple",
+      "country": "FR",
+      "chart": "health-fitness",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\fr\\history.json",
+      "platform": "apple",
+      "country": "FR",
+      "chart": "history",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\fr\\kids-family.json",
+      "platform": "apple",
+      "country": "FR",
+      "chart": "kids-family",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\fr\\leisure.json",
+      "platform": "apple",
+      "country": "FR",
+      "chart": "leisure",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\fr\\music.json",
+      "platform": "apple",
+      "country": "FR",
+      "chart": "music",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\fr\\news.json",
+      "platform": "apple",
+      "country": "FR",
+      "chart": "news",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\fr\\religion-spirituality.json",
+      "platform": "apple",
+      "country": "FR",
+      "chart": "religion-spirituality",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\fr\\science.json",
+      "platform": "apple",
+      "country": "FR",
+      "chart": "science",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\fr\\society-culture.json",
+      "platform": "apple",
+      "country": "FR",
+      "chart": "society-culture",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\fr\\sports.json",
+      "platform": "apple",
+      "country": "FR",
+      "chart": "sports",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\fr\\technology.json",
+      "platform": "apple",
+      "country": "FR",
+      "chart": "technology",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\fr\\top.json",
+      "platform": "apple",
+      "country": "FR",
+      "chart": "top",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\fr\\true-crime.json",
+      "platform": "apple",
+      "country": "FR",
+      "chart": "true-crime",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\fr\\tv-film.json",
+      "platform": "apple",
+      "country": "FR",
+      "chart": "tv-film",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\gb\\arts.json",
+      "platform": "apple",
+      "country": "GB",
+      "chart": "arts",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\gb\\business.json",
+      "platform": "apple",
+      "country": "GB",
+      "chart": "business",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\gb\\comedy.json",
+      "platform": "apple",
+      "country": "GB",
+      "chart": "comedy",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\gb\\education.json",
+      "platform": "apple",
+      "country": "GB",
+      "chart": "education",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\gb\\fiction.json",
+      "platform": "apple",
+      "country": "GB",
+      "chart": "fiction",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\gb\\government.json",
+      "platform": "apple",
+      "country": "GB",
+      "chart": "government",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\gb\\health-fitness.json",
+      "platform": "apple",
+      "country": "GB",
+      "chart": "health-fitness",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\gb\\history.json",
+      "platform": "apple",
+      "country": "GB",
+      "chart": "history",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\gb\\kids-family.json",
+      "platform": "apple",
+      "country": "GB",
+      "chart": "kids-family",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\gb\\leisure.json",
+      "platform": "apple",
+      "country": "GB",
+      "chart": "leisure",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\gb\\music.json",
+      "platform": "apple",
+      "country": "GB",
+      "chart": "music",
+      "status": "ok",
+      "loaded": 178,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\gb\\news.json",
+      "platform": "apple",
+      "country": "GB",
+      "chart": "news",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\gb\\religion-spirituality.json",
+      "platform": "apple",
+      "country": "GB",
+      "chart": "religion-spirituality",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\gb\\science.json",
+      "platform": "apple",
+      "country": "GB",
+      "chart": "science",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\gb\\society-culture.json",
+      "platform": "apple",
+      "country": "GB",
+      "chart": "society-culture",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\gb\\sports.json",
+      "platform": "apple",
+      "country": "GB",
+      "chart": "sports",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\gb\\technology.json",
+      "platform": "apple",
+      "country": "GB",
+      "chart": "technology",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\gb\\top.json",
+      "platform": "apple",
+      "country": "GB",
+      "chart": "top",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\gb\\true-crime.json",
+      "platform": "apple",
+      "country": "GB",
+      "chart": "true-crime",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\gb\\tv-film.json",
+      "platform": "apple",
+      "country": "GB",
+      "chart": "tv-film",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\in\\arts.json",
+      "platform": "apple",
+      "country": "IN",
+      "chart": "arts",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\in\\business.json",
+      "platform": "apple",
+      "country": "IN",
+      "chart": "business",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\in\\comedy.json",
+      "platform": "apple",
+      "country": "IN",
+      "chart": "comedy",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\in\\education.json",
+      "platform": "apple",
+      "country": "IN",
+      "chart": "education",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\in\\fiction.json",
+      "platform": "apple",
+      "country": "IN",
+      "chart": "fiction",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\in\\government.json",
+      "platform": "apple",
+      "country": "IN",
+      "chart": "government",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\in\\health-fitness.json",
+      "platform": "apple",
+      "country": "IN",
+      "chart": "health-fitness",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\in\\history.json",
+      "platform": "apple",
+      "country": "IN",
+      "chart": "history",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\in\\kids-family.json",
+      "platform": "apple",
+      "country": "IN",
+      "chart": "kids-family",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\in\\leisure.json",
+      "platform": "apple",
+      "country": "IN",
+      "chart": "leisure",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\in\\music.json",
+      "platform": "apple",
+      "country": "IN",
+      "chart": "music",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\in\\news.json",
+      "platform": "apple",
+      "country": "IN",
+      "chart": "news",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\in\\religion-spirituality.json",
+      "platform": "apple",
+      "country": "IN",
+      "chart": "religion-spirituality",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\in\\science.json",
+      "platform": "apple",
+      "country": "IN",
+      "chart": "science",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\in\\society-culture.json",
+      "platform": "apple",
+      "country": "IN",
+      "chart": "society-culture",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\in\\sports.json",
+      "platform": "apple",
+      "country": "IN",
+      "chart": "sports",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\in\\technology.json",
+      "platform": "apple",
+      "country": "IN",
+      "chart": "technology",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\in\\top.json",
+      "platform": "apple",
+      "country": "IN",
+      "chart": "top",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\in\\true-crime.json",
+      "platform": "apple",
+      "country": "IN",
+      "chart": "true-crime",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\in\\tv-film.json",
+      "platform": "apple",
+      "country": "IN",
+      "chart": "tv-film",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\it\\arts.json",
+      "platform": "apple",
+      "country": "IT",
+      "chart": "arts",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\it\\business.json",
+      "platform": "apple",
+      "country": "IT",
+      "chart": "business",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\it\\comedy.json",
+      "platform": "apple",
+      "country": "IT",
+      "chart": "comedy",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\it\\education.json",
+      "platform": "apple",
+      "country": "IT",
+      "chart": "education",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\it\\fiction.json",
+      "platform": "apple",
+      "country": "IT",
+      "chart": "fiction",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\it\\government.json",
+      "platform": "apple",
+      "country": "IT",
+      "chart": "government",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\it\\health-fitness.json",
+      "platform": "apple",
+      "country": "IT",
+      "chart": "health-fitness",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\it\\history.json",
+      "platform": "apple",
+      "country": "IT",
+      "chart": "history",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\it\\kids-family.json",
+      "platform": "apple",
+      "country": "IT",
+      "chart": "kids-family",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\it\\leisure.json",
+      "platform": "apple",
+      "country": "IT",
+      "chart": "leisure",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\it\\music.json",
+      "platform": "apple",
+      "country": "IT",
+      "chart": "music",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\it\\news.json",
+      "platform": "apple",
+      "country": "IT",
+      "chart": "news",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\it\\religion-spirituality.json",
+      "platform": "apple",
+      "country": "IT",
+      "chart": "religion-spirituality",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\it\\science.json",
+      "platform": "apple",
+      "country": "IT",
+      "chart": "science",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\it\\society-culture.json",
+      "platform": "apple",
+      "country": "IT",
+      "chart": "society-culture",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\it\\sports.json",
+      "platform": "apple",
+      "country": "IT",
+      "chart": "sports",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\it\\technology.json",
+      "platform": "apple",
+      "country": "IT",
+      "chart": "technology",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\it\\top.json",
+      "platform": "apple",
+      "country": "IT",
+      "chart": "top",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\it\\true-crime.json",
+      "platform": "apple",
+      "country": "IT",
+      "chart": "true-crime",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\it\\tv-film.json",
+      "platform": "apple",
+      "country": "IT",
+      "chart": "tv-film",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\jp\\arts.json",
+      "platform": "apple",
+      "country": "JP",
+      "chart": "arts",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\jp\\business.json",
+      "platform": "apple",
+      "country": "JP",
+      "chart": "business",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\jp\\comedy.json",
+      "platform": "apple",
+      "country": "JP",
+      "chart": "comedy",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\jp\\education.json",
+      "platform": "apple",
+      "country": "JP",
+      "chart": "education",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\jp\\fiction.json",
+      "platform": "apple",
+      "country": "JP",
+      "chart": "fiction",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\jp\\government.json",
+      "platform": "apple",
+      "country": "JP",
+      "chart": "government",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\jp\\health-fitness.json",
+      "platform": "apple",
+      "country": "JP",
+      "chart": "health-fitness",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\jp\\history.json",
+      "platform": "apple",
+      "country": "JP",
+      "chart": "history",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\jp\\kids-family.json",
+      "platform": "apple",
+      "country": "JP",
+      "chart": "kids-family",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\jp\\leisure.json",
+      "platform": "apple",
+      "country": "JP",
+      "chart": "leisure",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\jp\\music.json",
+      "platform": "apple",
+      "country": "JP",
+      "chart": "music",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\jp\\news.json",
+      "platform": "apple",
+      "country": "JP",
+      "chart": "news",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\jp\\religion-spirituality.json",
+      "platform": "apple",
+      "country": "JP",
+      "chart": "religion-spirituality",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\jp\\science.json",
+      "platform": "apple",
+      "country": "JP",
+      "chart": "science",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\jp\\society-culture.json",
+      "platform": "apple",
+      "country": "JP",
+      "chart": "society-culture",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\jp\\sports.json",
+      "platform": "apple",
+      "country": "JP",
+      "chart": "sports",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\jp\\technology.json",
+      "platform": "apple",
+      "country": "JP",
+      "chart": "technology",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\jp\\top.json",
+      "platform": "apple",
+      "country": "JP",
+      "chart": "top",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\jp\\true-crime.json",
+      "platform": "apple",
+      "country": "JP",
+      "chart": "true-crime",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\jp\\tv-film.json",
+      "platform": "apple",
+      "country": "JP",
+      "chart": "tv-film",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\mx\\arts.json",
+      "platform": "apple",
+      "country": "MX",
+      "chart": "arts",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\mx\\business.json",
+      "platform": "apple",
+      "country": "MX",
+      "chart": "business",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\mx\\comedy.json",
+      "platform": "apple",
+      "country": "MX",
+      "chart": "comedy",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\mx\\education.json",
+      "platform": "apple",
+      "country": "MX",
+      "chart": "education",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\mx\\fiction.json",
+      "platform": "apple",
+      "country": "MX",
+      "chart": "fiction",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\mx\\government.json",
+      "platform": "apple",
+      "country": "MX",
+      "chart": "government",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\mx\\health-fitness.json",
+      "platform": "apple",
+      "country": "MX",
+      "chart": "health-fitness",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\mx\\history.json",
+      "platform": "apple",
+      "country": "MX",
+      "chart": "history",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\mx\\kids-family.json",
+      "platform": "apple",
+      "country": "MX",
+      "chart": "kids-family",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\mx\\leisure.json",
+      "platform": "apple",
+      "country": "MX",
+      "chart": "leisure",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\mx\\music.json",
+      "platform": "apple",
+      "country": "MX",
+      "chart": "music",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\mx\\news.json",
+      "platform": "apple",
+      "country": "MX",
+      "chart": "news",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\mx\\religion-spirituality.json",
+      "platform": "apple",
+      "country": "MX",
+      "chart": "religion-spirituality",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\mx\\science.json",
+      "platform": "apple",
+      "country": "MX",
+      "chart": "science",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\mx\\society-culture.json",
+      "platform": "apple",
+      "country": "MX",
+      "chart": "society-culture",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\mx\\sports.json",
+      "platform": "apple",
+      "country": "MX",
+      "chart": "sports",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\mx\\technology.json",
+      "platform": "apple",
+      "country": "MX",
+      "chart": "technology",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\mx\\top.json",
+      "platform": "apple",
+      "country": "MX",
+      "chart": "top",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\mx\\true-crime.json",
+      "platform": "apple",
+      "country": "MX",
+      "chart": "true-crime",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\mx\\tv-film.json",
+      "platform": "apple",
+      "country": "MX",
+      "chart": "tv-film",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\us\\arts.json",
+      "platform": "apple",
+      "country": "US",
+      "chart": "arts",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\us\\business.json",
+      "platform": "apple",
+      "country": "US",
+      "chart": "business",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\us\\comedy.json",
+      "platform": "apple",
+      "country": "US",
+      "chart": "comedy",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\us\\education.json",
+      "platform": "apple",
+      "country": "US",
+      "chart": "education",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\us\\fiction.json",
+      "platform": "apple",
+      "country": "US",
+      "chart": "fiction",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\us\\government.json",
+      "platform": "apple",
+      "country": "US",
+      "chart": "government",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\us\\health-fitness.json",
+      "platform": "apple",
+      "country": "US",
+      "chart": "health-fitness",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\us\\history.json",
+      "platform": "apple",
+      "country": "US",
+      "chart": "history",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\us\\kids-family.json",
+      "platform": "apple",
+      "country": "US",
+      "chart": "kids-family",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\us\\leisure.json",
+      "platform": "apple",
+      "country": "US",
+      "chart": "leisure",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\us\\music.json",
+      "platform": "apple",
+      "country": "US",
+      "chart": "music",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\us\\news.json",
+      "platform": "apple",
+      "country": "US",
+      "chart": "news",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\us\\religion-spirituality.json",
+      "platform": "apple",
+      "country": "US",
+      "chart": "religion-spirituality",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\us\\science.json",
+      "platform": "apple",
+      "country": "US",
+      "chart": "science",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\us\\society-culture.json",
+      "platform": "apple",
+      "country": "US",
+      "chart": "society-culture",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\us\\sports.json",
+      "platform": "apple",
+      "country": "US",
+      "chart": "sports",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\us\\technology.json",
+      "platform": "apple",
+      "country": "US",
+      "chart": "technology",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\us\\top.json",
+      "platform": "apple",
+      "country": "US",
+      "chart": "top",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\us\\true-crime.json",
+      "platform": "apple",
+      "country": "US",
+      "chart": "true-crime",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\apple\\us\\tv-film.json",
+      "platform": "apple",
+      "country": "US",
+      "chart": "tv-film",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\spotify\\ar\\top-podcasts.json",
+      "platform": "spotify",
+      "country": "AR",
+      "chart": "top-podcasts",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\spotify\\ar\\trending.json",
+      "platform": "spotify",
+      "country": "AR",
+      "chart": "trending",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\spotify\\au\\arts.json",
+      "platform": "spotify",
+      "country": "AU",
+      "chart": "arts",
+      "status": "ok",
+      "loaded": 50,
+      "skipped": 0
+    },
+    {
+      "file": "data\\spotify\\au\\business.json",
+      "platform": "spotify",
+      "country": "AU",
+      "chart": "business",
+      "status": "ok",
+      "loaded": 50,
+      "skipped": 0
+    },
+    {
+      "file": "data\\spotify\\au\\comedy.json",
+      "platform": "spotify",
+      "country": "AU",
+      "chart": "comedy",
+      "status": "ok",
+      "loaded": 50,
+      "skipped": 0
+    },
+    {
+      "file": "data\\spotify\\au\\education.json",
+      "platform": "spotify",
+      "country": "AU",
+      "chart": "education",
+      "status": "ok",
+      "loaded": 50,
+      "skipped": 0
+    },
+    {
+      "file": "data\\spotify\\au\\fiction.json",
+      "platform": "spotify",
+      "country": "AU",
+      "chart": "fiction",
+      "status": "ok",
+      "loaded": 50,
+      "skipped": 0
+    },
+    {
+      "file": "data\\spotify\\au\\health-fitness.json",
+      "platform": "spotify",
+      "country": "AU",
+      "chart": "health-fitness",
+      "status": "ok",
+      "loaded": 50,
+      "skipped": 0
+    },
+    {
+      "file": "data\\spotify\\au\\history.json",
+      "platform": "spotify",
+      "country": "AU",
+      "chart": "history",
+      "status": "ok",
+      "loaded": 50,
+      "skipped": 0
+    },
+    {
+      "file": "data\\spotify\\au\\leisure.json",
+      "platform": "spotify",
+      "country": "AU",
+      "chart": "leisure",
+      "status": "ok",
+      "loaded": 50,
+      "skipped": 0
+    },
+    {
+      "file": "data\\spotify\\au\\music.json",
+      "platform": "spotify",
+      "country": "AU",
+      "chart": "music",
+      "status": "ok",
+      "loaded": 50,
+      "skipped": 0
+    },
+    {
+      "file": "data\\spotify\\au\\news.json",
+      "platform": "spotify",
+      "country": "AU",
+      "chart": "news",
+      "status": "ok",
+      "loaded": 50,
+      "skipped": 0
+    },
+    {
+      "file": "data\\spotify\\au\\religion-spirituality.json",
+      "platform": "spotify",
+      "country": "AU",
+      "chart": "religion-spirituality",
+      "status": "ok",
+      "loaded": 50,
+      "skipped": 0
+    },
+    {
+      "file": "data\\spotify\\au\\science.json",
+      "platform": "spotify",
+      "country": "AU",
+      "chart": "science",
+      "status": "ok",
+      "loaded": 50,
+      "skipped": 0
+    },
+    {
+      "file": "data\\spotify\\au\\society-culture.json",
+      "platform": "spotify",
+      "country": "AU",
+      "chart": "society-culture",
+      "status": "ok",
+      "loaded": 50,
+      "skipped": 0
+    },
+    {
+      "file": "data\\spotify\\au\\sports.json",
+      "platform": "spotify",
+      "country": "AU",
+      "chart": "sports",
+      "status": "ok",
+      "loaded": 50,
+      "skipped": 0
+    },
+    {
+      "file": "data\\spotify\\au\\technology.json",
+      "platform": "spotify",
+      "country": "AU",
+      "chart": "technology",
+      "status": "ok",
+      "loaded": 50,
+      "skipped": 0
+    },
+    {
+      "file": "data\\spotify\\au\\top-podcasts.json",
+      "platform": "spotify",
+      "country": "AU",
+      "chart": "top-podcasts",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\spotify\\au\\trending.json",
+      "platform": "spotify",
+      "country": "AU",
+      "chart": "trending",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\spotify\\au\\true-crime.json",
+      "platform": "spotify",
+      "country": "AU",
+      "chart": "true-crime",
+      "status": "ok",
+      "loaded": 50,
+      "skipped": 0
+    },
+    {
+      "file": "data\\spotify\\au\\tv-film.json",
+      "platform": "spotify",
+      "country": "AU",
+      "chart": "tv-film",
+      "status": "ok",
+      "loaded": 50,
+      "skipped": 0
+    },
+    {
+      "file": "data\\spotify\\br\\arts.json",
+      "platform": "spotify",
+      "country": "BR",
+      "chart": "arts",
+      "status": "ok",
+      "loaded": 50,
+      "skipped": 0
+    },
+    {
+      "file": "data\\spotify\\br\\business.json",
+      "platform": "spotify",
+      "country": "BR",
+      "chart": "business",
+      "status": "ok",
+      "loaded": 50,
+      "skipped": 0
+    },
+    {
+      "file": "data\\spotify\\br\\comedy.json",
+      "platform": "spotify",
+      "country": "BR",
+      "chart": "comedy",
+      "status": "ok",
+      "loaded": 50,
+      "skipped": 0
+    },
+    {
+      "file": "data\\spotify\\br\\education.json",
+      "platform": "spotify",
+      "country": "BR",
+      "chart": "education",
+      "status": "ok",
+      "loaded": 50,
+      "skipped": 0
+    },
+    {
+      "file": "data\\spotify\\br\\fiction.json",
+      "platform": "spotify",
+      "country": "BR",
+      "chart": "fiction",
+      "status": "ok",
+      "loaded": 50,
+      "skipped": 0
+    },
+    {
+      "file": "data\\spotify\\br\\health-fitness.json",
+      "platform": "spotify",
+      "country": "BR",
+      "chart": "health-fitness",
+      "status": "ok",
+      "loaded": 50,
+      "skipped": 0
+    },
+    {
+      "file": "data\\spotify\\br\\history.json",
+      "platform": "spotify",
+      "country": "BR",
+      "chart": "history",
+      "status": "ok",
+      "loaded": 50,
+      "skipped": 0
+    },
+    {
+      "file": "data\\spotify\\br\\leisure.json",
+      "platform": "spotify",
+      "country": "BR",
+      "chart": "leisure",
+      "status": "ok",
+      "loaded": 50,
+      "skipped": 0
+    },
+    {
+      "file": "data\\spotify\\br\\music.json",
+      "platform": "spotify",
+      "country": "BR",
+      "chart": "music",
+      "status": "ok",
+      "loaded": 50,
+      "skipped": 0
+    },
+    {
+      "file": "data\\spotify\\br\\news.json",
+      "platform": "spotify",
+      "country": "BR",
+      "chart": "news",
+      "status": "ok",
+      "loaded": 50,
+      "skipped": 0
+    },
+    {
+      "file": "data\\spotify\\br\\religion-spirituality.json",
+      "platform": "spotify",
+      "country": "BR",
+      "chart": "religion-spirituality",
+      "status": "ok",
+      "loaded": 50,
+      "skipped": 0
+    },
+    {
+      "file": "data\\spotify\\br\\science.json",
+      "platform": "spotify",
+      "country": "BR",
+      "chart": "science",
+      "status": "ok",
+      "loaded": 50,
+      "skipped": 0
+    },
+    {
+      "file": "data\\spotify\\br\\society-culture.json",
+      "platform": "spotify",
+      "country": "BR",
+      "chart": "society-culture",
+      "status": "ok",
+      "loaded": 50,
+      "skipped": 0
+    },
+    {
+      "file": "data\\spotify\\br\\sports.json",
+      "platform": "spotify",
+      "country": "BR",
+      "chart": "sports",
+      "status": "ok",
+      "loaded": 50,
+      "skipped": 0
+    },
+    {
+      "file": "data\\spotify\\br\\technology.json",
+      "platform": "spotify",
+      "country": "BR",
+      "chart": "technology",
+      "status": "ok",
+      "loaded": 50,
+      "skipped": 0
+    },
+    {
+      "file": "data\\spotify\\br\\top-podcasts.json",
+      "platform": "spotify",
+      "country": "BR",
+      "chart": "top-podcasts",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\spotify\\br\\trending.json",
+      "platform": "spotify",
+      "country": "BR",
+      "chart": "trending",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\spotify\\br\\true-crime.json",
+      "platform": "spotify",
+      "country": "BR",
+      "chart": "true-crime",
+      "status": "ok",
+      "loaded": 50,
+      "skipped": 0
+    },
+    {
+      "file": "data\\spotify\\br\\tv-film.json",
+      "platform": "spotify",
+      "country": "BR",
+      "chart": "tv-film",
+      "status": "ok",
+      "loaded": 50,
+      "skipped": 0
+    },
+    {
+      "file": "data\\spotify\\ca\\top-podcasts.json",
+      "platform": "spotify",
+      "country": "CA",
+      "chart": "top-podcasts",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\spotify\\ca\\trending.json",
+      "platform": "spotify",
+      "country": "CA",
+      "chart": "trending",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\spotify\\cl\\top-podcasts.json",
+      "platform": "spotify",
+      "country": "CL",
+      "chart": "top-podcasts",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\spotify\\cl\\trending.json",
+      "platform": "spotify",
+      "country": "CL",
+      "chart": "trending",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\spotify\\co\\top-podcasts.json",
+      "platform": "spotify",
+      "country": "CO",
+      "chart": "top-podcasts",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\spotify\\co\\trending.json",
+      "platform": "spotify",
+      "country": "CO",
+      "chart": "trending",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\spotify\\de\\arts.json",
+      "platform": "spotify",
+      "country": "DE",
+      "chart": "arts",
+      "status": "ok",
+      "loaded": 50,
+      "skipped": 0
+    },
+    {
+      "file": "data\\spotify\\de\\business.json",
+      "platform": "spotify",
+      "country": "DE",
+      "chart": "business",
+      "status": "ok",
+      "loaded": 50,
+      "skipped": 0
+    },
+    {
+      "file": "data\\spotify\\de\\comedy.json",
+      "platform": "spotify",
+      "country": "DE",
+      "chart": "comedy",
+      "status": "ok",
+      "loaded": 50,
+      "skipped": 0
+    },
+    {
+      "file": "data\\spotify\\de\\education.json",
+      "platform": "spotify",
+      "country": "DE",
+      "chart": "education",
+      "status": "ok",
+      "loaded": 50,
+      "skipped": 0
+    },
+    {
+      "file": "data\\spotify\\de\\fiction.json",
+      "platform": "spotify",
+      "country": "DE",
+      "chart": "fiction",
+      "status": "ok",
+      "loaded": 50,
+      "skipped": 0
+    },
+    {
+      "file": "data\\spotify\\de\\health-fitness.json",
+      "platform": "spotify",
+      "country": "DE",
+      "chart": "health-fitness",
+      "status": "ok",
+      "loaded": 50,
+      "skipped": 0
+    },
+    {
+      "file": "data\\spotify\\de\\history.json",
+      "platform": "spotify",
+      "country": "DE",
+      "chart": "history",
+      "status": "ok",
+      "loaded": 50,
+      "skipped": 0
+    },
+    {
+      "file": "data\\spotify\\de\\leisure.json",
+      "platform": "spotify",
+      "country": "DE",
+      "chart": "leisure",
+      "status": "ok",
+      "loaded": 50,
+      "skipped": 0
+    },
+    {
+      "file": "data\\spotify\\de\\music.json",
+      "platform": "spotify",
+      "country": "DE",
+      "chart": "music",
+      "status": "ok",
+      "loaded": 50,
+      "skipped": 0
+    },
+    {
+      "file": "data\\spotify\\de\\news.json",
+      "platform": "spotify",
+      "country": "DE",
+      "chart": "news",
+      "status": "ok",
+      "loaded": 50,
+      "skipped": 0
+    },
+    {
+      "file": "data\\spotify\\de\\religion-spirituality.json",
+      "platform": "spotify",
+      "country": "DE",
+      "chart": "religion-spirituality",
+      "status": "ok",
+      "loaded": 50,
+      "skipped": 0
+    },
+    {
+      "file": "data\\spotify\\de\\science.json",
+      "platform": "spotify",
+      "country": "DE",
+      "chart": "science",
+      "status": "ok",
+      "loaded": 50,
+      "skipped": 0
+    },
+    {
+      "file": "data\\spotify\\de\\society-culture.json",
+      "platform": "spotify",
+      "country": "DE",
+      "chart": "society-culture",
+      "status": "ok",
+      "loaded": 50,
+      "skipped": 0
+    },
+    {
+      "file": "data\\spotify\\de\\sports.json",
+      "platform": "spotify",
+      "country": "DE",
+      "chart": "sports",
+      "status": "ok",
+      "loaded": 50,
+      "skipped": 0
+    },
+    {
+      "file": "data\\spotify\\de\\technology.json",
+      "platform": "spotify",
+      "country": "DE",
+      "chart": "technology",
+      "status": "ok",
+      "loaded": 50,
+      "skipped": 0
+    },
+    {
+      "file": "data\\spotify\\de\\top-podcasts.json",
+      "platform": "spotify",
+      "country": "DE",
+      "chart": "top-podcasts",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\spotify\\de\\trending.json",
+      "platform": "spotify",
+      "country": "DE",
+      "chart": "trending",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\spotify\\de\\true-crime.json",
+      "platform": "spotify",
+      "country": "DE",
+      "chart": "true-crime",
+      "status": "ok",
+      "loaded": 50,
+      "skipped": 0
+    },
+    {
+      "file": "data\\spotify\\de\\tv-film.json",
+      "platform": "spotify",
+      "country": "DE",
+      "chart": "tv-film",
+      "status": "ok",
+      "loaded": 50,
+      "skipped": 0
+    },
+    {
+      "file": "data\\spotify\\es\\top-podcasts.json",
+      "platform": "spotify",
+      "country": "ES",
+      "chart": "top-podcasts",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\spotify\\es\\trending.json",
+      "platform": "spotify",
+      "country": "ES",
+      "chart": "trending",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\spotify\\fr\\top-podcasts.json",
+      "platform": "spotify",
+      "country": "FR",
+      "chart": "top-podcasts",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\spotify\\fr\\trending.json",
+      "platform": "spotify",
+      "country": "FR",
+      "chart": "trending",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\spotify\\gb\\arts.json",
+      "platform": "spotify",
+      "country": "GB",
+      "chart": "arts",
+      "status": "ok",
+      "loaded": 50,
+      "skipped": 0
+    },
+    {
+      "file": "data\\spotify\\gb\\business.json",
+      "platform": "spotify",
+      "country": "GB",
+      "chart": "business",
+      "status": "ok",
+      "loaded": 50,
+      "skipped": 0
+    },
+    {
+      "file": "data\\spotify\\gb\\comedy.json",
+      "platform": "spotify",
+      "country": "GB",
+      "chart": "comedy",
+      "status": "ok",
+      "loaded": 50,
+      "skipped": 0
+    },
+    {
+      "file": "data\\spotify\\gb\\education.json",
+      "platform": "spotify",
+      "country": "GB",
+      "chart": "education",
+      "status": "ok",
+      "loaded": 50,
+      "skipped": 0
+    },
+    {
+      "file": "data\\spotify\\gb\\fiction.json",
+      "platform": "spotify",
+      "country": "GB",
+      "chart": "fiction",
+      "status": "ok",
+      "loaded": 50,
+      "skipped": 0
+    },
+    {
+      "file": "data\\spotify\\gb\\health-fitness.json",
+      "platform": "spotify",
+      "country": "GB",
+      "chart": "health-fitness",
+      "status": "ok",
+      "loaded": 50,
+      "skipped": 0
+    },
+    {
+      "file": "data\\spotify\\gb\\history.json",
+      "platform": "spotify",
+      "country": "GB",
+      "chart": "history",
+      "status": "ok",
+      "loaded": 50,
+      "skipped": 0
+    },
+    {
+      "file": "data\\spotify\\gb\\leisure.json",
+      "platform": "spotify",
+      "country": "GB",
+      "chart": "leisure",
+      "status": "ok",
+      "loaded": 50,
+      "skipped": 0
+    },
+    {
+      "file": "data\\spotify\\gb\\music.json",
+      "platform": "spotify",
+      "country": "GB",
+      "chart": "music",
+      "status": "ok",
+      "loaded": 50,
+      "skipped": 0
+    },
+    {
+      "file": "data\\spotify\\gb\\news.json",
+      "platform": "spotify",
+      "country": "GB",
+      "chart": "news",
+      "status": "ok",
+      "loaded": 50,
+      "skipped": 0
+    },
+    {
+      "file": "data\\spotify\\gb\\religion-spirituality.json",
+      "platform": "spotify",
+      "country": "GB",
+      "chart": "religion-spirituality",
+      "status": "ok",
+      "loaded": 50,
+      "skipped": 0
+    },
+    {
+      "file": "data\\spotify\\gb\\science.json",
+      "platform": "spotify",
+      "country": "GB",
+      "chart": "science",
+      "status": "ok",
+      "loaded": 50,
+      "skipped": 0
+    },
+    {
+      "file": "data\\spotify\\gb\\society-culture.json",
+      "platform": "spotify",
+      "country": "GB",
+      "chart": "society-culture",
+      "status": "ok",
+      "loaded": 50,
+      "skipped": 0
+    },
+    {
+      "file": "data\\spotify\\gb\\sports.json",
+      "platform": "spotify",
+      "country": "GB",
+      "chart": "sports",
+      "status": "ok",
+      "loaded": 50,
+      "skipped": 0
+    },
+    {
+      "file": "data\\spotify\\gb\\technology.json",
+      "platform": "spotify",
+      "country": "GB",
+      "chart": "technology",
+      "status": "ok",
+      "loaded": 50,
+      "skipped": 0
+    },
+    {
+      "file": "data\\spotify\\gb\\top-podcasts.json",
+      "platform": "spotify",
+      "country": "GB",
+      "chart": "top-podcasts",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\spotify\\gb\\trending.json",
+      "platform": "spotify",
+      "country": "GB",
+      "chart": "trending",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\spotify\\gb\\true-crime.json",
+      "platform": "spotify",
+      "country": "GB",
+      "chart": "true-crime",
+      "status": "ok",
+      "loaded": 50,
+      "skipped": 0
+    },
+    {
+      "file": "data\\spotify\\gb\\tv-film.json",
+      "platform": "spotify",
+      "country": "GB",
+      "chart": "tv-film",
+      "status": "ok",
+      "loaded": 50,
+      "skipped": 0
+    },
+    {
+      "file": "data\\spotify\\id\\top-podcasts.json",
+      "platform": "spotify",
+      "country": "ID",
+      "chart": "top-podcasts",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\spotify\\id\\trending.json",
+      "platform": "spotify",
+      "country": "ID",
+      "chart": "trending",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\spotify\\ie\\top-podcasts.json",
+      "platform": "spotify",
+      "country": "IE",
+      "chart": "top-podcasts",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\spotify\\ie\\trending.json",
+      "platform": "spotify",
+      "country": "IE",
+      "chart": "trending",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\spotify\\in\\top-podcasts.json",
+      "platform": "spotify",
+      "country": "IN",
+      "chart": "top-podcasts",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\spotify\\in\\trending.json",
+      "platform": "spotify",
+      "country": "IN",
+      "chart": "trending",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\spotify\\it\\top-podcasts.json",
+      "platform": "spotify",
+      "country": "IT",
+      "chart": "top-podcasts",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\spotify\\it\\trending.json",
+      "platform": "spotify",
+      "country": "IT",
+      "chart": "trending",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\spotify\\jp\\top-podcasts.json",
+      "platform": "spotify",
+      "country": "JP",
+      "chart": "top-podcasts",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\spotify\\jp\\trending.json",
+      "platform": "spotify",
+      "country": "JP",
+      "chart": "trending",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\spotify\\mx\\arts.json",
+      "platform": "spotify",
+      "country": "MX",
+      "chart": "arts",
+      "status": "ok",
+      "loaded": 50,
+      "skipped": 0
+    },
+    {
+      "file": "data\\spotify\\mx\\business.json",
+      "platform": "spotify",
+      "country": "MX",
+      "chart": "business",
+      "status": "ok",
+      "loaded": 50,
+      "skipped": 0
+    },
+    {
+      "file": "data\\spotify\\mx\\comedy.json",
+      "platform": "spotify",
+      "country": "MX",
+      "chart": "comedy",
+      "status": "ok",
+      "loaded": 50,
+      "skipped": 0
+    },
+    {
+      "file": "data\\spotify\\mx\\education.json",
+      "platform": "spotify",
+      "country": "MX",
+      "chart": "education",
+      "status": "ok",
+      "loaded": 50,
+      "skipped": 0
+    },
+    {
+      "file": "data\\spotify\\mx\\fiction.json",
+      "platform": "spotify",
+      "country": "MX",
+      "chart": "fiction",
+      "status": "ok",
+      "loaded": 50,
+      "skipped": 0
+    },
+    {
+      "file": "data\\spotify\\mx\\health-fitness.json",
+      "platform": "spotify",
+      "country": "MX",
+      "chart": "health-fitness",
+      "status": "ok",
+      "loaded": 50,
+      "skipped": 0
+    },
+    {
+      "file": "data\\spotify\\mx\\history.json",
+      "platform": "spotify",
+      "country": "MX",
+      "chart": "history",
+      "status": "ok",
+      "loaded": 50,
+      "skipped": 0
+    },
+    {
+      "file": "data\\spotify\\mx\\leisure.json",
+      "platform": "spotify",
+      "country": "MX",
+      "chart": "leisure",
+      "status": "ok",
+      "loaded": 50,
+      "skipped": 0
+    },
+    {
+      "file": "data\\spotify\\mx\\music.json",
+      "platform": "spotify",
+      "country": "MX",
+      "chart": "music",
+      "status": "ok",
+      "loaded": 50,
+      "skipped": 0
+    },
+    {
+      "file": "data\\spotify\\mx\\news.json",
+      "platform": "spotify",
+      "country": "MX",
+      "chart": "news",
+      "status": "ok",
+      "loaded": 50,
+      "skipped": 0
+    },
+    {
+      "file": "data\\spotify\\mx\\religion-spirituality.json",
+      "platform": "spotify",
+      "country": "MX",
+      "chart": "religion-spirituality",
+      "status": "ok",
+      "loaded": 50,
+      "skipped": 0
+    },
+    {
+      "file": "data\\spotify\\mx\\science.json",
+      "platform": "spotify",
+      "country": "MX",
+      "chart": "science",
+      "status": "ok",
+      "loaded": 50,
+      "skipped": 0
+    },
+    {
+      "file": "data\\spotify\\mx\\society-culture.json",
+      "platform": "spotify",
+      "country": "MX",
+      "chart": "society-culture",
+      "status": "ok",
+      "loaded": 50,
+      "skipped": 0
+    },
+    {
+      "file": "data\\spotify\\mx\\sports.json",
+      "platform": "spotify",
+      "country": "MX",
+      "chart": "sports",
+      "status": "ok",
+      "loaded": 50,
+      "skipped": 0
+    },
+    {
+      "file": "data\\spotify\\mx\\technology.json",
+      "platform": "spotify",
+      "country": "MX",
+      "chart": "technology",
+      "status": "ok",
+      "loaded": 50,
+      "skipped": 0
+    },
+    {
+      "file": "data\\spotify\\mx\\top-podcasts.json",
+      "platform": "spotify",
+      "country": "MX",
+      "chart": "top-podcasts",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\spotify\\mx\\trending.json",
+      "platform": "spotify",
+      "country": "MX",
+      "chart": "trending",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\spotify\\mx\\true-crime.json",
+      "platform": "spotify",
+      "country": "MX",
+      "chart": "true-crime",
+      "status": "ok",
+      "loaded": 50,
+      "skipped": 0
+    },
+    {
+      "file": "data\\spotify\\mx\\tv-film.json",
+      "platform": "spotify",
+      "country": "MX",
+      "chart": "tv-film",
+      "status": "ok",
+      "loaded": 50,
+      "skipped": 0
+    },
+    {
+      "file": "data\\spotify\\nl\\top-podcasts.json",
+      "platform": "spotify",
+      "country": "NL",
+      "chart": "top-podcasts",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\spotify\\nl\\trending.json",
+      "platform": "spotify",
+      "country": "NL",
+      "chart": "trending",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\spotify\\nz\\top-podcasts.json",
+      "platform": "spotify",
+      "country": "NZ",
+      "chart": "top-podcasts",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\spotify\\nz\\trending.json",
+      "platform": "spotify",
+      "country": "NZ",
+      "chart": "trending",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\spotify\\ph\\top-podcasts.json",
+      "platform": "spotify",
+      "country": "PH",
+      "chart": "top-podcasts",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\spotify\\ph\\trending.json",
+      "platform": "spotify",
+      "country": "PH",
+      "chart": "trending",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\spotify\\se\\arts.json",
+      "platform": "spotify",
+      "country": "SE",
+      "chart": "arts",
+      "status": "ok",
+      "loaded": 50,
+      "skipped": 0
+    },
+    {
+      "file": "data\\spotify\\se\\business.json",
+      "platform": "spotify",
+      "country": "SE",
+      "chart": "business",
+      "status": "ok",
+      "loaded": 50,
+      "skipped": 0
+    },
+    {
+      "file": "data\\spotify\\se\\comedy.json",
+      "platform": "spotify",
+      "country": "SE",
+      "chart": "comedy",
+      "status": "ok",
+      "loaded": 50,
+      "skipped": 0
+    },
+    {
+      "file": "data\\spotify\\se\\education.json",
+      "platform": "spotify",
+      "country": "SE",
+      "chart": "education",
+      "status": "ok",
+      "loaded": 50,
+      "skipped": 0
+    },
+    {
+      "file": "data\\spotify\\se\\fiction.json",
+      "platform": "spotify",
+      "country": "SE",
+      "chart": "fiction",
+      "status": "ok",
+      "loaded": 50,
+      "skipped": 0
+    },
+    {
+      "file": "data\\spotify\\se\\health-fitness.json",
+      "platform": "spotify",
+      "country": "SE",
+      "chart": "health-fitness",
+      "status": "ok",
+      "loaded": 50,
+      "skipped": 0
+    },
+    {
+      "file": "data\\spotify\\se\\history.json",
+      "platform": "spotify",
+      "country": "SE",
+      "chart": "history",
+      "status": "ok",
+      "loaded": 50,
+      "skipped": 0
+    },
+    {
+      "file": "data\\spotify\\se\\leisure.json",
+      "platform": "spotify",
+      "country": "SE",
+      "chart": "leisure",
+      "status": "ok",
+      "loaded": 50,
+      "skipped": 0
+    },
+    {
+      "file": "data\\spotify\\se\\music.json",
+      "platform": "spotify",
+      "country": "SE",
+      "chart": "music",
+      "status": "ok",
+      "loaded": 50,
+      "skipped": 0
+    },
+    {
+      "file": "data\\spotify\\se\\news.json",
+      "platform": "spotify",
+      "country": "SE",
+      "chart": "news",
+      "status": "ok",
+      "loaded": 50,
+      "skipped": 0
+    },
+    {
+      "file": "data\\spotify\\se\\religion-spirituality.json",
+      "platform": "spotify",
+      "country": "SE",
+      "chart": "religion-spirituality",
+      "status": "ok",
+      "loaded": 50,
+      "skipped": 0
+    },
+    {
+      "file": "data\\spotify\\se\\science.json",
+      "platform": "spotify",
+      "country": "SE",
+      "chart": "science",
+      "status": "ok",
+      "loaded": 50,
+      "skipped": 0
+    },
+    {
+      "file": "data\\spotify\\se\\society-culture.json",
+      "platform": "spotify",
+      "country": "SE",
+      "chart": "society-culture",
+      "status": "ok",
+      "loaded": 50,
+      "skipped": 0
+    },
+    {
+      "file": "data\\spotify\\se\\sports.json",
+      "platform": "spotify",
+      "country": "SE",
+      "chart": "sports",
+      "status": "ok",
+      "loaded": 50,
+      "skipped": 0
+    },
+    {
+      "file": "data\\spotify\\se\\technology.json",
+      "platform": "spotify",
+      "country": "SE",
+      "chart": "technology",
+      "status": "ok",
+      "loaded": 50,
+      "skipped": 0
+    },
+    {
+      "file": "data\\spotify\\se\\top-podcasts.json",
+      "platform": "spotify",
+      "country": "SE",
+      "chart": "top-podcasts",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\spotify\\se\\trending.json",
+      "platform": "spotify",
+      "country": "SE",
+      "chart": "trending",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\spotify\\se\\true-crime.json",
+      "platform": "spotify",
+      "country": "SE",
+      "chart": "true-crime",
+      "status": "ok",
+      "loaded": 50,
+      "skipped": 0
+    },
+    {
+      "file": "data\\spotify\\se\\tv-film.json",
+      "platform": "spotify",
+      "country": "SE",
+      "chart": "tv-film",
+      "status": "ok",
+      "loaded": 50,
+      "skipped": 0
+    },
+    {
+      "file": "data\\spotify\\us\\arts.json",
+      "platform": "spotify",
+      "country": "US",
+      "chart": "arts",
+      "status": "ok",
+      "loaded": 50,
+      "skipped": 0
+    },
+    {
+      "file": "data\\spotify\\us\\business.json",
+      "platform": "spotify",
+      "country": "US",
+      "chart": "business",
+      "status": "ok",
+      "loaded": 50,
+      "skipped": 0
+    },
+    {
+      "file": "data\\spotify\\us\\comedy.json",
+      "platform": "spotify",
+      "country": "US",
+      "chart": "comedy",
+      "status": "ok",
+      "loaded": 50,
+      "skipped": 0
+    },
+    {
+      "file": "data\\spotify\\us\\education.json",
+      "platform": "spotify",
+      "country": "US",
+      "chart": "education",
+      "status": "ok",
+      "loaded": 50,
+      "skipped": 0
+    },
+    {
+      "file": "data\\spotify\\us\\fiction.json",
+      "platform": "spotify",
+      "country": "US",
+      "chart": "fiction",
+      "status": "ok",
+      "loaded": 50,
+      "skipped": 0
+    },
+    {
+      "file": "data\\spotify\\us\\health-fitness.json",
+      "platform": "spotify",
+      "country": "US",
+      "chart": "health-fitness",
+      "status": "ok",
+      "loaded": 50,
+      "skipped": 0
+    },
+    {
+      "file": "data\\spotify\\us\\history.json",
+      "platform": "spotify",
+      "country": "US",
+      "chart": "history",
+      "status": "ok",
+      "loaded": 50,
+      "skipped": 0
+    },
+    {
+      "file": "data\\spotify\\us\\leisure.json",
+      "platform": "spotify",
+      "country": "US",
+      "chart": "leisure",
+      "status": "ok",
+      "loaded": 50,
+      "skipped": 0
+    },
+    {
+      "file": "data\\spotify\\us\\music.json",
+      "platform": "spotify",
+      "country": "US",
+      "chart": "music",
+      "status": "ok",
+      "loaded": 50,
+      "skipped": 0
+    },
+    {
+      "file": "data\\spotify\\us\\news.json",
+      "platform": "spotify",
+      "country": "US",
+      "chart": "news",
+      "status": "ok",
+      "loaded": 50,
+      "skipped": 0
+    },
+    {
+      "file": "data\\spotify\\us\\religion-spirituality.json",
+      "platform": "spotify",
+      "country": "US",
+      "chart": "religion-spirituality",
+      "status": "ok",
+      "loaded": 50,
+      "skipped": 0
+    },
+    {
+      "file": "data\\spotify\\us\\science.json",
+      "platform": "spotify",
+      "country": "US",
+      "chart": "science",
+      "status": "ok",
+      "loaded": 50,
+      "skipped": 0
+    },
+    {
+      "file": "data\\spotify\\us\\society-culture.json",
+      "platform": "spotify",
+      "country": "US",
+      "chart": "society-culture",
+      "status": "ok",
+      "loaded": 50,
+      "skipped": 0
+    },
+    {
+      "file": "data\\spotify\\us\\sports.json",
+      "platform": "spotify",
+      "country": "US",
+      "chart": "sports",
+      "status": "ok",
+      "loaded": 50,
+      "skipped": 0
+    },
+    {
+      "file": "data\\spotify\\us\\technology.json",
+      "platform": "spotify",
+      "country": "US",
+      "chart": "technology",
+      "status": "ok",
+      "loaded": 50,
+      "skipped": 0
+    },
+    {
+      "file": "data\\spotify\\us\\top-podcasts.json",
+      "platform": "spotify",
+      "country": "US",
+      "chart": "top-podcasts",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\spotify\\us\\trending.json",
+      "platform": "spotify",
+      "country": "US",
+      "chart": "trending",
+      "status": "ok",
+      "loaded": 200,
+      "skipped": 0
+    },
+    {
+      "file": "data\\spotify\\us\\true-crime.json",
+      "platform": "spotify",
+      "country": "US",
+      "chart": "true-crime",
+      "status": "ok",
+      "loaded": 50,
+      "skipped": 0
+    },
+    {
+      "file": "data\\spotify\\us\\tv-film.json",
+      "platform": "spotify",
+      "country": "US",
+      "chart": "tv-film",
+      "status": "ok",
+      "loaded": 50,
+      "skipped": 0
+    },
+    {
+      "file": "data\\youtube\\ca\\top.json",
+      "platform": "youtube",
+      "country": "CA",
+      "chart": "top",
+      "status": "ok",
+      "loaded": 100,
+      "skipped": 0
+    },
+    {
+      "file": "data\\youtube\\mx\\top.json",
+      "platform": "youtube",
+      "country": "MX",
+      "chart": "top",
+      "status": "ok",
+      "loaded": 100,
+      "skipped": 0
+    },
+    {
+      "file": "data\\youtube\\us\\top.json",
+      "platform": "youtube",
+      "country": "US",
+      "chart": "top",
+      "status": "ok",
+      "loaded": 100,
+      "skipped": 0
+    }
+  ],
+  "finished_at": "2026-06-23T14:51:41.627618",
+  "totals": {
+    "files": 404,
+    "ok": 404,
+    "skipped_files": 0,
+    "rows_loaded": 62628,
+    "rows_skipped": 0
+  }
+}

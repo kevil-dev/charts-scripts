@@ -108,6 +108,9 @@ function clean_entry($entry) {
 // --- Main Execution ---
 $countries = $config['countries'];
 $context = $config['context'];
+if (isset($context['capabilities']) && empty($context['capabilities'])) {
+    $context['capabilities'] = new stdClass();
+}
 
 logMsg('INFO', "Fetching " . count($countries) . " YouTube charts into {$outDir}/ ...");
 
@@ -128,15 +131,16 @@ foreach ($countries as $country) {
         curl_setopt($ch, CURLOPT_POST, true);
         curl_setopt($ch, CURLOPT_POSTFIELDS, $jsonBody);
         curl_setopt($ch, CURLOPT_HTTPHEADER, [
-            'Content-Type: application/json',
-            'Content-Length: ' . strlen($jsonBody)
+            'Content-Type: application/json'
         ]);
+        // Mimic the Python script so YouTube doesn't block us
+        curl_setopt($ch, CURLOPT_USERAGENT, 'python-requests/2.31.0'); 
         curl_setopt($ch, CURLOPT_TIMEOUT, 20);
 
         $response = curl_exec($ch);
         $httpCode = curl_getinfo($ch, CURLINFO_HTTP_CODE);
         $curlError = curl_error($ch);
-        curl_close($ch);
+       
 
         if ($httpCode >= 200 && $httpCode < 300 && $response) {
             $data = json_decode($response, true);
@@ -171,7 +175,7 @@ foreach ($countries as $country) {
                 break; // Break out of the retry loop!
             }
         } else {
-            $errorMsg = $curlError ? $curlError : "HTTP Code $httpCode";
+            $errorMsg = $curlError ? $curlError : "HTTP Code $httpCode. Response: " . substr($response, 0, 500);
         }
 
         // Wait before retrying

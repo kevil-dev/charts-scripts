@@ -1,5 +1,67 @@
-2026-06-23 14:51:07,116 INFO Fetching 3 YouTube charts into C:\Users\Admin\Desktop\scripts\data\youtube/ ...
-2026-06-23 14:51:08,416 INFO ok   us/top: 100 shows
-2026-06-23 14:51:10,584 INFO ok   ca/top: 100 shows
-2026-06-23 14:51:12,955 INFO ok   mx/top: 100 shows
-2026-06-23 14:51:13,956 INFO Done. 3 ok, 0 failed.
+2026-06-24 05:13:44,000 INFO Fetching 3 YouTube charts into C:\Users\Admin\Desktop\scripts/data/youtube/ ...
+2026-06-24 05:13:52,000 ERROR FAIL us/top: HTTP Code 400
+2026-06-24 05:14:00,000 ERROR FAIL ca/top: HTTP Code 400
+2026-06-24 05:14:12,000 ERROR FAIL mx/top: HTTP Code 400
+2026-06-24 05:14:13,000 INFO Done. 0 ok, 3 failed.
+2026-06-24 05:14:13,000 ERROR All countries failed — YouTube API may be broken or credentials expired
+2026-06-24 06:32:11,000 INFO Fetching 3 YouTube charts into C:\Users\Admin\Desktop\scripts/data/youtube/ ...
+2026-06-24 06:32:18,000 ERROR FAIL us/top: HTTP Code 400
+2026-06-24 06:32:25,000 ERROR FAIL ca/top: HTTP Code 400
+2026-06-24 06:32:33,000 ERROR FAIL mx/top: HTTP Code 400
+2026-06-24 06:32:34,000 INFO Done. 0 ok, 3 failed.
+2026-06-24 06:32:34,000 ERROR All countries failed — YouTube API may be broken or credentials expired
+2026-06-24 06:33:09,000 INFO Fetching 3 YouTube charts into C:\Users\Admin\Desktop\scripts/data/youtube/ ...
+2026-06-24 06:33:16,000 ERROR FAIL us/top: HTTP Code 400. Response: {
+  "error": {
+    "code": 400,
+    "message": "Invalid JSON payload received. Unknown name \"capabilities\" at 'context': Proto field is not repeating, cannot start list.",
+    "errors": [
+      {
+        "message": "Invalid JSON payload received. Unknown name \"capabilities\" at 'context': Proto field is not repeating, cannot start list.",
+        "reason": "invalid"
+      }
+    ],
+    "status": "INVALID_ARGUMENT",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.BadRe
+2026-06-24 06:33:23,000 ERROR FAIL ca/top: HTTP Code 400. Response: {
+  "error": {
+    "code": 400,
+    "message": "Invalid JSON payload received. Unknown name \"capabilities\" at 'context': Proto field is not repeating, cannot start list.",
+    "errors": [
+      {
+        "message": "Invalid JSON payload received. Unknown name \"capabilities\" at 'context': Proto field is not repeating, cannot start list.",
+        "reason": "invalid"
+      }
+    ],
+    "status": "INVALID_ARGUMENT",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.BadRe
+2026-06-24 06:33:31,000 ERROR FAIL mx/top: HTTP Code 400. Response: {
+  "error": {
+    "code": 400,
+    "message": "Invalid JSON payload received. Unknown name \"capabilities\" at 'context': Proto field is not repeating, cannot start list.",
+    "errors": [
+      {
+        "message": "Invalid JSON payload received. Unknown name \"capabilities\" at 'context': Proto field is not repeating, cannot start list.",
+        "reason": "invalid"
+      }
+    ],
+    "status": "INVALID_ARGUMENT",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.BadRe
+2026-06-24 06:33:32,000 INFO Done. 0 ok, 3 failed.
+2026-06-24 06:33:32,000 ERROR All countries failed — YouTube API may be broken or credentials expired
+2026-06-24 06:33:51,000 INFO Fetching 3 YouTube charts into C:\Users\Admin\Desktop\scripts/data/youtube/ ...
+2026-06-24 06:33:52,000 INFO ok   us/top: 100 shows
+2026-06-24 06:33:55,000 INFO ok   ca/top: 100 shows
+2026-06-24 06:33:57,000 INFO ok   mx/top: 100 shows
+2026-06-24 06:33:58,000 INFO Done. 3 ok, 0 failed.
+2026-06-24 06:39:13,000 INFO Fetching 3 YouTube charts into C:\Users\Admin\Desktop\scripts/data/youtube/ ...
+2026-06-24 06:39:14,000 INFO ok   us/top: 100 shows
+2026-06-24 06:39:16,000 INFO ok   ca/top: 100 shows
+2026-06-24 06:39:18,000 INFO ok   mx/top: 100 shows
+2026-06-24 06:39:19,000 INFO Done. 3 ok, 0 failed.

@@ -127,7 +127,7 @@ do {
 
         // Cleanup handle
         curl_multi_remove_handle($mh, $ch);
-        curl_close($ch);
+        
         unset($activeHandles[(int)$ch]);
 
         $jobStatus = "fail"; // default to fail, override if ok or skip
@@ -203,7 +203,6 @@ do {
     }
 } while ($active || count($activeHandles) > 0);
 
-curl_multi_close($mh);
 
 logMsg('INFO', "Done. {$okCount} ok, {$skipCount} skipped (not offered), {$failCount} failed.");
 

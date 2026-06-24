@@ -1,460 +1,460 @@
 {
-  "platform": "spotify",
-  "country": "mx",
-  "genre": "Arts",
-  "slug": "arts",
-  "fetched_at": "2026-06-23T09:20:39Z",
-  "count": 50,
-  "shows": [
-    {
-      "rank": 1,
-      "spotify_id": "3QPjhwLS7PpT9PN87ImzJx",
-      "name": "📚ESCUCHA TU SUBCONSCIENTE ",
-      "publisher": "ESCUCHA TU SUBCONSCIENTE",
-      "artwork": "https://i.scdn.co/image/ab67656300005f1fd6cbb6d36accefb544bf4362",
-      "rank_move": "UNCHANGED",
-      "url": "https://open.spotify.com/show/3QPjhwLS7PpT9PN87ImzJx"
-    },
-    {
-      "rank": 2,
-      "spotify_id": "0pUuC7dVTZKCBXl0XLZBsj",
-      "name": "No Me Puedes Lastimar [Can't Hurt Me] AUDIOLIBRO",
-      "publisher": "Mundo Lectores",
-      "artwork": "https://i.scdn.co/image/ab67656300005f1f4609369b6a4cf57a47d512a0",
-      "rank_move": "UNCHANGED",
-      "url": "https://open.spotify.com/show/0pUuC7dVTZKCBXl0XLZBsj"
-    },
-    {
-      "rank": 3,
-      "spotify_id": "58Orrcm3l5bBYvOMyjYvK4",
-      "name": "LETRAS CON SONIDO",
-      "publisher": "cristian vigueras",
-      "artwork": "https://i.scdn.co/image/ab67656300005f1f127f9274b281a80b325662f1",
-      "rank_move": "UP",
-      "url": "https://open.spotify.com/show/58Orrcm3l5bBYvOMyjYvK4"
-    },
-    {
-      "rank": 4,
-      "spotify_id": "6mbAdzhkD1fNowYObQo6xa",
-      "name": "Audiolibros Español Voz Humana",
-      "publisher": "Tamara Annecchini",
-      "artwork": "https://i.scdn.co/image/ab67656300005f1fe586893eee10e68a2cc052ff",
-      "rank_move": "DOWN",
-      "url": "https://open.spotify.com/show/6mbAdzhkD1fNowYObQo6xa"
-    },
-    {
-      "rank": 5,
-      "spotify_id": "6jhopddUKe3P7s8VL3YL9u",
-      "name": "Psicología en Audio: Resúmenes de Libros de Psicología, Desarrollo Personal y Biografías",
-      "publisher": "Filosofía de Vida",
-      "artwork": "https://i.scdn.co/image/ab67656300005f1fa5d249a0865fa56d3e22c484",
-      "rank_move": "UNCHANGED",
-      "url": "https://open.spotify.com/show/6jhopddUKe3P7s8VL3YL9u"
-    },
-    {
-      "rank": 6,
-      "spotify_id": "71EyUZefAWkg22ipLLLoaq",
-      "name": "LA BIBLIA RVR60 EN AUDIO",
-      "publisher": "LA BIBLIA EN AUDIO",
-      "artwork": "https://i.scdn.co/image/ab67656300005f1f389f8d2a4ccf85799b496e2a",
-      "rank_move": "UNCHANGED",
-      "url": "https://open.spotify.com/show/71EyUZefAWkg22ipLLLoaq"
-    },
-    {
-      "rank": 7,
-      "spotify_id": "1Qj5n3z0dLSAFerCHvgMpr",
-      "name": "Podcasts Al Estilo ",
-      "publisher": "Tony Sanchez",
-      "artwork": "https://i.scdn.co/image/ab67656300005f1f9f8f1f2a30f9913c35df457a",
-      "rank_move": "UNCHANGED",
-      "url": "https://open.spotify.com/show/1Qj5n3z0dLSAFerCHvgMpr"
-    },
-    {
-      "rank": 8,
-      "spotify_id": "7pemtmqD5yWultmd6cIzjM",
-      "name": "Leamos El Mundo ",
-      "publisher": "Giovanni De Angel",
-      "artwork": "https://i.scdn.co/image/ab67656300005f1f91ed95bfe6fd5ca47b35ce2c",
-      "rank_move": "UNCHANGED",
-      "url": "https://open.spotify.com/show/7pemtmqD5yWultmd6cIzjM"
-    },
-    {
-      "rank": 9,
-      "spotify_id": "1FXacshuINODmDPpv6WPJy",
-      "name": "Entre libros 📚 y café ☕️",
-      "publisher": "Bibiana Arias ",
-      "artwork": "https://i.scdn.co/image/ab67656300005f1f98db8733f80bf964483113e9",
-      "rank_move": "UNCHANGED",
-      "url": "https://open.spotify.com/show/1FXacshuINODmDPpv6WPJy"
-    },
-    {
-      "rank": 10,
-      "spotify_id": "0t2DCfIJtkM4NgzSx8JZWj",
-      "name": "El hombre más rico de Babilonia",
-      "publisher": "El hombre más rico de Babilonia",
-      "artwork": "https://i.scdn.co/image/ab67656300005f1f05ce503e6d1571da7c7d36de",
-      "rank_move": "UNCHANGED",
-      "url": "https://open.spotify.com/show/0t2DCfIJtkM4NgzSx8JZWj"
-    },
-    {
-      "rank": 11,
-      "spotify_id": "2JIXawoH99ABRjAVxFYBBX",
-      "name": "Doblando Realidades",
-      "publisher": "Doblando Realidades",
-      "artwork": "https://i.scdn.co/image/ab67656300005f1ffc509822a376545908eb7c54",
-      "rank_move": "UNCHANGED",
-      "url": "https://open.spotify.com/show/2JIXawoH99ABRjAVxFYBBX"
-    },
-    {
-      "rank": 12,
-      "spotify_id": "5C1WiClRak4QXBzjhjyRCX",
-      "name": "\"Escucha, Aprende, Inspírate\"",
-      "publisher": "Juan Amazol",
-      "artwork": "https://i.scdn.co/image/ab67656300005f1f21e92ed6a068a2eed3815dbf",
-      "rank_move": "UNCHANGED",
-      "url": "https://open.spotify.com/show/5C1WiClRak4QXBzjhjyRCX"
-    },
-    {
-      "rank": 13,
-      "spotify_id": "2K18sKikMqasFodgAib3Y8",
-      "name": "Los mejores audiolibros",
-      "publisher": "Fernando",
-      "artwork": "https://i.scdn.co/image/ab67656300005f1fefa8726f29dcc6c300d93630",
-      "rank_move": "UP",
-      "url": "https://open.spotify.com/show/2K18sKikMqasFodgAib3Y8"
-    },
-    {
-      "rank": 14,
-      "spotify_id": "00HqH2MTYCXjo6102kq7Ul",
-      "name": "Lee Conmigo",
-      "publisher": "Kimberly González ",
-      "artwork": "https://i.scdn.co/image/ab67656300005f1fc06f185e3b1028d7e1ae24cd",
-      "rank_move": "DOWN",
-      "url": "https://open.spotify.com/show/00HqH2MTYCXjo6102kq7Ul"
-    },
-    {
-      "rank": 15,
-      "spotify_id": "3X1dfpnotXh9kJS96Fl2FN",
-      "name": "Deja que te cuente Audiolibros",
-      "publisher": "Deja Que te cuente Audiolibros",
-      "artwork": "https://i.scdn.co/image/ab67656300005f1fbb76fc6aa6b89a5c0bf3f872",
-      "rank_move": "DOWN",
-      "url": "https://open.spotify.com/show/3X1dfpnotXh9kJS96Fl2FN"
-    },
-    {
-      "rank": 16,
-      "spotify_id": "4Wct6aiFJyt5UpZt8PBZ90",
-      "name": "Audiolibros, Liderazgo, Autogestión, tu camino hacia el Exito.",
-      "publisher": "claudioalexis22",
-      "artwork": "https://i.scdn.co/image/ab67656300005f1f9f358d348c1fe206096f1cb7",
-      "rank_move": "UNCHANGED",
-      "url": "https://open.spotify.com/show/4Wct6aiFJyt5UpZt8PBZ90"
-    },
-    {
-      "rank": 17,
-      "spotify_id": "5y37UJN2zsWtMnqxUZdVpw",
-      "name": "✨Entre Estrellas y Suspiros✨ ",
-      "publisher": "PIA :)",
-      "artwork": "https://i.scdn.co/image/ab67656300005f1fea1c2241359ce70edfe7cce5",
-      "rank_move": "UNCHANGED",
-      "url": "https://open.spotify.com/show/5y37UJN2zsWtMnqxUZdVpw"
-    },
-    {
-      "rank": 18,
-      "spotify_id": "2IsUmw25sOsz8UW6gqI5NT",
-      "name": "Audiolibros Leyendo Juntos",
-      "publisher": "Audiolibros Leyendo Juntos",
-      "artwork": "https://i.scdn.co/image/ab67656300005f1f133a3b3fccabb743cfaa019c",
-      "rank_move": "UNCHANGED",
-      "url": "https://open.spotify.com/show/2IsUmw25sOsz8UW6gqI5NT"
-    },
-    {
-      "rank": 19,
-      "spotify_id": "2z6tiaRI40NkPn5pbZHTUu",
-      "name": "farid dieck de video a audio",
-      "publisher": "Las aventuras de Arturo 31",
-      "artwork": "https://i.scdn.co/image/ab67656300005f1f959b381b7ec72f01219d09a1",
-      "rank_move": "UNCHANGED",
-      "url": "https://open.spotify.com/show/2z6tiaRI40NkPn5pbZHTUu"
-    },
-    {
-      "rank": 20,
-      "spotify_id": "45fNoKoHgOxTHWBu2XaiCn",
-      "name": "Audiolibros Pigeon: Finanzas",
-      "publisher": "Pigeon Casa Editorial",
-      "artwork": "https://i.scdn.co/image/ab67656300005f1fefdd5c13a4f302cd2a858774",
-      "rank_move": "UNCHANGED",
-      "url": "https://open.spotify.com/show/45fNoKoHgOxTHWBu2XaiCn"
-    },
-    {
-      "rank": 21,
-      "spotify_id": "1mx1iHRACqzXzYMCcIHbEa",
-      "name": "Bibliotequeando",
-      "publisher": "Ricardo Lugo",
-      "artwork": "https://i.scdn.co/image/ab67656300005f1f21378a32a704c6b29abdfe04",
-      "rank_move": "UNCHANGED",
-      "url": "https://open.spotify.com/show/1mx1iHRACqzXzYMCcIHbEa"
-    },
-    {
-      "rank": 22,
-      "spotify_id": "5Wr0b3pGkixNFSZUBPsWDD",
-      "name": "Un Libro Una Hora",
-      "publisher": "SER Podcast",
-      "artwork": "https://i.scdn.co/image/ab67656300005f1fa146340ffea4c8e02fc58b57",
-      "rank_move": "UNCHANGED",
-      "url": "https://open.spotify.com/show/5Wr0b3pGkixNFSZUBPsWDD"
-    },
-    {
-      "rank": 23,
-      "spotify_id": "6BWLhynOvlImD61rt8qHN9",
-      "name": "El poder de la mente subconsciente (Joseph Murphy)",
-      "publisher": "Joseph Murphy",
-      "artwork": "https://i.scdn.co/image/ab67656300005f1f7217f6d8f0d2a1d314195df3",
-      "rank_move": "UP",
-      "url": "https://open.spotify.com/show/6BWLhynOvlImD61rt8qHN9"
-    },
-    {
-      "rank": 24,
-      "spotify_id": "1j9ZRnCj0AM57XpoUfjaIO",
-      "name": "Fernando Lozano presenta",
-      "publisher": "Fernando Lozano",
-      "artwork": "https://i.scdn.co/image/ab67656300005f1f2ae54921bf9c8ceb9d47959d",
-      "rank_move": "DOWN",
-      "url": "https://open.spotify.com/show/1j9ZRnCj0AM57XpoUfjaIO"
-    },
-    {
-      "rank": 25,
-      "spotify_id": "116y3LHLn09wuqa9YAVvPk",
-      "name": "Audiolibro En Español",
-      "publisher": "Audiolibro En Español",
-      "artwork": "https://i.scdn.co/image/ab67656300005f1f6b2e6987922926b21b84a67d",
-      "rank_move": "UNCHANGED",
-      "url": "https://open.spotify.com/show/116y3LHLn09wuqa9YAVvPk"
-    },
-    {
-      "rank": 26,
-      "spotify_id": "1j7cZMcN6y8eLa3ICMNST2",
-      "name": "Cháchara Literaria",
-      "publisher": "Maga y Gina",
-      "artwork": "https://i.scdn.co/image/ab67656300005f1f090f778f50bc71b4359af269",
-      "rank_move": "UNCHANGED",
-      "url": "https://open.spotify.com/show/1j7cZMcN6y8eLa3ICMNST2"
-    },
-    {
-      "rank": 27,
-      "spotify_id": "0GouKJX1cLSb1WAQCAhbOw",
-      "name": "3 AM NARRACIONES DE TERROR",
-      "publisher": "3AMNDT | PODCAST",
-      "artwork": "https://i.scdn.co/image/ab67656300005f1fcc721480764f539bacacd566",
-      "rank_move": "UP",
-      "url": "https://open.spotify.com/show/0GouKJX1cLSb1WAQCAhbOw"
-    },
-    {
-      "rank": 28,
-      "spotify_id": "5kv0fgBRUYU6fd9qGTJhl4",
-      "name": "Biblia Dramatizada Reina Valera 1960",
-      "publisher": "José Francisco Pérez",
-      "artwork": "https://i.scdn.co/image/ab67656300005f1f9c90a4b606a1679761e8340c",
-      "rank_move": "DOWN",
-      "url": "https://open.spotify.com/show/5kv0fgBRUYU6fd9qGTJhl4"
-    },
-    {
-      "rank": 29,
-      "spotify_id": "10lY1IXRufxNtCVdv668OR",
-      "name": "SonorBooks ES",
-      "publisher": "SonorBooks ES",
-      "artwork": "https://i.scdn.co/image/ab67656300005f1ff17abe97e2e966e4705c63da",
-      "rank_move": "UNCHANGED",
-      "url": "https://open.spotify.com/show/10lY1IXRufxNtCVdv668OR"
-    },
-    {
-      "rank": 30,
-      "spotify_id": "2qbNoliGcV4bDPvi3XhWpi",
-      "name": "Audiolibros por Ulises Vera Gómez",
-      "publisher": "Miguel Angel Ulises Vera Gomez",
-      "artwork": "https://i.scdn.co/image/ab67656300005f1f3fba2585a285e9edeff548de",
-      "rank_move": "UNCHANGED",
-      "url": "https://open.spotify.com/show/2qbNoliGcV4bDPvi3XhWpi"
-    },
-    {
-      "rank": 31,
-      "spotify_id": "7JAzXTu5liHUQiS9ggCYoh",
-      "name": "Tu rincón de desconexión | Marc Pancorbo",
-      "publisher": "MarcPR",
-      "artwork": "https://i.scdn.co/image/ab67656300005f1f11cc39eac2f1138be029675c",
-      "rank_move": "UNCHANGED",
-      "url": "https://open.spotify.com/show/7JAzXTu5liHUQiS9ggCYoh"
-    },
-    {
-      "rank": 32,
-      "spotify_id": "11rW4dJUfj5A9YcOznv8Zw",
-      "name": "CAFE.COM - Fabrika de Ventas - Javier Castillo",
-      "publisher": "Javier Castillo - FabrikaDeVentas",
-      "artwork": "https://i.scdn.co/image/ab67656300005f1f540b1eb47f9023c4c74d5c73",
-      "rank_move": "UP",
-      "url": "https://open.spotify.com/show/11rW4dJUfj5A9YcOznv8Zw"
-    },
-    {
-      "rank": 33,
-      "spotify_id": "7h7CrZuwb5xtNpoZ6fuhWQ",
-      "name": "El Pensadero Semanal: MAXI",
-      "publisher": "Carlos Ponce Torres",
-      "artwork": "https://i.scdn.co/image/ab67656300005f1fd72adc9e7667d62cd92230e5",
-      "rank_move": "DOWN",
-      "url": "https://open.spotify.com/show/7h7CrZuwb5xtNpoZ6fuhWQ"
-    },
-    {
-      "rank": 34,
-      "spotify_id": "5Hp5YwBMd69LI8xYhsqufR",
-      "name": "Audiolibro Doña Huevotes de Anamar Orihuela por Mary Carmen Alexander ",
-      "publisher": "Mary Carmen Alexander ",
-      "artwork": "https://i.scdn.co/image/ab67656300005f1f1a5b89e8f26f1c27f7301a92",
-      "rank_move": "UNCHANGED",
-      "url": "https://open.spotify.com/show/5Hp5YwBMd69LI8xYhsqufR"
-    },
-    {
-      "rank": 35,
-      "spotify_id": "6xpNl50zPjFF55R5K5M3Xb",
-      "name": "AudioLibros espirituales y de meditación",
-      "publisher": "Libertad Financiera",
-      "artwork": "https://i.scdn.co/image/ab67656300005f1fcca31d0c13ad0dbd6fd5c465",
-      "rank_move": "UNCHANGED",
-      "url": "https://open.spotify.com/show/6xpNl50zPjFF55R5K5M3Xb"
-    },
-    {
-      "rank": 36,
-      "spotify_id": "1ciayYPiCoSoDuQbKdvknL",
-      "name": "Audio cuentos y libros",
-      "publisher": "Pedro Guzmán Pérez",
-      "artwork": "https://i.scdn.co/image/ab67656300005f1fa45f3bdcb35b0a8985af7f66",
-      "rank_move": "UNCHANGED",
-      "url": "https://open.spotify.com/show/1ciayYPiCoSoDuQbKdvknL"
-    },
-    {
-      "rank": 37,
-      "spotify_id": "3eTm8IGtonnSKZpL45RMJZ",
-      "name": "Audiolibros para Crecer Todos los Días",
-      "publisher": "Audiolibros para Crecer Todos los Días",
-      "artwork": "https://i.scdn.co/image/ab67656300005f1f3263ead4c785d2d2ae8702ef",
-      "rank_move": "UNCHANGED",
-      "url": "https://open.spotify.com/show/3eTm8IGtonnSKZpL45RMJZ"
-    },
-    {
-      "rank": 38,
-      "spotify_id": "31hSkvBsM6beBRszEWMmP8",
-      "name": "Fernanda Cervantes C",
-      "publisher": "Fernanda Cervantes C",
-      "artwork": "https://i.scdn.co/image/ab67656300005f1f564beb0bd5fdbab9b547a16e",
-      "rank_move": "UNCHANGED",
-      "url": "https://open.spotify.com/show/31hSkvBsM6beBRszEWMmP8"
-    },
-    {
-      "rank": 39,
-      "spotify_id": "098km1QLh9nwqeYmHQ0RIS",
-      "name": "El Monje Que Vendió su Ferrari ",
-      "publisher": "Kelly Montserrat",
-      "artwork": "https://i.scdn.co/image/ab67656300005f1fa9ad89706a0455e001b30cfe",
-      "rank_move": "UP",
-      "url": "https://open.spotify.com/show/098km1QLh9nwqeYmHQ0RIS"
-    },
-    {
-      "rank": 40,
-      "spotify_id": "5jEwW8Q9MRb1KLlH9Ldcwm",
-      "name": "Gaby del Río, La voz del libro",
-      "publisher": "Gabriela del Río",
-      "artwork": "https://i.scdn.co/image/ab67656300005f1fdba2062b83d4b857d7e5b83b",
-      "rank_move": "DOWN",
-      "url": "https://open.spotify.com/show/5jEwW8Q9MRb1KLlH9Ldcwm"
-    },
-    {
-      "rank": 41,
-      "spotify_id": "3OqQvVfyrAvbz5nbEPgObq",
-      "name": "Grandes Infelices",
-      "publisher": "Blackie Books",
-      "artwork": "https://i.scdn.co/image/ab67656300005f1ff356648de71389efdb0a5d82",
-      "rank_move": "DOWN",
-      "url": "https://open.spotify.com/show/3OqQvVfyrAvbz5nbEPgObq"
-    },
-    {
-      "rank": 42,
-      "spotify_id": "1qs573NtJRQMdCOmlH88XX",
-      "name": "Así las cosas",
-      "publisher": "WRadio",
-      "artwork": "https://i.scdn.co/image/ab67656300005f1f4c3f6bb94153b60790b65e30",
-      "rank_move": "UNCHANGED",
-      "url": "https://open.spotify.com/show/1qs573NtJRQMdCOmlH88XX"
-    },
-    {
-      "rank": 43,
-      "spotify_id": "4NDkiALHVBQMt18mpVvddg",
-      "name": "Top Audiolibros",
-      "publisher": "Samuel Pacheco",
-      "artwork": "https://i.scdn.co/image/ab67656300005f1f1867bf95d243635c2e9bcbbf",
-      "rank_move": "UP",
-      "url": "https://open.spotify.com/show/4NDkiALHVBQMt18mpVvddg"
-    },
-    {
-      "rank": 44,
-      "spotify_id": "7ed9dLPxdBvtPueWFoqIN2",
-      "name": "UNIVERSO DE MITOS Y LEYENDAS ",
-      "publisher": "ENRIQUE ROMERO",
-      "artwork": "https://i.scdn.co/image/ab67656300005f1f5c9becbef056f2e89d048951",
-      "rank_move": "DOWN",
-      "url": "https://open.spotify.com/show/7ed9dLPxdBvtPueWFoqIN2"
-    },
-    {
-      "rank": 45,
-      "spotify_id": "6dlex4au6QJZTfYJpJIj07",
-      "name": "AUDIOLIBROS DE EXITO COMPLETOS - GRATIS",
-      "publisher": "El Campus de la Riqueza",
-      "artwork": "https://i.scdn.co/image/ab67656300005f1f4cc553be052c76a7fbf2a5d2",
-      "rank_move": "UNCHANGED",
-      "url": "https://open.spotify.com/show/6dlex4au6QJZTfYJpJIj07"
-    },
-    {
-      "rank": 46,
-      "spotify_id": "6Y5jvJmUu67ZaBeVlIxvuC",
-      "name": "Harry Potter - Saga Audiolibros",
-      "publisher": "Leandro Prz ",
-      "artwork": "https://i.scdn.co/image/ab67656300005f1f13501b5190950fd0f3815437",
-      "rank_move": "UNCHANGED",
-      "url": "https://open.spotify.com/show/6Y5jvJmUu67ZaBeVlIxvuC"
-    },
-    {
-      "rank": 47,
-      "spotify_id": "4DpfkQ6AzqMXys8o8Gbxl8",
-      "name": "AudioLI-AUDIOLIBROS",
-      "publisher": "AudioLi",
-      "artwork": "https://i.scdn.co/image/ab67656300005f1fcc041f5128138738d10a0ec6",
-      "rank_move": "UP",
-      "url": "https://open.spotify.com/show/4DpfkQ6AzqMXys8o8Gbxl8"
-    },
-    {
-      "rank": 48,
-      "spotify_id": "3FFLdybqlzHciszCi5iXhT",
-      "name": "Audio Biblia Dramatizada NTV",
-      "publisher": "La asociación Luis Palau en alianza con la Fundación Grace and Mercy",
-      "artwork": "https://i.scdn.co/image/ab67656300005f1f3267889b62473c9b1a2c48d1",
-      "rank_move": "DOWN",
-      "url": "https://open.spotify.com/show/3FFLdybqlzHciszCi5iXhT"
-    },
-    {
-      "rank": 49,
-      "spotify_id": "47SvLma45kOiCjWgO25eRU",
-      "name": "Pastora Yesenia Then",
-      "publisher": "Pastora Yesenia Then",
-      "artwork": "https://i.scdn.co/image/ab67656300005f1fee8c434ca61b5aca5e771e21",
-      "rank_move": "DOWN",
-      "url": "https://open.spotify.com/show/47SvLma45kOiCjWgO25eRU"
-    },
-    {
-      "rank": 50,
-      "spotify_id": "625L7D90xDrfAblId1r5g8",
-      "name": "CINERDS",
-      "publisher": "Cinerds",
-      "artwork": "https://i.scdn.co/image/ab67656300005f1f64f24b90b2dcad381edb4d95",
-      "rank_move": "UNCHANGED",
-      "url": "https://open.spotify.com/show/625L7D90xDrfAblId1r5g8"
-    }
-  ]
+    "platform": "spotify",
+    "country": "mx",
+    "genre": "Arts",
+    "slug": "arts",
+    "fetched_at": "2026-06-24T06:38:05Z",
+    "count": 50,
+    "shows": [
+        {
+            "rank": 1,
+            "spotify_id": "3QPjhwLS7PpT9PN87ImzJx",
+            "name": "📚ESCUCHA TU SUBCONSCIENTE ",
+            "publisher": "ESCUCHA TU SUBCONSCIENTE",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fd6cbb6d36accefb544bf4362",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/3QPjhwLS7PpT9PN87ImzJx"
+        },
+        {
+            "rank": 2,
+            "spotify_id": "0pUuC7dVTZKCBXl0XLZBsj",
+            "name": "No Me Puedes Lastimar [Can't Hurt Me] AUDIOLIBRO",
+            "publisher": "Mundo Lectores",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f4609369b6a4cf57a47d512a0",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/0pUuC7dVTZKCBXl0XLZBsj"
+        },
+        {
+            "rank": 3,
+            "spotify_id": "58Orrcm3l5bBYvOMyjYvK4",
+            "name": "LETRAS CON SONIDO",
+            "publisher": "cristian vigueras",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f127f9274b281a80b325662f1",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/58Orrcm3l5bBYvOMyjYvK4"
+        },
+        {
+            "rank": 4,
+            "spotify_id": "6mbAdzhkD1fNowYObQo6xa",
+            "name": "Audiolibros Español Voz Humana",
+            "publisher": "Tamara Annecchini",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fe586893eee10e68a2cc052ff",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/6mbAdzhkD1fNowYObQo6xa"
+        },
+        {
+            "rank": 5,
+            "spotify_id": "6jhopddUKe3P7s8VL3YL9u",
+            "name": "Psicología en Audio: Resúmenes de Libros de Psicología, Desarrollo Personal y Biografías",
+            "publisher": "Filosofía de Vida",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fa5d249a0865fa56d3e22c484",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/6jhopddUKe3P7s8VL3YL9u"
+        },
+        {
+            "rank": 6,
+            "spotify_id": "71EyUZefAWkg22ipLLLoaq",
+            "name": "LA BIBLIA RVR60 EN AUDIO",
+            "publisher": "LA BIBLIA EN AUDIO",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f389f8d2a4ccf85799b496e2a",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/71EyUZefAWkg22ipLLLoaq"
+        },
+        {
+            "rank": 7,
+            "spotify_id": "1Qj5n3z0dLSAFerCHvgMpr",
+            "name": "Podcasts Al Estilo ",
+            "publisher": "Tony Sanchez",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f9f8f1f2a30f9913c35df457a",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/1Qj5n3z0dLSAFerCHvgMpr"
+        },
+        {
+            "rank": 8,
+            "spotify_id": "7pemtmqD5yWultmd6cIzjM",
+            "name": "Leamos El Mundo ",
+            "publisher": "Giovanni De Angel",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f91ed95bfe6fd5ca47b35ce2c",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/7pemtmqD5yWultmd6cIzjM"
+        },
+        {
+            "rank": 9,
+            "spotify_id": "1FXacshuINODmDPpv6WPJy",
+            "name": "Entre libros 📚 y café ☕️",
+            "publisher": "Bibiana Arias ",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f98db8733f80bf964483113e9",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/1FXacshuINODmDPpv6WPJy"
+        },
+        {
+            "rank": 10,
+            "spotify_id": "0t2DCfIJtkM4NgzSx8JZWj",
+            "name": "El hombre más rico de Babilonia",
+            "publisher": "El hombre más rico de Babilonia",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f05ce503e6d1571da7c7d36de",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/0t2DCfIJtkM4NgzSx8JZWj"
+        },
+        {
+            "rank": 11,
+            "spotify_id": "2JIXawoH99ABRjAVxFYBBX",
+            "name": "Doblando Realidades",
+            "publisher": "Doblando Realidades",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1ffc509822a376545908eb7c54",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/2JIXawoH99ABRjAVxFYBBX"
+        },
+        {
+            "rank": 12,
+            "spotify_id": "5C1WiClRak4QXBzjhjyRCX",
+            "name": "\"Escucha, Aprende, Inspírate\"",
+            "publisher": "Juan Amazol",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f21e92ed6a068a2eed3815dbf",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/5C1WiClRak4QXBzjhjyRCX"
+        },
+        {
+            "rank": 13,
+            "spotify_id": "00HqH2MTYCXjo6102kq7Ul",
+            "name": "Lee Conmigo",
+            "publisher": "Kimberly González ",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fc06f185e3b1028d7e1ae24cd",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/00HqH2MTYCXjo6102kq7Ul"
+        },
+        {
+            "rank": 14,
+            "spotify_id": "2K18sKikMqasFodgAib3Y8",
+            "name": "Los mejores audiolibros",
+            "publisher": "Fernando",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fefa8726f29dcc6c300d93630",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/2K18sKikMqasFodgAib3Y8"
+        },
+        {
+            "rank": 15,
+            "spotify_id": "3X1dfpnotXh9kJS96Fl2FN",
+            "name": "Deja que te cuente Audiolibros",
+            "publisher": "Deja Que te cuente Audiolibros",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fbb76fc6aa6b89a5c0bf3f872",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/3X1dfpnotXh9kJS96Fl2FN"
+        },
+        {
+            "rank": 16,
+            "spotify_id": "4Wct6aiFJyt5UpZt8PBZ90",
+            "name": "Audiolibros, Liderazgo, Autogestión, tu camino hacia el Exito.",
+            "publisher": "claudioalexis22",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f9f358d348c1fe206096f1cb7",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/4Wct6aiFJyt5UpZt8PBZ90"
+        },
+        {
+            "rank": 17,
+            "spotify_id": "5y37UJN2zsWtMnqxUZdVpw",
+            "name": "✨Entre Estrellas y Suspiros✨ ",
+            "publisher": "PIA :)",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fea1c2241359ce70edfe7cce5",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/5y37UJN2zsWtMnqxUZdVpw"
+        },
+        {
+            "rank": 18,
+            "spotify_id": "2IsUmw25sOsz8UW6gqI5NT",
+            "name": "Audiolibros Leyendo Juntos",
+            "publisher": "Audiolibros Leyendo Juntos",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f133a3b3fccabb743cfaa019c",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/2IsUmw25sOsz8UW6gqI5NT"
+        },
+        {
+            "rank": 19,
+            "spotify_id": "45fNoKoHgOxTHWBu2XaiCn",
+            "name": "Audiolibros Pigeon: Finanzas",
+            "publisher": "Pigeon Casa Editorial",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fefdd5c13a4f302cd2a858774",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/45fNoKoHgOxTHWBu2XaiCn"
+        },
+        {
+            "rank": 20,
+            "spotify_id": "2z6tiaRI40NkPn5pbZHTUu",
+            "name": "farid dieck de video a audio",
+            "publisher": "Las aventuras de Arturo 31",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f959b381b7ec72f01219d09a1",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/2z6tiaRI40NkPn5pbZHTUu"
+        },
+        {
+            "rank": 21,
+            "spotify_id": "6BWLhynOvlImD61rt8qHN9",
+            "name": "El poder de la mente subconsciente (Joseph Murphy)",
+            "publisher": "Joseph Murphy",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f7217f6d8f0d2a1d314195df3",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/6BWLhynOvlImD61rt8qHN9"
+        },
+        {
+            "rank": 22,
+            "spotify_id": "1mx1iHRACqzXzYMCcIHbEa",
+            "name": "Bibliotequeando",
+            "publisher": "Ricardo Lugo",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f21378a32a704c6b29abdfe04",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/1mx1iHRACqzXzYMCcIHbEa"
+        },
+        {
+            "rank": 23,
+            "spotify_id": "5Wr0b3pGkixNFSZUBPsWDD",
+            "name": "Un Libro Una Hora",
+            "publisher": "SER Podcast",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fa146340ffea4c8e02fc58b57",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/5Wr0b3pGkixNFSZUBPsWDD"
+        },
+        {
+            "rank": 24,
+            "spotify_id": "1j9ZRnCj0AM57XpoUfjaIO",
+            "name": "Fernando Lozano presenta",
+            "publisher": "Fernando Lozano",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f2ae54921bf9c8ceb9d47959d",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/1j9ZRnCj0AM57XpoUfjaIO"
+        },
+        {
+            "rank": 25,
+            "spotify_id": "116y3LHLn09wuqa9YAVvPk",
+            "name": "Audiolibro En Español",
+            "publisher": "Audiolibro En Español",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f6b2e6987922926b21b84a67d",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/116y3LHLn09wuqa9YAVvPk"
+        },
+        {
+            "rank": 26,
+            "spotify_id": "0GouKJX1cLSb1WAQCAhbOw",
+            "name": "3 AM NARRACIONES DE TERROR",
+            "publisher": "3AMNDT | PODCAST",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fcc721480764f539bacacd566",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/0GouKJX1cLSb1WAQCAhbOw"
+        },
+        {
+            "rank": 27,
+            "spotify_id": "1j7cZMcN6y8eLa3ICMNST2",
+            "name": "Cháchara Literaria",
+            "publisher": "Maga y Gina",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f090f778f50bc71b4359af269",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/1j7cZMcN6y8eLa3ICMNST2"
+        },
+        {
+            "rank": 28,
+            "spotify_id": "5kv0fgBRUYU6fd9qGTJhl4",
+            "name": "Biblia Dramatizada Reina Valera 1960",
+            "publisher": "José Francisco Pérez",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f9c90a4b606a1679761e8340c",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/5kv0fgBRUYU6fd9qGTJhl4"
+        },
+        {
+            "rank": 29,
+            "spotify_id": "10lY1IXRufxNtCVdv668OR",
+            "name": "SonorBooks ES",
+            "publisher": "SonorBooks ES",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1ff17abe97e2e966e4705c63da",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/10lY1IXRufxNtCVdv668OR"
+        },
+        {
+            "rank": 30,
+            "spotify_id": "2qbNoliGcV4bDPvi3XhWpi",
+            "name": "Audiolibros por Ulises Vera Gómez",
+            "publisher": "Miguel Angel Ulises Vera Gomez",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f3fba2585a285e9edeff548de",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/2qbNoliGcV4bDPvi3XhWpi"
+        },
+        {
+            "rank": 31,
+            "spotify_id": "7JAzXTu5liHUQiS9ggCYoh",
+            "name": "Tu rincón de desconexión | Marc Pancorbo",
+            "publisher": "MarcPR",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f11cc39eac2f1138be029675c",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/7JAzXTu5liHUQiS9ggCYoh"
+        },
+        {
+            "rank": 32,
+            "spotify_id": "11rW4dJUfj5A9YcOznv8Zw",
+            "name": "CAFE.COM - Fabrika de Ventas - Javier Castillo",
+            "publisher": "Javier Castillo - FabrikaDeVentas",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f540b1eb47f9023c4c74d5c73",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/11rW4dJUfj5A9YcOznv8Zw"
+        },
+        {
+            "rank": 33,
+            "spotify_id": "7h7CrZuwb5xtNpoZ6fuhWQ",
+            "name": "El Pensadero Semanal: MAXI",
+            "publisher": "Carlos Ponce Torres",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fd72adc9e7667d62cd92230e5",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/7h7CrZuwb5xtNpoZ6fuhWQ"
+        },
+        {
+            "rank": 34,
+            "spotify_id": "6xpNl50zPjFF55R5K5M3Xb",
+            "name": "AudioLibros espirituales y de meditación",
+            "publisher": "Libertad Financiera",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fcca31d0c13ad0dbd6fd5c465",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/6xpNl50zPjFF55R5K5M3Xb"
+        },
+        {
+            "rank": 35,
+            "spotify_id": "098km1QLh9nwqeYmHQ0RIS",
+            "name": "El Monje Que Vendió su Ferrari ",
+            "publisher": "Kelly Montserrat",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fa9ad89706a0455e001b30cfe",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/098km1QLh9nwqeYmHQ0RIS"
+        },
+        {
+            "rank": 36,
+            "spotify_id": "3eTm8IGtonnSKZpL45RMJZ",
+            "name": "Audiolibros para Crecer Todos los Días",
+            "publisher": "Audiolibros para Crecer Todos los Días",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f3263ead4c785d2d2ae8702ef",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/3eTm8IGtonnSKZpL45RMJZ"
+        },
+        {
+            "rank": 37,
+            "spotify_id": "31hSkvBsM6beBRszEWMmP8",
+            "name": "Fernanda Cervantes C",
+            "publisher": "Fernanda Cervantes C",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f564beb0bd5fdbab9b547a16e",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/31hSkvBsM6beBRszEWMmP8"
+        },
+        {
+            "rank": 38,
+            "spotify_id": "1ciayYPiCoSoDuQbKdvknL",
+            "name": "Audio cuentos y libros",
+            "publisher": "Pedro Guzmán Pérez",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fa45f3bdcb35b0a8985af7f66",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/1ciayYPiCoSoDuQbKdvknL"
+        },
+        {
+            "rank": 39,
+            "spotify_id": "5jEwW8Q9MRb1KLlH9Ldcwm",
+            "name": "Gaby del Río, La voz del libro",
+            "publisher": "Gabriela del Río",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fdba2062b83d4b857d7e5b83b",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/5jEwW8Q9MRb1KLlH9Ldcwm"
+        },
+        {
+            "rank": 40,
+            "spotify_id": "1qs573NtJRQMdCOmlH88XX",
+            "name": "Así las cosas",
+            "publisher": "WRadio",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f4c3f6bb94153b60790b65e30",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/1qs573NtJRQMdCOmlH88XX"
+        },
+        {
+            "rank": 41,
+            "spotify_id": "7ed9dLPxdBvtPueWFoqIN2",
+            "name": "UNIVERSO DE MITOS Y LEYENDAS ",
+            "publisher": "ENRIQUE ROMERO",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f5c9becbef056f2e89d048951",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/7ed9dLPxdBvtPueWFoqIN2"
+        },
+        {
+            "rank": 42,
+            "spotify_id": "6dlex4au6QJZTfYJpJIj07",
+            "name": "AUDIOLIBROS DE EXITO COMPLETOS - GRATIS",
+            "publisher": "El Campus de la Riqueza",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f4cc553be052c76a7fbf2a5d2",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/6dlex4au6QJZTfYJpJIj07"
+        },
+        {
+            "rank": 43,
+            "spotify_id": "4NDkiALHVBQMt18mpVvddg",
+            "name": "Top Audiolibros",
+            "publisher": "Samuel Pacheco",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f1867bf95d243635c2e9bcbbf",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/4NDkiALHVBQMt18mpVvddg"
+        },
+        {
+            "rank": 44,
+            "spotify_id": "3OqQvVfyrAvbz5nbEPgObq",
+            "name": "Grandes Infelices",
+            "publisher": "Blackie Books",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1ff356648de71389efdb0a5d82",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/3OqQvVfyrAvbz5nbEPgObq"
+        },
+        {
+            "rank": 45,
+            "spotify_id": "4DpfkQ6AzqMXys8o8Gbxl8",
+            "name": "AudioLI-AUDIOLIBROS",
+            "publisher": "AudioLi",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fcc041f5128138738d10a0ec6",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/4DpfkQ6AzqMXys8o8Gbxl8"
+        },
+        {
+            "rank": 46,
+            "spotify_id": "6Y5jvJmUu67ZaBeVlIxvuC",
+            "name": "Harry Potter - Saga Audiolibros",
+            "publisher": "Leandro Prz ",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f13501b5190950fd0f3815437",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/6Y5jvJmUu67ZaBeVlIxvuC"
+        },
+        {
+            "rank": 47,
+            "spotify_id": "3FFLdybqlzHciszCi5iXhT",
+            "name": "Audio Biblia Dramatizada NTV",
+            "publisher": "La asociación Luis Palau en alianza con la Fundación Grace and Mercy",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f3267889b62473c9b1a2c48d1",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/3FFLdybqlzHciszCi5iXhT"
+        },
+        {
+            "rank": 48,
+            "spotify_id": "47SvLma45kOiCjWgO25eRU",
+            "name": "Pastora Yesenia Then",
+            "publisher": "Pastora Yesenia Then",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fee8c434ca61b5aca5e771e21",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/47SvLma45kOiCjWgO25eRU"
+        },
+        {
+            "rank": 49,
+            "spotify_id": "625L7D90xDrfAblId1r5g8",
+            "name": "CINERDS",
+            "publisher": "Cinerds",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f64f24b90b2dcad381edb4d95",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/625L7D90xDrfAblId1r5g8"
+        },
+        {
+            "rank": 50,
+            "spotify_id": "0LHMkAjhUUKFQj6HmGw4B3",
+            "name": "HP3",
+            "publisher": "Phillip",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fe457f393f3cb13b4ec2bd8c9",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/0LHMkAjhUUKFQj6HmGw4B3"
+        }
+    ]
 }

@@ -1,460 +1,460 @@
 {
-  "platform": "spotify",
-  "country": "au",
-  "genre": "News",
-  "slug": "news",
-  "fetched_at": "2026-06-23T09:20:03Z",
-  "count": 50,
-  "shows": [
-    {
-      "rank": 1,
-      "spotify_id": "1790vQwaPErA9Zkoipx3IC",
-      "name": "The Karl Stefanovic Show",
-      "publisher": "Karl Stefanovic",
-      "artwork": "https://i.scdn.co/image/ab67656300005f1f4e41a0f375eb7bd1998792fb",
-      "rank_move": "UNCHANGED",
-      "url": "https://open.spotify.com/show/1790vQwaPErA9Zkoipx3IC"
-    },
-    {
-      "rank": 2,
-      "spotify_id": "1OY3nyGYqjIO4aWMW2feLy",
-      "name": "The Rest Is Politics: US",
-      "publisher": "Goalhanger",
-      "artwork": "https://i.scdn.co/image/ab67656300005f1fd0f81227c68a93552d4f8b51",
-      "rank_move": "UNCHANGED",
-      "url": "https://open.spotify.com/show/1OY3nyGYqjIO4aWMW2feLy"
-    },
-    {
-      "rank": 3,
-      "spotify_id": "1Ysx8g1Iw42gESAtegrFaH",
-      "name": "The Rest Is Politics",
-      "publisher": "Goalhanger",
-      "artwork": "https://i.scdn.co/image/ab67656300005f1f5952a6ab5f24192a3bef3323",
-      "rank_move": "UNCHANGED",
-      "url": "https://open.spotify.com/show/1Ysx8g1Iw42gESAtegrFaH"
-    },
-    {
-      "rank": 4,
-      "spotify_id": "5L2ON33kXa2b7laBpCAgOI",
-      "name": "The Tucker Carlson Show",
-      "publisher": "Tucker Carlson Network",
-      "artwork": "https://i.scdn.co/image/ab67656300005f1f67f0d0a26350e5e4460fd251",
-      "rank_move": "UNCHANGED",
-      "url": "https://open.spotify.com/show/5L2ON33kXa2b7laBpCAgOI"
-    },
-    {
-      "rank": 5,
-      "spotify_id": "1D4A4NKKF0axPvAS7h31Lu",
-      "name": "ABC News Daily",
-      "publisher": "ABC Australia",
-      "artwork": "https://i.scdn.co/image/ab67656300005f1fb995a112aa400b81d69b36f0",
-      "rank_move": "UNCHANGED",
-      "url": "https://open.spotify.com/show/1D4A4NKKF0axPvAS7h31Lu"
-    },
-    {
-      "rank": 6,
-      "spotify_id": "73sgbEhXdXbFqKZoc1zgqk",
-      "name": "Big Small Talk",
-      "publisher": "LiSTNR",
-      "artwork": "https://i.scdn.co/image/ab67656300005f1f3593c4b1a63b5b976f0cdf31",
-      "rank_move": "UNCHANGED",
-      "url": "https://open.spotify.com/show/73sgbEhXdXbFqKZoc1zgqk"
-    },
-    {
-      "rank": 7,
-      "spotify_id": "1JH26td5UtmKQWHLv0NCZp",
-      "name": "TRIGGERnometry",
-      "publisher": "Konstantin Kisin & Francis Foster",
-      "artwork": "https://i.scdn.co/image/ab67656300005f1f60e91640bacf89f54aa93282",
-      "rank_move": "UNCHANGED",
-      "url": "https://open.spotify.com/show/1JH26td5UtmKQWHLv0NCZp"
-    },
-    {
-      "rank": 8,
-      "spotify_id": "0onVY7weTsqjZLM8y3Tt9A",
-      "name": "The Daily Aus",
-      "publisher": "The Daily Aus",
-      "artwork": "https://i.scdn.co/image/ab67656300005f1fa9ed4cf6438fde5d1b145275",
-      "rank_move": "UNCHANGED",
-      "url": "https://open.spotify.com/show/0onVY7weTsqjZLM8y3Tt9A"
-    },
-    {
-      "rank": 9,
-      "spotify_id": "06bz0CgppKdIUlZ7HcckZI",
-      "name": "If You're Listening",
-      "publisher": "ABC Australia",
-      "artwork": "https://i.scdn.co/image/ab67656300005f1f5b667fdbc3311ac06e78fc45",
-      "rank_move": "UP",
-      "url": "https://open.spotify.com/show/06bz0CgppKdIUlZ7HcckZI"
-    },
-    {
-      "rank": 10,
-      "spotify_id": "0B7f89Byi1DjBTIQH4h0t2",
-      "name": "Squiz Today",
-      "publisher": "Squiz Media",
-      "artwork": "https://i.scdn.co/image/ab67656300005f1fa8192b448eb0ace719cf2171",
-      "rank_move": "UP",
-      "url": "https://open.spotify.com/show/0B7f89Byi1DjBTIQH4h0t2"
-    },
-    {
-      "rank": 11,
-      "spotify_id": "6QdzTqSvD4KoLdrOqkFkPE",
-      "name": "Candace",
-      "publisher": "Candace Owens",
-      "artwork": "https://i.scdn.co/image/ab67656300005f1ff973e5c73a717ffb7498d29d",
-      "rank_move": "DOWN",
-      "url": "https://open.spotify.com/show/6QdzTqSvD4KoLdrOqkFkPE"
-    },
-    {
-      "rank": 12,
-      "spotify_id": "7GJod4EyoLywB1AW6zrSHh",
-      "name": "Full Story",
-      "publisher": "The Guardian",
-      "artwork": "https://i.scdn.co/image/ab67656300005f1f1e88cc8db8055c7fc86c24db",
-      "rank_move": "UNCHANGED",
-      "url": "https://open.spotify.com/show/7GJod4EyoLywB1AW6zrSHh"
-    },
-    {
-      "rank": 13,
-      "spotify_id": "2D1BdnaZU3kB6KK8IF0RVW",
-      "name": "Politics Now",
-      "publisher": "ABC Australia",
-      "artwork": "https://i.scdn.co/image/ab67656300005f1f84f4012ab111034e50561ae8",
-      "rank_move": "UNCHANGED",
-      "url": "https://open.spotify.com/show/2D1BdnaZU3kB6KK8IF0RVW"
-    },
-    {
-      "rank": 14,
-      "spotify_id": "3IM0lmZxpFAY7CwMuv9H4g",
-      "name": "The Daily",
-      "publisher": "The New York Times",
-      "artwork": "https://i.scdn.co/image/ab67656300005f1fc209144b2c67a524fcbaa70c",
-      "rank_move": "UNCHANGED",
-      "url": "https://open.spotify.com/show/3IM0lmZxpFAY7CwMuv9H4g"
-    },
-    {
-      "rank": 15,
-      "spotify_id": "3wBfqov60qDZbEVjPHo0a8",
-      "name": "Global News Podcast",
-      "publisher": "BBC World Service",
-      "artwork": "https://i.scdn.co/image/ab67656300005f1fb0617b8983fa67ffd9678391",
-      "rank_move": "UNCHANGED",
-      "url": "https://open.spotify.com/show/3wBfqov60qDZbEVjPHo0a8"
-    },
-    {
-      "rank": 16,
-      "spotify_id": "7A58JjoBja1ykDVvZPSEXC",
-      "name": "7am",
-      "publisher": "Solstice Media",
-      "artwork": "https://i.scdn.co/image/ab67656300005f1fdc0c611c366f22f36a4463af",
-      "rank_move": "UNCHANGED",
-      "url": "https://open.spotify.com/show/7A58JjoBja1ykDVvZPSEXC"
-    },
-    {
-      "rank": 17,
-      "spotify_id": "4SB87MDqJXOSDr4mtaP28k",
-      "name": "The Fin",
-      "publisher": "Australian Financial Review",
-      "artwork": "https://i.scdn.co/image/ab67656300005f1f8e32e2fa4a843cc9f9682789",
-      "rank_move": "UNCHANGED",
-      "url": "https://open.spotify.com/show/4SB87MDqJXOSDr4mtaP28k"
-    },
-    {
-      "rank": 18,
-      "spotify_id": "31ZL74w0W9CUGHFWZPGDf5",
-      "name": "Piers Morgan Uncensored",
-      "publisher": "Piers Morgan Uncensored",
-      "artwork": "https://i.scdn.co/image/ab67656300005f1f26157912c2b60ed7f8e7f935",
-      "rank_move": "UNCHANGED",
-      "url": "https://open.spotify.com/show/31ZL74w0W9CUGHFWZPGDf5"
-    },
-    {
-      "rank": 19,
-      "spotify_id": "0Z0KhuivFm1Ry4WIpWspPv",
-      "name": "The Rest Is Politics: Leading",
-      "publisher": "Goalhanger",
-      "artwork": "https://i.scdn.co/image/ab67656300005f1fbe70ff68285820ae92bb97b5",
-      "rank_move": "UNCHANGED",
-      "url": "https://open.spotify.com/show/0Z0KhuivFm1Ry4WIpWspPv"
-    },
-    {
-      "rank": 20,
-      "spotify_id": "0KxdEdeY2Wb3zr28dMlQva",
-      "name": "The Journal.",
-      "publisher": "The Wall Street Journal",
-      "artwork": "https://i.scdn.co/image/ab67656300005f1ffed98c4fdc504416141e9409",
-      "rank_move": "UNCHANGED",
-      "url": "https://open.spotify.com/show/0KxdEdeY2Wb3zr28dMlQva"
-    },
-    {
-      "rank": 21,
-      "spotify_id": "77nIoFcQZSzcQap4Pnj9xD",
-      "name": "The Briefing",
-      "publisher": "LiSTNR",
-      "artwork": "https://i.scdn.co/image/ab67656300005f1fd3178be75de05f5b514e7aed",
-      "rank_move": "UNCHANGED",
-      "url": "https://open.spotify.com/show/77nIoFcQZSzcQap4Pnj9xD"
-    },
-    {
-      "rank": 22,
-      "spotify_id": "0d8rvAEE8rgMMoIyegIB2j",
-      "name": "Tradies",
-      "publisher": "Clubby Sports",
-      "artwork": "https://i.scdn.co/image/ab67656300005f1f29c00e2606c5c9e99780b80e",
-      "rank_move": "UP",
-      "url": "https://open.spotify.com/show/0d8rvAEE8rgMMoIyegIB2j"
-    },
-    {
-      "rank": 23,
-      "spotify_id": "5JGorGvdwljJHTl6wpMXN3",
-      "name": "Pod Save America",
-      "publisher": "Pod Save America",
-      "artwork": "https://i.scdn.co/image/ab67656300005f1f422a856b5aaedd2944c55408",
-      "rank_move": "DOWN",
-      "url": "https://open.spotify.com/show/5JGorGvdwljJHTl6wpMXN3"
-    },
-    {
-      "rank": 24,
-      "spotify_id": "6PtJW6iHwcPFV3JgKlYTIO",
-      "name": "Background Briefing",
-      "publisher": "ABC Australia",
-      "artwork": "https://i.scdn.co/image/ab67656300005f1f44f13bfc3518e4ab71ce2604",
-      "rank_move": "UP",
-      "url": "https://open.spotify.com/show/6PtJW6iHwcPFV3JgKlYTIO"
-    },
-    {
-      "rank": 25,
-      "spotify_id": "7imL9CVIIxxMJRQjSSqSPN",
-      "name": "Inside Trump's Head",
-      "publisher": "The Daily Beast",
-      "artwork": "https://i.scdn.co/image/ab67656300005f1fa0fda9b180e40b6462add404",
-      "rank_move": "DOWN",
-      "url": "https://open.spotify.com/show/7imL9CVIIxxMJRQjSSqSPN"
-    },
-    {
-      "rank": 26,
-      "spotify_id": "0qQDpvsnJ5wC55ssWp4mdt",
-      "name": "Punters Politics",
-      "publisher": "Punters Politics",
-      "artwork": "https://i.scdn.co/image/ab67656300005f1f36eff213bbb4b6c19d81780f",
-      "rank_move": "UP",
-      "url": "https://open.spotify.com/show/0qQDpvsnJ5wC55ssWp4mdt"
-    },
-    {
-      "rank": 27,
-      "spotify_id": "75ruL1B21lO7NXqvgdfn1Q",
-      "name": "ABC News Top Stories",
-      "publisher": "ABC Australia",
-      "artwork": "https://i.scdn.co/image/ab67656300005f1f1ff07bd5a9bbd6818d630817",
-      "rank_move": "UP",
-      "url": "https://open.spotify.com/show/75ruL1B21lO7NXqvgdfn1Q"
-    },
-    {
-      "rank": 28,
-      "spotify_id": "5MFujyXSc8DiN8kWVoAnNb",
-      "name": "Breaking News from Pod Save America",
-      "publisher": "Crooked Media",
-      "artwork": "https://i.scdn.co/image/ab67656300005f1fc16d11c1dd167a64b9ecbefb",
-      "rank_move": "DOWN",
-      "url": "https://open.spotify.com/show/5MFujyXSc8DiN8kWVoAnNb"
-    },
-    {
-      "rank": 29,
-      "spotify_id": "34NcOzUEJs0T5DaUeYLfFl",
-      "name": "The MeidasTouch Podcast",
-      "publisher": "MeidasTouch Network",
-      "artwork": "https://i.scdn.co/image/ab67656300005f1f51f1fb71d507aec7ebd71559",
-      "rank_move": "UP",
-      "url": "https://open.spotify.com/show/34NcOzUEJs0T5DaUeYLfFl"
-    },
-    {
-      "rank": 30,
-      "spotify_id": "5iFH0T9NXwxpD5PYVNV3NU",
-      "name": "The Daily Beast Podcast",
-      "publisher": "The Daily Beast",
-      "artwork": "https://i.scdn.co/image/ab67656300005f1f445623d636f924a8d3e1b733",
-      "rank_move": "UNCHANGED",
-      "url": "https://open.spotify.com/show/5iFH0T9NXwxpD5PYVNV3NU"
-    },
-    {
-      "rank": 31,
-      "spotify_id": "3pXx5SXzXwJxnf4A5pWN2A",
-      "name": "Today, Explained",
-      "publisher": "Vox",
-      "artwork": "https://i.scdn.co/image/ab67656300005f1f09566ab5ce34d2e0916c6383",
-      "rank_move": "DOWN",
-      "url": "https://open.spotify.com/show/3pXx5SXzXwJxnf4A5pWN2A"
-    },
-    {
-      "rank": 32,
-      "spotify_id": "3MjUGlfozyxNDXdtMlfdxp",
-      "name": "NAB Morning Call",
-      "publisher": "Phil Dobbie",
-      "artwork": "https://i.scdn.co/image/ab67656300005f1f8401763504643dad54b8b6c7",
-      "rank_move": "UNCHANGED",
-      "url": "https://open.spotify.com/show/3MjUGlfozyxNDXdtMlfdxp"
-    },
-    {
-      "rank": 33,
-      "spotify_id": "1v0tWOA2mdi5WU9hvjJ3da",
-      "name": "The Morning Edition",
-      "publisher": "The Age and Sydney Morning Herald",
-      "artwork": "https://i.scdn.co/image/ab67656300005f1f3beb20ee77812ae6e487729a",
-      "rank_move": "UNCHANGED",
-      "url": "https://open.spotify.com/show/1v0tWOA2mdi5WU9hvjJ3da"
-    },
-    {
-      "rank": 34,
-      "spotify_id": "4omeoOVsGWXhhFObFWGTvT",
-      "name": "The Quicky",
-      "publisher": "Mamamia Podcasts",
-      "artwork": "https://i.scdn.co/image/ab67656300005f1f4377b96bcc5850446da5000a",
-      "rank_move": "UNCHANGED",
-      "url": "https://open.spotify.com/show/4omeoOVsGWXhhFObFWGTvT"
-    },
-    {
-      "rank": 35,
-      "spotify_id": "65pa7UsdN2Xu6noObarIGB",
-      "name": "ShameMore",
-      "publisher": "Shameless Media",
-      "artwork": "https://i.scdn.co/image/ab67656300005f1f65e2f01900df373f628482a5",
-      "rank_move": "UNCHANGED",
-      "url": "https://open.spotify.com/show/65pa7UsdN2Xu6noObarIGB"
-    },
-    {
-      "rank": 36,
-      "spotify_id": "4PDjBO99JcroatAr4AKeXG",
-      "name": "Part Of The Problem",
-      "publisher": "Dave Smith",
-      "artwork": "https://i.scdn.co/image/ab67656300005f1ff81820e49941ddac4681fbe7",
-      "rank_move": "UNCHANGED",
-      "url": "https://open.spotify.com/show/4PDjBO99JcroatAr4AKeXG"
-    },
-    {
-      "rank": 37,
-      "spotify_id": "4MMeApXp0wAmFCItZrjiRY",
-      "name": "PEP with Chas and Dr Dave",
-      "publisher": "Chas Licciardello",
-      "artwork": "https://i.scdn.co/image/ab67656300005f1faeb5ff493fd314eca30cbd19",
-      "rank_move": "UNCHANGED",
-      "url": "https://open.spotify.com/show/4MMeApXp0wAmFCItZrjiRY"
-    },
-    {
-      "rank": 38,
-      "spotify_id": "6cnkk1J0I1UqtxTYVUL4Fe",
-      "name": "Ukraine: The Latest",
-      "publisher": "The Telegraph",
-      "artwork": "https://i.scdn.co/image/ab67656300005f1f78954c21afd24c90334deba4",
-      "rank_move": "UNCHANGED",
-      "url": "https://open.spotify.com/show/6cnkk1J0I1UqtxTYVUL4Fe"
-    },
-    {
-      "rank": 39,
-      "spotify_id": "4zCWzgFAzlgqcYwnukgXqN",
-      "name": "We Used to be Journos",
-      "publisher": "Ette Media",
-      "artwork": "https://i.scdn.co/image/ab67656300005f1f1700b6c95c9d26e4502bfa44",
-      "rank_move": "UNCHANGED",
-      "url": "https://open.spotify.com/show/4zCWzgFAzlgqcYwnukgXqN"
-    },
-    {
-      "rank": 40,
-      "spotify_id": "6O29HJ8mF6hGRGITeITRnY",
-      "name": "The Harry Sisson Show",
-      "publisher": "Harry Sisson",
-      "artwork": "https://i.scdn.co/image/ab67656300005f1f3a43bcabe66788ddf7043531",
-      "rank_move": "UNCHANGED",
-      "url": "https://open.spotify.com/show/6O29HJ8mF6hGRGITeITRnY"
-    },
-    {
-      "rank": 41,
-      "spotify_id": "2cSQmzYnf6LyrN0Mi6E64p",
-      "name": "Today in Focus",
-      "publisher": "The Guardian",
-      "artwork": "https://i.scdn.co/image/ab67656300005f1f32859cad9de857786cb38bbe",
-      "rank_move": "UNCHANGED",
-      "url": "https://open.spotify.com/show/2cSQmzYnf6LyrN0Mi6E64p"
-    },
-    {
-      "rank": 42,
-      "spotify_id": "6Qh2fEsC7nEVxXxQzwTv54",
-      "name": "John Anderson: Conversations",
-      "publisher": "John Anderson",
-      "artwork": "https://i.scdn.co/image/ab67656300005f1f087fc2b87c1a4fbdd3eb837b",
-      "rank_move": "UNCHANGED",
-      "url": "https://open.spotify.com/show/6Qh2fEsC7nEVxXxQzwTv54"
-    },
-    {
-      "rank": 43,
-      "spotify_id": "0jg3AfXsIV2WBvw4oGgFFW",
-      "name": "SBS News Headlines",
-      "publisher": "SBS",
-      "artwork": "https://i.scdn.co/image/ab67656300005f1f86fefa67ece2f28dbdc05fa0",
-      "rank_move": "UNCHANGED",
-      "url": "https://open.spotify.com/show/0jg3AfXsIV2WBvw4oGgFFW"
-    },
-    {
-      "rank": 44,
-      "spotify_id": "4V8Lh6Mek8oIgMvyXUHPAK",
-      "name": "Americast",
-      "publisher": "BBC News",
-      "artwork": "https://i.scdn.co/image/ab67656300005f1f50605f1e08dd6c4ee0e8d35a",
-      "rank_move": "UP",
-      "url": "https://open.spotify.com/show/4V8Lh6Mek8oIgMvyXUHPAK"
-    },
-    {
-      "rank": 45,
-      "spotify_id": "56oUlYWXspZD9xJxb5lLXW",
-      "name": "The Front",
-      "publisher": "The Australian",
-      "artwork": "https://i.scdn.co/image/ab67656300005f1fac329def47d0b810eea5b063",
-      "rank_move": "DOWN",
-      "url": "https://open.spotify.com/show/56oUlYWXspZD9xJxb5lLXW"
-    },
-    {
-      "rank": 46,
-      "spotify_id": "7gPBO0qnZI1YBi25zaVT1c",
-      "name": "Iran: The Latest",
-      "publisher": "The Telegraph",
-      "artwork": "https://i.scdn.co/image/ab67656300005f1f519d450dd03b488808a88e30",
-      "rank_move": "UNCHANGED",
-      "url": "https://open.spotify.com/show/7gPBO0qnZI1YBi25zaVT1c"
-    },
-    {
-      "rank": 47,
-      "spotify_id": "1Tm6Snolm6lrPhqJcbaYTt",
-      "name": "Business Basics",
-      "publisher": "Business Basics",
-      "artwork": "https://i.scdn.co/image/ab67656300005f1f00f0386d5b87a848dbee1846",
-      "rank_move": "UNCHANGED",
-      "url": "https://open.spotify.com/show/1Tm6Snolm6lrPhqJcbaYTt"
-    },
-    {
-      "rank": 48,
-      "spotify_id": "2ZFDmgDS2Z6xccP51s1zFQ",
-      "name": "Economist Podcasts",
-      "publisher": "The Economist",
-      "artwork": "https://i.scdn.co/image/ab67656300005f1f6d705655f5b1696ef374cfb1",
-      "rank_move": "UNCHANGED",
-      "url": "https://open.spotify.com/show/2ZFDmgDS2Z6xccP51s1zFQ"
-    },
-    {
-      "rank": 49,
-      "spotify_id": "0zXLdM0YV1ukb8p8WzEG6D",
-      "name": "The News Agents",
-      "publisher": "Global",
-      "artwork": "https://i.scdn.co/image/ab67656300005f1f1955f153c92abc9f5956edad",
-      "rank_move": "UNCHANGED",
-      "url": "https://open.spotify.com/show/0zXLdM0YV1ukb8p8WzEG6D"
-    },
-    {
-      "rank": 50,
-      "spotify_id": "5wMPFS9B5V7gg6hZ3UZ7hf",
-      "name": "Serial",
-      "publisher": "Serial Productions & The New York Times",
-      "artwork": "https://i.scdn.co/image/ab67656300005f1f02d742743e2ade52c0f1072f",
-      "rank_move": "UP",
-      "url": "https://open.spotify.com/show/5wMPFS9B5V7gg6hZ3UZ7hf"
-    }
-  ]
+    "platform": "spotify",
+    "country": "au",
+    "genre": "News",
+    "slug": "news",
+    "fetched_at": "2026-06-24T06:36:45Z",
+    "count": 50,
+    "shows": [
+        {
+            "rank": 1,
+            "spotify_id": "1790vQwaPErA9Zkoipx3IC",
+            "name": "The Karl Stefanovic Show",
+            "publisher": "Karl Stefanovic",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f4e41a0f375eb7bd1998792fb",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/1790vQwaPErA9Zkoipx3IC"
+        },
+        {
+            "rank": 2,
+            "spotify_id": "1OY3nyGYqjIO4aWMW2feLy",
+            "name": "The Rest Is Politics: US",
+            "publisher": "Goalhanger",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fd0f81227c68a93552d4f8b51",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/1OY3nyGYqjIO4aWMW2feLy"
+        },
+        {
+            "rank": 3,
+            "spotify_id": "1Ysx8g1Iw42gESAtegrFaH",
+            "name": "The Rest Is Politics",
+            "publisher": "Goalhanger",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f5952a6ab5f24192a3bef3323",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/1Ysx8g1Iw42gESAtegrFaH"
+        },
+        {
+            "rank": 4,
+            "spotify_id": "1D4A4NKKF0axPvAS7h31Lu",
+            "name": "ABC News Daily",
+            "publisher": "ABC Australia",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fb995a112aa400b81d69b36f0",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/1D4A4NKKF0axPvAS7h31Lu"
+        },
+        {
+            "rank": 5,
+            "spotify_id": "5L2ON33kXa2b7laBpCAgOI",
+            "name": "The Tucker Carlson Show",
+            "publisher": "Tucker Carlson Network",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f67f0d0a26350e5e4460fd251",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/5L2ON33kXa2b7laBpCAgOI"
+        },
+        {
+            "rank": 6,
+            "spotify_id": "73sgbEhXdXbFqKZoc1zgqk",
+            "name": "Big Small Talk",
+            "publisher": "LiSTNR",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f3593c4b1a63b5b976f0cdf31",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/73sgbEhXdXbFqKZoc1zgqk"
+        },
+        {
+            "rank": 7,
+            "spotify_id": "1JH26td5UtmKQWHLv0NCZp",
+            "name": "TRIGGERnometry",
+            "publisher": "Konstantin Kisin & Francis Foster",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f60e91640bacf89f54aa93282",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/1JH26td5UtmKQWHLv0NCZp"
+        },
+        {
+            "rank": 8,
+            "spotify_id": "0onVY7weTsqjZLM8y3Tt9A",
+            "name": "The Daily Aus",
+            "publisher": "The Daily Aus",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fa9ed4cf6438fde5d1b145275",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/0onVY7weTsqjZLM8y3Tt9A"
+        },
+        {
+            "rank": 9,
+            "spotify_id": "06bz0CgppKdIUlZ7HcckZI",
+            "name": "If You're Listening",
+            "publisher": "ABC Australia",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f5b667fdbc3311ac06e78fc45",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/06bz0CgppKdIUlZ7HcckZI"
+        },
+        {
+            "rank": 10,
+            "spotify_id": "6QdzTqSvD4KoLdrOqkFkPE",
+            "name": "Candace",
+            "publisher": "Candace Owens",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1ff973e5c73a717ffb7498d29d",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/6QdzTqSvD4KoLdrOqkFkPE"
+        },
+        {
+            "rank": 11,
+            "spotify_id": "0B7f89Byi1DjBTIQH4h0t2",
+            "name": "Squiz Today",
+            "publisher": "Squiz Media",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fa8192b448eb0ace719cf2171",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/0B7f89Byi1DjBTIQH4h0t2"
+        },
+        {
+            "rank": 12,
+            "spotify_id": "7GJod4EyoLywB1AW6zrSHh",
+            "name": "Full Story",
+            "publisher": "The Guardian",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f1e88cc8db8055c7fc86c24db",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/7GJod4EyoLywB1AW6zrSHh"
+        },
+        {
+            "rank": 13,
+            "spotify_id": "2D1BdnaZU3kB6KK8IF0RVW",
+            "name": "Politics Now",
+            "publisher": "ABC Australia",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f84f4012ab111034e50561ae8",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/2D1BdnaZU3kB6KK8IF0RVW"
+        },
+        {
+            "rank": 14,
+            "spotify_id": "3IM0lmZxpFAY7CwMuv9H4g",
+            "name": "The Daily",
+            "publisher": "The New York Times",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fc209144b2c67a524fcbaa70c",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/3IM0lmZxpFAY7CwMuv9H4g"
+        },
+        {
+            "rank": 15,
+            "spotify_id": "3wBfqov60qDZbEVjPHo0a8",
+            "name": "Global News Podcast",
+            "publisher": "BBC World Service",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fb0617b8983fa67ffd9678391",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/3wBfqov60qDZbEVjPHo0a8"
+        },
+        {
+            "rank": 16,
+            "spotify_id": "7A58JjoBja1ykDVvZPSEXC",
+            "name": "7am",
+            "publisher": "Solstice Media",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fdc0c611c366f22f36a4463af",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/7A58JjoBja1ykDVvZPSEXC"
+        },
+        {
+            "rank": 17,
+            "spotify_id": "4SB87MDqJXOSDr4mtaP28k",
+            "name": "The Fin",
+            "publisher": "Australian Financial Review",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f8e32e2fa4a843cc9f9682789",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/4SB87MDqJXOSDr4mtaP28k"
+        },
+        {
+            "rank": 18,
+            "spotify_id": "31ZL74w0W9CUGHFWZPGDf5",
+            "name": "Piers Morgan Uncensored",
+            "publisher": "Piers Morgan Uncensored",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f26157912c2b60ed7f8e7f935",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/31ZL74w0W9CUGHFWZPGDf5"
+        },
+        {
+            "rank": 19,
+            "spotify_id": "0Z0KhuivFm1Ry4WIpWspPv",
+            "name": "The Rest Is Politics: Leading",
+            "publisher": "Goalhanger",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fbe70ff68285820ae92bb97b5",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/0Z0KhuivFm1Ry4WIpWspPv"
+        },
+        {
+            "rank": 20,
+            "spotify_id": "0KxdEdeY2Wb3zr28dMlQva",
+            "name": "The Journal.",
+            "publisher": "The Wall Street Journal",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1ffed98c4fdc504416141e9409",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/0KxdEdeY2Wb3zr28dMlQva"
+        },
+        {
+            "rank": 21,
+            "spotify_id": "0d8rvAEE8rgMMoIyegIB2j",
+            "name": "Tradies",
+            "publisher": "Clubby Sports",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f29c00e2606c5c9e99780b80e",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/0d8rvAEE8rgMMoIyegIB2j"
+        },
+        {
+            "rank": 22,
+            "spotify_id": "77nIoFcQZSzcQap4Pnj9xD",
+            "name": "The Briefing",
+            "publisher": "LiSTNR",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fd3178be75de05f5b514e7aed",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/77nIoFcQZSzcQap4Pnj9xD"
+        },
+        {
+            "rank": 23,
+            "spotify_id": "5JGorGvdwljJHTl6wpMXN3",
+            "name": "Pod Save America",
+            "publisher": "Pod Save America",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f422a856b5aaedd2944c55408",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/5JGorGvdwljJHTl6wpMXN3"
+        },
+        {
+            "rank": 24,
+            "spotify_id": "6PtJW6iHwcPFV3JgKlYTIO",
+            "name": "Background Briefing",
+            "publisher": "ABC Australia",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f44f13bfc3518e4ab71ce2604",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/6PtJW6iHwcPFV3JgKlYTIO"
+        },
+        {
+            "rank": 25,
+            "spotify_id": "7imL9CVIIxxMJRQjSSqSPN",
+            "name": "Inside Trump's Head",
+            "publisher": "The Daily Beast",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fa0fda9b180e40b6462add404",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/7imL9CVIIxxMJRQjSSqSPN"
+        },
+        {
+            "rank": 26,
+            "spotify_id": "0qQDpvsnJ5wC55ssWp4mdt",
+            "name": "Punters Politics",
+            "publisher": "Punters Politics",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f36eff213bbb4b6c19d81780f",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/0qQDpvsnJ5wC55ssWp4mdt"
+        },
+        {
+            "rank": 27,
+            "spotify_id": "5iFH0T9NXwxpD5PYVNV3NU",
+            "name": "The Daily Beast Podcast",
+            "publisher": "The Daily Beast",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f445623d636f924a8d3e1b733",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/5iFH0T9NXwxpD5PYVNV3NU"
+        },
+        {
+            "rank": 28,
+            "spotify_id": "75ruL1B21lO7NXqvgdfn1Q",
+            "name": "ABC News Top Stories",
+            "publisher": "ABC Australia",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f1ff07bd5a9bbd6818d630817",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/75ruL1B21lO7NXqvgdfn1Q"
+        },
+        {
+            "rank": 29,
+            "spotify_id": "34NcOzUEJs0T5DaUeYLfFl",
+            "name": "The MeidasTouch Podcast",
+            "publisher": "MeidasTouch Network",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f51f1fb71d507aec7ebd71559",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/34NcOzUEJs0T5DaUeYLfFl"
+        },
+        {
+            "rank": 30,
+            "spotify_id": "3pXx5SXzXwJxnf4A5pWN2A",
+            "name": "Today, Explained",
+            "publisher": "Vox",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f09566ab5ce34d2e0916c6383",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/3pXx5SXzXwJxnf4A5pWN2A"
+        },
+        {
+            "rank": 31,
+            "spotify_id": "3MjUGlfozyxNDXdtMlfdxp",
+            "name": "NAB Morning Call",
+            "publisher": "Phil Dobbie",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f8401763504643dad54b8b6c7",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/3MjUGlfozyxNDXdtMlfdxp"
+        },
+        {
+            "rank": 32,
+            "spotify_id": "5MFujyXSc8DiN8kWVoAnNb",
+            "name": "Breaking News from Pod Save America",
+            "publisher": "Crooked Media",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fc16d11c1dd167a64b9ecbefb",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/5MFujyXSc8DiN8kWVoAnNb"
+        },
+        {
+            "rank": 33,
+            "spotify_id": "4omeoOVsGWXhhFObFWGTvT",
+            "name": "The Quicky",
+            "publisher": "Mamamia Podcasts",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f4377b96bcc5850446da5000a",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/4omeoOVsGWXhhFObFWGTvT"
+        },
+        {
+            "rank": 34,
+            "spotify_id": "1v0tWOA2mdi5WU9hvjJ3da",
+            "name": "The Morning Edition",
+            "publisher": "The Age and Sydney Morning Herald",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f3beb20ee77812ae6e487729a",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/1v0tWOA2mdi5WU9hvjJ3da"
+        },
+        {
+            "rank": 35,
+            "spotify_id": "65pa7UsdN2Xu6noObarIGB",
+            "name": "ShameMore",
+            "publisher": "Shameless Media",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f65e2f01900df373f628482a5",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/65pa7UsdN2Xu6noObarIGB"
+        },
+        {
+            "rank": 36,
+            "spotify_id": "4zCWzgFAzlgqcYwnukgXqN",
+            "name": "We Used to be Journos",
+            "publisher": "Ette Media",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f1700b6c95c9d26e4502bfa44",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/4zCWzgFAzlgqcYwnukgXqN"
+        },
+        {
+            "rank": 37,
+            "spotify_id": "4PDjBO99JcroatAr4AKeXG",
+            "name": "Part Of The Problem",
+            "publisher": "Dave Smith",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1ff81820e49941ddac4681fbe7",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/4PDjBO99JcroatAr4AKeXG"
+        },
+        {
+            "rank": 38,
+            "spotify_id": "6cnkk1J0I1UqtxTYVUL4Fe",
+            "name": "Ukraine: The Latest",
+            "publisher": "The Telegraph",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f78954c21afd24c90334deba4",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/6cnkk1J0I1UqtxTYVUL4Fe"
+        },
+        {
+            "rank": 39,
+            "spotify_id": "4MMeApXp0wAmFCItZrjiRY",
+            "name": "PEP with Chas and Dr Dave",
+            "publisher": "Chas Licciardello",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1faeb5ff493fd314eca30cbd19",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/4MMeApXp0wAmFCItZrjiRY"
+        },
+        {
+            "rank": 40,
+            "spotify_id": "2cSQmzYnf6LyrN0Mi6E64p",
+            "name": "Today in Focus",
+            "publisher": "The Guardian",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f32859cad9de857786cb38bbe",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/2cSQmzYnf6LyrN0Mi6E64p"
+        },
+        {
+            "rank": 41,
+            "spotify_id": "6O29HJ8mF6hGRGITeITRnY",
+            "name": "The Harry Sisson Show",
+            "publisher": "Harry Sisson",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f3a43bcabe66788ddf7043531",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/6O29HJ8mF6hGRGITeITRnY"
+        },
+        {
+            "rank": 42,
+            "spotify_id": "0jg3AfXsIV2WBvw4oGgFFW",
+            "name": "SBS News Headlines",
+            "publisher": "SBS",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f86fefa67ece2f28dbdc05fa0",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/0jg3AfXsIV2WBvw4oGgFFW"
+        },
+        {
+            "rank": 43,
+            "spotify_id": "6Qh2fEsC7nEVxXxQzwTv54",
+            "name": "John Anderson: Conversations",
+            "publisher": "John Anderson",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f087fc2b87c1a4fbdd3eb837b",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/6Qh2fEsC7nEVxXxQzwTv54"
+        },
+        {
+            "rank": 44,
+            "spotify_id": "4V8Lh6Mek8oIgMvyXUHPAK",
+            "name": "Americast",
+            "publisher": "BBC News",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f50605f1e08dd6c4ee0e8d35a",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/4V8Lh6Mek8oIgMvyXUHPAK"
+        },
+        {
+            "rank": 45,
+            "spotify_id": "56oUlYWXspZD9xJxb5lLXW",
+            "name": "The Front",
+            "publisher": "The Australian",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fac329def47d0b810eea5b063",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/56oUlYWXspZD9xJxb5lLXW"
+        },
+        {
+            "rank": 46,
+            "spotify_id": "5wMPFS9B5V7gg6hZ3UZ7hf",
+            "name": "Serial",
+            "publisher": "Serial Productions & The New York Times",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f02d742743e2ade52c0f1072f",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/5wMPFS9B5V7gg6hZ3UZ7hf"
+        },
+        {
+            "rank": 47,
+            "spotify_id": "1Tm6Snolm6lrPhqJcbaYTt",
+            "name": "Business Basics",
+            "publisher": "Business Basics",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f00f0386d5b87a848dbee1846",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/1Tm6Snolm6lrPhqJcbaYTt"
+        },
+        {
+            "rank": 48,
+            "spotify_id": "0zXLdM0YV1ukb8p8WzEG6D",
+            "name": "The News Agents",
+            "publisher": "Global",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f1955f153c92abc9f5956edad",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/0zXLdM0YV1ukb8p8WzEG6D"
+        },
+        {
+            "rank": 49,
+            "spotify_id": "7gPBO0qnZI1YBi25zaVT1c",
+            "name": "Iran: The Latest",
+            "publisher": "The Telegraph",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f519d450dd03b488808a88e30",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/7gPBO0qnZI1YBi25zaVT1c"
+        },
+        {
+            "rank": 50,
+            "spotify_id": "2ZFDmgDS2Z6xccP51s1zFQ",
+            "name": "Economist Podcasts",
+            "publisher": "The Economist",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f6d705655f5b1696ef374cfb1",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/2ZFDmgDS2Z6xccP51s1zFQ"
+        }
+    ]
 }

@@ -133,7 +133,6 @@ do {
 
         // Cleanup this specific handle
         curl_multi_remove_handle($mh, $ch);
-        curl_close($ch);
         unset($activeHandles[(int)$ch]);
 
         $success = false;
@@ -207,7 +206,6 @@ do {
     }
 } while ($active || count($activeHandles) > 0);
 
-curl_multi_close($mh);
 
 logMsg('INFO', "Done. {$okCount} ok, {$failCount} failed.");
 

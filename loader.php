@@ -6,7 +6,10 @@ use Exception;
 use PDO;
 use PDOException;
 
-require_once __DIR__ . '/../vendor/autoload.php';
+require_once __DIR__ . '/adapters/Normalize.php';
+require_once __DIR__ . '/adapters/apple_adapter.php';
+require_once __DIR__ . '/adapters/spotify_adapter.php';
+require_once __DIR__ . '/adapters/youtube_adapter.php';
 
 // If you have your DB config in your MVC framework, you can require it here.
 // For now, we will use the exact fallback logic the Python script used.
@@ -16,8 +19,8 @@ $dbUser = getenv('DB_USER') ?: 'root';
 $dbPass = getenv('DB_PASSWORD') ?: '';
 $dbName = getenv('DB_NAME') ?: 'charts';
 
-$dataDir = getenv('DATA_DIR') ?: __DIR__ . '/../data';
-$logDir = getenv('LOG_DIR') ?: __DIR__ . '/../logs';
+$dataDir = getenv('DATA_DIR') ?: __DIR__ . '/data';
+$logDir = getenv('LOG_DIR') ?: __DIR__ . '/logs';
 $countryCodeCase = getenv('COUNTRY_CODE_CASE') ?: 'upper'; // "upper", "lower", "asis"
 $runDate = date('Y-m-d');
 

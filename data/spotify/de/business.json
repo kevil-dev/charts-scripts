@@ -1,460 +1,460 @@
 {
-  "platform": "spotify",
-  "country": "de",
-  "genre": "Business",
-  "slug": "business",
-  "fetched_at": "2026-06-23T09:20:12Z",
-  "count": 50,
-  "shows": [
-    {
-      "rank": 1,
-      "spotify_id": "1QZr5NinuorbELLt2SwLJU",
-      "name": "Handelsblatt Morning Briefing - News aus Wirtschaft, Politik und Finanzen",
-      "publisher": "Friederike Hofmann, Sven Prange und die Handelsblatt Redaktion, Handelsblatt",
-      "artwork": "https://i.scdn.co/image/ab67656300005f1fa2aef5fdaeb761e04bd6224f",
-      "rank_move": "UNCHANGED",
-      "url": "https://open.spotify.com/show/1QZr5NinuorbELLt2SwLJU"
-    },
-    {
-      "rank": 2,
-      "spotify_id": "4rION5Qm2nPvDbzIB1wUiH",
-      "name": "OMR Podcast",
-      "publisher": "Philipp Westermeyer - OMR",
-      "artwork": "https://i.scdn.co/image/ab67656300005f1f592964bfe1d410018cd77acd",
-      "rank_move": "UNCHANGED",
-      "url": "https://open.spotify.com/show/4rION5Qm2nPvDbzIB1wUiH"
-    },
-    {
-      "rank": 3,
-      "spotify_id": "2qiP4pYQXi8NMjHlCICmSq",
-      "name": "Alles auf Aktien – Die täglichen Finanzen-News",
-      "publisher": "WELT",
-      "artwork": "https://i.scdn.co/image/ab67656300005f1fd7250575ae965b4075c55961",
-      "rank_move": "UNCHANGED",
-      "url": "https://open.spotify.com/show/2qiP4pYQXi8NMjHlCICmSq"
-    },
-    {
-      "rank": 4,
-      "spotify_id": "1zuAUEOb7UUrVjseSlHJqr",
-      "name": "Baby got Business",
-      "publisher": "Ann-Katrin Schmitz",
-      "artwork": "https://i.scdn.co/image/ab67656300005f1f0924c91a8bc5fcb3c7277ffd",
-      "rank_move": "UNCHANGED",
-      "url": "https://open.spotify.com/show/1zuAUEOb7UUrVjseSlHJqr"
-    },
-    {
-      "rank": 5,
-      "spotify_id": "7iQXmUT7XGuZSzAMjoNWlX",
-      "name": "The Diary Of A CEO with Steven Bartlett",
-      "publisher": "FlightStory",
-      "artwork": "https://i.scdn.co/image/ab67656300005f1f9ad158f746c0f755d9ba5299",
-      "rank_move": "UNCHANGED",
-      "url": "https://open.spotify.com/show/7iQXmUT7XGuZSzAMjoNWlX"
-    },
-    {
-      "rank": 6,
-      "spotify_id": "1tmVVasJONTlvdvoLDzX99",
-      "name": "Christian Wolf & Eric Demuth",
-      "publisher": "Beyond Business Cast mit More & Bitpanda Gründer",
-      "artwork": "https://i.scdn.co/image/ab67656300005f1f16177e119f2ded4bfa719b6e",
-      "rank_move": "UP",
-      "url": "https://open.spotify.com/show/1tmVVasJONTlvdvoLDzX99"
-    },
-    {
-      "rank": 7,
-      "spotify_id": "3vBAacJIGDEb7hBHgdYlw3",
-      "name": "Doppelgänger",
-      "publisher": "Philipp Glöckler, Philipp Klöckner",
-      "artwork": "https://i.scdn.co/image/ab67656300005f1f45728879158e5ca63490652c",
-      "rank_move": "DOWN",
-      "url": "https://open.spotify.com/show/3vBAacJIGDEb7hBHgdYlw3"
-    },
-    {
-      "rank": 8,
-      "spotify_id": "78WR03SN1gPK0Ti7juMg3Q",
-      "name": "Make Economy Great Again",
-      "publisher": "WELT",
-      "artwork": "https://i.scdn.co/image/ab67656300005f1f9b9f4c55092bbf9964bbf390",
-      "rank_move": "UP",
-      "url": "https://open.spotify.com/show/78WR03SN1gPK0Ti7juMg3Q"
-    },
-    {
-      "rank": 9,
-      "spotify_id": "6YkiGMyRqAkoKISsTu96bo",
-      "name": "Finanzfluss Podcast",
-      "publisher": "Finanzfluss",
-      "artwork": "https://i.scdn.co/image/ab67656300005f1f1eaede4b70dd6697c0e108b0",
-      "rank_move": "DOWN",
-      "url": "https://open.spotify.com/show/6YkiGMyRqAkoKISsTu96bo"
-    },
-    {
-      "rank": 10,
-      "spotify_id": "2asbnnLJbo3dzukAJQfie6",
-      "name": "OHNE AKTIEN WIRD SCHWER - Tägliche Börsen-News",
-      "publisher": "Noah Leidinger, OMR",
-      "artwork": "https://i.scdn.co/image/ab67656300005f1fd672a028a98eba57db5d1cfa",
-      "rank_move": "UNCHANGED",
-      "url": "https://open.spotify.com/show/2asbnnLJbo3dzukAJQfie6"
-    },
-    {
-      "rank": 11,
-      "spotify_id": "3qCwTQvK0ZwNnX23KMdUL6",
-      "name": "Handelsblatt Today – Der Finanzpodcast mit News zu Börse, Aktien und Geldanlage",
-      "publisher": "Solveig Gode, Nicole Bastian, Sandra Groeneveld, Nele Dohmen, Anis Mičijević, Ben Mendelson, Aileen Bunte",
-      "artwork": "https://i.scdn.co/image/ab67656300005f1fba26ce14ecbc63cca612aebb",
-      "rank_move": "UNCHANGED",
-      "url": "https://open.spotify.com/show/3qCwTQvK0ZwNnX23KMdUL6"
-    },
-    {
-      "rank": 12,
-      "spotify_id": "12x5cqwBBQjoJo8RcOnyI5",
-      "name": "Wohlstand für Alle",
-      "publisher": "Ole Nymoen, Wolfgang M. Schmitt",
-      "artwork": "https://i.scdn.co/image/ab67656300005f1f32175fe948524c759aa5f1a6",
-      "rank_move": "UNCHANGED",
-      "url": "https://open.spotify.com/show/12x5cqwBBQjoJo8RcOnyI5"
-    },
-    {
-      "rank": 13,
-      "spotify_id": "3bzKxZUhiIRZKavCmKIYCx",
-      "name": "Handelsblatt Crime - spannende Streitfälle der deutschen Wirtschaft",
-      "publisher": "Ina Karabasz, Solveig Gode, Sönke Iwersen",
-      "artwork": "https://i.scdn.co/image/ab67656300005f1fa13529c4cb44b0a3b780760c",
-      "rank_move": "UNCHANGED",
-      "url": "https://open.spotify.com/show/3bzKxZUhiIRZKavCmKIYCx"
-    },
-    {
-      "rank": 14,
-      "spotify_id": "3y9LP87SHF5b3hciAsZDBh",
-      "name": "Marktgeflüster",
-      "publisher": "Thomas Kehl, Prof. Dr. Holger Graf",
-      "artwork": "https://i.scdn.co/image/ab67656300005f1f176de1733c4db39a71dc121b",
-      "rank_move": "UNCHANGED",
-      "url": "https://open.spotify.com/show/3y9LP87SHF5b3hciAsZDBh"
-    },
-    {
-      "rank": 15,
-      "spotify_id": "5AHrrxlaO7TVDfbtxZ1qSr",
-      "name": "Deffner und Zschäpitz – Der Wirtschafts-Talk von WELT",
-      "publisher": "WELT",
-      "artwork": "https://i.scdn.co/image/ab67656300005f1fb0da39929f24fbdd6f681b3f",
-      "rank_move": "UNCHANGED",
-      "url": "https://open.spotify.com/show/5AHrrxlaO7TVDfbtxZ1qSr"
-    },
-    {
-      "rank": 16,
-      "spotify_id": "4pK0IusbZQpEGIlLYY4qWM",
-      "name": "IMPERIUM",
-      "publisher": "Studio Jot",
-      "artwork": "https://i.scdn.co/image/ab67656300005f1fcf3925ef309bb9cf61a55ca9",
-      "rank_move": "UNCHANGED",
-      "url": "https://open.spotify.com/show/4pK0IusbZQpEGIlLYY4qWM"
-    },
-    {
-      "rank": 17,
-      "spotify_id": "1wo6zEeJDCBZRg8DVc9zEL",
-      "name": "Finanzen ganz einfach - von Saidi, Sophie & Emil",
-      "publisher": "Finanztip",
-      "artwork": "https://i.scdn.co/image/ab67656300005f1f10120a43b1610e86f1cd2f72",
-      "rank_move": "UNCHANGED",
-      "url": "https://open.spotify.com/show/1wo6zEeJDCBZRg8DVc9zEL"
-    },
-    {
-      "rank": 18,
-      "spotify_id": "4gLA1jdAJ8GgfHEAQVpxAq",
-      "name": "FAST & CURIOUS",
-      "publisher": "Lea-Sophie Cramer, Verena Pausder",
-      "artwork": "https://i.scdn.co/image/ab67656300005f1f23a587d6496ffd72666660af",
-      "rank_move": "UNCHANGED",
-      "url": "https://open.spotify.com/show/4gLA1jdAJ8GgfHEAQVpxAq"
-    },
-    {
-      "rank": 19,
-      "spotify_id": "1HgS6j6tm3DuiVYu2TdrE9",
-      "name": "Buy The Dip",
-      "publisher": "Lars Erichsen, Sebastian Hell, Timo Baudzus",
-      "artwork": "https://i.scdn.co/image/ab67656300005f1f96c15d09c4d0f440a37430f9",
-      "rank_move": "UNCHANGED",
-      "url": "https://open.spotify.com/show/1HgS6j6tm3DuiVYu2TdrE9"
-    },
-    {
-      "rank": 20,
-      "spotify_id": "46cwdH53sQXRsmb1PrSVBr",
-      "name": "Tommy Unlocks",
-      "publisher": "Immo Tommy",
-      "artwork": "https://i.scdn.co/image/ab67656300005f1fe76088cd1b5c64d6d9e60b77",
-      "rank_move": "UNCHANGED",
-      "url": "https://open.spotify.com/show/46cwdH53sQXRsmb1PrSVBr"
-    },
-    {
-      "rank": 21,
-      "spotify_id": "0MqROiCw2Vl0aVqxWdPjRC",
-      "name": "bto – der Ökonomie-Podcast von Dr. Daniel Stelter",
-      "publisher": "Dr. Daniel Stelter",
-      "artwork": "https://i.scdn.co/image/ab67656300005f1f271a60b785fe0ec55b1def67",
-      "rank_move": "UNCHANGED",
-      "url": "https://open.spotify.com/show/0MqROiCw2Vl0aVqxWdPjRC"
-    },
-    {
-      "rank": 22,
-      "spotify_id": "3rTbUHHq3tpY5XYqQkem8c",
-      "name": "Wall Street mit Markus Koch - featured by Handelsblatt",
-      "publisher": "Markus Koch",
-      "artwork": "https://i.scdn.co/image/ab67656300005f1f80f7644efa798341f2ddb806",
-      "rank_move": "UNCHANGED",
-      "url": "https://open.spotify.com/show/3rTbUHHq3tpY5XYqQkem8c"
-    },
-    {
-      "rank": 23,
-      "spotify_id": "0zIHHC9nviMene1rOEucOp",
-      "name": "Der immocation Podcast | Lerne Immobilien",
-      "publisher": "immocation",
-      "artwork": "https://i.scdn.co/image/ab67656300005f1fe9bd37103ff4d02c9ea6a81f",
-      "rank_move": "UNCHANGED",
-      "url": "https://open.spotify.com/show/0zIHHC9nviMene1rOEucOp"
-    },
-    {
-      "rank": 24,
-      "spotify_id": "5g5Gvn4oPXAxoFmdYrfn7O",
-      "name": "Asset Class",
-      "publisher": "Christian W. Röhl & Scalable Capital",
-      "artwork": "https://i.scdn.co/image/ab67656300005f1f8bb29a3860eef98d2448565c",
-      "rank_move": "UNCHANGED",
-      "url": "https://open.spotify.com/show/5g5Gvn4oPXAxoFmdYrfn7O"
-    },
-    {
-      "rank": 25,
-      "spotify_id": "1a7eKRMaWXm8VazZH2uVAf",
-      "name": "Erichsen Geld & Gold, der Podcast für die erfolgreiche Geldanlage",
-      "publisher": "Lars Erichsen",
-      "artwork": "https://i.scdn.co/image/ab67656300005f1fd69d6875cc792cb55bf4b197",
-      "rank_move": "UNCHANGED",
-      "url": "https://open.spotify.com/show/1a7eKRMaWXm8VazZH2uVAf"
-    },
-    {
-      "rank": 26,
-      "spotify_id": "4vokVN2zKuyGZc3tprzNoa",
-      "name": "Quarks – Mal angenommen",
-      "publisher": "ARD",
-      "artwork": "https://i.scdn.co/image/ab67656300005f1fd8f8f7855730fceb752ee850",
-      "rank_move": "UP",
-      "url": "https://open.spotify.com/show/4vokVN2zKuyGZc3tprzNoa"
-    },
-    {
-      "rank": 27,
-      "spotify_id": "21e2WvQ0LWJzRW4IpXoQFw",
-      "name": "Leben mit Aktien | Der Podcast für Anleger mit Weitblick",
-      "publisher": "Horst von Buttlar, Christian W. Röhl",
-      "artwork": "https://i.scdn.co/image/ab67656300005f1f91ab3e448e638ffa938adaac",
-      "rank_move": "DOWN",
-      "url": "https://open.spotify.com/show/21e2WvQ0LWJzRW4IpXoQFw"
-    },
-    {
-      "rank": 28,
-      "spotify_id": "5LsT2DGXJUVsIivB8Ezqvv",
-      "name": "Märkte, Mächte, Emissionen mit Adam Tooze",
-      "publisher": "Heinrich-Böll-Stiftung",
-      "artwork": "https://i.scdn.co/image/ab67656300005f1fa9ead7af666ade66bbf23db4",
-      "rank_move": "UP",
-      "url": "https://open.spotify.com/show/5LsT2DGXJUVsIivB8Ezqvv"
-    },
-    {
-      "rank": 29,
-      "spotify_id": "187a5eNYWpaCJXiauzXuv4",
-      "name": "Dreipunktaufnahme: Landwirtschaft, Technik und Leben",
-      "publisher": "KlaasmitK, Jonathan Agrar",
-      "artwork": "https://i.scdn.co/image/ab67656300005f1f8787a513b5cde56852443a01",
-      "rank_move": "DOWN",
-      "url": "https://open.spotify.com/show/187a5eNYWpaCJXiauzXuv4"
-    },
-    {
-      "rank": 30,
-      "spotify_id": "3qpCDdPePlgUwc9UKmRqBn",
-      "name": "Goldesel x Investflow - Aktientalk",
-      "publisher": "Michael Flender & Daniel Wassmer",
-      "artwork": "https://i.scdn.co/image/ab67656300005f1f306458ad56229d8c4922c468",
-      "rank_move": "DOWN",
-      "url": "https://open.spotify.com/show/3qpCDdPePlgUwc9UKmRqBn"
-    },
-    {
-      "rank": 31,
-      "spotify_id": "3ii76tqbuNebPUTxuFAtII",
-      "name": "Finanzielle Intelligenz mit Marc Friedrich",
-      "publisher": "Marc Friedrich",
-      "artwork": "https://i.scdn.co/image/ab67656300005f1f0cd3358949c04bf11da520ec",
-      "rank_move": "DOWN",
-      "url": "https://open.spotify.com/show/3ii76tqbuNebPUTxuFAtII"
-    },
-    {
-      "rank": 32,
-      "spotify_id": "7HokNO4DHcVQs96poICEvS",
-      "name": "TOMorrow - Business. Stars. Lifestyle.",
-      "publisher": "Tom Junkersdorf",
-      "artwork": "https://i.scdn.co/image/ab67656300005f1fa5fa74ee10660d695b341371",
-      "rank_move": "UNCHANGED",
-      "url": "https://open.spotify.com/show/7HokNO4DHcVQs96poICEvS"
-    },
-    {
-      "rank": 33,
-      "spotify_id": "1I00imiolVQ4TxtBW0yOyW",
-      "name": "Founder Mode",
-      "publisher": "Feliks Eyser",
-      "artwork": "https://i.scdn.co/image/ab67656300005f1fe133ffd57396b66e5b457b76",
-      "rank_move": "UP",
-      "url": "https://open.spotify.com/show/1I00imiolVQ4TxtBW0yOyW"
-    },
-    {
-      "rank": 34,
-      "spotify_id": "4ii7YHR5Q7t7gbqFgv5Fpe",
-      "name": "Own it. Der Female Finance Podcast",
-      "publisher": "Natascha Wegelin",
-      "artwork": "https://i.scdn.co/image/ab67656300005f1f7d85753c7d5d7a5779adb60d",
-      "rank_move": "DOWN",
-      "url": "https://open.spotify.com/show/4ii7YHR5Q7t7gbqFgv5Fpe"
-    },
-    {
-      "rank": 35,
-      "spotify_id": "0ZReedpR6Bf1kvHeKBuWY1",
-      "name": "The Marketing Bestie Podcast with zoeunlimited",
-      "publisher": "zoeunlimited",
-      "artwork": "https://i.scdn.co/image/ab67656300005f1f9240b18998dd183bb5a350fd",
-      "rank_move": "UNCHANGED",
-      "url": "https://open.spotify.com/show/0ZReedpR6Bf1kvHeKBuWY1"
-    },
-    {
-      "rank": 36,
-      "spotify_id": "6SeX8Jn5o5zsNZ48ZPpUce",
-      "name": "CEO Frameworks",
-      "publisher": "Tim Krasenbrink",
-      "artwork": "https://i.scdn.co/image/ab67656300005f1fb5708adf0a4cf8847be78b74",
-      "rank_move": "UNCHANGED",
-      "url": "https://open.spotify.com/show/6SeX8Jn5o5zsNZ48ZPpUce"
-    },
-    {
-      "rank": 37,
-      "spotify_id": "4pAe949TqFwHeF117eEY9n",
-      "name": "Karriere Insider",
-      "publisher": "David Döbele",
-      "artwork": "https://i.scdn.co/image/ab67656300005f1f6272b2ba0c0191492831d6c6",
-      "rank_move": "UNCHANGED",
-      "url": "https://open.spotify.com/show/4pAe949TqFwHeF117eEY9n"
-    },
-    {
-      "rank": 38,
-      "spotify_id": "4711C5hHsLj9fz8a3dpN0f",
-      "name": "Der Bitcoin Podcast",
-      "publisher": "Florian Bruce",
-      "artwork": "https://i.scdn.co/image/ab67656300005f1f88be2c2594ac84e6a31e63c5",
-      "rank_move": "UNCHANGED",
-      "url": "https://open.spotify.com/show/4711C5hHsLj9fz8a3dpN0f"
-    },
-    {
-      "rank": 39,
-      "spotify_id": "3SHlvxmpYWkpiWnykajNPa",
-      "name": "Buy High. Sell Low. Techaktien und Global.Stock.Flash",
-      "publisher": "Techaktien",
-      "artwork": "https://i.scdn.co/image/ab67656300005f1fbd6ae7dddd7e383404291a2a",
-      "rank_move": "UNCHANGED",
-      "url": "https://open.spotify.com/show/3SHlvxmpYWkpiWnykajNPa"
-    },
-    {
-      "rank": 40,
-      "spotify_id": "7erv09mXAwbRna3FI6P8Li",
-      "name": "Feldgeflüster! Der Podcast mit Fruchtfolge",
-      "publisher": "TwitchFarming & Landwirt in MV",
-      "artwork": "https://i.scdn.co/image/ab67656300005f1fcbd5c518f87fbe3dc7d959bc",
-      "rank_move": "UP",
-      "url": "https://open.spotify.com/show/7erv09mXAwbRna3FI6P8Li"
-    },
-    {
-      "rank": 41,
-      "spotify_id": "0wjYlCNxLDgFUUjZMaP6Dx",
-      "name": "A Bit of Optimism",
-      "publisher": "The Optimism Company from Simon Sinek",
-      "artwork": "https://i.scdn.co/image/ab67656300005f1f886f282ed75375faff7e9cb4",
-      "rank_move": "DOWN",
-      "url": "https://open.spotify.com/show/0wjYlCNxLDgFUUjZMaP6Dx"
-    },
-    {
-      "rank": 42,
-      "spotify_id": "7KPfOXzmiaJHIvyAFB6OjC",
-      "name": "Mario Lochner – Weil dein Geld mehr kann!",
-      "publisher": "Mario Lochner ",
-      "artwork": "https://i.scdn.co/image/ab67656300005f1fbe615fd840e6fc8d18c80f6e",
-      "rank_move": "DOWN",
-      "url": "https://open.spotify.com/show/7KPfOXzmiaJHIvyAFB6OjC"
-    },
-    {
-      "rank": 43,
-      "spotify_id": "4pMDXswbD3UEKQPmxoSWJo",
-      "name": "Female Leadership Podcast",
-      "publisher": "Vera Strauch, Dear Monday",
-      "artwork": "https://i.scdn.co/image/ab67656300005f1f619ea27fc9029ded9b2221f1",
-      "rank_move": "DOWN",
-      "url": "https://open.spotify.com/show/4pMDXswbD3UEKQPmxoSWJo"
-    },
-    {
-      "rank": 44,
-      "spotify_id": "5upH8tTo1fNvNXCSJJd1r6",
-      "name": "Kampf der Unternehmen",
-      "publisher": "Audible",
-      "artwork": "https://i.scdn.co/image/ab67656300005f1f7a0af2c9f96c36e9fff4f17c",
-      "rank_move": "DOWN",
-      "url": "https://open.spotify.com/show/5upH8tTo1fNvNXCSJJd1r6"
-    },
-    {
-      "rank": 45,
-      "spotify_id": "74myejTlAfixWl37yclEXB",
-      "name": "Sophie",
-      "publisher": "Sophie",
-      "artwork": "https://i.scdn.co/image/ab67656300005f1fcb9f6839a35ddf44f4ad3791",
-      "rank_move": "DOWN",
-      "url": "https://open.spotify.com/show/74myejTlAfixWl37yclEXB"
-    },
-    {
-      "rank": 46,
-      "spotify_id": "3IwmKb06ROVPKpBTfmn9ko",
-      "name": "Next Level Business",
-      "publisher": "Max Weiss",
-      "artwork": "https://i.scdn.co/image/ab67656300005f1ff4e02f3953d814e9a1720bf5",
-      "rank_move": "DOWN",
-      "url": "https://open.spotify.com/show/3IwmKb06ROVPKpBTfmn9ko"
-    },
-    {
-      "rank": 47,
-      "spotify_id": "5UKIMblbIL87oDdtq7Krgy",
-      "name": "echtgeld.tv - Geldanlage, Börse, Altersvorsorge, Aktien, Fonds, ETF",
-      "publisher": "echtgeld.tv",
-      "artwork": "https://i.scdn.co/image/ab67656300005f1f0409e5b000400c65157ae313",
-      "rank_move": "UP",
-      "url": "https://open.spotify.com/show/5UKIMblbIL87oDdtq7Krgy"
-    },
-    {
-      "rank": 48,
-      "spotify_id": "4HTobZPPlw0bUoO3Vc3OTQ",
-      "name": "OMR Education",
-      "publisher": "OMR Education / Rolf Hermann / Andre Alpar / Tarek Müller",
-      "artwork": "https://i.scdn.co/image/ab67656300005f1f061803a8b4bf7b391d1e8535",
-      "rank_move": "UP",
-      "url": "https://open.spotify.com/show/4HTobZPPlw0bUoO3Vc3OTQ"
-    },
-    {
-      "rank": 49,
-      "spotify_id": "49hcDkCcll6L7gpkmy63Ug",
-      "name": "Handelsblatt Disrupt - Der Podcast über die Zukunft der Wirtschaft",
-      "publisher": "Larissa Holzki, Handelsblatt",
-      "artwork": "https://i.scdn.co/image/ab67656300005f1fda63b315b0374dd58d453603",
-      "rank_move": "DOWN",
-      "url": "https://open.spotify.com/show/49hcDkCcll6L7gpkmy63Ug"
-    },
-    {
-      "rank": 50,
-      "spotify_id": "5RlE8ytDUcF3twLAClZU6O",
-      "name": "RobynHD",
-      "publisher": "RobynHD",
-      "artwork": "https://i.scdn.co/image/ab67656300005f1fde4cfa34b79129411aa5c1a0",
-      "rank_move": "DOWN",
-      "url": "https://open.spotify.com/show/5RlE8ytDUcF3twLAClZU6O"
-    }
-  ]
+    "platform": "spotify",
+    "country": "de",
+    "genre": "Business",
+    "slug": "business",
+    "fetched_at": "2026-06-24T06:37:08Z",
+    "count": 50,
+    "shows": [
+        {
+            "rank": 1,
+            "spotify_id": "1QZr5NinuorbELLt2SwLJU",
+            "name": "Handelsblatt Morning Briefing - News aus Wirtschaft, Politik und Finanzen",
+            "publisher": "Friederike Hofmann, Sven Prange und die Handelsblatt Redaktion, Handelsblatt",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fa2aef5fdaeb761e04bd6224f",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/1QZr5NinuorbELLt2SwLJU"
+        },
+        {
+            "rank": 2,
+            "spotify_id": "4rION5Qm2nPvDbzIB1wUiH",
+            "name": "OMR Podcast",
+            "publisher": "Philipp Westermeyer - OMR",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f592964bfe1d410018cd77acd",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/4rION5Qm2nPvDbzIB1wUiH"
+        },
+        {
+            "rank": 3,
+            "spotify_id": "2qiP4pYQXi8NMjHlCICmSq",
+            "name": "Alles auf Aktien – Die täglichen Finanzen-News",
+            "publisher": "WELT",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fd7250575ae965b4075c55961",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/2qiP4pYQXi8NMjHlCICmSq"
+        },
+        {
+            "rank": 4,
+            "spotify_id": "1zuAUEOb7UUrVjseSlHJqr",
+            "name": "Baby got Business",
+            "publisher": "Ann-Katrin Schmitz",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f0924c91a8bc5fcb3c7277ffd",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/1zuAUEOb7UUrVjseSlHJqr"
+        },
+        {
+            "rank": 5,
+            "spotify_id": "7iQXmUT7XGuZSzAMjoNWlX",
+            "name": "The Diary Of A CEO with Steven Bartlett",
+            "publisher": "FlightStory",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f9ad158f746c0f755d9ba5299",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/7iQXmUT7XGuZSzAMjoNWlX"
+        },
+        {
+            "rank": 6,
+            "spotify_id": "3vBAacJIGDEb7hBHgdYlw3",
+            "name": "Doppelgänger",
+            "publisher": "Philipp Glöckler, Philipp Klöckner",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f45728879158e5ca63490652c",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/3vBAacJIGDEb7hBHgdYlw3"
+        },
+        {
+            "rank": 7,
+            "spotify_id": "1tmVVasJONTlvdvoLDzX99",
+            "name": "Christian Wolf & Eric Demuth",
+            "publisher": "Beyond Business Cast mit More & Bitpanda Gründer",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f16177e119f2ded4bfa719b6e",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/1tmVVasJONTlvdvoLDzX99"
+        },
+        {
+            "rank": 8,
+            "spotify_id": "6YkiGMyRqAkoKISsTu96bo",
+            "name": "Finanzfluss Podcast",
+            "publisher": "Finanzfluss",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f1eaede4b70dd6697c0e108b0",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/6YkiGMyRqAkoKISsTu96bo"
+        },
+        {
+            "rank": 9,
+            "spotify_id": "78WR03SN1gPK0Ti7juMg3Q",
+            "name": "Make Economy Great Again",
+            "publisher": "WELT",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f9b9f4c55092bbf9964bbf390",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/78WR03SN1gPK0Ti7juMg3Q"
+        },
+        {
+            "rank": 10,
+            "spotify_id": "2asbnnLJbo3dzukAJQfie6",
+            "name": "OHNE AKTIEN WIRD SCHWER - Tägliche Börsen-News",
+            "publisher": "Noah Leidinger, OMR",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fd672a028a98eba57db5d1cfa",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/2asbnnLJbo3dzukAJQfie6"
+        },
+        {
+            "rank": 11,
+            "spotify_id": "3qCwTQvK0ZwNnX23KMdUL6",
+            "name": "Handelsblatt Today – Der Finanzpodcast mit News zu Börse, Aktien und Geldanlage",
+            "publisher": "Solveig Gode, Nicole Bastian, Sandra Groeneveld, Nele Dohmen, Anis Mičijević, Ben Mendelson, Aileen Bunte",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fba26ce14ecbc63cca612aebb",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/3qCwTQvK0ZwNnX23KMdUL6"
+        },
+        {
+            "rank": 12,
+            "spotify_id": "12x5cqwBBQjoJo8RcOnyI5",
+            "name": "Wohlstand für Alle",
+            "publisher": "Ole Nymoen, Wolfgang M. Schmitt",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f32175fe948524c759aa5f1a6",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/12x5cqwBBQjoJo8RcOnyI5"
+        },
+        {
+            "rank": 13,
+            "spotify_id": "3y9LP87SHF5b3hciAsZDBh",
+            "name": "Marktgeflüster",
+            "publisher": "Thomas Kehl, Prof. Dr. Holger Graf",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f176de1733c4db39a71dc121b",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/3y9LP87SHF5b3hciAsZDBh"
+        },
+        {
+            "rank": 14,
+            "spotify_id": "5AHrrxlaO7TVDfbtxZ1qSr",
+            "name": "Deffner und Zschäpitz – Der Wirtschafts-Talk von WELT",
+            "publisher": "WELT",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fb0da39929f24fbdd6f681b3f",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/5AHrrxlaO7TVDfbtxZ1qSr"
+        },
+        {
+            "rank": 15,
+            "spotify_id": "4pK0IusbZQpEGIlLYY4qWM",
+            "name": "IMPERIUM",
+            "publisher": "Studio Jot",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fcf3925ef309bb9cf61a55ca9",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/4pK0IusbZQpEGIlLYY4qWM"
+        },
+        {
+            "rank": 16,
+            "spotify_id": "1wo6zEeJDCBZRg8DVc9zEL",
+            "name": "Finanzen ganz einfach - von Saidi, Sophie & Emil",
+            "publisher": "Finanztip",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f10120a43b1610e86f1cd2f72",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/1wo6zEeJDCBZRg8DVc9zEL"
+        },
+        {
+            "rank": 17,
+            "spotify_id": "3bzKxZUhiIRZKavCmKIYCx",
+            "name": "Handelsblatt Crime - spannende Streitfälle der deutschen Wirtschaft",
+            "publisher": "Ina Karabasz, Solveig Gode, Sönke Iwersen",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fa13529c4cb44b0a3b780760c",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/3bzKxZUhiIRZKavCmKIYCx"
+        },
+        {
+            "rank": 18,
+            "spotify_id": "4gLA1jdAJ8GgfHEAQVpxAq",
+            "name": "FAST & CURIOUS",
+            "publisher": "Lea-Sophie Cramer, Verena Pausder",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f23a587d6496ffd72666660af",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/4gLA1jdAJ8GgfHEAQVpxAq"
+        },
+        {
+            "rank": 19,
+            "spotify_id": "1HgS6j6tm3DuiVYu2TdrE9",
+            "name": "Buy The Dip",
+            "publisher": "Lars Erichsen, Sebastian Hell, Timo Baudzus",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f96c15d09c4d0f440a37430f9",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/1HgS6j6tm3DuiVYu2TdrE9"
+        },
+        {
+            "rank": 20,
+            "spotify_id": "46cwdH53sQXRsmb1PrSVBr",
+            "name": "Tommy Unlocks",
+            "publisher": "Immo Tommy",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fe76088cd1b5c64d6d9e60b77",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/46cwdH53sQXRsmb1PrSVBr"
+        },
+        {
+            "rank": 21,
+            "spotify_id": "0MqROiCw2Vl0aVqxWdPjRC",
+            "name": "bto – der Ökonomie-Podcast von Dr. Daniel Stelter",
+            "publisher": "Dr. Daniel Stelter",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f271a60b785fe0ec55b1def67",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/0MqROiCw2Vl0aVqxWdPjRC"
+        },
+        {
+            "rank": 22,
+            "spotify_id": "3rTbUHHq3tpY5XYqQkem8c",
+            "name": "Wall Street mit Markus Koch - featured by Handelsblatt",
+            "publisher": "Markus Koch",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f80f7644efa798341f2ddb806",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/3rTbUHHq3tpY5XYqQkem8c"
+        },
+        {
+            "rank": 23,
+            "spotify_id": "0zIHHC9nviMene1rOEucOp",
+            "name": "Der immocation Podcast | Lerne Immobilien",
+            "publisher": "immocation",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fe9bd37103ff4d02c9ea6a81f",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/0zIHHC9nviMene1rOEucOp"
+        },
+        {
+            "rank": 24,
+            "spotify_id": "5g5Gvn4oPXAxoFmdYrfn7O",
+            "name": "Asset Class",
+            "publisher": "Christian W. Röhl & Scalable Capital",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f8bb29a3860eef98d2448565c",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/5g5Gvn4oPXAxoFmdYrfn7O"
+        },
+        {
+            "rank": 25,
+            "spotify_id": "7erv09mXAwbRna3FI6P8Li",
+            "name": "Feldgeflüster! Der Podcast mit Fruchtfolge",
+            "publisher": "TwitchFarming & Landwirt in MV",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fcbd5c518f87fbe3dc7d959bc",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/7erv09mXAwbRna3FI6P8Li"
+        },
+        {
+            "rank": 26,
+            "spotify_id": "1a7eKRMaWXm8VazZH2uVAf",
+            "name": "Erichsen Geld & Gold, der Podcast für die erfolgreiche Geldanlage",
+            "publisher": "Lars Erichsen",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fd69d6875cc792cb55bf4b197",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/1a7eKRMaWXm8VazZH2uVAf"
+        },
+        {
+            "rank": 27,
+            "spotify_id": "4vokVN2zKuyGZc3tprzNoa",
+            "name": "Quarks – Mal angenommen",
+            "publisher": "ARD",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fd8f8f7855730fceb752ee850",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/4vokVN2zKuyGZc3tprzNoa"
+        },
+        {
+            "rank": 28,
+            "spotify_id": "21e2WvQ0LWJzRW4IpXoQFw",
+            "name": "Leben mit Aktien | Der Podcast für Anleger mit Weitblick",
+            "publisher": "Horst von Buttlar, Christian W. Röhl",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f91ab3e448e638ffa938adaac",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/21e2WvQ0LWJzRW4IpXoQFw"
+        },
+        {
+            "rank": 29,
+            "spotify_id": "5LsT2DGXJUVsIivB8Ezqvv",
+            "name": "Märkte, Mächte, Emissionen mit Adam Tooze",
+            "publisher": "Heinrich-Böll-Stiftung",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fa9ead7af666ade66bbf23db4",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/5LsT2DGXJUVsIivB8Ezqvv"
+        },
+        {
+            "rank": 30,
+            "spotify_id": "3qpCDdPePlgUwc9UKmRqBn",
+            "name": "Goldesel x Investflow - Aktientalk",
+            "publisher": "Michael Flender & Daniel Wassmer",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f306458ad56229d8c4922c468",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/3qpCDdPePlgUwc9UKmRqBn"
+        },
+        {
+            "rank": 31,
+            "spotify_id": "3ii76tqbuNebPUTxuFAtII",
+            "name": "Finanzielle Intelligenz mit Marc Friedrich",
+            "publisher": "Marc Friedrich",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f0cd3358949c04bf11da520ec",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/3ii76tqbuNebPUTxuFAtII"
+        },
+        {
+            "rank": 32,
+            "spotify_id": "7HokNO4DHcVQs96poICEvS",
+            "name": "TOMorrow - Business. Stars. Lifestyle.",
+            "publisher": "Tom Junkersdorf",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fa5fa74ee10660d695b341371",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/7HokNO4DHcVQs96poICEvS"
+        },
+        {
+            "rank": 33,
+            "spotify_id": "187a5eNYWpaCJXiauzXuv4",
+            "name": "Dreipunktaufnahme: Landwirtschaft, Technik und Leben",
+            "publisher": "KlaasmitK, Jonathan Agrar",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f8787a513b5cde56852443a01",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/187a5eNYWpaCJXiauzXuv4"
+        },
+        {
+            "rank": 34,
+            "spotify_id": "1I00imiolVQ4TxtBW0yOyW",
+            "name": "Founder Mode",
+            "publisher": "Feliks Eyser",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fe133ffd57396b66e5b457b76",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/1I00imiolVQ4TxtBW0yOyW"
+        },
+        {
+            "rank": 35,
+            "spotify_id": "0ZReedpR6Bf1kvHeKBuWY1",
+            "name": "The Marketing Bestie Podcast with zoeunlimited",
+            "publisher": "zoeunlimited",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f9240b18998dd183bb5a350fd",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/0ZReedpR6Bf1kvHeKBuWY1"
+        },
+        {
+            "rank": 36,
+            "spotify_id": "4ii7YHR5Q7t7gbqFgv5Fpe",
+            "name": "Own it. Der Female Finance Podcast",
+            "publisher": "Natascha Wegelin",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f7d85753c7d5d7a5779adb60d",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/4ii7YHR5Q7t7gbqFgv5Fpe"
+        },
+        {
+            "rank": 37,
+            "spotify_id": "6SeX8Jn5o5zsNZ48ZPpUce",
+            "name": "CEO Frameworks",
+            "publisher": "Tim Krasenbrink",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fb5708adf0a4cf8847be78b74",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/6SeX8Jn5o5zsNZ48ZPpUce"
+        },
+        {
+            "rank": 38,
+            "spotify_id": "4pAe949TqFwHeF117eEY9n",
+            "name": "Karriere Insider",
+            "publisher": "David Döbele",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f6272b2ba0c0191492831d6c6",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/4pAe949TqFwHeF117eEY9n"
+        },
+        {
+            "rank": 39,
+            "spotify_id": "4711C5hHsLj9fz8a3dpN0f",
+            "name": "Der Bitcoin Podcast",
+            "publisher": "Florian Bruce",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f88be2c2594ac84e6a31e63c5",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/4711C5hHsLj9fz8a3dpN0f"
+        },
+        {
+            "rank": 40,
+            "spotify_id": "7KPfOXzmiaJHIvyAFB6OjC",
+            "name": "Mario Lochner – Weil dein Geld mehr kann!",
+            "publisher": "Mario Lochner ",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fbe615fd840e6fc8d18c80f6e",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/7KPfOXzmiaJHIvyAFB6OjC"
+        },
+        {
+            "rank": 41,
+            "spotify_id": "3SHlvxmpYWkpiWnykajNPa",
+            "name": "Buy High. Sell Low. Techaktien und Global.Stock.Flash",
+            "publisher": "Techaktien",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fbd6ae7dddd7e383404291a2a",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/3SHlvxmpYWkpiWnykajNPa"
+        },
+        {
+            "rank": 42,
+            "spotify_id": "60Yxcdl3487IiU7mox2FGH",
+            "name": "Ist das eine Blase?",
+            "publisher": "DIE ZEIT",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f2a84386ae314a1c1d77f8c0b",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/60Yxcdl3487IiU7mox2FGH"
+        },
+        {
+            "rank": 43,
+            "spotify_id": "0wjYlCNxLDgFUUjZMaP6Dx",
+            "name": "A Bit of Optimism",
+            "publisher": "The Optimism Company from Simon Sinek",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f886f282ed75375faff7e9cb4",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/0wjYlCNxLDgFUUjZMaP6Dx"
+        },
+        {
+            "rank": 44,
+            "spotify_id": "4pMDXswbD3UEKQPmxoSWJo",
+            "name": "Female Leadership Podcast",
+            "publisher": "Vera Strauch, Dear Monday",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f619ea27fc9029ded9b2221f1",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/4pMDXswbD3UEKQPmxoSWJo"
+        },
+        {
+            "rank": 45,
+            "spotify_id": "5upH8tTo1fNvNXCSJJd1r6",
+            "name": "Kampf der Unternehmen",
+            "publisher": "Audible",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f7a0af2c9f96c36e9fff4f17c",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/5upH8tTo1fNvNXCSJJd1r6"
+        },
+        {
+            "rank": 46,
+            "spotify_id": "5UKIMblbIL87oDdtq7Krgy",
+            "name": "echtgeld.tv - Geldanlage, Börse, Altersvorsorge, Aktien, Fonds, ETF",
+            "publisher": "echtgeld.tv",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f0409e5b000400c65157ae313",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/5UKIMblbIL87oDdtq7Krgy"
+        },
+        {
+            "rank": 47,
+            "spotify_id": "74myejTlAfixWl37yclEXB",
+            "name": "Sophie",
+            "publisher": "Sophie",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fcb9f6839a35ddf44f4ad3791",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/74myejTlAfixWl37yclEXB"
+        },
+        {
+            "rank": 48,
+            "spotify_id": "49hcDkCcll6L7gpkmy63Ug",
+            "name": "Handelsblatt Disrupt - Der Podcast über die Zukunft der Wirtschaft",
+            "publisher": "Larissa Holzki, Handelsblatt",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fda63b315b0374dd58d453603",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/49hcDkCcll6L7gpkmy63Ug"
+        },
+        {
+            "rank": 49,
+            "spotify_id": "3IwmKb06ROVPKpBTfmn9ko",
+            "name": "Next Level Business",
+            "publisher": "Max Weiss",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1ff4e02f3953d814e9a1720bf5",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/3IwmKb06ROVPKpBTfmn9ko"
+        },
+        {
+            "rank": 50,
+            "spotify_id": "0eRStmStqFdRjcjX4mYSRU",
+            "name": "Frisch an die Arbeit",
+            "publisher": "DIE ZEIT",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fc38c40f3485e65a1cc42476b",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/0eRStmStqFdRjcjX4mYSRU"
+        }
+    ]
 }

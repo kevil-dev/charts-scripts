@@ -3,20 +3,11 @@
     "country": "se",
     "genre": "News",
     "slug": "news",
-    "fetched_at": "2026-06-24T06:37:53Z",
+    "fetched_at": "2026-07-01T04:44:40Z",
     "count": 50,
     "shows": [
         {
             "rank": 1,
-            "spotify_id": "42hI5CNqmf5bGybppyVLxc",
-            "name": "Aftonbladet Krim",
-            "publisher": "Aftonbladet",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f6ea5a84a47769a0fc7b02dd5",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/42hI5CNqmf5bGybppyVLxc"
-        },
-        {
-            "rank": 2,
             "spotify_id": "0G8JLrjc94jLdadJrAaIaR",
             "name": "Spärra in Isa & Tilda",
             "publisher": "Spotify Studios",
@@ -25,7 +16,25 @@
             "url": "https:\/\/open.spotify.com\/show\/0G8JLrjc94jLdadJrAaIaR"
         },
         {
+            "rank": 2,
+            "spotify_id": "38IhSzZBS64OEp89opt7or",
+            "name": "Gräns",
+            "publisher": "Sveriges Radio",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f64bf93b24a8152944cd75490",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/38IhSzZBS64OEp89opt7or"
+        },
+        {
             "rank": 3,
+            "spotify_id": "42hI5CNqmf5bGybppyVLxc",
+            "name": "Aftonbladet Krim",
+            "publisher": "Aftonbladet",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f6ea5a84a47769a0fc7b02dd5",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/42hI5CNqmf5bGybppyVLxc"
+        },
+        {
+            "rank": 4,
             "spotify_id": "0p92p8lG4Gz8fhZvcwSMxD",
             "name": "Ekot nyhetssändning",
             "publisher": "Sveriges Radio",
@@ -34,7 +43,7 @@
             "url": "https:\/\/open.spotify.com\/show\/0p92p8lG4Gz8fhZvcwSMxD"
         },
         {
-            "rank": 4,
+            "rank": 5,
             "spotify_id": "4Gg4UJnnNFoEKMUnn8NFbt",
             "name": "Expressen Dok",
             "publisher": "Expressen",
@@ -43,25 +52,7 @@
             "url": "https:\/\/open.spotify.com\/show\/4Gg4UJnnNFoEKMUnn8NFbt"
         },
         {
-            "rank": 5,
-            "spotify_id": "4XuWkjwRRziKmsjMlicSEG",
-            "name": "Dagens Eko",
-            "publisher": "Sveriges Radio",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fed0b2d876d77a6a93ca13231",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/4XuWkjwRRziKmsjMlicSEG"
-        },
-        {
             "rank": 6,
-            "spotify_id": "38IhSzZBS64OEp89opt7or",
-            "name": "Gräns",
-            "publisher": "Sveriges Radio",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f64bf93b24a8152944cd75490",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/38IhSzZBS64OEp89opt7or"
-        },
-        {
-            "rank": 7,
             "spotify_id": "4GCFuhMNJSlX2g2QLhcksU",
             "name": "Politikrummet",
             "publisher": "Expressen",
@@ -70,34 +61,34 @@
             "url": "https:\/\/open.spotify.com\/show\/4GCFuhMNJSlX2g2QLhcksU"
         },
         {
-            "rank": 8,
-            "spotify_id": "4C5KPohn3w3JHNZluwBYrF",
-            "name": "Älskade politik",
-            "publisher": "Dagens Nyheter ",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fddbe724304365782c923066e",
+            "rank": 7,
+            "spotify_id": "4XuWkjwRRziKmsjMlicSEG",
+            "name": "Dagens Eko",
+            "publisher": "Sveriges Radio",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fed0b2d876d77a6a93ca13231",
             "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/4C5KPohn3w3JHNZluwBYrF"
+            "url": "https:\/\/open.spotify.com\/show\/4XuWkjwRRziKmsjMlicSEG"
         },
         {
-            "rank": 9,
+            "rank": 8,
             "spotify_id": "3fxEnEbiYOVJb0MceFXwyi",
             "name": "Politiken",
             "publisher": "Svenska Dagbladet",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1ffad370d526de673180d3b253",
-            "rank_move": "UNCHANGED",
+            "rank_move": "UP",
             "url": "https:\/\/open.spotify.com\/show\/3fxEnEbiYOVJb0MceFXwyi"
         },
         {
-            "rank": 10,
-            "spotify_id": "54nyWgVnCYSUu8eKRMZOzd",
-            "name": "Aftonbladet Daily",
-            "publisher": "Aftonbladet",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fd99e5a1792432aee35490e4b",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/54nyWgVnCYSUu8eKRMZOzd"
+            "rank": 9,
+            "spotify_id": "4C5KPohn3w3JHNZluwBYrF",
+            "name": "Älskade politik",
+            "publisher": "Dagens Nyheter ",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fddbe724304365782c923066e",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/4C5KPohn3w3JHNZluwBYrF"
         },
         {
-            "rank": 11,
+            "rank": 10,
             "spotify_id": "2XuVyuWHLwvhohvZfGHEi6",
             "name": "SvD Ledarredaktionen",
             "publisher": "Svenska Dagbladet",
@@ -106,7 +97,25 @@
             "url": "https:\/\/open.spotify.com\/show\/2XuVyuWHLwvhohvZfGHEi6"
         },
         {
+            "rank": 11,
+            "spotify_id": "54nyWgVnCYSUu8eKRMZOzd",
+            "name": "Aftonbladet Daily",
+            "publisher": "Aftonbladet",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fd99e5a1792432aee35490e4b",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/54nyWgVnCYSUu8eKRMZOzd"
+        },
+        {
             "rank": 12,
+            "spotify_id": "5VsXLdLgax3NEfjQnv8Cbs",
+            "name": "Spotlight",
+            "publisher": "Dagens Nyheter",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fa6efc8b028aab7fa629b0a11",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/5VsXLdLgax3NEfjQnv8Cbs"
+        },
+        {
+            "rank": 13,
             "spotify_id": "1OY3nyGYqjIO4aWMW2feLy",
             "name": "The Rest Is Politics: US",
             "publisher": "Goalhanger",
@@ -115,61 +124,70 @@
             "url": "https:\/\/open.spotify.com\/show\/1OY3nyGYqjIO4aWMW2feLy"
         },
         {
-            "rank": 13,
-            "spotify_id": "2oIvcH2Sv4cVELAvrCdGBD",
-            "name": "Höjd Beredskap",
-            "publisher": "Patrik Syk",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f0f9fabd92c30135a7c944990",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/2oIvcH2Sv4cVELAvrCdGBD"
-        },
-        {
             "rank": 14,
-            "spotify_id": "5VsXLdLgax3NEfjQnv8Cbs",
-            "name": "Spotlight",
-            "publisher": "Dagens Nyheter",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fa6efc8b028aab7fa629b0a11",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/5VsXLdLgax3NEfjQnv8Cbs"
-        },
-        {
-            "rank": 15,
-            "spotify_id": "1Dr6ldFya6wqPwKnwW9pzq",
-            "name": "Spår",
-            "publisher": "Anton Berg & Martin Johnson",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f6027c19160945cdb47bb0df9",
-            "rank_move": "NEW",
-            "url": "https:\/\/open.spotify.com\/show\/1Dr6ldFya6wqPwKnwW9pzq"
-        },
-        {
-            "rank": 16,
             "spotify_id": "5L2ON33kXa2b7laBpCAgOI",
             "name": "The Tucker Carlson Show",
             "publisher": "Tucker Carlson Network",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f67f0d0a26350e5e4460fd251",
-            "rank_move": "DOWN",
+            "rank_move": "UP",
             "url": "https:\/\/open.spotify.com\/show\/5L2ON33kXa2b7laBpCAgOI"
         },
         {
-            "rank": 17,
+            "rank": 15,
             "spotify_id": "1Ysx8g1Iw42gESAtegrFaH",
             "name": "The Rest Is Politics",
             "publisher": "Goalhanger",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f5952a6ab5f24192a3bef3323",
-            "rank_move": "UP",
+            "rank_move": "UNCHANGED",
             "url": "https:\/\/open.spotify.com\/show\/1Ysx8g1Iw42gESAtegrFaH"
         },
         {
-            "rank": 18,
+            "rank": 16,
             "spotify_id": "5x2gu33J6aNrRvMScqBsZv",
             "name": "Kvartal Total",
             "publisher": "Kvartal",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f0ab0e51aa925ebb7e072f022",
-            "rank_move": "DOWN",
+            "rank_move": "UP",
             "url": "https:\/\/open.spotify.com\/show\/5x2gu33J6aNrRvMScqBsZv"
         },
         {
+            "rank": 17,
+            "spotify_id": "7AsOO44lVZeHahwCSSTncB",
+            "name": "Henrik Jönssons Podcast",
+            "publisher": "Henrik",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f72c3622c6bfe9abcd3e928ef",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/7AsOO44lVZeHahwCSSTncB"
+        },
+        {
+            "rank": 18,
+            "spotify_id": "2AIPRuomRkPHIOGNrWQalA",
+            "name": "GRÖNING & BLOMGREN UTANFÖR",
+            "publisher": "Svenska Epoch Times",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f11002fc42c682d812912ad49",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/2AIPRuomRkPHIOGNrWQalA"
+        },
+        {
             "rank": 19,
+            "spotify_id": "2oIvcH2Sv4cVELAvrCdGBD",
+            "name": "Höjd Beredskap",
+            "publisher": "Patrik Syk",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f0f9fabd92c30135a7c944990",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/2oIvcH2Sv4cVELAvrCdGBD"
+        },
+        {
+            "rank": 20,
+            "spotify_id": "25crKiAEMCYViKsOFMcOWx",
+            "name": "En runda till",
+            "publisher": "Aftonbladet",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f034945fd3db7f49443b77ad8",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/25crKiAEMCYViKsOFMcOWx"
+        },
+        {
+            "rank": 21,
             "spotify_id": "7pvS8DKRDeVgdLQnGDdHp2",
             "name": "Nyhetsshowen",
             "publisher": "Göteborgs-Posten",
@@ -178,52 +196,7 @@
             "url": "https:\/\/open.spotify.com\/show\/7pvS8DKRDeVgdLQnGDdHp2"
         },
         {
-            "rank": 20,
-            "spotify_id": "3mH8yoDq82hWuxE8WpBvom",
-            "name": "Dominoeffekten",
-            "publisher": "EFN Ekonomikanalen",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1ffeffd00348e89941427def55",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/3mH8yoDq82hWuxE8WpBvom"
-        },
-        {
-            "rank": 21,
-            "spotify_id": "2AIPRuomRkPHIOGNrWQalA",
-            "name": "GRÖNING & BLOMGREN UTANFÖR",
-            "publisher": "Svenska Epoch Times",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f11002fc42c682d812912ad49",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/2AIPRuomRkPHIOGNrWQalA"
-        },
-        {
             "rank": 22,
-            "spotify_id": "25crKiAEMCYViKsOFMcOWx",
-            "name": "En runda till",
-            "publisher": "Aftonbladet",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f034945fd3db7f49443b77ad8",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/25crKiAEMCYViKsOFMcOWx"
-        },
-        {
-            "rank": 23,
-            "spotify_id": "3IM0lmZxpFAY7CwMuv9H4g",
-            "name": "The Daily",
-            "publisher": "The New York Times",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fc209144b2c67a524fcbaa70c",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/3IM0lmZxpFAY7CwMuv9H4g"
-        },
-        {
-            "rank": 24,
-            "spotify_id": "1JH26td5UtmKQWHLv0NCZp",
-            "name": "TRIGGERnometry",
-            "publisher": "Konstantin Kisin & Francis Foster",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f60e91640bacf89f54aa93282",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/1JH26td5UtmKQWHLv0NCZp"
-        },
-        {
-            "rank": 25,
             "spotify_id": "6cnkk1J0I1UqtxTYVUL4Fe",
             "name": "Ukraine: The Latest",
             "publisher": "The Telegraph",
@@ -232,142 +205,61 @@
             "url": "https:\/\/open.spotify.com\/show\/6cnkk1J0I1UqtxTYVUL4Fe"
         },
         {
-            "rank": 26,
-            "spotify_id": "7AsOO44lVZeHahwCSSTncB",
-            "name": "Henrik Jönssons Podcast",
-            "publisher": "Henrik",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f72c3622c6bfe9abcd3e928ef",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/7AsOO44lVZeHahwCSSTncB"
+            "rank": 23,
+            "spotify_id": "3IM0lmZxpFAY7CwMuv9H4g",
+            "name": "The Daily",
+            "publisher": "The New York Times",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fc209144b2c67a524fcbaa70c",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/3IM0lmZxpFAY7CwMuv9H4g"
         },
         {
-            "rank": 27,
-            "spotify_id": "1vIcsF3lMMSLtWGVjZRKea",
-            "name": "Ett rent nöje",
-            "publisher": "Aftonbladet",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f44242c1e2ed9ff0b7b630ebb",
+            "rank": 24,
+            "spotify_id": "1JH26td5UtmKQWHLv0NCZp",
+            "name": "TRIGGERnometry",
+            "publisher": "Konstantin Kisin & Francis Foster",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f60e91640bacf89f54aa93282",
             "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/1vIcsF3lMMSLtWGVjZRKea"
+            "url": "https:\/\/open.spotify.com\/show\/1JH26td5UtmKQWHLv0NCZp"
         },
         {
-            "rank": 28,
-            "spotify_id": "3gYIVMZgh7HuxjskWKKASB",
-            "name": "Studio Expo",
-            "publisher": "Stiftelsen Expo",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fdeb5cc11c628303ff66f20be",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/3gYIVMZgh7HuxjskWKKASB"
-        },
-        {
-            "rank": 29,
-            "spotify_id": "3ZGPuNnuhAInR4EA12JENq",
-            "name": "Ekots lördagsintervju",
-            "publisher": "Sveriges Radio",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fa63d6c56c6b29e79d8edd010",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/3ZGPuNnuhAInR4EA12JENq"
-        },
-        {
-            "rank": 30,
-            "spotify_id": "3wBfqov60qDZbEVjPHo0a8",
-            "name": "Global News Podcast",
-            "publisher": "BBC World Service",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fb0617b8983fa67ffd9678391",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/3wBfqov60qDZbEVjPHo0a8"
-        },
-        {
-            "rank": 31,
+            "rank": 25,
             "spotify_id": "2BAsv1IyWBx9e54iq7f7Li",
             "name": "Godmorgon Ukraina",
             "publisher": "Kniivilä & Voronov",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f898b35610a87e3dd3ba912de",
-            "rank_move": "DOWN",
+            "rank_move": "UP",
             "url": "https:\/\/open.spotify.com\/show\/2BAsv1IyWBx9e54iq7f7Li"
         },
         {
-            "rank": 32,
-            "spotify_id": "6DwXeJbz4VvTkgdUBJYrfo",
-            "name": "Kongressen – amerikansk politik på svenska",
-            "publisher": "Jakob Stenberg",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fca65f167529316bb7bdb2a9f",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/6DwXeJbz4VvTkgdUBJYrfo"
-        },
-        {
-            "rank": 33,
-            "spotify_id": "6LdOoqq3mDuQghImUF5c0W",
-            "name": "Under all kritik",
-            "publisher": "Ivar Arpi och Anna-Karin Wyndhamn",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fae5d18aa3d23bbd4a620c8e5",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/6LdOoqq3mDuQghImUF5c0W"
-        },
-        {
-            "rank": 34,
+            "rank": 26,
             "spotify_id": "32EW1tpVXSCEEjoMgNXRbZ",
             "name": "Börsfrukost",
             "publisher": "EFN Ekonomikanalen",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1ff132e7bd239cdbe213afa419",
-            "rank_move": "DOWN",
+            "rank_move": "UNCHANGED",
             "url": "https:\/\/open.spotify.com\/show\/32EW1tpVXSCEEjoMgNXRbZ"
         },
         {
-            "rank": 35,
-            "spotify_id": "5T99rXgdgaxg5ReicbjNoZ",
-            "name": "Lägg ut!",
-            "publisher": "Expressen",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f421919bd7a16c5e1dd4f83c4",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/5T99rXgdgaxg5ReicbjNoZ"
-        },
-        {
-            "rank": 36,
-            "spotify_id": "6dbxogM6vGhKKqdZL2Rcdz",
-            "name": "Rak höger med Ivar Arpi",
-            "publisher": "Ivar Arpi",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f635fbc599673271c807db7b2",
+            "rank": 27,
+            "spotify_id": "3wBfqov60qDZbEVjPHo0a8",
+            "name": "Global News Podcast",
+            "publisher": "BBC World Service",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fb0617b8983fa67ffd9678391",
             "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/6dbxogM6vGhKKqdZL2Rcdz"
+            "url": "https:\/\/open.spotify.com\/show\/3wBfqov60qDZbEVjPHo0a8"
         },
         {
-            "rank": 37,
-            "spotify_id": "31ZL74w0W9CUGHFWZPGDf5",
-            "name": "Piers Morgan Uncensored",
-            "publisher": "Piers Morgan Uncensored",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f26157912c2b60ed7f8e7f935",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/31ZL74w0W9CUGHFWZPGDf5"
-        },
-        {
-            "rank": 38,
-            "spotify_id": "6NsieE1iFLypikr3slKII0",
-            "name": "Kvartal",
-            "publisher": "Kvartal",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f098ac98adc94f8f9380290b9",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/6NsieE1iFLypikr3slKII0"
-        },
-        {
-            "rank": 39,
-            "spotify_id": "1T5eNQN9G6Za2EIyTn860q",
-            "name": "Godmorgon världen",
+            "rank": 28,
+            "spotify_id": "3ZGPuNnuhAInR4EA12JENq",
+            "name": "Ekots lördagsintervju",
             "publisher": "Sveriges Radio",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f440f119665a46196802b0a87",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/1T5eNQN9G6Za2EIyTn860q"
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fa63d6c56c6b29e79d8edd010",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/3ZGPuNnuhAInR4EA12JENq"
         },
         {
-            "rank": 40,
-            "spotify_id": "3MzjF5QDfEQDnuJcJJ5t6Q",
-            "name": "AVGÅ ALLA",
-            "publisher": "Katalys",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f3cb8c9c4d805fee17b834643",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/3MzjF5QDfEQDnuJcJJ5t6Q"
-        },
-        {
-            "rank": 41,
+            "rank": 29,
             "spotify_id": "6QdzTqSvD4KoLdrOqkFkPE",
             "name": "Candace",
             "publisher": "Candace Owens",
@@ -376,61 +268,97 @@
             "url": "https:\/\/open.spotify.com\/show\/6QdzTqSvD4KoLdrOqkFkPE"
         },
         {
-            "rank": 42,
+            "rank": 30,
             "spotify_id": "5Zt1DfoZOMqyPzGWpuN0vD",
             "name": "Röda tråden",
             "publisher": "Aftonbladet",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f86fe545b178d59871a8caf9d",
-            "rank_move": "UNCHANGED",
+            "rank_move": "UP",
             "url": "https:\/\/open.spotify.com\/show\/5Zt1DfoZOMqyPzGWpuN0vD"
         },
         {
-            "rank": 43,
-            "spotify_id": "3TAEDgDvGytpVVguwXVFjg",
-            "name": "Ekot senaste nytt",
-            "publisher": "Sveriges Radio",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f077ed5629239a472532f2072",
+            "rank": 31,
+            "spotify_id": "6LdOoqq3mDuQghImUF5c0W",
+            "name": "Under all kritik",
+            "publisher": "Ivar Arpi och Anna-Karin Wyndhamn",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fae5d18aa3d23bbd4a620c8e5",
             "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/3TAEDgDvGytpVVguwXVFjg"
+            "url": "https:\/\/open.spotify.com\/show\/6LdOoqq3mDuQghImUF5c0W"
         },
         {
-            "rank": 44,
+            "rank": 32,
+            "spotify_id": "1T5eNQN9G6Za2EIyTn860q",
+            "name": "Godmorgon världen",
+            "publisher": "Sveriges Radio",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f440f119665a46196802b0a87",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/1T5eNQN9G6Za2EIyTn860q"
+        },
+        {
+            "rank": 33,
+            "spotify_id": "1VJ0v7U2bIdHZsuMt2Ow5t",
+            "name": "Samtal med Cwejman",
+            "publisher": "Göteborgs-Posten ",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fbf3e8919f12c6bd65b3b53cb",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/1VJ0v7U2bIdHZsuMt2Ow5t"
+        },
+        {
+            "rank": 34,
+            "spotify_id": "6DwXeJbz4VvTkgdUBJYrfo",
+            "name": "Kongressen – amerikansk politik på svenska",
+            "publisher": "Jakob Stenberg",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fca65f167529316bb7bdb2a9f",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/6DwXeJbz4VvTkgdUBJYrfo"
+        },
+        {
+            "rank": 35,
+            "spotify_id": "0Z0KhuivFm1Ry4WIpWspPv",
+            "name": "The Rest Is Politics: Leading",
+            "publisher": "Goalhanger",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fbe70ff68285820ae92bb97b5",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/0Z0KhuivFm1Ry4WIpWspPv"
+        },
+        {
+            "rank": 36,
+            "spotify_id": "3gYIVMZgh7HuxjskWKKASB",
+            "name": "Studio Expo",
+            "publisher": "Stiftelsen Expo",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fdeb5cc11c628303ff66f20be",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/3gYIVMZgh7HuxjskWKKASB"
+        },
+        {
+            "rank": 37,
+            "spotify_id": "6NsieE1iFLypikr3slKII0",
+            "name": "Kvartal",
+            "publisher": "Kvartal",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f098ac98adc94f8f9380290b9",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/6NsieE1iFLypikr3slKII0"
+        },
+        {
+            "rank": 38,
+            "spotify_id": "31ZL74w0W9CUGHFWZPGDf5",
+            "name": "Piers Morgan Uncensored",
+            "publisher": "Piers Morgan Uncensored",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f26157912c2b60ed7f8e7f935",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/31ZL74w0W9CUGHFWZPGDf5"
+        },
+        {
+            "rank": 39,
             "spotify_id": "1410RabA4XOqO6IV8p0gYF",
             "name": "FT News Briefing",
             "publisher": "Financial Times",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f84e02d6fcc41ba023857ea8a",
-            "rank_move": "DOWN",
+            "rank_move": "UP",
             "url": "https:\/\/open.spotify.com\/show\/1410RabA4XOqO6IV8p0gYF"
         },
         {
-            "rank": 45,
-            "spotify_id": "1Tm6Snolm6lrPhqJcbaYTt",
-            "name": "Business Basics",
-            "publisher": "Business Basics",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f00f0386d5b87a848dbee1846",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/1Tm6Snolm6lrPhqJcbaYTt"
-        },
-        {
-            "rank": 46,
-            "spotify_id": "3gmBZ1LtX3iLxUxZuGEkNA",
-            "name": "Behind the scenes",
-            "publisher": "Expressen",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f4a9d85f2a23fb793aa04a757",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/3gmBZ1LtX3iLxUxZuGEkNA"
-        },
-        {
-            "rank": 47,
-            "spotify_id": "033cZCH9g2rx7ROIFVLnVN",
-            "name": "Personlig utveckling med Johannes Klenell",
-            "publisher": "Arbetet",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fdbfa6622be574ffb45731ce2",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/033cZCH9g2rx7ROIFVLnVN"
-        },
-        {
-            "rank": 48,
+            "rank": 40,
             "spotify_id": "0vcqlnNDrWAhRH1uGw72Xs",
             "name": "Kära dagbok",
             "publisher": "Dagens Nyheter",
@@ -439,22 +367,94 @@
             "url": "https:\/\/open.spotify.com\/show\/0vcqlnNDrWAhRH1uGw72Xs"
         },
         {
-            "rank": 49,
+            "rank": 41,
+            "spotify_id": "3TAEDgDvGytpVVguwXVFjg",
+            "name": "Ekot senaste nytt",
+            "publisher": "Sveriges Radio",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f077ed5629239a472532f2072",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/3TAEDgDvGytpVVguwXVFjg"
+        },
+        {
+            "rank": 42,
             "spotify_id": "0QE40V0pyxdY7FuadldEtP",
             "name": "Ring statsministern!",
             "publisher": "Moderaterna",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f08e739ceb4d6fe6dad9e9215",
-            "rank_move": "DOWN",
+            "rank_move": "UP",
             "url": "https:\/\/open.spotify.com\/show\/0QE40V0pyxdY7FuadldEtP"
         },
         {
-            "rank": 50,
+            "rank": 43,
+            "spotify_id": "67tu81cbuwhH3dqSMWVvPi",
+            "name": "Starta pressarna",
+            "publisher": "Katalys",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fdb77f8c0b9f02b8f1ca11931",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/67tu81cbuwhH3dqSMWVvPi"
+        },
+        {
+            "rank": 44,
+            "spotify_id": "5T99rXgdgaxg5ReicbjNoZ",
+            "name": "Lägg ut!",
+            "publisher": "Expressen",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f421919bd7a16c5e1dd4f83c4",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/5T99rXgdgaxg5ReicbjNoZ"
+        },
+        {
+            "rank": 45,
+            "spotify_id": "1Tm6Snolm6lrPhqJcbaYTt",
+            "name": "Business Basics",
+            "publisher": "Business Basics",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f00f0386d5b87a848dbee1846",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/1Tm6Snolm6lrPhqJcbaYTt"
+        },
+        {
+            "rank": 46,
+            "spotify_id": "6Ep04MUsHLbgPx1ZIbJZQf",
+            "name": "Prime Crime - Svensk True Crime Podcast",
+            "publisher": "Prime Crime",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f8982e0f264b26c909d1b00ad",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/6Ep04MUsHLbgPx1ZIbJZQf"
+        },
+        {
+            "rank": 47,
+            "spotify_id": "7imL9CVIIxxMJRQjSSqSPN",
+            "name": "Inside Trump's Head",
+            "publisher": "The Daily Beast",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fa0fda9b180e40b6462add404",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/7imL9CVIIxxMJRQjSSqSPN"
+        },
+        {
+            "rank": 48,
             "spotify_id": "1KfGuKan4uEvHvhU4F4xY7",
             "name": "P3 Nyheter med",
             "publisher": "Sveriges Radio",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f41987bd0277ea2a070f5c162",
-            "rank_move": "UNCHANGED",
+            "rank_move": "DOWN",
             "url": "https:\/\/open.spotify.com\/show\/1KfGuKan4uEvHvhU4F4xY7"
+        },
+        {
+            "rank": 49,
+            "spotify_id": "2WmgGeDN3iJOTQaAvzr6Ji",
+            "name": "Denys Davydov",
+            "publisher": "Denys",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fcbddd664055675ebd28693fd",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/2WmgGeDN3iJOTQaAvzr6Ji"
+        },
+        {
+            "rank": 50,
+            "spotify_id": "5JGorGvdwljJHTl6wpMXN3",
+            "name": "Pod Save America",
+            "publisher": "Pod Save America",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f422a856b5aaedd2944c55408",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/5JGorGvdwljJHTl6wpMXN3"
         }
     ]
 }

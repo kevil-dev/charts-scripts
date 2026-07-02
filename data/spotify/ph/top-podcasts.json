@@ -3,7 +3,7 @@
     "country": "ph",
     "genre": "Top Podcasts",
     "slug": "top-podcasts",
-    "fetched_at": "2026-06-24T06:38:56Z",
+    "fetched_at": "2026-07-01T04:45:43Z",
     "count": 200,
     "shows": [
         {
@@ -26,24 +26,33 @@
         },
         {
             "rank": 3,
-            "spotify_id": "3wB3VXkRpoZqAZlHZYpnAg",
-            "name": "The Bare It All Podcast ",
-            "publisher": "Dani Barretto",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fa238ea0ddd4aabb80c53c8a8",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/3wB3VXkRpoZqAZlHZYpnAg"
+            "spotify_id": "3mNzAtzbx87dJmkrz7HtS5",
+            "name": "STAN:A",
+            "publisher": "HYBE MEDIA STUDIO",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fbb1c5260bbd9bee237fda4d7",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/3mNzAtzbx87dJmkrz7HtS5"
         },
         {
             "rank": 4,
-            "spotify_id": "1WpQrSVCV0AUy8E5eRjTD3",
-            "name": "Lecheng Pag-ibig To!",
-            "publisher": "Sam YG and DJ Chacha | The Pod Network Entertainment",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f1106c24673f3c540e16637e0",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/1WpQrSVCV0AUy8E5eRjTD3"
+            "spotify_id": "7jIyHfFWNcKXvfhtRn9THA",
+            "name": "Ang Walang Kwentang Podcast",
+            "publisher": "Antoinette Jadaone and JP Habac",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1feb15b897447eb29787eeb2e1",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/7jIyHfFWNcKXvfhtRn9THA"
         },
         {
             "rank": 5,
+            "spotify_id": "6nUqf2tmzmv0g8M6JSf2VL",
+            "name": "Dear MOR",
+            "publisher": "MOR Entertainment",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fb0e62935d45a364455173042",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/6nUqf2tmzmv0g8M6JSf2VL"
+        },
+        {
+            "rank": 6,
             "spotify_id": "2c9BtPjORsVhrsAo4X5ILn",
             "name": "Papa Dudut Stories",
             "publisher": "Papa Dudut | TAGM Marketing Solutions Inc.",
@@ -52,67 +61,58 @@
             "url": "https:\/\/open.spotify.com\/show\/2c9BtPjORsVhrsAo4X5ILn"
         },
         {
-            "rank": 6,
-            "spotify_id": "6nUqf2tmzmv0g8M6JSf2VL",
-            "name": "Dear MOR",
-            "publisher": "MOR Entertainment",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fb0e62935d45a364455173042",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/6nUqf2tmzmv0g8M6JSf2VL"
-        },
-        {
             "rank": 7,
-            "spotify_id": "394zoq747jdecem0pbExuI",
-            "name": "Kwentong Takipsilim Pinoy Tagalog Horror Stories Podcast",
-            "publisher": "Kwentong Takipsilim",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fddd71682f39aa05231c5fa50",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/394zoq747jdecem0pbExuI"
+            "spotify_id": "3wB3VXkRpoZqAZlHZYpnAg",
+            "name": "The Bare It All Podcast ",
+            "publisher": "Dani Barretto",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fa238ea0ddd4aabb80c53c8a8",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/3wB3VXkRpoZqAZlHZYpnAg"
         },
         {
             "rank": 8,
+            "spotify_id": "4aOKsgsDJAxydSOdCO3EKS",
+            "name": "Chicks 2 Go",
+            "publisher": "Ashley Rivera and Hershey Neri",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fcd54b8ac9ef5097772a5d846",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/4aOKsgsDJAxydSOdCO3EKS"
+        },
+        {
+            "rank": 9,
+            "spotify_id": "2ZIHtlygVXBe3ewghhWoeK",
+            "name": "Ano Ba Talaga? With Kuya Kim",
+            "publisher": "Kim Atienza and The Pod Network Entertainment",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fe0c03591dac7d0fbe52fcbf2",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/2ZIHtlygVXBe3ewghhWoeK"
+        },
+        {
+            "rank": 10,
             "spotify_id": "4Ldeo1XmuoU2Kufc5V289g",
             "name": "The Sexytime Podcast",
             "publisher": "Isabelle and Ava Daza",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f526e3e1dd1a11e96d5851dba",
-            "rank_move": "UP",
+            "rank_move": "DOWN",
             "url": "https:\/\/open.spotify.com\/show\/4Ldeo1XmuoU2Kufc5V289g"
         },
         {
-            "rank": 9,
-            "spotify_id": "2GKZOLcpY1zu0IgrBufrGD",
-            "name": "AC vs. The World",
-            "publisher": "AC Soriano",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f4b4e400d7920ea8b7483254c",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/2GKZOLcpY1zu0IgrBufrGD"
-        },
-        {
-            "rank": 10,
-            "spotify_id": "3mNzAtzbx87dJmkrz7HtS5",
-            "name": "STAN:A",
-            "publisher": "HYBE MEDIA STUDIO",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f21e47d5addfd3329e40533b7",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/3mNzAtzbx87dJmkrz7HtS5"
-        },
-        {
             "rank": 11,
-            "spotify_id": "5PLrpsyco5qfFeJ5jygHsJ",
-            "name": "Sitio Bangungot - Pinoy Horror Stories for Sleep Podcast",
-            "publisher": "Kwentong Takipsilim",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f50cba88d82aba7a5e1ad255b",
+            "spotify_id": "1WpQrSVCV0AUy8E5eRjTD3",
+            "name": "Lecheng Pag-ibig To!",
+            "publisher": "Sam YG and DJ Chacha | The Pod Network Entertainment",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f1106c24673f3c540e16637e0",
             "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/5PLrpsyco5qfFeJ5jygHsJ"
+            "url": "https:\/\/open.spotify.com\/show\/1WpQrSVCV0AUy8E5eRjTD3"
         },
         {
             "rank": 12,
-            "spotify_id": "7fVEfcK0v4SHOw7lWIOFXI",
-            "name": "Sitio Pangil - Tagalog Aswang True Stories Podcast",
+            "spotify_id": "394zoq747jdecem0pbExuI",
+            "name": "Kwentong Takipsilim Pinoy Tagalog Horror Stories Podcast",
             "publisher": "Kwentong Takipsilim",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f5bc83b0855f37c037481c080",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/7fVEfcK0v4SHOw7lWIOFXI"
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fddd71682f39aa05231c5fa50",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/394zoq747jdecem0pbExuI"
         },
         {
             "rank": 13,
@@ -120,26 +120,26 @@
             "name": "Papa Dudut Horror",
             "publisher": "Papa Dudut | TAGM Marketing Solutions Inc.",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1ffcad63a0e7897423d36f40bd",
-            "rank_move": "UP",
+            "rank_move": "DOWN",
             "url": "https:\/\/open.spotify.com\/show\/7oOdwQz2wxwSdqEBbCSEbX"
         },
         {
             "rank": 14,
-            "spotify_id": "5hf88KuIx7Xw0Dmzd070rW",
-            "name": "TIYO BRI PODCAST",
-            "publisher": "Tiyo Bri Podcast",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f4562d70753f34b22a21d2aa2",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/5hf88KuIx7Xw0Dmzd070rW"
+            "spotify_id": "5PLrpsyco5qfFeJ5jygHsJ",
+            "name": "Sitio Bangungot - Pinoy Horror Stories for Sleep Podcast",
+            "publisher": "Kwentong Takipsilim",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f50cba88d82aba7a5e1ad255b",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/5PLrpsyco5qfFeJ5jygHsJ"
         },
         {
             "rank": 15,
-            "spotify_id": "2ClPD7nQbgdWRITjOQpYBw",
-            "name": "Dogshow Divas",
-            "publisher": "Dogshow Divas",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f03de4aa9d3939f67c6ddba47",
+            "spotify_id": "7fVEfcK0v4SHOw7lWIOFXI",
+            "name": "Sitio Pangil - Tagalog Aswang True Stories Podcast",
+            "publisher": "Kwentong Takipsilim",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f5bc83b0855f37c037481c080",
             "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/2ClPD7nQbgdWRITjOQpYBw"
+            "url": "https:\/\/open.spotify.com\/show\/7fVEfcK0v4SHOw7lWIOFXI"
         },
         {
             "rank": 16,
@@ -152,33 +152,24 @@
         },
         {
             "rank": 17,
-            "spotify_id": "7jIyHfFWNcKXvfhtRn9THA",
-            "name": "Ang Walang Kwentang Podcast",
-            "publisher": "Antoinette Jadaone and JP Habac",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1feb15b897447eb29787eeb2e1",
+            "spotify_id": "2ClPD7nQbgdWRITjOQpYBw",
+            "name": "Dogshow Divas",
+            "publisher": "Dogshow Divas",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f03de4aa9d3939f67c6ddba47",
             "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/7jIyHfFWNcKXvfhtRn9THA"
+            "url": "https:\/\/open.spotify.com\/show\/2ClPD7nQbgdWRITjOQpYBw"
         },
         {
             "rank": 18,
-            "spotify_id": "7pMmbHG9zmyehTEuPl6D0D",
-            "name": "Let's Talk with Pia Hontiveros",
-            "publisher": "Pia Hontiveros and The Pod Network Entertainment",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fa770465c5205920af9ddd3f2",
+            "spotify_id": "5hf88KuIx7Xw0Dmzd070rW",
+            "name": "TIYO BRI PODCAST",
+            "publisher": "Tiyo Bri Podcast",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f4562d70753f34b22a21d2aa2",
             "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/7pMmbHG9zmyehTEuPl6D0D"
+            "url": "https:\/\/open.spotify.com\/show\/5hf88KuIx7Xw0Dmzd070rW"
         },
         {
             "rank": 19,
-            "spotify_id": "08aXqMwe8vkxeSct576NLh",
-            "name": "Will Talks",
-            "publisher": "Jan Will Chua and TAGM Marketing Solutions Inc.",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f8cd55d05befb997ef69f0081",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/08aXqMwe8vkxeSct576NLh"
-        },
-        {
-            "rank": 20,
             "spotify_id": "01w2EPoowMVJoIL9TiukaI",
             "name": "Raqi’s Secret Files with Titan Gelo",
             "publisher": "Love Radio Manila",
@@ -187,34 +178,88 @@
             "url": "https:\/\/open.spotify.com\/show\/01w2EPoowMVJoIL9TiukaI"
         },
         {
+            "rank": 20,
+            "spotify_id": "08aXqMwe8vkxeSct576NLh",
+            "name": "Will Talks",
+            "publisher": "Jan Will Chua and TAGM Marketing Solutions Inc.",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f8cd55d05befb997ef69f0081",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/08aXqMwe8vkxeSct576NLh"
+        },
+        {
             "rank": 21,
+            "spotify_id": "5rfh5YY0dcz5YMnm7W1aMe",
+            "name": "Almost Honest with Kylie Verzosa",
+            "publisher": "Kylie Verzosa",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f0963de5b0b9219b49959d93b",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/5rfh5YY0dcz5YMnm7W1aMe"
+        },
+        {
+            "rank": 22,
             "spotify_id": "2DZwvzn6Z3xCFZrwZGDrbj",
             "name": "Rotten Mango",
             "publisher": "Stephanie Soo",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fe17b81be830039041326c578",
-            "rank_move": "UNCHANGED",
+            "rank_move": "DOWN",
             "url": "https:\/\/open.spotify.com\/show\/2DZwvzn6Z3xCFZrwZGDrbj"
         },
         {
-            "rank": 22,
-            "spotify_id": "30JSytrIgtpeB2cGxt1r9J",
-            "name": "Talks a Lot with Kenti",
-            "publisher": "Kenti",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fb91537be18eee35d08c8bbeb",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/30JSytrIgtpeB2cGxt1r9J"
+            "rank": 23,
+            "spotify_id": "5WwC6d477meWae7bmy6Fgt",
+            "name": "Paano Ba 'To: The Podcast",
+            "publisher": "Bianca Gonzalez",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f14f060e3dabcd4f4cc2518a0",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/5WwC6d477meWae7bmy6Fgt"
         },
         {
-            "rank": 23,
+            "rank": 24,
             "spotify_id": "0GVJ57XsbtgwRW7TJxNI0c",
             "name": "Adulting With Joyce Pring",
             "publisher": "Joyce Pring",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1ffc9b67bb565060c28dc55587",
-            "rank_move": "UP",
+            "rank_move": "UNCHANGED",
             "url": "https:\/\/open.spotify.com\/show\/0GVJ57XsbtgwRW7TJxNI0c"
         },
         {
-            "rank": 24,
+            "rank": 25,
+            "spotify_id": "2v0Xghfuh2Q5ZlwpFpzKFA",
+            "name": "Jamie Social",
+            "publisher": "Jamie Social",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f18910be89aa1faee5deffc8a",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/2v0Xghfuh2Q5ZlwpFpzKFA"
+        },
+        {
+            "rank": 26,
+            "spotify_id": "30JSytrIgtpeB2cGxt1r9J",
+            "name": "Talks a Lot with Kenti",
+            "publisher": "Kenti",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fb91537be18eee35d08c8bbeb",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/30JSytrIgtpeB2cGxt1r9J"
+        },
+        {
+            "rank": 27,
+            "spotify_id": "26r1Zgg4L55eOkE4RPlpPn",
+            "name": "Life Wisdom - By Words of Taoism",
+            "publisher": "Words of Taoism",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f66f8394ca61472685ad98d2d",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/26r1Zgg4L55eOkE4RPlpPn"
+        },
+        {
+            "rank": 28,
+            "spotify_id": "1pGO1WZzC96izCxDJwuxEW",
+            "name": "HILAKBOT PINOY HORROR STORIES | The Podcast",
+            "publisher": "RED and The Pod Network",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f1d285d9da1f2dc6d866f2deb",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/1pGO1WZzC96izCxDJwuxEW"
+        },
+        {
+            "rank": 29,
             "spotify_id": "2HDLODXLjDKHjyGXaaz5w7",
             "name": "Book of Bad Ideas",
             "publisher": "Steve and Nyx and The Pod Network",
@@ -223,61 +268,25 @@
             "url": "https:\/\/open.spotify.com\/show\/2HDLODXLjDKHjyGXaaz5w7"
         },
         {
-            "rank": 25,
-            "spotify_id": "2ZIHtlygVXBe3ewghhWoeK",
-            "name": "Ano Ba Talaga? With Kuya Kim",
-            "publisher": "Kim Atienza and The Pod Network Entertainment",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fe0c03591dac7d0fbe52fcbf2",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/2ZIHtlygVXBe3ewghhWoeK"
-        },
-        {
-            "rank": 26,
-            "spotify_id": "1pGO1WZzC96izCxDJwuxEW",
-            "name": "HILAKBOT PINOY HORROR STORIES | The Podcast",
-            "publisher": "RED and The Pod Network",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f1d285d9da1f2dc6d866f2deb",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/1pGO1WZzC96izCxDJwuxEW"
-        },
-        {
-            "rank": 27,
-            "spotify_id": "5WwC6d477meWae7bmy6Fgt",
-            "name": "Paano Ba 'To: The Podcast",
-            "publisher": "Bianca Gonzalez",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f14f060e3dabcd4f4cc2518a0",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/5WwC6d477meWae7bmy6Fgt"
-        },
-        {
-            "rank": 28,
+            "rank": 30,
             "spotify_id": "5ZKHbyeo97VivPN05bXt8r",
             "name": "Good Times with Mo: The Podcast Year 15",
             "publisher": "Mo Twister",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f5814c5d3614968d840434f82",
-            "rank_move": "UP",
+            "rank_move": "UNCHANGED",
             "url": "https:\/\/open.spotify.com\/show\/5ZKHbyeo97VivPN05bXt8r"
         },
         {
-            "rank": 29,
-            "spotify_id": "0lAfs5tpnJwfAcX5M0cYXo",
-            "name": "DAGOK TIME!",
-            "publisher": "SOPHIERET and TAGM Marketing Solutions Inc.",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f5f4f0709b21596d0302fafc3",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/0lAfs5tpnJwfAcX5M0cYXo"
-        },
-        {
-            "rank": 30,
-            "spotify_id": "0miPYZLvYFv6Ghgo9WRXqC",
-            "name": "hello82",
-            "publisher": "hello82",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f816bb2784d9aade8ab679609",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/0miPYZLvYFv6Ghgo9WRXqC"
-        },
-        {
             "rank": 31,
+            "spotify_id": "3Uzt6z951bok8yPD0yu459",
+            "name": "Katarantaduhan Podcast",
+            "publisher": "Katarantaduhan Podcast and TAGM Marketing Solutions Inc.",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f0372042985d0ad455eecd536",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/3Uzt6z951bok8yPD0yu459"
+        },
+        {
+            "rank": 32,
             "spotify_id": "3pLXJjhjfcNyLVpj6JIyoT",
             "name": "Nginig Stories | Tagalog Horror Stories",
             "publisher": "Kira Araze",
@@ -286,43 +295,16 @@
             "url": "https:\/\/open.spotify.com\/show\/3pLXJjhjfcNyLVpj6JIyoT"
         },
         {
-            "rank": 32,
-            "spotify_id": "3Uzt6z951bok8yPD0yu459",
-            "name": "Katarantaduhan Podcast",
-            "publisher": "Katarantaduhan Podcast and TAGM Marketing Solutions Inc.",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f0372042985d0ad455eecd536",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/3Uzt6z951bok8yPD0yu459"
-        },
-        {
             "rank": 33,
-            "spotify_id": "2v0Xghfuh2Q5ZlwpFpzKFA",
-            "name": "Jamie Social",
-            "publisher": "Jamie Social",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f18910be89aa1faee5deffc8a",
+            "spotify_id": "0lAfs5tpnJwfAcX5M0cYXo",
+            "name": "DAGOK TIME!",
+            "publisher": "SOPHIERET and TAGM Marketing Solutions Inc.",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f5f4f0709b21596d0302fafc3",
             "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/2v0Xghfuh2Q5ZlwpFpzKFA"
+            "url": "https:\/\/open.spotify.com\/show\/0lAfs5tpnJwfAcX5M0cYXo"
         },
         {
             "rank": 34,
-            "spotify_id": "246lVBmTPWksM628IZsSzY",
-            "name": "KwentuJuan",
-            "publisher": "James Caraan, TAGM Marketing Solutions Inc. and Storya Creatives Production Inc.",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fa5c4c7d26a7ed08d25fdcec0",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/246lVBmTPWksM628IZsSzY"
-        },
-        {
-            "rank": 35,
-            "spotify_id": "26r1Zgg4L55eOkE4RPlpPn",
-            "name": "Life Wisdom - By Words of Taoism",
-            "publisher": "Words of Taoism",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f66f8394ca61472685ad98d2d",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/26r1Zgg4L55eOkE4RPlpPn"
-        },
-        {
-            "rank": 36,
             "spotify_id": "30t7mvI25YX9YUTKUZkMiN",
             "name": "Bago Matulog with Red Ollero",
             "publisher": "Red Ollero and The Pod Network",
@@ -331,97 +313,16 @@
             "url": "https:\/\/open.spotify.com\/show\/30t7mvI25YX9YUTKUZkMiN"
         },
         {
-            "rank": 37,
-            "spotify_id": "2XrdOiImeo6REmsDJcFs1m",
-            "name": "Intellectwalwal with Victor Anastacio",
-            "publisher": "Victor Anastacio and The Pod Network",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f45dac28c4b47d1aae98658d8",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/2XrdOiImeo6REmsDJcFs1m"
-        },
-        {
-            "rank": 38,
-            "spotify_id": "7zDIfTNCLfog3BYX4xOiCf",
-            "name": "DOUGBROCK RADIO",
-            "publisher": "DOUGBROCK RADIO | TMP PODCAST NETWORK",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f607585a112a909b19c9356eb",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/7zDIfTNCLfog3BYX4xOiCf"
-        },
-        {
-            "rank": 39,
+            "rank": 35,
             "spotify_id": "7iQXmUT7XGuZSzAMjoNWlX",
             "name": "The Diary Of A CEO with Steven Bartlett",
             "publisher": "FlightStory",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f9ad158f746c0f755d9ba5299",
-            "rank_move": "UNCHANGED",
+            "rank_move": "UP",
             "url": "https:\/\/open.spotify.com\/show\/7iQXmUT7XGuZSzAMjoNWlX"
         },
         {
-            "rank": 40,
-            "spotify_id": "5W15zRekHRHI4onZ3Lh3pt",
-            "name": "Good Times Radio ",
-            "publisher": "djmotwister",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f63cea9484237adacee381037",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/5W15zRekHRHI4onZ3Lh3pt"
-        },
-        {
-            "rank": 41,
-            "spotify_id": "7bEK6TTHX84bfZuDy6GXSy",
-            "name": "Your Honor",
-            "publisher": "Chariz Solomon, Buboy Villar",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f4ee494ce0dfc63e56294cd7f",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/7bEK6TTHX84bfZuDy6GXSy"
-        },
-        {
-            "rank": 42,
-            "spotify_id": "0aEKHSZFWsxawxxpxBMTy2",
-            "name": "Ang Pinuno Horror Podcast",
-            "publisher": "Anthony Steven San Juan and TAGM Marketing Solutions Inc.",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1ff790f5b8bf928bb24200de15",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/0aEKHSZFWsxawxxpxBMTy2"
-        },
-        {
-            "rank": 43,
-            "spotify_id": "6fooJ6OCzJ980EsahuiNpW",
-            "name": "Life in Progress",
-            "publisher": "Angely Dub",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f61a03c7c4d449c0df97344e6",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/6fooJ6OCzJ980EsahuiNpW"
-        },
-        {
-            "rank": 44,
-            "spotify_id": "7vz4RYsD5MulTCrcH478t1",
-            "name": "The Mel Robbins Podcast",
-            "publisher": "Mel Robbins",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f464250c491dc86ec4316431f",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/7vz4RYsD5MulTCrcH478t1"
-        },
-        {
-            "rank": 45,
-            "spotify_id": "6R5WWQDX28ChltsLPAXmYY",
-            "name": "CCF Sermon Audio",
-            "publisher": "Christ's Commission Fellowship",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f9d5aac4cf15624f3f52cb24c",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/6R5WWQDX28ChltsLPAXmYY"
-        },
-        {
-            "rank": 46,
-            "spotify_id": "4rOoJ6Egrf8K2IrywzwOMk",
-            "name": "The Joe Rogan Experience",
-            "publisher": "Joe Rogan",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f1e1acaebe06610165612f1ef",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/4rOoJ6Egrf8K2IrywzwOMk"
-        },
-        {
-            "rank": 47,
+            "rank": 36,
             "spotify_id": "2OyqGF8rokIi7K0CDwQc1Z",
             "name": "Ray William Johnson: True Story Podcast ",
             "publisher": "Ray William Johnson",
@@ -430,70 +331,88 @@
             "url": "https:\/\/open.spotify.com\/show\/2OyqGF8rokIi7K0CDwQc1Z"
         },
         {
-            "rank": 48,
-            "spotify_id": "08C5hzvzufEfSnvIhEmPTr",
-            "name": "The Red Door Podcast PH",
-            "publisher": "Ian Estrella and James Gabe",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f599560d652e42807b926f2eb",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/08C5hzvzufEfSnvIhEmPTr"
-        },
-        {
-            "rank": 49,
-            "spotify_id": "0RKi1s1GEQ1jQy76epoSzy",
-            "name": "Pray the Rosary",
-            "publisher": "CBCP Online Radio",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1feebc3c2eaea63d928616bba9",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/0RKi1s1GEQ1jQy76epoSzy"
-        },
-        {
-            "rank": 50,
-            "spotify_id": "4aOKsgsDJAxydSOdCO3EKS",
-            "name": "Chicks 2 Go",
-            "publisher": "Ashley Rivera and Hershey Neri",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fcd54b8ac9ef5097772a5d846",
+            "rank": 37,
+            "spotify_id": "7bEK6TTHX84bfZuDy6GXSy",
+            "name": "Your Honor",
+            "publisher": "Chariz Solomon, Buboy Villar",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f4ee494ce0dfc63e56294cd7f",
             "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/4aOKsgsDJAxydSOdCO3EKS"
+            "url": "https:\/\/open.spotify.com\/show\/7bEK6TTHX84bfZuDy6GXSy"
         },
         {
-            "rank": 51,
-            "spotify_id": "766GZTXtaaazG3CJaJglbQ",
-            "name": "Barangay LS 91.1 Lucena - Podcast",
-            "publisher": "Barangay LS 91.1 Lucena",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f6b5df5dc93157f71d94ed4b0",
+            "rank": 38,
+            "spotify_id": "5W15zRekHRHI4onZ3Lh3pt",
+            "name": "Good Times Radio ",
+            "publisher": "djmotwister",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f63cea9484237adacee381037",
             "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/766GZTXtaaazG3CJaJglbQ"
+            "url": "https:\/\/open.spotify.com\/show\/5W15zRekHRHI4onZ3Lh3pt"
         },
         {
-            "rank": 52,
-            "spotify_id": "0RZgSEyYTqd4Hnu0hQY84p",
-            "name": "Ka Istorya Horror",
-            "publisher": "Jason Steele | Papa Dudut | TAGM Marketing Solutions Inc.",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fc173734ce6c0013ae6c2e0b6",
+            "rank": 39,
+            "spotify_id": "246lVBmTPWksM628IZsSzY",
+            "name": "KwentuJuan",
+            "publisher": "James Caraan, TAGM Marketing Solutions Inc. and Storya Creatives Production Inc.",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fa5c4c7d26a7ed08d25fdcec0",
             "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/0RZgSEyYTqd4Hnu0hQY84p"
+            "url": "https:\/\/open.spotify.com\/show\/246lVBmTPWksM628IZsSzY"
         },
         {
-            "rank": 53,
-            "spotify_id": "4tNGOuh41K7eosoTn6O0ji",
-            "name": "48 Laws Of Power, By Robert Greene (Full AudioBook)",
-            "publisher": "Raghvendra Singh",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fe901d9be891cecd4c16af890",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/4tNGOuh41K7eosoTn6O0ji"
+            "rank": 40,
+            "spotify_id": "2XrdOiImeo6REmsDJcFs1m",
+            "name": "Intellectwalwal with Victor Anastacio",
+            "publisher": "Victor Anastacio and The Pod Network",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f45dac28c4b47d1aae98658d8",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/2XrdOiImeo6REmsDJcFs1m"
         },
         {
-            "rank": 54,
-            "spotify_id": "6YqWo32NbxiptWx2hU00o5",
-            "name": "Smosh Reads Reddit Stories",
-            "publisher": "Smosh",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f5280d36637db73395c0f6d36",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/6YqWo32NbxiptWx2hU00o5"
+            "rank": 41,
+            "spotify_id": "6fooJ6OCzJ980EsahuiNpW",
+            "name": "Life in Progress",
+            "publisher": "Angely Dub",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f61a03c7c4d449c0df97344e6",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/6fooJ6OCzJ980EsahuiNpW"
         },
         {
-            "rank": 55,
+            "rank": 42,
+            "spotify_id": "7zDIfTNCLfog3BYX4xOiCf",
+            "name": "DOUGBROCK RADIO",
+            "publisher": "DOUGBROCK RADIO | TMP PODCAST NETWORK",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f607585a112a909b19c9356eb",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/7zDIfTNCLfog3BYX4xOiCf"
+        },
+        {
+            "rank": 43,
+            "spotify_id": "0aEKHSZFWsxawxxpxBMTy2",
+            "name": "Ang Pinuno Horror Podcast",
+            "publisher": "Anthony Steven San Juan and TAGM Marketing Solutions Inc.",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1ff790f5b8bf928bb24200de15",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/0aEKHSZFWsxawxxpxBMTy2"
+        },
+        {
+            "rank": 44,
+            "spotify_id": "6R5WWQDX28ChltsLPAXmYY",
+            "name": "CCF Sermon Audio",
+            "publisher": "Christ's Commission Fellowship",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f9d5aac4cf15624f3f52cb24c",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/6R5WWQDX28ChltsLPAXmYY"
+        },
+        {
+            "rank": 45,
+            "spotify_id": "7vz4RYsD5MulTCrcH478t1",
+            "name": "The Mel Robbins Podcast",
+            "publisher": "Mel Robbins",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f464250c491dc86ec4316431f",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/7vz4RYsD5MulTCrcH478t1"
+        },
+        {
+            "rank": 46,
             "spotify_id": "2DiT6w1sTvjnPlk8I6LUf6",
             "name": "Kwentong Bayan: Pinoy Horror Podcast",
             "publisher": "JD San Juan and TAGM Marketing Solutions Inc.",
@@ -502,61 +421,52 @@
             "url": "https:\/\/open.spotify.com\/show\/2DiT6w1sTvjnPlk8I6LUf6"
         },
         {
-            "rank": 56,
+            "rank": 47,
+            "spotify_id": "0RZgSEyYTqd4Hnu0hQY84p",
+            "name": "Ka Istorya Horror",
+            "publisher": "Jason Steele | Papa Dudut | TAGM Marketing Solutions Inc.",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fc173734ce6c0013ae6c2e0b6",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/0RZgSEyYTqd4Hnu0hQY84p"
+        },
+        {
+            "rank": 48,
+            "spotify_id": "4rOoJ6Egrf8K2IrywzwOMk",
+            "name": "The Joe Rogan Experience",
+            "publisher": "Joe Rogan",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f1e1acaebe06610165612f1ef",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/4rOoJ6Egrf8K2IrywzwOMk"
+        },
+        {
+            "rank": 49,
+            "spotify_id": "08C5hzvzufEfSnvIhEmPTr",
+            "name": "The Red Door Podcast PH",
+            "publisher": "Ian Estrella and James Gabe",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f599560d652e42807b926f2eb",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/08C5hzvzufEfSnvIhEmPTr"
+        },
+        {
+            "rank": 50,
             "spotify_id": "4uLhBZwgupa6Sr7tVaUViB",
             "name": "Walang Edit Edit with Leland",
             "publisher": "Leland Lim and The Pod Network",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fd2ea17703044d1cc140dddd0",
-            "rank_move": "UNCHANGED",
+            "rank_move": "UP",
             "url": "https:\/\/open.spotify.com\/show\/4uLhBZwgupa6Sr7tVaUViB"
         },
         {
-            "rank": 57,
-            "spotify_id": "4xWZ23d4gKSiyw8RwzkYSS",
-            "name": "Radyo Nobela",
-            "publisher": "Barangay LS 96.3 Legazpi",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fccaeed0b06cb57d8cb9df6bf",
+            "rank": 51,
+            "spotify_id": "4tNGOuh41K7eosoTn6O0ji",
+            "name": "48 Laws Of Power, By Robert Greene (Full AudioBook)",
+            "publisher": "Raghvendra Singh",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fe901d9be891cecd4c16af890",
             "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/4xWZ23d4gKSiyw8RwzkYSS"
+            "url": "https:\/\/open.spotify.com\/show\/4tNGOuh41K7eosoTn6O0ji"
         },
         {
-            "rank": 58,
-            "spotify_id": "4FKmoKMutYfC7KyQQeo00O",
-            "name": "The Morning Rush",
-            "publisher": "Monster RX93.1",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f7ecaaf0a7fe3997343ce94a9",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/4FKmoKMutYfC7KyQQeo00O"
-        },
-        {
-            "rank": 59,
-            "spotify_id": "1k4n9VlB7xm5nxC0qwwgYg",
-            "name": "MALIKMATA",
-            "publisher": "Ban Malik",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fa460ca4ab44968a4615bd412",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/1k4n9VlB7xm5nxC0qwwgYg"
-        },
-        {
-            "rank": 60,
-            "spotify_id": "04nkM9KIfpz2NPbEeiQub0",
-            "name": "The Sister Act with Bea and Nica Fabregas ",
-            "publisher": "Bea and Nica Fabregas",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fa6eeeda6f22dc57607a75cbf",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/04nkM9KIfpz2NPbEeiQub0"
-        },
-        {
-            "rank": 61,
-            "spotify_id": "5u9fyAmdnGJrxdJiaViwSu",
-            "name": "Signos Stories",
-            "publisher": "Oblivion and TAGM Marketing Solutions Inc.",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f64a284a32b29e747c24a64d1",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/5u9fyAmdnGJrxdJiaViwSu"
-        },
-        {
-            "rank": 62,
+            "rank": 52,
             "spotify_id": "4krFD2NsDwgflMELFMQ1DB",
             "name": "🔴 PINOY HORROR RADIO | NonStop Tagalog Horror Stories",
             "publisher": "RED Horror Network",
@@ -565,34 +475,52 @@
             "url": "https:\/\/open.spotify.com\/show\/4krFD2NsDwgflMELFMQ1DB"
         },
         {
-            "rank": 63,
-            "spotify_id": "3xVwC3bnE9iXwIe6hRifcd",
-            "name": "Let's Keep Moving with Risha",
-            "publisher": "Risha Marcellana",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f443ada6802bdb8383bda83b2",
+            "rank": 53,
+            "spotify_id": "0RKi1s1GEQ1jQy76epoSzy",
+            "name": "Pray the Rosary",
+            "publisher": "CBCP Online Radio",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1feebc3c2eaea63d928616bba9",
             "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/3xVwC3bnE9iXwIe6hRifcd"
+            "url": "https:\/\/open.spotify.com\/show\/0RKi1s1GEQ1jQy76epoSzy"
         },
         {
-            "rank": 64,
-            "spotify_id": "72FZXdvpDUbF7DOIKV7SVt",
-            "name": "I-Listen with Kara David",
-            "publisher": "Kara David",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f8944ed9de541e58980ce2ea8",
+            "rank": 54,
+            "spotify_id": "4xWZ23d4gKSiyw8RwzkYSS",
+            "name": "Radyo Nobela",
+            "publisher": "Barangay LS 96.3 Legazpi",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fccaeed0b06cb57d8cb9df6bf",
             "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/72FZXdvpDUbF7DOIKV7SVt"
+            "url": "https:\/\/open.spotify.com\/show\/4xWZ23d4gKSiyw8RwzkYSS"
         },
         {
-            "rank": 65,
-            "spotify_id": "3dnSAifjkJqMc7aFtpXi12",
-            "name": "Petsa De Peligro",
-            "publisher": "Charuth, Poca and UnionDigital Bank",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f5d4ebedcf36a4367b5e14606",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/3dnSAifjkJqMc7aFtpXi12"
+            "rank": 55,
+            "spotify_id": "766GZTXtaaazG3CJaJglbQ",
+            "name": "Barangay LS 91.1 Lucena - Podcast",
+            "publisher": "Barangay LS 91.1 Lucena",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f6b5df5dc93157f71d94ed4b0",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/766GZTXtaaazG3CJaJglbQ"
         },
         {
-            "rank": 66,
+            "rank": 56,
+            "spotify_id": "6YqWo32NbxiptWx2hU00o5",
+            "name": "Smosh Reads Reddit Stories",
+            "publisher": "Smosh",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f5280d36637db73395c0f6d36",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/6YqWo32NbxiptWx2hU00o5"
+        },
+        {
+            "rank": 57,
+            "spotify_id": "5u9fyAmdnGJrxdJiaViwSu",
+            "name": "Signos Stories",
+            "publisher": "Oblivion and TAGM Marketing Solutions Inc.",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f64a284a32b29e747c24a64d1",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/5u9fyAmdnGJrxdJiaViwSu"
+        },
+        {
+            "rank": 58,
             "spotify_id": "5VzFvh1JlEhBMS6ZHZ8CNO",
             "name": "anything goes with emma chamberlain",
             "publisher": "emma chamberlain",
@@ -601,34 +529,7 @@
             "url": "https:\/\/open.spotify.com\/show\/5VzFvh1JlEhBMS6ZHZ8CNO"
         },
         {
-            "rank": 67,
-            "spotify_id": "37rJ8g1sLK0C3f0L3S0Wq7",
-            "name": "Typical Pinoy Crap Podcast",
-            "publisher": "TPC and Brianne Joseph Lacatan",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f0236d851f2d692668550b065",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/37rJ8g1sLK0C3f0L3S0Wq7"
-        },
-        {
-            "rank": 68,
-            "spotify_id": "706hylM6zaDW8LrrYxcggQ",
-            "name": "The Mindset Mentor",
-            "publisher": "Rob Dial",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fa5b631a2df7aa9e08bff1877",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/706hylM6zaDW8LrrYxcggQ"
-        },
-        {
-            "rank": 69,
-            "spotify_id": "1xLK7Wj1uNuEIdteanhpi7",
-            "name": "Creepsilog",
-            "publisher": "Gideon Mendoza and Glenn Tabarejos | TAGM Marketing Solutions Inc.",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fcf9cfb51175da32b0ab86a39",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/1xLK7Wj1uNuEIdteanhpi7"
-        },
-        {
-            "rank": 70,
+            "rank": 59,
             "spotify_id": "116kLQ7H9hzpX6ARaAMlDv",
             "name": "Dark Asia with Megan",
             "publisher": "Megan Lee, Bleav",
@@ -637,7 +538,16 @@
             "url": "https:\/\/open.spotify.com\/show\/116kLQ7H9hzpX6ARaAMlDv"
         },
         {
-            "rank": 71,
+            "rank": 60,
+            "spotify_id": "4FKmoKMutYfC7KyQQeo00O",
+            "name": "The Morning Rush",
+            "publisher": "Monster RX93.1",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f7ecaaf0a7fe3997343ce94a9",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/4FKmoKMutYfC7KyQQeo00O"
+        },
+        {
+            "rank": 61,
             "spotify_id": "5jZ9hN1UHkjyTmfOjbdPQb",
             "name": "Rotten Mango Video",
             "publisher": "Stephanie Soo",
@@ -646,79 +556,25 @@
             "url": "https:\/\/open.spotify.com\/show\/5jZ9hN1UHkjyTmfOjbdPQb"
         },
         {
-            "rank": 72,
-            "spotify_id": "6TTL7ech0horQVahondm0b",
-            "name": "Just Wucka",
-            "publisher": "WuckaSpeaks",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fae4a488d66e3cde1faa099ce",
+            "rank": 62,
+            "spotify_id": "706hylM6zaDW8LrrYxcggQ",
+            "name": "The Mindset Mentor",
+            "publisher": "Rob Dial",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fa5b631a2df7aa9e08bff1877",
             "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/6TTL7ech0horQVahondm0b"
+            "url": "https:\/\/open.spotify.com\/show\/706hylM6zaDW8LrrYxcggQ"
         },
         {
-            "rank": 73,
-            "spotify_id": "6CYl03zrfALl743CEvY3g3",
-            "name": "Alarms ideas",
-            "publisher": "xi",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fbf62dcb11559d71288d7bb78",
+            "rank": 63,
+            "spotify_id": "1k4n9VlB7xm5nxC0qwwgYg",
+            "name": "MALIKMATA",
+            "publisher": "Ban Malik",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fa460ca4ab44968a4615bd412",
             "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/6CYl03zrfALl743CEvY3g3"
+            "url": "https:\/\/open.spotify.com\/show\/1k4n9VlB7xm5nxC0qwwgYg"
         },
         {
-            "rank": 74,
-            "spotify_id": "4TkbH507BkAYA9xeV7P73P",
-            "name": "CreepyMc Pancit - Tagalog Horror Stories",
-            "publisher": "Paul Bringuela and TAGM Marketing Solutions Inc.",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f0f1640c312ccd9044e6107bc",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/4TkbH507BkAYA9xeV7P73P"
-        },
-        {
-            "rank": 75,
-            "spotify_id": "6MWAkIEDqe8cgQjPvUaW2V",
-            "name": "ASMR by Gibi for Sleep and Relaxation",
-            "publisher": "Gibi ASMR",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1faaaec8e158bad479829e2ead",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/6MWAkIEDqe8cgQjPvUaW2V"
-        },
-        {
-            "rank": 76,
-            "spotify_id": "0o0FBJiai9zFXXSnraIusL",
-            "name": "Para Normal Podcast",
-            "publisher": "f90 Productions I TAGM Marketing Solutions Inc.",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f98a1ba3072e10122c6ff99c8",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/0o0FBJiai9zFXXSnraIusL"
-        },
-        {
-            "rank": 77,
-            "spotify_id": "2J5odWwdjgS6tY7dH5nxHl",
-            "name": "Ms. Clar Horror Stories",
-            "publisher": "Fly Catia",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f344745c41f3a864793696599",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/2J5odWwdjgS6tY7dH5nxHl"
-        },
-        {
-            "rank": 78,
-            "spotify_id": "4y1CSzRqsKhUEYL4sgnn2x",
-            "name": "Tech Joyce Show",
-            "publisher": "Joyce",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f692ecbf4604650e3d1dc4119",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/4y1CSzRqsKhUEYL4sgnn2x"
-        },
-        {
-            "rank": 79,
-            "spotify_id": "6SsM1gGP4EIvUuvTLby5pl",
-            "name": "The Holy Rosary",
-            "publisher": "Creedal",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fa2418cbc1c439a48a548c89a",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/6SsM1gGP4EIvUuvTLby5pl"
-        },
-        {
-            "rank": 80,
+            "rank": 64,
             "spotify_id": "3IcTiZNXbRuXt5UTNRboaq",
             "name": "Gabi ng Lagim",
             "publisher": "DZRH",
@@ -727,61 +583,7 @@
             "url": "https:\/\/open.spotify.com\/show\/3IcTiZNXbRuXt5UTNRboaq"
         },
         {
-            "rank": 81,
-            "spotify_id": "3nZEeTPQnPMYelBzNDOBCX",
-            "name": "SLOW ENGLISH PODCAST (A1-A2) With Subtitles | Daily Videos | English With Us Podcast",
-            "publisher": "English With Us Podcast",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fba9c87c07a22244820e9933c",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/3nZEeTPQnPMYelBzNDOBCX"
-        },
-        {
-            "rank": 82,
-            "spotify_id": "55f7Sp6AxSHLNZsE7HU5MF",
-            "name": "Chink Positive",
-            "publisher": "Chinkee Tan and and The Pod Network Entertainment",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f1647914039530460a4586dd9",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/55f7Sp6AxSHLNZsE7HU5MF"
-        },
-        {
-            "rank": 83,
-            "spotify_id": "2FH70nnKmpdV5PY0fp4F9Q",
-            "name": "Snook",
-            "publisher": "Snook",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f4e1a66770aae762c450299a0",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/2FH70nnKmpdV5PY0fp4F9Q"
-        },
-        {
-            "rank": 84,
-            "spotify_id": "3chASEaksUPFNYyobvXtAx",
-            "name": "JIA CMNV with Stephen Prado",
-            "publisher": "JIA CMNV",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f3edd0087d3536a6941bff409",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/3chASEaksUPFNYyobvXtAx"
-        },
-        {
-            "rank": 85,
-            "spotify_id": "0aeGT7Lnj7N7WSdQP4TaUj",
-            "name": "Kami Ang Inyong Mga... Podcast",
-            "publisher": "Camille Prats, Iya Villania, Suzi Entrata-Abrera",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1ff240fdd26070691c116ace41",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/0aeGT7Lnj7N7WSdQP4TaUj"
-        },
-        {
-            "rank": 86,
-            "spotify_id": "5u6ADfznEajUiom8wirz2H",
-            "name": "Ayaw kol, Bata pako kol!",
-            "publisher": "Yumi Pacuri",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f29783c25b8102740fff45336",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/5u6ADfznEajUiom8wirz2H"
-        },
-        {
-            "rank": 87,
+            "rank": 65,
             "spotify_id": "4X9zEtsaAuEvicwvj2MGFD",
             "name": "yani’s room",
             "publisher": "yanihatesu",
@@ -790,43 +592,52 @@
             "url": "https:\/\/open.spotify.com\/show\/4X9zEtsaAuEvicwvj2MGFD"
         },
         {
-            "rank": 88,
-            "spotify_id": "5KHALnw2sHvbF7jqCiYcbQ",
-            "name": "Kilabot - Pinoy Horror Stories",
-            "publisher": "KUYA TOTOY",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f658bedcba30076bbf8311774",
+            "rank": 66,
+            "spotify_id": "4TkbH507BkAYA9xeV7P73P",
+            "name": "CreepyMc Pancit - Tagalog Horror Stories",
+            "publisher": "Paul Bringuela and TAGM Marketing Solutions Inc.",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f0f1640c312ccd9044e6107bc",
             "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/5KHALnw2sHvbF7jqCiYcbQ"
+            "url": "https:\/\/open.spotify.com\/show\/4TkbH507BkAYA9xeV7P73P"
         },
         {
-            "rank": 89,
-            "spotify_id": "1VXcH8QHkjRcTCEd88U3ti",
-            "name": "TED Talks Daily",
-            "publisher": "TED",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f1eef8dcabec3dca77ace07c8",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/1VXcH8QHkjRcTCEd88U3ti"
-        },
-        {
-            "rank": 90,
-            "spotify_id": "6N6KqZOQeu7srMoEzSjNj2",
-            "name": "BigDeal",
-            "publisher": "Codie Sanchez",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f90aad320fdc5fb68aca0ddb9",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/6N6KqZOQeu7srMoEzSjNj2"
-        },
-        {
-            "rank": 91,
-            "spotify_id": "6CjV3CZI8hxr8q54GEBZxz",
-            "name": "Balyahan with GB and RDO",
-            "publisher": "GB Labrador, Ranidel de Ocampo and SportsPlus",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f1c2eebca7e87aaabe1020dc7",
+            "rank": 67,
+            "spotify_id": "1xqLXFtB2nzUpm7lgGfyzX",
+            "name": "Bad B*tch Bible",
+            "publisher": "Killa Kush",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fa5025149a33c6302a1b21b89",
             "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/6CjV3CZI8hxr8q54GEBZxz"
+            "url": "https:\/\/open.spotify.com\/show\/1xqLXFtB2nzUpm7lgGfyzX"
         },
         {
-            "rank": 92,
+            "rank": 68,
+            "spotify_id": "3xVwC3bnE9iXwIe6hRifcd",
+            "name": "Let's Keep Moving with Risha",
+            "publisher": "Risha Marcellana",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f443ada6802bdb8383bda83b2",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/3xVwC3bnE9iXwIe6hRifcd"
+        },
+        {
+            "rank": 69,
+            "spotify_id": "6TTL7ech0horQVahondm0b",
+            "name": "Just Wucka",
+            "publisher": "WuckaSpeaks",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fae4a488d66e3cde1faa099ce",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/6TTL7ech0horQVahondm0b"
+        },
+        {
+            "rank": 70,
+            "spotify_id": "3chASEaksUPFNYyobvXtAx",
+            "name": "JIA CMNV with Stephen Prado",
+            "publisher": "JIA CMNV",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f3edd0087d3536a6941bff409",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/3chASEaksUPFNYyobvXtAx"
+        },
+        {
+            "rank": 71,
             "spotify_id": "4VlhEPbeqVfJH2ErBcDeTk",
             "name": "Dear LOVE",
             "publisher": "Love Radio Manila",
@@ -835,79 +646,187 @@
             "url": "https:\/\/open.spotify.com\/show\/4VlhEPbeqVfJH2ErBcDeTk"
         },
         {
-            "rank": 93,
-            "spotify_id": "44jVfIuTiLa8njoCQaJHLa",
-            "name": "Philippine Campfire Stories",
-            "publisher": "Earl Jerico | The Pod Network",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fe2962c9b2682d035e1bccaa5",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/44jVfIuTiLa8njoCQaJHLa"
+            "rank": 72,
+            "spotify_id": "37rJ8g1sLK0C3f0L3S0Wq7",
+            "name": "Typical Pinoy Crap Podcast",
+            "publisher": "TPC and Brianne Joseph Lacatan",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f0236d851f2d692668550b065",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/37rJ8g1sLK0C3f0L3S0Wq7"
         },
         {
-            "rank": 94,
-            "spotify_id": "2LgpmgN2gqglVVJwWwuuVN",
-            "name": "Dwards' Playlist",
-            "publisher": "Dwards Ceneta",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fac4b8d538da2ab454b096269",
+            "rank": 73,
+            "spotify_id": "1VXcH8QHkjRcTCEd88U3ti",
+            "name": "TED Talks Daily",
+            "publisher": "TED",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f1eef8dcabec3dca77ace07c8",
             "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/2LgpmgN2gqglVVJwWwuuVN"
+            "url": "https:\/\/open.spotify.com\/show\/1VXcH8QHkjRcTCEd88U3ti"
         },
         {
-            "rank": 95,
-            "spotify_id": "6CTPNZf8oOSfzGX6r3LQYS",
-            "name": "skypodcast",
-            "publisher": "Kryz and Slater",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fd9f9c7e3375bc4bf70f3f53b",
+            "rank": 74,
+            "spotify_id": "1xLK7Wj1uNuEIdteanhpi7",
+            "name": "Creepsilog",
+            "publisher": "Gideon Mendoza and Glenn Tabarejos | TAGM Marketing Solutions Inc.",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fcf9cfb51175da32b0ab86a39",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/1xLK7Wj1uNuEIdteanhpi7"
+        },
+        {
+            "rank": 75,
+            "spotify_id": "3U4boRIGjeYs0S9dL69J5C",
+            "name": "Productive Peter",
+            "publisher": "Productive Peter",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fad8cf392098297ec52d9ff84",
             "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/6CTPNZf8oOSfzGX6r3LQYS"
+            "url": "https:\/\/open.spotify.com\/show\/3U4boRIGjeYs0S9dL69J5C"
         },
         {
-            "rank": 96,
-            "spotify_id": "3DN8YgsPC2zva7xAyvRmPG",
-            "name": "Punchline with Alex Calleja!",
-            "publisher": "Alex Calleja and The Pod Network",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f2a9be50d662b5402874eda90",
+            "rank": 76,
+            "spotify_id": "72FZXdvpDUbF7DOIKV7SVt",
+            "name": "I-Listen with Kara David",
+            "publisher": "Kara David",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f8944ed9de541e58980ce2ea8",
             "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/3DN8YgsPC2zva7xAyvRmPG"
+            "url": "https:\/\/open.spotify.com\/show\/72FZXdvpDUbF7DOIKV7SVt"
         },
         {
-            "rank": 97,
+            "rank": 77,
+            "spotify_id": "2FH70nnKmpdV5PY0fp4F9Q",
+            "name": "Snook",
+            "publisher": "Snook",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f4e1a66770aae762c450299a0",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/2FH70nnKmpdV5PY0fp4F9Q"
+        },
+        {
+            "rank": 78,
+            "spotify_id": "6CYl03zrfALl743CEvY3g3",
+            "name": "Alarms ideas",
+            "publisher": "xi",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fbf62dcb11559d71288d7bb78",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/6CYl03zrfALl743CEvY3g3"
+        },
+        {
+            "rank": 79,
+            "spotify_id": "2GKZOLcpY1zu0IgrBufrGD",
+            "name": "AC vs. The World",
+            "publisher": "AC Soriano",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f4b4e400d7920ea8b7483254c",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/2GKZOLcpY1zu0IgrBufrGD"
+        },
+        {
+            "rank": 80,
+            "spotify_id": "6MWAkIEDqe8cgQjPvUaW2V",
+            "name": "ASMR by Gibi for Sleep and Relaxation",
+            "publisher": "Gibi ASMR",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1faaaec8e158bad479829e2ead",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/6MWAkIEDqe8cgQjPvUaW2V"
+        },
+        {
+            "rank": 81,
             "spotify_id": "3GUzJcXma1EGoC6sD73aRl",
             "name": "Sound Waves",
             "publisher": "Jaxon Olumide",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fd161c8b516c0723a6f1c1d76",
-            "rank_move": "UP",
+            "rank_move": "UNCHANGED",
             "url": "https:\/\/open.spotify.com\/show\/3GUzJcXma1EGoC6sD73aRl"
         },
         {
-            "rank": 98,
-            "spotify_id": "0EwDk36KVbO6d6Rbjacf4Z",
-            "name": "Billions Club: The Series",
-            "publisher": "Spotify",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f467ed87c8b7ed76d7d990ca8",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/0EwDk36KVbO6d6Rbjacf4Z"
+            "rank": 82,
+            "spotify_id": "4ARLhQcACW5tOeim5D4TkS",
+            "name": "DieEm Stories: TAGALOG HORROR STORIES",
+            "publisher": "TAGM Marketing Solutions Inc.",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fd5963a94e0797a50670f6d51",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/4ARLhQcACW5tOeim5D4TkS"
         },
         {
-            "rank": 99,
-            "spotify_id": "71wfyZzF7DBZNxUPti8Y2P",
-            "name": "Paano Kung...",
-            "publisher": "Joelle • The Pod Network",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f51cae63713bf7527fc53d6da",
+            "rank": 83,
+            "spotify_id": "55f7Sp6AxSHLNZsE7HU5MF",
+            "name": "Chink Positive",
+            "publisher": "Chinkee Tan and and The Pod Network Entertainment",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f1647914039530460a4586dd9",
             "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/71wfyZzF7DBZNxUPti8Y2P"
+            "url": "https:\/\/open.spotify.com\/show\/55f7Sp6AxSHLNZsE7HU5MF"
         },
         {
-            "rank": 100,
-            "spotify_id": "4GXeXPKCR6BRXn6Lxj3X5U",
-            "name": "Kumikinang na Tambalan",
-            "publisher": "Tambalang Nicole Hyala and Diego Bandido and The Pod Network",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fa0196e5e7386450e951fe7dc",
+            "rank": 84,
+            "spotify_id": "6CjV3CZI8hxr8q54GEBZxz",
+            "name": "Balyahan with GB and RDO",
+            "publisher": "GB Labrador, Ranidel de Ocampo and SportsPlus",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f1c2eebca7e87aaabe1020dc7",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/6CjV3CZI8hxr8q54GEBZxz"
+        },
+        {
+            "rank": 85,
+            "spotify_id": "6SsM1gGP4EIvUuvTLby5pl",
+            "name": "The Holy Rosary",
+            "publisher": "Creedal",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fa2418cbc1c439a48a548c89a",
             "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/4GXeXPKCR6BRXn6Lxj3X5U"
+            "url": "https:\/\/open.spotify.com\/show\/6SsM1gGP4EIvUuvTLby5pl"
         },
         {
-            "rank": 101,
+            "rank": 86,
+            "spotify_id": "04nkM9KIfpz2NPbEeiQub0",
+            "name": "The Sister Act with Bea and Nica Fabregas ",
+            "publisher": "Bea and Nica Fabregas",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fa6eeeda6f22dc57607a75cbf",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/04nkM9KIfpz2NPbEeiQub0"
+        },
+        {
+            "rank": 87,
+            "spotify_id": "2J5odWwdjgS6tY7dH5nxHl",
+            "name": "Ms. Clar Horror Stories",
+            "publisher": "Fly Catia",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f344745c41f3a864793696599",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/2J5odWwdjgS6tY7dH5nxHl"
+        },
+        {
+            "rank": 88,
+            "spotify_id": "0o0FBJiai9zFXXSnraIusL",
+            "name": "Para Normal Podcast",
+            "publisher": "f90 Productions I TAGM Marketing Solutions Inc.",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f98a1ba3072e10122c6ff99c8",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/0o0FBJiai9zFXXSnraIusL"
+        },
+        {
+            "rank": 89,
+            "spotify_id": "5KHALnw2sHvbF7jqCiYcbQ",
+            "name": "Kilabot - Pinoy Horror Stories",
+            "publisher": "KUYA TOTOY",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f658bedcba30076bbf8311774",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/5KHALnw2sHvbF7jqCiYcbQ"
+        },
+        {
+            "rank": 90,
+            "spotify_id": "5u6ADfznEajUiom8wirz2H",
+            "name": "Ayaw kol, Bata pako kol!",
+            "publisher": "Yumi Pacuri",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f29783c25b8102740fff45336",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/5u6ADfznEajUiom8wirz2H"
+        },
+        {
+            "rank": 91,
+            "spotify_id": "0aeGT7Lnj7N7WSdQP4TaUj",
+            "name": "Kami Ang Inyong Mga... Podcast",
+            "publisher": "Camille Prats, Iya Villania, Suzi Entrata-Abrera",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1ff240fdd26070691c116ace41",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/0aeGT7Lnj7N7WSdQP4TaUj"
+        },
+        {
+            "rank": 92,
             "spotify_id": "3PdMbgohpIr4gP4tjZRo6u",
             "name": "KadaKwento Podcast ",
             "publisher": "Lastrow Media and TAGM Marketing Solutions Inc.",
@@ -916,49 +835,130 @@
             "url": "https:\/\/open.spotify.com\/show\/3PdMbgohpIr4gP4tjZRo6u"
         },
         {
-            "rank": 102,
+            "rank": 93,
+            "spotify_id": "2LgpmgN2gqglVVJwWwuuVN",
+            "name": "Dwards' Playlist",
+            "publisher": "Dwards Ceneta",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fac4b8d538da2ab454b096269",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/2LgpmgN2gqglVVJwWwuuVN"
+        },
+        {
+            "rank": 94,
+            "spotify_id": "7pMmbHG9zmyehTEuPl6D0D",
+            "name": "Let's Talk with Pia Hontiveros",
+            "publisher": "Pia Hontiveros and The Pod Network Entertainment",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fa770465c5205920af9ddd3f2",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/7pMmbHG9zmyehTEuPl6D0D"
+        },
+        {
+            "rank": 95,
+            "spotify_id": "3dnSAifjkJqMc7aFtpXi12",
+            "name": "Petsa De Peligro",
+            "publisher": "Charuth, Poca and UnionDigital Bank",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f5d4ebedcf36a4367b5e14606",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/3dnSAifjkJqMc7aFtpXi12"
+        },
+        {
+            "rank": 96,
+            "spotify_id": "6ll0MwobDt1JW9gYaOONEo",
+            "name": "Think Fast Talk Smart: Communication Techniques",
+            "publisher": "Think Fast Talk Smart",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1feb3cad87ca9039312ea461a5",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/6ll0MwobDt1JW9gYaOONEo"
+        },
+        {
+            "rank": 97,
+            "spotify_id": "4GXeXPKCR6BRXn6Lxj3X5U",
+            "name": "Kumikinang na Tambalan",
+            "publisher": "Tambalang Nicole Hyala and Diego Bandido and The Pod Network",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fa0196e5e7386450e951fe7dc",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/4GXeXPKCR6BRXn6Lxj3X5U"
+        },
+        {
+            "rank": 98,
+            "spotify_id": "3DN8YgsPC2zva7xAyvRmPG",
+            "name": "Punchline with Alex Calleja!",
+            "publisher": "Alex Calleja and The Pod Network",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f2a9be50d662b5402874eda90",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/3DN8YgsPC2zva7xAyvRmPG"
+        },
+        {
+            "rank": 99,
+            "spotify_id": "6CTPNZf8oOSfzGX6r3LQYS",
+            "name": "skypodcast",
+            "publisher": "Kryz and Slater",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fd9f9c7e3375bc4bf70f3f53b",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/6CTPNZf8oOSfzGX6r3LQYS"
+        },
+        {
+            "rank": 100,
             "spotify_id": "0vrfDq4ll8OgCzOqXoDvuQ",
             "name": "The Bo Sanchez Podcast",
             "publisher": "The Abundance Network",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f0f961f5496d738c172c3b3f9",
-            "rank_move": "UP",
+            "rank_move": "UNCHANGED",
             "url": "https:\/\/open.spotify.com\/show\/0vrfDq4ll8OgCzOqXoDvuQ"
         },
         {
-            "rank": 103,
-            "spotify_id": "5rfh5YY0dcz5YMnm7W1aMe",
-            "name": "Almost Honest with Kylie Verzosa",
-            "publisher": "Kylie Verzosa",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f0963de5b0b9219b49959d93b",
+            "rank": 101,
+            "spotify_id": "4y1CSzRqsKhUEYL4sgnn2x",
+            "name": "Tech Joyce Show",
+            "publisher": "Joyce",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f692ecbf4604650e3d1dc4119",
             "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/5rfh5YY0dcz5YMnm7W1aMe"
+            "url": "https:\/\/open.spotify.com\/show\/4y1CSzRqsKhUEYL4sgnn2x"
+        },
+        {
+            "rank": 102,
+            "spotify_id": "1AzNSkk0trnKGMWVe0KAnZ",
+            "name": "Safe Space ASMR",
+            "publisher": "Safe Space ASMR",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f6e9c7bbe509aca6f83a6b8f5",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/1AzNSkk0trnKGMWVe0KAnZ"
+        },
+        {
+            "rank": 103,
+            "spotify_id": "3ta40JnFwGWdOSBmeCFEu8",
+            "name": "My Story Animated",
+            "publisher": "MSA",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f88c53dca58e308739340f546",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/3ta40JnFwGWdOSBmeCFEu8"
         },
         {
             "rank": 104,
-            "spotify_id": "4IckLC8j5EQGiJ7bI5Vo7P",
-            "name": "Talk Sheets with Ice and Liza",
-            "publisher": "Fire and Ice Media",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f13dbc0d9ee1ebdfa9b4cba71",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/4IckLC8j5EQGiJ7bI5Vo7P"
+            "spotify_id": "74HJ8zZXL319wsZX6E2MNQ",
+            "name": "🎧",
+            "publisher": "jd",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f7ca256fe41797198cd95389c",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/74HJ8zZXL319wsZX6E2MNQ"
         },
         {
             "rank": 105,
-            "spotify_id": "6LuZKXJtFgboaEf2IjqkDN",
-            "name": "Deep Dive with Richard Heydarian ",
-            "publisher": "Richard Heydarian ",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f128fc033e004488f9d56cf85",
+            "spotify_id": "12Z1b000vLTzZfnj66XsOz",
+            "name": "ito na ang chika ko!",
+            "publisher": "mawj",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f415a85cac98632d6e8e9d363",
             "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/6LuZKXJtFgboaEf2IjqkDN"
+            "url": "https:\/\/open.spotify.com\/show\/12Z1b000vLTzZfnj66XsOz"
         },
         {
             "rank": 106,
-            "spotify_id": "2CQZ9HFBil0w98Ljoubz7d",
-            "name": "Let's Find Out",
-            "publisher": "Let's Find Out",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f08dae228ecf317e3c3dbe655",
+            "spotify_id": "4NZWQf0wUsaT0tO9unlmra",
+            "name": "MrBallen Podcast: Strange, Dark & Mysterious Stories",
+            "publisher": "Ballen Studios",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f4a3ffa85e5cb4e0eaa90254d",
             "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/2CQZ9HFBil0w98Ljoubz7d"
+            "url": "https:\/\/open.spotify.com\/show\/4NZWQf0wUsaT0tO9unlmra"
         },
         {
             "rank": 107,
@@ -971,24 +971,15 @@
         },
         {
             "rank": 108,
-            "spotify_id": "4ARLhQcACW5tOeim5D4TkS",
-            "name": "DieEm Stories: TAGALOG HORROR STORIES",
-            "publisher": "TAGM Marketing Solutions Inc.",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fd5963a94e0797a50670f6d51",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/4ARLhQcACW5tOeim5D4TkS"
+            "spotify_id": "71wfyZzF7DBZNxUPti8Y2P",
+            "name": "Paano Kung...",
+            "publisher": "Joelle • The Pod Network",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f51cae63713bf7527fc53d6da",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/71wfyZzF7DBZNxUPti8Y2P"
         },
         {
             "rank": 109,
-            "spotify_id": "4NZWQf0wUsaT0tO9unlmra",
-            "name": "MrBallen Podcast: Strange, Dark & Mysterious Stories",
-            "publisher": "Ballen Studios",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f4a3ffa85e5cb4e0eaa90254d",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/4NZWQf0wUsaT0tO9unlmra"
-        },
-        {
-            "rank": 110,
             "spotify_id": "5a3uaPK3vOFbXP4hcFsJRG",
             "name": "Kwentutan Podcast: Pinoy Sex Stories (LGBTQIA+)",
             "publisher": "Kwentutan Podcast",
@@ -997,187 +988,124 @@
             "url": "https:\/\/open.spotify.com\/show\/5a3uaPK3vOFbXP4hcFsJRG"
         },
         {
-            "rank": 111,
-            "spotify_id": "5JKIWvKlNso6hvnV4NrAa7",
-            "name": "Facts First with Christian Esguerra",
-            "publisher": "Christian Esguerra",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f7dd8727e4315ad3d4c5c79a5",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/5JKIWvKlNso6hvnV4NrAa7"
-        },
-        {
-            "rank": 112,
-            "spotify_id": "74HJ8zZXL319wsZX6E2MNQ",
-            "name": "🎧",
-            "publisher": "jd",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f7ca256fe41797198cd95389c",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/74HJ8zZXL319wsZX6E2MNQ"
-        },
-        {
-            "rank": 113,
+            "rank": 110,
             "spotify_id": "2X40qLyoj1wQ2qE5FVpA7x",
             "name": "Distractible",
             "publisher": "Distractible",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f539a05568a66e2798ca3959f",
-            "rank_move": "UNCHANGED",
+            "rank_move": "DOWN",
             "url": "https:\/\/open.spotify.com\/show\/2X40qLyoj1wQ2qE5FVpA7x"
         },
         {
-            "rank": 114,
-            "spotify_id": "5HbRoIhp8nIWCawG99ksOe",
-            "name": "BarangayLS97.5 Podcast",
-            "publisher": "BarangayLS97.5",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f9f11c92163e8e6bb85222e23",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/5HbRoIhp8nIWCawG99ksOe"
-        },
-        {
-            "rank": 115,
-            "spotify_id": "1AzNSkk0trnKGMWVe0KAnZ",
-            "name": "Safe Space ASMR",
-            "publisher": "Safe Space ASMR",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f6e9c7bbe509aca6f83a6b8f5",
+            "rank": 111,
+            "spotify_id": "2CQZ9HFBil0w98Ljoubz7d",
+            "name": "Let's Find Out",
+            "publisher": "Let's Find Out",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f08dae228ecf317e3c3dbe655",
             "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/1AzNSkk0trnKGMWVe0KAnZ"
+            "url": "https:\/\/open.spotify.com\/show\/2CQZ9HFBil0w98Ljoubz7d"
         },
         {
-            "rank": 116,
-            "spotify_id": "6ll0MwobDt1JW9gYaOONEo",
-            "name": "Think Fast Talk Smart: Communication Techniques",
-            "publisher": "Think Fast Talk Smart",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1feb3cad87ca9039312ea461a5",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/6ll0MwobDt1JW9gYaOONEo"
-        },
-        {
-            "rank": 117,
-            "spotify_id": "3U4boRIGjeYs0S9dL69J5C",
-            "name": "Productive Peter",
-            "publisher": "Productive Peter",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fad8cf392098297ec52d9ff84",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/3U4boRIGjeYs0S9dL69J5C"
-        },
-        {
-            "rank": 118,
-            "spotify_id": "6MWunfa6H0AvLew8vu6SN0",
-            "name": "Small Talk! With Alec Cuenca - Motivation & Mindset Podcast",
-            "publisher": "Alec Cuenca and The Pod Network",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1facb0ab3ce697cb327d5cc71b",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/6MWunfa6H0AvLew8vu6SN0"
-        },
-        {
-            "rank": 119,
-            "spotify_id": "7mw8hxTGGyJ7k3ADNcyNZS",
-            "name": "Sleeping Pill with Inka",
-            "publisher": "Inka Magnaye",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f30a4e0b4d576322b9dcf556d",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/7mw8hxTGGyJ7k3ADNcyNZS"
-        },
-        {
-            "rank": 120,
-            "spotify_id": "4PCnVVL2sv31fIKofbgQ7N",
-            "name": "From The Heart with DJ Chacha",
-            "publisher": "DJ Chacha and The Pod Network Entertainment",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f3a4050467d0019994c28f897",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/4PCnVVL2sv31fIKofbgQ7N"
-        },
-        {
-            "rank": 121,
+            "rank": 112,
             "spotify_id": "5F95o6WQg6fCNgauH3vour",
             "name": "Petty POV with Charlotte Dobre",
             "publisher": "Jellysmack",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f003a3d42a37740d2f287141f",
-            "rank_move": "DOWN",
+            "rank_move": "UP",
             "url": "https:\/\/open.spotify.com\/show\/5F95o6WQg6fCNgauH3vour"
         },
         {
-            "rank": 122,
-            "spotify_id": "27oWBmVBgmMaujDeCAXaTN",
-            "name": "Wag Kang Lilingon",
-            "publisher": "Wag Kang Lilingon",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fc6d1f89661f0caf8861c82d2",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/27oWBmVBgmMaujDeCAXaTN"
+            "rank": 113,
+            "spotify_id": "7mw8hxTGGyJ7k3ADNcyNZS",
+            "name": "Sleeping Pill with Inka",
+            "publisher": "Inka Magnaye",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f30a4e0b4d576322b9dcf556d",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/7mw8hxTGGyJ7k3ADNcyNZS"
         },
         {
-            "rank": 123,
-            "spotify_id": "67Pi0JRHoKkTno1YYZlZWW",
-            "name": "24 Oras Podcast",
-            "publisher": "GMA News",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fb03bb3ecd225d19382cbd836",
+            "rank": 114,
+            "spotify_id": "6MWunfa6H0AvLew8vu6SN0",
+            "name": "Small Talk! With Alec Cuenca - Motivation & Mindset Podcast",
+            "publisher": "Alec Cuenca and The Pod Network",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1facb0ab3ce697cb327d5cc71b",
             "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/67Pi0JRHoKkTno1YYZlZWW"
+            "url": "https:\/\/open.spotify.com\/show\/6MWunfa6H0AvLew8vu6SN0"
         },
         {
-            "rank": 124,
+            "rank": 115,
+            "spotify_id": "6GWxVbvQUgRlBM8XuxdzrY",
+            "name": "Ang Podcast ng Mga May Time",
+            "publisher": "Jema Galanza, Ella de Jesus and SportsPlus",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f8952876e9b73b68b8fff42ea",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/6GWxVbvQUgRlBM8XuxdzrY"
+        },
+        {
+            "rank": 116,
+            "spotify_id": "5HbRoIhp8nIWCawG99ksOe",
+            "name": "BarangayLS97.5 Podcast",
+            "publisher": "BarangayLS97.5",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f9f11c92163e8e6bb85222e23",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/5HbRoIhp8nIWCawG99ksOe"
+        },
+        {
+            "rank": 117,
+            "spotify_id": "44jVfIuTiLa8njoCQaJHLa",
+            "name": "Philippine Campfire Stories",
+            "publisher": "Earl Jerico | The Pod Network",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fe2962c9b2682d035e1bccaa5",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/44jVfIuTiLa8njoCQaJHLa"
+        },
+        {
+            "rank": 118,
+            "spotify_id": "1OCwy76XbqBeDy8flYnBCO",
+            "name": "Fastlane with VinFast",
+            "publisher": "James Caraan, Nonong Ballinan and VinFast",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f3a807cc5f731de54b3ffb00e",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/1OCwy76XbqBeDy8flYnBCO"
+        },
+        {
+            "rank": 119,
             "spotify_id": "5yNlMYxXGQTGgEmRRszbI3",
             "name": "DZBB SUMASAPUSO",
             "publisher": "DZBB SUMASAPUSO",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f8bd31768c0caaa11f196d706",
-            "rank_move": "UP",
+            "rank_move": "DOWN",
             "url": "https:\/\/open.spotify.com\/show\/5yNlMYxXGQTGgEmRRszbI3"
         },
         {
-            "rank": 125,
-            "spotify_id": "4nOauTyAgvo2nbvWKf2wYZ",
-            "name": "Dear iFM Stories",
-            "publisher": "Dear iFM",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fba4b38fc2b6a94bc6dbdb0c6",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/4nOauTyAgvo2nbvWKf2wYZ"
-        },
-        {
-            "rank": 126,
+            "rank": 120,
             "spotify_id": "7wIDnmJ41exqZZ5GnsBGDS",
             "name": "Joel Osteen Podcast",
             "publisher": "Joel Osteen, SiriusXM",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fa8935b4e459478e13c12a399",
-            "rank_move": "UP",
+            "rank_move": "DOWN",
             "url": "https:\/\/open.spotify.com\/show\/7wIDnmJ41exqZZ5GnsBGDS"
         },
         {
-            "rank": 127,
-            "spotify_id": "5o8dazxvQt3bdATxWYw3rb",
-            "name": "MEMES",
-            "publisher": "Dan Ayling",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f94fa38a9fdfe0b665b00e07a",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/5o8dazxvQt3bdATxWYw3rb"
-        },
-        {
-            "rank": 128,
-            "spotify_id": "5EqqB52m2bsr4k1Ii7sStc",
-            "name": "On Purpose with Jay Shetty",
-            "publisher": "iHeartPodcasts",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fd9624e2ec50d7c5eb6213d21",
+            "rank": 121,
+            "spotify_id": "79CkJF3UJTHFV8Dse3Oy0P",
+            "name": "Huberman Lab",
+            "publisher": "Scicomm Media",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f66aed32f8066a72781b3b12a",
             "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/5EqqB52m2bsr4k1Ii7sStc"
+            "url": "https:\/\/open.spotify.com\/show\/79CkJF3UJTHFV8Dse3Oy0P"
         },
         {
-            "rank": 129,
-            "spotify_id": "5Oaa8RhY4aiJdGR0q8yjIB",
-            "name": "Our Daily Bread Podcast",
-            "publisher": "Our Daily Bread Ministries",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f4451c1e9072901a4589e37b2",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/5Oaa8RhY4aiJdGR0q8yjIB"
-        },
-        {
-            "rank": 130,
-            "spotify_id": "5p3Ku7r65ixVYvsALJuQeD",
-            "name": "ANO NA, BRO?",
-            "publisher": "Nikki Co, Brent Valdez, Jay Arcilla, Dave Bornea | Blogapalooza Inc. ",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fa443c9e1e68ada096d437ecc",
+            "rank": 122,
+            "spotify_id": "67Pi0JRHoKkTno1YYZlZWW",
+            "name": "24 Oras Podcast",
+            "publisher": "GMA News",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f8f41e93cb8b90443f47de5db",
             "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/5p3Ku7r65ixVYvsALJuQeD"
+            "url": "https:\/\/open.spotify.com\/show\/67Pi0JRHoKkTno1YYZlZWW"
         },
         {
-            "rank": 131,
+            "rank": 123,
             "spotify_id": "5noZj8QvAOYrix1Xuf4WOZ",
             "name": "Boring History for Sleep",
             "publisher": "Velvet",
@@ -1186,43 +1114,88 @@
             "url": "https:\/\/open.spotify.com\/show\/5noZj8QvAOYrix1Xuf4WOZ"
         },
         {
-            "rank": 132,
-            "spotify_id": "79CkJF3UJTHFV8Dse3Oy0P",
-            "name": "Huberman Lab",
-            "publisher": "Scicomm Media",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f66aed32f8066a72781b3b12a",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/79CkJF3UJTHFV8Dse3Oy0P"
+            "rank": 124,
+            "spotify_id": "3JGwCVIKNVOXTtN7Z6MAqW",
+            "name": "Marriage Is A Marathon The Podcast",
+            "publisher": "Anthony and Maricel Laxa-Pangilinan",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f20a320ffcadc831e2e14fafc",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/3JGwCVIKNVOXTtN7Z6MAqW"
         },
         {
-            "rank": 133,
-            "spotify_id": "0N1rPShffaGyysUB26pMcz",
-            "name": "Jez Juarez",
-            "publisher": "Jez Juarez",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f741430b25db9167bb404d81f",
+            "rank": 125,
+            "spotify_id": "5Oaa8RhY4aiJdGR0q8yjIB",
+            "name": "Our Daily Bread Podcast",
+            "publisher": "Our Daily Bread Ministries",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f4451c1e9072901a4589e37b2",
             "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/0N1rPShffaGyysUB26pMcz"
+            "url": "https:\/\/open.spotify.com\/show\/5Oaa8RhY4aiJdGR0q8yjIB"
         },
         {
-            "rank": 134,
-            "spotify_id": "12Z1b000vLTzZfnj66XsOz",
-            "name": "ito na ang chika ko!",
-            "publisher": "mawj",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f415a85cac98632d6e8e9d363",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/12Z1b000vLTzZfnj66XsOz"
+            "rank": 126,
+            "spotify_id": "3gaGfrqgnVqUBNDdtv5p3S",
+            "name": "Bad Friends",
+            "publisher": "Bobby Lee & Andrew Santino",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f1ce7e49f13f4dff4d802ec6f",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/3gaGfrqgnVqUBNDdtv5p3S"
         },
         {
-            "rank": 135,
+            "rank": 127,
+            "spotify_id": "6lSILJptYnURIfpGoUZWyd",
+            "name": "Ate Tips",
+            "publisher": "River | TAGM Marketing Solutions Inc. ",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fce1ed8382317294ade73cbc9",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/6lSILJptYnURIfpGoUZWyd"
+        },
+        {
+            "rank": 128,
+            "spotify_id": "5o8dazxvQt3bdATxWYw3rb",
+            "name": "MEMES",
+            "publisher": "Dan Ayling",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f94fa38a9fdfe0b665b00e07a",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/5o8dazxvQt3bdATxWYw3rb"
+        },
+        {
+            "rank": 129,
+            "spotify_id": "3L0xoKGY64clTVZpQAlcOf",
+            "name": "Chino on Deck",
+            "publisher": "Tita Krissy Achino",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f6e15959369a0f3b789ef1ecb",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/3L0xoKGY64clTVZpQAlcOf"
+        },
+        {
+            "rank": 130,
             "spotify_id": "1kPn8fZuNEOjP81dsUcjNc",
             "name": "Ang Ninuno: Pinoy Horror Podcast",
             "publisher": "JD San Juan and TAGM Marketing Solutions Inc.",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f59368da806ce840eef508cd7",
-            "rank_move": "UNCHANGED",
+            "rank_move": "UP",
             "url": "https:\/\/open.spotify.com\/show\/1kPn8fZuNEOjP81dsUcjNc"
         },
         {
-            "rank": 136,
+            "rank": 131,
+            "spotify_id": "033unHiEVXXKeDahRQ66BT",
+            "name": "Takot Tonight | Tagalog Horror Stories",
+            "publisher": "ERV Media",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f355fb8a61e77f97ebd971926",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/033unHiEVXXKeDahRQ66BT"
+        },
+        {
+            "rank": 132,
+            "spotify_id": "6aakHkxjdrrptbcJ7ICxjQ",
+            "name": "SoundEffectPodcast",
+            "publisher": "Mr.Sound",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fa29f38609c85ee4b5fa8a1f0",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/6aakHkxjdrrptbcJ7ICxjQ"
+        },
+        {
+            "rank": 133,
             "spotify_id": "2RwK9WzEU5TSZlhyH4vVOo",
             "name": "Tagalog Audio Bible - MBB Dramatized",
             "publisher": "Jon",
@@ -1231,7 +1204,16 @@
             "url": "https:\/\/open.spotify.com\/show\/2RwK9WzEU5TSZlhyH4vVOo"
         },
         {
-            "rank": 137,
+            "rank": 134,
+            "spotify_id": "27oWBmVBgmMaujDeCAXaTN",
+            "name": "Wag Kang Lilingon",
+            "publisher": "Wag Kang Lilingon",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fc6d1f89661f0caf8861c82d2",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/27oWBmVBgmMaujDeCAXaTN"
+        },
+        {
+            "rank": 135,
             "spotify_id": "5Uka7ChK4yjuHdPtNf1k5t",
             "name": "Hugot Marcelo",
             "publisher": "Spotify Studios",
@@ -1240,79 +1222,61 @@
             "url": "https:\/\/open.spotify.com\/show\/5Uka7ChK4yjuHdPtNf1k5t"
         },
         {
-            "rank": 138,
-            "spotify_id": "1xqLXFtB2nzUpm7lgGfyzX",
-            "name": "Bad B*tch Bible",
-            "publisher": "Killa Kush",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fa5025149a33c6302a1b21b89",
+            "rank": 136,
+            "spotify_id": "3nZEeTPQnPMYelBzNDOBCX",
+            "name": "SLOW ENGLISH PODCAST (A1-A2) With Subtitles | Daily Videos | English With Us Podcast",
+            "publisher": "English With Us Podcast",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fba9c87c07a22244820e9933c",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/3nZEeTPQnPMYelBzNDOBCX"
+        },
+        {
+            "rank": 137,
+            "spotify_id": "6N6KqZOQeu7srMoEzSjNj2",
+            "name": "BigDeal",
+            "publisher": "Codie Sanchez",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f90aad320fdc5fb68aca0ddb9",
             "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/1xqLXFtB2nzUpm7lgGfyzX"
+            "url": "https:\/\/open.spotify.com\/show\/6N6KqZOQeu7srMoEzSjNj2"
+        },
+        {
+            "rank": 138,
+            "spotify_id": "0N1rPShffaGyysUB26pMcz",
+            "name": "Jez Juarez",
+            "publisher": "Jez Juarez",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f741430b25db9167bb404d81f",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/0N1rPShffaGyysUB26pMcz"
         },
         {
             "rank": 139,
-            "spotify_id": "08WHleYpmBVjCu1sbgTaFn",
-            "name": "Panaghoy: Mga Kwentong Kababalaghang Nakaukit Sa Kasaysayan",
-            "publisher": "PodHub",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fb52d4c765aa64761c342c942",
+            "spotify_id": "6U6zYXkyjlaq3PkCXzNk2U",
+            "name": "soundbuttonsspace",
+            "publisher": "soundbuttonsspace",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f30f98342e962f5a11c97e812",
             "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/08WHleYpmBVjCu1sbgTaFn"
+            "url": "https:\/\/open.spotify.com\/show\/6U6zYXkyjlaq3PkCXzNk2U"
         },
         {
             "rank": 140,
-            "spotify_id": "4EnAzuR4gnjEyGUYic70Qy",
-            "name": "Your World Within Podcast by Eddie Pinero",
-            "publisher": "Eddie Pinero",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fc24675fe8ff21cb72b87b05a",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/4EnAzuR4gnjEyGUYic70Qy"
+            "spotify_id": "5G6iyEWlghxyAJAXtEvxmB",
+            "name": "Public Speaking Foundations",
+            "publisher": "vinhgiang",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f3b59e3ba98ae4c916ae658ce",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/5G6iyEWlghxyAJAXtEvxmB"
         },
         {
             "rank": 141,
-            "spotify_id": "3JGwCVIKNVOXTtN7Z6MAqW",
-            "name": "Marriage Is A Marathon The Podcast",
-            "publisher": "Anthony and Maricel Laxa-Pangilinan",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f20a320ffcadc831e2e14fafc",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/3JGwCVIKNVOXTtN7Z6MAqW"
+            "spotify_id": "49WGE9NtHNulzcTaZKb8JZ",
+            "name": "Jordan & Salish Matter",
+            "publisher": "Jordan Matter",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fb888507a30509aaf6f002472",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/49WGE9NtHNulzcTaZKb8JZ"
         },
         {
             "rank": 142,
-            "spotify_id": "6GWxVbvQUgRlBM8XuxdzrY",
-            "name": "Ang Podcast ng Mga May Time",
-            "publisher": "Jema Galanza, Ella de Jesus and SportsPlus",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f8952876e9b73b68b8fff42ea",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/6GWxVbvQUgRlBM8XuxdzrY"
-        },
-        {
-            "rank": 143,
-            "spotify_id": "2BZlFDJAOO8ikKTP9zd5VR",
-            "name": "Bugoy na Koykoy Podcast",
-            "publisher": "Bugoy na Koykoy",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f91285f11ac5f5301d1fde65e",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/2BZlFDJAOO8ikKTP9zd5VR"
-        },
-        {
-            "rank": 144,
-            "spotify_id": "761cD7EB31RF5SzUPvkkG4",
-            "name": "The Linya-Linya Show",
-            "publisher": "Ali Sangalang and Linya-Linya | The Pod Network",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f9b1e8984fae85c20e3d0307e",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/761cD7EB31RF5SzUPvkkG4"
-        },
-        {
-            "rank": 145,
-            "spotify_id": "3gaGfrqgnVqUBNDdtv5p3S",
-            "name": "Bad Friends",
-            "publisher": "Bobby Lee & Andrew Santino",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f1ce7e49f13f4dff4d802ec6f",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/3gaGfrqgnVqUBNDdtv5p3S"
-        },
-        {
-            "rank": 146,
             "spotify_id": "5wMrRfUqJcFxSVt6IDiI8T",
             "name": "MSA previously My Story Animated",
             "publisher": "MSA Official",
@@ -1321,79 +1285,52 @@
             "url": "https:\/\/open.spotify.com\/show\/5wMrRfUqJcFxSVt6IDiI8T"
         },
         {
-            "rank": 147,
-            "spotify_id": "6ie2ywivlNvFCO8LLJYgo7",
-            "name": "LYSS",
-            "publisher": "Lyss Boss",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f4fd5ef57b579888a67613c45",
+            "rank": 143,
+            "spotify_id": "4HiGqgvgRCf8aoYEm42cRz",
+            "name": "the prestonrack show",
+            "publisher": "preston rakovsky",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f96a7e1cf5569f1016a251b01",
             "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/6ie2ywivlNvFCO8LLJYgo7"
+            "url": "https:\/\/open.spotify.com\/show\/4HiGqgvgRCf8aoYEm42cRz"
         },
         {
-            "rank": 148,
-            "spotify_id": "6aakHkxjdrrptbcJ7ICxjQ",
-            "name": "SoundEffectPodcast",
-            "publisher": "Mr.Sound",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fa29f38609c85ee4b5fa8a1f0",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/6aakHkxjdrrptbcJ7ICxjQ"
+            "rank": 144,
+            "spotify_id": "4nOauTyAgvo2nbvWKf2wYZ",
+            "name": "Dear iFM Stories",
+            "publisher": "Dear iFM",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fba4b38fc2b6a94bc6dbdb0c6",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/4nOauTyAgvo2nbvWKf2wYZ"
         },
         {
-            "rank": 149,
-            "spotify_id": "1JTzeUuNEdpGtSxSHVHUTu",
-            "name": "Ebook Intruder",
-            "publisher": "Eli San",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fdaf4deabb3d0e927f21b5f7a",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/1JTzeUuNEdpGtSxSHVHUTu"
+            "rank": 145,
+            "spotify_id": "2BZlFDJAOO8ikKTP9zd5VR",
+            "name": "Bugoy na Koykoy Podcast",
+            "publisher": "Bugoy na Koykoy",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f91285f11ac5f5301d1fde65e",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/2BZlFDJAOO8ikKTP9zd5VR"
         },
         {
-            "rank": 150,
-            "spotify_id": "6Ck5d2f1hIaDnfw0rm57AG",
-            "name": "Jojo’s ASMR",
-            "publisher": "Jonah",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f99a0e932021a957f214e58c0",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/6Ck5d2f1hIaDnfw0rm57AG"
-        },
-        {
-            "rank": 151,
+            "rank": 146,
             "spotify_id": "7jLhx6QsVyfI7piAdvUxC0",
             "name": "KC After Hours",
             "publisher": "KC After Hours",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f798385f5f6818e7444173c29",
-            "rank_move": "DOWN",
+            "rank_move": "UNCHANGED",
             "url": "https:\/\/open.spotify.com\/show\/7jLhx6QsVyfI7piAdvUxC0"
         },
         {
-            "rank": 152,
-            "spotify_id": "4HiGqgvgRCf8aoYEm42cRz",
-            "name": "Proof of Life with Preston Rakovsky",
-            "publisher": "Preston Rakovsky",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fac7f71babaade1509aa70228",
+            "rank": 147,
+            "spotify_id": "07SjDmKb9iliEzpNcN2xGD",
+            "name": "The Bill Simmons Podcast",
+            "publisher": "The Ringer",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fff1473cef0b2a86cab106bb8",
             "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/4HiGqgvgRCf8aoYEm42cRz"
+            "url": "https:\/\/open.spotify.com\/show\/07SjDmKb9iliEzpNcN2xGD"
         },
         {
-            "rank": 153,
-            "spotify_id": "3zHXStr6nZ6BkeXrCrM7YW",
-            "name": " Motivation by King The Beasts",
-            "publisher": "King The Beasts",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fc86fa04282905ef83ff6a79c",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/3zHXStr6nZ6BkeXrCrM7YW"
-        },
-        {
-            "rank": 154,
-            "spotify_id": "3u26tlz7A3WyWRtXliX9a9",
-            "name": "Conan O’Brien Needs A Friend",
-            "publisher": "Team Coco & Earwolf",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fe90acc085b4cb4c0cecf811a",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/3u26tlz7A3WyWRtXliX9a9"
-        },
-        {
-            "rank": 155,
+            "rank": 148,
             "spotify_id": "0AaF12PNdOqSPfcTxriSob",
             "name": "Umagang Kay Gogna",
             "publisher": "Arun and Lallaine Gogna",
@@ -1402,31 +1339,94 @@
             "url": "https:\/\/open.spotify.com\/show\/0AaF12PNdOqSPfcTxriSob"
         },
         {
-            "rank": 156,
-            "spotify_id": "07SjDmKb9iliEzpNcN2xGD",
-            "name": "The Bill Simmons Podcast",
-            "publisher": "The Ringer",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fff1473cef0b2a86cab106bb8",
+            "rank": 149,
+            "spotify_id": "2HGcJRYrjGnpce6bRp8UXm",
+            "name": "The Psychology of your 20s",
+            "publisher": "iHeartPodcasts",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f762eefbfe1e5eefd3a0793b8",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/2HGcJRYrjGnpce6bRp8UXm"
+        },
+        {
+            "rank": 150,
+            "spotify_id": "4PCnVVL2sv31fIKofbgQ7N",
+            "name": "From The Heart with DJ Chacha",
+            "publisher": "DJ Chacha and The Pod Network Entertainment",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f3a4050467d0019994c28f897",
             "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/07SjDmKb9iliEzpNcN2xGD"
+            "url": "https:\/\/open.spotify.com\/show\/4PCnVVL2sv31fIKofbgQ7N"
+        },
+        {
+            "rank": 151,
+            "spotify_id": "5EqqB52m2bsr4k1Ii7sStc",
+            "name": "On Purpose with Jay Shetty",
+            "publisher": "iHeartPodcasts",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fd9624e2ec50d7c5eb6213d21",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/5EqqB52m2bsr4k1Ii7sStc"
+        },
+        {
+            "rank": 152,
+            "spotify_id": "3u26tlz7A3WyWRtXliX9a9",
+            "name": "Conan O’Brien Needs A Friend",
+            "publisher": "Team Coco & Earwolf",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fe90acc085b4cb4c0cecf811a",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/3u26tlz7A3WyWRtXliX9a9"
+        },
+        {
+            "rank": 153,
+            "spotify_id": "5XVeCrTa46bC1Vnruy9cDa",
+            "name": "Beauty and the Beasts",
+            "publisher": "Megan Lee",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f97219b3d0d5038bb025d8360",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/5XVeCrTa46bC1Vnruy9cDa"
+        },
+        {
+            "rank": 154,
+            "spotify_id": "6Ck5d2f1hIaDnfw0rm57AG",
+            "name": "Jojo’s ASMR",
+            "publisher": "Jonah",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f99a0e932021a957f214e58c0",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/6Ck5d2f1hIaDnfw0rm57AG"
+        },
+        {
+            "rank": 155,
+            "spotify_id": "0EwDk36KVbO6d6Rbjacf4Z",
+            "name": "Billions Club: The Series",
+            "publisher": "Spotify",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f467ed87c8b7ed76d7d990ca8",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/0EwDk36KVbO6d6Rbjacf4Z"
+        },
+        {
+            "rank": 156,
+            "spotify_id": "0ap4yuufxHppjcG7kbXQhx",
+            "name": "Horror Stories",
+            "publisher": "Horror Stories",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f0819301ebaca7722ffb65822",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/0ap4yuufxHppjcG7kbXQhx"
         },
         {
             "rank": 157,
-            "spotify_id": "3ta40JnFwGWdOSBmeCFEu8",
-            "name": "My Story Animated",
-            "publisher": "MSA",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f88c53dca58e308739340f546",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/3ta40JnFwGWdOSBmeCFEu8"
+            "spotify_id": "1JTzeUuNEdpGtSxSHVHUTu",
+            "name": "Ebook Intruder",
+            "publisher": "Eli San",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fdaf4deabb3d0e927f21b5f7a",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/1JTzeUuNEdpGtSxSHVHUTu"
         },
         {
             "rank": 158,
-            "spotify_id": "4QVEjbciIH0aHidOPYLGIL",
-            "name": "Victory Devotional Podcast",
-            "publisher": "VictoryPH",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fcbf756f5632364a5801289fb",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/4QVEjbciIH0aHidOPYLGIL"
+            "spotify_id": "08WHleYpmBVjCu1sbgTaFn",
+            "name": "Panaghoy: Mga Kwentong Kababalaghang Nakaukit Sa Kasaysayan",
+            "publisher": "PodHub",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fb52d4c765aa64761c342c942",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/08WHleYpmBVjCu1sbgTaFn"
         },
         {
             "rank": 159,
@@ -1439,87 +1439,33 @@
         },
         {
             "rank": 160,
-            "spotify_id": "5G6iyEWlghxyAJAXtEvxmB",
-            "name": "Public Speaking Foundations",
-            "publisher": "vinhgiang",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f3b59e3ba98ae4c916ae658ce",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/5G6iyEWlghxyAJAXtEvxmB"
+            "spotify_id": "40JctXtJV84cJDotK9Ey4N",
+            "name": "Do You Think? with Tiyo Bri",
+            "publisher": "Do You Think? with Tiyo Bri",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f3afc06962204a276fa79c9f3",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/40JctXtJV84cJDotK9Ey4N"
         },
         {
             "rank": 161,
-            "spotify_id": "5XVeCrTa46bC1Vnruy9cDa",
-            "name": "Beauty and the Beasts",
-            "publisher": "Megan Lee",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f97219b3d0d5038bb025d8360",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/5XVeCrTa46bC1Vnruy9cDa"
+            "spotify_id": "0lIKuAd6wt0H44Y3GFyAjb",
+            "name": "Medyo Seryosong Podcast",
+            "publisher": "Gianne Hinolan",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1ff384b05f055252b697043de5",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/0lIKuAd6wt0H44Y3GFyAjb"
         },
         {
             "rank": 162,
-            "spotify_id": "3kroELLa6eW5YeqdUZ6Ayu",
-            "name": "Whispersoft",
-            "publisher": "Bret Wellman",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fd282c939b69cd49023cd4702",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/3kroELLa6eW5YeqdUZ6Ayu"
+            "spotify_id": "383SYFKEios7ARBxCCUY8L",
+            "name": "Stoic Lessons",
+            "publisher": "Stoic Lessons",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f2482dff654a14351f8dab7ff",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/383SYFKEios7ARBxCCUY8L"
         },
         {
             "rank": 163,
-            "spotify_id": "60NOyNp54p8sm7FfaoJIur",
-            "name": "OnlyFun with Chico and Gino | The Pod Network",
-            "publisher": "Chico and Gino • The Pod Network",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fc163fc6e734df976bfc2d20b",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/60NOyNp54p8sm7FfaoJIur"
-        },
-        {
-            "rank": 164,
-            "spotify_id": "0iNDJza94aM1B29FQJVFIk",
-            "name": "Innerity Podcast",
-            "publisher": "Janis Stunga",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f6bd2fcc4b90f658e3e23c39a",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/0iNDJza94aM1B29FQJVFIk"
-        },
-        {
-            "rank": 165,
-            "spotify_id": "2HGcJRYrjGnpce6bRp8UXm",
-            "name": "The Psychology of your 20s",
-            "publisher": "iHeartPodcasts",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f762eefbfe1e5eefd3a0793b8",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/2HGcJRYrjGnpce6bRp8UXm"
-        },
-        {
-            "rank": 166,
-            "spotify_id": "1OCwy76XbqBeDy8flYnBCO",
-            "name": "Fastlane with VinFast",
-            "publisher": "James Caraan, Nonong Ballinan and VinFast",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f3a807cc5f731de54b3ffb00e",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/1OCwy76XbqBeDy8flYnBCO"
-        },
-        {
-            "rank": 167,
-            "spotify_id": "0DkkFc0dSl0DWBgyy0h0o7",
-            "name": "A Rosary Companion",
-            "publisher": "The Communion of Saints",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f7cd52705c571dc794652df85",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/0DkkFc0dSl0DWBgyy0h0o7"
-        },
-        {
-            "rank": 168,
-            "spotify_id": "7wp5O19aTcfkHin5Bb4NNz",
-            "name": "Success Addicted - Motivational Speeches",
-            "publisher": "Success Addicted",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1ffa9f19ebed852c54e2277460",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/7wp5O19aTcfkHin5Bb4NNz"
-        },
-        {
-            "rank": 169,
             "spotify_id": "0NIJ30ZpS2BY8UTATXMwwx",
             "name": "Machong Chismisan",
             "publisher": "Machong Chismisan and The Pod Network",
@@ -1528,115 +1474,88 @@
             "url": "https:\/\/open.spotify.com\/show\/0NIJ30ZpS2BY8UTATXMwwx"
         },
         {
-            "rank": 170,
-            "spotify_id": "0ap4yuufxHppjcG7kbXQhx",
-            "name": "Horror Stories",
-            "publisher": "Horror Stories",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f0819301ebaca7722ffb65822",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/0ap4yuufxHppjcG7kbXQhx"
-        },
-        {
-            "rank": 171,
-            "spotify_id": "7ygbT9xptRm15NInL1ktEd",
-            "name": "Boiling Waters PH",
-            "publisher": "Boiling Waters PH",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fcd0ef857d10b3402a1c50272",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/7ygbT9xptRm15NInL1ktEd"
-        },
-        {
-            "rank": 172,
-            "spotify_id": "5MzknKTWuk9s1xlnvFuGak",
-            "name": "Everyday English Academy",
-            "publisher": "Everyday English Academy",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f9bb2451aec0ffc58fb7551b6",
+            "rank": 164,
+            "spotify_id": "3zHXStr6nZ6BkeXrCrM7YW",
+            "name": " Motivation by King The Beasts",
+            "publisher": "King The Beasts",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fc86fa04282905ef83ff6a79c",
             "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/5MzknKTWuk9s1xlnvFuGak"
+            "url": "https:\/\/open.spotify.com\/show\/3zHXStr6nZ6BkeXrCrM7YW"
         },
         {
-            "rank": 173,
-            "spotify_id": "0bYkBpWrkqU42rzYR6o0ri",
-            "name": "Classic Audiobook Collection",
-            "publisher": "Classic Audiobook Collection LLC",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1ffdea43e96811b9f0408b9517",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/0bYkBpWrkqU42rzYR6o0ri"
-        },
-        {
-            "rank": 174,
+            "rank": 165,
             "spotify_id": "68yjaO4pghrLGWd9VeGg9I",
             "name": "Ed Lapiz",
             "publisher": "Ed Lapiz",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fe0a78a8c43249cb3cee79898",
-            "rank_move": "UP",
+            "rank_move": "DOWN",
             "url": "https:\/\/open.spotify.com\/show\/68yjaO4pghrLGWd9VeGg9I"
         },
         {
-            "rank": 175,
-            "spotify_id": "033uD8AJRTF7cogr0i4Tug",
-            "name": "HeartsPod",
-            "publisher": "Hearts2Hearts",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f9abf7cb2946741df1ab3961a",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/033uD8AJRTF7cogr0i4Tug"
-        },
-        {
-            "rank": 176,
-            "spotify_id": "7nsEse7Qm07RMto0P1ypRP",
-            "name": "Unsa’y Cheka Sa Parlor",
-            "publisher": "Lyle Go and Shaneee | TAGM Marketing Solutions Inc.",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f05bb32e39dcf104b8ff123b4",
+            "rank": 166,
+            "spotify_id": "6LuZKXJtFgboaEf2IjqkDN",
+            "name": "Deep Dive with Richard Heydarian ",
+            "publisher": "Richard Heydarian ",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f128fc033e004488f9d56cf85",
             "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/7nsEse7Qm07RMto0P1ypRP"
+            "url": "https:\/\/open.spotify.com\/show\/6LuZKXJtFgboaEf2IjqkDN"
         },
         {
-            "rank": 177,
-            "spotify_id": "696emFDcbZ6SJWcOMT6Gem",
-            "name": "Trust Me Bro",
-            "publisher": "Trust Me Bro",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fdad2c0cece58fb294d0de8fd",
+            "rank": 167,
+            "spotify_id": "4QVEjbciIH0aHidOPYLGIL",
+            "name": "Victory Devotional Podcast",
+            "publisher": "VictoryPH",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fcbf756f5632364a5801289fb",
             "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/696emFDcbZ6SJWcOMT6Gem"
+            "url": "https:\/\/open.spotify.com\/show\/4QVEjbciIH0aHidOPYLGIL"
         },
         {
-            "rank": 178,
-            "spotify_id": "2XHFo2TJOnajlzVY9IVV2n",
-            "name": "Wake Up With Jim and Saab",
-            "publisher": "Jim and Saab | The Pod Network",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fad20b7d0e71bf2a8881913bb",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/2XHFo2TJOnajlzVY9IVV2n"
-        },
-        {
-            "rank": 179,
-            "spotify_id": "383SYFKEios7ARBxCCUY8L",
-            "name": "Stoic Lessons",
-            "publisher": "Stoic Lessons",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f2482dff654a14351f8dab7ff",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/383SYFKEios7ARBxCCUY8L"
-        },
-        {
-            "rank": 180,
-            "spotify_id": "0wjYlCNxLDgFUUjZMaP6Dx",
-            "name": "A Bit of Optimism",
-            "publisher": "The Optimism Company from Simon Sinek",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f886f282ed75375faff7e9cb4",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/0wjYlCNxLDgFUUjZMaP6Dx"
-        },
-        {
-            "rank": 181,
-            "spotify_id": "0XrOqvxlqQI6bmdYHuIVnr",
-            "name": "Modern Wisdom",
-            "publisher": "Chris Williamson",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fc27a8d722b0ba5ca0f788f35",
+            "rank": 168,
+            "spotify_id": "7wp5O19aTcfkHin5Bb4NNz",
+            "name": "Success Addicted - Motivational Speeches",
+            "publisher": "Success Addicted",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1ffa9f19ebed852c54e2277460",
             "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/0XrOqvxlqQI6bmdYHuIVnr"
+            "url": "https:\/\/open.spotify.com\/show\/7wp5O19aTcfkHin5Bb4NNz"
         },
         {
-            "rank": 182,
+            "rank": 169,
+            "spotify_id": "0DkkFc0dSl0DWBgyy0h0o7",
+            "name": "A Rosary Companion",
+            "publisher": "The Communion of Saints",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f7cd52705c571dc794652df85",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/0DkkFc0dSl0DWBgyy0h0o7"
+        },
+        {
+            "rank": 170,
+            "spotify_id": "0iNDJza94aM1B29FQJVFIk",
+            "name": "Innerity Podcast",
+            "publisher": "Janis Stunga",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f6bd2fcc4b90f658e3e23c39a",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/0iNDJza94aM1B29FQJVFIk"
+        },
+        {
+            "rank": 171,
+            "spotify_id": "60NOyNp54p8sm7FfaoJIur",
+            "name": "OnlyFun with Chico and Gino | The Pod Network",
+            "publisher": "Chico and Gino • The Pod Network",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fc163fc6e734df976bfc2d20b",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/60NOyNp54p8sm7FfaoJIur"
+        },
+        {
+            "rank": 172,
+            "spotify_id": "6YYVGJ6cNkyOmlKrRvFOxD",
+            "name": "The Clout Chasers Podcast",
+            "publisher": "The Clout Chasers Podcast",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f861a689b9492cd1138600856",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/6YYVGJ6cNkyOmlKrRvFOxD"
+        },
+        {
+            "rank": 173,
             "spotify_id": "3Xe6IZBxN5vdBBN2a8HRZK",
             "name": "WATERSIDE MINISTRIES ",
             "publisher": "Pastor Ernest Booysen",
@@ -1645,79 +1564,25 @@
             "url": "https:\/\/open.spotify.com\/show\/3Xe6IZBxN5vdBBN2a8HRZK"
         },
         {
-            "rank": 183,
-            "spotify_id": "2QDQf7ngO9IMZVJyKw5YJH",
-            "name": "TitamaX",
-            "publisher": "MBC Digital",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fa2e7f8c5f77e309121ef2dc6",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/2QDQf7ngO9IMZVJyKw5YJH"
-        },
-        {
-            "rank": 184,
-            "spotify_id": "0X2iQMxdDI0Xt9aghHN3qN",
-            "name": "Tigidong - Imelda Marcos (ai cover)",
-            "publisher": "sei",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fc762402538dfc6c1759ab95c",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/0X2iQMxdDI0Xt9aghHN3qN"
-        },
-        {
-            "rank": 185,
-            "spotify_id": "69Jm0pfRlpnaBDaioynNaX",
-            "name": "A Zen Mind Guided Meditations",
-            "publisher": "Jo Rose | A Zen Mind",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fcf4f47f55fd6d566cbc3b0b5",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/69Jm0pfRlpnaBDaioynNaX"
-        },
-        {
-            "rank": 186,
-            "spotify_id": "50xJKxraw7LwLJy2Rervp9",
-            "name": "Motivation Daily by Motiversity",
-            "publisher": "Motiversity",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f132579598f5357289e616768",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/50xJKxraw7LwLJy2Rervp9"
-        },
-        {
-            "rank": 187,
-            "spotify_id": "3qPhnsmbBAFT65R8RMcuUU",
-            "name": "Ikaw Pala Yun ",
-            "publisher": "Sam YG and Tin Gamboa, The Pod Network Entertainment",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1ff1061c88c22b667b4ff7587a",
+            "rank": 174,
+            "spotify_id": "4EnAzuR4gnjEyGUYic70Qy",
+            "name": "Your World Within Podcast by Eddie Pinero",
+            "publisher": "Eddie Pinero",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fc24675fe8ff21cb72b87b05a",
             "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/3qPhnsmbBAFT65R8RMcuUU"
+            "url": "https:\/\/open.spotify.com\/show\/4EnAzuR4gnjEyGUYic70Qy"
         },
         {
-            "rank": 188,
-            "spotify_id": "5XT5lbnmEzXOj6Bcsb2Ivk",
-            "name": "Ten Minute Bible Talks Devotional Bible Study",
-            "publisher": "Ten Minute Bible Talks",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fcf005ee6d1fc4411861e7fcc",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/5XT5lbnmEzXOj6Bcsb2Ivk"
+            "rank": 175,
+            "spotify_id": "2GCl5fidLsbOtV5OQXz0UC",
+            "name": "Landian with Dani",
+            "publisher": "DANI B",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f07f2777f29e9c19489cf30b9",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/2GCl5fidLsbOtV5OQXz0UC"
         },
         {
-            "rank": 189,
-            "spotify_id": "2nwTCXsOatbCzRRtvZgULZ",
-            "name": "Bedtime Stories for Kids|Good Night Tales|Stories of New Beginnings",
-            "publisher": "BabyBus",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fe67468cef2e5131f1316815e",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/2nwTCXsOatbCzRRtvZgULZ"
-        },
-        {
-            "rank": 190,
-            "spotify_id": "0GZRC4FPfnXk4uOC1C5U55",
-            "name": "Reddit Stories",
-            "publisher": "Reddit Podcasts",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f8e2c83bae3d12cbdd70faeb4",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/0GZRC4FPfnXk4uOC1C5U55"
-        },
-        {
-            "rank": 191,
+            "rank": 176,
             "spotify_id": "1z20EiwuKoDiftKxMVLde1",
             "name": "Good Hang with Amy Poehler",
             "publisher": "The Ringer",
@@ -1726,7 +1591,7 @@
             "url": "https:\/\/open.spotify.com\/show\/1z20EiwuKoDiftKxMVLde1"
         },
         {
-            "rank": 192,
+            "rank": 177,
             "spotify_id": "2wOfph0ir3aNNqMWk7vHbC",
             "name": "Sex, Love, and Relationships with Chico Martin",
             "publisher": "MOR Entertainment",
@@ -1735,58 +1600,193 @@
             "url": "https:\/\/open.spotify.com\/show\/2wOfph0ir3aNNqMWk7vHbC"
         },
         {
-            "rank": 193,
-            "spotify_id": "6lSILJptYnURIfpGoUZWyd",
-            "name": "Ate Tips",
-            "publisher": "River | TAGM Marketing Solutions Inc. ",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fce1ed8382317294ade73cbc9",
+            "rank": 178,
+            "spotify_id": "3kroELLa6eW5YeqdUZ6Ayu",
+            "name": "Whispersoft",
+            "publisher": "Bret Wellman",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fd282c939b69cd49023cd4702",
             "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/6lSILJptYnURIfpGoUZWyd"
+            "url": "https:\/\/open.spotify.com\/show\/3kroELLa6eW5YeqdUZ6Ayu"
         },
         {
-            "rank": 194,
-            "spotify_id": "3DgfoleqaW61T2amZQKINx",
-            "name": "Crime Junkie",
-            "publisher": "Audiochuck",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fbe2cc3efd92b817b54d9bcb2",
+            "rank": 179,
+            "spotify_id": "5IBaSO1pARjlWcozsjiEM9",
+            "name": "𝑨𝒛𝒆𝒓𝒖'𝒔 𝑨𝒖𝒅𝒊𝒐𝒔 𖹭",
+            "publisher": "ɴᴇᴋᴋᴏ",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f50277e08698d72b90cf4839b",
             "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/3DgfoleqaW61T2amZQKINx"
+            "url": "https:\/\/open.spotify.com\/show\/5IBaSO1pARjlWcozsjiEM9"
         },
         {
-            "rank": 195,
+            "rank": 180,
+            "spotify_id": "0X2iQMxdDI0Xt9aghHN3qN",
+            "name": "Tigidong - Imelda Marcos (ai cover)",
+            "publisher": "sei",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fc762402538dfc6c1759ab95c",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/0X2iQMxdDI0Xt9aghHN3qN"
+        },
+        {
+            "rank": 181,
+            "spotify_id": "696emFDcbZ6SJWcOMT6Gem",
+            "name": "Trust Me Bro",
+            "publisher": "Trust Me Bro",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fdad2c0cece58fb294d0de8fd",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/696emFDcbZ6SJWcOMT6Gem"
+        },
+        {
+            "rank": 182,
+            "spotify_id": "0bYkBpWrkqU42rzYR6o0ri",
+            "name": "Classic Audiobook Collection",
+            "publisher": "Classic Audiobook Collection LLC",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1ffdea43e96811b9f0408b9517",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/0bYkBpWrkqU42rzYR6o0ri"
+        },
+        {
+            "rank": 183,
+            "spotify_id": "77IkRlNWi5kswN1Kjvfw3K",
+            "name": "Staying Afloat with Vj and Camille",
+            "publisher": "Vj and Camille Yambao",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f77c01799a565123fdf9c18aa",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/77IkRlNWi5kswN1Kjvfw3K"
+        },
+        {
+            "rank": 184,
+            "spotify_id": "718TKN0xDHXW3yvObGIlXz",
+            "name": "Pareng Hayb Studios",
+            "publisher": "Pareng Hayb Studios",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f72cc29b376a3be0ee66624e8",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/718TKN0xDHXW3yvObGIlXz"
+        },
+        {
+            "rank": 185,
+            "spotify_id": "7ygbT9xptRm15NInL1ktEd",
+            "name": "Boiling Waters PH",
+            "publisher": "Boiling Waters PH",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fcd0ef857d10b3402a1c50272",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/7ygbT9xptRm15NInL1ktEd"
+        },
+        {
+            "rank": 186,
             "spotify_id": "5TL3npI4i8R2IgPI03cERD",
             "name": "CCF On Air",
             "publisher": "Christ's Commission Fellowship",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fd833db98ffad6e574a69b56d",
-            "rank_move": "UP",
+            "rank_move": "DOWN",
             "url": "https:\/\/open.spotify.com\/show\/5TL3npI4i8R2IgPI03cERD"
         },
         {
+            "rank": 187,
+            "spotify_id": "4ptciSiVeasLeetLbigUNP",
+            "name": "Maizen",
+            "publisher": "Maizen",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fd4ff322425121a6e40ced028",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/4ptciSiVeasLeetLbigUNP"
+        },
+        {
+            "rank": 188,
+            "spotify_id": "0XrOqvxlqQI6bmdYHuIVnr",
+            "name": "Modern Wisdom",
+            "publisher": "Chris Williamson",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fc27a8d722b0ba5ca0f788f35",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/0XrOqvxlqQI6bmdYHuIVnr"
+        },
+        {
+            "rank": 189,
+            "spotify_id": "5zmdjuDWOk3saOeD8qmydI",
+            "name": "A Changed Mind | Mindset That Matters",
+            "publisher": "David Bayer",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fc14400fa0548445c248945d6",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/5zmdjuDWOk3saOeD8qmydI"
+        },
+        {
+            "rank": 190,
+            "spotify_id": "7nsEse7Qm07RMto0P1ypRP",
+            "name": "Unsa’y Cheka Sa Parlor",
+            "publisher": "Lyle Go and Shaneee | TAGM Marketing Solutions Inc.",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f05bb32e39dcf104b8ff123b4",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/7nsEse7Qm07RMto0P1ypRP"
+        },
+        {
+            "rank": 191,
+            "spotify_id": "033q6YYMorF9BeNtwd7zPb",
+            "name": "✦ 𝑨 𝒉𝒆𝒂𝒗𝒆𝒏𝒍𝒚 𝒃𝒊𝒕𝒄𝒉’𝒔 𝒂𝒖𝒅𝒊𝒐𝒔 ✦",
+            "publisher": "𝒉𝒆𝒂𝒗𝒆𝒏𝒍𝒚",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f98725743355ff5a50df63f3a",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/033q6YYMorF9BeNtwd7zPb"
+        },
+        {
+            "rank": 192,
+            "spotify_id": "2nwTCXsOatbCzRRtvZgULZ",
+            "name": "Bedtime Stories for Kids|Good Night Tales|Stories of New Beginnings",
+            "publisher": "BabyBus",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fe67468cef2e5131f1316815e",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/2nwTCXsOatbCzRRtvZgULZ"
+        },
+        {
+            "rank": 193,
+            "spotify_id": "69Jm0pfRlpnaBDaioynNaX",
+            "name": "A Zen Mind Guided Meditations",
+            "publisher": "Jo Rose | A Zen Mind",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fcf4f47f55fd6d566cbc3b0b5",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/69Jm0pfRlpnaBDaioynNaX"
+        },
+        {
+            "rank": 194,
+            "spotify_id": "0vGalOGqauOr75YrTrYsut",
+            "name": "Podcast Ng Mga Walang Jowa by BINI",
+            "publisher": "BINI ",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fd4a94252b0dfc2d86ced1e01",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/0vGalOGqauOr75YrTrYsut"
+        },
+        {
+            "rank": 195,
+            "spotify_id": "5JKIWvKlNso6hvnV4NrAa7",
+            "name": "Facts First with Christian Esguerra",
+            "publisher": "Christian Esguerra",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f7dd8727e4315ad3d4c5c79a5",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/5JKIWvKlNso6hvnV4NrAa7"
+        },
+        {
             "rank": 196,
-            "spotify_id": "3wBfqov60qDZbEVjPHo0a8",
-            "name": "Global News Podcast",
-            "publisher": "BBC World Service",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fb0617b8983fa67ffd9678391",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/3wBfqov60qDZbEVjPHo0a8"
+            "spotify_id": "033uzV6AKmPuTW2kJ5ajrz",
+            "name": "Rizal, Retold",
+            "publisher": "Max Cruz, Paperbug Studios, and Sonder Media",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f91e847771f45fd11775281fe",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/033uzV6AKmPuTW2kJ5ajrz"
         },
         {
             "rank": 197,
-            "spotify_id": "0lLxMyxp3gGlMddCcZ2eFP",
-            "name": "Tyler Vitelli's Stories",
-            "publisher": "Tyler Vitelli",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f070041f948197d3934a11a7f",
+            "spotify_id": "68xpDC1URcU61dxl3eByZU",
+            "name": "TRGGRD! ",
+            "publisher": "Vince Maristela, Cheska Fausto, Sean Lucas, Thea Astley and Jeff Moses",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f2afdded9abb5d168ccc2ad22",
             "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/0lLxMyxp3gGlMddCcZ2eFP"
+            "url": "https:\/\/open.spotify.com\/show\/68xpDC1URcU61dxl3eByZU"
         },
         {
             "rank": 198,
-            "spotify_id": "2X13Nmuod85vAbI5hP99oY",
-            "name": "Requested Reads Reddit Stories",
-            "publisher": "Requestedreads",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fd515f6d9aff2b285d55165dd",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/2X13Nmuod85vAbI5hP99oY"
+            "spotify_id": "50xJKxraw7LwLJy2Rervp9",
+            "name": "Motivation Daily by Motiversity",
+            "publisher": "Motiversity",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f132579598f5357289e616768",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/50xJKxraw7LwLJy2Rervp9"
         },
         {
             "rank": 199,
@@ -1794,17 +1794,17 @@
             "name": "Prayers for your Soul",
             "publisher": "Prayers for your Soul",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fc0b9ae79ce88480eedb7f12e",
-            "rank_move": "UNCHANGED",
+            "rank_move": "UP",
             "url": "https:\/\/open.spotify.com\/show\/6Lmtkv0wU6eLOtBab7SGCZ"
         },
         {
             "rank": 200,
-            "spotify_id": "0vGalOGqauOr75YrTrYsut",
-            "name": "Podcast Ng Mga Walang Jowa by BINI",
-            "publisher": "BINI ",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fd4a94252b0dfc2d86ced1e01",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/0vGalOGqauOr75YrTrYsut"
+            "spotify_id": "3DgfoleqaW61T2amZQKINx",
+            "name": "Crime Junkie",
+            "publisher": "Audiochuck",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fbe2cc3efd92b817b54d9bcb2",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/3DgfoleqaW61T2amZQKINx"
         }
     ]
 }

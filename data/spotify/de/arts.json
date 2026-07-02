@@ -3,26 +3,26 @@
     "country": "de",
     "genre": "Arts",
     "slug": "arts",
-    "fetched_at": "2026-06-24T06:37:06Z",
+    "fetched_at": "2026-07-01T04:43:55Z",
     "count": 50,
     "shows": [
         {
             "rank": 1,
-            "spotify_id": "5zAXYQp6EummpT2QCepbsw",
-            "name": "ein Holzkopf",
-            "publisher": "einHolzkopf",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f8dbeeaba8a0cac0c394b84f2",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/5zAXYQp6EummpT2QCepbsw"
-        },
-        {
-            "rank": 2,
             "spotify_id": "61KbJhPHU1Rbafu8SvFFyl",
             "name": "Mana Benya",
             "publisher": "Mana Benya",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fdbded8085606efa75ce81605",
-            "rank_move": "DOWN",
+            "rank_move": "UNCHANGED",
             "url": "https:\/\/open.spotify.com\/show\/61KbJhPHU1Rbafu8SvFFyl"
+        },
+        {
+            "rank": 2,
+            "spotify_id": "5zAXYQp6EummpT2QCepbsw",
+            "name": "ein Holzkopf",
+            "publisher": "einHolzkopf",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f8dbeeaba8a0cac0c394b84f2",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/5zAXYQp6EummpT2QCepbsw"
         },
         {
             "rank": 3,
@@ -35,6 +35,15 @@
         },
         {
             "rank": 4,
+            "spotify_id": "1e2nrbVt1LQFgf4Ms9G15v",
+            "name": "Dani Klieber ",
+            "publisher": "Dani Klieber Fan",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fc15179c222559c50c83a1a10",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/1e2nrbVt1LQFgf4Ms9G15v"
+        },
+        {
+            "rank": 5,
             "spotify_id": "6oar2POmOVQYlIU2pWDWsD",
             "name": "🥜🎱🍫𝐑𝐞𝐝𝐝𝐢𝐭 𝐒𝐡𝐨𝐫𝐭𝐬🥜🎱🍫",
             "publisher": "🪞",
@@ -43,16 +52,16 @@
             "url": "https:\/\/open.spotify.com\/show\/6oar2POmOVQYlIU2pWDWsD"
         },
         {
-            "rank": 5,
-            "spotify_id": "1wZEFFvEnvPiQ5xDbLazUs",
-            "name": "Zwei Seiten - Der Podcast über Bücher | WDR",
-            "publisher": "WDR",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f3c107027891bed40efbc41cc",
+            "rank": 6,
+            "spotify_id": "2ND1w4dd2NmKzxmK7X24Zl",
+            "name": "Alles Ava",
+            "publisher": "Ava",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f815164effdc81c5c08ff53a2",
             "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/1wZEFFvEnvPiQ5xDbLazUs"
+            "url": "https:\/\/open.spotify.com\/show\/2ND1w4dd2NmKzxmK7X24Zl"
         },
         {
-            "rank": 6,
+            "rank": 7,
             "spotify_id": "4M0Sa7WMDnXQzhczkhWN5a",
             "name": "life is felicious",
             "publisher": "Feli",
@@ -61,79 +70,52 @@
             "url": "https:\/\/open.spotify.com\/show\/4M0Sa7WMDnXQzhczkhWN5a"
         },
         {
-            "rank": 7,
-            "spotify_id": "1e2nrbVt1LQFgf4Ms9G15v",
-            "name": "Dani Klieber ",
-            "publisher": "Dani Klieber Fan",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fc15179c222559c50c83a1a10",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/1e2nrbVt1LQFgf4Ms9G15v"
-        },
-        {
             "rank": 8,
-            "spotify_id": "2ND1w4dd2NmKzxmK7X24Zl",
-            "name": "Alles Ava",
-            "publisher": "Ava",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f815164effdc81c5c08ff53a2",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/2ND1w4dd2NmKzxmK7X24Zl"
-        },
-        {
-            "rank": 9,
-            "spotify_id": "1oC2VwBz39W7NVs2mScTsA",
-            "name": "Nick DiGiovanni",
-            "publisher": "Nick DiGiovanni",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f19b7bb4bf7efea4647998fe5",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/1oC2VwBz39W7NVs2mScTsA"
-        },
-        {
-            "rank": 10,
             "spotify_id": "1VowNaK3l1ZbuKVZ8MkTyA",
             "name": "Lecture du coran ",
             "publisher": "Aelia Phosphore",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fa926881d2f058173de116a92",
-            "rank_move": "UNCHANGED",
+            "rank_move": "UP",
             "url": "https:\/\/open.spotify.com\/show\/1VowNaK3l1ZbuKVZ8MkTyA"
         },
         {
-            "rank": 11,
-            "spotify_id": "6gNcSIiS7G0WNR73TQzAOk",
-            "name": "eat.READ.sleep. Bücher für dich",
-            "publisher": "NDR",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f157a8a98072bf36682a5dd1b",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/6gNcSIiS7G0WNR73TQzAOk"
+            "rank": 9,
+            "spotify_id": "1wZEFFvEnvPiQ5xDbLazUs",
+            "name": "Zwei Seiten - Der Podcast über Bücher | WDR",
+            "publisher": "WDR",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f3c107027891bed40efbc41cc",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/1wZEFFvEnvPiQ5xDbLazUs"
         },
         {
-            "rank": 12,
+            "rank": 10,
             "spotify_id": "3KsxOSBP2yhFc5b2YjRoEv",
-            "name": "hp-archiv 01",
+            "name": "1 - Harry Potter und der Stein der Weisen",
             "publisher": "pidi baby",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fac3ec537a789e2a07fd0f4c3",
             "rank_move": "UNCHANGED",
             "url": "https:\/\/open.spotify.com\/show\/3KsxOSBP2yhFc5b2YjRoEv"
         },
         {
+            "rank": 11,
+            "spotify_id": "1oC2VwBz39W7NVs2mScTsA",
+            "name": "Nick DiGiovanni",
+            "publisher": "Nick DiGiovanni",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f19b7bb4bf7efea4647998fe5",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/1oC2VwBz39W7NVs2mScTsA"
+        },
+        {
+            "rank": 12,
+            "spotify_id": "6gNcSIiS7G0WNR73TQzAOk",
+            "name": "eat.READ.sleep. Bücher für dich",
+            "publisher": "NDR",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f157a8a98072bf36682a5dd1b",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/6gNcSIiS7G0WNR73TQzAOk"
+        },
+        {
             "rank": 13,
-            "spotify_id": "6Ck5d2f1hIaDnfw0rm57AG",
-            "name": "Jojo’s ASMR",
-            "publisher": "Jonah",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f99a0e932021a957f214e58c0",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/6Ck5d2f1hIaDnfw0rm57AG"
-        },
-        {
-            "rank": 14,
-            "spotify_id": "1or5ko3fCmrSy57xJgnrVc",
-            "name": "Happy Potter",
-            "publisher": "Martin & Sophia",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f5bb816d0fae5928f72ab37ce",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/1or5ko3fCmrSy57xJgnrVc"
-        },
-        {
-            "rank": 15,
             "spotify_id": "49TpYc1xmWr3xKYP4h0ebW",
             "name": "Alles Ava - der Podcast",
             "publisher": "Ava",
@@ -142,34 +124,7 @@
             "url": "https:\/\/open.spotify.com\/show\/49TpYc1xmWr3xKYP4h0ebW"
         },
         {
-            "rank": 16,
-            "spotify_id": "26HBYL73QjbTIhD2qnYP7w",
-            "name": "Reeze",
-            "publisher": "Reeze",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f4574aa3d6e1b5f94ff875c70",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/26HBYL73QjbTIhD2qnYP7w"
-        },
-        {
-            "rank": 17,
-            "spotify_id": "757alhD7pcLQPtSkaINsy7",
-            "name": "Book Girlie Club",
-            "publisher": "Meggy und Nathalie",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f825155305c2432a2eae2ffed",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/757alhD7pcLQPtSkaINsy7"
-        },
-        {
-            "rank": 18,
-            "spotify_id": "50E2aucF7HOkUjbHc729UU",
-            "name": "Tollkühn - Der Fantasy Buch Podcast",
-            "publisher": "Max und Ramon",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f3cb83573deda35d3ce0ebb43",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/50E2aucF7HOkUjbHc729UU"
-        },
-        {
-            "rank": 19,
+            "rank": 14,
             "spotify_id": "283vYRJqzoEr9ZnDxcroZv",
             "name": "Augen zu",
             "publisher": "DIE ZEIT",
@@ -178,25 +133,61 @@
             "url": "https:\/\/open.spotify.com\/show\/283vYRJqzoEr9ZnDxcroZv"
         },
         {
-            "rank": 20,
-            "spotify_id": "1A94X65Yv61lVXeF9Ux5mn",
-            "name": "#Ausgelesen",
-            "publisher": "Sarah und Josi",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1ff75b799e7ea133b131786c1f",
+            "rank": 15,
+            "spotify_id": "1or5ko3fCmrSy57xJgnrVc",
+            "name": "Happy Potter",
+            "publisher": "Martin & Sophia",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f5bb816d0fae5928f72ab37ce",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/1or5ko3fCmrSy57xJgnrVc"
+        },
+        {
+            "rank": 16,
+            "spotify_id": "6Ck5d2f1hIaDnfw0rm57AG",
+            "name": "Jojo’s ASMR",
+            "publisher": "Jonah",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f99a0e932021a957f214e58c0",
             "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/1A94X65Yv61lVXeF9Ux5mn"
+            "url": "https:\/\/open.spotify.com\/show\/6Ck5d2f1hIaDnfw0rm57AG"
+        },
+        {
+            "rank": 17,
+            "spotify_id": "2nenCjFXors4q8kDZwRm6K",
+            "name": "unlikely 💕",
+            "publisher": "Laura und Ally",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f23b4e90309bd28516c09b78c",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/2nenCjFXors4q8kDZwRm6K"
+        },
+        {
+            "rank": 18,
+            "spotify_id": "68uNYaPY5mWsP2hPKgvprl",
+            "name": "Was liest du gerade?",
+            "publisher": "DIE ZEIT",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f11eab0381d461ec0ca607eca",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/68uNYaPY5mWsP2hPKgvprl"
+        },
+        {
+            "rank": 19,
+            "spotify_id": "26HBYL73QjbTIhD2qnYP7w",
+            "name": "Reeze",
+            "publisher": "Reeze",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f4574aa3d6e1b5f94ff875c70",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/26HBYL73QjbTIhD2qnYP7w"
+        },
+        {
+            "rank": 20,
+            "spotify_id": "757alhD7pcLQPtSkaINsy7",
+            "name": "Book Girlie Club",
+            "publisher": "Meggy und Nathalie",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f825155305c2432a2eae2ffed",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/757alhD7pcLQPtSkaINsy7"
         },
         {
             "rank": 21,
-            "spotify_id": "2vPRznH4v1JIZj6jPOSZyw",
-            "name": "Max the Meat Guy",
-            "publisher": "Max the Meat Guy",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f856355335788eb7932ffeb34",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/2vPRznH4v1JIZj6jPOSZyw"
-        },
-        {
-            "rank": 22,
             "spotify_id": "74HJ8zZXL319wsZX6E2MNQ",
             "name": "🎧",
             "publisher": "jd",
@@ -205,22 +196,31 @@
             "url": "https:\/\/open.spotify.com\/show\/74HJ8zZXL319wsZX6E2MNQ"
         },
         {
+            "rank": 22,
+            "spotify_id": "50E2aucF7HOkUjbHc729UU",
+            "name": "Tollkühn - Der Fantasy Buch Podcast",
+            "publisher": "Max und Ramon",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f3cb83573deda35d3ce0ebb43",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/50E2aucF7HOkUjbHc729UU"
+        },
+        {
             "rank": 23,
             "spotify_id": "0yA2QnaDqNOGZ3gGu7vUJ1",
             "name": "Von Chronografen & Kotzbrocken",
             "publisher": "Jenni & Julia",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f26b6fe945920f7285153e75a",
-            "rank_move": "UP",
+            "rank_move": "UNCHANGED",
             "url": "https:\/\/open.spotify.com\/show\/0yA2QnaDqNOGZ3gGu7vUJ1"
         },
         {
             "rank": 24,
-            "spotify_id": "1ECEMGRFlut3sz8YhaAXGa",
-            "name": "SonorBücher - Hörbücher",
-            "publisher": "SonorBücher",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1ff01261422327c5628d7c0e43",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/1ECEMGRFlut3sz8YhaAXGa"
+            "spotify_id": "1gpTCfUdwW93YNEd9AVH7r",
+            "name": "Alycia Marie",
+            "publisher": "Alycia Marie",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fc529835e4b7796e8525d0828",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/1gpTCfUdwW93YNEd9AVH7r"
         },
         {
             "rank": 25,
@@ -233,24 +233,42 @@
         },
         {
             "rank": 26,
-            "spotify_id": "2mQ36MfskEUAWkfbYGQR0n",
-            "name": "Sherlock Holmes Kurzgeschichten",
-            "publisher": "NOISER",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f77caf27782b97e822577624c",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/2mQ36MfskEUAWkfbYGQR0n"
+            "spotify_id": "1ECEMGRFlut3sz8YhaAXGa",
+            "name": "SonorBücher - Hörbücher",
+            "publisher": "SonorBücher",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1ff01261422327c5628d7c0e43",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/1ECEMGRFlut3sz8YhaAXGa"
         },
         {
             "rank": 27,
-            "spotify_id": "0A6KMpfaKD9QCPdSCnLlBx",
-            "name": "123 GO! Food",
-            "publisher": "TheSoul Publishing",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fc82a1a55e4c813ef5aa6d0f9",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/0A6KMpfaKD9QCPdSCnLlBx"
+            "spotify_id": "1B1CEnz7rfFg3EqzHvich1",
+            "name": "HunniBee ASMR",
+            "publisher": "Motion Society",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fea94496d96f95e8d258d2d96",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/1B1CEnz7rfFg3EqzHvich1"
         },
         {
             "rank": 28,
+            "spotify_id": "59LyG3yM9a7BOmAeOYhEIu",
+            "name": "DelightfulDolls",
+            "publisher": "DelightfulDolls",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fab1b7e8a27c52041236bb265",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/59LyG3yM9a7BOmAeOYhEIu"
+        },
+        {
+            "rank": 29,
+            "spotify_id": "4t02fvwwYDc67Fq92H3vWY",
+            "name": "Sydney Morgan",
+            "publisher": "Sydney Morgan",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fe4aa012a4044f02338f1e8de",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/4t02fvwwYDc67Fq92H3vWY"
+        },
+        {
+            "rank": 30,
             "spotify_id": "5pwBAjuJJAOt7cED5Lkjnk",
             "name": "The Magnus Archives",
             "publisher": "Rusty Quill",
@@ -259,76 +277,58 @@
             "url": "https:\/\/open.spotify.com\/show\/5pwBAjuJJAOt7cED5Lkjnk"
         },
         {
-            "rank": 29,
-            "spotify_id": "2nenCjFXors4q8kDZwRm6K",
-            "name": "unlikely 💕",
-            "publisher": "Laura und Ally",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f23b4e90309bd28516c09b78c",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/2nenCjFXors4q8kDZwRm6K"
-        },
-        {
-            "rank": 30,
-            "spotify_id": "59LyG3yM9a7BOmAeOYhEIu",
-            "name": "DelightfulDolls",
-            "publisher": "DelightfulDolls",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fab1b7e8a27c52041236bb265",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/59LyG3yM9a7BOmAeOYhEIu"
-        },
-        {
             "rank": 31,
-            "spotify_id": "1B1CEnz7rfFg3EqzHvich1",
-            "name": "HunniBee ASMR",
-            "publisher": "Motion Society",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fea94496d96f95e8d258d2d96",
+            "spotify_id": "2mQ36MfskEUAWkfbYGQR0n",
+            "name": "Sherlock Holmes Kurzgeschichten",
+            "publisher": "NOISER",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f77caf27782b97e822577624c",
             "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/1B1CEnz7rfFg3EqzHvich1"
+            "url": "https:\/\/open.spotify.com\/show\/2mQ36MfskEUAWkfbYGQR0n"
         },
         {
             "rank": 32,
+            "spotify_id": "7FAQwrCjRmHOizVkq1hYhy",
+            "name": "Kompressor",
+            "publisher": "Deutschlandfunk Kultur",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fcf21547e799ad6cf98368eb0",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/7FAQwrCjRmHOizVkq1hYhy"
+        },
+        {
+            "rank": 33,
+            "spotify_id": "0wb6n22bo4uYCuStkJCuSS",
+            "name": "SatisVid - ASMR For Sleep",
+            "publisher": "Wanner Aarts",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f718e721143325e567ecbfaef",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/0wb6n22bo4uYCuStkJCuSS"
+        },
+        {
+            "rank": 34,
+            "spotify_id": "033Fi47if2cliu21FecQfS",
+            "name": "trap's cave",
+            "publisher": "trap",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f33be9d8cfcbe04bfcc15799c",
+            "rank_move": "NEW",
+            "url": "https:\/\/open.spotify.com\/show\/033Fi47if2cliu21FecQfS"
+        },
+        {
+            "rank": 35,
             "spotify_id": "7IBtpc4pjsS01RSVlHUFqZ",
             "name": "Studio Gastro – Der Gastronomie Podcast mit Sebastian E. Merget & Friends",
             "publisher": "Sebastian E. Merget",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fc09337020c6649328557c300",
-            "rank_move": "UP",
+            "rank_move": "DOWN",
             "url": "https:\/\/open.spotify.com\/show\/7IBtpc4pjsS01RSVlHUFqZ"
         },
         {
-            "rank": 33,
-            "spotify_id": "1Tuha5k1waIFgWZXLXg3ya",
-            "name": "WDR 5 Alles in Butter",
-            "publisher": "WDR 5",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f65ef6f74059d0ef0efdc79bd",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/1Tuha5k1waIFgWZXLXg3ya"
-        },
-        {
-            "rank": 34,
-            "spotify_id": "1DrbJvMR7Rtzg9bB8O2YoP",
-            "name": "HopeScope",
-            "publisher": "HopeScope",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fcab6bffaad4448c09a75e315",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/1DrbJvMR7Rtzg9bB8O2YoP"
-        },
-        {
-            "rank": 35,
-            "spotify_id": "7LGcIWZYuPF0cquIwf2et4",
-            "name": "NK's Wrld",
-            "publisher": "NK",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f50ca3e5986d74aae6f5ea930",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/7LGcIWZYuPF0cquIwf2et4"
-        },
-        {
             "rank": 36,
-            "spotify_id": "3lmP7GEyE6378YkVEYR1GW",
-            "name": "YouTube Shorts 🎀",
-            "publisher": " Milli",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f691e5f3b40db9a0248bb626e",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/3lmP7GEyE6378YkVEYR1GW"
+            "spotify_id": "1A94X65Yv61lVXeF9Ux5mn",
+            "name": "#Ausgelesen",
+            "publisher": "Sarah und Josi",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1ff75b799e7ea133b131786c1f",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/1A94X65Yv61lVXeF9Ux5mn"
         },
         {
             "rank": 37,
@@ -336,125 +336,125 @@
             "name": "Die Geschichte des Drachenlord",
             "publisher": "Der Einziche",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fdd495e38275356308466014a",
-            "rank_move": "UP",
+            "rank_move": "DOWN",
             "url": "https:\/\/open.spotify.com\/show\/09KPy8axeZCCX9a0J9RHhX"
         },
         {
             "rank": 38,
-            "spotify_id": "68uNYaPY5mWsP2hPKgvprl",
-            "name": "Was liest du gerade?",
-            "publisher": "DIE ZEIT",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f11eab0381d461ec0ca607eca",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/68uNYaPY5mWsP2hPKgvprl"
-        },
-        {
-            "rank": 39,
             "spotify_id": "0z2mWTJjsEVaZDNPX0cvoa",
             "name": "Evanijo",
             "publisher": "Evanijo",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fbef9fffef8ae1ed4ff0196ea",
-            "rank_move": "UP",
+            "rank_move": "UNCHANGED",
             "url": "https:\/\/open.spotify.com\/show\/0z2mWTJjsEVaZDNPX0cvoa"
         },
         {
+            "rank": 39,
+            "spotify_id": "1Tuha5k1waIFgWZXLXg3ya",
+            "name": "WDR 5 Alles in Butter",
+            "publisher": "WDR 5",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f65ef6f74059d0ef0efdc79bd",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/1Tuha5k1waIFgWZXLXg3ya"
+        },
+        {
             "rank": 40,
-            "spotify_id": "4t02fvwwYDc67Fq92H3vWY",
-            "name": "Sydney Morgan",
-            "publisher": "Sydney Morgan",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fe4aa012a4044f02338f1e8de",
+            "spotify_id": "1DrbJvMR7Rtzg9bB8O2YoP",
+            "name": "HopeScope",
+            "publisher": "HopeScope",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fcab6bffaad4448c09a75e315",
             "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/4t02fvwwYDc67Fq92H3vWY"
+            "url": "https:\/\/open.spotify.com\/show\/1DrbJvMR7Rtzg9bB8O2YoP"
         },
         {
             "rank": 41,
-            "spotify_id": "0G3o7TI59YvL7g56BeYs08",
-            "name": "Laberfach",
-            "publisher": "Stefan Quandt",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fa885a08297773bffe6df7dcc",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/0G3o7TI59YvL7g56BeYs08"
-        },
-        {
-            "rank": 42,
-            "spotify_id": "4uHnpxGiG4iI0KVSGibvph",
-            "name": "AbuGoku",
-            "publisher": "AbuGoku9999",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fd0dd551481b2756555df4601",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/4uHnpxGiG4iI0KVSGibvph"
-        },
-        {
-            "rank": 43,
             "spotify_id": "6GH6mslG8LqzWla7oWCtZn",
             "name": "Terroir & Adiletten - Der Weinpodcast",
             "publisher": "Willi Schlögl, Curly & pleasure*",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1feb3fad80a88ab1c7ee3b7c4a",
-            "rank_move": "DOWN",
+            "rank_move": "UP",
             "url": "https:\/\/open.spotify.com\/show\/6GH6mslG8LqzWla7oWCtZn"
         },
         {
-            "rank": 44,
-            "spotify_id": "3vT1XR3Ys7YktELaYMN3te",
-            "name": "Guga Foods",
-            "publisher": "Guga Foods",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f9c2e73aa4ef7c7e26cd779e0",
+            "rank": 42,
+            "spotify_id": "3lmP7GEyE6378YkVEYR1GW",
+            "name": "YouTube Shorts 🎀",
+            "publisher": " Milli",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f691e5f3b40db9a0248bb626e",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/3lmP7GEyE6378YkVEYR1GW"
+        },
+        {
+            "rank": 43,
+            "spotify_id": "0G3o7TI59YvL7g56BeYs08",
+            "name": "Laberfach",
+            "publisher": "Stefan Quandt",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fa885a08297773bffe6df7dcc",
             "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/3vT1XR3Ys7YktELaYMN3te"
+            "url": "https:\/\/open.spotify.com\/show\/0G3o7TI59YvL7g56BeYs08"
+        },
+        {
+            "rank": 44,
+            "spotify_id": "2vPRznH4v1JIZj6jPOSZyw",
+            "name": "Max the Meat Guy",
+            "publisher": "Max the Meat Guy",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f856355335788eb7932ffeb34",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/2vPRznH4v1JIZj6jPOSZyw"
         },
         {
             "rank": 45,
-            "spotify_id": "7FAQwrCjRmHOizVkq1hYhy",
-            "name": "Kompressor",
-            "publisher": "Deutschlandfunk Kultur",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fcf21547e799ad6cf98368eb0",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/7FAQwrCjRmHOizVkq1hYhy"
-        },
-        {
-            "rank": 46,
-            "spotify_id": "6gc5jdlUpgnydN5n6aetuP",
-            "name": "Geschichten aus dem Eberkopf - Ein Harry Potter Hörspiel-Podcast",
-            "publisher": "MooEntertainment",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1ff04746711d9cf2b58a992e24",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/6gc5jdlUpgnydN5n6aetuP"
-        },
-        {
-            "rank": 47,
-            "spotify_id": "1tOOmZVN8txFVauGewYKT0",
-            "name": "30 Minuten Kunst",
-            "publisher": "Jens Trocha",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f7c387ad7a52cd99786ee6ae8",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/1tOOmZVN8txFVauGewYKT0"
-        },
-        {
-            "rank": 48,
-            "spotify_id": "27KalStbl7OdLiFMCDsIlL",
-            "name": "Lebe Liebe Lipgloss ",
-            "publisher": "Rebecca Blank ",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fa253cff786bb6d2fd5d65536",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/27KalStbl7OdLiFMCDsIlL"
-        },
-        {
-            "rank": 49,
-            "spotify_id": "1gpTCfUdwW93YNEd9AVH7r",
-            "name": "Alycia Marie",
-            "publisher": "Alycia Marie",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fc529835e4b7796e8525d0828",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/1gpTCfUdwW93YNEd9AVH7r"
-        },
-        {
-            "rank": 50,
             "spotify_id": "6MWAkIEDqe8cgQjPvUaW2V",
             "name": "ASMR by Gibi for Sleep and Relaxation",
             "publisher": "Gibi ASMR",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1faaaec8e158bad479829e2ead",
             "rank_move": "UP",
             "url": "https:\/\/open.spotify.com\/show\/6MWAkIEDqe8cgQjPvUaW2V"
+        },
+        {
+            "rank": 46,
+            "spotify_id": "2mSrEr2KU9phz8CAGCzJMc",
+            "name": "Mängelexemplar - der Literaturpodcast ",
+            "publisher": "Lea Hollender und Henrike Utsch",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1ff5616252d58e24800842c260",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/2mSrEr2KU9phz8CAGCzJMc"
+        },
+        {
+            "rank": 47,
+            "spotify_id": "3rXANsXcK36XlHozpQs7EG",
+            "name": "Emma's Myspace ASMR",
+            "publisher": "Emma's Myspace",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fa4efa46169ff33932958b470",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/3rXANsXcK36XlHozpQs7EG"
+        },
+        {
+            "rank": 48,
+            "spotify_id": "7LGcIWZYuPF0cquIwf2et4",
+            "name": "NK's Wrld",
+            "publisher": "NK",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f50ca3e5986d74aae6f5ea930",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/7LGcIWZYuPF0cquIwf2et4"
+        },
+        {
+            "rank": 49,
+            "spotify_id": "41SHgSRWyJWhek9lmIVNTZ",
+            "name": "Antenne Alman",
+            "publisher": "Jana Heinisch, Julian Hutter",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f55dddc9c767ac9b31f011837",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/41SHgSRWyJWhek9lmIVNTZ"
+        },
+        {
+            "rank": 50,
+            "spotify_id": "0NlBbg4WliNFfCc0KyMwuF",
+            "name": "Viyaura Arts",
+            "publisher": "viyaura",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fe129deab3e0d649054282438",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/0NlBbg4WliNFfCc0KyMwuF"
         }
     ]
 }

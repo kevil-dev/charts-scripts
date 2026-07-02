@@ -3,7 +3,7 @@
     "country": "gb",
     "genre": "Leisure",
     "slug": "leisure",
-    "fetched_at": "2026-06-24T06:36:28Z",
+    "fetched_at": "2026-07-01T04:43:14Z",
     "count": 50,
     "shows": [
         {
@@ -30,7 +30,7 @@
             "name": "Safe Space ASMR",
             "publisher": "Safe Space ASMR",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f6e9c7bbe509aca6f83a6b8f5",
-            "rank_move": "UP",
+            "rank_move": "UNCHANGED",
             "url": "https:\/\/open.spotify.com\/show\/1AzNSkk0trnKGMWVe0KAnZ"
         },
         {
@@ -39,26 +39,26 @@
             "name": "The AutoAlex Podcast",
             "publisher": "The AutoAlex Podcast",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f0727a798fbf9e611af4c0564",
-            "rank_move": "DOWN",
+            "rank_move": "UNCHANGED",
             "url": "https:\/\/open.spotify.com\/show\/18Gk18mIE2NdeE1RTre4Uz"
         },
         {
             "rank": 5,
-            "spotify_id": "0mcJhWfXwGtEoyKFTl75Sa",
-            "name": "The Car Podcast with Chris Harris & Friends",
-            "publisher": "Chris Harris",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f502cb2ea5895c637adb88a3e",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/0mcJhWfXwGtEoyKFTl75Sa"
-        },
-        {
-            "rank": 6,
             "spotify_id": "1vXayLsQaEsejoCtVdRpzv",
             "name": "Smith and Sniff",
             "publisher": "Jonny Smith and Richard Porter",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f9e44928b6b7392d94f447ab0",
-            "rank_move": "DOWN",
+            "rank_move": "UNCHANGED",
             "url": "https:\/\/open.spotify.com\/show\/1vXayLsQaEsejoCtVdRpzv"
+        },
+        {
+            "rank": 6,
+            "spotify_id": "0mcJhWfXwGtEoyKFTl75Sa",
+            "name": "The Car Podcast with Chris Harris & Friends",
+            "publisher": "Chris Harris",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f502cb2ea5895c637adb88a3e",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/0mcJhWfXwGtEoyKFTl75Sa"
         },
         {
             "rank": 7,
@@ -71,15 +71,6 @@
         },
         {
             "rank": 8,
-            "spotify_id": "75ue9zTuLTuOES75QR7ddy",
-            "name": "Drew Dirksen",
-            "publisher": "Drew Dirksen",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1ff7e8af9d124d515034c18e18",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/75ue9zTuLTuOES75QR7ddy"
-        },
-        {
-            "rank": 9,
             "spotify_id": "7e8zPFBpW0DtgyrrPnt0xT",
             "name": "Critical Role",
             "publisher": "Critical Role",
@@ -88,7 +79,7 @@
             "url": "https:\/\/open.spotify.com\/show\/7e8zPFBpW0DtgyrrPnt0xT"
         },
         {
-            "rank": 10,
+            "rank": 9,
             "spotify_id": "2Z8HKiDH3nlvFzO2H18GHI",
             "name": "The 40k Lorecast",
             "publisher": "Warhammmer 40k",
@@ -97,13 +88,22 @@
             "url": "https:\/\/open.spotify.com\/show\/2Z8HKiDH3nlvFzO2H18GHI"
         },
         {
-            "rank": 11,
+            "rank": 10,
             "spotify_id": "33ZmrcbbgGEZbfJQFHuHSO",
             "name": "Takeaway Trivia Pub Quiz",
             "publisher": "Bar Wars",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f9d12ef1ea46924cfbdebe015",
             "rank_move": "DOWN",
             "url": "https:\/\/open.spotify.com\/show\/33ZmrcbbgGEZbfJQFHuHSO"
+        },
+        {
+            "rank": 11,
+            "spotify_id": "75ue9zTuLTuOES75QR7ddy",
+            "name": "Drew Dirksen",
+            "publisher": "Drew Dirksen",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1ff7e8af9d124d515034c18e18",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/75ue9zTuLTuOES75QR7ddy"
         },
         {
             "rank": 12,
@@ -116,12 +116,12 @@
         },
         {
             "rank": 13,
-            "spotify_id": "2O7a575iiriWmYwwk2ewpR",
-            "name": "Korda - The Thinking Tackle Podcast",
-            "publisher": "Korda Developments Ltd",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f9dece3f19978e8e2550c189a",
+            "spotify_id": "1JkrPTZ78XEnLzB0XMjDVJ",
+            "name": "EYstreem",
+            "publisher": "EYstreem",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f1149de9292016296abfa2f59",
             "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/2O7a575iiriWmYwwk2ewpR"
+            "url": "https:\/\/open.spotify.com\/show\/1JkrPTZ78XEnLzB0XMjDVJ"
         },
         {
             "rank": 14,
@@ -129,29 +129,11 @@
             "name": "Adeptus Ridiculous",
             "publisher": "Adeptus Ridiculous ",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f39a7e5f26a1163751b3cd82e",
-            "rank_move": "UP",
+            "rank_move": "UNCHANGED",
             "url": "https:\/\/open.spotify.com\/show\/6KnaAHvqf0pgTs3Kw3qQTR"
         },
         {
             "rank": 15,
-            "spotify_id": "1JkrPTZ78XEnLzB0XMjDVJ",
-            "name": "EYstreem",
-            "publisher": "EYstreem",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f1149de9292016296abfa2f59",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/1JkrPTZ78XEnLzB0XMjDVJ"
-        },
-        {
-            "rank": 16,
-            "spotify_id": "08Ffzq1kNbWARl6T7SphjU",
-            "name": "Rein Them In",
-            "publisher": "Megan Elphick",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f11d2681edcac989304a97175",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/08Ffzq1kNbWARl6T7SphjU"
-        },
-        {
-            "rank": 17,
             "spotify_id": "09a8dvK8r11XV8q8vbv9Jf",
             "name": "PrestonPlayz",
             "publisher": "PrestonPlayz",
@@ -160,13 +142,31 @@
             "url": "https:\/\/open.spotify.com\/show\/09a8dvK8r11XV8q8vbv9Jf"
         },
         {
-            "rank": 18,
+            "rank": 16,
+            "spotify_id": "08Ffzq1kNbWARl6T7SphjU",
+            "name": "Rein Them In",
+            "publisher": "Megan Elphick",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f11d2681edcac989304a97175",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/08Ffzq1kNbWARl6T7SphjU"
+        },
+        {
+            "rank": 17,
             "spotify_id": "6i9SWtZPb30xVXWVHSKCqq",
             "name": "Trash Taste Podcast",
             "publisher": "Trash Taste Podcast",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fb6cb66e75137f9cce31e4480",
             "rank_move": "UNCHANGED",
             "url": "https:\/\/open.spotify.com\/show\/6i9SWtZPb30xVXWVHSKCqq"
+        },
+        {
+            "rank": 18,
+            "spotify_id": "1QQJ7FElLE0K6CIfZNCxU4",
+            "name": "Tales from the Stinky Dragon",
+            "publisher": "Stinky Dragon",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fb0484f8ee2933eceab32bac0",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/1QQJ7FElLE0K6CIfZNCxU4"
         },
         {
             "rank": 19,
@@ -179,69 +179,6 @@
         },
         {
             "rank": 20,
-            "spotify_id": "5x0mEVk7i9QNMSeXLjoKh9",
-            "name": "Button Boys",
-            "publisher": "Button Boys",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1ff84742e7680df78339c48860",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/5x0mEVk7i9QNMSeXLjoKh9"
-        },
-        {
-            "rank": 21,
-            "spotify_id": "5InQAFsb1CK7DNVd9BLFq8",
-            "name": "BBC Gardeners’ World Magazine Podcast",
-            "publisher": "Immediate Media",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fc1b4f45bed8f810b58fc720c",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/5InQAFsb1CK7DNVd9BLFq8"
-        },
-        {
-            "rank": 22,
-            "spotify_id": "6bvn2vJ02HDsUgOYeGqcfp",
-            "name": "BENOFTHEWEEK",
-            "publisher": "BENOFTHEWEEK",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fb941e438cf9f7a76f3aad4a6",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/6bvn2vJ02HDsUgOYeGqcfp"
-        },
-        {
-            "rank": 23,
-            "spotify_id": "1LiNeylmW3MCZrCtjv2cMj",
-            "name": "Home Grown with Martha and Jamie",
-            "publisher": "Home Grown Productions ",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fff12309a0215995c7c40b0b1",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/1LiNeylmW3MCZrCtjv2cMj"
-        },
-        {
-            "rank": 24,
-            "spotify_id": "1QQJ7FElLE0K6CIfZNCxU4",
-            "name": "Tales from the Stinky Dragon",
-            "publisher": "Stinky Dragon",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fb0484f8ee2933eceab32bac0",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/1QQJ7FElLE0K6CIfZNCxU4"
-        },
-        {
-            "rank": 25,
-            "spotify_id": "4ldZjCEfUs7oXKhIjQTnlW",
-            "name": "LazarBeam (UNOFFICIAL)",
-            "publisher": "FanBeam ",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fcc48f99df4fc8778bc6a6fdd",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/4ldZjCEfUs7oXKhIjQTnlW"
-        },
-        {
-            "rank": 26,
-            "spotify_id": "6aakHkxjdrrptbcJ7ICxjQ",
-            "name": "SoundEffectPodcast",
-            "publisher": "Mr.Sound",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fa29f38609c85ee4b5fa8a1f0",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/6aakHkxjdrrptbcJ7ICxjQ"
-        },
-        {
-            "rank": 27,
             "spotify_id": "2LVcZeUmHMO9gHmrn6eIjk",
             "name": "Talk Horse",
             "publisher": "Talk horse",
@@ -250,67 +187,130 @@
             "url": "https:\/\/open.spotify.com\/show\/2LVcZeUmHMO9gHmrn6eIjk"
         },
         {
+            "rank": 21,
+            "spotify_id": "2O7a575iiriWmYwwk2ewpR",
+            "name": "Korda - The Thinking Tackle Podcast",
+            "publisher": "Korda Developments Ltd",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f9dece3f19978e8e2550c189a",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/2O7a575iiriWmYwwk2ewpR"
+        },
+        {
+            "rank": 22,
+            "spotify_id": "6aakHkxjdrrptbcJ7ICxjQ",
+            "name": "SoundEffectPodcast",
+            "publisher": "Mr.Sound",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fa29f38609c85ee4b5fa8a1f0",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/6aakHkxjdrrptbcJ7ICxjQ"
+        },
+        {
+            "rank": 23,
+            "spotify_id": "5InQAFsb1CK7DNVd9BLFq8",
+            "name": "BBC Gardeners’ World Magazine Podcast",
+            "publisher": "Immediate Media",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fc1b4f45bed8f810b58fc720c",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/5InQAFsb1CK7DNVd9BLFq8"
+        },
+        {
+            "rank": 24,
+            "spotify_id": "5x0mEVk7i9QNMSeXLjoKh9",
+            "name": "Button Boys",
+            "publisher": "Button Boys",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1ff84742e7680df78339c48860",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/5x0mEVk7i9QNMSeXLjoKh9"
+        },
+        {
+            "rank": 25,
+            "spotify_id": "3kupFE4HJtPDPbawmrxa5D",
+            "name": "Game Theory",
+            "publisher": "Game Theory",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1ffbfed74cb574cdef70a4e36d",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/3kupFE4HJtPDPbawmrxa5D"
+        },
+        {
+            "rank": 26,
+            "spotify_id": "6bvn2vJ02HDsUgOYeGqcfp",
+            "name": "BENOFTHEWEEK",
+            "publisher": "BENOFTHEWEEK",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fb941e438cf9f7a76f3aad4a6",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/6bvn2vJ02HDsUgOYeGqcfp"
+        },
+        {
+            "rank": 27,
+            "spotify_id": "1LiNeylmW3MCZrCtjv2cMj",
+            "name": "Home Grown with Martha and Jamie",
+            "publisher": "Home Grown Productions ",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fff12309a0215995c7c40b0b1",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/1LiNeylmW3MCZrCtjv2cMj"
+        },
+        {
             "rank": 28,
+            "spotify_id": "4YkcHFY6GzVvX3bdF8z6uw",
+            "name": "Joe Bartolozzi",
+            "publisher": "Joe Bartolozzi",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fa2c52a46218d5e08e7bfcc8d",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/4YkcHFY6GzVvX3bdF8z6uw"
+        },
+        {
+            "rank": 29,
             "spotify_id": "5cuttjUROKV4sPsGOdx5k0",
             "name": "IGN UK Podcast",
             "publisher": "IGN & Geek Media",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fb26b5d49e208c85519c6c49d",
-            "rank_move": "UP",
+            "rank_move": "DOWN",
             "url": "https:\/\/open.spotify.com\/show\/5cuttjUROKV4sPsGOdx5k0"
         },
         {
-            "rank": 29,
+            "rank": 30,
+            "spotify_id": "5bSR6kZIAz7kjMPufG9pVR",
+            "name": "xNestorio",
+            "publisher": "xNestorio",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fdaefab1cd4ad1b20dad473cb",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/5bSR6kZIAz7kjMPufG9pVR"
+        },
+        {
+            "rank": 31,
+            "spotify_id": "1BUr8s70dfCAYDOOvyrBKU",
+            "name": "Serena Neel",
+            "publisher": "Serena Neel",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f53d48f165be3cbac517c8bd2",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/1BUr8s70dfCAYDOOvyrBKU"
+        },
+        {
+            "rank": 32,
             "spotify_id": "2aX0H2f7iZmudRVfdDWW1T",
             "name": "Esme's Country Life",
             "publisher": "Esme Higgs",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fbea41fa374f8da47aa9ea475",
-            "rank_move": "UP",
+            "rank_move": "UNCHANGED",
             "url": "https:\/\/open.spotify.com\/show\/2aX0H2f7iZmudRVfdDWW1T"
         },
         {
-            "rank": 30,
-            "spotify_id": "1iIFvDH9BIDJXF2TPgOyjY",
-            "name": "Mark McCann 64 LIVE",
-            "publisher": "Mark McCann",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fb4534efbffcabc99bef98fcf",
+            "rank": 33,
+            "spotify_id": "4ldZjCEfUs7oXKhIjQTnlW",
+            "name": "LazarBeam (UNOFFICIAL)",
+            "publisher": "FanBeam ",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fcc48f99df4fc8778bc6a6fdd",
             "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/1iIFvDH9BIDJXF2TPgOyjY"
+            "url": "https:\/\/open.spotify.com\/show\/4ldZjCEfUs7oXKhIjQTnlW"
         },
         {
-            "rank": 31,
+            "rank": 34,
             "spotify_id": "3eCs2WeZ6upd5HNRaiMrVs",
             "name": "Kat",
             "publisher": "Kat",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f5f70e5bcae2304ef813d70c5",
             "rank_move": "UP",
             "url": "https:\/\/open.spotify.com\/show\/3eCs2WeZ6upd5HNRaiMrVs"
-        },
-        {
-            "rank": 32,
-            "spotify_id": "0ATzt164KrvPxQbTOXUxP6",
-            "name": "Semiverse",
-            "publisher": "SEmi",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f00676b98873e8be16bb0a5b3",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/0ATzt164KrvPxQbTOXUxP6"
-        },
-        {
-            "rank": 33,
-            "spotify_id": "5wOjO4cKtiG3Xu5a312qLs",
-            "name": "Mystery Quest",
-            "publisher": "Pickaxe",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f0cab12db36ccbb72b6742565",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/5wOjO4cKtiG3Xu5a312qLs"
-        },
-        {
-            "rank": 34,
-            "spotify_id": "4YkcHFY6GzVvX3bdF8z6uw",
-            "name": "Joe Bartolozzi",
-            "publisher": "Joe Bartolozzi",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fa2c52a46218d5e08e7bfcc8d",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/4YkcHFY6GzVvX3bdF8z6uw"
         },
         {
             "rank": 35,
@@ -323,60 +323,15 @@
         },
         {
             "rank": 36,
-            "spotify_id": "5vYkm773dNOU1k7A6YMVBB",
-            "name": "Chasin' The Racin'",
-            "publisher": "Chasin' The Racin'",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1febdc8a7362ce68bbf0666856",
+            "spotify_id": "5Ehds6tHEHolDYL0vSPxyZ",
+            "name": "All-Ways Carp Fishing Podcast",
+            "publisher": "Fox International",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f0ae352400ae7b9897f574902",
             "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/5vYkm773dNOU1k7A6YMVBB"
+            "url": "https:\/\/open.spotify.com\/show\/5Ehds6tHEHolDYL0vSPxyZ"
         },
         {
             "rank": 37,
-            "spotify_id": "7i3k4Hw6DKowIxpscK7Erv",
-            "name": "Gardeners' Question Time",
-            "publisher": "BBC Radio 4",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fc2346209733552340cc5212b",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/7i3k4Hw6DKowIxpscK7Erv"
-        },
-        {
-            "rank": 38,
-            "spotify_id": "62V6YaK1hmkb37thGm8aFu",
-            "name": "GOONS",
-            "publisher": "The Goons Podcast",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f169287097ae6f625929b8fb5",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/62V6YaK1hmkb37thGm8aFu"
-        },
-        {
-            "rank": 39,
-            "spotify_id": "6IjISdpbQ3SLxe7RQfdq2t",
-            "name": "Kinda Funny Gamescast: Video Game Podcast",
-            "publisher": "Kinda Funny",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f99ff3f756be8d00b745a3c85",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/6IjISdpbQ3SLxe7RQfdq2t"
-        },
-        {
-            "rank": 40,
-            "spotify_id": "2b6kqq5WHAD4rPmSvtXIkP",
-            "name": "BriannaPlayz",
-            "publisher": "BriannaPlayz",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f9d2627d87a661fe34a06f384",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/2b6kqq5WHAD4rPmSvtXIkP"
-        },
-        {
-            "rank": 41,
-            "spotify_id": "3kupFE4HJtPDPbawmrxa5D",
-            "name": "Game Theory",
-            "publisher": "Game Theory",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1ffbfed74cb574cdef70a4e36d",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/3kupFE4HJtPDPbawmrxa5D"
-        },
-        {
-            "rank": 42,
             "spotify_id": "75Wj1jpLKribbIZKTrf9aI",
             "name": "WhatCulture Gaming",
             "publisher": "WhatCulture.com",
@@ -385,52 +340,61 @@
             "url": "https:\/\/open.spotify.com\/show\/75Wj1jpLKribbIZKTrf9aI"
         },
         {
-            "rank": 43,
-            "spotify_id": "02McTVi1fD6EJ5hPjFh8cL",
-            "name": "The Ninja Fam",
-            "publisher": "Play.Works",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fbfcf645a29cf3535babbb4b4",
+            "rank": 38,
+            "spotify_id": "3R3pYr9KvHaEjOBTQC2lzd",
+            "name": "Matt Slays",
+            "publisher": "Matt Slays",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fd5d1d50b67dcc9048a8a3f88",
             "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/02McTVi1fD6EJ5hPjFh8cL"
+            "url": "https:\/\/open.spotify.com\/show\/3R3pYr9KvHaEjOBTQC2lzd"
+        },
+        {
+            "rank": 39,
+            "spotify_id": "62V6YaK1hmkb37thGm8aFu",
+            "name": "GOONS",
+            "publisher": "The Goons Podcast",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f169287097ae6f625929b8fb5",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/62V6YaK1hmkb37thGm8aFu"
+        },
+        {
+            "rank": 40,
+            "spotify_id": "2b6kqq5WHAD4rPmSvtXIkP",
+            "name": "BriannaPlayz",
+            "publisher": "BriannaPlayz",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f9d2627d87a661fe34a06f384",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/2b6kqq5WHAD4rPmSvtXIkP"
+        },
+        {
+            "rank": 41,
+            "spotify_id": "5wOjO4cKtiG3Xu5a312qLs",
+            "name": "Mystery Quest",
+            "publisher": "Pickaxe",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f0cab12db36ccbb72b6742565",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/5wOjO4cKtiG3Xu5a312qLs"
+        },
+        {
+            "rank": 42,
+            "spotify_id": "2n0fAyW4rusCz5ewYcziao",
+            "name": "Ali-A",
+            "publisher": "Ali-A",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f894e7397d5ad20c722a4602f",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/2n0fAyW4rusCz5ewYcziao"
+        },
+        {
+            "rank": 43,
+            "spotify_id": "1W76bq3GUxEa9dQS1NY4j3",
+            "name": "Evbo",
+            "publisher": "Evbo",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fb9ce37ef6a9400451bd40eaa",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/1W76bq3GUxEa9dQS1NY4j3"
         },
         {
             "rank": 44,
-            "spotify_id": "0kImhHxzpsoSm023JUCaJU",
-            "name": "Shut Up and Ride",
-            "publisher": "Shut up productions",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1ff16b54418c4124625ad06318",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/0kImhHxzpsoSm023JUCaJU"
-        },
-        {
-            "rank": 45,
-            "spotify_id": "5bSR6kZIAz7kjMPufG9pVR",
-            "name": "xNestorio",
-            "publisher": "xNestorio",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fdaefab1cd4ad1b20dad473cb",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/5bSR6kZIAz7kjMPufG9pVR"
-        },
-        {
-            "rank": 46,
-            "spotify_id": "0SJevumLiME0nHfVCeGIZr",
-            "name": "LaurenZside",
-            "publisher": "LaurenZSide",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f21224a8a4fc1a9f2ae78f990",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/0SJevumLiME0nHfVCeGIZr"
-        },
-        {
-            "rank": 47,
-            "spotify_id": "38hqqX4m4eYtKZXzuI8exS",
-            "name": "High Rollers DnD",
-            "publisher": "Pickaxe",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f55cf6a8b82c5a1f3906f176b",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/38hqqX4m4eYtKZXzuI8exS"
-        },
-        {
-            "rank": 48,
             "spotify_id": "5wM2Cvlu1ffdf7z5fo5NFh",
             "name": "Lana's Life",
             "publisher": "Lana Rae",
@@ -439,22 +403,58 @@
             "url": "https:\/\/open.spotify.com\/show\/5wM2Cvlu1ffdf7z5fo5NFh"
         },
         {
-            "rank": 49,
-            "spotify_id": "6JWsa82k7slj7O6Mnjx380",
-            "name": "SSundee",
-            "publisher": "Play.works",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f548a44324f187487d8c11918",
+            "rank": 45,
+            "spotify_id": "6IjISdpbQ3SLxe7RQfdq2t",
+            "name": "Kinda Funny Gamescast: Video Game Podcast",
+            "publisher": "Kinda Funny",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f99ff3f756be8d00b745a3c85",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/6IjISdpbQ3SLxe7RQfdq2t"
+        },
+        {
+            "rank": 46,
+            "spotify_id": "38hqqX4m4eYtKZXzuI8exS",
+            "name": "High Rollers DnD",
+            "publisher": "Pickaxe",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f55cf6a8b82c5a1f3906f176b",
             "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/6JWsa82k7slj7O6Mnjx380"
+            "url": "https:\/\/open.spotify.com\/show\/38hqqX4m4eYtKZXzuI8exS"
+        },
+        {
+            "rank": 47,
+            "spotify_id": "0z4ahGyJ6w38yr1q0u6zyi",
+            "name": "WelcominTV",
+            "publisher": "WelcominTV",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f7bae982f44e0b454b01d26c6",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/0z4ahGyJ6w38yr1q0u6zyi"
+        },
+        {
+            "rank": 48,
+            "spotify_id": "0l6uRgaiOnv8KP8B43bTSM",
+            "name": "Game Scoop!",
+            "publisher": "IGN",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f8577e5edc93da1a82ea1eb07",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/0l6uRgaiOnv8KP8B43bTSM"
+        },
+        {
+            "rank": 49,
+            "spotify_id": "0SJevumLiME0nHfVCeGIZr",
+            "name": "LaurenZside",
+            "publisher": "LaurenZSide",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f21224a8a4fc1a9f2ae78f990",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/0SJevumLiME0nHfVCeGIZr"
         },
         {
             "rank": 50,
-            "spotify_id": "2n0fAyW4rusCz5ewYcziao",
-            "name": "Ali-A",
-            "publisher": "Ali-A",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f894e7397d5ad20c722a4602f",
+            "spotify_id": "1hXrn6RoMMAiNGLE8jxKKf",
+            "name": "Kinda Funny Games Daily: Video Games News Podcast",
+            "publisher": "Kinda Funny",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f741db5fed82865572425bfc0",
             "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/2n0fAyW4rusCz5ewYcziao"
+            "url": "https:\/\/open.spotify.com\/show\/1hXrn6RoMMAiNGLE8jxKKf"
         }
     ]
 }

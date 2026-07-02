@@ -3,7 +3,7 @@
     "country": "se",
     "genre": "Music",
     "slug": "music",
-    "fetched_at": "2026-06-24T06:37:53Z",
+    "fetched_at": "2026-07-01T04:44:40Z",
     "count": 50,
     "shows": [
         {
@@ -17,30 +17,30 @@
         },
         {
             "rank": 2,
+            "spotify_id": "3mNzAtzbx87dJmkrz7HtS5",
+            "name": "STAN:A",
+            "publisher": "HYBE MEDIA STUDIO",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fbb1c5260bbd9bee237fda4d7",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/3mNzAtzbx87dJmkrz7HtS5"
+        },
+        {
+            "rank": 3,
+            "spotify_id": "1jeGU80iMW52NmWXVjixWc",
+            "name": "SkivSnack",
+            "publisher": "Stefan Sundberg",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f9a6b91ff01db54540a812f44",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/1jeGU80iMW52NmWXVjixWc"
+        },
+        {
+            "rank": 4,
             "spotify_id": "3id7ukRxrGUILeOeGQV4HN",
             "name": "Hemma hos Strage",
             "publisher": "Lejon Media",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f980aaadbbfa6adedc6466524",
-            "rank_move": "UNCHANGED",
+            "rank_move": "DOWN",
             "url": "https:\/\/open.spotify.com\/show\/3id7ukRxrGUILeOeGQV4HN"
-        },
-        {
-            "rank": 3,
-            "spotify_id": "5RFZ1vzfbLamNOIn9n3ie7",
-            "name": "Rockpodden",
-            "publisher": "Henke Brannerydh",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f27772f38acc0c53c39124880",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/5RFZ1vzfbLamNOIn9n3ie7"
-        },
-        {
-            "rank": 4,
-            "spotify_id": "2LVWxoynO8sMzoWlzsIoTw",
-            "name": "Alex Room Service - En podcast om (oftast) KISS",
-            "publisher": "Alex Bergdahl",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f1048b54ceaf7fb2d82525e67",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/2LVWxoynO8sMzoWlzsIoTw"
         },
         {
             "rank": 5,
@@ -53,6 +53,15 @@
         },
         {
             "rank": 6,
+            "spotify_id": "5RFZ1vzfbLamNOIn9n3ie7",
+            "name": "Rockpodden",
+            "publisher": "Henke Brannerydh",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f27772f38acc0c53c39124880",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/5RFZ1vzfbLamNOIn9n3ie7"
+        },
+        {
+            "rank": 7,
             "spotify_id": "4BImKA2BZd1r7DIFS1FIUE",
             "name": "Gitarrpodden",
             "publisher": "Andreas Rydman och Fredrik Heghammar",
@@ -61,7 +70,34 @@
             "url": "https:\/\/open.spotify.com\/show\/4BImKA2BZd1r7DIFS1FIUE"
         },
         {
-            "rank": 7,
+            "rank": 8,
+            "spotify_id": "4VDjxNEkalkHMwqZFESFZA",
+            "name": "Music Görnings Podcaster (GRATIS-FEEDEN)",
+            "publisher": "Dom Viktiga Skorna",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1ff914b06be2b87af30ce04289",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/4VDjxNEkalkHMwqZFESFZA"
+        },
+        {
+            "rank": 9,
+            "spotify_id": "2LVWxoynO8sMzoWlzsIoTw",
+            "name": "Alex Room Service - En podcast om (oftast) KISS",
+            "publisher": "Alex Bergdahl",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f1048b54ceaf7fb2d82525e67",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/2LVWxoynO8sMzoWlzsIoTw"
+        },
+        {
+            "rank": 10,
+            "spotify_id": "4XnV4eRPVMFcaHZli803KB",
+            "name": "Döda Katten - Podcast",
+            "publisher": "Ninjabomb Produktion",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f78f046f9cd75ec3862d1116e",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/4XnV4eRPVMFcaHZli803KB"
+        },
+        {
+            "rank": 11,
             "spotify_id": "0EwDk36KVbO6d6Rbjacf4Z",
             "name": "Billions Club: The Series",
             "publisher": "Spotify",
@@ -70,34 +106,34 @@
             "url": "https:\/\/open.spotify.com\/show\/0EwDk36KVbO6d6Rbjacf4Z"
         },
         {
-            "rank": 8,
+            "rank": 12,
+            "spotify_id": "38hBbzx7YinL6JXLKRmXzi",
+            "name": "Tonårsdrömmar",
+            "publisher": "Popmedia",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f3b6dd044b8d3e233b4f866e7",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/38hBbzx7YinL6JXLKRmXzi"
+        },
+        {
+            "rank": 13,
+            "spotify_id": "1YUIQtvWilj8tuxE0eJU3h",
+            "name": "Mästerverken",
+            "publisher": "Sveriges Radio",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f8d8ef7b0cb7c002c7494d9bd",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/1YUIQtvWilj8tuxE0eJU3h"
+        },
+        {
+            "rank": 14,
             "spotify_id": "7pJdHDrUFVnv9Tg9ap8PgT",
             "name": "Nordmark Pod",
             "publisher": "Per Nordmark, ALOADED",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f14857250f71dc9bb534d85a9",
-            "rank_move": "UP",
+            "rank_move": "DOWN",
             "url": "https:\/\/open.spotify.com\/show\/7pJdHDrUFVnv9Tg9ap8PgT"
         },
         {
-            "rank": 9,
-            "spotify_id": "4VDjxNEkalkHMwqZFESFZA",
-            "name": "Music Görnings Podcaster (GRATIS-FEEDEN)",
-            "publisher": "Dom Viktiga Skorna",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1ff914b06be2b87af30ce04289",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/4VDjxNEkalkHMwqZFESFZA"
-        },
-        {
-            "rank": 10,
-            "spotify_id": "5Ra4DeILtEODwlqeaLZFSs",
-            "name": "Hello Country",
-            "publisher": "Hello Country",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f040be62071691b37b6642c87",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/5Ra4DeILtEODwlqeaLZFSs"
-        },
-        {
-            "rank": 11,
+            "rank": 15,
             "spotify_id": "0FnO0ZnEWY47DWhP8L7WNo",
             "name": "Hundåren - Motgångspodden av Tomas Andersson Wij",
             "publisher": "Tomas Andersson Wij",
@@ -106,7 +142,7 @@
             "url": "https:\/\/open.spotify.com\/show\/0FnO0ZnEWY47DWhP8L7WNo"
         },
         {
-            "rank": 12,
+            "rank": 16,
             "spotify_id": "1YK7udUXloac2J0lVSSHuA",
             "name": "Let Me Know - Kiss Army Sweden Podcast",
             "publisher": "Let Me Know - Bernt Månsson & Marko Rouvinen",
@@ -115,67 +151,31 @@
             "url": "https:\/\/open.spotify.com\/show\/1YK7udUXloac2J0lVSSHuA"
         },
         {
-            "rank": 13,
-            "spotify_id": "1YUIQtvWilj8tuxE0eJU3h",
-            "name": "Mästerverken",
-            "publisher": "Sveriges Radio",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f8d8ef7b0cb7c002c7494d9bd",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/1YUIQtvWilj8tuxE0eJU3h"
-        },
-        {
-            "rank": 14,
-            "spotify_id": "1jeGU80iMW52NmWXVjixWc",
-            "name": "SkivSnack",
-            "publisher": "Stefan Sundberg",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f9a6b91ff01db54540a812f44",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/1jeGU80iMW52NmWXVjixWc"
-        },
-        {
-            "rank": 15,
-            "spotify_id": "32nrELoqwMLbMbRrL5yMWx",
-            "name": "C90",
-            "publisher": "Bogea Media",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fdefe798a91999a7b2ada2c9a",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/32nrELoqwMLbMbRrL5yMWx"
-        },
-        {
-            "rank": 16,
-            "spotify_id": "0BAXLRTKh5whTmoeqjWPVi",
-            "name": "Rockhyllan",
-            "publisher": "I LIKE RADIO",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f15ea3e07ccc5d29b6399e53f",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/0BAXLRTKh5whTmoeqjWPVi"
-        },
-        {
             "rank": 17,
             "spotify_id": "7G8X3uikqwAmvr92MHFZO6",
             "name": "The Joe Budden Podcast",
             "publisher": "The Joe Budden Network",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f49fbee060230aabe7363cd39",
-            "rank_move": "UNCHANGED",
+            "rank_move": "UP",
             "url": "https:\/\/open.spotify.com\/show\/7G8X3uikqwAmvr92MHFZO6"
         },
         {
             "rank": 18,
-            "spotify_id": "7gdNlDoIhOGPt6wQctkphC",
-            "name": "Väsby Rock Podcast",
-            "publisher": "Väsby Musikförening",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f534ce8c91b8017d136cf70a9",
+            "spotify_id": "033wN3Tl0eziT0gvBI0L7u",
+            "name": " 𓈒🖥🎹💿 ̣̣ ۟    ―     愛     ꓄𝗲𝗮𝗹'𝘀 𝗺𝘂𝘀𝗶𝗰 𝘀𝘁𝘂𝗱𝗶𝗼 𖦹",
+            "publisher": "🖥📎 ﹫  𝙏𝙚𝙖𝙡  ／  𝙏𝙚𝙖𝙡𝙞𝙤    ݂      𓄳   🎹💿",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fce99970613d57cc518912a1b",
             "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/7gdNlDoIhOGPt6wQctkphC"
+            "url": "https:\/\/open.spotify.com\/show\/033wN3Tl0eziT0gvBI0L7u"
         },
         {
             "rank": 19,
-            "spotify_id": "38hBbzx7YinL6JXLKRmXzi",
-            "name": "Tonårsdrömmar",
-            "publisher": "Popmedia",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f3b6dd044b8d3e233b4f866e7",
+            "spotify_id": "02gq2bCsATTWTwjlYnfogF",
+            "name": "Blå måndag",
+            "publisher": "Måns Jonasson",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f1f97f8323e727fa9cdbc1613",
             "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/38hBbzx7YinL6JXLKRmXzi"
+            "url": "https:\/\/open.spotify.com\/show\/02gq2bCsATTWTwjlYnfogF"
         },
         {
             "rank": 20,
@@ -183,56 +183,29 @@
             "name": "Trap Lore Ross",
             "publisher": "Trap Lore Ross",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f9c8179955fde464d3810e1fe",
-            "rank_move": "UP",
+            "rank_move": "UNCHANGED",
             "url": "https:\/\/open.spotify.com\/show\/0QORyVQIR6eXZO2I8uFml2"
         },
         {
             "rank": 21,
-            "spotify_id": "033uD8AJRTF7cogr0i4Tug",
-            "name": "HeartsPod",
-            "publisher": "Hearts2Hearts",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f9abf7cb2946741df1ab3961a",
+            "spotify_id": "5Ra4DeILtEODwlqeaLZFSs",
+            "name": "Hello Country",
+            "publisher": "Hello Country",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f040be62071691b37b6642c87",
             "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/033uD8AJRTF7cogr0i4Tug"
+            "url": "https:\/\/open.spotify.com\/show\/5Ra4DeILtEODwlqeaLZFSs"
         },
         {
             "rank": 22,
-            "spotify_id": "3mNzAtzbx87dJmkrz7HtS5",
-            "name": "STAN:A",
-            "publisher": "HYBE MEDIA STUDIO",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f21e47d5addfd3329e40533b7",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/3mNzAtzbx87dJmkrz7HtS5"
+            "spotify_id": "7gdNlDoIhOGPt6wQctkphC",
+            "name": "Väsby Rock Podcast",
+            "publisher": "Väsby Musikförening",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f534ce8c91b8017d136cf70a9",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/7gdNlDoIhOGPt6wQctkphC"
         },
         {
             "rank": 23,
-            "spotify_id": "6rVmkO7rdMfQD7YeFDd7ra",
-            "name": "Gatuslang",
-            "publisher": "Gatuslang",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fd873aaf68aac4cc204046044",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/6rVmkO7rdMfQD7YeFDd7ra"
-        },
-        {
-            "rank": 24,
-            "spotify_id": "1XoYmezf71A4ifqAZYgndG",
-            "name": "You'll Hear It: Full Album Deep Dives with Jazz Musicians",
-            "publisher": "Peter Martin & Adam Maness",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f7793303f12dca783ea7925a7",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/1XoYmezf71A4ifqAZYgndG"
-        },
-        {
-            "rank": 25,
-            "spotify_id": "5AjVFI7tZexfqJ8qwiCOx7",
-            "name": "Schlagervännerna",
-            "publisher": "Schlagervännerna",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fe9ce7d5725ead60c4b2d5120",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/5AjVFI7tZexfqJ8qwiCOx7"
-        },
-        {
-            "rank": 26,
             "spotify_id": "2b025hq3gJ17tQdxS3aV43",
             "name": "Dissect",
             "publisher": "Spotify Studios",
@@ -241,79 +214,79 @@
             "url": "https:\/\/open.spotify.com\/show\/2b025hq3gJ17tQdxS3aV43"
         },
         {
+            "rank": 24,
+            "spotify_id": "5AjVFI7tZexfqJ8qwiCOx7",
+            "name": "Schlagervännerna",
+            "publisher": "Schlagervännerna",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fe9ce7d5725ead60c4b2d5120",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/5AjVFI7tZexfqJ8qwiCOx7"
+        },
+        {
+            "rank": 25,
+            "spotify_id": "1XoYmezf71A4ifqAZYgndG",
+            "name": "You'll Hear It: Full Album Deep Dives with Jazz Musicians",
+            "publisher": "Peter Martin & Adam Maness",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f7793303f12dca783ea7925a7",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/1XoYmezf71A4ifqAZYgndG"
+        },
+        {
+            "rank": 26,
+            "spotify_id": "6UsuhRMTD9O71DznRP8540",
+            "name": "Broken Record with Rick Rubin, Malcolm Gladwell, Bruce Headlam and Justin Richmond",
+            "publisher": "Pushkin Industries",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1ff54cb362c0270c6c68bc5b25",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/6UsuhRMTD9O71DznRP8540"
+        },
+        {
             "rank": 27,
-            "spotify_id": "033wN3Tl0eziT0gvBI0L7u",
-            "name": " 𓈒🖥🎹💿 ̣̣ ۟    ―     愛     ꓄𝗲𝗮𝗹'𝘀 𝗺𝘂𝘀𝗶𝗰 𝘀𝘁𝘂𝗱𝗶𝗼 𖦹",
-            "publisher": "🖥📎 ﹫  𝙏𝙚𝙖𝙡  ／  𝙏𝙚𝙖𝙡𝙞𝙤    ݂      𓄳   🎹💿",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fce99970613d57cc518912a1b",
-            "rank_move": "NEW",
-            "url": "https:\/\/open.spotify.com\/show\/033wN3Tl0eziT0gvBI0L7u"
+            "spotify_id": "5HHEFjbW196ymwEuDa2BAx",
+            "name": "One Song",
+            "publisher": "Hartbeat",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f8b6e0a726a5188164a942f2d",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/5HHEFjbW196ymwEuDa2BAx"
         },
         {
             "rank": 28,
-            "spotify_id": "4XnV4eRPVMFcaHZli803KB",
-            "name": "Döda Katten - Podcast",
-            "publisher": "Ninjabomb Produktion",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f78f046f9cd75ec3862d1116e",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/4XnV4eRPVMFcaHZli803KB"
+            "spotify_id": "5a02tHVbucM7zRFXwbh2il",
+            "name": "Musikpodden 1-2-3-4!",
+            "publisher": "Musikpodden 1-2-3-4!",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f4bbae7b28b0650abe2e86a74",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/5a02tHVbucM7zRFXwbh2il"
         },
         {
             "rank": 29,
-            "spotify_id": "6guHNz488NfO7cZur5TcE2",
-            "name": "Dansmusikpodden",
-            "publisher": "Özgür Can och Mats Wurnell",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fdd5c33a5cd2330f59e06a9bf",
+            "spotify_id": "32nrELoqwMLbMbRrL5yMWx",
+            "name": "C90",
+            "publisher": "Bogea Media",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fdefe798a91999a7b2ada2c9a",
             "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/6guHNz488NfO7cZur5TcE2"
+            "url": "https:\/\/open.spotify.com\/show\/32nrELoqwMLbMbRrL5yMWx"
         },
         {
             "rank": 30,
-            "spotify_id": "6ny8jvcp0RXJLMoIQ6gy3U",
-            "name": "Hundåren - Motgångspodden av Tomas Andersson Wij",
-            "publisher": "Tomas Andersson Wij",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f07f86530557e84b8258d4911",
+            "spotify_id": "2Mzn2CScIh1ebkDQRHkqXC",
+            "name": "pop culture & music explored - mattycast",
+            "publisher": "mattyballz",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fcb628e51ade75bb66f771999",
             "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/6ny8jvcp0RXJLMoIQ6gy3U"
+            "url": "https:\/\/open.spotify.com\/show\/2Mzn2CScIh1ebkDQRHkqXC"
         },
         {
             "rank": 31,
-            "spotify_id": "7bnvk6OnqD8TsZWCsiENPS",
-            "name": "Musikbranschpodden",
-            "publisher": "DMG Education",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fc11e3e8c7ec93c4e7dc45980",
+            "spotify_id": "1YwPfCDf1rJiyT48tYZgxl",
+            "name": "The Downbeat",
+            "publisher": "Craig Reynolds",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fe130507cdd29235f83a41381",
             "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/7bnvk6OnqD8TsZWCsiENPS"
+            "url": "https:\/\/open.spotify.com\/show\/1YwPfCDf1rJiyT48tYZgxl"
         },
         {
             "rank": 32,
-            "spotify_id": "7BopIybXuBlm1Xo5k3850V",
-            "name": "bakerbaker",
-            "publisher": "Naomi Baker",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f612dff93349d3c752a0e89e3",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/7BopIybXuBlm1Xo5k3850V"
-        },
-        {
-            "rank": 33,
-            "spotify_id": "3MpBhEWOmV6FnbRALwhYhZ",
-            "name": "Batala's ASMR",
-            "publisher": "Batala's ASMR",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fe484f4ca6ba930b961b98e60",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/3MpBhEWOmV6FnbRALwhYhZ"
-        },
-        {
-            "rank": 34,
-            "spotify_id": "02gq2bCsATTWTwjlYnfogF",
-            "name": "Blå måndag",
-            "publisher": "Måns Jonasson",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f1f97f8323e727fa9cdbc1613",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/02gq2bCsATTWTwjlYnfogF"
-        },
-        {
-            "rank": 35,
             "spotify_id": "17fbhE2k4xVcyHyMXXejnc",
             "name": "قصائد | Poems ",
             "publisher": "muslim culture ",
@@ -322,124 +295,133 @@
             "url": "https:\/\/open.spotify.com\/show\/17fbhE2k4xVcyHyMXXejnc"
         },
         {
-            "rank": 36,
-            "spotify_id": "2Mzn2CScIh1ebkDQRHkqXC",
-            "name": "pop culture & music explored - mattycast",
-            "publisher": "mattyballz",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fcb628e51ade75bb66f771999",
+            "rank": 33,
+            "spotify_id": "3MpBhEWOmV6FnbRALwhYhZ",
+            "name": "Batala's ASMR",
+            "publisher": "Batala's ASMR",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fe484f4ca6ba930b961b98e60",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/3MpBhEWOmV6FnbRALwhYhZ"
+        },
+        {
+            "rank": 34,
+            "spotify_id": "6guHNz488NfO7cZur5TcE2",
+            "name": "Dansmusikpodden",
+            "publisher": "Özgür Can och Mats Wurnell",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fdd5c33a5cd2330f59e06a9bf",
             "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/2Mzn2CScIh1ebkDQRHkqXC"
+            "url": "https:\/\/open.spotify.com\/show\/6guHNz488NfO7cZur5TcE2"
+        },
+        {
+            "rank": 35,
+            "spotify_id": "7bnvk6OnqD8TsZWCsiENPS",
+            "name": "Musikbranschpodden",
+            "publisher": "DMG Education",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fc11e3e8c7ec93c4e7dc45980",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/7bnvk6OnqD8TsZWCsiENPS"
+        },
+        {
+            "rank": 36,
+            "spotify_id": "0BAXLRTKh5whTmoeqjWPVi",
+            "name": "Rockhyllan",
+            "publisher": "I LIKE RADIO",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f15ea3e07ccc5d29b6399e53f",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/0BAXLRTKh5whTmoeqjWPVi"
         },
         {
             "rank": 37,
-            "spotify_id": "033k4HPcrDJyCr2SLFCicL",
-            "name": "BBC Radio 1",
-            "publisher": "BBC Music",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f77b749b179b0f7e27dfbd27a",
+            "spotify_id": "4kelmJnygnp0pyjSf1Hw7s",
+            "name": "Hårdrockssnack",
+            "publisher": "Jessie Karlsson och Johannes Hoff",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f564e66b3ffa34eef9b9b4ef6",
             "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/033k4HPcrDJyCr2SLFCicL"
+            "url": "https:\/\/open.spotify.com\/show\/4kelmJnygnp0pyjSf1Hw7s"
         },
         {
             "rank": 38,
-            "spotify_id": "6R7048SmLBpWpn7nkmQ5mE",
-            "name": "Sju Tum Podcast",
-            "publisher": "LXO Crew",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1ff7abfa0133dfd17617cf241f",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/6R7048SmLBpWpn7nkmQ5mE"
-        },
-        {
-            "rank": 39,
-            "spotify_id": "5PXgyS5HEqDmmEF0WiYMFy",
-            "name": "Rockonteurs with Gary Kemp and Guy Pratt",
-            "publisher": "Gary Kemp and Guy Pratt",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f7d3733f8a259f594c16b8c33",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/5PXgyS5HEqDmmEF0WiYMFy"
-        },
-        {
-            "rank": 40,
-            "spotify_id": "5HHEFjbW196ymwEuDa2BAx",
-            "name": "One Song",
-            "publisher": "Hartbeat",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f8b6e0a726a5188164a942f2d",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/5HHEFjbW196ymwEuDa2BAx"
-        },
-        {
-            "rank": 41,
             "spotify_id": "0RW54TZDFT1NRgyQOfTnAB",
             "name": "Nordisk Metal",
             "publisher": "Joel Brink, Axel Brink, Jonatan Hedlin",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1ffc8953a92e4e73a90e9d3cd3",
-            "rank_move": "UP",
+            "rank_move": "DOWN",
             "url": "https:\/\/open.spotify.com\/show\/0RW54TZDFT1NRgyQOfTnAB"
         },
         {
-            "rank": 42,
-            "spotify_id": "3omhMGYtZccPsAoTNsBwzJ",
-            "name": "BBM 2F",
-            "publisher": "Thickums Johnson",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f8399ddd9442da9fd9f8324c5",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/3omhMGYtZccPsAoTNsBwzJ"
+            "rank": 39,
+            "spotify_id": "6ny8jvcp0RXJLMoIQ6gy3U",
+            "name": "Hundåren - Motgångspodden av Tomas Andersson Wij",
+            "publisher": "Tomas Andersson Wij",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f07f86530557e84b8258d4911",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/6ny8jvcp0RXJLMoIQ6gy3U"
         },
         {
-            "rank": 43,
-            "spotify_id": "5a02tHVbucM7zRFXwbh2il",
-            "name": "Musikpodden 1-2-3-4!",
-            "publisher": "Musikpodden 1-2-3-4!",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f4bbae7b28b0650abe2e86a74",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/5a02tHVbucM7zRFXwbh2il"
-        },
-        {
-            "rank": 44,
-            "spotify_id": "1YwPfCDf1rJiyT48tYZgxl",
-            "name": "The Downbeat",
-            "publisher": "Craig Reynolds",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fe130507cdd29235f83a41381",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/1YwPfCDf1rJiyT48tYZgxl"
-        },
-        {
-            "rank": 45,
-            "spotify_id": "7IXKWBvlFsaVZLNJx1aeHT",
-            "name": "Heavy Underground se",
-            "publisher": "Heavy Underground",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fe31354b04211663b107584be",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/7IXKWBvlFsaVZLNJx1aeHT"
-        },
-        {
-            "rank": 46,
-            "spotify_id": "6UsuhRMTD9O71DznRP8540",
-            "name": "Broken Record with Rick Rubin, Malcolm Gladwell, Bruce Headlam and Justin Richmond",
-            "publisher": "Pushkin Industries",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1ff54cb362c0270c6c68bc5b25",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/6UsuhRMTD9O71DznRP8540"
-        },
-        {
-            "rank": 47,
+            "rank": 40,
             "spotify_id": "1sgWaKtQxwfjUpZnnK8r7J",
             "name": "Switched on Pop",
             "publisher": "Vulture",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f66bde32cb648c3650db98902",
-            "rank_move": "UP",
+            "rank_move": "DOWN",
             "url": "https:\/\/open.spotify.com\/show\/1sgWaKtQxwfjUpZnnK8r7J"
         },
         {
-            "rank": 48,
-            "spotify_id": "3fNBNuihQSBAocEyLwpSCr",
-            "name": "MetalGeezer’s Podcast",
-            "publisher": "MetalGeezer",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f8fc9252a18328eb77a96cf6f",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/3fNBNuihQSBAocEyLwpSCr"
+            "rank": 41,
+            "spotify_id": "7BopIybXuBlm1Xo5k3850V",
+            "name": "bakerbaker",
+            "publisher": "Naomi Baker",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f612dff93349d3c752a0e89e3",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/7BopIybXuBlm1Xo5k3850V"
         },
         {
-            "rank": 49,
+            "rank": 42,
+            "spotify_id": "4Re2Ss3prlxFXgX0PsFzjk",
+            "name": "Garza Podcast",
+            "publisher": "Chris Garza",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f6f8f253fdb6dfc866af09ae5",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/4Re2Ss3prlxFXgX0PsFzjk"
+        },
+        {
+            "rank": 43,
+            "spotify_id": "6QRSZ1xqP5uUMgmHw3gBPL",
+            "name": "Zach Sang Show",
+            "publisher": "Sangasong, LLC",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f89df83518cccfec577a98c4e",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/6QRSZ1xqP5uUMgmHw3gBPL"
+        },
+        {
+            "rank": 44,
+            "spotify_id": "1yipmiRvIxZ2ucSVTgdNBx",
+            "name": "Sounds On Vinyl Podcast",
+            "publisher": "Sounds On Vinyl Podcast",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f76ef2cf573527ce765770e67",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/1yipmiRvIxZ2ucSVTgdNBx"
+        },
+        {
+            "rank": 45,
+            "spotify_id": "033k4HPcrDJyCr2SLFCicL",
+            "name": "BBC Radio 1",
+            "publisher": "BBC Music",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f77b749b179b0f7e27dfbd27a",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/033k4HPcrDJyCr2SLFCicL"
+        },
+        {
+            "rank": 46,
+            "spotify_id": "6rVmkO7rdMfQD7YeFDd7ra",
+            "name": "Gatuslang",
+            "publisher": "Gatuslang",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fd873aaf68aac4cc204046044",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/6rVmkO7rdMfQD7YeFDd7ra"
+        },
+        {
+            "rank": 47,
             "spotify_id": "28Oo4qf29ebvFYFQ2iQ68E",
             "name": "HardLore",
             "publisher": "Colin Young, Bo Lueders, Knotfest",
@@ -448,13 +430,31 @@
             "url": "https:\/\/open.spotify.com\/show\/28Oo4qf29ebvFYFQ2iQ68E"
         },
         {
-            "rank": 50,
-            "spotify_id": "70xT4aA9FayuPmrRAbMrSn",
-            "name": "Evolution of a Snake: The Taylor Swift Fan Podcast",
-            "publisher": "Evolution of a Snake: The Taylor Swift Fan Podcast",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f52d2213b5984bf04d565864c",
+            "rank": 48,
+            "spotify_id": "5PXgyS5HEqDmmEF0WiYMFy",
+            "name": "Rockonteurs with Gary Kemp and Guy Pratt",
+            "publisher": "Gary Kemp and Guy Pratt",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f7d3733f8a259f594c16b8c33",
             "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/70xT4aA9FayuPmrRAbMrSn"
+            "url": "https:\/\/open.spotify.com\/show\/5PXgyS5HEqDmmEF0WiYMFy"
+        },
+        {
+            "rank": 49,
+            "spotify_id": "7BwOE9MRsvML7xsRq9URks",
+            "name": "Guitar Geeks Podcast: Mer än du vill veta om gitarrer, förstärkare och allt däremellan.",
+            "publisher": "Guitar Geeks: gitarrister, musiker, gitarrnördar...",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f62991110dfd28bf7cfec1b8e",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/7BwOE9MRsvML7xsRq9URks"
+        },
+        {
+            "rank": 50,
+            "spotify_id": "7f5Rdm6RukUPsWFtxlEfOb",
+            "name": "1001 Album Club",
+            "publisher": "Birch",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f8a48131bfab2e4fd5777236a",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/7f5Rdm6RukUPsWFtxlEfOb"
         }
     ]
 }

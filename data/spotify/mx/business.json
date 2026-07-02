@@ -3,26 +3,26 @@
     "country": "mx",
     "genre": "Business",
     "slug": "business",
-    "fetched_at": "2026-06-24T06:38:05Z",
+    "fetched_at": "2026-07-01T04:44:53Z",
     "count": 50,
     "shows": [
         {
             "rank": 1,
-            "spotify_id": "16yvYZ8ETqpIL7S3kQNA7x",
-            "name": "Dimes y Billetes",
-            "publisher": "Moris Dieck",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fbde6468c8ea9239330b14e79",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/16yvYZ8ETqpIL7S3kQNA7x"
-        },
-        {
-            "rank": 2,
             "spotify_id": "3DhKkwcA6Pkl6s6xI1m9Im",
             "name": "Cracks Podcast con Oso Trava",
             "publisher": "Oso Trava",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f6fafff4e4c6d9b590304c831",
             "rank_move": "UNCHANGED",
             "url": "https:\/\/open.spotify.com\/show\/3DhKkwcA6Pkl6s6xI1m9Im"
+        },
+        {
+            "rank": 2,
+            "spotify_id": "16yvYZ8ETqpIL7S3kQNA7x",
+            "name": "Dimes y Billetes",
+            "publisher": "Moris Dieck",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fbde6468c8ea9239330b14e79",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/16yvYZ8ETqpIL7S3kQNA7x"
         },
         {
             "rank": 3,
@@ -80,21 +80,21 @@
         },
         {
             "rank": 9,
-            "spotify_id": "3rMNdyuGNv78L07EQnJjiu",
-            "name": "Maldita Pobreza",
-            "publisher": "Sonoro",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f40242c018956091a3dd37182",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/3rMNdyuGNv78L07EQnJjiu"
-        },
-        {
-            "rank": 10,
             "spotify_id": "1ypaPh52kJS76RnPS8hJQG",
             "name": "SINERGÉTICOS",
             "publisher": "Jorge Serratos | 1+1=3",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f2df14d318c639271b74640af",
             "rank_move": "UNCHANGED",
             "url": "https:\/\/open.spotify.com\/show\/1ypaPh52kJS76RnPS8hJQG"
+        },
+        {
+            "rank": 10,
+            "spotify_id": "3rMNdyuGNv78L07EQnJjiu",
+            "name": "Maldita Pobreza",
+            "publisher": "Sonoro",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f40242c018956091a3dd37182",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/3rMNdyuGNv78L07EQnJjiu"
         },
         {
             "rank": 11,
@@ -116,24 +116,6 @@
         },
         {
             "rank": 13,
-            "spotify_id": "0LnC5v04Xrh1JX4jGRGVOr",
-            "name": "Whitepaper ",
-            "publisher": "Whitepaper Media",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f09485d52b9df174e25339752",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/0LnC5v04Xrh1JX4jGRGVOr"
-        },
-        {
-            "rank": 14,
-            "spotify_id": "4KDFmzgiEcL1bmJH6Q3hLW",
-            "name": "Saber Comunicar",
-            "publisher": "Fernando Miralles",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f6bd05de650bab853747ebc5f",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/4KDFmzgiEcL1bmJH6Q3hLW"
-        },
-        {
-            "rank": 15,
             "spotify_id": "2ZfXmbzilttkGkulk1ORnt",
             "name": "Tengo un Plan",
             "publisher": "Sergio Beguería y Juan Domínguez",
@@ -142,7 +124,16 @@
             "url": "https:\/\/open.spotify.com\/show\/2ZfXmbzilttkGkulk1ORnt"
         },
         {
-            "rank": 16,
+            "rank": 14,
+            "spotify_id": "0LnC5v04Xrh1JX4jGRGVOr",
+            "name": "Whitepaper ",
+            "publisher": "Whitepaper Media",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f09485d52b9df174e25339752",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/0LnC5v04Xrh1JX4jGRGVOr"
+        },
+        {
+            "rank": 15,
             "spotify_id": "7iQXmUT7XGuZSzAMjoNWlX",
             "name": "The Diary Of A CEO with Steven Bartlett",
             "publisher": "FlightStory",
@@ -151,13 +142,22 @@
             "url": "https:\/\/open.spotify.com\/show\/7iQXmUT7XGuZSzAMjoNWlX"
         },
         {
-            "rank": 17,
+            "rank": 16,
             "spotify_id": "0qXuVDCYF8HvkEynJwHULb",
             "name": "Libros para Emprendedores",
             "publisher": "Luis Ramos",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1ff1240117ff0b35aedae42b32",
-            "rank_move": "UNCHANGED",
+            "rank_move": "UP",
             "url": "https:\/\/open.spotify.com\/show\/0qXuVDCYF8HvkEynJwHULb"
+        },
+        {
+            "rank": 17,
+            "spotify_id": "4KDFmzgiEcL1bmJH6Q3hLW",
+            "name": "Saber Comunicar",
+            "publisher": "Fernando Miralles",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f6bd05de650bab853747ebc5f",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/4KDFmzgiEcL1bmJH6Q3hLW"
         },
         {
             "rank": 18,
@@ -179,12 +179,12 @@
         },
         {
             "rank": 20,
-            "spotify_id": "4n0Tr00yAqMEyyq86VFj14",
-            "name": "EntrenaT",
-            "publisher": "Pablo Miranda",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f31b1412473a0d973375d3496",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/4n0Tr00yAqMEyyq86VFj14"
+            "spotify_id": "4ceS3vTHuFzYCWL0R9t8Ju",
+            "name": " Inteligencia Artificial, tu resumen semanal",
+            "publisher": "Juan Lombana",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f367dccff693fb9def49a8f88",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/4ceS3vTHuFzYCWL0R9t8Ju"
         },
         {
             "rank": 21,
@@ -192,20 +192,38 @@
             "name": "Revolución de la Riqueza",
             "publisher": "Sonoro | Javier Morodo",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fb164936e6195e41bb3300ede",
-            "rank_move": "DOWN",
+            "rank_move": "UNCHANGED",
             "url": "https:\/\/open.spotify.com\/show\/7exTzXcsvM9EH7uxhWbFFI"
         },
         {
             "rank": 22,
+            "spotify_id": "4n0Tr00yAqMEyyq86VFj14",
+            "name": "EntrenaT",
+            "publisher": "Pablo Miranda",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f31b1412473a0d973375d3496",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/4n0Tr00yAqMEyyq86VFj14"
+        },
+        {
+            "rank": 23,
+            "spotify_id": "0UeopmijIpDVLn0PhA9kU9",
+            "name": "Métele lana y neuronas",
+            "publisher": "Skandia México",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f1fb6952f8641ed74dfa3beb1",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/0UeopmijIpDVLn0PhA9kU9"
+        },
+        {
+            "rank": 24,
             "spotify_id": "3Ils69GWleUUNhR5kF4B5v",
             "name": "Creando Líderes ",
             "publisher": "Reto 90Kevolucion",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f360114d8ee478e3860f92289",
-            "rank_move": "UNCHANGED",
+            "rank_move": "DOWN",
             "url": "https:\/\/open.spotify.com\/show\/3Ils69GWleUUNhR5kF4B5v"
         },
         {
-            "rank": 23,
+            "rank": 25,
             "spotify_id": "630oUtAzz4TZNJaGiVxEbN",
             "name": "Dinero Más Inteligente",
             "publisher": "GBM",
@@ -214,16 +232,7 @@
             "url": "https:\/\/open.spotify.com\/show\/630oUtAzz4TZNJaGiVxEbN"
         },
         {
-            "rank": 24,
-            "spotify_id": "4ceS3vTHuFzYCWL0R9t8Ju",
-            "name": " Inteligencia Artificial, tu resumen semanal",
-            "publisher": "Juan Lombana",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f367dccff693fb9def49a8f88",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/4ceS3vTHuFzYCWL0R9t8Ju"
-        },
-        {
-            "rank": 25,
+            "rank": 26,
             "spotify_id": "5X2O35fLXaXrNZUtP48LI9",
             "name": "Bloomberg Daybreak América Latina",
             "publisher": "Bloomberg",
@@ -232,7 +241,7 @@
             "url": "https:\/\/open.spotify.com\/show\/5X2O35fLXaXrNZUtP48LI9"
         },
         {
-            "rank": 26,
+            "rank": 27,
             "spotify_id": "58RUeSVQwsGWcBDswa7Z56",
             "name": "Mente Activa: Finanzas & Crecimiento",
             "publisher": "Jesus Guillen",
@@ -241,7 +250,7 @@
             "url": "https:\/\/open.spotify.com\/show\/58RUeSVQwsGWcBDswa7Z56"
         },
         {
-            "rank": 27,
+            "rank": 28,
             "spotify_id": "5dcwkGDOODdIXAahIhO2PB",
             "name": "Imagen Empresarial",
             "publisher": "Imagen Empresarial",
@@ -250,31 +259,22 @@
             "url": "https:\/\/open.spotify.com\/show\/5dcwkGDOODdIXAahIhO2PB"
         },
         {
-            "rank": 28,
-            "spotify_id": "1i6r0rYcqfORyEY3Mh4vu0",
-            "name": "¡Nadie Me Preguntó!",
-            "publisher": "Alejandro Salomon",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f32ae6f80ec076abd23bd54af",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/1i6r0rYcqfORyEY3Mh4vu0"
-        },
-        {
             "rank": 29,
-            "spotify_id": "4kX19C0oHXccR92Jwo9PyX",
-            "name": "SHARK",
-            "publisher": "Jinji Kikko",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fe7d48be23b0571303886f9b1",
+            "spotify_id": "5JuBI04sI1woNM8f7pIEod",
+            "name": "Guillermo Barba, el podcast de Inteligencia Financiera Global",
+            "publisher": "Guillermo Barba",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f0190426f8c093a45d0fae27e",
             "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/4kX19C0oHXccR92Jwo9PyX"
+            "url": "https:\/\/open.spotify.com\/show\/5JuBI04sI1woNM8f7pIEod"
         },
         {
             "rank": 30,
-            "spotify_id": "2tjdKyMCk6kzFOUHDRLDor",
-            "name": "Determinacion",
-            "publisher": "brian cepeda",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f73211a67d604b86c198f97dd",
+            "spotify_id": "65J8RTsruRXBxeQElVmU0b",
+            "name": "Conocimiento Experto",
+            "publisher": "Salvador Mingo",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f99adb6282b32ac87d19b9b4d",
             "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/2tjdKyMCk6kzFOUHDRLDor"
+            "url": "https:\/\/open.spotify.com\/show\/65J8RTsruRXBxeQElVmU0b"
         },
         {
             "rank": 31,
@@ -287,87 +287,33 @@
         },
         {
             "rank": 32,
-            "spotify_id": "64fHUNjGI4z9DJHmI1qU0m",
-            "name": "La Gastadera Podcast",
-            "publisher": "Daniel Urias",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fc7be3cb5d4bae73c2895327a",
+            "spotify_id": "1i6r0rYcqfORyEY3Mh4vu0",
+            "name": "¡Nadie Me Preguntó!",
+            "publisher": "Alejandro Salomon",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f32ae6f80ec076abd23bd54af",
             "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/64fHUNjGI4z9DJHmI1qU0m"
+            "url": "https:\/\/open.spotify.com\/show\/1i6r0rYcqfORyEY3Mh4vu0"
         },
         {
             "rank": 33,
-            "spotify_id": "0cn8KcW9OyiXkKRzxQuSDv",
-            "name": "El PodCash con Luis Mi Negocios",
-            "publisher": "Luis Miguel Altamirano",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f47723fa1f6dc49172ba6c52c",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/0cn8KcW9OyiXkKRzxQuSDv"
+            "spotify_id": "2tjdKyMCk6kzFOUHDRLDor",
+            "name": "Determinacion",
+            "publisher": "brian cepeda",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f73211a67d604b86c198f97dd",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/2tjdKyMCk6kzFOUHDRLDor"
         },
         {
             "rank": 34,
-            "spotify_id": "6cmWxZ8lBhMbHHPVL7vqS7",
-            "name": "Cállate y Vende",
-            "publisher": "Gerardo Rodriguez",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fffeec6103225efa531c85869",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/6cmWxZ8lBhMbHHPVL7vqS7"
+            "spotify_id": "4kX19C0oHXccR92Jwo9PyX",
+            "name": "SHARK",
+            "publisher": "Jinji Kikko",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fe7d48be23b0571303886f9b1",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/4kX19C0oHXccR92Jwo9PyX"
         },
         {
             "rank": 35,
-            "spotify_id": "6JE8OeihdwxSW0Ts2I3ric",
-            "name": "Construyendo Sueños",
-            "publisher": "Brando Angulo",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f64bb2637202bd7e95707be71",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/6JE8OeihdwxSW0Ts2I3ric"
-        },
-        {
-            "rank": 36,
-            "spotify_id": "65J8RTsruRXBxeQElVmU0b",
-            "name": "Conocimiento Experto",
-            "publisher": "Salvador Mingo",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f99adb6282b32ac87d19b9b4d",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/65J8RTsruRXBxeQElVmU0b"
-        },
-        {
-            "rank": 37,
-            "spotify_id": "6ebCqJmQRFRDsSrxUkp6VZ",
-            "name": "Compartiendo con Marisa Lazo",
-            "publisher": "Marisa Lazo",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f035719251173ae3f3e99c534",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/6ebCqJmQRFRDsSrxUkp6VZ"
-        },
-        {
-            "rank": 38,
-            "spotify_id": "0UeopmijIpDVLn0PhA9kU9",
-            "name": "Métele lana y neuronas",
-            "publisher": "Skandia México",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f1fb6952f8641ed74dfa3beb1",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/0UeopmijIpDVLn0PhA9kU9"
-        },
-        {
-            "rank": 39,
-            "spotify_id": "2AVrdnlYnXVfpXOVHEPeP8",
-            "name": "El Lago de los Business | Inversiones y Finanzas",
-            "publisher": "Manolo Wigueras, CFA",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f1123f8b2b712005a9ea3a67a",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/2AVrdnlYnXVfpXOVHEPeP8"
-        },
-        {
-            "rank": 40,
-            "spotify_id": "5DYtjJiBpal1RcUCJUCS5R",
-            "name": "Campeones Financieros",
-            "publisher": "Campeones Financieros",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f008f873ac8b26fa5342800b2",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/5DYtjJiBpal1RcUCJUCS5R"
-        },
-        {
-            "rank": 41,
             "spotify_id": "5Y4wPln7DbJSh3vLxdVbVs",
             "name": "Oso Trava Podcast",
             "publisher": "Oso Trava",
@@ -376,85 +322,139 @@
             "url": "https:\/\/open.spotify.com\/show\/5Y4wPln7DbJSh3vLxdVbVs"
         },
         {
-            "rank": 42,
-            "spotify_id": "7nc7OQdPTekErtFSRxOBKh",
-            "name": "Morning Brew Daily",
-            "publisher": "Morning Brew",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f5a4d74133cba89107080eb15",
+            "rank": 36,
+            "spotify_id": "0cn8KcW9OyiXkKRzxQuSDv",
+            "name": "El PodCash con Luis Mi Negocios",
+            "publisher": "Luis Miguel Altamirano",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f47723fa1f6dc49172ba6c52c",
             "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/7nc7OQdPTekErtFSRxOBKh"
+            "url": "https:\/\/open.spotify.com\/show\/0cn8KcW9OyiXkKRzxQuSDv"
         },
         {
-            "rank": 43,
-            "spotify_id": "6VChGQoIgcpeH94fkgkkKv",
-            "name": "Mesa Directiva",
-            "publisher": "Mariel Fernandez Celis",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f26a4ed3a055bd58cc13b8253",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/6VChGQoIgcpeH94fkgkkKv"
-        },
-        {
-            "rank": 44,
-            "spotify_id": "39AGjpFzdHIlPuL140C8eo",
-            "name": "Two Guys Learning About Life",
-            "publisher": "Nico Pandal and Fran Pasquel",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fff1562dc24d37de5cad532b3",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/39AGjpFzdHIlPuL140C8eo"
-        },
-        {
-            "rank": 45,
-            "spotify_id": "7EHRSeH4Dm9Glz0GasHePi",
-            "name": "El Poder De la Disciplina",
-            "publisher": "angel sart",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fd49b9efa61122f83334b2359",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/7EHRSeH4Dm9Glz0GasHePi"
-        },
-        {
-            "rank": 46,
+            "rank": 37,
             "spotify_id": "7085MbNnCmPvz4m2OEt6DE",
             "name": "cositas",
             "publisher": "Nataa",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fb695bad04a27ea0d17e71f39",
-            "rank_move": "UNCHANGED",
+            "rank_move": "UP",
             "url": "https:\/\/open.spotify.com\/show\/7085MbNnCmPvz4m2OEt6DE"
         },
         {
+            "rank": 38,
+            "spotify_id": "6cmWxZ8lBhMbHHPVL7vqS7",
+            "name": "Cállate y Vende",
+            "publisher": "Gerardo Rodriguez",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fffeec6103225efa531c85869",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/6cmWxZ8lBhMbHHPVL7vqS7"
+        },
+        {
+            "rank": 39,
+            "spotify_id": "6ebCqJmQRFRDsSrxUkp6VZ",
+            "name": "Compartiendo con Marisa Lazo",
+            "publisher": "Marisa Lazo",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f035719251173ae3f3e99c534",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/6ebCqJmQRFRDsSrxUkp6VZ"
+        },
+        {
+            "rank": 40,
+            "spotify_id": "6VChGQoIgcpeH94fkgkkKv",
+            "name": "Mesa Directiva",
+            "publisher": "Mariel Fernandez Celis",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f26a4ed3a055bd58cc13b8253",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/6VChGQoIgcpeH94fkgkkKv"
+        },
+        {
+            "rank": 41,
+            "spotify_id": "5DYtjJiBpal1RcUCJUCS5R",
+            "name": "Campeones Financieros",
+            "publisher": "Campeones Financieros",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f008f873ac8b26fa5342800b2",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/5DYtjJiBpal1RcUCJUCS5R"
+        },
+        {
+            "rank": 42,
+            "spotify_id": "64fHUNjGI4z9DJHmI1qU0m",
+            "name": "La Gastadera Podcast",
+            "publisher": "Daniel Urias",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fc7be3cb5d4bae73c2895327a",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/64fHUNjGI4z9DJHmI1qU0m"
+        },
+        {
+            "rank": 43,
+            "spotify_id": "2AVrdnlYnXVfpXOVHEPeP8",
+            "name": "El Lago de los Business | Inversiones y Finanzas",
+            "publisher": "Manolo Wigueras, CFA",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f1123f8b2b712005a9ea3a67a",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/2AVrdnlYnXVfpXOVHEPeP8"
+        },
+        {
+            "rank": 44,
+            "spotify_id": "7EHRSeH4Dm9Glz0GasHePi",
+            "name": "El Poder De la Disciplina",
+            "publisher": "angel sart",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fd49b9efa61122f83334b2359",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/7EHRSeH4Dm9Glz0GasHePi"
+        },
+        {
+            "rank": 45,
+            "spotify_id": "3Yld0swNppAirINDSp2ber",
+            "name": "Rodcast, con Rodrigo Pacheco",
+            "publisher": "E-podcast",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fdce50cfd1e93cb29511813a9",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/3Yld0swNppAirINDSp2ber"
+        },
+        {
+            "rank": 46,
+            "spotify_id": "6JE8OeihdwxSW0Ts2I3ric",
+            "name": "Construyendo Sueños",
+            "publisher": "Brando Angulo",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f64bb2637202bd7e95707be71",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/6JE8OeihdwxSW0Ts2I3ric"
+        },
+        {
             "rank": 47,
-            "spotify_id": "2G44OhAzSlNludsv2XPKJd",
-            "name": "Cuéntame de economía",
-            "publisher": "Grupo Expansión |  Sonoro",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f393709b67ea9df3d6de71b21",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/2G44OhAzSlNludsv2XPKJd"
-        },
-        {
-            "rank": 48,
-            "spotify_id": "5JuBI04sI1woNM8f7pIEod",
-            "name": "Guillermo Barba, el podcast de Inteligencia Financiera Global",
-            "publisher": "Guillermo Barba",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f0190426f8c093a45d0fae27e",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/5JuBI04sI1woNM8f7pIEod"
-        },
-        {
-            "rank": 49,
-            "spotify_id": "26drsCSasBVAQe8D0dB5t5",
-            "name": "Top Expansión",
-            "publisher": "Sonoro | Grupo Expansión",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f807c55f85bdd4576ed11e2ff",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/26drsCSasBVAQe8D0dB5t5"
-        },
-        {
-            "rank": 50,
             "spotify_id": "3CVYYZwjMW18kinaEidoWh",
             "name": "LIDERAZGO INCÓMODO con Mario Elsner",
             "publisher": "MARIO ELSNER",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f8e73cf21a7d62afbefcba030",
-            "rank_move": "UNCHANGED",
+            "rank_move": "UP",
             "url": "https:\/\/open.spotify.com\/show\/3CVYYZwjMW18kinaEidoWh"
+        },
+        {
+            "rank": 48,
+            "spotify_id": "7nc7OQdPTekErtFSRxOBKh",
+            "name": "Morning Brew Daily",
+            "publisher": "Morning Brew",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f5a4d74133cba89107080eb15",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/7nc7OQdPTekErtFSRxOBKh"
+        },
+        {
+            "rank": 49,
+            "spotify_id": "1CuIY7CuloeNS5Y3I2i0mY",
+            "name": "Franco Escamilla Tirando Bola ",
+            "publisher": "Franco Escamilla Tirando Bola",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f7c428bb45c146e28dde593cc",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/1CuIY7CuloeNS5Y3I2i0mY"
+        },
+        {
+            "rank": 50,
+            "spotify_id": "39AGjpFzdHIlPuL140C8eo",
+            "name": "Two Guys Learning About Life",
+            "publisher": "Nico Pandal and Fran Pasquel",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fff1562dc24d37de5cad532b3",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/39AGjpFzdHIlPuL140C8eo"
         }
     ]
 }

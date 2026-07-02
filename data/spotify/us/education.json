@@ -3,7 +3,7 @@
     "country": "us",
     "genre": "Education",
     "slug": "education",
-    "fetched_at": "2026-06-24T06:36:18Z",
+    "fetched_at": "2026-07-01T04:43:05Z",
     "count": 50,
     "shows": [
         {
@@ -17,21 +17,21 @@
         },
         {
             "rank": 2,
+            "spotify_id": "1Zw2DKjelPnuEYpydFlhgN",
+            "name": "The Jordan B. Peterson Podcast",
+            "publisher": "DailyWire+",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f91ca2e774aa8e57dd0f07a50",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/1Zw2DKjelPnuEYpydFlhgN"
+        },
+        {
+            "rank": 3,
             "spotify_id": "0sKQIu1UywDpAAQRmwYzIs",
             "name": "More Life with Carl Radke",
             "publisher": "Sony Music Entertainment ",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f3d197d561bdef9ae3fd4c2b9",
-            "rank_move": "UNCHANGED",
+            "rank_move": "DOWN",
             "url": "https:\/\/open.spotify.com\/show\/0sKQIu1UywDpAAQRmwYzIs"
-        },
-        {
-            "rank": 3,
-            "spotify_id": "11VjrLJfoiNvgjjqov4RWh",
-            "name": "SOLVED with Mark Manson",
-            "publisher": "Mark Manson",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1ff9c827c25256fb16abe28c2f",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/11VjrLJfoiNvgjjqov4RWh"
         },
         {
             "rank": 4,
@@ -44,42 +44,24 @@
         },
         {
             "rank": 5,
+            "spotify_id": "5J0xAfsLX7bEYzGxOin4Sd",
+            "name": "Life Kit",
+            "publisher": "NPR",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1ff02979f8ffc9c4a354210102",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/5J0xAfsLX7bEYzGxOin4Sd"
+        },
+        {
+            "rank": 6,
             "spotify_id": "5kNo32fwb2nCmrUDfEhOMA",
             "name": "Begin Again with Davina McCall ",
             "publisher": "FlightStory",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f6cf43d88aa4a5eabaae6a3c2",
-            "rank_move": "UP",
+            "rank_move": "DOWN",
             "url": "https:\/\/open.spotify.com\/show\/5kNo32fwb2nCmrUDfEhOMA"
         },
         {
-            "rank": 6,
-            "spotify_id": "50xJKxraw7LwLJy2Rervp9",
-            "name": "Motivation Daily by Motiversity",
-            "publisher": "Motiversity",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f132579598f5357289e616768",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/50xJKxraw7LwLJy2Rervp9"
-        },
-        {
             "rank": 7,
-            "spotify_id": "2CQZ9HFBil0w98Ljoubz7d",
-            "name": "Let's Find Out",
-            "publisher": "Let's Find Out",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f08dae228ecf317e3c3dbe655",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/2CQZ9HFBil0w98Ljoubz7d"
-        },
-        {
-            "rank": 8,
-            "spotify_id": "5VzFvh1JlEhBMS6ZHZ8CNO",
-            "name": "anything goes with emma chamberlain",
-            "publisher": "emma chamberlain",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f040482ced4007d69e64ca442",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/5VzFvh1JlEhBMS6ZHZ8CNO"
-        },
-        {
-            "rank": 9,
             "spotify_id": "2kNTiKHCrrydRj0eFbrAWO",
             "name": "The Bossticks",
             "publisher": "The Bossticks",
@@ -88,61 +70,61 @@
             "url": "https:\/\/open.spotify.com\/show\/2kNTiKHCrrydRj0eFbrAWO"
         },
         {
-            "rank": 10,
-            "spotify_id": "6M2rLzaArpM9X6Ctxx0K0u",
-            "name": "hxsain",
-            "publisher": "hxsain",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fdf8c22018436e10a6912ae71",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/6M2rLzaArpM9X6Ctxx0K0u"
-        },
-        {
-            "rank": 11,
-            "spotify_id": "5J0xAfsLX7bEYzGxOin4Sd",
-            "name": "Life Kit",
-            "publisher": "NPR",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1ff02979f8ffc9c4a354210102",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/5J0xAfsLX7bEYzGxOin4Sd"
-        },
-        {
-            "rank": 12,
+            "rank": 8,
             "spotify_id": "2v0Xghfuh2Q5ZlwpFpzKFA",
             "name": "Jamie Social",
             "publisher": "Jamie Social",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f18910be89aa1faee5deffc8a",
-            "rank_move": "UNCHANGED",
+            "rank_move": "UP",
             "url": "https:\/\/open.spotify.com\/show\/2v0Xghfuh2Q5ZlwpFpzKFA"
         },
         {
-            "rank": 13,
-            "spotify_id": "2TGszFKJEbQuEXrWduK63l",
-            "name": "The Rich Roll Podcast",
-            "publisher": "Rich Roll",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fbb72706f5fcb8ac0df5a4ee0",
+            "rank": 9,
+            "spotify_id": "50xJKxraw7LwLJy2Rervp9",
+            "name": "Motivation Daily by Motiversity",
+            "publisher": "Motiversity",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f132579598f5357289e616768",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/50xJKxraw7LwLJy2Rervp9"
+        },
+        {
+            "rank": 10,
+            "spotify_id": "5VzFvh1JlEhBMS6ZHZ8CNO",
+            "name": "anything goes with emma chamberlain",
+            "publisher": "emma chamberlain",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f040482ced4007d69e64ca442",
             "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/2TGszFKJEbQuEXrWduK63l"
+            "url": "https:\/\/open.spotify.com\/show\/5VzFvh1JlEhBMS6ZHZ8CNO"
+        },
+        {
+            "rank": 11,
+            "spotify_id": "2CQZ9HFBil0w98Ljoubz7d",
+            "name": "Let's Find Out",
+            "publisher": "Let's Find Out",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f08dae228ecf317e3c3dbe655",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/2CQZ9HFBil0w98Ljoubz7d"
+        },
+        {
+            "rank": 12,
+            "spotify_id": "11VjrLJfoiNvgjjqov4RWh",
+            "name": "SOLVED with Mark Manson",
+            "publisher": "Mark Manson",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1ff9c827c25256fb16abe28c2f",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/11VjrLJfoiNvgjjqov4RWh"
+        },
+        {
+            "rank": 13,
+            "spotify_id": "6M2rLzaArpM9X6Ctxx0K0u",
+            "name": "hxsain",
+            "publisher": "hxsain",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fdf8c22018436e10a6912ae71",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/6M2rLzaArpM9X6Ctxx0K0u"
         },
         {
             "rank": 14,
-            "spotify_id": "1Foh28yZs3D3ndudpiUmVv",
-            "name": "The Jefferson Fisher Podcast",
-            "publisher": " Civility Media",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f04bee0d0f07f287659c1f1fb",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/1Foh28yZs3D3ndudpiUmVv"
-        },
-        {
-            "rank": 15,
-            "spotify_id": "2vtQZU9JviOx26F9FRGvh0",
-            "name": "Wonny",
-            "publisher": "Wonny",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f605f61c222cc57e74b91009a",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/2vtQZU9JviOx26F9FRGvh0"
-        },
-        {
-            "rank": 16,
             "spotify_id": "5zmdjuDWOk3saOeD8qmydI",
             "name": "A Changed Mind | Mindset That Matters",
             "publisher": "David Bayer",
@@ -151,25 +133,70 @@
             "url": "https:\/\/open.spotify.com\/show\/5zmdjuDWOk3saOeD8qmydI"
         },
         {
+            "rank": 15,
+            "spotify_id": "2TGszFKJEbQuEXrWduK63l",
+            "name": "The Rich Roll Podcast",
+            "publisher": "Rich Roll",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fbb72706f5fcb8ac0df5a4ee0",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/2TGszFKJEbQuEXrWduK63l"
+        },
+        {
+            "rank": 16,
+            "spotify_id": "1Foh28yZs3D3ndudpiUmVv",
+            "name": "The Jefferson Fisher Podcast",
+            "publisher": " Civility Media",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f04bee0d0f07f287659c1f1fb",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/1Foh28yZs3D3ndudpiUmVv"
+        },
+        {
             "rank": 17,
             "spotify_id": "6Jk1ZyJCRfGUr7wHFb44lv",
             "name": "David Goggins ",
             "publisher": "David Goggins ",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f0e5ea1046c21ebbd2217fa6e",
-            "rank_move": "UP",
+            "rank_move": "UNCHANGED",
             "url": "https:\/\/open.spotify.com\/show\/6Jk1ZyJCRfGUr7wHFb44lv"
         },
         {
             "rank": 18,
-            "spotify_id": "1Zw2DKjelPnuEYpydFlhgN",
-            "name": "The Jordan B. Peterson Podcast",
-            "publisher": "DailyWire+",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f91ca2e774aa8e57dd0f07a50",
+            "spotify_id": "2vtQZU9JviOx26F9FRGvh0",
+            "name": "Wonny",
+            "publisher": "Wonny",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f605f61c222cc57e74b91009a",
             "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/1Zw2DKjelPnuEYpydFlhgN"
+            "url": "https:\/\/open.spotify.com\/show\/2vtQZU9JviOx26F9FRGvh0"
         },
         {
             "rank": 19,
+            "spotify_id": "7fY99FB3bNyn7nEdXCoBeB",
+            "name": "The Daily Stoic",
+            "publisher": "Daily Stoic | Backyard Ventures",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f8488dbb4b623f432a3b6a673",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/7fY99FB3bNyn7nEdXCoBeB"
+        },
+        {
+            "rank": 20,
+            "spotify_id": "07ZgD0ECjWPrjFgTZ4uwW6",
+            "name": "Everything Professor",
+            "publisher": "Everything Professor",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f218d5f6dc99d65a187cdb452",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/07ZgD0ECjWPrjFgTZ4uwW6"
+        },
+        {
+            "rank": 21,
+            "spotify_id": "4FSiemtvZrWesGtO2MqTZ4",
+            "name": "Know Thyself",
+            "publisher": "André Duqum",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f2517ac21d5c4ceaa2b7189c0",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/4FSiemtvZrWesGtO2MqTZ4"
+        },
+        {
+            "rank": 22,
             "spotify_id": "2Dsp24A82JkYRXytiA2qRt",
             "name": "The Sabrina Zohar Show",
             "publisher": "Sabrina Zohar",
@@ -178,49 +205,22 @@
             "url": "https:\/\/open.spotify.com\/show\/2Dsp24A82JkYRXytiA2qRt"
         },
         {
-            "rank": 20,
-            "spotify_id": "7fY99FB3bNyn7nEdXCoBeB",
-            "name": "The Daily Stoic",
-            "publisher": "Daily Stoic | Backyard Ventures",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f8488dbb4b623f432a3b6a673",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/7fY99FB3bNyn7nEdXCoBeB"
-        },
-        {
-            "rank": 21,
-            "spotify_id": "4FSiemtvZrWesGtO2MqTZ4",
-            "name": "Know Thyself",
-            "publisher": "André Duqum",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f2517ac21d5c4ceaa2b7189c0",
+            "rank": 23,
+            "spotify_id": "4s5UB3Dvhocqea5W5gUzEd",
+            "name": "Aware and Aggravated",
+            "publisher": "Aware and Aggravated",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f5b829ede759bcca9bdb43a73",
             "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/4FSiemtvZrWesGtO2MqTZ4"
+            "url": "https:\/\/open.spotify.com\/show\/4s5UB3Dvhocqea5W5gUzEd"
         },
         {
-            "rank": 22,
+            "rank": 24,
             "spotify_id": "3Zq6iX6bOQtNkcX9zlTa4G",
             "name": "Amala Ekpunobi",
             "publisher": "Amala Ekpunobi",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f622c3c6635cd1f2edca3f1c7",
             "rank_move": "DOWN",
             "url": "https:\/\/open.spotify.com\/show\/3Zq6iX6bOQtNkcX9zlTa4G"
-        },
-        {
-            "rank": 23,
-            "spotify_id": "4s5UB3Dvhocqea5W5gUzEd",
-            "name": "Aware and Aggravated",
-            "publisher": "Aware and Aggravated",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f5b829ede759bcca9bdb43a73",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/4s5UB3Dvhocqea5W5gUzEd"
-        },
-        {
-            "rank": 24,
-            "spotify_id": "19TdDBlFkqh7uevYO0jFSW",
-            "name": "THE ED MYLETT SHOW",
-            "publisher": "Ed Mylett",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f7d94901b91779a3e0885da05",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/19TdDBlFkqh7uevYO0jFSW"
         },
         {
             "rank": 25,
@@ -233,6 +233,33 @@
         },
         {
             "rank": 26,
+            "spotify_id": "5jwSJ981J5V9yE6L6EHDPL",
+            "name": "Kurzgesagt – In a Nutshell",
+            "publisher": "Kurzgesagt – In a Nutshell",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f35c8bfebb826f43937d286fd",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/5jwSJ981J5V9yE6L6EHDPL"
+        },
+        {
+            "rank": 27,
+            "spotify_id": "3ssx09faxpyVTRMHWKMdW0",
+            "name": "Weekly Motivation by Ben Lionel Scott",
+            "publisher": "Ben Lionel Scott",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f687ddb05be83d42a2eb708dd",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/3ssx09faxpyVTRMHWKMdW0"
+        },
+        {
+            "rank": 28,
+            "spotify_id": "19TdDBlFkqh7uevYO0jFSW",
+            "name": "THE ED MYLETT SHOW",
+            "publisher": "Ed Mylett",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f7d94901b91779a3e0885da05",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/19TdDBlFkqh7uevYO0jFSW"
+        },
+        {
+            "rank": 29,
             "spotify_id": "71ZaYSQ1c2G7pPvxVSq4cq",
             "name": "UNBIASED Politics",
             "publisher": "Jordan Berman",
@@ -241,16 +268,16 @@
             "url": "https:\/\/open.spotify.com\/show\/71ZaYSQ1c2G7pPvxVSq4cq"
         },
         {
-            "rank": 27,
-            "spotify_id": "6HHNJxdOK1EjwS721PxkZu",
-            "name": "Lessons in Meme Culture",
-            "publisher": "Lessons in Meme Culture",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fb7aee235a88a28c92071a18a",
+            "rank": 30,
+            "spotify_id": "0z0lwiTEiYmk2fkhDkRqPV",
+            "name": "Bedros Keuilian Podcast Show",
+            "publisher": "Bedros Keuilian",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f97b939fc8090aa5fa612166d",
             "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/6HHNJxdOK1EjwS721PxkZu"
+            "url": "https:\/\/open.spotify.com\/show\/0z0lwiTEiYmk2fkhDkRqPV"
         },
         {
-            "rank": 28,
+            "rank": 31,
             "spotify_id": "2hRIciAAriUDVrvhi0NypS",
             "name": "Learn Powerful Meditation Techniques",
             "publisher": "Meditation Life Skills Podcast",
@@ -259,16 +286,16 @@
             "url": "https:\/\/open.spotify.com\/show\/2hRIciAAriUDVrvhi0NypS"
         },
         {
-            "rank": 29,
-            "spotify_id": "3ssx09faxpyVTRMHWKMdW0",
-            "name": "Weekly Motivation by Ben Lionel Scott",
-            "publisher": "Ben Lionel Scott",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f687ddb05be83d42a2eb708dd",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/3ssx09faxpyVTRMHWKMdW0"
+            "rank": 32,
+            "spotify_id": "6HHNJxdOK1EjwS721PxkZu",
+            "name": "Lessons in Meme Culture",
+            "publisher": "Lessons in Meme Culture",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fb7aee235a88a28c92071a18a",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/6HHNJxdOK1EjwS721PxkZu"
         },
         {
-            "rank": 30,
+            "rank": 33,
             "spotify_id": "2cUp7JRzkVqunYmD2ENe4g",
             "name": "Mick Unplugged",
             "publisher": "Realm",
@@ -277,7 +304,7 @@
             "url": "https:\/\/open.spotify.com\/show\/2cUp7JRzkVqunYmD2ENe4g"
         },
         {
-            "rank": 31,
+            "rank": 34,
             "spotify_id": "4NuPlpyet5LKQcM7bUCCw5",
             "name": "Clutterbug - Real-Life Hacks and Tips to Declutter, Organize and Clean your Home Fast",
             "publisher": "Clutterbug",
@@ -286,79 +313,25 @@
             "url": "https:\/\/open.spotify.com\/show\/4NuPlpyet5LKQcM7bUCCw5"
         },
         {
-            "rank": 32,
+            "rank": 35,
             "spotify_id": "7D9nPxiPw7gRcXuUwaVDIH",
             "name": "BEING HER with Margarita Nazarenko",
             "publisher": "Margarita Nazarenko",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fbb7f762d14d7de477377b3ff",
-            "rank_move": "UP",
+            "rank_move": "DOWN",
             "url": "https:\/\/open.spotify.com\/show\/7D9nPxiPw7gRcXuUwaVDIH"
         },
         {
-            "rank": 33,
-            "spotify_id": "6kyorN5APgHaCU9hjR2OrU",
-            "name": "The Space Race",
-            "publisher": "The Space Race",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f515a01351657f19829e2acb8",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/6kyorN5APgHaCU9hjR2OrU"
-        },
-        {
-            "rank": 34,
-            "spotify_id": "5RVoEOIACQbBDZnGBJ7Ec2",
-            "name": "The Jordan Harbinger Show",
-            "publisher": "Jordan Harbinger",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f5f639d6be86b5392ebcb4872",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/5RVoEOIACQbBDZnGBJ7Ec2"
-        },
-        {
-            "rank": 35,
-            "spotify_id": "07vw5qLi8kE1pjMbL9Oguu",
-            "name": "Pierre Dalati",
-            "publisher": "pierredalati",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fc54300835860c3a6f2c19b28",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/07vw5qLi8kE1pjMbL9Oguu"
-        },
-        {
             "rank": 36,
-            "spotify_id": "0z0lwiTEiYmk2fkhDkRqPV",
-            "name": "Bedros Keuilian Podcast Show",
-            "publisher": "Bedros Keuilian",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f97b939fc8090aa5fa612166d",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/0z0lwiTEiYmk2fkhDkRqPV"
-        },
-        {
-            "rank": 37,
-            "spotify_id": "4OAqBijL56Zob3dPhVPKHK",
-            "name": "The Truth Is",
-            "publisher": "THE Truth Is",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f2ced6b50468d30885eb0da81",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/4OAqBijL56Zob3dPhVPKHK"
-        },
-        {
-            "rank": 38,
             "spotify_id": "7iOBdjuKKG3NyMd0UFoznO",
             "name": "Daily Motivation by Ardus",
             "publisher": "ardus",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f94f7d083261cb7f7e32c1fbd",
-            "rank_move": "UNCHANGED",
+            "rank_move": "DOWN",
             "url": "https:\/\/open.spotify.com\/show\/7iOBdjuKKG3NyMd0UFoznO"
         },
         {
-            "rank": 39,
-            "spotify_id": "4WYj81C37trSAv42zwnipj",
-            "name": "Coffee Break Spanish",
-            "publisher": "Coffee Break Languages",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f429d2033ece72cf143973cc8",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/4WYj81C37trSAv42zwnipj"
-        },
-        {
-            "rank": 40,
+            "rank": 37,
             "spotify_id": "4hz0jLXfWc9jzCsAybaSgI",
             "name": "Dr. Mario Alonso Puig",
             "publisher": "Mario Alonso Puig",
@@ -367,94 +340,121 @@
             "url": "https:\/\/open.spotify.com\/show\/4hz0jLXfWc9jzCsAybaSgI"
         },
         {
+            "rank": 38,
+            "spotify_id": "5RVoEOIACQbBDZnGBJ7Ec2",
+            "name": "The Jordan Harbinger Show",
+            "publisher": "Jordan Harbinger",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f5f639d6be86b5392ebcb4872",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/5RVoEOIACQbBDZnGBJ7Ec2"
+        },
+        {
+            "rank": 39,
+            "spotify_id": "4WYj81C37trSAv42zwnipj",
+            "name": "Coffee Break Spanish",
+            "publisher": "Coffee Break Languages",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f429d2033ece72cf143973cc8",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/4WYj81C37trSAv42zwnipj"
+        },
+        {
+            "rank": 40,
+            "spotify_id": "3fcM9t1YNVh211oSkpxPoJ",
+            "name": "The Wellness Cafe",
+            "publisher": "Trinity Tondeleir",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fae39cca8aafb36b6320384e0",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/3fcM9t1YNVh211oSkpxPoJ"
+        },
+        {
             "rank": 41,
             "spotify_id": "6LRjQWo23lxCgtpP0Ett57",
             "name": "Immersive Spanish",
             "publisher": "Immersive Spanish",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fc51c9d0d80c52d674f54054b",
-            "rank_move": "DOWN",
+            "rank_move": "UNCHANGED",
             "url": "https:\/\/open.spotify.com\/show\/6LRjQWo23lxCgtpP0Ett57"
         },
         {
             "rank": 42,
-            "spotify_id": "3fcM9t1YNVh211oSkpxPoJ",
-            "name": "The Wellness Cafe",
-            "publisher": "Trinity Tondeleir",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fae39cca8aafb36b6320384e0",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/3fcM9t1YNVh211oSkpxPoJ"
+            "spotify_id": "5KuVFavG72i7fNOZ9tEX3a",
+            "name": "How to Be a Better Human",
+            "publisher": "TED",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f0cb9f8c550bbadcdf5617bd2",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/5KuVFavG72i7fNOZ9tEX3a"
         },
         {
             "rank": 43,
-            "spotify_id": "0nRs5ZFYfsw6w7xjDqvDlP",
-            "name": "Absolute Motivation",
-            "publisher": "Absolute Motivation",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f6dd7bd713f4b8f97ee4832eb",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/0nRs5ZFYfsw6w7xjDqvDlP"
+            "spotify_id": "4OAqBijL56Zob3dPhVPKHK",
+            "name": "The Truth Is",
+            "publisher": "THE Truth Is",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f2ced6b50468d30885eb0da81",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/4OAqBijL56Zob3dPhVPKHK"
         },
         {
             "rank": 44,
+            "spotify_id": "736rhmW7vilNgkFFo8aDz4",
+            "name": "Raj Shamani's Figuring Out",
+            "publisher": "Raj Shamani",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f271520bec0ac82d57d0c2689",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/736rhmW7vilNgkFFo8aDz4"
+        },
+        {
+            "rank": 45,
+            "spotify_id": "2rvGjOgeyQTtl5ZgXzUXoQ",
+            "name": "Estoicismo Filosofia",
+            "publisher": "Estoicismo Filosofia",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fca838f294e8cbd41903db624",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/2rvGjOgeyQTtl5ZgXzUXoQ"
+        },
+        {
+            "rank": 46,
+            "spotify_id": "3olSL90pkMS1IwaTugOACo",
+            "name": "The Shawn Johnson Podcast",
+            "publisher": "Shawn Johnson",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fb2588448f84f8233abc57666",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/3olSL90pkMS1IwaTugOACo"
+        },
+        {
+            "rank": 47,
             "spotify_id": "7wp5O19aTcfkHin5Bb4NNz",
             "name": "Success Addicted - Motivational Speeches",
             "publisher": "Success Addicted",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1ffa9f19ebed852c54e2277460",
-            "rank_move": "UP",
+            "rank_move": "UNCHANGED",
             "url": "https:\/\/open.spotify.com\/show\/7wp5O19aTcfkHin5Bb4NNz"
         },
         {
-            "rank": 45,
-            "spotify_id": "3nZEeTPQnPMYelBzNDOBCX",
-            "name": "SLOW ENGLISH PODCAST (A1-A2) With Subtitles | Daily Videos | English With Us Podcast",
-            "publisher": "English With Us Podcast",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fba9c87c07a22244820e9933c",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/3nZEeTPQnPMYelBzNDOBCX"
-        },
-        {
-            "rank": 46,
-            "spotify_id": "6TTL7ech0horQVahondm0b",
-            "name": "Just Wucka",
-            "publisher": "WuckaSpeaks",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fae4a488d66e3cde1faa099ce",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/6TTL7ech0horQVahondm0b"
-        },
-        {
-            "rank": 47,
-            "spotify_id": "06q83T0qqtzBnvg9sU47Qu",
-            "name": "RealLifeLore",
-            "publisher": "Jellysmack",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f47f63fab00a2f5b97d28a89d",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/06q83T0qqtzBnvg9sU47Qu"
-        },
-        {
             "rank": 48,
-            "spotify_id": "2rOjz03L3exjFMsv50ftQt",
-            "name": "The Lazy Genius Podcast",
-            "publisher": "Kendra, The Lazy Genius",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f937946b02f5aa1002c987c56",
+            "spotify_id": "5GfRxX2kl2BJVB1e7AgcDh",
+            "name": "El Podcast de Marco Antonio Regil",
+            "publisher": "Sonoro | Marco Antonio Regil",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fcfc7dc9d8cbde5f1932f06a4",
             "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/2rOjz03L3exjFMsv50ftQt"
+            "url": "https:\/\/open.spotify.com\/show\/5GfRxX2kl2BJVB1e7AgcDh"
         },
         {
             "rank": 49,
-            "spotify_id": "5Vt00kjievQGT79stSzgjp",
-            "name": "Hot and Unbothered",
-            "publisher": "Brianna Gomez",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fbd36bb576bdb9d35f423813b",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/5Vt00kjievQGT79stSzgjp"
+            "spotify_id": "0XmcS2t0RWEsDZ7be6r7op",
+            "name": "The Infographics Show",
+            "publisher": "The Infographics Show",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f8f3baa93d2c985809d0df98f",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/0XmcS2t0RWEsDZ7be6r7op"
         },
         {
             "rank": 50,
-            "spotify_id": "53bnc3AHyqknK2JMAHo9br",
-            "name": "LA MAGIA DEL CAOS con Aislinn Derbez",
-            "publisher": "Aislinn Derbez",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fe7818340ce48aa525a578871",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/53bnc3AHyqknK2JMAHo9br"
+            "spotify_id": "048nMXlfLoBewmcckhDoFn",
+            "name": "La buena platica",
+            "publisher": "Rodrigo Macías",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f5b621d9a6fef33c6b2cfbaad",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/048nMXlfLoBewmcckhDoFn"
         }
     ]
 }

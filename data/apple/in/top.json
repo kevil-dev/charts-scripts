@@ -4,7 +4,7 @@
     "genre": "Top Podcasts",
     "genre_id": "",
     "slug": "top",
-    "fetched_at": "2026-06-24T06:35:18Z",
+    "fetched_at": "2026-07-01T04:42:02Z",
     "count": 200,
     "shows": [
         {
@@ -49,16 +49,6 @@
         },
         {
             "rank": 5,
-            "apple_id": "1532901566",
-            "name": "Finshots Daily",
-            "artist": "Finshots",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts114\/v4\/b5\/e4\/39\/b5e4395d-3334-30aa-dc4a-afa27464c041\/mza_4139100016695234083.jpg\/170x170bb.png",
-            "genre": "Business",
-            "genre_id": "1321",
-            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/finshots-daily\/id1532901566?uo=2"
-        },
-        {
-            "rank": 6,
             "apple_id": "135067274",
             "name": "Global News Podcast",
             "artist": "BBC World Service",
@@ -68,17 +58,17 @@
             "url": "https:\/\/podcasts.apple.com\/in\/podcast\/global-news-podcast\/id135067274?uo=2"
         },
         {
-            "rank": 7,
-            "apple_id": "1692160971",
-            "name": "Chanakya Neeti (Sutra Sahit)",
-            "artist": "Audio Pitara by Channel176 Productions",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/b8\/8f\/3a\/b88f3a3f-a8cb-ea72-2c7a-a88398390170\/mza_11215781036856515135.jpg\/170x170bb.png",
-            "genre": "Books",
-            "genre_id": "1482",
-            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/chanakya-neeti-sutra-sahit\/id1692160971?uo=2"
+            "rank": 6,
+            "apple_id": "1532901566",
+            "name": "Finshots Daily",
+            "artist": "Finshots",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts114\/v4\/b5\/e4\/39\/b5e4395d-3334-30aa-dc4a-afa27464c041\/mza_4139100016695234083.jpg\/170x170bb.png",
+            "genre": "Business",
+            "genre_id": "1321",
+            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/finshots-daily\/id1532901566?uo=2"
         },
         {
-            "rank": 8,
+            "rank": 7,
             "apple_id": "1568661777",
             "name": "The Morning Brief",
             "artist": "The Economic Times",
@@ -88,7 +78,7 @@
             "url": "https:\/\/podcasts.apple.com\/in\/podcast\/the-morning-brief\/id1568661777?uo=2"
         },
         {
-            "rank": 9,
+            "rank": 8,
             "apple_id": "1539921547",
             "name": "Teen Taal",
             "artist": "Aaj Tak Radio",
@@ -98,17 +88,17 @@
             "url": "https:\/\/podcasts.apple.com\/in\/podcast\/teen-taal\/id1539921547?uo=2"
         },
         {
-            "rank": 10,
-            "apple_id": "1639561921",
-            "name": "Empire: World History",
-            "artist": "Goalhanger",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/8e\/4e\/4c\/8e4e4c42-ffaa-3d33-e4ac-8adf0d20cdaa\/mza_18169919427507943262.jpg\/170x170bb.png",
-            "genre": "History",
-            "genre_id": "1487",
-            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/empire-world-history\/id1639561921?uo=2"
+            "rank": 9,
+            "apple_id": "1692160971",
+            "name": "Chanakya Neeti (Sutra Sahit)",
+            "artist": "Audio Pitara by Channel176 Productions",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/b8\/8f\/3a\/b88f3a3f-a8cb-ea72-2c7a-a88398390170\/mza_11215781036856515135.jpg\/170x170bb.png",
+            "genre": "Books",
+            "genre_id": "1482",
+            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/chanakya-neeti-sutra-sahit\/id1692160971?uo=2"
         },
         {
-            "rank": 11,
+            "rank": 10,
             "apple_id": "1406730235",
             "name": "3 Things",
             "artist": "Express Audio",
@@ -118,14 +108,24 @@
             "url": "https:\/\/podcasts.apple.com\/in\/podcast\/3-things\/id1406730235?uo=2"
         },
         {
+            "rank": 11,
+            "apple_id": "1639561921",
+            "name": "Empire: World History",
+            "artist": "Goalhanger",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/8e\/4e\/4c\/8e4e4c42-ffaa-3d33-e4ac-8adf0d20cdaa\/mza_18169919427507943262.jpg\/170x170bb.png",
+            "genre": "History",
+            "genre_id": "1487",
+            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/empire-world-history\/id1639561921?uo=2"
+        },
+        {
             "rank": 12,
-            "apple_id": "1658118308",
-            "name": "Daybreak",
-            "artist": "The Ken",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/24\/c9\/d1\/24c9d1a2-6550-bcec-34da-84e88211545d\/mza_6986233146466118255.jpg\/170x170bb.png",
-            "genre": "Business News",
-            "genre_id": "1490",
-            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/daybreak\/id1658118308?uo=2"
+            "apple_id": "1545953110",
+            "name": "Huberman Lab",
+            "artist": "Scicomm Media",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/9a\/d3\/19\/9ad31912-0b5a-a16e-2d7c-9fd074698b9c\/mza_8994222203629500925.jpg\/170x170bb.png",
+            "genre": "Health & Fitness",
+            "genre_id": "1512",
+            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/huberman-lab\/id1545953110?uo=2"
         },
         {
             "rank": 13,
@@ -139,23 +139,23 @@
         },
         {
             "rank": 14,
-            "apple_id": "1050462261",
-            "name": "Acquired",
-            "artist": "Ben Gilbert and David Rosenthal",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/43\/c5\/fb\/43c5fbdf-b302-053a-2704-ba5f74322625\/mza_13119989780540450831.jpg\/170x170bb.png",
-            "genre": "Technology",
-            "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/acquired\/id1050462261?uo=2"
+            "apple_id": "1658118308",
+            "name": "Daybreak",
+            "artist": "The Ken",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/24\/c9\/d1\/24c9d1a2-6550-bcec-34da-84e88211545d\/mza_6986233146466118255.jpg\/170x170bb.png",
+            "genre": "Business News",
+            "genre_id": "1490",
+            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/daybreak\/id1658118308?uo=2"
         },
         {
             "rank": 15,
-            "apple_id": "1545953110",
-            "name": "Huberman Lab",
-            "artist": "Scicomm Media",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/9a\/d3\/19\/9ad31912-0b5a-a16e-2d7c-9fd074698b9c\/mza_8994222203629500925.jpg\/170x170bb.png",
-            "genre": "Health & Fitness",
-            "genre_id": "1512",
-            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/huberman-lab\/id1545953110?uo=2"
+            "apple_id": "1291423644",
+            "name": "The Diary Of A CEO with Steven Bartlett",
+            "artist": "DOAC",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/69\/af\/0d\/69af0ddd-1e0f-7ae3-c84b-88f18e31ad0c\/mza_14445920128472365296.png\/170x170bb.png",
+            "genre": "Business",
+            "genre_id": "1321",
+            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/the-diary-of-a-ceo-with-steven-bartlett\/id1291423644?uo=2"
         },
         {
             "rank": 16,
@@ -169,6 +169,16 @@
         },
         {
             "rank": 17,
+            "apple_id": "1646927006",
+            "name": "ANI Podcast with Smita Prakash",
+            "artist": "Asian News International (ANI)",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/e4\/de\/0b\/e4de0b94-af31-35f1-def6-0cfd620cdbc1\/mza_10963648209575729702.png\/170x170bb.png",
+            "genre": "Politics",
+            "genre_id": "1527",
+            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/ani-podcast-with-smita-prakash\/id1646927006?uo=2"
+        },
+        {
+            "rank": 18,
             "apple_id": "1562937291",
             "name": "Top of the Morning",
             "artist": "Mint - HT Smartcast",
@@ -176,16 +186,6 @@
             "genre": "Business News",
             "genre_id": "1490",
             "url": "https:\/\/podcasts.apple.com\/in\/podcast\/top-of-the-morning\/id1562937291?uo=2"
-        },
-        {
-            "rank": 18,
-            "apple_id": "1291423644",
-            "name": "The Diary Of A CEO with Steven Bartlett",
-            "artist": "DOAC",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/69\/af\/0d\/69af0ddd-1e0f-7ae3-c84b-88f18e31ad0c\/mza_14445920128472365296.png\/170x170bb.png",
-            "genre": "Business",
-            "genre_id": "1321",
-            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/the-diary-of-a-ceo-with-steven-bartlett\/id1291423644?uo=2"
         },
         {
             "rank": 19,
@@ -199,206 +199,6 @@
         },
         {
             "rank": 20,
-            "apple_id": "1646927006",
-            "name": "ANI Podcast with Smita Prakash",
-            "artist": "Asian News International (ANI)",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/e4\/de\/0b\/e4de0b94-af31-35f1-def6-0cfd620cdbc1\/mza_10963648209575729702.png\/170x170bb.png",
-            "genre": "Politics",
-            "genre_id": "1527",
-            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/ani-podcast-with-smita-prakash\/id1646927006?uo=2"
-        },
-        {
-            "rank": 21,
-            "apple_id": "1458523731",
-            "name": "The Prakhar Gupta Xperience",
-            "artist": "Prakhar Gupta",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/8d\/17\/f3\/8d17f384-2328-463f-e78c-c5830c22a0d7\/mza_1785011914752936077.jpg\/170x170bb.png",
-            "genre": "Society & Culture",
-            "genre_id": "1324",
-            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/the-prakhar-gupta-xperience\/id1458523731?uo=2"
-        },
-        {
-            "rank": 22,
-            "apple_id": "160904630",
-            "name": "TED Talks Daily",
-            "artist": "TED",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts116\/v4\/2e\/cf\/99\/2ecf996f-71f7-604f-b0a0-43116b9d6619\/mza_10257768296573848480.png\/170x170bb.png",
-            "genre": "Society & Culture",
-            "genre_id": "1324",
-            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/ted-talks-daily\/id160904630?uo=2"
-        },
-        {
-            "rank": 23,
-            "apple_id": "1819235047",
-            "name": "The Stories of the Ramayana",
-            "artist": "Sudipta Bhawmik",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/b7\/6e\/d0\/b76ed070-5ee0-aaf8-bbb4-122df03c07a1\/mza_5290848620511448006.jpeg\/170x170bb.png",
-            "genre": "Religion & Spirituality",
-            "genre_id": "1314",
-            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/the-stories-of-the-ramayana\/id1819235047?uo=2"
-        },
-        {
-            "rank": 24,
-            "apple_id": "1340196987",
-            "name": "Moneycontrol Podcast",
-            "artist": "moneycontrol",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts115\/v4\/aa\/ff\/7e\/aaff7e4d-a237-24db-437d-aa4abebec5a2\/mza_12627098229474936586.jpg\/170x170bb.png",
-            "genre": "Business",
-            "genre_id": "1321",
-            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/moneycontrol-podcast\/id1340196987?uo=2"
-        },
-        {
-            "rank": 25,
-            "apple_id": "1706194517",
-            "name": "20 Minute Books",
-            "artist": "20 Minute Books",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts126\/v4\/58\/c4\/7b\/58c47bd8-b264-5afa-437f-967aca84621d\/mza_16715360875716481817.png\/170x170bb.png",
-            "genre": "Self-Improvement",
-            "genre_id": "1500",
-            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/20-minute-books\/id1706194517?uo=2"
-        },
-        {
-            "rank": 26,
-            "apple_id": "262026989",
-            "name": "Learning English Conversations",
-            "artist": "BBC Radio",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/9d\/9f\/9a\/9d9f9ac2-18ed-fef1-6b5a-2370cb2d2eca\/mza_16678796634995991769.jpg\/170x170bb.png",
-            "genre": "Language Learning",
-            "genre_id": "1498",
-            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/learning-english-conversations\/id262026989?uo=2"
-        },
-        {
-            "rank": 27,
-            "apple_id": "1450994021",
-            "name": "On Purpose with Jay Shetty",
-            "artist": "iHeartPodcasts",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/5e\/a1\/69\/5ea169e2-18c4-40b0-0982-2fda3476d9a4\/mza_9372864784596222041.jpg\/170x170bb.png",
-            "genre": "Mental Health",
-            "genre_id": "1517",
-            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/on-purpose-with-jay-shetty\/id1450994021?uo=2"
-        },
-        {
-            "rank": 28,
-            "apple_id": "1542452346",
-            "name": "The Ranveer Show हिंदी",
-            "artist": "BeerBiceps",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts122\/v4\/85\/0f\/b1\/850fb175-b567-dd00-59c1-f1160724d494\/mza_11559786574812814174.jpg\/170x170bb.png",
-            "genre": "Society & Culture",
-            "genre_id": "1324",
-            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/the-ranveer-show-%E0%A4%B9-%E0%A4%A6\/id1542452346?uo=2"
-        },
-        {
-            "rank": 29,
-            "apple_id": "1881998715",
-            "name": "Intermission",
-            "artist": "The Ken",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/72\/2f\/d5\/722fd5ae-c1cb-efcf-24ec-4f20269ec921\/mza_13660724427363767330.jpg\/170x170bb.png",
-            "genre": "Business",
-            "genre_id": "1321",
-            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/intermission\/id1881998715?uo=2"
-        },
-        {
-            "rank": 30,
-            "apple_id": "1494989268",
-            "name": "Think Fast Talk Smart: Communication Techniques",
-            "artist": "Matt Abrahams, Think Fast Talk Smart",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/0e\/a3\/48\/0ea34886-96c0-8299-e16c-d039cfaedc78\/mza_5307345217675863813.jpg\/170x170bb.png",
-            "genre": "Careers",
-            "genre_id": "1410",
-            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/think-fast-talk-smart-communication-techniques\/id1494989268?uo=2"
-        },
-        {
-            "rank": 31,
-            "apple_id": "1438449989",
-            "name": "FT News Briefing",
-            "artist": "Financial Times",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/60\/fd\/0c\/60fd0c79-808e-cc79-e121-27527becbdc6\/mza_1413179331890984538.jpeg\/170x170bb.png",
-            "genre": "Daily News",
-            "genre_id": "1526",
-            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/ft-news-briefing\/id1438449989?uo=2"
-        },
-        {
-            "rank": 32,
-            "apple_id": "1141877104",
-            "name": "Founders",
-            "artist": "David Senra",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/ed\/71\/4f\/ed714f67-f095-a4ef-f38e-d8c02300666a\/mza_11432355988627368701.jpg\/170x170bb.png",
-            "genre": "Entrepreneurship",
-            "genre_id": "1493",
-            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/founders\/id1141877104?uo=2"
-        },
-        {
-            "rank": 33,
-            "apple_id": "1522708820",
-            "name": "PURI JAGANNADH",
-            "artist": "Puri jagannadh",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/1b\/e7\/09\/1be709ab-f41e-8fa2-94f6-3f51b3482e66\/mza_8708918420300356648.jpg\/170x170bb.png",
-            "genre": "Hobbies",
-            "genre_id": "1505",
-            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/puri-jagannadh\/id1522708820?uo=2"
-        },
-        {
-            "rank": 34,
-            "apple_id": "979118845",
-            "name": "Cyrus Says",
-            "artist": "IVM Podcasts",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts112\/v4\/d0\/86\/f1\/d086f117-87df-01fa-a6bc-640e073c3fef\/mza_11077349968360785041.jpg\/170x170bb.png",
-            "genre": "Comedy",
-            "genre_id": "1303",
-            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/cyrus-says\/id979118845?uo=2"
-        },
-        {
-            "rank": 35,
-            "apple_id": "1680633614",
-            "name": "The AI Daily Brief: Artificial Intelligence News and Analysis",
-            "artist": "Nathaniel Whittemore",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/9c\/78\/d8\/9c78d82d-a2d1-a026-6ca2-f92ea61be9ae\/mza_18421328158594577747.jpg\/170x170bb.png",
-            "genre": "Technology",
-            "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/the-ai-daily-brief-artificial-intelligence-news\/id1680633614?uo=2"
-        },
-        {
-            "rank": 36,
-            "apple_id": "1677107935",
-            "name": "WTF is with Nikhil Kamath",
-            "artist": "Nikhil Kamath",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/ea\/92\/bc\/ea92bcc1-d79e-b780-c431-be689efa819f\/mza_6575857123336925418.jpeg\/170x170bb.png",
-            "genre": "Entrepreneurship",
-            "genre_id": "1493",
-            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/wtf-is-with-nikhil-kamath\/id1677107935?uo=2"
-        },
-        {
-            "rank": 37,
-            "apple_id": "1726811994",
-            "name": "Mind relaxing music for stress relief in hindi, Shree krishna mashup song lofi, Bhajan songs krishna",
-            "artist": "Anil kumar",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts126\/v4\/72\/07\/86\/720786b5-eb08-8672-108a-d3174513c840\/mza_18196916730773939710.jpg\/170x170bb.png",
-            "genre": "Music History",
-            "genre_id": "1524",
-            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/mind-relaxing-music-for-stress-relief-in-hindi-shree\/id1726811994?uo=2"
-        },
-        {
-            "rank": 38,
-            "apple_id": "1322200189",
-            "name": "Crime Junkie",
-            "artist": "Audiochuck",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts126\/v4\/8c\/35\/04\/8c350430-2fbf-98d0-0a25-00b76550ffeb\/mza_13445204151221888086.jpg\/170x170bb.png",
-            "genre": "True Crime",
-            "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/crime-junkie\/id1322200189?uo=2"
-        },
-        {
-            "rank": 39,
-            "apple_id": "1563251973",
-            "name": "दिनभर: पूरा दिन,पूरी ख़बर (Dinbhar)",
-            "artist": "BBC Hindi Radio",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/67\/ff\/9b\/67ff9b8c-b394-0ad7-06e2-5eb572e14b26\/mza_3297044874153560835.jpg\/170x170bb.png",
-            "genre": "Health & Fitness",
-            "genre_id": "1512",
-            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/%E0%A4%A6-%E0%A4%A8%E0%A4%AD%E0%A4%B0-%E0%A4%AA-%E0%A4%B0-%E0%A4%A6-%E0%A4%A8-%E0%A4%AA-%E0%A4%B0-%E0%A4%96-%E0%A4%AC%E0%A4%B0-dinbhar\/id1563251973?uo=2"
-        },
-        {
-            "rank": 40,
             "apple_id": "1488735954",
             "name": "ThePrint",
             "artist": "ThePrint",
@@ -408,7 +208,67 @@
             "url": "https:\/\/podcasts.apple.com\/in\/podcast\/theprint\/id1488735954?uo=2"
         },
         {
-            "rank": 41,
+            "rank": 21,
+            "apple_id": "1542452346",
+            "name": "The Ranveer Show हिंदी",
+            "artist": "BeerBiceps",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts122\/v4\/85\/0f\/b1\/850fb175-b567-dd00-59c1-f1160724d494\/mza_11559786574812814174.jpg\/170x170bb.png",
+            "genre": "Society & Culture",
+            "genre_id": "1324",
+            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/the-ranveer-show-%E0%A4%B9-%E0%A4%A6\/id1542452346?uo=2"
+        },
+        {
+            "rank": 22,
+            "apple_id": "1450994021",
+            "name": "On Purpose with Jay Shetty",
+            "artist": "iHeartPodcasts",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/5e\/a1\/69\/5ea169e2-18c4-40b0-0982-2fda3476d9a4\/mza_9372864784596222041.jpg\/170x170bb.png",
+            "genre": "Mental Health",
+            "genre_id": "1517",
+            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/on-purpose-with-jay-shetty\/id1450994021?uo=2"
+        },
+        {
+            "rank": 23,
+            "apple_id": "1706194517",
+            "name": "20 Minute Books",
+            "artist": "20 Minute Books",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts126\/v4\/58\/c4\/7b\/58c47bd8-b264-5afa-437f-967aca84621d\/mza_16715360875716481817.png\/170x170bb.png",
+            "genre": "Self-Improvement",
+            "genre_id": "1500",
+            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/20-minute-books\/id1706194517?uo=2"
+        },
+        {
+            "rank": 24,
+            "apple_id": "1050462261",
+            "name": "Acquired",
+            "artist": "Ben Gilbert and David Rosenthal",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/43\/c5\/fb\/43c5fbdf-b302-053a-2704-ba5f74322625\/mza_13119989780540450831.jpg\/170x170bb.png",
+            "genre": "Technology",
+            "genre_id": "1318",
+            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/acquired\/id1050462261?uo=2"
+        },
+        {
+            "rank": 25,
+            "apple_id": "979118845",
+            "name": "Cyrus Says",
+            "artist": "IVM Podcasts",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts112\/v4\/d0\/86\/f1\/d086f117-87df-01fa-a6bc-640e073c3fef\/mza_11077349968360785041.jpg\/170x170bb.png",
+            "genre": "Comedy",
+            "genre_id": "1303",
+            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/cyrus-says\/id979118845?uo=2"
+        },
+        {
+            "rank": 26,
+            "apple_id": "1494989268",
+            "name": "Think Fast Talk Smart: Communication Techniques",
+            "artist": "Matt Abrahams, Think Fast Talk Smart",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/0e\/a3\/48\/0ea34886-96c0-8299-e16c-d039cfaedc78\/mza_5307345217675863813.jpg\/170x170bb.png",
+            "genre": "Careers",
+            "genre_id": "1410",
+            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/think-fast-talk-smart-communication-techniques\/id1494989268?uo=2"
+        },
+        {
+            "rank": 27,
             "apple_id": "1200361736",
             "name": "The Daily",
             "artist": "The New York Times",
@@ -418,47 +278,57 @@
             "url": "https:\/\/podcasts.apple.com\/in\/podcast\/the-daily\/id1200361736?uo=2"
         },
         {
-            "rank": 42,
-            "apple_id": "1687446175",
-            "name": "The Core Report",
-            "artist": "The Core",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/1b\/c0\/67\/1bc067c0-a0c3-5e7d-c609-29916785adc0\/mza_11754483019496274731.jpg\/170x170bb.png",
-            "genre": "Business News",
-            "genre_id": "1490",
-            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/the-core-report\/id1687446175?uo=2"
+            "rank": 28,
+            "apple_id": "1819235047",
+            "name": "The Stories of the Ramayana",
+            "artist": "Sudipta Bhawmik",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/b7\/6e\/d0\/b76ed070-5ee0-aaf8-bbb4-122df03c07a1\/mza_5290848620511448006.jpeg\/170x170bb.png",
+            "genre": "Religion & Spirituality",
+            "genre_id": "1314",
+            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/the-stories-of-the-ramayana\/id1819235047?uo=2"
         },
         {
-            "rank": 43,
-            "apple_id": "1537788786",
-            "name": "The Rest Is History",
-            "artist": "Goalhanger",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/20\/ed\/c7\/20edc799-fdb3-e608-a164-0cdaaee63c6b\/mza_16701966284979673066.jpg\/170x170bb.png",
-            "genre": "History",
-            "genre_id": "1487",
-            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/the-rest-is-history\/id1537788786?uo=2"
+            "rank": 29,
+            "apple_id": "160904630",
+            "name": "TED Talks Daily",
+            "artist": "TED",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts116\/v4\/2e\/cf\/99\/2ecf996f-71f7-604f-b0a0-43116b9d6619\/mza_10257768296573848480.png\/170x170bb.png",
+            "genre": "Society & Culture",
+            "genre_id": "1324",
+            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/ted-talks-daily\/id160904630?uo=2"
         },
         {
-            "rank": 44,
-            "apple_id": "1831664449",
-            "name": "Bharat Unscripted",
-            "artist": "Parijit Khokle",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/48\/8d\/52\/488d5230-d7ee-06d8-a39f-f7cf90dd8ca5\/mza_12094595456475804316.jpg\/170x170bb.png",
-            "genre": "History",
-            "genre_id": "1487",
-            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/bharat-unscripted\/id1831664449?uo=2"
+            "rank": 30,
+            "apple_id": "1438449989",
+            "name": "FT News Briefing",
+            "artist": "Financial Times",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/60\/fd\/0c\/60fd0c79-808e-cc79-e121-27527becbdc6\/mza_1413179331890984538.jpeg\/170x170bb.png",
+            "genre": "Daily News",
+            "genre_id": "1526",
+            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/ft-news-briefing\/id1438449989?uo=2"
         },
         {
-            "rank": 45,
-            "apple_id": "151230264",
-            "name": "Economist Podcasts",
-            "artist": "The Economist",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/92\/68\/ba\/9268bae8-1bd5-2a15-7f1b-7e265d4773bd\/mza_10204374987848109193.png\/170x170bb.png",
-            "genre": "News",
-            "genre_id": "1489",
-            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/economist-podcasts\/id151230264?uo=2"
+            "rank": 31,
+            "apple_id": "1563251973",
+            "name": "दिनभर: पूरा दिन,पूरी ख़बर (Dinbhar)",
+            "artist": "BBC Hindi Radio",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/67\/ff\/9b\/67ff9b8c-b394-0ad7-06e2-5eb572e14b26\/mza_3297044874153560835.jpg\/170x170bb.png",
+            "genre": "Health & Fitness",
+            "genre_id": "1512",
+            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/%E0%A4%A6-%E0%A4%A8%E0%A4%AD%E0%A4%B0-%E0%A4%AA-%E0%A4%B0-%E0%A4%A6-%E0%A4%A8-%E0%A4%AA-%E0%A4%B0-%E0%A4%96-%E0%A4%AC%E0%A4%B0-dinbhar\/id1563251973?uo=2"
         },
         {
-            "rank": 46,
+            "rank": 32,
+            "apple_id": "1458523731",
+            "name": "The Prakhar Gupta Xperience",
+            "artist": "Prakhar Gupta",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/8d\/17\/f3\/8d17f384-2328-463f-e78c-c5830c22a0d7\/mza_1785011914752936077.jpg\/170x170bb.png",
+            "genre": "Society & Culture",
+            "genre_id": "1324",
+            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/the-prakhar-gupta-xperience\/id1458523731?uo=2"
+        },
+        {
+            "rank": 33,
             "apple_id": "360084272",
             "name": "The Joe Rogan Experience",
             "artist": "Joe Rogan",
@@ -468,217 +338,27 @@
             "url": "https:\/\/podcasts.apple.com\/in\/podcast\/the-joe-rogan-experience\/id360084272?uo=2"
         },
         {
-            "rank": 47,
-            "apple_id": "1347973549",
-            "name": "Modern Wisdom",
-            "artist": "Chris Williamson",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/7f\/73\/99\/7f739968-f65e-f679-d1fd-c727118c69f0\/mza_17156407142775783271.jpg\/170x170bb.png",
-            "genre": "Society & Culture",
-            "genre_id": "1324",
-            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/modern-wisdom\/id1347973549?uo=2"
+            "rank": 34,
+            "apple_id": "1687446175",
+            "name": "The Core Report",
+            "artist": "The Core",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/1b\/c0\/67\/1bc067c0-a0c3-5e7d-c609-29916785adc0\/mza_11754483019496274731.jpg\/170x170bb.png",
+            "genre": "Business News",
+            "genre_id": "1490",
+            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/the-core-report\/id1687446175?uo=2"
         },
         {
-            "rank": 48,
-            "apple_id": "1494440867",
-            "name": "In Focus by The Hindu",
-            "artist": "The Hindu",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/a7\/54\/86\/a75486ab-87a8-0652-305f-a8a29f98e57e\/mza_3359787770935723872.jpeg\/170x170bb.png",
-            "genre": "News Commentary",
-            "genre_id": "1530",
-            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/in-focus-by-the-hindu\/id1494440867?uo=2"
-        },
-        {
-            "rank": 49,
-            "apple_id": "1588234296",
-            "name": "Fuel for the Soul with John Giftah | Biblical Teaching & Faith Podcast",
-            "artist": "John Giftah | Faith & Biblical Teaching Speaker",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/50\/57\/b9\/5057b987-f8aa-1aa9-5c0d-e744f8434616\/mza_6039348075615549692.jpg\/170x170bb.png",
-            "genre": "Christianity",
-            "genre_id": "1439",
-            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/fuel-for-the-soul-with-john-giftah-biblical-teaching\/id1588234296?uo=2"
-        },
-        {
-            "rank": 50,
-            "apple_id": "1858787354",
-            "name": "Ashtavakra Mahagita",
-            "artist": "Ashtavakra Gita",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/1a\/bf\/72\/1abf722b-1f99-6d47-6ec1-9b9652e7fe10\/mza_7843428863083689080.jpg\/170x170bb.png",
-            "genre": "Spirituality",
-            "genre_id": "1444",
-            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/ashtavakra-mahagita\/id1858787354?uo=2"
-        },
-        {
-            "rank": 51,
-            "apple_id": "990149481",
-            "name": "The Knowledge Project",
-            "artist": "Shane Parrish",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/b9\/71\/27\/b97127fa-2849-e9aa-7602-4bb36d33ad17\/mza_14536930361717300882.jpeg\/170x170bb.png",
-            "genre": "Business",
-            "genre_id": "1321",
-            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/the-knowledge-project\/id990149481?uo=2"
-        },
-        {
-            "rank": 52,
-            "apple_id": "1503042219",
-            "name": "The Internet Said So",
-            "artist": "Varun Thakur",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts115\/v4\/f2\/ec\/ca\/f2eccacb-b8a6-2b7d-79e2-52289bc199fe\/mza_7701004544351721619.jpg\/170x170bb.png",
-            "genre": "Comedy",
-            "genre_id": "1303",
-            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/the-internet-said-so\/id1503042219?uo=2"
-        },
-        {
-            "rank": 53,
-            "apple_id": "1449631195",
-            "name": "The Intelligence from The Economist",
+            "rank": 35,
+            "apple_id": "151230264",
+            "name": "Economist Podcasts",
             "artist": "The Economist",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/13\/a6\/58\/13a65875-b7c7-a663-9b40-0bb42f62bf74\/mza_18066604315473996895.jpeg\/170x170bb.png",
-            "genre": "Daily News",
-            "genre_id": "1526",
-            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/the-intelligence-from-the-economist\/id1449631195?uo=2"
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/92\/68\/ba\/9268bae8-1bd5-2a15-7f1b-7e265d4773bd\/mza_10204374987848109193.png\/170x170bb.png",
+            "genre": "News",
+            "genre_id": "1489",
+            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/economist-podcasts\/id151230264?uo=2"
         },
         {
-            "rank": 54,
-            "apple_id": "1825089900",
-            "name": "Bhagavad Gita (Hindi)",
-            "artist": "Swami Adgadanand",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/dc\/3c\/1c\/dc3c1ccb-8c7c-dbbf-0c75-3d3323e5790e\/mza_15428274779559084253.jpg\/170x170bb.png",
-            "genre": "Hinduism",
-            "genre_id": "1463",
-            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/bhagavad-gita-hindi\/id1825089900?uo=2"
-        },
-        {
-            "rank": 55,
-            "apple_id": "1028908750",
-            "name": "Hidden Brain",
-            "artist": "Hidden Brain, Shankar Vedantam",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts126\/v4\/d9\/97\/f0\/d997f0f5-284b-b90c-16f6-e2e675b831b3\/mza_3280114077256997969.jpg\/170x170bb.png",
-            "genre": "Social Sciences",
-            "genre_id": "1535",
-            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/hidden-brain\/id1028908750?uo=2"
-        },
-        {
-            "rank": 56,
-            "apple_id": "1438054347",
-            "name": "Conan O’Brien Needs A Friend",
-            "artist": "Team Coco & Earwolf",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/c6\/02\/8a\/c6028ab7-bffd-db83-53e4-34a4ea9bef21\/mza_16944101310108746053.jpg\/170x170bb.png",
-            "genre": "Comedy",
-            "genre_id": "1303",
-            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/conan-obrien-needs-a-friend\/id1438054347?uo=2"
-        },
-        {
-            "rank": 57,
-            "apple_id": "1490694622",
-            "name": "SRMN",
-            "artist": "SRMN",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts123\/v4\/19\/26\/a6\/1926a601-044b-327f-b0f5-ab456e2f7b91\/mza_16409333365989040538.jpg\/170x170bb.png",
-            "genre": "Music",
-            "genre_id": "1310",
-            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/srmn\/id1490694622?uo=2"
-        },
-        {
-            "rank": 58,
-            "apple_id": "1051557000",
-            "name": "Science Vs",
-            "artist": "Spotify Studios",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/8a\/5c\/e5\/8a5ce5b7-aa70-b841-38dd-4e7ae572caac\/mza_17212608166076908905.jpg\/170x170bb.png",
-            "genre": "Science",
-            "genre_id": "1533",
-            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/science-vs\/id1051557000?uo=2"
-        },
-        {
-            "rank": 59,
-            "apple_id": "347854569",
-            "name": "The Sadhguru Podcast - Of Mystics and Mistakes",
-            "artist": "Sadhguru Official",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/4f\/bd\/5b\/4fbd5b9d-a540-cd4f-46bf-b31b0fc5a9f5\/mza_5241965732770450394.jpg\/170x170bb.png",
-            "genre": "Spirituality",
-            "genre_id": "1444",
-            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/the-sadhguru-podcast-of-mystics-and-mistakes\/id347854569?uo=2"
-        },
-        {
-            "rank": 60,
-            "apple_id": "1509930788",
-            "name": "Akbar Birbal Stories",
-            "artist": "Chimes",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/6d\/eb\/d4\/6debd40b-a635-8c6d-5494-808ae5600a4e\/mza_17461315508348972591.jpg\/170x170bb.png",
-            "genre": "Stories for Kids",
-            "genre_id": "1520",
-            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/akbar-birbal-stories\/id1509930788?uo=2"
-        },
-        {
-            "rank": 61,
-            "apple_id": "1516093381",
-            "name": "Dwarkesh Podcast",
-            "artist": "Dwarkesh Patel",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/e8\/fe\/ce\/e8fece6e-c97f-8dd5-19a2-5c3b1f93f8e4\/mza_726727706016079768.jpg\/170x170bb.png",
-            "genre": "Technology",
-            "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/dwarkesh-podcast\/id1516093381?uo=2"
-        },
-        {
-            "rank": 62,
-            "apple_id": "1784284807",
-            "name": "Sherlock Holmes Short Stories",
-            "artist": "NOISER",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/b3\/75\/d5\/b375d53e-bc60-b527-86e4-a7d7b1bf0d03\/mza_4918920429805582688.jpeg\/170x170bb.png",
-            "genre": "Drama",
-            "genre_id": "1484",
-            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/sherlock-holmes-short-stories\/id1784284807?uo=2"
-        },
-        {
-            "rank": 63,
-            "apple_id": "1627920305",
-            "name": "Lenny's Podcast: Product | Career | Growth",
-            "artist": "Lenny Rachitsky",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/c7\/80\/a3\/c780a365-a1ed-527f-365f-1bd3e51ac6d1\/mza_5908526734339724450.jpg\/170x170bb.png",
-            "genre": "Technology",
-            "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/lennys-podcast-product-career-growth\/id1627920305?uo=2"
-        },
-        {
-            "rank": 64,
-            "apple_id": "1474429475",
-            "name": "Waveform: The MKBHD Podcast",
-            "artist": "MKBHD",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/92\/dd\/8e\/92dd8eed-43ec-dc47-50ae-c1ec7c0a3353\/mza_3861776104886813687.jpg\/170x170bb.png",
-            "genre": "Technology",
-            "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/waveform-the-mkbhd-podcast\/id1474429475?uo=2"
-        },
-        {
-            "rank": 65,
-            "apple_id": "188674007",
-            "name": "Football Weekly",
-            "artist": "The Guardian",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/e7\/56\/c9\/e756c9f6-35a6-25b5-11dd-0ad301e01b3b\/mza_7252499345169022637.jpg\/170x170bb.png",
-            "genre": "Soccer",
-            "genre_id": "1546",
-            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/football-weekly\/id188674007?uo=2"
-        },
-        {
-            "rank": 66,
-            "apple_id": "1502871393",
-            "name": "All-In with Chamath, Jason, Sacks & Friedberg",
-            "artist": "All-In Podcast, LLC",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts124\/v4\/c7\/d2\/92\/c7d292ea-44b3-47ff-2f5e-74fa5b23db6c\/mza_7005270671777648882.png\/170x170bb.png",
-            "genre": "Technology",
-            "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/all-in-with-chamath-jason-sacks-friedberg\/id1502871393?uo=2"
-        },
-        {
-            "rank": 67,
-            "apple_id": "325404506",
-            "name": "StarTalk Radio",
-            "artist": "Neil deGrasse Tyson",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/d7\/88\/9b\/d7889bab-dca5-77ba-3d0c-7fae8f16ab11\/mza_8810454848871508.jpg\/170x170bb.png",
-            "genre": "Science",
-            "genre_id": "1533",
-            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/startalk-radio\/id325404506?uo=2"
-        },
-        {
-            "rank": 68,
+            "rank": 36,
             "apple_id": "1190896090",
             "name": "The Seen and the Unseen - hosted by Amit Varma",
             "artist": "Amit Varma",
@@ -688,37 +368,97 @@
             "url": "https:\/\/podcasts.apple.com\/in\/podcast\/the-seen-and-the-unseen-hosted-by-amit-varma\/id1190896090?uo=2"
         },
         {
-            "rank": 69,
-            "apple_id": "1717304068",
-            "name": "Moment of Silence",
-            "artist": "Sakshi Shivdasani and Naina Bhan",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/f3\/cb\/f7\/f3cbf750-51e2-a877-231c-7d330574ea6e\/mza_4316543184350891972.jpg\/170x170bb.png",
-            "genre": "Comedy",
-            "genre_id": "1303",
-            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/moment-of-silence\/id1717304068?uo=2"
+            "rank": 37,
+            "apple_id": "1878634138",
+            "name": "Desi Deep Dive",
+            "artist": "Prateek Yadav",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/f3\/4f\/ae\/f34faeaa-5f93-900a-a93b-47bf19e9637f\/mza_16915447074075592266.jpg\/170x170bb.png",
+            "genre": "Science",
+            "genre_id": "1533",
+            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/desi-deep-dive\/id1878634138?uo=2"
         },
         {
-            "rank": 70,
-            "apple_id": "558494752",
-            "name": "ELECTRONYK PODCAST",
-            "artist": "DJ NYK",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/8a\/78\/14\/8a7814b5-4c97-8bf0-d76c-7cfc14a108d0\/mza_2817632607921581924.jpg\/170x170bb.png",
-            "genre": "Music",
-            "genre_id": "1310",
-            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/electronyk-podcast\/id558494752?uo=2"
+            "rank": 38,
+            "apple_id": "1680633614",
+            "name": "The AI Daily Brief: Artificial Intelligence News and Analysis",
+            "artist": "Nathaniel Whittemore",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/9c\/78\/d8\/9c78d82d-a2d1-a026-6ca2-f92ea61be9ae\/mza_18421328158594577747.jpg\/170x170bb.png",
+            "genre": "Technology",
+            "genre_id": "1318",
+            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/the-ai-daily-brief-artificial-intelligence-news\/id1680633614?uo=2"
         },
         {
-            "rank": 71,
-            "apple_id": "584092091",
-            "name": "Gita For Daily Living",
-            "artist": "Neil Bhatt",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts112\/v4\/bb\/6c\/db\/bb6cdbcc-8c70-afee-f282-4485a08ec7de\/mza_6198008589267674324.jpg\/170x170bb.png",
-            "genre": "Hinduism",
-            "genre_id": "1463",
-            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/gita-for-daily-living\/id584092091?uo=2"
+            "rank": 39,
+            "apple_id": "1537788786",
+            "name": "The Rest Is History",
+            "artist": "Goalhanger",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/20\/ed\/c7\/20edc799-fdb3-e608-a164-0cdaaee63c6b\/mza_16701966284979673066.jpg\/170x170bb.png",
+            "genre": "History",
+            "genre_id": "1487",
+            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/the-rest-is-history\/id1537788786?uo=2"
         },
         {
-            "rank": 72,
+            "rank": 40,
+            "apple_id": "347854569",
+            "name": "The Sadhguru Podcast - Of Mystics and Mistakes",
+            "artist": "Sadhguru Official",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/4f\/bd\/5b\/4fbd5b9d-a540-cd4f-46bf-b31b0fc5a9f5\/mza_5241965732770450394.jpg\/170x170bb.png",
+            "genre": "Spirituality",
+            "genre_id": "1444",
+            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/the-sadhguru-podcast-of-mystics-and-mistakes\/id347854569?uo=2"
+        },
+        {
+            "rank": 41,
+            "apple_id": "1141877104",
+            "name": "Founders",
+            "artist": "David Senra",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/ed\/71\/4f\/ed714f67-f095-a4ef-f38e-d8c02300666a\/mza_11432355988627368701.jpg\/170x170bb.png",
+            "genre": "Entrepreneurship",
+            "genre_id": "1493",
+            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/founders\/id1141877104?uo=2"
+        },
+        {
+            "rank": 42,
+            "apple_id": "1522708820",
+            "name": "PURI JAGANNADH",
+            "artist": "Puri jagannadh",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/1b\/e7\/09\/1be709ab-f41e-8fa2-94f6-3f51b3482e66\/mza_8708918420300356648.jpg\/170x170bb.png",
+            "genre": "Hobbies",
+            "genre_id": "1505",
+            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/puri-jagannadh\/id1522708820?uo=2"
+        },
+        {
+            "rank": 43,
+            "apple_id": "1347973549",
+            "name": "Modern Wisdom",
+            "artist": "Chris Williamson",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/7f\/73\/99\/7f739968-f65e-f679-d1fd-c727118c69f0\/mza_17156407142775783271.jpg\/170x170bb.png",
+            "genre": "Society & Culture",
+            "genre_id": "1324",
+            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/modern-wisdom\/id1347973549?uo=2"
+        },
+        {
+            "rank": 44,
+            "apple_id": "1726811994",
+            "name": "Mind relaxing music for stress relief in hindi, Shree krishna mashup song lofi, Bhajan songs krishna",
+            "artist": "Anil kumar",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts126\/v4\/72\/07\/86\/720786b5-eb08-8672-108a-d3174513c840\/mza_18196916730773939710.jpg\/170x170bb.png",
+            "genre": "Music History",
+            "genre_id": "1524",
+            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/mind-relaxing-music-for-stress-relief-in-hindi-shree\/id1726811994?uo=2"
+        },
+        {
+            "rank": 45,
+            "apple_id": "1028908750",
+            "name": "Hidden Brain",
+            "artist": "Hidden Brain, Shankar Vedantam",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts126\/v4\/d9\/97\/f0\/d997f0f5-284b-b90c-16f6-e2e675b831b3\/mza_3280114077256997969.jpg\/170x170bb.png",
+            "genre": "Social Sciences",
+            "genre_id": "1535",
+            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/hidden-brain\/id1028908750?uo=2"
+        },
+        {
+            "rank": 46,
             "apple_id": "1806232274",
             "name": "Premanand ji maharaj vartalap",
             "artist": "Shaileshmudgal",
@@ -728,57 +468,77 @@
             "url": "https:\/\/podcasts.apple.com\/in\/podcast\/premanand-ji-maharaj-vartalap\/id1806232274?uo=2"
         },
         {
-            "rank": 73,
-            "apple_id": "1434243584",
-            "name": "Lex Fridman Podcast",
-            "artist": "Lex Fridman",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts115\/v4\/3e\/e3\/9c\/3ee39c89-de08-47a6-7f3d-3849cef6d255\/mza_16657851278549137484.png\/170x170bb.png",
-            "genre": "Technology",
-            "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/lex-fridman-podcast\/id1434243584?uo=2"
+            "rank": 47,
+            "apple_id": "1449631195",
+            "name": "The Intelligence from The Economist",
+            "artist": "The Economist",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/13\/a6\/58\/13a65875-b7c7-a663-9b40-0bb42f62bf74\/mza_18066604315473996895.jpeg\/170x170bb.png",
+            "genre": "Daily News",
+            "genre_id": "1526",
+            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/the-intelligence-from-the-economist\/id1449631195?uo=2"
         },
         {
-            "rank": 74,
-            "apple_id": "262026947",
-            "name": "6 Minute English",
+            "rank": 48,
+            "apple_id": "1858787354",
+            "name": "Ashtavakra Mahagita",
+            "artist": "Ashtavakra Gita",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/1a\/bf\/72\/1abf722b-1f99-6d47-6ec1-9b9652e7fe10\/mza_7843428863083689080.jpg\/170x170bb.png",
+            "genre": "Spirituality",
+            "genre_id": "1444",
+            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/ashtavakra-mahagita\/id1858787354?uo=2"
+        },
+        {
+            "rank": 49,
+            "apple_id": "1677107935",
+            "name": "WTF is with Nikhil Kamath",
+            "artist": "Nikhil Kamath",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/ea\/92\/bc\/ea92bcc1-d79e-b780-c431-be689efa819f\/mza_6575857123336925418.jpeg\/170x170bb.png",
+            "genre": "Entrepreneurship",
+            "genre_id": "1493",
+            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/wtf-is-with-nikhil-kamath\/id1677107935?uo=2"
+        },
+        {
+            "rank": 50,
+            "apple_id": "1322200189",
+            "name": "Crime Junkie",
+            "artist": "Audiochuck",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts126\/v4\/8c\/35\/04\/8c350430-2fbf-98d0-0a25-00b76550ffeb\/mza_13445204151221888086.jpg\/170x170bb.png",
+            "genre": "True Crime",
+            "genre_id": "1488",
+            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/crime-junkie\/id1322200189?uo=2"
+        },
+        {
+            "rank": 51,
+            "apple_id": "1881998715",
+            "name": "Intermission",
+            "artist": "The Ken",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/72\/2f\/d5\/722fd5ae-c1cb-efcf-24ec-4f20269ec921\/mza_13660724427363767330.jpg\/170x170bb.png",
+            "genre": "Business",
+            "genre_id": "1321",
+            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/intermission\/id1881998715?uo=2"
+        },
+        {
+            "rank": 52,
+            "apple_id": "1340196987",
+            "name": "Moneycontrol Podcast",
+            "artist": "moneycontrol",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts115\/v4\/aa\/ff\/7e\/aaff7e4d-a237-24db-437d-aa4abebec5a2\/mza_12627098229474936586.jpg\/170x170bb.png",
+            "genre": "Business",
+            "genre_id": "1321",
+            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/moneycontrol-podcast\/id1340196987?uo=2"
+        },
+        {
+            "rank": 53,
+            "apple_id": "262026989",
+            "name": "Learning English Conversations",
             "artist": "BBC Radio",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/ba\/98\/35\/ba9835eb-1ef3-60e4-bf05-3d141b8d1c7a\/mza_3844641997714022659.jpg\/170x170bb.png",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/9d\/9f\/9a\/9d9f9ac2-18ed-fef1-6b5a-2370cb2d2eca\/mza_16678796634995991769.jpg\/170x170bb.png",
             "genre": "Language Learning",
             "genre_id": "1498",
-            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/6-minute-english\/id262026947?uo=2"
+            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/learning-english-conversations\/id262026989?uo=2"
         },
         {
-            "rank": 75,
-            "apple_id": "1683948659",
-            "name": "HBR On Leadership",
-            "artist": "Harvard Business Review",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/19\/46\/69\/19466969-73b3-262d-d24e-bcef3191b98c\/mza_11559252757970620521.jpg\/170x170bb.png",
-            "genre": "Management",
-            "genre_id": "1491",
-            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/hbr-on-leadership\/id1683948659?uo=2"
-        },
-        {
-            "rank": 76,
-            "apple_id": "1864352949",
-            "name": "UsmanGee Collection | Ultimate Version",
-            "artist": "usmangee-productions",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/31\/40\/8d\/31408d91-1543-abcc-8207-57d19b443206\/mza_961458661227138241.png\/170x170bb.png",
-            "genre": "Music",
-            "genre_id": "1310",
-            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/usmangee-collection-ultimate-version\/id1864352949?uo=2"
-        },
-        {
-            "rank": 77,
-            "apple_id": "1239293215",
-            "name": "Paisa Vaisa with Anupam Gupta",
-            "artist": "IVM Podcasts",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/62\/9c\/9f\/629c9f65-37a2-e95f-34ed-d87a38b775f2\/mza_18353628548253511001.jpg\/170x170bb.png",
-            "genre": "Investing",
-            "genre_id": "1412",
-            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/paisa-vaisa-with-anupam-gupta\/id1239293215?uo=2"
-        },
-        {
-            "rank": 78,
+            "rank": 54,
             "apple_id": "278981407",
             "name": "Stuff You Should Know",
             "artist": "iHeartPodcasts",
@@ -788,17 +548,57 @@
             "url": "https:\/\/podcasts.apple.com\/in\/podcast\/stuff-you-should-know\/id278981407?uo=2"
         },
         {
-            "rank": 79,
-            "apple_id": "377785090",
-            "name": "Fareed Zakaria GPS",
-            "artist": "CNN Podcasts",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/7b\/6d\/ec\/7b6deca2-e1ef-bd33-6f8b-f9af9fbfe439\/mza_3617658654711387260.jpeg\/170x170bb.png",
-            "genre": "News",
-            "genre_id": "1489",
-            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/fareed-zakaria-gps\/id377785090?uo=2"
+            "rank": 55,
+            "apple_id": "990149481",
+            "name": "The Knowledge Project",
+            "artist": "Shane Parrish",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/b9\/71\/27\/b97127fa-2849-e9aa-7602-4bb36d33ad17\/mza_14536930361717300882.jpeg\/170x170bb.png",
+            "genre": "Business",
+            "genre_id": "1321",
+            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/the-knowledge-project\/id990149481?uo=2"
         },
         {
-            "rank": 80,
+            "rank": 56,
+            "apple_id": "1831664449",
+            "name": "Bharat Unscripted",
+            "artist": "Parijit Khokle",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/48\/8d\/52\/488d5230-d7ee-06d8-a39f-f7cf90dd8ca5\/mza_12094595456475804316.jpg\/170x170bb.png",
+            "genre": "History",
+            "genre_id": "1487",
+            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/bharat-unscripted\/id1831664449?uo=2"
+        },
+        {
+            "rank": 57,
+            "apple_id": "584092091",
+            "name": "Gita For Daily Living",
+            "artist": "Neil Bhatt",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts112\/v4\/bb\/6c\/db\/bb6cdbcc-8c70-afee-f282-4485a08ec7de\/mza_6198008589267674324.jpg\/170x170bb.png",
+            "genre": "Hinduism",
+            "genre_id": "1463",
+            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/gita-for-daily-living\/id584092091?uo=2"
+        },
+        {
+            "rank": 58,
+            "apple_id": "1438054347",
+            "name": "Conan O’Brien Needs A Friend",
+            "artist": "Team Coco & Earwolf",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/c6\/02\/8a\/c6028ab7-bffd-db83-53e4-34a4ea9bef21\/mza_16944101310108746053.jpg\/170x170bb.png",
+            "genre": "Comedy",
+            "genre_id": "1303",
+            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/conan-obrien-needs-a-friend\/id1438054347?uo=2"
+        },
+        {
+            "rank": 59,
+            "apple_id": "1494440867",
+            "name": "In Focus by The Hindu",
+            "artist": "The Hindu",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/a7\/54\/86\/a75486ab-87a8-0652-305f-a8a29f98e57e\/mza_3359787770935723872.jpeg\/170x170bb.png",
+            "genre": "News Commentary",
+            "genre_id": "1530",
+            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/in-focus-by-the-hindu\/id1494440867?uo=2"
+        },
+        {
+            "rank": 60,
             "apple_id": "1666577596",
             "name": "Raw Talks With Vamshi Kurapati - Telugu Business Podcast",
             "artist": "Vamshi Kurapati",
@@ -808,17 +608,97 @@
             "url": "https:\/\/podcasts.apple.com\/in\/podcast\/raw-talks-with-vamshi-kurapati-telugu-business-podcast\/id1666577596?uo=2"
         },
         {
-            "rank": 81,
-            "apple_id": "292651411",
-            "name": "World Business Report",
-            "artist": "BBC World Service",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/4c\/59\/e5\/4c59e58d-3705-07ae-8202-cd6dc0c1a775\/mza_14776944308557775503.jpg\/170x170bb.png",
-            "genre": "Business News",
-            "genre_id": "1490",
-            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/world-business-report\/id292651411?uo=2"
+            "rank": 61,
+            "apple_id": "325404506",
+            "name": "StarTalk Radio",
+            "artist": "Neil deGrasse Tyson",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/d7\/88\/9b\/d7889bab-dca5-77ba-3d0c-7fae8f16ab11\/mza_8810454848871508.jpg\/170x170bb.png",
+            "genre": "Science",
+            "genre_id": "1533",
+            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/startalk-radio\/id325404506?uo=2"
         },
         {
-            "rank": 82,
+            "rank": 62,
+            "apple_id": "1502871393",
+            "name": "All-In with Chamath, Jason, Sacks & Friedberg",
+            "artist": "All-In Podcast, LLC",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts124\/v4\/c7\/d2\/92\/c7d292ea-44b3-47ff-2f5e-74fa5b23db6c\/mza_7005270671777648882.png\/170x170bb.png",
+            "genre": "Technology",
+            "genre_id": "1318",
+            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/all-in-with-chamath-jason-sacks-friedberg\/id1502871393?uo=2"
+        },
+        {
+            "rank": 63,
+            "apple_id": "1434243584",
+            "name": "Lex Fridman Podcast",
+            "artist": "Lex Fridman",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts115\/v4\/3e\/e3\/9c\/3ee39c89-de08-47a6-7f3d-3849cef6d255\/mza_16657851278549137484.png\/170x170bb.png",
+            "genre": "Technology",
+            "genre_id": "1318",
+            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/lex-fridman-podcast\/id1434243584?uo=2"
+        },
+        {
+            "rank": 64,
+            "apple_id": "1503042219",
+            "name": "The Internet Said So",
+            "artist": "Varun Thakur",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts115\/v4\/f2\/ec\/ca\/f2eccacb-b8a6-2b7d-79e2-52289bc199fe\/mza_7701004544351721619.jpg\/170x170bb.png",
+            "genre": "Comedy",
+            "genre_id": "1303",
+            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/the-internet-said-so\/id1503042219?uo=2"
+        },
+        {
+            "rank": 65,
+            "apple_id": "1588234296",
+            "name": "Fuel for the Soul with John Giftah | Biblical Teaching & Faith Podcast",
+            "artist": "John Giftah | Faith & Biblical Teaching Speaker",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/50\/57\/b9\/5057b987-f8aa-1aa9-5c0d-e744f8434616\/mza_6039348075615549692.jpg\/170x170bb.png",
+            "genre": "Christianity",
+            "genre_id": "1439",
+            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/fuel-for-the-soul-with-john-giftah-biblical-teaching\/id1588234296?uo=2"
+        },
+        {
+            "rank": 66,
+            "apple_id": "1825089900",
+            "name": "Bhagavad Gita (Hindi)",
+            "artist": "Swami Adgadanand",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/dc\/3c\/1c\/dc3c1ccb-8c7c-dbbf-0c75-3d3323e5790e\/mza_15428274779559084253.jpg\/170x170bb.png",
+            "genre": "Hinduism",
+            "genre_id": "1463",
+            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/bhagavad-gita-hindi\/id1825089900?uo=2"
+        },
+        {
+            "rank": 67,
+            "apple_id": "1490694622",
+            "name": "SRMN",
+            "artist": "SRMN",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts123\/v4\/19\/26\/a6\/1926a601-044b-327f-b0f5-ab456e2f7b91\/mza_16409333365989040538.jpg\/170x170bb.png",
+            "genre": "Music",
+            "genre_id": "1310",
+            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/srmn\/id1490694622?uo=2"
+        },
+        {
+            "rank": 68,
+            "apple_id": "1509930788",
+            "name": "Akbar Birbal Stories",
+            "artist": "Chimes",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/6d\/eb\/d4\/6debd40b-a635-8c6d-5494-808ae5600a4e\/mza_17461315508348972591.jpg\/170x170bb.png",
+            "genre": "Stories for Kids",
+            "genre_id": "1520",
+            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/akbar-birbal-stories\/id1509930788?uo=2"
+        },
+        {
+            "rank": 69,
+            "apple_id": "1239293215",
+            "name": "Paisa Vaisa with Anupam Gupta",
+            "artist": "IVM Podcasts",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/62\/9c\/9f\/629c9f65-37a2-e95f-34ed-d87a38b775f2\/mza_18353628548253511001.jpg\/170x170bb.png",
+            "genre": "Investing",
+            "genre_id": "1412",
+            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/paisa-vaisa-with-anupam-gupta\/id1239293215?uo=2"
+        },
+        {
+            "rank": 70,
             "apple_id": "1743247783",
             "name": "Indian Business Podcast",
             "artist": "Thinkschool",
@@ -828,247 +708,7 @@
             "url": "https:\/\/podcasts.apple.com\/in\/podcast\/indian-business-podcast\/id1743247783?uo=2"
         },
         {
-            "rank": 83,
-            "apple_id": "1508721102",
-            "name": "DJ Ravish Remixes",
-            "artist": "DJ Ravish",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/c3\/79\/fe\/c379fe05-69c1-1482-199a-7afb6e2b63d4\/mza_10984872439708677114.jpg\/170x170bb.png",
-            "genre": "Music",
-            "genre_id": "1310",
-            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/dj-ravish-remixes\/id1508721102?uo=2"
-        },
-        {
-            "rank": 84,
-            "apple_id": "1469394914",
-            "name": "The Journal.",
-            "artist": "The Wall Street Journal & Spotify Studios",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/91\/0e\/ca\/910eca32-75a3-48b6-9be7-f45799ef5f2f\/mza_9869666721903280546.jpg\/170x170bb.png",
-            "genre": "Daily News",
-            "genre_id": "1526",
-            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/the-journal\/id1469394914?uo=2"
-        },
-        {
-            "rank": 85,
-            "apple_id": "1814112248",
-            "name": "Rich Dad Poor Dad In English",
-            "artist": "Raja Babu",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/f9\/04\/31\/f9043154-7db9-2265-0c82-7b55515bc825\/mza_8796216513920007279.jpg\/170x170bb.png",
-            "genre": "Books",
-            "genre_id": "1482",
-            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/rich-dad-poor-dad-in-english\/id1814112248?uo=2"
-        },
-        {
-            "rank": 86,
-            "apple_id": "1247628265",
-            "name": "Vedanta Talks - Swami Sarvapriyananda",
-            "artist": "Vedanta Society of New York",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/c1\/d3\/c9\/c1d3c900-76c3-22f0-d881-a59c4d0675a3\/mza_2029036504926285102.jpg\/170x170bb.png",
-            "genre": "Hinduism",
-            "genre_id": "1463",
-            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/vedanta-talks-swami-sarvapriyananda\/id1247628265?uo=2"
-        },
-        {
-            "rank": 87,
-            "apple_id": "1488521447",
-            "name": "The Athletic FC Podcast",
-            "artist": "The Athletic",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/03\/0f\/fe\/030ffeae-303b-4433-ee1e-ca03a2aab4e5\/mza_12386288644683684020.jpeg\/170x170bb.png",
-            "genre": "Sports",
-            "genre_id": "1545",
-            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/the-athletic-fc-podcast\/id1488521447?uo=2"
-        },
-        {
-            "rank": 88,
-            "apple_id": "659155419",
-            "name": "Philosophize This!",
-            "artist": "Stephen West",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/d8\/c3\/7b\/d8c37b12-e3ca-c5eb-cb92-f588700cd1cb\/mza_17294900327245904129.jpg\/170x170bb.png",
-            "genre": "Philosophy",
-            "genre_id": "1443",
-            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/philosophize-this\/id659155419?uo=2"
-        },
-        {
-            "rank": 89,
-            "apple_id": "1674008350",
-            "name": "Latent Space: The AI Engineer Podcast",
-            "artist": "Latent.Space",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/2d\/c3\/b1\/2dc3b1c6-2170-e926-04d0-0aaabf848eff\/mza_2266632206147105925.jpg\/170x170bb.png",
-            "genre": "Technology",
-            "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/latent-space-the-ai-engineer-podcast\/id1674008350?uo=2"
-        },
-        {
-            "rank": 90,
-            "apple_id": "137254859",
-            "name": "Joel Osteen Podcast",
-            "artist": "Joel Osteen, SiriusXM",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/23\/1e\/9c\/231e9c6a-4bb1-30ec-11cc-55d4a24dcd12\/mza_8238303300450448650.jpg\/170x170bb.png",
-            "genre": "Religion & Spirituality",
-            "genre_id": "1314",
-            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/joel-osteen-podcast\/id137254859?uo=2"
-        },
-        {
-            "rank": 91,
-            "apple_id": "1608813794",
-            "name": "MrBallen Podcast: Strange, Dark & Mysterious Stories",
-            "artist": "Ballen Studios",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/a5\/9c\/8a\/a59c8a0a-0cb2-9862-e0d6-7b5ee4e9e157\/mza_12554888833857337425.jpg\/170x170bb.png",
-            "genre": "True Crime",
-            "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/mrballen-podcast-strange-dark-mysterious-stories\/id1608813794?uo=2"
-        },
-        {
-            "rank": 92,
-            "apple_id": "1553199762",
-            "name": "Bhojpuri Sher Khesari Ke Song",
-            "artist": "Tinku Yadav",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts124\/v4\/1f\/f0\/d1\/1ff0d10b-c5b7-fa6b-e290-a34a08c3656d\/mza_3331370805321325472.jpg\/170x170bb.png",
-            "genre": "Music Commentary",
-            "genre_id": "1523",
-            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/bhojpuri-sher-khesari-ke-song\/id1553199762?uo=2"
-        },
-        {
-            "rank": 93,
-            "apple_id": "1819856014",
-            "name": "People by WTF",
-            "artist": "Nikhil Kamath",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/14\/bf\/2e\/14bf2ed1-e00e-dfc4-fd1b-14e88083aed8\/mza_13608212208765036150.jpeg\/170x170bb.png",
-            "genre": "Entrepreneurship",
-            "genre_id": "1493",
-            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/people-by-wtf\/id1819856014?uo=2"
-        },
-        {
-            "rank": 94,
-            "apple_id": "1785985876",
-            "name": "Khloé in Wonder Land",
-            "artist": "Khloé Kardashian",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/93\/71\/84\/93718442-30c1-7ac4-2f60-aad04c2b917c\/mza_4663150695155770153.jpeg\/170x170bb.png",
-            "genre": "Society & Culture",
-            "genre_id": "1324",
-            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/khlo%C3%A9-in-wonder-land\/id1785985876?uo=2"
-        },
-        {
-            "rank": 95,
-            "apple_id": "1802307697",
-            "name": "Today in India - Morning News Brief",
-            "artist": "Daily News Brief India",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/b7\/a2\/b8\/b7a2b825-5137-a5fc-797c-f44f0f99d0ff\/mza_10368305883100349590.jpg\/170x170bb.png",
-            "genre": "Daily News",
-            "genre_id": "1526",
-            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/today-in-india-morning-news-brief\/id1802307697?uo=2"
-        },
-        {
-            "rank": 96,
-            "apple_id": "1853007888",
-            "name": "The Rest Is Science",
-            "artist": "Goalhanger",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/10\/e6\/4d\/10e64d1a-6747-2500-6add-ca04616d5686\/mza_1900430593839428227.jpg\/170x170bb.png",
-            "genre": "Physics",
-            "genre_id": "1542",
-            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/the-rest-is-science\/id1853007888?uo=2"
-        },
-        {
-            "rank": 97,
-            "apple_id": "1278815517",
-            "name": "Ologies with Alie Ward",
-            "artist": "Alie Ward",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts125\/v4\/44\/4e\/42\/444e42f6-1ce8-1e7b-2d50-4ed506c27004\/mza_18370866018545460916.jpg\/170x170bb.png",
-            "genre": "Science",
-            "genre_id": "1533",
-            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/ologies-with-alie-ward\/id1278815517?uo=2"
-        },
-        {
-            "rank": 98,
-            "apple_id": "1056200096",
-            "name": "Odd Lots",
-            "artist": "Bloomberg",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/f3\/99\/6a\/f3996a52-e4a4-bf0d-b7d6-e376c4058568\/mza_15550359494736224565.jpg\/170x170bb.png",
-            "genre": "Investing",
-            "genre_id": "1412",
-            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/odd-lots\/id1056200096?uo=2"
-        },
-        {
-            "rank": 99,
-            "apple_id": "1611374685",
-            "name": "The Rest Is Politics",
-            "artist": "Goalhanger",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/d0\/a7\/d6\/d0a7d6a3-e1d3-52ba-60fd-d788ceb7d559\/mza_17193364103373697567.jpg\/170x170bb.png",
-            "genre": "Politics",
-            "genre_id": "1527",
-            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/the-rest-is-politics\/id1611374685?uo=2"
-        },
-        {
-            "rank": 100,
-            "apple_id": "1550446941",
-            "name": "New Songs Geet Kavita Haryanvi Ragni",
-            "artist": "Anand Kumar Ashodhiya",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts114\/v4\/a2\/ce\/d1\/a2ced196-f5e0-c922-8cc0-88592ce4509a\/mza_13263398472007917015.jpg\/170x170bb.png",
-            "genre": "Performing Arts",
-            "genre_id": "1405",
-            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/new-songs-geet-kavita-haryanvi-ragni\/id1550446941?uo=2"
-        },
-        {
-            "rank": 101,
-            "apple_id": "1573710078",
-            "name": "The Psychology of your 20s",
-            "artist": "iHeartPodcasts",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/f8\/1e\/93\/f81e9349-1f81-0901-06e2-9fcb97f916ce\/mza_6543407769057947677.jpg\/170x170bb.png",
-            "genre": "Mental Health",
-            "genre_id": "1517",
-            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/the-psychology-of-your-20s\/id1573710078?uo=2"
-        },
-        {
-            "rank": 102,
-            "apple_id": "152022135",
-            "name": "HBR IdeaCast",
-            "artist": "Harvard Business Review",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/28\/4b\/4e\/284b4e44-9a28-dabf-e853-e60c43e380ad\/mza_6581779795008535928.jpg\/170x170bb.png",
-            "genre": "Management",
-            "genre_id": "1491",
-            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/hbr-ideacast\/id152022135?uo=2"
-        },
-        {
-            "rank": 103,
-            "apple_id": "1490896085",
-            "name": "The Ranveer Show",
-            "artist": "BeerBiceps aka Ranveer Allahbadia",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts116\/v4\/58\/6e\/a9\/586ea984-3bf8-302e-a8fd-2e7b002044d2\/mza_2944927475341717105.jpg\/170x170bb.png",
-            "genre": "Self-Improvement",
-            "genre_id": "1500",
-            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/the-ranveer-show\/id1490896085?uo=2"
-        },
-        {
-            "rank": 104,
-            "apple_id": "1650761128",
-            "name": "Out Of Focus - MediaOne",
-            "artist": "Mediaone",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/e0\/81\/e8\/e081e825-5841-c35b-b171-5e46a2fe0aa4\/mza_16838822076629264752.jpg\/170x170bb.png",
-            "genre": "News Commentary",
-            "genre_id": "1530",
-            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/out-of-focus-mediaone\/id1650761128?uo=2"
-        },
-        {
-            "rank": 105,
-            "apple_id": "863897795",
-            "name": "The Tim Ferriss Show",
-            "artist": "Tim Ferriss: Bestselling Author, Human Guinea Pig",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts126\/v4\/18\/39\/b4\/1839b420-7aff-c501-5d0d-af2842fba013\/mza_6255154260686997849.jpeg\/170x170bb.png",
-            "genre": "Entrepreneurship",
-            "genre_id": "1493",
-            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/the-tim-ferriss-show\/id863897795?uo=2"
-        },
-        {
-            "rank": 106,
-            "apple_id": "1796001759",
-            "name": "Maha Bharatham by Chaganti Koteshwara Rao",
-            "artist": "Chaganti Koteshwara Rao",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/a9\/fd\/44\/a9fd443b-33c9-7695-d221-6f695ccda39b\/mza_7456665485516035046.jpg\/170x170bb.png",
-            "genre": "Hinduism",
-            "genre_id": "1463",
-            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/maha-bharatham-by-chaganti-koteshwara-rao\/id1796001759?uo=2"
-        },
-        {
-            "rank": 107,
+            "rank": 71,
             "apple_id": "290783428",
             "name": "Planet Money",
             "artist": "NPR",
@@ -1078,47 +718,127 @@
             "url": "https:\/\/podcasts.apple.com\/in\/podcast\/planet-money\/id290783428?uo=2"
         },
         {
-            "rank": 108,
-            "apple_id": "1833613189",
-            "name": "Wild South Raiders Podcast",
-            "artist": "Wild South Raiders",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/26\/18\/b3\/2618b340-c9b9-d307-3efe-103f4d2d2657\/mza_6692267113826067361.jpg\/170x170bb.png",
+            "rank": 72,
+            "apple_id": "188674007",
+            "name": "Football Weekly",
+            "artist": "The Guardian",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/e7\/56\/c9\/e756c9f6-35a6-25b5-11dd-0ad301e01b3b\/mza_7252499345169022637.jpg\/170x170bb.png",
+            "genre": "Soccer",
+            "genre_id": "1546",
+            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/football-weekly\/id188674007?uo=2"
+        },
+        {
+            "rank": 73,
+            "apple_id": "292651411",
+            "name": "World Business Report",
+            "artist": "BBC World Service",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/4c\/59\/e5\/4c59e58d-3705-07ae-8202-cd6dc0c1a775\/mza_14776944308557775503.jpg\/170x170bb.png",
+            "genre": "Business News",
+            "genre_id": "1490",
+            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/world-business-report\/id292651411?uo=2"
+        },
+        {
+            "rank": 74,
+            "apple_id": "1627920305",
+            "name": "Lenny's Podcast: Product | Career | Growth",
+            "artist": "Lenny Rachitsky",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/c7\/80\/a3\/c780a365-a1ed-527f-365f-1bd3e51ac6d1\/mza_5908526734339724450.jpg\/170x170bb.png",
+            "genre": "Technology",
+            "genre_id": "1318",
+            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/lennys-podcast-product-career-growth\/id1627920305?uo=2"
+        },
+        {
+            "rank": 75,
+            "apple_id": "1784284807",
+            "name": "Sherlock Holmes Short Stories",
+            "artist": "NOISER",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/b3\/75\/d5\/b375d53e-bc60-b527-86e4-a7d7b1bf0d03\/mza_4918920429805582688.jpeg\/170x170bb.png",
+            "genre": "Drama",
+            "genre_id": "1484",
+            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/sherlock-holmes-short-stories\/id1784284807?uo=2"
+        },
+        {
+            "rank": 76,
+            "apple_id": "849326609",
+            "name": "ESPN FC",
+            "artist": "ESPN",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/0f\/07\/e9\/0f07e97b-8ffa-9925-fec6-0bc8ca1fb2b8\/mza_17782232776661015076.jpg\/170x170bb.png",
+            "genre": "Soccer",
+            "genre_id": "1546",
+            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/espn-fc\/id849326609?uo=2"
+        },
+        {
+            "rank": 77,
+            "apple_id": "1802307697",
+            "name": "Today in India - Morning News Brief",
+            "artist": "Daily News Brief India",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/b7\/a2\/b8\/b7a2b825-5137-a5fc-797c-f44f0f99d0ff\/mza_10368305883100349590.jpg\/170x170bb.png",
+            "genre": "Daily News",
+            "genre_id": "1526",
+            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/today-in-india-morning-news-brief\/id1802307697?uo=2"
+        },
+        {
+            "rank": 78,
+            "apple_id": "1683948659",
+            "name": "HBR On Leadership",
+            "artist": "Harvard Business Review",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/19\/46\/69\/19466969-73b3-262d-d24e-bcef3191b98c\/mza_11559252757970620521.jpg\/170x170bb.png",
+            "genre": "Management",
+            "genre_id": "1491",
+            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/hbr-on-leadership\/id1683948659?uo=2"
+        },
+        {
+            "rank": 79,
+            "apple_id": "1608813794",
+            "name": "MrBallen Podcast: Strange, Dark & Mysterious Stories",
+            "artist": "Ballen Studios",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/a5\/9c\/8a\/a59c8a0a-0cb2-9862-e0d6-7b5ee4e9e157\/mza_12554888833857337425.jpg\/170x170bb.png",
+            "genre": "True Crime",
+            "genre_id": "1488",
+            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/mrballen-podcast-strange-dark-mysterious-stories\/id1608813794?uo=2"
+        },
+        {
+            "rank": 80,
+            "apple_id": "1717304068",
+            "name": "Moment of Silence",
+            "artist": "Sakshi Shivdasani and Naina Bhan",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/f3\/cb\/f7\/f3cbf750-51e2-a877-231c-7d330574ea6e\/mza_4316543184350891972.jpg\/170x170bb.png",
             "genre": "Comedy",
             "genre_id": "1303",
-            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/wild-south-raiders-podcast\/id1833613189?uo=2"
+            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/moment-of-silence\/id1717304068?uo=2"
         },
         {
-            "rank": 109,
-            "apple_id": "1791818011",
-            "name": "Bhagavad Gita - Swami Sarvapriyananda",
-            "artist": "Vedanta Society of New York - Archives",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/03\/61\/08\/036108af-c34b-6bfd-f21d-2e8540d0dff3\/mza_14139072744931894119.jpg\/170x170bb.png",
-            "genre": "Hinduism",
-            "genre_id": "1463",
-            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/bhagavad-gita-swami-sarvapriyananda\/id1791818011?uo=2"
+            "rank": 81,
+            "apple_id": "262026947",
+            "name": "6 Minute English",
+            "artist": "BBC Radio",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/ba\/98\/35\/ba9835eb-1ef3-60e4-bf05-3d141b8d1c7a\/mza_3844641997714022659.jpg\/170x170bb.png",
+            "genre": "Language Learning",
+            "genre_id": "1498",
+            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/6-minute-english\/id262026947?uo=2"
         },
         {
-            "rank": 110,
-            "apple_id": "1043699613",
-            "name": "The Bill Simmons Podcast",
-            "artist": "The Ringer",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/d6\/ec\/33\/d6ec332d-41b2-4f6e-3b26-26932d266089\/mza_9745793819236520970.jpg\/170x170bb.png",
-            "genre": "Sports",
-            "genre_id": "1545",
-            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/the-bill-simmons-podcast\/id1043699613?uo=2"
+            "rank": 82,
+            "apple_id": "1474429475",
+            "name": "Waveform: The MKBHD Podcast",
+            "artist": "MKBHD",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/92\/dd\/8e\/92dd8eed-43ec-dc47-50ae-c1ec7c0a3353\/mza_3861776104886813687.jpg\/170x170bb.png",
+            "genre": "Technology",
+            "genre_id": "1318",
+            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/waveform-the-mkbhd-podcast\/id1474429475?uo=2"
         },
         {
-            "rank": 111,
-            "apple_id": "1333552422",
-            "name": "Feel Better, Live More with Dr Rangan Chatterjee",
-            "artist": "Dr Rangan Chatterjee: GP & Author",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/82\/14\/44\/8214441d-06f9-5beb-79d6-2c95ed1448cc\/mza_2571811512276130369.jpg\/170x170bb.png",
-            "genre": "Alternative Health",
-            "genre_id": "1513",
-            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/feel-better-live-more-with-dr-rangan-chatterjee\/id1333552422?uo=2"
+            "rank": 83,
+            "apple_id": "1864352949",
+            "name": "UsmanGee Collection | Ultimate Version",
+            "artist": "usmangee-productions",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/31\/40\/8d\/31408d91-1543-abcc-8207-57d19b443206\/mza_961458661227138241.png\/170x170bb.png",
+            "genre": "Music",
+            "genre_id": "1310",
+            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/usmangee-collection-ultimate-version\/id1864352949?uo=2"
         },
         {
-            "rank": 112,
+            "rank": 84,
             "apple_id": "1033048640",
             "name": "The Mindset Mentor",
             "artist": "Rob Dial",
@@ -1128,37 +848,107 @@
             "url": "https:\/\/podcasts.apple.com\/in\/podcast\/the-mindset-mentor\/id1033048640?uo=2"
         },
         {
-            "rank": 113,
-            "apple_id": "1559675882",
-            "name": "Bhagavad Gita (English)",
-            "artist": "Anish Chaitanya",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts112\/v4\/7a\/dd\/67\/7add67ca-5e78-b28a-7b8a-3b80552e3ddd\/mza_9937208436575681245.jpg\/170x170bb.png",
-            "genre": "Spirituality",
-            "genre_id": "1444",
-            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/bhagavad-gita-english\/id1559675882?uo=2"
+            "rank": 85,
+            "apple_id": "377785090",
+            "name": "Fareed Zakaria GPS",
+            "artist": "CNN Podcasts",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/7b\/6d\/ec\/7b6deca2-e1ef-bd33-6f8b-f9af9fbfe439\/mza_3617658654711387260.jpeg\/170x170bb.png",
+            "genre": "News",
+            "genre_id": "1489",
+            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/fareed-zakaria-gps\/id377785090?uo=2"
         },
         {
-            "rank": 114,
-            "apple_id": "1469759170",
-            "name": "My First Million",
-            "artist": "Hubspot Media",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/2a\/5e\/4d\/2a5e4df0-8f2f-c5c7-1be9-4d220778f967\/mza_12868536899493151042.jpeg\/170x170bb.png",
-            "genre": "Entrepreneurship",
-            "genre_id": "1493",
-            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/my-first-million\/id1469759170?uo=2"
+            "rank": 86,
+            "apple_id": "1469394914",
+            "name": "The Journal.",
+            "artist": "The Wall Street Journal & Spotify Studios",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/91\/0e\/ca\/910eca32-75a3-48b6-9be7-f45799ef5f2f\/mza_9869666721903280546.jpg\/170x170bb.png",
+            "genre": "Daily News",
+            "genre_id": "1526",
+            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/the-journal\/id1469394914?uo=2"
         },
         {
-            "rank": 115,
-            "apple_id": "1822229513",
-            "name": "The psychology of Money in English",
-            "artist": "Raja Babu",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/44\/55\/fe\/4455fe09-6373-79f9-6469-22b5504c293b\/mza_16994711556501990267.jpg\/170x170bb.png",
-            "genre": "Books",
-            "genre_id": "1482",
-            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/the-psychology-of-money-in-english\/id1822229513?uo=2"
+            "rank": 87,
+            "apple_id": "1516093381",
+            "name": "Dwarkesh Podcast",
+            "artist": "Dwarkesh Patel",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/e8\/fe\/ce\/e8fece6e-c97f-8dd5-19a2-5c3b1f93f8e4\/mza_726727706016079768.jpg\/170x170bb.png",
+            "genre": "Technology",
+            "genre_id": "1318",
+            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/dwarkesh-podcast\/id1516093381?uo=2"
         },
         {
-            "rank": 116,
+            "rank": 88,
+            "apple_id": "137254859",
+            "name": "Joel Osteen Podcast",
+            "artist": "Joel Osteen, SiriusXM",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/23\/1e\/9c\/231e9c6a-4bb1-30ec-11cc-55d4a24dcd12\/mza_8238303300450448650.jpg\/170x170bb.png",
+            "genre": "Religion & Spirituality",
+            "genre_id": "1314",
+            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/joel-osteen-podcast\/id137254859?uo=2"
+        },
+        {
+            "rank": 89,
+            "apple_id": "1791818011",
+            "name": "Bhagavad Gita - Swami Sarvapriyananda",
+            "artist": "Vedanta Society of New York - Archives",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/03\/61\/08\/036108af-c34b-6bfd-f21d-2e8540d0dff3\/mza_14139072744931894119.jpg\/170x170bb.png",
+            "genre": "Hinduism",
+            "genre_id": "1463",
+            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/bhagavad-gita-swami-sarvapriyananda\/id1791818011?uo=2"
+        },
+        {
+            "rank": 90,
+            "apple_id": "1490896085",
+            "name": "The Ranveer Show",
+            "artist": "BeerBiceps aka Ranveer Allahbadia",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts116\/v4\/58\/6e\/a9\/586ea984-3bf8-302e-a8fd-2e7b002044d2\/mza_2944927475341717105.jpg\/170x170bb.png",
+            "genre": "Self-Improvement",
+            "genre_id": "1500",
+            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/the-ranveer-show\/id1490896085?uo=2"
+        },
+        {
+            "rank": 91,
+            "apple_id": "659155419",
+            "name": "Philosophize This!",
+            "artist": "Stephen West",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/c1\/b7\/51\/c1b751eb-ab38-f11c-d6c1-0a9de79b7061\/mza_12134548126279202007.jpg\/170x170bb.png",
+            "genre": "Philosophy",
+            "genre_id": "1443",
+            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/philosophize-this\/id659155419?uo=2"
+        },
+        {
+            "rank": 92,
+            "apple_id": "1488521447",
+            "name": "The Athletic FC Podcast",
+            "artist": "The Athletic",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/03\/0f\/fe\/030ffeae-303b-4433-ee1e-ca03a2aab4e5\/mza_12386288644683684020.jpeg\/170x170bb.png",
+            "genre": "Sports",
+            "genre_id": "1545",
+            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/the-athletic-fc-podcast\/id1488521447?uo=2"
+        },
+        {
+            "rank": 93,
+            "apple_id": "1247628265",
+            "name": "Vedanta Talks - Swami Sarvapriyananda",
+            "artist": "Vedanta Society of New York",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/c1\/d3\/c9\/c1d3c900-76c3-22f0-d881-a59c4d0675a3\/mza_2029036504926285102.jpg\/170x170bb.png",
+            "genre": "Hinduism",
+            "genre_id": "1463",
+            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/vedanta-talks-swami-sarvapriyananda\/id1247628265?uo=2"
+        },
+        {
+            "rank": 94,
+            "apple_id": "1480311435",
+            "name": "Office Ladies",
+            "artist": "Audacy & Jenna Fischer and Angela Kinsey",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/f5\/54\/de\/f554de51-9a49-3d7e-1f09-deed7dbad654\/mza_2487077087765680120.jpg\/170x170bb.png",
+            "genre": "Comedy",
+            "genre_id": "1303",
+            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/office-ladies\/id1480311435?uo=2"
+        },
+        {
+            "rank": 95,
             "apple_id": "1335814741",
             "name": "Business Wars",
             "artist": "Audible",
@@ -1168,17 +958,87 @@
             "url": "https:\/\/podcasts.apple.com\/in\/podcast\/business-wars\/id1335814741?uo=2"
         },
         {
-            "rank": 117,
-            "apple_id": "1710609544",
-            "name": "What Now? with Trevor Noah",
-            "artist": "Trevor Noah",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/5e\/66\/c2\/5e66c26a-9b53-3801-7c6b-040b88b82619\/mza_1272792653532625285.jpg\/170x170bb.png",
-            "genre": "Society & Culture",
-            "genre_id": "1324",
-            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/what-now-with-trevor-noah\/id1710609544?uo=2"
+            "rank": 96,
+            "apple_id": "1819856014",
+            "name": "People by WTF",
+            "artist": "Nikhil Kamath",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/14\/bf\/2e\/14bf2ed1-e00e-dfc4-fd1b-14e88083aed8\/mza_13608212208765036150.jpeg\/170x170bb.png",
+            "genre": "Entrepreneurship",
+            "genre_id": "1493",
+            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/people-by-wtf\/id1819856014?uo=2"
         },
         {
-            "rank": 118,
+            "rank": 97,
+            "apple_id": "1553199762",
+            "name": "Bhojpuri Sher Khesari Ke Song",
+            "artist": "Tinku Yadav",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts124\/v4\/1f\/f0\/d1\/1ff0d10b-c5b7-fa6b-e290-a34a08c3656d\/mza_3331370805321325472.jpg\/170x170bb.png",
+            "genre": "Music Commentary",
+            "genre_id": "1523",
+            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/bhojpuri-sher-khesari-ke-song\/id1553199762?uo=2"
+        },
+        {
+            "rank": 98,
+            "apple_id": "558494752",
+            "name": "ELECTRONYK PODCAST",
+            "artist": "DJ NYK",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/8a\/78\/14\/8a7814b5-4c97-8bf0-d76c-7cfc14a108d0\/mza_2817632607921581924.jpg\/170x170bb.png",
+            "genre": "Music",
+            "genre_id": "1310",
+            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/electronyk-podcast\/id558494752?uo=2"
+        },
+        {
+            "rank": 99,
+            "apple_id": "1796001759",
+            "name": "Maha Bharatham by Chaganti Koteshwara Rao",
+            "artist": "Chaganti Koteshwara Rao",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/a9\/fd\/44\/a9fd443b-33c9-7695-d221-6f695ccda39b\/mza_7456665485516035046.jpg\/170x170bb.png",
+            "genre": "Hinduism",
+            "genre_id": "1463",
+            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/maha-bharatham-by-chaganti-koteshwara-rao\/id1796001759?uo=2"
+        },
+        {
+            "rank": 100,
+            "apple_id": "1866556307",
+            "name": "Kabhi Bewafa Na Kehna",
+            "artist": "Lakshya Datta",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/33\/f8\/93\/33f893a7-ca59-8dc6-7096-a45fc83e621a\/mza_12032906348072605891.jpeg\/170x170bb.png",
+            "genre": "Drama",
+            "genre_id": "1484",
+            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/kabhi-bewafa-na-kehna\/id1866556307?uo=2"
+        },
+        {
+            "rank": 101,
+            "apple_id": "1785985876",
+            "name": "Khloé in Wonder Land",
+            "artist": "Khloé Kardashian",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/93\/71\/84\/93718442-30c1-7ac4-2f60-aad04c2b917c\/mza_4663150695155770153.jpeg\/170x170bb.png",
+            "genre": "Society & Culture",
+            "genre_id": "1324",
+            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/khlo%C3%A9-in-wonder-land\/id1785985876?uo=2"
+        },
+        {
+            "rank": 102,
+            "apple_id": "1814112248",
+            "name": "Rich Dad Poor Dad In English",
+            "artist": "Raja Babu",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/f9\/04\/31\/f9043154-7db9-2265-0c82-7b55515bc825\/mza_8796216513920007279.jpg\/170x170bb.png",
+            "genre": "Books",
+            "genre_id": "1482",
+            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/rich-dad-poor-dad-in-english\/id1814112248?uo=2"
+        },
+        {
+            "rank": 103,
+            "apple_id": "1051557000",
+            "name": "Science Vs",
+            "artist": "Spotify Studios",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/62\/15\/18\/621518e5-8eb3-392b-25a7-e7444aab86b6\/mza_815589518502039493.jpg\/170x170bb.png",
+            "genre": "Science",
+            "genre_id": "1533",
+            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/science-vs\/id1051557000?uo=2"
+        },
+        {
+            "rank": 104,
             "apple_id": "1520403988",
             "name": "The Ancients",
             "artist": "History Hit",
@@ -1188,27 +1048,7 @@
             "url": "https:\/\/podcasts.apple.com\/in\/podcast\/the-ancients\/id1520403988?uo=2"
         },
         {
-            "rank": 119,
-            "apple_id": "1454097755",
-            "name": "Naval",
-            "artist": "Naval",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts123\/v4\/eb\/f4\/dc\/ebf4dc3a-0292-a846-b8a1-496ea5c8b435\/mza_6617487660716274171.png\/170x170bb.png",
-            "genre": "Business",
-            "genre_id": "1321",
-            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/naval\/id1454097755?uo=2"
-        },
-        {
-            "rank": 120,
-            "apple_id": "73802620",
-            "name": "The Documentary Podcast",
-            "artist": "BBC World Service",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/a4\/ad\/16\/a4ad16d3-f32b-2732-79ea-d3819906b505\/mza_9553926258008356281.jpg\/170x170bb.png",
-            "genre": "Documentary",
-            "genre_id": "1543",
-            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/the-documentary-podcast\/id73802620?uo=2"
-        },
-        {
-            "rank": 121,
+            "rank": 105,
             "apple_id": "596047499",
             "name": "The School of Greatness",
             "artist": "Lewis Howes",
@@ -1218,24 +1058,184 @@
             "url": "https:\/\/podcasts.apple.com\/in\/podcast\/the-school-of-greatness\/id596047499?uo=2"
         },
         {
-            "rank": 122,
-            "apple_id": "1665219519",
-            "name": "Reuters World News",
-            "artist": "Reuters",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/37\/79\/ed\/3779ed28-900c-fe28-3fd4-177873c3bba4\/mza_6421898793909046859.jpg\/170x170bb.png",
+            "rank": 106,
+            "apple_id": "1701403307",
+            "name": "Bloomberg News Now",
+            "artist": "Bloomberg",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts116\/v4\/c5\/ef\/49\/c5ef49b8-b095-988a-79f3-fd5ac84aa182\/mza_4689791841539021230.jpg\/170x170bb.png",
             "genre": "Daily News",
             "genre_id": "1526",
-            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/reuters-world-news\/id1665219519?uo=2"
+            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/bloomberg-news-now\/id1701403307?uo=2"
+        },
+        {
+            "rank": 107,
+            "apple_id": "1508721102",
+            "name": "DJ Ravish Remixes",
+            "artist": "DJ Ravish",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/c3\/79\/fe\/c379fe05-69c1-1482-199a-7afb6e2b63d4\/mza_10984872439708677114.jpg\/170x170bb.png",
+            "genre": "Music",
+            "genre_id": "1310",
+            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/dj-ravish-remixes\/id1508721102?uo=2"
+        },
+        {
+            "rank": 108,
+            "apple_id": "1670705840",
+            "name": "P1 with Matt and Tommy",
+            "artist": "Stak",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/24\/59\/3d\/24593df5-3a1d-bb1e-b723-c445089853d5\/mza_1203789523881052632.jpeg\/170x170bb.png",
+            "genre": "Sports",
+            "genre_id": "1545",
+            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/p1-with-matt-and-tommy\/id1670705840?uo=2"
+        },
+        {
+            "rank": 109,
+            "apple_id": "1822229513",
+            "name": "The psychology of Money in English",
+            "artist": "Raja Babu",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/44\/55\/fe\/4455fe09-6373-79f9-6469-22b5504c293b\/mza_16994711556501990267.jpg\/170x170bb.png",
+            "genre": "Books",
+            "genre_id": "1482",
+            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/the-psychology-of-money-in-english\/id1822229513?uo=2"
+        },
+        {
+            "rank": 110,
+            "apple_id": "356157099",
+            "name": "Newshour",
+            "artist": "BBC World Service",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/60\/6d\/79\/606d7992-2e59-3374-579f-83d3010f25bd\/mza_15128963149149619329.jpg\/170x170bb.png",
+            "genre": "Daily News",
+            "genre_id": "1526",
+            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/newshour\/id356157099?uo=2"
+        },
+        {
+            "rank": 111,
+            "apple_id": "152022135",
+            "name": "HBR IdeaCast",
+            "artist": "Harvard Business Review",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/28\/4b\/4e\/284b4e44-9a28-dabf-e853-e60c43e380ad\/mza_6581779795008535928.jpg\/170x170bb.png",
+            "genre": "Management",
+            "genre_id": "1491",
+            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/hbr-ideacast\/id152022135?uo=2"
+        },
+        {
+            "rank": 112,
+            "apple_id": "1056200096",
+            "name": "Odd Lots",
+            "artist": "Bloomberg",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/f3\/99\/6a\/f3996a52-e4a4-bf0d-b7d6-e376c4058568\/mza_15550359494736224565.jpg\/170x170bb.png",
+            "genre": "Investing",
+            "genre_id": "1412",
+            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/odd-lots\/id1056200096?uo=2"
+        },
+        {
+            "rank": 113,
+            "apple_id": "1150510297",
+            "name": "How I Built This with Guy Raz",
+            "artist": "Guy Raz | Wondery",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts126\/v4\/64\/45\/06\/644506b5-c44f-f661-f74e-f63a4b2511bc\/mza_14892199991035639268.jpeg\/170x170bb.png",
+            "genre": "Business",
+            "genre_id": "1321",
+            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/how-i-built-this-with-guy-raz\/id1150510297?uo=2"
+        },
+        {
+            "rank": 114,
+            "apple_id": "1036379102",
+            "name": "Learning English Vocabulary",
+            "artist": "BBC Radio",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/c9\/f7\/d1\/c9f7d1c3-7d9f-286c-bd34-dd9ed6c8dbae\/mza_15142415083290293434.jpg\/170x170bb.png",
+            "genre": "Language Learning",
+            "genre_id": "1498",
+            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/learning-english-vocabulary\/id1036379102?uo=2"
+        },
+        {
+            "rank": 115,
+            "apple_id": "1608054488",
+            "name": "Prince Singh - The Horror Podcast",
+            "artist": "Prince Singh",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/4b\/39\/80\/4b398080-2908-745a-0a7e-bbe07510fbb2\/mza_12849034318266432359.jpg\/170x170bb.png",
+            "genre": "Fiction",
+            "genre_id": "1483",
+            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/prince-singh-the-horror-podcast\/id1608054488?uo=2"
+        },
+        {
+            "rank": 116,
+            "apple_id": "1573710078",
+            "name": "The Psychology of your 20s",
+            "artist": "iHeartPodcasts",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/f8\/1e\/93\/f81e9349-1f81-0901-06e2-9fcb97f916ce\/mza_6543407769057947677.jpg\/170x170bb.png",
+            "genre": "Mental Health",
+            "genre_id": "1517",
+            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/the-psychology-of-your-20s\/id1573710078?uo=2"
+        },
+        {
+            "rank": 117,
+            "apple_id": "354668519",
+            "name": "Freakonomics Radio",
+            "artist": "Freakonomics Radio + Stitcher",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts115\/v4\/f7\/0c\/c5\/f70cc540-ce36-d96f-b111-c970aad5505c\/mza_17703422762227531425.jpg\/170x170bb.png",
+            "genre": "Documentary",
+            "genre_id": "1543",
+            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/freakonomics-radio\/id354668519?uo=2"
+        },
+        {
+            "rank": 118,
+            "apple_id": "73802620",
+            "name": "The Documentary Podcast",
+            "artist": "BBC World Service",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/a4\/ad\/16\/a4ad16d3-f32b-2732-79ea-d3819906b505\/mza_9553926258008356281.jpg\/170x170bb.png",
+            "genre": "Documentary",
+            "genre_id": "1543",
+            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/the-documentary-podcast\/id73802620?uo=2"
+        },
+        {
+            "rank": 119,
+            "apple_id": "842818711",
+            "name": "The a16z Show",
+            "artist": "Andreessen Horowitz",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/3e\/04\/91\/3e049169-5b95-784c-2197-01cfff9f41eb\/mza_10026788811025472218.jpg\/170x170bb.png",
+            "genre": "Technology",
+            "genre_id": "1318",
+            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/the-a16z-show\/id842818711?uo=2"
+        },
+        {
+            "rank": 120,
+            "apple_id": "74844126",
+            "name": "WSJ Tech News Briefing",
+            "artist": "The Wall Street Journal",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/cd\/0b\/bb\/cd0bbbae-acb2-1962-6653-6b4e0634db3c\/mza_2669424987953808400.jpg\/170x170bb.png",
+            "genre": "Tech News",
+            "genre_id": "1528",
+            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/wsj-tech-news-briefing\/id74844126?uo=2"
+        },
+        {
+            "rank": 121,
+            "apple_id": "1744631325",
+            "name": "Prof G Markets",
+            "artist": "Vox Media Podcast Network",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/7a\/23\/3b\/7a233bad-e655-5d9a-e9a4-532b2ad03f2f\/mza_14391801209796191046.jpg\/170x170bb.png",
+            "genre": "Investing",
+            "genre_id": "1412",
+            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/prof-g-markets\/id1744631325?uo=2"
+        },
+        {
+            "rank": 122,
+            "apple_id": "1854354375",
+            "name": "Nelson John 360",
+            "artist": "Nelson John",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/ca\/5d\/37\/ca5d372b-4aa3-11d4-78d5-93ee6f92fc71\/mza_13193581570687934351.png\/170x170bb.png",
+            "genre": "News",
+            "genre_id": "1489",
+            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/nelson-john-360\/id1854354375?uo=2"
         },
         {
             "rank": 123,
-            "apple_id": "430333725",
-            "name": "The Vergecast",
-            "artist": "The Verge",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/3b\/f7\/db\/3bf7dbc4-b8cc-3b1f-aab3-d5efdc64b1f1\/mza_12861866806353468883.jpeg\/170x170bb.png",
-            "genre": "Technology",
-            "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/the-vergecast\/id430333725?uo=2"
+            "apple_id": "1780522639",
+            "name": "The Podcast Top 5",
+            "artist": "mowPod",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/ab\/05\/98\/ab059861-ea2e-ec91-86bd-debc16011218\/mza_3976287706849930191.jpg\/170x170bb.png",
+            "genre": "Marketing",
+            "genre_id": "1492",
+            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/the-podcast-top-5\/id1780522639?uo=2"
         },
         {
             "rank": 124,
@@ -1249,93 +1249,93 @@
         },
         {
             "rank": 125,
-            "apple_id": "354668519",
-            "name": "Freakonomics Radio",
-            "artist": "Freakonomics Radio + Stitcher",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts115\/v4\/f7\/0c\/c5\/f70cc540-ce36-d96f-b111-c970aad5505c\/mza_17703422762227531425.jpg\/170x170bb.png",
-            "genre": "Documentary",
-            "genre_id": "1543",
-            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/freakonomics-radio\/id354668519?uo=2"
+            "apple_id": "1665219519",
+            "name": "Reuters World News",
+            "artist": "Reuters",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/37\/79\/ed\/3779ed28-900c-fe28-3fd4-177873c3bba4\/mza_6421898793909046859.jpg\/170x170bb.png",
+            "genre": "Daily News",
+            "genre_id": "1526",
+            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/reuters-world-news\/id1665219519?uo=2"
         },
         {
             "rank": 126,
-            "apple_id": "1896113248",
-            "name": "Bollywood Hindi New Songs",
-            "artist": "Bollywood Hindi New Songs",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/26\/ee\/8d\/26ee8d7d-19dd-d872-8251-ca67feafe0cc\/mza_4934097300809794090.png\/170x170bb.png",
-            "genre": "Music Commentary",
-            "genre_id": "1523",
-            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/bollywood-hindi-new-songs\/id1896113248?uo=2"
+            "apple_id": "1528594034",
+            "name": "Hard Fork",
+            "artist": "The New York Times",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/de\/c5\/20\/dec52092-6be0-9007-875c-6aa8e690a905\/mza_12490014444602578825.jpg\/170x170bb.png",
+            "genre": "Technology",
+            "genre_id": "1318",
+            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/hard-fork\/id1528594034?uo=2"
         },
         {
             "rank": 127,
-            "apple_id": "849326609",
-            "name": "ESPN FC",
-            "artist": "ESPN",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/0f\/07\/e9\/0f07e97b-8ffa-9925-fec6-0bc8ca1fb2b8\/mza_17782232776661015076.jpg\/170x170bb.png",
-            "genre": "Soccer",
-            "genre_id": "1546",
-            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/espn-fc\/id849326609?uo=2"
+            "apple_id": "1820703126",
+            "name": "Boring History for Sleep",
+            "artist": "Velvet",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/62\/a6\/37\/62a63720-ae50-b8c6-6282-b62a41e54588\/mza_4071962011418281551.jpg\/170x170bb.png",
+            "genre": "Social Sciences",
+            "genre_id": "1535",
+            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/boring-history-for-sleep\/id1820703126?uo=2"
         },
         {
             "rank": 128,
-            "apple_id": "1814704282",
-            "name": "Ekantik Vartalap",
-            "artist": "Bhajan Marg",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/04\/7a\/a8\/047aa84d-b1be-a5f3-4498-23c746d3a176\/mza_9843934230610196108.jpg\/170x170bb.png",
-            "genre": "Religion & Spirituality",
-            "genre_id": "1314",
-            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/ekantik-vartalap\/id1814704282?uo=2"
+            "apple_id": "1539683250",
+            "name": "Tamil Audio Books",
+            "artist": "Geraldine",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/b5\/b6\/98\/b5b6988e-5e46-970d-7a09-8d186609c8ff\/mza_14006812160068830973.jpg\/170x170bb.png",
+            "genre": "Books",
+            "genre_id": "1482",
+            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/tamil-audio-books\/id1539683250?uo=2"
         },
         {
             "rank": 129,
-            "apple_id": "356157099",
-            "name": "Newshour",
-            "artist": "BBC World Service",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/60\/6d\/79\/606d7992-2e59-3374-579f-83d3010f25bd\/mza_15128963149149619329.jpg\/170x170bb.png",
-            "genre": "Daily News",
-            "genre_id": "1526",
-            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/newshour\/id356157099?uo=2"
+            "apple_id": "430333725",
+            "name": "The Vergecast",
+            "artist": "The Verge",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/3b\/f7\/db\/3bf7dbc4-b8cc-3b1f-aab3-d5efdc64b1f1\/mza_12861866806353468883.jpeg\/170x170bb.png",
+            "genre": "Technology",
+            "genre_id": "1318",
+            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/the-vergecast\/id430333725?uo=2"
         },
         {
             "rank": 130,
-            "apple_id": "1521578868",
-            "name": "SmartLess",
-            "artist": "Jason Bateman, Sean Hayes, Will Arnett",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/b1\/93\/5f\/b1935f9f-35be-9144-e813-626bd8dabfb4\/mza_4132654708551836825.jpg\/170x170bb.png",
-            "genre": "Comedy",
-            "genre_id": "1303",
-            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/smartless\/id1521578868?uo=2"
+            "apple_id": "1710609544",
+            "name": "What Now? with Trevor Noah",
+            "artist": "Trevor Noah",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/5e\/66\/c2\/5e66c26a-9b53-3801-7c6b-040b88b82619\/mza_1272792653532625285.jpg\/170x170bb.png",
+            "genre": "Society & Culture",
+            "genre_id": "1324",
+            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/what-now-with-trevor-noah\/id1710609544?uo=2"
         },
         {
             "rank": 131,
-            "apple_id": "1482297423",
-            "name": "Easy German: Learn German with native speakers | Deutsch lernen mit Muttersprachlern",
-            "artist": "Cari, Manuel und das Team von Easy German",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/4f\/48\/89\/4f488920-28f6-b522-d107-9dd047055e9b\/mza_11652693665754415823.jpg\/170x170bb.png",
-            "genre": "Language Learning",
-            "genre_id": "1498",
-            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/easy-german-learn-german-with-native-speakers-deutsch\/id1482297423?uo=2"
+            "apple_id": "754700884",
+            "name": "Sky Sports Cricket Podcast",
+            "artist": "Sky Sports",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/a6\/70\/99\/a67099a7-246c-4658-a36a-6576129cf473\/mza_12941816727354318443.jpg\/170x170bb.png",
+            "genre": "Cricket",
+            "genre_id": "1554",
+            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/sky-sports-cricket-podcast\/id754700884?uo=2"
         },
         {
             "rank": 132,
-            "apple_id": "1744631325",
-            "name": "Prof G Markets",
-            "artist": "Vox Media Podcast Network",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/7a\/23\/3b\/7a233bad-e655-5d9a-e9a4-532b2ad03f2f\/mza_14391801209796191046.jpg\/170x170bb.png",
-            "genre": "Investing",
-            "genre_id": "1412",
-            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/prof-g-markets\/id1744631325?uo=2"
+            "apple_id": "1278815517",
+            "name": "Ologies with Alie Ward",
+            "artist": "Alie Ward",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts125\/v4\/44\/4e\/42\/444e42f6-1ce8-1e7b-2d50-4ed506c27004\/mza_18370866018545460916.jpg\/170x170bb.png",
+            "genre": "Science",
+            "genre_id": "1533",
+            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/ologies-with-alie-ward\/id1278815517?uo=2"
         },
         {
             "rank": 133,
-            "apple_id": "958230465",
-            "name": "The Twenty Minute VC (20VC): Venture Capital | Startup Funding | The Pitch",
-            "artist": "Harry Stebbings",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/cb\/4a\/f9\/cb4af9a2-5857-c3f1-30d4-14395af9a14f\/mza_11350890235230424535.jpeg\/170x170bb.png",
-            "genre": "Investing",
-            "genre_id": "1412",
-            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/the-twenty-minute-vc-20vc-venture-capital-startup\/id958230465?uo=2"
+            "apple_id": "1473854035",
+            "name": "Apple Events",
+            "artist": "Apple",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/b1\/0b\/ac\/b10bac9b-e35a-efd1-1c54-6321ce535fa0\/mza_4971492661867950951.jpeg\/170x170bb.png",
+            "genre": "Technology",
+            "genre_id": "1318",
+            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/apple-events\/id1473854035?uo=2"
         },
         {
             "rank": 134,
@@ -1349,126 +1349,16 @@
         },
         {
             "rank": 135,
-            "apple_id": "1267958765",
-            "name": "The Totally Football Show with James Richardson",
-            "artist": "The Athletic",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/6d\/85\/f7\/6d85f75c-5222-6887-d364-e61ce75fe750\/mza_3596621206818028926.jpeg\/170x170bb.png",
-            "genre": "Football",
-            "genre_id": "1547",
-            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/the-totally-football-show-with-james-richardson\/id1267958765?uo=2"
+            "apple_id": "1650761128",
+            "name": "Out Of Focus - MediaOne",
+            "artist": "Mediaone",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/e0\/81\/e8\/e081e825-5841-c35b-b171-5e46a2fe0aa4\/mza_16838822076629264752.jpg\/170x170bb.png",
+            "genre": "News Commentary",
+            "genre_id": "1530",
+            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/out-of-focus-mediaone\/id1650761128?uo=2"
         },
         {
             "rank": 136,
-            "apple_id": "1445348369",
-            "name": "The Cārvāka Podcast",
-            "artist": "Kushal Mehra",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts113\/v4\/59\/7b\/80\/597b801d-cfcd-8d91-aae2-c1b60ed96856\/mza_4825062593645202585.jpg\/170x170bb.png",
-            "genre": "News",
-            "genre_id": "1489",
-            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/the-c%C4%81rv%C4%81ka-podcast\/id1445348369?uo=2"
-        },
-        {
-            "rank": 137,
-            "apple_id": "1701403307",
-            "name": "Bloomberg News Now",
-            "artist": "Bloomberg",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts116\/v4\/c5\/ef\/49\/c5ef49b8-b095-988a-79f3-fd5ac84aa182\/mza_4689791841539021230.jpg\/170x170bb.png",
-            "genre": "Daily News",
-            "genre_id": "1526",
-            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/bloomberg-news-now\/id1701403307?uo=2"
-        },
-        {
-            "rank": 138,
-            "apple_id": "1876049295",
-            "name": "The Book Club",
-            "artist": "Goalhanger",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/04\/96\/66\/04966629-615e-6442-b727-12d4b3c540c0\/mza_1610016671724244666.jpeg\/170x170bb.png",
-            "genre": "Books",
-            "genre_id": "1482",
-            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/the-book-club\/id1876049295?uo=2"
-        },
-        {
-            "rank": 139,
-            "apple_id": "1639125773",
-            "name": "First Principles",
-            "artist": "The Ken",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/c3\/8b\/cc\/c38bcc6b-4cfb-23cb-9158-7a833eaa752e\/mza_17082979281085966539.jpg\/170x170bb.png",
-            "genre": "Entrepreneurship",
-            "genre_id": "1493",
-            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/first-principles\/id1639125773?uo=2"
-        },
-        {
-            "rank": 140,
-            "apple_id": "121493675",
-            "name": "NPR News Now",
-            "artist": "NPR",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/27\/a0\/ab\/27a0abb7-817f-d80c-4fed-6fd04d424333\/mza_16804553558295235422.jpg\/170x170bb.png",
-            "genre": "Daily News",
-            "genre_id": "1526",
-            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/npr-news-now\/id121493675?uo=2"
-        },
-        {
-            "rank": 141,
-            "apple_id": "1406537385",
-            "name": "Practical AI",
-            "artist": "Practical AI LLC",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/72\/7a\/be\/727abe96-2e44-d9ac-a6d9-7226372b5eb9\/mza_6848050469316823102.jpg\/170x170bb.png",
-            "genre": "Technology",
-            "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/practical-ai\/id1406537385?uo=2"
-        },
-        {
-            "rank": 142,
-            "apple_id": "1150510297",
-            "name": "How I Built This with Guy Raz",
-            "artist": "Guy Raz | Wondery",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts126\/v4\/64\/45\/06\/644506b5-c44f-f661-f74e-f63a4b2511bc\/mza_14892199991035639268.jpeg\/170x170bb.png",
-            "genre": "Business",
-            "genre_id": "1321",
-            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/how-i-built-this-with-guy-raz\/id1150510297?uo=2"
-        },
-        {
-            "rank": 143,
-            "apple_id": "1553279283",
-            "name": "Passion Struck with John R. Miles",
-            "artist": "Passion Struck with John R. Miles",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/f3\/2f\/1e\/f32f1e83-8f6c-319f-f186-e565c50379b6\/mza_11186517578331875787.jpg\/170x170bb.png",
-            "genre": "Alternative Health",
-            "genre_id": "1513",
-            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/passion-struck-with-john-r-miles\/id1553279283?uo=2"
-        },
-        {
-            "rank": 144,
-            "apple_id": "1591851797",
-            "name": "Bedtime Stories for Kids|Good Night Tales|Stories of New Beginnings",
-            "artist": "BabyBus",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/05\/7e\/ee\/057eee17-281c-b8dc-d4be-e0fe3d5e5c7d\/mza_15429420026564187049.jpg\/170x170bb.png",
-            "genre": "Stories for Kids",
-            "genre_id": "1520",
-            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/bedtime-stories-for-kids-good-night-tales-stories-of\/id1591851797?uo=2"
-        },
-        {
-            "rank": 145,
-            "apple_id": "1651876897",
-            "name": "If Books Could Kill",
-            "artist": "Michael Hobbes & Peter Shamshiri",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/e3\/d3\/48\/e3d34893-d1ac-8840-cb95-f753773bc10f\/mza_1644670244607841438.jpg\/170x170bb.png",
-            "genre": "Society & Culture",
-            "genre_id": "1324",
-            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/if-books-could-kill\/id1651876897?uo=2"
-        },
-        {
-            "rank": 146,
-            "apple_id": "201671138",
-            "name": "This American Life",
-            "artist": "This American Life",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/64\/aa\/3a\/64aa3a66-a08a-947c-cf21-a5722a1b77ae\/mza_11390421932467026234.png\/170x170bb.png",
-            "genre": "Society & Culture",
-            "genre_id": "1324",
-            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/this-american-life\/id201671138?uo=2"
-        },
-        {
-            "rank": 147,
             "apple_id": "1515385282",
             "name": "A Bit of Optimism",
             "artist": "Simon Sinek",
@@ -1478,407 +1368,17 @@
             "url": "https:\/\/podcasts.apple.com\/in\/podcast\/a-bit-of-optimism\/id1515385282?uo=2"
         },
         {
-            "rank": 148,
-            "apple_id": "1296350485",
-            "name": "Darknet Diaries",
-            "artist": "Jack Rhysider",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts122\/v4\/3a\/80\/a7\/3a80a7db-5620-f77b-9935-016e61cc2fbc\/mza_9399859904175514567.jpg\/170x170bb.png",
-            "genre": "Technology",
-            "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/darknet-diaries\/id1296350485?uo=2"
-        },
-        {
-            "rank": 149,
-            "apple_id": "1114062334",
-            "name": "Bhagavad Gita Hindi",
-            "artist": "Yatharth Geeta",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts126\/v4\/c5\/4e\/ac\/c54eac7c-58e7-ba29-abda-e662a4dd0197\/mza_757197742357204749.jpg\/170x170bb.png",
-            "genre": "Hinduism",
-            "genre_id": "1463",
-            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/bhagavad-gita-hindi\/id1114062334?uo=2"
-        },
-        {
-            "rank": 150,
-            "apple_id": "1675310669",
-            "name": "The Morgan Housel Podcast",
-            "artist": "Morgan Housel",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/9e\/a7\/bb\/9ea7bb63-aa0b-debf-fcad-d2a42ee248d2\/mza_13946629000828465305.jpg\/170x170bb.png",
-            "genre": "Business",
-            "genre_id": "1321",
-            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/the-morgan-housel-podcast\/id1675310669?uo=2"
-        },
-        {
-            "rank": 151,
-            "apple_id": "1528594034",
-            "name": "Hard Fork",
-            "artist": "The New York Times",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/de\/c5\/20\/dec52092-6be0-9007-875c-6aa8e690a905\/mza_12490014444602578825.jpg\/170x170bb.png",
-            "genre": "Technology",
-            "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/hard-fork\/id1528594034?uo=2"
-        },
-        {
-            "rank": 152,
-            "apple_id": "917918570",
-            "name": "Serial",
-            "artist": "Serial Productions & The New York Times",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/9a\/fb\/87\/9afb8760-0e05-2b3e-24a2-7e14cce74570\/mza_14816055607064169808.jpg\/170x170bb.png",
-            "genre": "News",
-            "genre_id": "1489",
-            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/serial\/id917918570?uo=2"
-        },
-        {
-            "rank": 153,
-            "apple_id": "840986946",
-            "name": "No Such Thing As A Fish",
-            "artist": "No Such Thing As A Fish",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/6f\/9b\/4c\/6f9b4c39-3c1a-d7c7-9264-b0ed14579e08\/mza_7947053701740283670.png\/170x170bb.png",
-            "genre": "Comedy",
-            "genre_id": "1303",
-            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/no-such-thing-as-a-fish\/id840986946?uo=2"
-        },
-        {
-            "rank": 154,
-            "apple_id": "1733478812",
-            "name": "On Your Marks",
-            "artist": "ACCA",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/6d\/aa\/be\/6daabe2a-dad2-21be-756e-7dda8832581f\/mza_5141210050231555722.jpg\/170x170bb.png",
-            "genre": "How To",
-            "genre_id": "1499",
-            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/on-your-marks\/id1733478812?uo=2"
-        },
-        {
-            "rank": 155,
-            "apple_id": "1504664694",
-            "name": "Hindi Song",
-            "artist": "KHASI SONG",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts125\/v4\/27\/d4\/f5\/27d4f5d6-8e2a-9b94-94c2-bdb86d8788af\/mza_17752890479943798236.jpg\/170x170bb.png",
-            "genre": "Performing Arts",
-            "genre_id": "1405",
-            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/hindi-song\/id1504664694?uo=2"
-        },
-        {
-            "rank": 156,
-            "apple_id": "281128135",
-            "name": "Arseblog Arsecast, The Arsenal Podcast",
-            "artist": "arseblog.com",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/93\/a8\/b4\/93a8b4bd-81ad-babd-e714-1b034cff6cf3\/mza_4870709468201488521.jpeg\/170x170bb.png",
-            "genre": "Soccer",
-            "genre_id": "1546",
-            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/arseblog-arsecast-the-arsenal-podcast\/id281128135?uo=2"
-        },
-        {
-            "rank": 157,
-            "apple_id": "1539683250",
-            "name": "Tamil Audio Books",
-            "artist": "Geraldine",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/b5\/b6\/98\/b5b6988e-5e46-970d-7a09-8d186609c8ff\/mza_14006812160068830973.jpg\/170x170bb.png",
-            "genre": "Books",
-            "genre_id": "1482",
-            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/tamil-audio-books\/id1539683250?uo=2"
-        },
-        {
-            "rank": 158,
-            "apple_id": "1480311435",
-            "name": "Office Ladies",
-            "artist": "Audacy & Jenna Fischer and Angela Kinsey",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/f5\/54\/de\/f554de51-9a49-3d7e-1f09-deed7dbad654\/mza_2487077087765680120.jpg\/170x170bb.png",
-            "genre": "Comedy",
-            "genre_id": "1303",
-            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/office-ladies\/id1480311435?uo=2"
-        },
-        {
-            "rank": 159,
-            "apple_id": "1087147821",
-            "name": "10% Happier with Dan Harris",
-            "artist": "10% Happier",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/79\/04\/87\/79048703-d88c-acc2-c319-a8f2534b9ae5\/mza_15018160844227259170.jpg\/170x170bb.png",
-            "genre": "Mental Health",
-            "genre_id": "1517",
-            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/10-happier-with-dan-harris\/id1087147821?uo=2"
-        },
-        {
-            "rank": 160,
-            "apple_id": "1715473158",
-            "name": "The Global Story",
-            "artist": "BBC World Service",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/04\/79\/45\/047945a2-bc30-0f9f-a4c2-9d27b1761fd2\/mza_3986113186933533816.jpg\/170x170bb.png",
-            "genre": "Daily News",
-            "genre_id": "1526",
-            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/the-global-story\/id1715473158?uo=2"
-        },
-        {
-            "rank": 161,
-            "apple_id": "998568017",
-            "name": "Casefile True Crime",
-            "artist": "Casefile Presents",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/32\/81\/a3\/3281a345-6fa5-1d0d-b0bc-f02b0850a0ae\/mza_17562537467118278179.jpeg\/170x170bb.png",
-            "genre": "True Crime",
-            "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/casefile-true-crime\/id998568017?uo=2"
-        },
-        {
-            "rank": 162,
-            "apple_id": "1508098400",
-            "name": "Murder With My Husband",
-            "artist": "OH NO MEDIA",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/94\/1f\/fb\/941ffbcc-52f6-9278-5126-935462b77ed6\/mza_6340464045960938966.png\/170x170bb.png",
-            "genre": "True Crime",
-            "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/murder-with-my-husband\/id1508098400?uo=2"
-        },
-        {
-            "rank": 163,
-            "apple_id": "1805962115",
-            "name": "Easy Money: The Charles Ponzi Story",
-            "artist": "Apple TV \/ AT WILL MEDIA",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/28\/fe\/8f\/28fe8f22-3e67-d37d-47d8-7518ed0369d3\/mza_11104967426137200363.jpeg\/170x170bb.png",
-            "genre": "History",
-            "genre_id": "1487",
-            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/easy-money-the-charles-ponzi-story\/id1805962115?uo=2"
-        },
-        {
-            "rank": 164,
-            "apple_id": "1722322123",
-            "name": "Claude AI",
-            "artist": "Claude AI",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/bb\/6d\/aa\/bb6daa11-6190-d473-a2e9-a0d5ad51ce21\/mza_29215563039164085.jpeg\/170x170bb.png",
-            "genre": "Tech News",
-            "genre_id": "1528",
-            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/claude-ai\/id1722322123?uo=2"
-        },
-        {
-            "rank": 165,
-            "apple_id": "1473854035",
-            "name": "Apple Events",
-            "artist": "Apple",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/b1\/0b\/ac\/b10bac9b-e35a-efd1-1c54-6321ce535fa0\/mza_4971492661867950951.jpeg\/170x170bb.png",
-            "genre": "Technology",
-            "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/apple-events\/id1473854035?uo=2"
-        },
-        {
-            "rank": 166,
-            "apple_id": "1896763706",
-            "name": "Bollywood Hindi New Songs",
-            "artist": "Bollywood Hindi New Songs",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/f8\/79\/b3\/f879b30a-daba-dd84-e9a4-3e9a2a3cd7d1\/mza_6708362128193307875.png\/170x170bb.png",
-            "genre": "Music Commentary",
-            "genre_id": "1523",
-            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/bollywood-hindi-new-songs\/id1896763706?uo=2"
-        },
-        {
-            "rank": 167,
-            "apple_id": "1701585239",
-            "name": "Good Bad Billionaire",
-            "artist": "BBC World Service",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/f3\/5e\/bd\/f35ebdfd-0f58-5e38-c730-65af2e18b41b\/mza_18173551939387628789.jpg\/170x170bb.png",
-            "genre": "Entrepreneurship",
-            "genre_id": "1493",
-            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/good-bad-billionaire\/id1701585239?uo=2"
-        },
-        {
-            "rank": 168,
-            "apple_id": "1553736924",
-            "name": "The Jaipur Dialogues Podcasts",
-            "artist": "The Jaipur Dialogues",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts114\/v4\/5d\/ea\/e8\/5deae834-b451-592c-747a-7708ef2d2b71\/mza_16982363777874284497.jpg\/170x170bb.png",
-            "genre": "Education",
-            "genre_id": "1304",
-            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/the-jaipur-dialogues-podcasts\/id1553736924?uo=2"
-        },
-        {
-            "rank": 169,
-            "apple_id": "1551579084",
-            "name": "Baking A Murder",
-            "artist": "Stephanie Soo",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/dd\/f9\/25\/ddf9257a-da6a-4d5e-8e59-5d60d5a4655d\/mza_14045276546600636708.jpeg\/170x170bb.png",
-            "genre": "Comedy",
-            "genre_id": "1303",
-            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/baking-a-murder\/id1551579084?uo=2"
-        },
-        {
-            "rank": 170,
-            "apple_id": "1808844392",
-            "name": "Ishq-",
-            "artist": "Muzammil Jit",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/98\/8e\/89\/988e89a0-e23f-db5e-4931-fe0fe76f4ed4\/mza_7487167445225959265.png\/170x170bb.png",
-            "genre": "Music Commentary",
-            "genre_id": "1523",
-            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/ishq\/id1808844392?uo=2"
-        },
-        {
-            "rank": 171,
-            "apple_id": "1533592170",
-            "name": "Love Song",
-            "artist": "Subhana Ammu",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts114\/v4\/e5\/c9\/29\/e5c929e5-0c99-2ef8-f3b7-6e8fbb3842c8\/mza_18283383972113451258.jpg\/170x170bb.png",
-            "genre": "Music Commentary",
-            "genre_id": "1523",
-            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/love-song\/id1533592170?uo=2"
-        },
-        {
-            "rank": 172,
-            "apple_id": "1440133626",
-            "name": "Today in Focus",
-            "artist": "The Guardian",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts126\/v4\/f1\/13\/71\/f113715f-56e4-f542-a08c-b5890c0841bc\/mza_18228009703397905678.jpg\/170x170bb.png",
-            "genre": "Daily News",
-            "genre_id": "1526",
-            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/today-in-focus\/id1440133626?uo=2"
-        },
-        {
-            "rank": 173,
-            "apple_id": "1548604447",
-            "name": "The Ezra Klein Show",
-            "artist": "New York Times Opinion",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/9d\/ca\/35\/9dca35d8-e7d2-7e4f-63b5-c2ff4973a3f5\/mza_16891544429738729361.jpg\/170x170bb.png",
-            "genre": "Society & Culture",
-            "genre_id": "1324",
-            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/the-ezra-klein-show\/id1548604447?uo=2"
-        },
-        {
-            "rank": 174,
-            "apple_id": "1523045322",
-            "name": "Love Failure",
-            "artist": "Sana Sana",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts114\/v4\/05\/19\/6c\/05196cea-8105-4dcb-d518-40a1cc5667d9\/mza_17351559171648854872.jpg\/170x170bb.png",
-            "genre": "Music History",
-            "genre_id": "1524",
-            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/love-failure\/id1523045322?uo=2"
-        },
-        {
-            "rank": 175,
-            "apple_id": "1608054488",
-            "name": "Prince Singh - The Horror Podcast",
-            "artist": "Prince Singh",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/4b\/39\/80\/4b398080-2908-745a-0a7e-bbe07510fbb2\/mza_12849034318266432359.jpg\/170x170bb.png",
-            "genre": "Fiction",
-            "genre_id": "1483",
-            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/prince-singh-the-horror-podcast\/id1608054488?uo=2"
-        },
-        {
-            "rank": 176,
-            "apple_id": "1829492330",
-            "name": "Beyond the Battlefield: Bhagavad Gita for Modern Leadership, Entrepreneurs and Seekers",
-            "artist": "Ankur Pancholi — Gita Leadership & Modern Decision-Making",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/9d\/e1\/46\/9de146a6-09ad-497f-827f-8c1406e2d28c\/mza_3172998894225238919.jpg\/170x170bb.png",
+            "rank": 137,
+            "apple_id": "1559675882",
+            "name": "Bhagavad Gita (English)",
+            "artist": "Anish Chaitanya",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts112\/v4\/7a\/dd\/67\/7add67ca-5e78-b28a-7b8a-3b80552e3ddd\/mza_9937208436575681245.jpg\/170x170bb.png",
             "genre": "Spirituality",
             "genre_id": "1444",
-            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/beyond-the-battlefield-bhagavad-gita-for-modern\/id1829492330?uo=2"
+            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/bhagavad-gita-english\/id1559675882?uo=2"
         },
         {
-            "rank": 177,
-            "apple_id": "1579040306",
-            "name": "Short History Of...",
-            "artist": "NOISER",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts112\/v4\/57\/9e\/e8\/579ee81e-be15-4b29-1d13-26abd9296e88\/mza_9274260941010613844.jpeg\/170x170bb.png",
-            "genre": "History",
-            "genre_id": "1487",
-            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/short-history-of\/id1579040306?uo=2"
-        },
-        {
-            "rank": 178,
-            "apple_id": "1701423625",
-            "name": "A Century Of Stories",
-            "artist": "IVM Podcasts",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/8b\/0e\/e2\/8b0ee2cc-61e5-8cb6-d780-08e59e06abc5\/mza_6246680433087102350.jpg\/170x170bb.png",
-            "genre": "History",
-            "genre_id": "1487",
-            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/a-century-of-stories\/id1701423625?uo=2"
-        },
-        {
-            "rank": 179,
-            "apple_id": "1346207297",
-            "name": "Today, Explained",
-            "artist": "Vox",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/57\/bc\/e4\/57bce477-b6e7-ba7d-5bca-6289f3f32e26\/mza_17986217629149107841.jpeg\/170x170bb.png",
-            "genre": "Daily News",
-            "genre_id": "1526",
-            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/today-explained\/id1346207297?uo=2"
-        },
-        {
-            "rank": 180,
-            "apple_id": "1495557562",
-            "name": "The Race F1 Podcast",
-            "artist": "The Race Media Ltd",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/40\/7b\/8c\/407b8cbe-cd34-d818-ff69-a11bc1d6c690\/mza_9877600709441097500.jpeg\/170x170bb.png",
-            "genre": "Sports",
-            "genre_id": "1545",
-            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/the-race-f1-podcast\/id1495557562?uo=2"
-        },
-        {
-            "rank": 181,
-            "apple_id": "1820703126",
-            "name": "Boring History for Sleep",
-            "artist": "Velvet",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/62\/a6\/37\/62a63720-ae50-b8c6-6282-b62a41e54588\/mza_4071962011418281551.jpg\/170x170bb.png",
-            "genre": "Social Sciences",
-            "genre_id": "1535",
-            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/boring-history-for-sleep\/id1820703126?uo=2"
-        },
-        {
-            "rank": 182,
-            "apple_id": "1379959217",
-            "name": "Morbid",
-            "artist": "Ash Kelley & Alaina Urquhart",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/a4\/69\/a6\/a469a64c-580d-938a-53f1-893d968e1332\/mza_11675757052043432554.jpg\/170x170bb.png",
-            "genre": "True Crime",
-            "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/morbid\/id1379959217?uo=2"
-        },
-        {
-            "rank": 183,
-            "apple_id": "74844126",
-            "name": "WSJ Tech News Briefing",
-            "artist": "The Wall Street Journal",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/cd\/0b\/bb\/cd0bbbae-acb2-1962-6653-6b4e0634db3c\/mza_2669424987953808400.jpg\/170x170bb.png",
-            "genre": "Tech News",
-            "genre_id": "1528",
-            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/wsj-tech-news-briefing\/id74844126?uo=2"
-        },
-        {
-            "rank": 184,
-            "apple_id": "1246443751",
-            "name": "Circle Round",
-            "artist": "WBUR",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/54\/38\/74\/543874b1-821b-9e11-6f5d-965d2f0c5245\/mza_218851255204087494.jpg\/170x170bb.png",
-            "genre": "Kids & Family",
-            "genre_id": "1305",
-            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/circle-round\/id1246443751?uo=2"
-        },
-        {
-            "rank": 185,
-            "apple_id": "1073226719",
-            "name": "Pivot",
-            "artist": "New York Magazine",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/13\/22\/39\/1322397a-976e-3c8f-7764-91cc38d0dd70\/mza_12130189257448841692.jpeg\/170x170bb.png",
-            "genre": "News Commentary",
-            "genre_id": "1530",
-            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/pivot\/id1073226719?uo=2"
-        },
-        {
-            "rank": 186,
-            "apple_id": "285260960",
-            "name": "The McKinsey Podcast",
-            "artist": "McKinsey & Company",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts116\/v4\/43\/d6\/66\/43d66611-8914-367e-4ee4-029dd76a27fe\/mza_12033376682740379663.jpg\/170x170bb.png",
-            "genre": "Management",
-            "genre_id": "1491",
-            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/the-mckinsey-podcast\/id285260960?uo=2"
-        },
-        {
-            "rank": 187,
-            "apple_id": "1573528786",
-            "name": "Lessons for Life",
-            "artist": "Gaur Gopal Das",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts115\/v4\/f4\/6b\/e3\/f46be36a-eebc-6419-52af-ea79ba78e989\/mza_17207257654263606805.jpg\/170x170bb.png",
-            "genre": "Self-Improvement",
-            "genre_id": "1500",
-            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/lessons-for-life\/id1573528786?uo=2"
-        },
-        {
-            "rank": 188,
+            "rank": 138,
             "apple_id": "1757938645",
             "name": "Two by Two",
             "artist": "The Ken",
@@ -1888,77 +1388,7 @@
             "url": "https:\/\/podcasts.apple.com\/in\/podcast\/two-by-two\/id1757938645?uo=2"
         },
         {
-            "rank": 189,
-            "apple_id": "1525952293",
-            "name": "Ideas of India",
-            "artist": "Mercatus Center at George Mason University",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts124\/v4\/b7\/1c\/ee\/b71ceeae-58b0-9b06-54d7-50e7f9876a45\/mza_6290378990004744204.png\/170x170bb.png",
-            "genre": "Social Sciences",
-            "genre_id": "1535",
-            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/ideas-of-india\/id1525952293?uo=2"
-        },
-        {
-            "rank": 190,
-            "apple_id": "1830378741",
-            "name": "The Power of Your Subconscious Mind (Joseph Murphy)",
-            "artist": "Joseph Murphy",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/4e\/ae\/58\/4eae5862-a00a-a4f5-7a32-657d975929cc\/mza_10782221597631681654.jpg\/170x170bb.png",
-            "genre": "Books",
-            "genre_id": "1482",
-            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/the-power-of-your-subconscious-mind-joseph-murphy\/id1830378741?uo=2"
-        },
-        {
-            "rank": 191,
-            "apple_id": "1154105909",
-            "name": "Invest Like the Best with Patrick O'Shaughnessy",
-            "artist": "Colossus | Investing & Business Podcasts",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/61\/ae\/be\/61aebe7a-06e8-7390-3ae5-f2fc5889e36c\/mza_10827489189939068066.jpg\/170x170bb.png",
-            "genre": "Investing",
-            "genre_id": "1412",
-            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/invest-like-the-best-with-patrick-oshaughnessy\/id1154105909?uo=2"
-        },
-        {
-            "rank": 192,
-            "apple_id": "1521068608",
-            "name": "The Daily Mastery Podcast by Robin Sharma",
-            "artist": "Robin Sharma",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/06\/53\/f2\/0653f20f-5e73-2f09-18ac-96deeebaa6c3\/mza_15057753577398861592.jpg\/170x170bb.png",
-            "genre": "Self-Improvement",
-            "genre_id": "1500",
-            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/the-daily-mastery-podcast-by-robin-sharma\/id1521068608?uo=2"
-        },
-        {
-            "rank": 193,
-            "apple_id": "394775318",
-            "name": "99% Invisible",
-            "artist": "Roman Mars",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/79\/d0\/35\/79d035ea-9043-b43e-7380-33cd47bd968b\/mza_2606971010425550919.jpg\/170x170bb.png",
-            "genre": "Design",
-            "genre_id": "1402",
-            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/99-invisible\/id394775318?uo=2"
-        },
-        {
-            "rank": 194,
-            "apple_id": "1891672079",
-            "name": "Subtext by Zerodha",
-            "artist": "Zerodha",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/da\/f3\/9a\/daf39ad4-c437-f750-29b2-d9194b2513f5\/mza_15744985589130028145.jpg\/170x170bb.png",
-            "genre": "Entrepreneurship",
-            "genre_id": "1493",
-            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/subtext-by-zerodha\/id1891672079?uo=2"
-        },
-        {
-            "rank": 195,
-            "apple_id": "625975033",
-            "name": "Mishary Rashid Alafasy",
-            "artist": "Muslim Central",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts124\/v4\/d5\/ba\/ac\/d5baac85-c7f2-6145-a396-91ba959c824a\/mza_7990637563676866336.jpg\/170x170bb.png",
-            "genre": "Islam",
-            "genre_id": "1440",
-            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/mishary-rashid-alafasy\/id625975033?uo=2"
-        },
-        {
-            "rank": 196,
+            "rank": 139,
             "apple_id": "1539568321",
             "name": "The Bible in a Year (with Fr. Mike Schmitz)",
             "artist": "Ascension",
@@ -1968,17 +1398,77 @@
             "url": "https:\/\/podcasts.apple.com\/in\/podcast\/the-bible-in-a-year-with-fr-mike-schmitz\/id1539568321?uo=2"
         },
         {
-            "rank": 197,
-            "apple_id": "1763891818",
-            "name": "Moral Of The Story",
+            "rank": 140,
+            "apple_id": "1551579084",
+            "name": "Baking A Murder",
             "artist": "Stephanie Soo",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/f7\/bb\/5a\/f7bb5af2-b8b5-9359-9e67-06b07fc2c1ac\/mza_1392255477448480466.jpeg\/170x170bb.png",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/dd\/f9\/25\/ddf9257a-da6a-4d5e-8e59-5d60d5a4655d\/mza_14045276546600636708.jpeg\/170x170bb.png",
             "genre": "Comedy",
             "genre_id": "1303",
-            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/moral-of-the-story\/id1763891818?uo=2"
+            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/baking-a-murder\/id1551579084?uo=2"
         },
         {
-            "rank": 198,
+            "rank": 141,
+            "apple_id": "958230465",
+            "name": "The Twenty Minute VC (20VC): Venture Capital | Startup Funding | The Pitch",
+            "artist": "Harry Stebbings",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/cb\/4a\/f9\/cb4af9a2-5857-c3f1-30d4-14395af9a14f\/mza_11350890235230424535.jpeg\/170x170bb.png",
+            "genre": "Investing",
+            "genre_id": "1412",
+            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/the-twenty-minute-vc-20vc-venture-capital-startup\/id958230465?uo=2"
+        },
+        {
+            "rank": 142,
+            "apple_id": "1154105909",
+            "name": "Invest Like the Best with Patrick O'Shaughnessy",
+            "artist": "Colossus | Investing & Business Podcasts",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/61\/ae\/be\/61aebe7a-06e8-7390-3ae5-f2fc5889e36c\/mza_10827489189939068066.jpg\/170x170bb.png",
+            "genre": "Investing",
+            "genre_id": "1412",
+            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/invest-like-the-best-with-patrick-oshaughnessy\/id1154105909?uo=2"
+        },
+        {
+            "rank": 143,
+            "apple_id": "1267958765",
+            "name": "The Totally Football Show with James Richardson",
+            "artist": "The Athletic",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/6d\/85\/f7\/6d85f75c-5222-6887-d364-e61ce75fe750\/mza_3596621206818028926.jpeg\/170x170bb.png",
+            "genre": "Football",
+            "genre_id": "1547",
+            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/the-totally-football-show-with-james-richardson\/id1267958765?uo=2"
+        },
+        {
+            "rank": 144,
+            "apple_id": "1430315931",
+            "name": "The Daily Stoic",
+            "artist": "Daily Stoic | Backyard Ventures",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/00\/4b\/cd\/004bcd1b-3036-86ae-2394-e3ac6798cace\/mza_2488584016134530967.jpeg\/170x170bb.png",
+            "genre": "Education",
+            "genre_id": "1304",
+            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/the-daily-stoic\/id1430315931?uo=2"
+        },
+        {
+            "rank": 145,
+            "apple_id": "1458568923",
+            "name": "anything goes with emma chamberlain",
+            "artist": "emma chamberlain",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/9d\/a2\/6a\/9da26a93-dc8a-fb0b-8d23-f8b2f5724437\/mza_7015616659361364708.jpeg\/170x170bb.png",
+            "genre": "Self-Improvement",
+            "genre_id": "1500",
+            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/anything-goes-with-emma-chamberlain\/id1458568923?uo=2"
+        },
+        {
+            "rank": 146,
+            "apple_id": "1333552422",
+            "name": "Feel Better, Live More with Dr Rangan Chatterjee",
+            "artist": "Dr Rangan Chatterjee: GP & Author",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/82\/14\/44\/8214441d-06f9-5beb-79d6-2c95ed1448cc\/mza_2571811512276130369.jpg\/170x170bb.png",
+            "genre": "Alternative Health",
+            "genre_id": "1513",
+            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/feel-better-live-more-with-dr-rangan-chatterjee\/id1333552422?uo=2"
+        },
+        {
+            "rank": 147,
             "apple_id": "1227699368",
             "name": "Tifo Football Podcast",
             "artist": "The Athletic",
@@ -1988,7 +1478,187 @@
             "url": "https:\/\/podcasts.apple.com\/in\/podcast\/tifo-football-podcast\/id1227699368?uo=2"
         },
         {
-            "rank": 199,
+            "rank": 148,
+            "apple_id": "1495557562",
+            "name": "The Race F1 Podcast",
+            "artist": "The Race Media Ltd",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/40\/7b\/8c\/407b8cbe-cd34-d818-ff69-a11bc1d6c690\/mza_9877600709441097500.jpeg\/170x170bb.png",
+            "genre": "Sports",
+            "genre_id": "1545",
+            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/the-race-f1-podcast\/id1495557562?uo=2"
+        },
+        {
+            "rank": 149,
+            "apple_id": "1523045322",
+            "name": "Love Failure",
+            "artist": "Sana Sana",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts114\/v4\/05\/19\/6c\/05196cea-8105-4dcb-d518-40a1cc5667d9\/mza_17351559171648854872.jpg\/170x170bb.png",
+            "genre": "Music History",
+            "genre_id": "1524",
+            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/love-failure\/id1523045322?uo=2"
+        },
+        {
+            "rank": 150,
+            "apple_id": "263170419",
+            "name": "Coffee Break French",
+            "artist": "Coffee Break Languages",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts115\/v4\/73\/01\/0a\/73010a40-85a8-4d98-1f0d-b25d96b8e86f\/mza_11764534205288833014.jpg\/170x170bb.png",
+            "genre": "Language Learning",
+            "genre_id": "1498",
+            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/coffee-break-french\/id263170419?uo=2"
+        },
+        {
+            "rank": 151,
+            "apple_id": "1073226719",
+            "name": "Pivot",
+            "artist": "New York Magazine",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/13\/22\/39\/1322397a-976e-3c8f-7764-91cc38d0dd70\/mza_12130189257448841692.jpeg\/170x170bb.png",
+            "genre": "News Commentary",
+            "genre_id": "1530",
+            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/pivot\/id1073226719?uo=2"
+        },
+        {
+            "rank": 152,
+            "apple_id": "1469759170",
+            "name": "My First Million",
+            "artist": "Hubspot Media",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/2a\/5e\/4d\/2a5e4df0-8f2f-c5c7-1be9-4d220778f967\/mza_12868536899493151042.jpeg\/170x170bb.png",
+            "genre": "Entrepreneurship",
+            "genre_id": "1493",
+            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/my-first-million\/id1469759170?uo=2"
+        },
+        {
+            "rank": 153,
+            "apple_id": "1833613189",
+            "name": "Wild South Raiders Podcast",
+            "artist": "Wild South Raiders",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/26\/18\/b3\/2618b340-c9b9-d307-3efe-103f4d2d2657\/mza_6692267113826067361.jpg\/170x170bb.png",
+            "genre": "Comedy",
+            "genre_id": "1303",
+            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/wild-south-raiders-podcast\/id1833613189?uo=2"
+        },
+        {
+            "rank": 154,
+            "apple_id": "1853007888",
+            "name": "The Rest Is Science",
+            "artist": "Goalhanger",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/10\/e6\/4d\/10e64d1a-6747-2500-6add-ca04616d5686\/mza_1900430593839428227.jpg\/170x170bb.png",
+            "genre": "Physics",
+            "genre_id": "1542",
+            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/the-rest-is-science\/id1853007888?uo=2"
+        },
+        {
+            "rank": 155,
+            "apple_id": "121493675",
+            "name": "NPR News Now",
+            "artist": "NPR",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/27\/a0\/ab\/27a0abb7-817f-d80c-4fed-6fd04d424333\/mza_16804553558295235422.jpg\/170x170bb.png",
+            "genre": "Daily News",
+            "genre_id": "1526",
+            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/npr-news-now\/id121493675?uo=2"
+        },
+        {
+            "rank": 156,
+            "apple_id": "1521578868",
+            "name": "SmartLess",
+            "artist": "Jason Bateman, Sean Hayes, Will Arnett",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/b1\/93\/5f\/b1935f9f-35be-9144-e813-626bd8dabfb4\/mza_4132654708551836825.jpg\/170x170bb.png",
+            "genre": "Comedy",
+            "genre_id": "1303",
+            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/smartless\/id1521578868?uo=2"
+        },
+        {
+            "rank": 157,
+            "apple_id": "1814704282",
+            "name": "Ekantik Vartalap",
+            "artist": "Bhajan Marg",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/04\/7a\/a8\/047aa84d-b1be-a5f3-4498-23c746d3a176\/mza_9843934230610196108.jpg\/170x170bb.png",
+            "genre": "Religion & Spirituality",
+            "genre_id": "1314",
+            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/ekantik-vartalap\/id1814704282?uo=2"
+        },
+        {
+            "rank": 158,
+            "apple_id": "1550446941",
+            "name": "New Songs Geet Kavita Haryanvi Ragni",
+            "artist": "Anand Kumar Ashodhiya",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts114\/v4\/a2\/ce\/d1\/a2ced196-f5e0-c922-8cc0-88592ce4509a\/mza_13263398472007917015.jpg\/170x170bb.png",
+            "genre": "Performing Arts",
+            "genre_id": "1405",
+            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/new-songs-geet-kavita-haryanvi-ragni\/id1550446941?uo=2"
+        },
+        {
+            "rank": 159,
+            "apple_id": "1508098400",
+            "name": "Murder With My Husband",
+            "artist": "OH NO MEDIA",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/f7\/11\/ee\/f711eec8-724f-355d-7f9a-c741694f5094\/mza_13083627678721826690.png\/170x170bb.png",
+            "genre": "True Crime",
+            "genre_id": "1488",
+            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/murder-with-my-husband\/id1508098400?uo=2"
+        },
+        {
+            "rank": 160,
+            "apple_id": "152249110",
+            "name": "Radiolab",
+            "artist": "WNYC Studios",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/2b\/b2\/4d\/2bb24d28-f3bb-916f-6bf3-9e125ba5219b\/mza_4476298389845914795.jpg\/170x170bb.png",
+            "genre": "Natural Sciences",
+            "genre_id": "1534",
+            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/radiolab\/id152249110?uo=2"
+        },
+        {
+            "rank": 161,
+            "apple_id": "840986946",
+            "name": "No Such Thing As A Fish",
+            "artist": "No Such Thing As A Fish",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/6f\/9b\/4c\/6f9b4c39-3c1a-d7c7-9264-b0ed14579e08\/mza_7947053701740283670.png\/170x170bb.png",
+            "genre": "Comedy",
+            "genre_id": "1303",
+            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/no-such-thing-as-a-fish\/id840986946?uo=2"
+        },
+        {
+            "rank": 162,
+            "apple_id": "1483602938",
+            "name": "Why Not Mint Money",
+            "artist": "Mint - HT Smartcast",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/a6\/e8\/2d\/a6e82da5-29ee-b3d6-42e0-f6bab509ff49\/mza_7810103035475999974.jpg\/170x170bb.png",
+            "genre": "Entrepreneurship",
+            "genre_id": "1493",
+            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/why-not-mint-money\/id1483602938?uo=2"
+        },
+        {
+            "rank": 163,
+            "apple_id": "1591851797",
+            "name": "Bedtime Stories for Kids|Good Night Tales|Stories of New Beginnings",
+            "artist": "BabyBus",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/05\/7e\/ee\/057eee17-281c-b8dc-d4be-e0fe3d5e5c7d\/mza_15429420026564187049.jpg\/170x170bb.png",
+            "genre": "Stories for Kids",
+            "genre_id": "1520",
+            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/bedtime-stories-for-kids-good-night-tales-stories-of\/id1591851797?uo=2"
+        },
+        {
+            "rank": 164,
+            "apple_id": "1320118593",
+            "name": "The Indicator from Planet Money",
+            "artist": "NPR",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/52\/43\/7a\/52437a60-2f82-5abd-e65a-77e1a4fc41c2\/mza_16254826952631581399.jpg\/170x170bb.png",
+            "genre": "Business",
+            "genre_id": "1321",
+            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/the-indicator-from-planet-money\/id1320118593?uo=2"
+        },
+        {
+            "rank": 165,
+            "apple_id": "281128135",
+            "name": "Arseblog Arsecast, The Arsenal Podcast",
+            "artist": "arseblog.com",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/93\/a8\/b4\/93a8b4bd-81ad-babd-e714-1b034cff6cf3\/mza_4870709468201488521.jpeg\/170x170bb.png",
+            "genre": "Soccer",
+            "genre_id": "1546",
+            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/arseblog-arsecast-the-arsenal-podcast\/id281128135?uo=2"
+        },
+        {
+            "rank": 166,
             "apple_id": "1562818867",
             "name": "Schumy Vanna Kaviyangal 🅱odcast",
             "artist": "Schumy Vanna Kaviyangal",
@@ -1998,14 +1668,344 @@
             "url": "https:\/\/podcasts.apple.com\/in\/podcast\/schumy-vanna-kaviyangal-odcast\/id1562818867?uo=2"
         },
         {
-            "rank": 200,
-            "apple_id": "1717655351",
-            "name": "Self Obsessed",
-            "artist": "Tam Kaur",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts122\/v4\/67\/0f\/90\/670f90a0-38c6-f3c2-8400-ceae5f4d9c2e\/mza_1604654314095525710.jpg\/170x170bb.png",
+            "rank": 167,
+            "apple_id": "1247526593",
+            "name": "SOLVED with Mark Manson",
+            "artist": "Mark Manson",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/98\/4c\/b3\/984cb3a2-22fd-4637-eccf-c4ae2afb603a\/mza_9097687970736985049.jpeg\/170x170bb.png",
             "genre": "Self-Improvement",
             "genre_id": "1500",
-            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/self-obsessed\/id1717655351?uo=2"
+            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/solved-with-mark-manson\/id1247526593?uo=2"
+        },
+        {
+            "rank": 168,
+            "apple_id": "1692547837",
+            "name": "Telugu novels by Yaddanapudi Sulochana Rani",
+            "artist": "Padma Ganapavarapu",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts126\/v4\/3f\/86\/a7\/3f86a7c6-5089-3730-d006-824b47bd12a8\/mza_5262669671714603539.jpg\/170x170bb.png",
+            "genre": "Books",
+            "genre_id": "1482",
+            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/telugu-novels-by-yaddanapudi-sulochana-rani\/id1692547837?uo=2"
+        },
+        {
+            "rank": 169,
+            "apple_id": "1504664694",
+            "name": "Hindi Song",
+            "artist": "KHASI SONG",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts125\/v4\/27\/d4\/f5\/27d4f5d6-8e2a-9b94-94c2-bdb86d8788af\/mza_17752890479943798236.jpg\/170x170bb.png",
+            "genre": "Performing Arts",
+            "genre_id": "1405",
+            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/hindi-song\/id1504664694?uo=2"
+        },
+        {
+            "rank": 170,
+            "apple_id": "470622782",
+            "name": "TED Business",
+            "artist": "TED",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts125\/v4\/ab\/11\/06\/ab11065a-57cd-8472-526e-d5799b2a8163\/mza_13207937671651466185.jpg\/170x170bb.png",
+            "genre": "Business",
+            "genre_id": "1321",
+            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/ted-business\/id470622782?uo=2"
+        },
+        {
+            "rank": 171,
+            "apple_id": "1675310669",
+            "name": "The Psychology of Money with Morgan Housel",
+            "artist": "Morgan Housel",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/4c\/f5\/a7\/4cf5a710-f5ab-be46-b703-ea5bb16a62aa\/mza_17914471146279257976.jpg\/170x170bb.png",
+            "genre": "Business",
+            "genre_id": "1321",
+            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/the-psychology-of-money-with-morgan-housel\/id1675310669?uo=2"
+        },
+        {
+            "rank": 172,
+            "apple_id": "1697425543",
+            "name": "Smosh Reads Reddit Stories",
+            "artist": "Smosh",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/ea\/e9\/98\/eae99878-5ee5-915b-0c0a-46cf2b275f91\/mza_13860666952263637735.jpg\/170x170bb.png",
+            "genre": "Comedy",
+            "genre_id": "1303",
+            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/smosh-reads-reddit-stories\/id1697425543?uo=2"
+        },
+        {
+            "rank": 173,
+            "apple_id": "1780384916",
+            "name": "The Rest Is Classified",
+            "artist": "Goalhanger",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/f4\/09\/a7\/f409a749-1c83-ddb6-26ca-3edb6deee0f9\/mza_6566356699697291626.jpg\/170x170bb.png",
+            "genre": "History",
+            "genre_id": "1487",
+            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/the-rest-is-classified\/id1780384916?uo=2"
+        },
+        {
+            "rank": 174,
+            "apple_id": "1250599915",
+            "name": "RedHanded",
+            "artist": "RedHanded",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/37\/38\/73\/373873c6-ff52-d2de-945c-3a1aab729c6d\/mza_18348784528713052513.jpg\/170x170bb.png",
+            "genre": "True Crime",
+            "genre_id": "1488",
+            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/redhanded\/id1250599915?uo=2"
+        },
+        {
+            "rank": 175,
+            "apple_id": "1222114325",
+            "name": "Up First from NPR",
+            "artist": "NPR",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/0e\/35\/25\/0e352569-e694-81d9-ea55-5f935981c15a\/mza_1788275989855583986.png\/170x170bb.png",
+            "genre": "Daily News",
+            "genre_id": "1526",
+            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/up-first-from-npr\/id1222114325?uo=2"
+        },
+        {
+            "rank": 176,
+            "apple_id": "1876049295",
+            "name": "The Book Club",
+            "artist": "Goalhanger",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/04\/96\/66\/04966629-615e-6442-b727-12d4b3c540c0\/mza_1610016671724244666.jpeg\/170x170bb.png",
+            "genre": "Books",
+            "genre_id": "1482",
+            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/the-book-club\/id1876049295?uo=2"
+        },
+        {
+            "rank": 177,
+            "apple_id": "205892240",
+            "name": "Test Match Special",
+            "artist": "BBC Radio 5 Live",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/59\/20\/61\/5920619f-51c9-554d-a0ac-b0d76cb48b2f\/mza_7118594746371030581.jpg\/170x170bb.png",
+            "genre": "Cricket",
+            "genre_id": "1554",
+            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/test-match-special\/id205892240?uo=2"
+        },
+        {
+            "rank": 178,
+            "apple_id": "1553736924",
+            "name": "The Jaipur Dialogues Podcasts",
+            "artist": "The Jaipur Dialogues",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts114\/v4\/5d\/ea\/e8\/5deae834-b451-592c-747a-7708ef2d2b71\/mza_16982363777874284497.jpg\/170x170bb.png",
+            "genre": "Education",
+            "genre_id": "1304",
+            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/the-jaipur-dialogues-podcasts\/id1553736924?uo=2"
+        },
+        {
+            "rank": 179,
+            "apple_id": "1038514498",
+            "name": "History on Fire",
+            "artist": "Daniele Bolelli",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/3b\/42\/6f\/3b426f97-bc52-dc66-7a70-f8a8e9155036\/mza_12804626194505290055.jpeg\/170x170bb.png",
+            "genre": "Society & Culture",
+            "genre_id": "1324",
+            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/history-on-fire\/id1038514498?uo=2"
+        },
+        {
+            "rank": 180,
+            "apple_id": "1548604447",
+            "name": "The Ezra Klein Show",
+            "artist": "New York Times Opinion",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/9d\/ca\/35\/9dca35d8-e7d2-7e4f-63b5-c2ff4973a3f5\/mza_16891544429738729361.jpg\/170x170bb.png",
+            "genre": "Society & Culture",
+            "genre_id": "1324",
+            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/the-ezra-klein-show\/id1548604447?uo=2"
+        },
+        {
+            "rank": 181,
+            "apple_id": "998568017",
+            "name": "Casefile True Crime",
+            "artist": "Casefile Presents",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/32\/81\/a3\/3281a345-6fa5-1d0d-b0bc-f02b0850a0ae\/mza_17562537467118278179.jpeg\/170x170bb.png",
+            "genre": "True Crime",
+            "genre_id": "1488",
+            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/casefile-true-crime\/id998568017?uo=2"
+        },
+        {
+            "rank": 182,
+            "apple_id": "1733478812",
+            "name": "On Your Marks",
+            "artist": "ACCA",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/6d\/aa\/be\/6daabe2a-dad2-21be-756e-7dda8832581f\/mza_5141210050231555722.jpg\/170x170bb.png",
+            "genre": "How To",
+            "genre_id": "1499",
+            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/on-your-marks\/id1733478812?uo=2"
+        },
+        {
+            "rank": 183,
+            "apple_id": "1487173754",
+            "name": "The World in Brief from The Economist",
+            "artist": "The Economist",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/9e\/21\/b1\/9e21b146-e5c1-232e-00a8-10c9ac3192d2\/mza_16558186685278697640.jpeg\/170x170bb.png",
+            "genre": "Daily News",
+            "genre_id": "1526",
+            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/the-world-in-brief-from-the-economist\/id1487173754?uo=2"
+        },
+        {
+            "rank": 184,
+            "apple_id": "1896113248",
+            "name": "Bollywood Hindi New Songs",
+            "artist": "Bollywood Hindi New Songs",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/26\/ee\/8d\/26ee8d7d-19dd-d872-8251-ca67feafe0cc\/mza_4934097300809794090.png\/170x170bb.png",
+            "genre": "Music Commentary",
+            "genre_id": "1523",
+            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/bollywood-hindi-new-songs\/id1896113248?uo=2"
+        },
+        {
+            "rank": 185,
+            "apple_id": "1515786216",
+            "name": "Deep Questions with Cal Newport",
+            "artist": "Cal Newport",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/3a\/78\/85\/3a788593-8b6d-0604-4294-8c0064f90901\/mza_18388961160349213914.jpg\/170x170bb.png",
+            "genre": "Technology",
+            "genre_id": "1318",
+            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/deep-questions-with-cal-newport\/id1515786216?uo=2"
+        },
+        {
+            "rank": 186,
+            "apple_id": "1830378741",
+            "name": "The Power of Your Subconscious Mind (Joseph Murphy)",
+            "artist": "Joseph Murphy",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/4e\/ae\/58\/4eae5862-a00a-a4f5-7a32-657d975929cc\/mza_10782221597631681654.jpg\/170x170bb.png",
+            "genre": "Books",
+            "genre_id": "1482",
+            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/the-power-of-your-subconscious-mind-joseph-murphy\/id1830378741?uo=2"
+        },
+        {
+            "rank": 187,
+            "apple_id": "1553956626",
+            "name": "Punjabiz",
+            "artist": "Punjabiz",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts124\/v4\/1a\/c8\/66\/1ac866f2-56b3-5b7a-7a7c-f91e6a1686da\/mza_7409297161739222112.jpg\/170x170bb.png",
+            "genre": "Music",
+            "genre_id": "1310",
+            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/punjabiz\/id1553956626?uo=2"
+        },
+        {
+            "rank": 188,
+            "apple_id": "1896763706",
+            "name": "Bollywood Hindi New Songs",
+            "artist": "Bollywood Hindi New Songs",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/f8\/79\/b3\/f879b30a-daba-dd84-e9a4-3e9a2a3cd7d1\/mza_6708362128193307875.png\/170x170bb.png",
+            "genre": "Music Commentary",
+            "genre_id": "1523",
+            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/bollywood-hindi-new-songs\/id1896763706?uo=2"
+        },
+        {
+            "rank": 189,
+            "apple_id": "1831058526",
+            "name": "Atomic Habits by James Clear, Book Summary, Podcast, English",
+            "artist": "Raghvendra Singh",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/82\/ec\/05\/82ec050a-9a24-6ede-3da4-e6646b2e8735\/mza_7813084711324048484.png\/170x170bb.png",
+            "genre": "Books",
+            "genre_id": "1482",
+            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/atomic-habits-by-james-clear-book-summary-podcast-english\/id1831058526?uo=2"
+        },
+        {
+            "rank": 190,
+            "apple_id": "1346207297",
+            "name": "Today, Explained",
+            "artist": "Vox",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/57\/bc\/e4\/57bce477-b6e7-ba7d-5bca-6289f3f32e26\/mza_17986217629149107841.jpeg\/170x170bb.png",
+            "genre": "Daily News",
+            "genre_id": "1526",
+            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/today-explained\/id1346207297?uo=2"
+        },
+        {
+            "rank": 191,
+            "apple_id": "1495072403",
+            "name": "Talk of the Devils: The Athletic FC's Manchester United show",
+            "artist": "The Athletic",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/0a\/e7\/83\/0ae78339-2a3c-04a6-d75a-e5feeaa46c48\/mza_17119678854744264349.jpeg\/170x170bb.png",
+            "genre": "Sports",
+            "genre_id": "1545",
+            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/talk-of-the-devils-the-athletic-fcs-manchester-united-show\/id1495072403?uo=2"
+        },
+        {
+            "rank": 192,
+            "apple_id": "917918570",
+            "name": "Serial",
+            "artist": "Serial Productions & The New York Times",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/9a\/fb\/87\/9afb8760-0e05-2b3e-24a2-7e14cce74570\/mza_14816055607064169808.jpg\/170x170bb.png",
+            "genre": "News",
+            "genre_id": "1489",
+            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/serial\/id917918570?uo=2"
+        },
+        {
+            "rank": 193,
+            "apple_id": "1715473158",
+            "name": "The Global Story",
+            "artist": "BBC World Service",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/04\/79\/45\/047945a2-bc30-0f9f-a4c2-9d27b1761fd2\/mza_3986113186933533816.jpg\/170x170bb.png",
+            "genre": "Daily News",
+            "genre_id": "1526",
+            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/the-global-story\/id1715473158?uo=2"
+        },
+        {
+            "rank": 194,
+            "apple_id": "1579040306",
+            "name": "Short History Of...",
+            "artist": "NOISER",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts112\/v4\/57\/9e\/e8\/579ee81e-be15-4b29-1d13-26abd9296e88\/mza_9274260941010613844.jpeg\/170x170bb.png",
+            "genre": "History",
+            "genre_id": "1487",
+            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/short-history-of\/id1579040306?uo=2"
+        },
+        {
+            "rank": 195,
+            "apple_id": "1482297423",
+            "name": "Easy German: Learn German with native speakers | Deutsch lernen mit Muttersprachlern",
+            "artist": "Cari, Manuel und das Team von Easy German",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/4f\/48\/89\/4f488920-28f6-b522-d107-9dd047055e9b\/mza_11652693665754415823.jpg\/170x170bb.png",
+            "genre": "Language Learning",
+            "genre_id": "1498",
+            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/easy-german-learn-german-with-native-speakers-deutsch\/id1482297423?uo=2"
+        },
+        {
+            "rank": 196,
+            "apple_id": "625975033",
+            "name": "Mishary Rashid Alafasy",
+            "artist": "Muslim Central",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts124\/v4\/d5\/ba\/ac\/d5baac85-c7f2-6145-a396-91ba959c824a\/mza_7990637563676866336.jpg\/170x170bb.png",
+            "genre": "Islam",
+            "genre_id": "1440",
+            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/mishary-rashid-alafasy\/id625975033?uo=2"
+        },
+        {
+            "rank": 197,
+            "apple_id": "1743369354",
+            "name": "Deep Drive | Autocar India",
+            "artist": "Autocar India",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/d6\/9e\/c1\/d69ec1a7-8c47-9ede-0aea-88e3984fa4aa\/mza_1503047319617533036.jpg\/170x170bb.png",
+            "genre": "Automotive",
+            "genre_id": "1503",
+            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/deep-drive-autocar-india\/id1743369354?uo=2"
+        },
+        {
+            "rank": 198,
+            "apple_id": "530971441",
+            "name": "The Tennis Podcast",
+            "artist": "The Tennis Podcast",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/9f\/e2\/d9\/9fe2d9ec-251e-ffa6-58b3-417f9bfa58be\/mza_4119761391755623921.jpeg\/170x170bb.png",
+            "genre": "Tennis",
+            "genre_id": "1556",
+            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/the-tennis-podcast\/id530971441?uo=2"
+        },
+        {
+            "rank": 199,
+            "apple_id": "1453878698",
+            "name": "Grand Tamasha",
+            "artist": "Carnegie Endowment for International Peace",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/a3\/89\/1a\/a3891aa6-d371-0888-501c-4529f66ce74f\/mza_5963032464052601165.jpg\/170x170bb.png",
+            "genre": "News",
+            "genre_id": "1489",
+            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/grand-tamasha\/id1453878698?uo=2"
+        },
+        {
+            "rank": 200,
+            "apple_id": "1719657632",
+            "name": "The Tucker Carlson Show",
+            "artist": "Tucker Carlson Network",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/1a\/1f\/9c\/1a1f9c6d-67fd-0e33-cdf3-4b62617ea9a6\/mza_9226157347267917930.jpg\/170x170bb.png",
+            "genre": "News Commentary",
+            "genre_id": "1530",
+            "url": "https:\/\/podcasts.apple.com\/in\/podcast\/the-tucker-carlson-show\/id1719657632?uo=2"
         }
     ]
 }

@@ -3,7 +3,7 @@
     "country": "br",
     "genre": "Technology",
     "slug": "technology",
-    "fetched_at": "2026-06-24T06:38:03Z",
+    "fetched_at": "2026-07-01T04:44:50Z",
     "count": 50,
     "shows": [
         {
@@ -48,7 +48,7 @@
             "name": "Hoje no TecMundo Podcast",
             "publisher": "Hoje no TecMundo - Podcast",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fe2ec124c60c8d4e86a3c240f",
-            "rank_move": "UP",
+            "rank_move": "UNCHANGED",
             "url": "https:\/\/open.spotify.com\/show\/2GfMFAmQseZ1fOtiLQyZ39"
         },
         {
@@ -57,7 +57,7 @@
             "name": "IA Todo Dia – Seu guia semanal de Inteligência Artificial",
             "publisher": "Diego Sommer e Helena Ferraz",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f092164c1de538ba9823e440d",
-            "rank_move": "DOWN",
+            "rank_move": "UNCHANGED",
             "url": "https:\/\/open.spotify.com\/show\/2FHimuESqvjBL4x8AKur2b"
         },
         {
@@ -80,6 +80,15 @@
         },
         {
             "rank": 9,
+            "spotify_id": "7Fj0XEuUQLUqoMZQdsLXqp",
+            "name": "Acquired",
+            "publisher": "Ben Gilbert and David Rosenthal",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f27464794f6c50cc5faf0313e",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/7Fj0XEuUQLUqoMZQdsLXqp"
+        },
+        {
+            "rank": 10,
             "spotify_id": "49BHUiHgtDYVOHHdRKWG16",
             "name": "AWS",
             "publisher": "Resident Evil",
@@ -88,7 +97,7 @@
             "url": "https:\/\/open.spotify.com\/show\/49BHUiHgtDYVOHHdRKWG16"
         },
         {
-            "rank": 10,
+            "rank": 11,
             "spotify_id": "7kLgm2CDG4aontuQOluFwb",
             "name": "Compilado do Código Fonte TV",
             "publisher": "Código Fonte",
@@ -97,31 +106,22 @@
             "url": "https:\/\/open.spotify.com\/show\/7kLgm2CDG4aontuQOluFwb"
         },
         {
-            "rank": 11,
-            "spotify_id": "7Fj0XEuUQLUqoMZQdsLXqp",
-            "name": "Acquired",
-            "publisher": "Ben Gilbert and David Rosenthal",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f27464794f6c50cc5faf0313e",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/7Fj0XEuUQLUqoMZQdsLXqp"
-        },
-        {
             "rank": 12,
             "spotify_id": "7uRmxP1l3m9kwrsTYxnIMA",
             "name": "Product Guru's : Produto | Negócios | Carreira",
             "publisher": "Paulo Chiodi",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fc82e62c1c7fcb9d80493f868",
-            "rank_move": "DOWN",
+            "rank_move": "UNCHANGED",
             "url": "https:\/\/open.spotify.com\/show\/7uRmxP1l3m9kwrsTYxnIMA"
         },
         {
             "rank": 13,
-            "spotify_id": "1oMIHOXsrLFENAeM743g93",
-            "name": "Data Hackers",
-            "publisher": "Data Hackers",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f22f3b9e8481bb9a5a63ca597",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/1oMIHOXsrLFENAeM743g93"
+            "spotify_id": "2IqXAVFR4e0Bmyjsdc8QzF",
+            "name": "All-In with Chamath, Jason, Sacks & Friedberg",
+            "publisher": "All-In Podcast, LLC",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1ff662927adc2c9d6505e05b51",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/2IqXAVFR4e0Bmyjsdc8QzF"
         },
         {
             "rank": 14,
@@ -129,17 +129,17 @@
             "name": "The AI Daily Brief: Artificial Intelligence News and Analysis",
             "publisher": "Nathaniel Whittemore",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f797fe5aeae1fbb9493153617",
-            "rank_move": "DOWN",
+            "rank_move": "UP",
             "url": "https:\/\/open.spotify.com\/show\/7gKwwMLFLc6RmjmRpbMtEO"
         },
         {
             "rank": 15,
-            "spotify_id": "2IqXAVFR4e0Bmyjsdc8QzF",
-            "name": "All-In with Chamath, Jason, Sacks & Friedberg",
-            "publisher": "All-In Podcast, LLC",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1ff662927adc2c9d6505e05b51",
+            "spotify_id": "1oMIHOXsrLFENAeM743g93",
+            "name": "Data Hackers",
+            "publisher": "Data Hackers",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f22f3b9e8481bb9a5a63ca597",
             "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/2IqXAVFR4e0Bmyjsdc8QzF"
+            "url": "https:\/\/open.spotify.com\/show\/1oMIHOXsrLFENAeM743g93"
         },
         {
             "rank": 16,
@@ -170,48 +170,48 @@
         },
         {
             "rank": 19,
-            "spotify_id": "1aj1JxbfYePAHp1eliCKya",
-            "name": "Papinho Tech",
-            "publisher": "Gustavo Caetano",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f501e91ebbad462d7c6e1ad41",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/1aj1JxbfYePAHp1eliCKya"
-        },
-        {
-            "rank": 20,
             "spotify_id": "1hBhq7tjzeFG1A1UaoLlBd",
             "name": "Projeto Atlas",
             "publisher": "Panettoni, Patife e Lucky Salamander",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f2e9463535adece5ed1736e9c",
-            "rank_move": "DOWN",
+            "rank_move": "UNCHANGED",
             "url": "https:\/\/open.spotify.com\/show\/1hBhq7tjzeFG1A1UaoLlBd"
         },
         {
+            "rank": 20,
+            "spotify_id": "1aj1JxbfYePAHp1eliCKya",
+            "name": "Papinho Tech",
+            "publisher": "Gustavo Caetano",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f501e91ebbad462d7c6e1ad41",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/1aj1JxbfYePAHp1eliCKya"
+        },
+        {
             "rank": 21,
+            "spotify_id": "59s3nO8XFdBJl1axVe3c4x",
+            "name": "Digital GOV.BR",
+            "publisher": "Ministério da Gestão e da Inovação em Serviços Públicos - uma produção da SGD",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fce76839e5d76c8bd3542c918",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/59s3nO8XFdBJl1axVe3c4x"
+        },
+        {
+            "rank": 22,
+            "spotify_id": "3uqyj3GlhBHp1IJN8KJ1xU",
+            "name": "Café Debug seu podcast de tecnologia",
+            "publisher": "Café debug",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f8cae4ad8ea5f23317ba53af3",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/3uqyj3GlhBHp1IJN8KJ1xU"
+        },
+        {
+            "rank": 23,
             "spotify_id": "7MzG2UB7IAkC3GAwEXEIVD",
             "name": "The M.Akita Chronicles",
             "publisher": "Fabio Akita",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fa76e1ec48f536c40e34266b8",
-            "rank_move": "UNCHANGED",
+            "rank_move": "DOWN",
             "url": "https:\/\/open.spotify.com\/show\/7MzG2UB7IAkC3GAwEXEIVD"
-        },
-        {
-            "rank": 22,
-            "spotify_id": "52IrqJ0ZwPVp0kKXaOWnLP",
-            "name": "MacMagazine no Ar",
-            "publisher": "MacMagazine.com.br",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f69175dcf4868f6802d2af5f3",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/52IrqJ0ZwPVp0kKXaOWnLP"
-        },
-        {
-            "rank": 23,
-            "spotify_id": "3WsvUbTh7M1Rsw6lOGwYtk",
-            "name": "Carreira Sem Fronteiras",
-            "publisher": "Alura - Hipsters Network",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f54639c1d40c55533305cd059",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/3WsvUbTh7M1Rsw6lOGwYtk"
         },
         {
             "rank": 24,
@@ -219,110 +219,38 @@
             "name": "CBN Tecnologia - Techtudo",
             "publisher": "CBN",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fb0d1726995849021c98e736c",
-            "rank_move": "UP",
+            "rank_move": "UNCHANGED",
             "url": "https:\/\/open.spotify.com\/show\/3RbHv1Fd3af8s90AO9xljy"
         },
         {
             "rank": 25,
-            "spotify_id": "00RQsEOhlEyPCz2rPOQfMY",
-            "name": "Mundo Agro Podcast",
-            "publisher": "Mundo Agro Podcast",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1faaee3fc9733ca126f2d813e8",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/00RQsEOhlEyPCz2rPOQfMY"
-        },
-        {
-            "rank": 26,
-            "spotify_id": "3uqyj3GlhBHp1IJN8KJ1xU",
-            "name": "Café Debug seu podcast de tecnologia",
-            "publisher": "Café debug",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f8cae4ad8ea5f23317ba53af3",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/3uqyj3GlhBHp1IJN8KJ1xU"
-        },
-        {
-            "rank": 27,
-            "spotify_id": "4OP28xB74WFaMRAlTFECfu",
-            "name": "Ctrl+Fake: a desinformação como projeto de poder",
-            "publisher": "Aos Fatos",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fd61d01839e47195944ad1e89",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/4OP28xB74WFaMRAlTFECfu"
-        },
-        {
-            "rank": 28,
-            "spotify_id": "2kCrTjsGn431qiGpl9quAl",
-            "name": "Podcast Dev em Dobro",
-            "publisher": "Dev em Dobro - Ricardo e Roberto Dias",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1ffe3af07f857372d9079cdd65",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/2kCrTjsGn431qiGpl9quAl"
-        },
-        {
-            "rank": 29,
-            "spotify_id": "3b1pfnrXte2nTaYpcQbB2I",
-            "name": "Cyber Morning Call",
-            "publisher": "Tempest Security Intelligence",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f12282c11011b36d47aef8507",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/3b1pfnrXte2nTaYpcQbB2I"
-        },
-        {
-            "rank": 30,
-            "spotify_id": "4JH4tybY1zX6e5hjCwU6gF",
-            "name": "Dwarkesh Podcast",
-            "publisher": "Dwarkesh Patel",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fec6420b46053b5d1786dbe05",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/4JH4tybY1zX6e5hjCwU6gF"
-        },
-        {
-            "rank": 31,
-            "spotify_id": "1ub9YZKamdMKdKbLia4YrX",
-            "name": "Entre Chaves",
-            "publisher": "dti digital",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f5ac50618f0163a7b11b4c083",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/1ub9YZKamdMKdKbLia4YrX"
-        },
-        {
-            "rank": 32,
             "spotify_id": "1IFrn6dpNkjAb85VB40wAi",
             "name": "Deu Tilt",
             "publisher": "UOL",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fdbc7e217059a072536c96781",
-            "rank_move": "UNCHANGED",
+            "rank_move": "UP",
             "url": "https:\/\/open.spotify.com\/show\/1IFrn6dpNkjAb85VB40wAi"
         },
         {
-            "rank": 33,
-            "spotify_id": "44fllCS2FTFr2x2kjP9xeT",
-            "name": "Hard Fork",
-            "publisher": "The New York Times",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f37a4c8e5a5f95c3a81f36eb7",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/44fllCS2FTFr2x2kjP9xeT"
-        },
-        {
-            "rank": 34,
-            "spotify_id": "5MNIuTuO3Kbvtg59VcqrV8",
-            "name": "Estudos com IA",
-            "publisher": "Evolui Team",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f305df3eceb910cfba03fb9a3",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/5MNIuTuO3Kbvtg59VcqrV8"
-        },
-        {
-            "rank": 35,
-            "spotify_id": "1tgqafxZAB0Bjd8nkwVtE4",
-            "name": "Y Combinator Startup Podcast",
-            "publisher": "Y Combinator",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f79fbc83dff3315e5a12e325d",
+            "rank": 26,
+            "spotify_id": "52IrqJ0ZwPVp0kKXaOWnLP",
+            "name": "MacMagazine no Ar",
+            "publisher": "MacMagazine.com.br",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f69175dcf4868f6802d2af5f3",
             "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/1tgqafxZAB0Bjd8nkwVtE4"
+            "url": "https:\/\/open.spotify.com\/show\/52IrqJ0ZwPVp0kKXaOWnLP"
         },
         {
-            "rank": 36,
+            "rank": 27,
+            "spotify_id": "2kCrTjsGn431qiGpl9quAl",
+            "name": "Podcast Dev em Dobro",
+            "publisher": "Dev em Dobro - Ricardo e Roberto Dias",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1ffe3af07f857372d9079cdd65",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/2kCrTjsGn431qiGpl9quAl"
+        },
+        {
+            "rank": 28,
             "spotify_id": "485bz3UUmNd0fOBeNalanw",
             "name": "Pedro + Cora",
             "publisher": "Canal Meio",
@@ -331,13 +259,85 @@
             "url": "https:\/\/open.spotify.com\/show\/485bz3UUmNd0fOBeNalanw"
         },
         {
-            "rank": 37,
-            "spotify_id": "4aRP2XSavdtrLG5FZoonOK",
-            "name": "How I AI",
-            "publisher": "Claire Vo",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fba02c406454bbfea3907ddfd",
+            "rank": 29,
+            "spotify_id": "3WsvUbTh7M1Rsw6lOGwYtk",
+            "name": "Carreira Sem Fronteiras",
+            "publisher": "Alura - Hipsters Network",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f54639c1d40c55533305cd059",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/3WsvUbTh7M1Rsw6lOGwYtk"
+        },
+        {
+            "rank": 30,
+            "spotify_id": "00RQsEOhlEyPCz2rPOQfMY",
+            "name": "Mundo Agro Podcast",
+            "publisher": "Mundo Agro Podcast",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1faaee3fc9733ca126f2d813e8",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/00RQsEOhlEyPCz2rPOQfMY"
+        },
+        {
+            "rank": 31,
+            "spotify_id": "44fllCS2FTFr2x2kjP9xeT",
+            "name": "Hard Fork",
+            "publisher": "The New York Times",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f37a4c8e5a5f95c3a81f36eb7",
             "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/4aRP2XSavdtrLG5FZoonOK"
+            "url": "https:\/\/open.spotify.com\/show\/44fllCS2FTFr2x2kjP9xeT"
+        },
+        {
+            "rank": 32,
+            "spotify_id": "4JH4tybY1zX6e5hjCwU6gF",
+            "name": "Dwarkesh Podcast",
+            "publisher": "Dwarkesh Patel",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fec6420b46053b5d1786dbe05",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/4JH4tybY1zX6e5hjCwU6gF"
+        },
+        {
+            "rank": 33,
+            "spotify_id": "3b1pfnrXte2nTaYpcQbB2I",
+            "name": "Cyber Morning Call",
+            "publisher": "Tempest Security Intelligence",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f12282c11011b36d47aef8507",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/3b1pfnrXte2nTaYpcQbB2I"
+        },
+        {
+            "rank": 34,
+            "spotify_id": "1ub9YZKamdMKdKbLia4YrX",
+            "name": "Entre Chaves",
+            "publisher": "dti digital",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f5ac50618f0163a7b11b4c083",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/1ub9YZKamdMKdKbLia4YrX"
+        },
+        {
+            "rank": 35,
+            "spotify_id": "2dwgEcBjlamiTFxkoab6LD",
+            "name": "MANO RAGE SHOW",
+            "publisher": "Mano Deyvin",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f8bfa473e6d6ad8965196c2d1",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/2dwgEcBjlamiTFxkoab6LD"
+        },
+        {
+            "rank": 36,
+            "spotify_id": "55uTHZA0rs7ue5ajEJN9wp",
+            "name": "Podcast Tecnopolítica",
+            "publisher": "Podcast Tecnopolítica",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fc79d85cd0d3d5ab75d8d83d9",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/55uTHZA0rs7ue5ajEJN9wp"
+        },
+        {
+            "rank": 37,
+            "spotify_id": "1kcAbYFSTkfbwm01y4g7vR",
+            "name": "Diocast",
+            "publisher": "Diolinux",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f2570e5d9632d45be8f35cf4a",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/1kcAbYFSTkfbwm01y4g7vR"
         },
         {
             "rank": 38,
@@ -345,44 +345,44 @@
             "name": "Deep Questions with Cal Newport",
             "publisher": "Cal Newport",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f9fda39da7653f7d286908f60",
-            "rank_move": "UNCHANGED",
+            "rank_move": "DOWN",
             "url": "https:\/\/open.spotify.com\/show\/0e9lFr3AdJByoBpM6tAbxD"
         },
         {
             "rank": 39,
-            "spotify_id": "1kcAbYFSTkfbwm01y4g7vR",
-            "name": "Diocast",
-            "publisher": "Diolinux",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f2570e5d9632d45be8f35cf4a",
+            "spotify_id": "5MNIuTuO3Kbvtg59VcqrV8",
+            "name": "Estudos com IA",
+            "publisher": "Evolui Team",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f305df3eceb910cfba03fb9a3",
             "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/1kcAbYFSTkfbwm01y4g7vR"
+            "url": "https:\/\/open.spotify.com\/show\/5MNIuTuO3Kbvtg59VcqrV8"
         },
         {
             "rank": 40,
+            "spotify_id": "5aKHRdBlylb2wj5Ac8Kqpj",
+            "name": "PPT Não Compila | Tecnologia, IA e Programação",
+            "publisher": "Wellington Cruz",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fe085c2d37298285831361384",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/5aKHRdBlylb2wj5Ac8Kqpj"
+        },
+        {
+            "rank": 41,
             "spotify_id": "2Bho9xCbOQMWMJ7UKmqCzD",
             "name": "The Pragmatic Engineer",
             "publisher": "Gergely Orosz",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f237bc6fede1622de07d9adef",
-            "rank_move": "UP",
+            "rank_move": "UNCHANGED",
             "url": "https:\/\/open.spotify.com\/show\/2Bho9xCbOQMWMJ7UKmqCzD"
         },
         {
-            "rank": 41,
-            "spotify_id": "5aKHRdBlylb2wj5Ac8Kqpj",
-            "name": "PPT Não Compila | Tecnologia, IA e Programação",
-            "publisher": "Estúdios Voz",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fe085c2d37298285831361384",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/5aKHRdBlylb2wj5Ac8Kqpj"
-        },
-        {
             "rank": 42,
-            "spotify_id": "55uTHZA0rs7ue5ajEJN9wp",
-            "name": "Podcast Tecnopolítica",
-            "publisher": "Podcast Tecnopolítica",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fc79d85cd0d3d5ab75d8d83d9",
+            "spotify_id": "02ZRsvu61y1C2GIc8J2gsY",
+            "name": "Silicon Valley Girl: AI, Tech and Career Growth",
+            "publisher": "Marina Mogilko",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fb663730e9aaa46fb91b3eb95",
             "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/55uTHZA0rs7ue5ajEJN9wp"
+            "url": "https:\/\/open.spotify.com\/show\/02ZRsvu61y1C2GIc8J2gsY"
         },
         {
             "rank": 43,
@@ -390,26 +390,26 @@
             "name": "Analytics Talks",
             "publisher": "Métricas Boss",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f0af3e9f008dfab8d5b201911",
-            "rank_move": "UP",
+            "rank_move": "DOWN",
             "url": "https:\/\/open.spotify.com\/show\/4qP97l3OJO9vH37fWhrbB7"
         },
         {
             "rank": 44,
-            "spotify_id": "1WqA0m5xTcp4n6qmCQfS2K",
-            "name": "American Alchemy with Jesse Michels",
-            "publisher": "Jesse Michels",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fa5e2a2301336f65d1558b14e",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/1WqA0m5xTcp4n6qmCQfS2K"
-        },
-        {
-            "rank": 45,
             "spotify_id": "36fAENA2LHDy6rZ0l1z5Ce",
             "name": "Tecnologia",
             "publisher": "CBN",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f26fdfae8088daead0a820e38",
-            "rank_move": "DOWN",
+            "rank_move": "UP",
             "url": "https:\/\/open.spotify.com\/show\/36fAENA2LHDy6rZ0l1z5Ce"
+        },
+        {
+            "rank": 45,
+            "spotify_id": "5rpatrW6OKU2gj6jCNKkO6",
+            "name": "Bom dia Tech",
+            "publisher": "Arthur Givigir",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1faf662190c2a00d9945757722",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/5rpatrW6OKU2gj6jCNKkO6"
         },
         {
             "rank": 46,
@@ -417,44 +417,44 @@
             "name": "Papo na Arena",
             "publisher": "Product Arena",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fc2a42fc48b0e6edb17c4be99",
-            "rank_move": "DOWN",
+            "rank_move": "UP",
             "url": "https:\/\/open.spotify.com\/show\/7lcBkPYn5HgEZjTkJhNUFJ"
         },
         {
             "rank": 47,
-            "spotify_id": "1UhJsLcMenLHlTDfLguARx",
-            "name": "produdiz",
-            "publisher": "Ingridiz",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f6750f3410a667b0f3acd9333",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/1UhJsLcMenLHlTDfLguARx"
+            "spotify_id": "1WqA0m5xTcp4n6qmCQfS2K",
+            "name": "American Alchemy with Jesse Michels",
+            "publisher": "Jesse Michels",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fa5e2a2301336f65d1558b14e",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/1WqA0m5xTcp4n6qmCQfS2K"
         },
         {
             "rank": 48,
-            "spotify_id": "7lPkAz89WaCy7oJmCltJpm",
-            "name": "Thássius Veloso - Dia a Dia Digital",
-            "publisher": "CBN",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fcd7c85b41fe055c9b4b3f42f",
+            "spotify_id": "6w9Fcpu5argDMKw73eigwj",
+            "name": "Akitando",
+            "publisher": "Fabio Akita",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fa95bfeffc3f652d924d9632f",
             "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/7lPkAz89WaCy7oJmCltJpm"
+            "url": "https:\/\/open.spotify.com\/show\/6w9Fcpu5argDMKw73eigwj"
         },
         {
             "rank": 49,
-            "spotify_id": "2dwgEcBjlamiTFxkoab6LD",
-            "name": "MANO RAGE SHOW",
-            "publisher": "Mano Deyvin",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f8bfa473e6d6ad8965196c2d1",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/2dwgEcBjlamiTFxkoab6LD"
+            "spotify_id": "2Qtvh1T3aDgVcazH4L6dej",
+            "name": "IA por IAs",
+            "publisher": "Caio Spessoto",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f485db1d83e493568552fe34e",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/2Qtvh1T3aDgVcazH4L6dej"
         },
         {
             "rank": 50,
-            "spotify_id": "5rpatrW6OKU2gj6jCNKkO6",
-            "name": "Bom dia Tech",
-            "publisher": "Arthur Givigir",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1faf662190c2a00d9945757722",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/5rpatrW6OKU2gj6jCNKkO6"
+            "spotify_id": "4XPl3uEEL9hvqMkoZrzbx5",
+            "name": "Darknet Diaries",
+            "publisher": "Jack Rhysider",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fd27c58dc12f1c25fb933dd86",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/4XPl3uEEL9hvqMkoZrzbx5"
         }
     ]
 }

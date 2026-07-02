@@ -3,7 +3,7 @@
     "country": "se",
     "genre": "History",
     "slug": "history",
-    "fetched_at": "2026-06-24T06:37:52Z",
+    "fetched_at": "2026-07-01T04:44:39Z",
     "count": 50,
     "shows": [
         {
@@ -30,11 +30,20 @@
             "name": "Historia.nu med Urban Lindstedt",
             "publisher": "Historiska Media | Acast",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f7a3e16089da658f6da30a9c0",
-            "rank_move": "UNCHANGED",
+            "rank_move": "UP",
             "url": "https:\/\/open.spotify.com\/show\/1LhYz6D6pVUvlX4UelLvro"
         },
         {
             "rank": 4,
+            "spotify_id": "585Uz4niGrkbN36rPdGiL3",
+            "name": "Krigshistoriepodden",
+            "publisher": "Krigshistoriepodden",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f8459320e718a28c9b1f7dc92",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/585Uz4niGrkbN36rPdGiL3"
+        },
+        {
+            "rank": 5,
             "spotify_id": "5IfvxwY7R1UFvzbPFfbHhz",
             "name": "Historien om",
             "publisher": "Podplay",
@@ -43,22 +52,13 @@
             "url": "https:\/\/open.spotify.com\/show\/5IfvxwY7R1UFvzbPFfbHhz"
         },
         {
-            "rank": 5,
-            "spotify_id": "585Uz4niGrkbN36rPdGiL3",
-            "name": "Krigshistoriepodden",
-            "publisher": "Krigshistoriepodden",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f8459320e718a28c9b1f7dc92",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/585Uz4niGrkbN36rPdGiL3"
-        },
-        {
             "rank": 6,
-            "spotify_id": "4J0hYHvuoyyLfSTEb6wJUs",
-            "name": "Folkets Historia",
-            "publisher": "Hildurs",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fb777aa5a0afca4714af2f68a",
+            "spotify_id": "7IO5zTy50Y22sCv0hB6bfG",
+            "name": "Militärhistoriepodden",
+            "publisher": "Historiska Media | Acast",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f785ced28249f4c3dbcc0350d",
             "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/4J0hYHvuoyyLfSTEb6wJUs"
+            "url": "https:\/\/open.spotify.com\/show\/7IO5zTy50Y22sCv0hB6bfG"
         },
         {
             "rank": 7,
@@ -71,21 +71,21 @@
         },
         {
             "rank": 8,
-            "spotify_id": "7IO5zTy50Y22sCv0hB6bfG",
-            "name": "Militärhistoriepodden",
-            "publisher": "Historiska Media | Acast",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f785ced28249f4c3dbcc0350d",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/7IO5zTy50Y22sCv0hB6bfG"
-        },
-        {
-            "rank": 9,
             "spotify_id": "3IBHh8Rgqo7cYbF2b7d1WB",
             "name": "Historiens Mysterier",
             "publisher": "Historiens mysterier ",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fcd2536feb0e03d95a9157efa",
             "rank_move": "UNCHANGED",
             "url": "https:\/\/open.spotify.com\/show\/3IBHh8Rgqo7cYbF2b7d1WB"
+        },
+        {
+            "rank": 9,
+            "spotify_id": "38bS44xjbVVZ3No3ByF1dJ",
+            "name": "Vetenskapsradion Historia",
+            "publisher": "Sveriges Radio",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f9243d7fa594ce7e234e1cb8f",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/38bS44xjbVVZ3No3ByF1dJ"
         },
         {
             "rank": 10,
@@ -98,12 +98,12 @@
         },
         {
             "rank": 11,
-            "spotify_id": "38bS44xjbVVZ3No3ByF1dJ",
-            "name": "Vetenskapsradion Historia",
-            "publisher": "Sveriges Radio",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f9243d7fa594ce7e234e1cb8f",
+            "spotify_id": "4J0hYHvuoyyLfSTEb6wJUs",
+            "name": "Folkets Historia",
+            "publisher": "Hildurs",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fb777aa5a0afca4714af2f68a",
             "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/38bS44xjbVVZ3No3ByF1dJ"
+            "url": "https:\/\/open.spotify.com\/show\/4J0hYHvuoyyLfSTEb6wJUs"
         },
         {
             "rank": 12,
@@ -116,12 +116,12 @@
         },
         {
             "rank": 13,
-            "spotify_id": "7lUuYE5ZTTYGcu4iFSaJsY",
-            "name": "Dick Harrison svarar",
-            "publisher": "Sveriges Radio",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f11d22a18cdb4e51fc123519b",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/7lUuYE5ZTTYGcu4iFSaJsY"
+            "spotify_id": "2cnngLaYAeIq0xAKI3OAvW",
+            "name": "Alternativ Historia",
+            "publisher": "Alternativ Historia",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1ff02af041e7bfeaf0af30ec95",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/2cnngLaYAeIq0xAKI3OAvW"
         },
         {
             "rank": 14,
@@ -129,47 +129,29 @@
             "name": "Krigshistoriepodden",
             "publisher": "Krigshistoriepodden",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f98b80b4e78ccf362b848854d",
-            "rank_move": "UNCHANGED",
+            "rank_move": "UP",
             "url": "https:\/\/open.spotify.com\/show\/0Ue0wTSbxWRVOFH9OHmrVW"
         },
         {
             "rank": 15,
-            "spotify_id": "2cnngLaYAeIq0xAKI3OAvW",
-            "name": "Alternativ Historia",
-            "publisher": "Alternativ Historia",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1ff02af041e7bfeaf0af30ec95",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/2cnngLaYAeIq0xAKI3OAvW"
-        },
-        {
-            "rank": 16,
             "spotify_id": "2tBJPV8OpcZD5bszmYQGvR",
             "name": "Militärhistoriepodden",
             "publisher": "Historiska Media | Acast",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fe61354b7863db829bd132d93",
-            "rank_move": "UNCHANGED",
+            "rank_move": "DOWN",
             "url": "https:\/\/open.spotify.com\/show\/2tBJPV8OpcZD5bszmYQGvR"
         },
         {
-            "rank": 17,
+            "rank": 16,
             "spotify_id": "0MuV1SrAslq9gD5WHHr91C",
             "name": "Harrisons dramatiska historia",
             "publisher": "Historiska Media | Acast",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f8515532861490dfe4655ba8d",
-            "rank_move": "UNCHANGED",
+            "rank_move": "DOWN",
             "url": "https:\/\/open.spotify.com\/show\/0MuV1SrAslq9gD5WHHr91C"
         },
         {
-            "rank": 18,
-            "spotify_id": "5UcJOuaUU5IDrwZpRTU3tf",
-            "name": "Svenska Kungar - från järnåldern till idag.",
-            "publisher": "Aviator",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1ff95cdcbca07b8fd6ddc3504c",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/5UcJOuaUU5IDrwZpRTU3tf"
-        },
-        {
-            "rank": 19,
+            "rank": 17,
             "spotify_id": "6IzHSxtzkXLJsmyg6Oz4ey",
             "name": "Historiska Brottslingar",
             "publisher": "Podplay",
@@ -178,16 +160,25 @@
             "url": "https:\/\/open.spotify.com\/show\/6IzHSxtzkXLJsmyg6Oz4ey"
         },
         {
-            "rank": 20,
-            "spotify_id": "4piuQXuPNmMShmMEKJ8rOV",
-            "name": "Nu blir det historia!",
-            "publisher": "Dan Hörning & Cornelia Boberg",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f34c48e6abb56a0418b323699",
+            "rank": 18,
+            "spotify_id": "4TQyvsHVqRX3mDwCkwoVl2",
+            "name": "Vår Blodiga Historia",
+            "publisher": "Dino Helmefalk",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f43584d55431ce44ac50c0fdc",
             "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/4piuQXuPNmMShmMEKJ8rOV"
+            "url": "https:\/\/open.spotify.com\/show\/4TQyvsHVqRX3mDwCkwoVl2"
         },
         {
-            "rank": 21,
+            "rank": 19,
+            "spotify_id": "26PjFc2gsF0jE9CiMvNBVt",
+            "name": "AREA52 - DEBRIEFED With Chris Ramsay ",
+            "publisher": "Chris Ramsay",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fdfd07ac407046fcea01bdb19",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/26PjFc2gsF0jE9CiMvNBVt"
+        },
+        {
+            "rank": 20,
             "spotify_id": "1P4ZGL5uWpih3CGARin6Zq",
             "name": "Människan",
             "publisher": "Människan",
@@ -196,34 +187,25 @@
             "url": "https:\/\/open.spotify.com\/show\/1P4ZGL5uWpih3CGARin6Zq"
         },
         {
-            "rank": 22,
-            "spotify_id": "5X7C0dXbU3P8L3ojGuAkFh",
-            "name": "Arkeologi & Historia - podden som gräver i vårt kulturlandskap",
-            "publisher": "König Media",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fba093a9e7d33e0ea27293256",
+            "rank": 21,
+            "spotify_id": "5UcJOuaUU5IDrwZpRTU3tf",
+            "name": "Svenska Kungar - från järnåldern till idag.",
+            "publisher": "Aviator",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1ff95cdcbca07b8fd6ddc3504c",
             "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/5X7C0dXbU3P8L3ojGuAkFh"
+            "url": "https:\/\/open.spotify.com\/show\/5UcJOuaUU5IDrwZpRTU3tf"
+        },
+        {
+            "rank": 22,
+            "spotify_id": "4piuQXuPNmMShmMEKJ8rOV",
+            "name": "Nu blir det historia!",
+            "publisher": "Dan Hörning & Cornelia Boberg",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f34c48e6abb56a0418b323699",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/4piuQXuPNmMShmMEKJ8rOV"
         },
         {
             "rank": 23,
-            "spotify_id": "26PjFc2gsF0jE9CiMvNBVt",
-            "name": "AREA52 - DEBRIEFED With Chris Ramsay ",
-            "publisher": "Chris Ramsay",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fdfd07ac407046fcea01bdb19",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/26PjFc2gsF0jE9CiMvNBVt"
-        },
-        {
-            "rank": 24,
-            "spotify_id": "5rfHwUQdPLPLRTbfaN70Ck",
-            "name": "Vi går till historien",
-            "publisher": "Ulf Gemsiö",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f78ac20d1319c4dacaa89543e",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/5rfHwUQdPLPLRTbfaN70Ck"
-        },
-        {
-            "rank": 25,
             "spotify_id": "1VR87e2sFkjR6Z2sX7gBQw",
             "name": "Historia.nu med Urban Lindstedt",
             "publisher": "Historiska Media | Acast",
@@ -232,25 +214,61 @@
             "url": "https:\/\/open.spotify.com\/show\/1VR87e2sFkjR6Z2sX7gBQw"
         },
         {
-            "rank": 26,
-            "spotify_id": "2DzvjNv1TgD9udWERgV0FW",
-            "name": "Fronten",
-            "publisher": "Niclas Sennerteg, Robert Lindberg",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f834ff7db8f3462de623be041",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/2DzvjNv1TgD9udWERgV0FW"
+            "rank": 24,
+            "spotify_id": "5bVKwrwO0A2AXT954BJWon",
+            "name": "Thomas intervjuer",
+            "publisher": "Thomas Gjutarenäfve",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f8788c6720daaab2e68ba4bd1",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/5bVKwrwO0A2AXT954BJWon"
         },
         {
-            "rank": 27,
+            "rank": 25,
             "spotify_id": "4T1vCJerDtH10VKyGtRBoF",
             "name": "P3 Klassikern",
             "publisher": "Sveriges Radio",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fba34c0e694cece594429e160",
-            "rank_move": "DOWN",
+            "rank_move": "UP",
             "url": "https:\/\/open.spotify.com\/show\/4T1vCJerDtH10VKyGtRBoF"
         },
         {
+            "rank": 26,
+            "spotify_id": "7lUuYE5ZTTYGcu4iFSaJsY",
+            "name": "Dick Harrison svarar",
+            "publisher": "Sveriges Radio",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f11d22a18cdb4e51fc123519b",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/7lUuYE5ZTTYGcu4iFSaJsY"
+        },
+        {
+            "rank": 27,
+            "spotify_id": "14lHltyuzz9T7vtCeID8ca",
+            "name": "Historier från Hälsingland",
+            "publisher": "Historier från Hälsingland",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f7e40c45beb748358aac671e8",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/14lHltyuzz9T7vtCeID8ca"
+        },
+        {
             "rank": 28,
+            "spotify_id": "5RdShpOtxKO3ZWohR2M6Sv",
+            "name": "Conspiracy Theories",
+            "publisher": "Spotify Studios",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1ff13a104b495a26b9990e55cc",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/5RdShpOtxKO3ZWohR2M6Sv"
+        },
+        {
+            "rank": 29,
+            "spotify_id": "5X7C0dXbU3P8L3ojGuAkFh",
+            "name": "Arkeologi & Historia - podden som gräver i vårt kulturlandskap",
+            "publisher": "König Media",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fba093a9e7d33e0ea27293256",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/5X7C0dXbU3P8L3ojGuAkFh"
+        },
+        {
+            "rank": 30,
             "spotify_id": "1HKArtuwABZWBd8CTGnjML",
             "name": "Historiskt Skvaller",
             "publisher": "Acast ",
@@ -259,43 +277,7 @@
             "url": "https:\/\/open.spotify.com\/show\/1HKArtuwABZWBd8CTGnjML"
         },
         {
-            "rank": 29,
-            "spotify_id": "5RdShpOtxKO3ZWohR2M6Sv",
-            "name": "Conspiracy Theories",
-            "publisher": "Spotify Studios",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1ff13a104b495a26b9990e55cc",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/5RdShpOtxKO3ZWohR2M6Sv"
-        },
-        {
-            "rank": 30,
-            "spotify_id": "5bVKwrwO0A2AXT954BJWon",
-            "name": "Thomas intervjuer",
-            "publisher": "Thomas Gjutarenäfve",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f8788c6720daaab2e68ba4bd1",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/5bVKwrwO0A2AXT954BJWon"
-        },
-        {
             "rank": 31,
-            "spotify_id": "5ZuOM3ODd5VMy1f7jXvtXV",
-            "name": "Historier Sällan Berättade",
-            "publisher": "HistorierSällanBerättade",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f5295013933ad21390fd8372c",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/5ZuOM3ODd5VMy1f7jXvtXV"
-        },
-        {
-            "rank": 32,
-            "spotify_id": "0GjSzFvn9v3SszOIx19BaT",
-            "name": "Slott och krona",
-            "publisher": "Kungliga slotten",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f7008d091ac431be97662ca47",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/0GjSzFvn9v3SszOIx19BaT"
-        },
-        {
-            "rank": 33,
             "spotify_id": "1DQF5Yi3m6LykJDwiy8qxh",
             "name": "The Ancients",
             "publisher": "History Hit",
@@ -304,16 +286,16 @@
             "url": "https:\/\/open.spotify.com\/show\/1DQF5Yi3m6LykJDwiy8qxh"
         },
         {
-            "rank": 34,
-            "spotify_id": "4TQyvsHVqRX3mDwCkwoVl2",
-            "name": "Vår Blodiga Historia",
-            "publisher": "Dino Helmefalk",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f43584d55431ce44ac50c0fdc",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/4TQyvsHVqRX3mDwCkwoVl2"
+            "rank": 32,
+            "spotify_id": "5ZuOM3ODd5VMy1f7jXvtXV",
+            "name": "Historier Sällan Berättade",
+            "publisher": "HistorierSällanBerättade",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f5295013933ad21390fd8372c",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/5ZuOM3ODd5VMy1f7jXvtXV"
         },
         {
-            "rank": 35,
+            "rank": 33,
             "spotify_id": "1Jn1HIW6I1AQnKVpsJHdEf",
             "name": "The Rest Is Classified",
             "publisher": "Goalhanger",
@@ -322,25 +304,25 @@
             "url": "https:\/\/open.spotify.com\/show\/1Jn1HIW6I1AQnKVpsJHdEf"
         },
         {
+            "rank": 34,
+            "spotify_id": "2DzvjNv1TgD9udWERgV0FW",
+            "name": "Fronten",
+            "publisher": "Niclas Sennerteg, Robert Lindberg",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f834ff7db8f3462de623be041",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/2DzvjNv1TgD9udWERgV0FW"
+        },
+        {
+            "rank": 35,
+            "spotify_id": "0GjSzFvn9v3SszOIx19BaT",
+            "name": "Slott och krona",
+            "publisher": "Kungliga slotten",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f7008d091ac431be97662ca47",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/0GjSzFvn9v3SszOIx19BaT"
+        },
+        {
             "rank": 36,
-            "spotify_id": "3iQJy0LCjo0u1s9JIh95Qg",
-            "name": "När man talar om trollen",
-            "publisher": "Oknytt - Nordisk folktro & mytologi",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fa1a29821b347e9956c6f39ef",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/3iQJy0LCjo0u1s9JIh95Qg"
-        },
-        {
-            "rank": 37,
-            "spotify_id": "14lHltyuzz9T7vtCeID8ca",
-            "name": "Historier från Hälsingland",
-            "publisher": "Historier från Hälsingland",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f7e40c45beb748358aac671e8",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/14lHltyuzz9T7vtCeID8ca"
-        },
-        {
-            "rank": 38,
             "spotify_id": "2mcJ0sFMn4TdKCQrxoLPgO",
             "name": "Short History Of...",
             "publisher": "NOISER",
@@ -349,25 +331,16 @@
             "url": "https:\/\/open.spotify.com\/show\/2mcJ0sFMn4TdKCQrxoLPgO"
         },
         {
-            "rank": 39,
-            "spotify_id": "35MNGY6Kx0cJ1qfxWmJnSt",
-            "name": "Pandemier",
-            "publisher": "Dynastin",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f8a394d5bab042b25267bd114",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/35MNGY6Kx0cJ1qfxWmJnSt"
-        },
-        {
-            "rank": 40,
-            "spotify_id": "1HzVYZaOV4vsI38fTuM3wh",
-            "name": "Bildningsbyrån",
-            "publisher": "UR – Utbildningsradion",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f26ff920e60385fa37924179d",
+            "rank": 37,
+            "spotify_id": "3iQJy0LCjo0u1s9JIh95Qg",
+            "name": "När man talar om trollen",
+            "publisher": "Oknytt - Nordisk folktro & mytologi",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fa1a29821b347e9956c6f39ef",
             "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/1HzVYZaOV4vsI38fTuM3wh"
+            "url": "https:\/\/open.spotify.com\/show\/3iQJy0LCjo0u1s9JIh95Qg"
         },
         {
-            "rank": 41,
+            "rank": 38,
             "spotify_id": "5r7LTSOpYZGnFE3IjsM7WL",
             "name": "Oknytt",
             "publisher": "Oknytt Podcast",
@@ -376,40 +349,67 @@
             "url": "https:\/\/open.spotify.com\/show\/5r7LTSOpYZGnFE3IjsM7WL"
         },
         {
-            "rank": 42,
-            "spotify_id": "1piAXBVl2oWruYbXCovqZF",
-            "name": "En oväntad historia",
-            "publisher": "Historiska Media | Acast",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fb6089cbffdc857e1e77d0c85",
+            "rank": 39,
+            "spotify_id": "4yXsMW1CFOjL17OFbdca0L",
+            "name": "Real Dictators",
+            "publisher": "NOISER",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f1500abee9494984207820fff",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/4yXsMW1CFOjL17OFbdca0L"
+        },
+        {
+            "rank": 40,
+            "spotify_id": "1HzVYZaOV4vsI38fTuM3wh",
+            "name": "Bildningsbyrån",
+            "publisher": "UR – Utbildningsradion",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f26ff920e60385fa37924179d",
             "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/1piAXBVl2oWruYbXCovqZF"
+            "url": "https:\/\/open.spotify.com\/show\/1HzVYZaOV4vsI38fTuM3wh"
+        },
+        {
+            "rank": 41,
+            "spotify_id": "5rfHwUQdPLPLRTbfaN70Ck",
+            "name": "Vi går till historien",
+            "publisher": "Ulf Gemsiö",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f78ac20d1319c4dacaa89543e",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/5rfHwUQdPLPLRTbfaN70Ck"
+        },
+        {
+            "rank": 42,
+            "spotify_id": "0C57UDnUxW06ASAyNHsaaE",
+            "name": "Ancient Mysteries",
+            "publisher": "Ancient Mysteries",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fa2eb4c35cf828c88069fb6c7",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/0C57UDnUxW06ASAyNHsaaE"
         },
         {
             "rank": 43,
+            "spotify_id": "17YfG23eMbfLBaDPqucgzZ",
+            "name": "In Our Time",
+            "publisher": "BBC Radio 4",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f3d015ced77e648a98e9a5bde",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/17YfG23eMbfLBaDPqucgzZ"
+        },
+        {
+            "rank": 44,
+            "spotify_id": "0FCcCmrd0Cta6Wvbw2Mupr",
+            "name": "Sleepy History",
+            "publisher": "Slumber Studios",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f36333b5e0d571b5e1e60431b",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/0FCcCmrd0Cta6Wvbw2Mupr"
+        },
+        {
+            "rank": 45,
             "spotify_id": "7gkV50QjGWfbfcqGjA2SjX",
             "name": "Kungar och krig",
             "publisher": "Mattias Axelsson",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f4f4ab0b143adfb28013b42aa",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/7gkV50QjGWfbfcqGjA2SjX"
-        },
-        {
-            "rank": 44,
-            "spotify_id": "179GJXIK67YAr4wIZGI6Eb",
-            "name": "Historiska kärlekspar",
-            "publisher": "Ia Almström",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f0f1b5f564ede56880773848f",
             "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/179GJXIK67YAr4wIZGI6Eb"
-        },
-        {
-            "rank": 45,
-            "spotify_id": "6jheXtmdJ2Axzg1LMsyVgi",
-            "name": "Historielunden - Historia från Kulturen i Lund!",
-            "publisher": "Podd om historia!",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f8fc64f898d84ae17c9a84892",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/6jheXtmdJ2Axzg1LMsyVgi"
+            "url": "https:\/\/open.spotify.com\/show\/7gkV50QjGWfbfcqGjA2SjX"
         },
         {
             "rank": 46,
@@ -431,30 +431,30 @@
         },
         {
             "rank": 48,
+            "spotify_id": "1piAXBVl2oWruYbXCovqZF",
+            "name": "En oväntad historia",
+            "publisher": "Historiska Media | Acast",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fb6089cbffdc857e1e77d0c85",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/1piAXBVl2oWruYbXCovqZF"
+        },
+        {
+            "rank": 49,
+            "spotify_id": "3baUW1Uyhdtz9kDaw2G0pS",
+            "name": "Svenska folkets historia",
+            "publisher": "Spotify Studios",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fa975aeabc0015e4bbe30b114",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/3baUW1Uyhdtz9kDaw2G0pS"
+        },
+        {
+            "rank": 50,
             "spotify_id": "0sBh58hSTReUQiK4axYUVx",
             "name": "Empire: World History",
             "publisher": "Goalhanger",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f6c7f34b92eebb72d185b54a9",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/0sBh58hSTReUQiK4axYUVx"
-        },
-        {
-            "rank": 49,
-            "spotify_id": "0FCcCmrd0Cta6Wvbw2Mupr",
-            "name": "Sleepy History",
-            "publisher": "Slumber Studios",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f36333b5e0d571b5e1e60431b",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/0FCcCmrd0Cta6Wvbw2Mupr"
-        },
-        {
-            "rank": 50,
-            "spotify_id": "19ywAHxXEhulGqF9jS32Kg",
-            "name": "Dan Snow's History Hit",
-            "publisher": "History Hit",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1ff3e3457386f40e571f43c918",
             "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/19ywAHxXEhulGqF9jS32Kg"
+            "url": "https:\/\/open.spotify.com\/show\/0sBh58hSTReUQiK4axYUVx"
         }
     ]
 }

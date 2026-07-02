@@ -3,7 +3,7 @@
     "country": "co",
     "genre": "Top Podcasts",
     "slug": "top-podcasts",
-    "fetched_at": "2026-06-24T06:38:30Z",
+    "fetched_at": "2026-07-01T04:45:16Z",
     "count": 200,
     "shows": [
         {
@@ -17,21 +17,21 @@
         },
         {
             "rank": 2,
-            "spotify_id": "0KgsGMKOm0YxfKHkYSkkXm",
-            "name": "MICRODOSIS DE AMOR PROPIO",
-            "publisher": "Katherine Porto",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f81efc81038c7472c6f54ec8c",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/0KgsGMKOm0YxfKHkYSkkXm"
-        },
-        {
-            "rank": 3,
             "spotify_id": "7eAQD2d83OZlDflzjRwy8V",
             "name": "VOS PODÉS",
             "publisher": "Tatiana Franko ",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f1e2fa845857a8f1e8de15405",
             "rank_move": "UNCHANGED",
             "url": "https:\/\/open.spotify.com\/show\/7eAQD2d83OZlDflzjRwy8V"
+        },
+        {
+            "rank": 3,
+            "spotify_id": "70eZc1jDll5wI1WRP794Tx",
+            "name": "Conducta Delictiva",
+            "publisher": "Michell Rodríguez y Kevin Pinzón",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fbbb56260bace18dba289793c",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/70eZc1jDll5wI1WRP794Tx"
         },
         {
             "rank": 4,
@@ -44,24 +44,6 @@
         },
         {
             "rank": 5,
-            "spotify_id": "70eZc1jDll5wI1WRP794Tx",
-            "name": "Conducta Delictiva",
-            "publisher": "Michell Rodríguez y Kevin Pinzón",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fbbb56260bace18dba289793c",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/70eZc1jDll5wI1WRP794Tx"
-        },
-        {
-            "rank": 6,
-            "spotify_id": "3yFI8EP4VTuNnFWaWup2Km",
-            "name": "Los Hombres Sí Lloran",
-            "publisher": "Juan Pablo Raba y Dani Posada",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f549189e23a4b013c5dd71b31",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/3yFI8EP4VTuNnFWaWup2Km"
-        },
-        {
-            "rank": 7,
             "spotify_id": "6u9214BUVpiVMQXW8QzLGS",
             "name": "Vamos pa' eso",
             "publisher": "Juan José Castro Muñoz y Fragore Studio",
@@ -70,7 +52,7 @@
             "url": "https:\/\/open.spotify.com\/show\/6u9214BUVpiVMQXW8QzLGS"
         },
         {
-            "rank": 8,
+            "rank": 6,
             "spotify_id": "2DH4SsyHA1VR0WjVYkBd8g",
             "name": "A Fondo Con María Jimena Duzán",
             "publisher": "Mafialand",
@@ -79,12 +61,30 @@
             "url": "https:\/\/open.spotify.com\/show\/2DH4SsyHA1VR0WjVYkBd8g"
         },
         {
+            "rank": 7,
+            "spotify_id": "3yFI8EP4VTuNnFWaWup2Km",
+            "name": "Los Hombres Sí Lloran",
+            "publisher": "Juan Pablo Raba y Dani Posada",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f549189e23a4b013c5dd71b31",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/3yFI8EP4VTuNnFWaWup2Km"
+        },
+        {
+            "rank": 8,
+            "spotify_id": "444LwT3wHRyVZb6alkDc4c",
+            "name": "LO QUE TÚ DIGAS con Alex Fidalgo",
+            "publisher": "Alex Fidalgo",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fe77d902050e473d258b83f74",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/444LwT3wHRyVZb6alkDc4c"
+        },
+        {
             "rank": 9,
             "spotify_id": "3xIalu2XhZ2EjSbOcTg0U8",
             "name": "DianaUribe.fm",
             "publisher": "Diana Uribe",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fe4944c1efe69f0637700dec9",
-            "rank_move": "UNCHANGED",
+            "rank_move": "DOWN",
             "url": "https:\/\/open.spotify.com\/show\/3xIalu2XhZ2EjSbOcTg0U8"
         },
         {
@@ -98,15 +98,6 @@
         },
         {
             "rank": 11,
-            "spotify_id": "1qn2tHYUb1yEQVWeUKhpLz",
-            "name": "Por La Ventana Podcast (cuarta temporada) 🚘",
-            "publisher": "Sancocho Trifásico",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1febd163bc5d3c57c517251d09",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/1qn2tHYUb1yEQVWeUKhpLz"
-        },
-        {
-            "rank": 12,
             "spotify_id": "6yVO99WI3G9uJLhW7E6EO2",
             "name": "Dinstinto",
             "publisher": "David Llano y Daniel Márquez",
@@ -115,61 +106,16 @@
             "url": "https:\/\/open.spotify.com\/show\/6yVO99WI3G9uJLhW7E6EO2"
         },
         {
-            "rank": 13,
-            "spotify_id": "5ned5gdkHvxS8Vr54YXfVS",
-            "name": "Huevos Revueltos con Política",
-            "publisher": "La Silla Vacía",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f1814e2403584fc8e01a6761c",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/5ned5gdkHvxS8Vr54YXfVS"
-        },
-        {
-            "rank": 14,
+            "rank": 12,
             "spotify_id": "2BIaSb6824vyALYHBWDeJF",
             "name": "F*cksNews",
             "publisher": "F*cks News",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fe0bcf9c46993f9618231cde2",
-            "rank_move": "DOWN",
+            "rank_move": "UNCHANGED",
             "url": "https:\/\/open.spotify.com\/show\/2BIaSb6824vyALYHBWDeJF"
         },
         {
-            "rank": 15,
-            "spotify_id": "6WmA7TTxcGMUM7Kp4abXVx",
-            "name": "365 con Dios",
-            "publisher": "Wenddy Neciosup | Genuina Media",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f7fcd1fe83b50b52226a4b3f9",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/6WmA7TTxcGMUM7Kp4abXVx"
-        },
-        {
-            "rank": 16,
-            "spotify_id": "0Ds5tB7EhMuZOGhM3Xfuoy",
-            "name": "Dante Gebel Live",
-            "publisher": "Dante Gebel",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fa57ecf5416470fa821e3e861",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/0Ds5tB7EhMuZOGhM3Xfuoy"
-        },
-        {
-            "rank": 17,
-            "spotify_id": "2aTFxnX4dVyvZhfF8hySn2",
-            "name": "LAS MEMORIAS DEL ALMA",
-            "publisher": "Memorias del Alma",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1ff4e435a1c9d5c6da28bfdf4f",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/2aTFxnX4dVyvZhfF8hySn2"
-        },
-        {
-            "rank": 18,
-            "spotify_id": "0SAv0bEYhFndhLODSzPIfL",
-            "name": "Relatos de la Noche",
-            "publisher": "Sonoro",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f0ac06f0458e866d4519dfa3c",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/0SAv0bEYhFndhLODSzPIfL"
-        },
-        {
-            "rank": 19,
+            "rank": 13,
             "spotify_id": "4hz0jLXfWc9jzCsAybaSgI",
             "name": "Dr. Mario Alonso Puig",
             "publisher": "Mario Alonso Puig",
@@ -178,52 +124,88 @@
             "url": "https:\/\/open.spotify.com\/show\/4hz0jLXfWc9jzCsAybaSgI"
         },
         {
-            "rank": 20,
+            "rank": 14,
+            "spotify_id": "6WmA7TTxcGMUM7Kp4abXVx",
+            "name": "365 con Dios",
+            "publisher": "Wenddy Neciosup | Genuina Media",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f7fcd1fe83b50b52226a4b3f9",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/6WmA7TTxcGMUM7Kp4abXVx"
+        },
+        {
+            "rank": 15,
+            "spotify_id": "2aTFxnX4dVyvZhfF8hySn2",
+            "name": "LAS MEMORIAS DEL ALMA",
+            "publisher": "Memorias del Alma",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1ff4e435a1c9d5c6da28bfdf4f",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/2aTFxnX4dVyvZhfF8hySn2"
+        },
+        {
+            "rank": 16,
+            "spotify_id": "5ned5gdkHvxS8Vr54YXfVS",
+            "name": "Huevos Revueltos con Política",
+            "publisher": "La Silla Vacía",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f1814e2403584fc8e01a6761c",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/5ned5gdkHvxS8Vr54YXfVS"
+        },
+        {
+            "rank": 17,
+            "spotify_id": "0Ds5tB7EhMuZOGhM3Xfuoy",
+            "name": "Dante Gebel Live",
+            "publisher": "Dante Gebel",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fa57ecf5416470fa821e3e861",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/0Ds5tB7EhMuZOGhM3Xfuoy"
+        },
+        {
+            "rank": 18,
+            "spotify_id": "0SAv0bEYhFndhLODSzPIfL",
+            "name": "Relatos de la Noche",
+            "publisher": "Sonoro",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f0ac06f0458e866d4519dfa3c",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/0SAv0bEYhFndhLODSzPIfL"
+        },
+        {
+            "rank": 19,
             "spotify_id": "4H9hNPW7uTpgCD0wwErLxk",
             "name": "Salud Mental✨ con Alan Disavia",
             "publisher": "Alan Disavia",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f02e4cb8da681e37e40abb639",
-            "rank_move": "UP",
+            "rank_move": "UNCHANGED",
             "url": "https:\/\/open.spotify.com\/show\/4H9hNPW7uTpgCD0wwErLxk"
         },
         {
-            "rank": 21,
+            "rank": 20,
             "spotify_id": "2nz3z3iZ59iIpC5MvJHHEP",
             "name": "Derecho Pa' La Gente",
             "publisher": "Juan José Castro Muñoz y Fragore Studio",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f139156c451c6edb35c000083",
-            "rank_move": "UP",
+            "rank_move": "UNCHANGED",
             "url": "https:\/\/open.spotify.com\/show\/2nz3z3iZ59iIpC5MvJHHEP"
         },
         {
-            "rank": 22,
-            "spotify_id": "1TDJJoHWEq7Nbh3yEBOJOj",
-            "name": "Psicologia Al Desnudo | @psi.mammoliti",
-            "publisher": "Psi Mammoliti",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fd7dd4ecc848fd07b081d07dd",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/1TDJJoHWEq7Nbh3yEBOJOj"
-        },
-        {
-            "rank": 23,
-            "spotify_id": "4aokT3ZdVlGsxykjdARm4l",
-            "name": "Las Menopáusicas",
-            "publisher": "Yolanda Ruiz y María Elvira Samper",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f4f00840a1ce75f844193333b",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/4aokT3ZdVlGsxykjdARm4l"
-        },
-        {
-            "rank": 24,
+            "rank": 21,
             "spotify_id": "2rvGjOgeyQTtl5ZgXzUXoQ",
             "name": "Estoicismo Filosofia",
             "publisher": "Estoicismo Filosofia",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fca838f294e8cbd41903db624",
-            "rank_move": "UP",
+            "rank_move": "UNCHANGED",
             "url": "https:\/\/open.spotify.com\/show\/2rvGjOgeyQTtl5ZgXzUXoQ"
         },
         {
-            "rank": 25,
+            "rank": 22,
+            "spotify_id": "4aokT3ZdVlGsxykjdARm4l",
+            "name": "Las Menopáusicas",
+            "publisher": "Yolanda Ruiz y María Elvira Samper",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f4f00840a1ce75f844193333b",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/4aokT3ZdVlGsxykjdARm4l"
+        },
+        {
+            "rank": 23,
             "spotify_id": "2Ltbkb4z9MSJeuvbyZey8l",
             "name": "Farid Dieck | Relatos y Reflexiones🍃",
             "publisher": "Farid Dieck ",
@@ -232,160 +214,79 @@
             "url": "https:\/\/open.spotify.com\/show\/2Ltbkb4z9MSJeuvbyZey8l"
         },
         {
+            "rank": 24,
+            "spotify_id": "1TDJJoHWEq7Nbh3yEBOJOj",
+            "name": "Psicologia Al Desnudo | @psi.mammoliti",
+            "publisher": "Psi Mammoliti",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fd7dd4ecc848fd07b081d07dd",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/1TDJJoHWEq7Nbh3yEBOJOj"
+        },
+        {
+            "rank": 25,
+            "spotify_id": "0KgsGMKOm0YxfKHkYSkkXm",
+            "name": "MICRODOSIS DE AMOR PROPIO",
+            "publisher": "Katherine Porto",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f81efc81038c7472c6f54ec8c",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/0KgsGMKOm0YxfKHkYSkkXm"
+        },
+        {
             "rank": 26,
-            "spotify_id": "033kcef7vFhCgAieNtZ6FX",
-            "name": "Escuchamos y No Juzgamos",
-            "publisher": "Johana Fuentes y La No Ficción",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fa8122b0452a859168a2f7ce1",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/033kcef7vFhCgAieNtZ6FX"
-        },
-        {
-            "rank": 27,
-            "spotify_id": "7ncyJYUUGTOJKgRkMrdep3",
-            "name": "Aprende a Tener Éxito",
-            "publisher": "MGN",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f967c10dc30fdc429bdef2428",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/7ncyJYUUGTOJKgRkMrdep3"
-        },
-        {
-            "rank": 28,
-            "spotify_id": "6tMLmBg7ecQLaYDFyQdyjk",
-            "name": "A las buenas y a las bravas",
-            "publisher": "Laura Villegas Jaramillo",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fe7469e24c2512345dfb88874",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/6tMLmBg7ecQLaYDFyQdyjk"
-        },
-        {
-            "rank": 29,
-            "spotify_id": "0KUjSzqMyxrTyXuw15j4e8",
-            "name": "Se Regalan Dudas",
-            "publisher": "Dudas Media",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fd5a2188482c6175e7399c33e",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/0KUjSzqMyxrTyXuw15j4e8"
-        },
-        {
-            "rank": 30,
-            "spotify_id": "2uIbAdeOFYgcb27FnMijQI",
-            "name": "Modo Taoísmo",
-            "publisher": "El Monasterio",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f85bd2e3bbeb85dd5f760d6f7",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/2uIbAdeOFYgcb27FnMijQI"
-        },
-        {
-            "rank": 31,
-            "spotify_id": "7EWdV2gdRnrX0092k12QUJ",
-            "name": "HABLEMOS DE LO QUE NO EXISTE",
-            "publisher": "César González _ EL NARRADOR _",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f6898acc05ffafefae8ea3bcb",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/7EWdV2gdRnrX0092k12QUJ"
-        },
-        {
-            "rank": 32,
-            "spotify_id": "2nAf8IDQG1sPEwAKdG2DyM",
-            "name": "Despertando",
-            "publisher": "Dudas Media",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1ff8ea9676498b74689dca60b4",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/2nAf8IDQG1sPEwAKdG2DyM"
-        },
-        {
-            "rank": 33,
             "spotify_id": "58wsYLsa9QPrclg3cFRoG0",
             "name": "EXTRA ANORMAL",
             "publisher": "iEX Studios",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f43a851415432dde5324e70ff",
-            "rank_move": "UNCHANGED",
+            "rank_move": "UP",
             "url": "https:\/\/open.spotify.com\/show\/58wsYLsa9QPrclg3cFRoG0"
         },
         {
-            "rank": 34,
-            "spotify_id": "5XWpDtVEGxBhRJ4h9p2nBd",
-            "name": "ROCA PROJECT",
-            "publisher": "Carlos Roca",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1ff5bab97f7dbb3534fbb988b9",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/5XWpDtVEGxBhRJ4h9p2nBd"
+            "rank": 27,
+            "spotify_id": "7EWdV2gdRnrX0092k12QUJ",
+            "name": "HABLEMOS DE LO QUE NO EXISTE",
+            "publisher": "César González _ EL NARRADOR _",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f6898acc05ffafefae8ea3bcb",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/7EWdV2gdRnrX0092k12QUJ"
         },
         {
-            "rank": 35,
+            "rank": 28,
+            "spotify_id": "0KUjSzqMyxrTyXuw15j4e8",
+            "name": "Se Regalan Dudas",
+            "publisher": "Dudas Media",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fd5a2188482c6175e7399c33e",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/0KUjSzqMyxrTyXuw15j4e8"
+        },
+        {
+            "rank": 29,
             "spotify_id": "1y5jFGgeRUcewEvEqcgVfy",
             "name": "Sara Romero | Mente, Conciencia y Método SOMA®",
             "publisher": "Método SOMA",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f9b79c57f5dc35dd6469ae030",
-            "rank_move": "UP",
+            "rank_move": "DOWN",
             "url": "https:\/\/open.spotify.com\/show\/1y5jFGgeRUcewEvEqcgVfy"
         },
         {
-            "rank": 36,
-            "spotify_id": "45bT0XOwjmQXZohY2dE0Vr",
-            "name": "Orando con Propósito - Santo Rosario Diario",
-            "publisher": "Orando Con Propósito",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f59b2c7ccdc5856b579135ad6",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/45bT0XOwjmQXZohY2dE0Vr"
+            "rank": 30,
+            "spotify_id": "1qn2tHYUb1yEQVWeUKhpLz",
+            "name": "Por La Ventana Podcast (cuarta temporada) 🚘",
+            "publisher": "Sancocho Trifásico",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1febd163bc5d3c57c517251d09",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/1qn2tHYUb1yEQVWeUKhpLz"
         },
         {
-            "rank": 37,
-            "spotify_id": "1VsDIDtqSPU79fZGHu4sdI",
-            "name": "Paulettee",
-            "publisher": "Paulettee",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fd08853e14d365ebcd7bd2762",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/1VsDIDtqSPU79fZGHu4sdI"
-        },
-        {
-            "rank": 38,
+            "rank": 31,
             "spotify_id": "6uiXpyl749yOE2vs8sCrdW",
             "name": "Paranormal",
             "publisher": "Fepo",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fb6da2349e83315adb49c4013",
-            "rank_move": "DOWN",
+            "rank_move": "UP",
             "url": "https:\/\/open.spotify.com\/show\/6uiXpyl749yOE2vs8sCrdW"
         },
         {
-            "rank": 39,
-            "spotify_id": "33fJsKvDY7ysxg1KOl2p4z",
-            "name": "Palabras Mayores - Carlos Antonio Vélez",
-            "publisher": "Palabras Mayores ",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f7ed51cd2c223ab37f0c1473d",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/33fJsKvDY7ysxg1KOl2p4z"
-        },
-        {
-            "rank": 40,
-            "spotify_id": "2uuTy0IM7YE6NjlrzyFOLd",
-            "name": "IQpotenciado",
-            "publisher": "Sam Christ",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f13a9f185fb564a5573b72991",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/2uuTy0IM7YE6NjlrzyFOLd"
-        },
-        {
-            "rank": 41,
-            "spotify_id": "5ch6lCGxraW0B2DP1BbUgG",
-            "name": "3 AM",
-            "publisher": "Antony Steve",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f02cf6d174e18e7ad6eb8594b",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/5ch6lCGxraW0B2DP1BbUgG"
-        },
-        {
-            "rank": 42,
-            "spotify_id": "7jFyajs9W4g4Unwlzq8V93",
-            "name": "El Rincón De Los Errores",
-            "publisher": "Marimar Vega & Efrén Martinez | Dudas Media",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f8e0a38cd090c1bec685310f1",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/7jFyajs9W4g4Unwlzq8V93"
-        },
-        {
-            "rank": 43,
+            "rank": 32,
             "spotify_id": "7r4mL4BFP5rBMsUBq3taAc",
             "name": "SeXpedientes Secretos",
             "publisher": "Podcast de Sexualidad",
@@ -394,40 +295,139 @@
             "url": "https:\/\/open.spotify.com\/show\/7r4mL4BFP5rBMsUBq3taAc"
         },
         {
+            "rank": 33,
+            "spotify_id": "2uIbAdeOFYgcb27FnMijQI",
+            "name": "Modo Taoísmo",
+            "publisher": "El Monasterio",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f85bd2e3bbeb85dd5f760d6f7",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/2uIbAdeOFYgcb27FnMijQI"
+        },
+        {
+            "rank": 34,
+            "spotify_id": "45bT0XOwjmQXZohY2dE0Vr",
+            "name": "Orando con Propósito - Santo Rosario Diario",
+            "publisher": "Orando Con Propósito",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f59b2c7ccdc5856b579135ad6",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/45bT0XOwjmQXZohY2dE0Vr"
+        },
+        {
+            "rank": 35,
+            "spotify_id": "2nAf8IDQG1sPEwAKdG2DyM",
+            "name": "Despertando",
+            "publisher": "Dudas Media",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1ff8ea9676498b74689dca60b4",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/2nAf8IDQG1sPEwAKdG2DyM"
+        },
+        {
+            "rank": 36,
+            "spotify_id": "5ch6lCGxraW0B2DP1BbUgG",
+            "name": "3 AM",
+            "publisher": "Antony Steve",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f02cf6d174e18e7ad6eb8594b",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/5ch6lCGxraW0B2DP1BbUgG"
+        },
+        {
+            "rank": 37,
+            "spotify_id": "5XWpDtVEGxBhRJ4h9p2nBd",
+            "name": "ROCA PROJECT",
+            "publisher": "Carlos Roca",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1ff5bab97f7dbb3534fbb988b9",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/5XWpDtVEGxBhRJ4h9p2nBd"
+        },
+        {
+            "rank": 38,
+            "spotify_id": "7ncyJYUUGTOJKgRkMrdep3",
+            "name": "Aprende a Tener Éxito",
+            "publisher": "MGN",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f967c10dc30fdc429bdef2428",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/7ncyJYUUGTOJKgRkMrdep3"
+        },
+        {
+            "rank": 39,
+            "spotify_id": "2uuTy0IM7YE6NjlrzyFOLd",
+            "name": "IQpotenciado",
+            "publisher": "Sam Christ",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f13a9f185fb564a5573b72991",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/2uuTy0IM7YE6NjlrzyFOLd"
+        },
+        {
+            "rank": 40,
+            "spotify_id": "33fJsKvDY7ysxg1KOl2p4z",
+            "name": "Palabras Mayores - Carlos Antonio Vélez",
+            "publisher": "Palabras Mayores ",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f7ed51cd2c223ab37f0c1473d",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/33fJsKvDY7ysxg1KOl2p4z"
+        },
+        {
+            "rank": 41,
+            "spotify_id": "1VsDIDtqSPU79fZGHu4sdI",
+            "name": "Paulettee",
+            "publisher": "Paulettee",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fd08853e14d365ebcd7bd2762",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/1VsDIDtqSPU79fZGHu4sdI"
+        },
+        {
+            "rank": 42,
+            "spotify_id": "7jFyajs9W4g4Unwlzq8V93",
+            "name": "El Rincón De Los Errores",
+            "publisher": "Marimar Vega & Efrén Martinez | Dudas Media",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f8e0a38cd090c1bec685310f1",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/7jFyajs9W4g4Unwlzq8V93"
+        },
+        {
+            "rank": 43,
+            "spotify_id": "6tMLmBg7ecQLaYDFyQdyjk",
+            "name": "A las buenas y a las bravas",
+            "publisher": "Laura Villegas Jaramillo",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fe7469e24c2512345dfb88874",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/6tMLmBg7ecQLaYDFyQdyjk"
+        },
+        {
             "rank": 44,
+            "spotify_id": "47vRT2saTiW6vkHY6BAg5z",
+            "name": "Secret.ishh ",
+            "publisher": "Remember Productions",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f563fade0eedc2512c47905e0",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/47vRT2saTiW6vkHY6BAg5z"
+        },
+        {
+            "rank": 45,
+            "spotify_id": "033yYm4ZPsNOKwPNrWWYAR",
+            "name": "Recordando el Ser",
+            "publisher": "Jemac",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fb46621c27fb75aa22a2846e8",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/033yYm4ZPsNOKwPNrWWYAR"
+        },
+        {
+            "rank": 46,
             "spotify_id": "7s3BjM6Sf7RpKsucCTqewy",
             "name": "Tatan y Maleja ",
             "publisher": "Maleja restrepo",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f4345719f1568ae99c29cdf19",
-            "rank_move": "UP",
+            "rank_move": "DOWN",
             "url": "https:\/\/open.spotify.com\/show\/7s3BjM6Sf7RpKsucCTqewy"
         },
         {
-            "rank": 45,
-            "spotify_id": "4nRtbTtLmioX7jYFcjR5Pj",
-            "name": "Mis Propias Finanzas",
-            "publisher": "Juan Pablo Zuluaga",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fddbb84323d5b28e414b85091",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/4nRtbTtLmioX7jYFcjR5Pj"
-        },
-        {
-            "rank": 46,
-            "spotify_id": "1OTdDziZ7R1iYew8vxB9Ln",
-            "name": "INSOMNIO",
-            "publisher": "Fepo",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fe5c485b80d6324fc3df72610",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/1OTdDziZ7R1iYew8vxB9Ln"
-        },
-        {
             "rank": 47,
-            "spotify_id": "247Q4Oite2cx9ik56VFNSt",
-            "name": "El café de hoy",
-            "publisher": "Pódcast EL TIEMPO",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f793b5903f8fd2c8ad446c751",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/247Q4Oite2cx9ik56VFNSt"
+            "spotify_id": "41XpGxpC5Hhi7jbLZh6ajA",
+            "name": "Ad Propositum",
+            "publisher": "Efrén Martinez",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f198db580a065a3ab31318826",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/41XpGxpC5Hhi7jbLZh6ajA"
         },
         {
             "rank": 48,
@@ -440,474 +440,96 @@
         },
         {
             "rank": 49,
-            "spotify_id": "7MAGHGjX5mMVj7mrOASpNq",
-            "name": "La Verdad del Ser",
-            "publisher": "Maria Celeste",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f9b6cc649eafa0c187247e5bc",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/7MAGHGjX5mMVj7mrOASpNq"
+            "spotify_id": "1OTdDziZ7R1iYew8vxB9Ln",
+            "name": "INSOMNIO",
+            "publisher": "Fepo",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fe5c485b80d6324fc3df72610",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/1OTdDziZ7R1iYew8vxB9Ln"
         },
         {
             "rank": 50,
-            "spotify_id": "47vRT2saTiW6vkHY6BAg5z",
-            "name": "Secret.ishh ",
-            "publisher": "Remember Productions",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f563fade0eedc2512c47905e0",
+            "spotify_id": "247Q4Oite2cx9ik56VFNSt",
+            "name": "El café de hoy",
+            "publisher": "Pódcast EL TIEMPO",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f793b5903f8fd2c8ad446c751",
             "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/47vRT2saTiW6vkHY6BAg5z"
+            "url": "https:\/\/open.spotify.com\/show\/247Q4Oite2cx9ik56VFNSt"
         },
         {
             "rank": 51,
-            "spotify_id": "3QPjhwLS7PpT9PN87ImzJx",
-            "name": "📚ESCUCHA TU SUBCONSCIENTE ",
-            "publisher": "ESCUCHA TU SUBCONSCIENTE",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fd6cbb6d36accefb544bf4362",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/3QPjhwLS7PpT9PN87ImzJx"
-        },
-        {
-            "rank": 52,
             "spotify_id": "1FB03zVd6AIWDCwCG2ZUSS",
             "name": "¿Qué Haría Jesús?",
             "publisher": "New Fire",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f1f4f793b4508f93beee491b9",
-            "rank_move": "UP",
+            "rank_move": "DOWN",
             "url": "https:\/\/open.spotify.com\/show\/1FB03zVd6AIWDCwCG2ZUSS"
         },
         {
-            "rank": 53,
-            "spotify_id": "41XpGxpC5Hhi7jbLZh6ajA",
-            "name": "Ad Propositum",
-            "publisher": "Efrén Martinez",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f198db580a065a3ab31318826",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/41XpGxpC5Hhi7jbLZh6ajA"
-        },
-        {
-            "rank": 54,
-            "spotify_id": "1iH3mNKho9zFwYOLV9rjWw",
-            "name": "La Lupa",
-            "publisher": "Laura Anzola",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1ffd603f3789774db27697bc0f",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/1iH3mNKho9zFwYOLV9rjWw"
-        },
-        {
-            "rank": 55,
-            "spotify_id": "4lZFqpHxdc9sCourU6AMAf",
-            "name": "Espíritu Estoico",
-            "publisher": "Espíritu Estoico",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f5da93614bd281c2a32391f8c",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/4lZFqpHxdc9sCourU6AMAf"
-        },
-        {
-            "rank": 56,
-            "spotify_id": "2xV7Vx7NQgAC8vMt2vZNnE",
-            "name": "El Podcast de Marian Rojas Estapé",
-            "publisher": "Marian Rojas Estapé",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f6dcd88eac55f32ef2bea3a32",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/2xV7Vx7NQgAC8vMt2vZNnE"
-        },
-        {
-            "rank": 57,
-            "spotify_id": "0vWFHEjOUldjynVdFiAJDG",
-            "name": "Relatos Ñeros",
-            "publisher": "La Chucua Récords | Genuina Media",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fed0468665c58b76a5242446c",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/0vWFHEjOUldjynVdFiAJDG"
-        },
-        {
-            "rank": 58,
-            "spotify_id": "3xli2wpglzwDNT20k4TGtL",
-            "name": "Geniales y Mayores que yo",
-            "publisher": "Caracol Pódcast",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f4bd9ecced52b9e48c20ec571",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/3xli2wpglzwDNT20k4TGtL"
-        },
-        {
-            "rank": 59,
-            "spotify_id": "6Y0jzPbjaj0jXmkfIFfDtP",
-            "name": "BRIAN TRACY. SEMINARIO FENIX",
-            "publisher": "Alberteodosio",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fdede01e5e680ab40fc8865a4",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/6Y0jzPbjaj0jXmkfIFfDtP"
-        },
-        {
-            "rank": 60,
-            "spotify_id": "7kjGVVtrV57zfHbcw8YDto",
-            "name": "El Pulso del Fútbol",
-            "publisher": "Caracol Pódcast",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fba9ec3dfaf6cbf2c08680e29",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/7kjGVVtrV57zfHbcw8YDto"
-        },
-        {
-            "rank": 61,
-            "spotify_id": "033wRYQoYpmk8IiKx1Dkwf",
-            "name": "Este podcast no vende",
-            "publisher": "Pirry",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f3286c182d4ef735253712197",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/033wRYQoYpmk8IiKx1Dkwf"
-        },
-        {
-            "rank": 62,
-            "spotify_id": "3wG7ukuowaR4cdRMjQrjnY",
-            "name": "Daly Salermo",
-            "publisher": "Daly Salermo",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f2452b0f4b10cd4dacb6dd19f",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/3wG7ukuowaR4cdRMjQrjnY"
-        },
-        {
-            "rank": 63,
-            "spotify_id": "3BRg4C52ElAD0nkGWnWLZY",
-            "name": "El Cartel de La Mega",
-            "publisher": "RCN Radio",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fc896bf1d590310fc8b0e5784",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/3BRg4C52ElAD0nkGWnWLZY"
-        },
-        {
-            "rank": 64,
-            "spotify_id": "63rOYwCdQeZnZRK4uuapr0",
-            "name": "Foro De Crecimiento | Pablo Chalakani",
-            "publisher": "Pablo Chalakani",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1ffca29b787ff877d4940fa6c6",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/63rOYwCdQeZnZRK4uuapr0"
-        },
-        {
-            "rank": 65,
+            "rank": 52,
             "spotify_id": "2ZfXmbzilttkGkulk1ORnt",
             "name": "Tengo un Plan",
             "publisher": "Sergio Beguería y Juan Domínguez",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fe7136a66e1184a1fc5011fe6",
-            "rank_move": "UNCHANGED",
+            "rank_move": "DOWN",
             "url": "https:\/\/open.spotify.com\/show\/2ZfXmbzilttkGkulk1ORnt"
         },
         {
-            "rank": 66,
-            "spotify_id": "7GbKJtiBJloLRRjx4B7EcD",
-            "name": "Santo Rosario - Rezo Diario",
-            "publisher": "Diócesis de Escuintla - Guatemala",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f7d3198a7f38ff922585fe801",
+            "rank": 53,
+            "spotify_id": "1iH3mNKho9zFwYOLV9rjWw",
+            "name": "La Lupa",
+            "publisher": "Laura Anzola",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1ffd603f3789774db27697bc0f",
             "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/7GbKJtiBJloLRRjx4B7EcD"
+            "url": "https:\/\/open.spotify.com\/show\/1iH3mNKho9zFwYOLV9rjWw"
         },
         {
-            "rank": 67,
-            "spotify_id": "2zI3XiSjh5YJar9KFTrIgN",
-            "name": "CONEXIÓN ENIGMA",
-            "publisher": "CONEXIÓN ENIGMA",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f78b68a4ce08855fd18806bf5",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/2zI3XiSjh5YJar9KFTrIgN"
-        },
-        {
-            "rank": 68,
-            "spotify_id": "2tKOuyn1Ul1Qd9w2L0ayX5",
-            "name": "SerialMente | Asesinos en Serie",
-            "publisher": "PIA Podcast \/ Sebastián Camelo",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f68a375fa72efede11abe3fbb",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/2tKOuyn1Ul1Qd9w2L0ayX5"
-        },
-        {
-            "rank": 69,
-            "spotify_id": "4KDFmzgiEcL1bmJH6Q3hLW",
-            "name": "Saber Comunicar",
-            "publisher": "Fernando Miralles",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f6bd05de650bab853747ebc5f",
+            "rank": 54,
+            "spotify_id": "4nRtbTtLmioX7jYFcjR5Pj",
+            "name": "Mis Propias Finanzas",
+            "publisher": "Juan Pablo Zuluaga",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fddbb84323d5b28e414b85091",
             "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/4KDFmzgiEcL1bmJH6Q3hLW"
+            "url": "https:\/\/open.spotify.com\/show\/4nRtbTtLmioX7jYFcjR5Pj"
         },
         {
-            "rank": 70,
-            "spotify_id": "4zeEGCXH4Au4WdokuRvJHf",
-            "name": "Chisme Corporativo",
-            "publisher": "Macarena Riva y Rosalaura López",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fe3d04e485e48d05509219146",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/4zeEGCXH4Au4WdokuRvJHf"
-        },
-        {
-            "rank": 71,
+            "rank": 55,
             "spotify_id": "2tYCjO80ZUSA8nbClSrGkY",
             "name": "Mis Traumas, Mis Chistes",
             "publisher": "Stephany Leal and Fernanda Lozano | Sonoro",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fbf8c7ba791ad9da844e4b9d4",
-            "rank_move": "UP",
+            "rank_move": "DOWN",
             "url": "https:\/\/open.spotify.com\/show\/2tYCjO80ZUSA8nbClSrGkY"
         },
         {
-            "rank": 72,
-            "spotify_id": "2M1nSNd0LKfg2vyNBZhgOn",
-            "name": "Más que adictos",
-            "publisher": "Diego Álvarez",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fc9318a0bf9c04ea26c3dd173",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/2M1nSNd0LKfg2vyNBZhgOn"
-        },
-        {
-            "rank": 73,
-            "spotify_id": "07H1d02UXSbKcQ8NQPn9h7",
-            "name": "Presunto",
-            "publisher": "Presunto",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f1a4b86dfab6db62ea6d30397",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/07H1d02UXSbKcQ8NQPn9h7"
-        },
-        {
-            "rank": 74,
-            "spotify_id": "1Rd6XqtD2PNcs599lgCaqn",
-            "name": "Las Desencantadas",
-            "publisher": "Lily Garcia",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f5bc378121c1ab2a4beb4cac2",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/1Rd6XqtD2PNcs599lgCaqn"
-        },
-        {
-            "rank": 75,
-            "spotify_id": "1w9Me4TrRiDOuK3OsJ2VAW",
-            "name": "Durmiendo",
-            "publisher": "Dudas Media",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f363a6422b9b1def4c30c3b3c",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/1w9Me4TrRiDOuK3OsJ2VAW"
-        },
-        {
-            "rank": 76,
-            "spotify_id": "3HdkzPhYssppwJEjArV3Az",
-            "name": "Tercera Vuelta",
-            "publisher": "El Locutorio",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f85c9dd1468476ba33d95f0e9",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/3HdkzPhYssppwJEjArV3Az"
-        },
-        {
-            "rank": 77,
-            "spotify_id": "31lq38IV19Mm0Wfj4YtBuK",
-            "name": "ATERRADOS",
-            "publisher": "Jason Thores",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f3bdda08874bd20ecf79029a1",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/31lq38IV19Mm0Wfj4YtBuK"
-        },
-        {
-            "rank": 78,
-            "spotify_id": "3j8c7Q59ilDYuJeIme0M6X",
-            "name": "Motivación para la vida",
-            "publisher": "Chispa Motivation Español",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f1f8d98b679f828f62c052127",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/3j8c7Q59ilDYuJeIme0M6X"
-        },
-        {
-            "rank": 79,
-            "spotify_id": "0sGGLIDnnijRPLef7InllD",
-            "name": "Entiende Tu Mente",
-            "publisher": "Molo Cebrián",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f5c40535d8ea71d28b4286111",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/0sGGLIDnnijRPLef7InllD"
-        },
-        {
-            "rank": 80,
-            "spotify_id": "19a2vdWkYSJKnqDwl1UKXt",
-            "name": "Peláez y de Francisco",
-            "publisher": "pelaez y de Francisco",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fe0efabe2c567bb7c38655a46",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/19a2vdWkYSJKnqDwl1UKXt"
-        },
-        {
-            "rank": 81,
+            "rank": 56,
             "spotify_id": "0J74zdNxUVWHq4gLoq8MqX",
             "name": "Radio Ambulante",
             "publisher": "My Cultura, Radio Ambulante and iHeartPodcasts",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f1b0770711d6778f62714ec83",
-            "rank_move": "DOWN",
+            "rank_move": "UP",
             "url": "https:\/\/open.spotify.com\/show\/0J74zdNxUVWHq4gLoq8MqX"
         },
         {
-            "rank": 82,
-            "spotify_id": "1xN5uK4wAhssG4ZloUGitE",
-            "name": "VAE Podcast",
-            "publisher": "Volviendo a la Esencia",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f2fc8715f66fa0800d1ff370f",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/1xN5uK4wAhssG4ZloUGitE"
-        },
-        {
-            "rank": 83,
-            "spotify_id": "7DResZLoGrREBpM4j8FuDd",
-            "name": "Abierta Mente",
-            "publisher": "Ana Isabel Santa María",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fac078a7c7aceea54139a8f9a",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/7DResZLoGrREBpM4j8FuDd"
-        },
-        {
-            "rank": 84,
-            "spotify_id": "5kopp3hL0uRgLZUh7nOvia",
-            "name": "Las Alucines",
-            "publisher": "Lupita Villalobos y Kass Quezada (Quesito)",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f535eb83c73e6b7750bd8817b",
+            "rank": 57,
+            "spotify_id": "4lZFqpHxdc9sCourU6AMAf",
+            "name": "Espíritu Estoico",
+            "publisher": "Espíritu Estoico",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f5ae38758563d5a022e02de69",
             "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/5kopp3hL0uRgLZUh7nOvia"
+            "url": "https:\/\/open.spotify.com\/show\/4lZFqpHxdc9sCourU6AMAf"
         },
         {
-            "rank": 85,
-            "spotify_id": "3UtuoTVTzBUQqIblcSMv6p",
-            "name": "Estoicismo para Ganadores",
-            "publisher": "Estoicismo Para Ganadores",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fa8b5ff1ed4cd7ee88d55ffcc",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/3UtuoTVTzBUQqIblcSMv6p"
-        },
-        {
-            "rank": 86,
-            "spotify_id": "3urn8XzLDrnfQ2gxixlTD3",
-            "name": "Dos Cabras Locas",
-            "publisher": "Dos cabras locas",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fbc3941aa187fc0a216297643",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/3urn8XzLDrnfQ2gxixlTD3"
-        },
-        {
-            "rank": 87,
-            "spotify_id": "6KN6S5gooi6unJL8bWmSzI",
-            "name": "CRIMINALISTA NOCTURNO",
-            "publisher": "E. Castelar",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f570d4b071449efe35deb3784",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/6KN6S5gooi6unJL8bWmSzI"
-        },
-        {
-            "rank": 88,
-            "spotify_id": "7kz871KX6zImeIPeAsofFQ",
-            "name": "Vida Plena ",
-            "publisher": "RaulNetworker",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f9267c2ab94a38518b373c304",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/7kz871KX6zImeIPeAsofFQ"
-        },
-        {
-            "rank": 89,
-            "spotify_id": "4AFwNrGj3qRBHiKFarFKwR",
-            "name": "Con Altura Podcast",
-            "publisher": "Sebastián Pérez",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f77387fe98e24116690ed563e",
+            "rank": 58,
+            "spotify_id": "0vWFHEjOUldjynVdFiAJDG",
+            "name": "Relatos Ñeros",
+            "publisher": "La Chucua Récords | Genuina Media",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fed0468665c58b76a5242446c",
             "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/4AFwNrGj3qRBHiKFarFKwR"
+            "url": "https:\/\/open.spotify.com\/show\/0vWFHEjOUldjynVdFiAJDG"
         },
         {
-            "rank": 90,
-            "spotify_id": "3CU1UE4s9Cnme0rHhYH6pu",
-            "name": "Presunta Pola",
-            "publisher": "Sebastián Camelo",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f85c79bd0bd26dce974b55c1a",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/3CU1UE4s9Cnme0rHhYH6pu"
-        },
-        {
-            "rank": 91,
-            "spotify_id": "07rXxtOlzNI0NuB8vpAgvE",
-            "name": "BBVA Aprendemos juntos",
-            "publisher": "BBVA Podcast",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fa607dfb82ca7b301e4bfd7a3",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/07rXxtOlzNI0NuB8vpAgvE"
-        },
-        {
-            "rank": 92,
-            "spotify_id": "4pA9GNFiBEKdCPJonz06X1",
-            "name": "Historia Criminal",
-            "publisher": "Historia Criminal",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fee3040b4b188ada94055a798",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/4pA9GNFiBEKdCPJonz06X1"
-        },
-        {
-            "rank": 93,
-            "spotify_id": "5T6nge86sgwXW0TnpNoLTY",
-            "name": "Tu Desarrollo Personal",
-            "publisher": "Mente_Presocratica",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1ff65ba1309f89e91fcbff54c0",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/5T6nge86sgwXW0TnpNoLTY"
-        },
-        {
-            "rank": 94,
-            "spotify_id": "0ob7mZuMUpwT0tMHMLXfoc",
-            "name": "Las Damitas Histeria",
-            "publisher": "Las Damitas Histeria",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f93dcd4351288adae3b3cf25d",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/0ob7mZuMUpwT0tMHMLXfoc"
-        },
-        {
-            "rank": 95,
-            "spotify_id": "2wnOBwp6zC4az25sz9nJpe",
-            "name": "Perros Criollos Oficial",
-            "publisher": "Perros Criollos",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f42ca3736c6f3fd1895790248",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/2wnOBwp6zC4az25sz9nJpe"
-        },
-        {
-            "rank": 96,
-            "spotify_id": "53bnc3AHyqknK2JMAHo9br",
-            "name": "LA MAGIA DEL CAOS con Aislinn Derbez",
-            "publisher": "Aislinn Derbez",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fe7818340ce48aa525a578871",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/53bnc3AHyqknK2JMAHo9br"
-        },
-        {
-            "rank": 97,
-            "spotify_id": "49SNUyNfzb2OTr0jhb9sII",
-            "name": "Historias de MundoCreepy",
-            "publisher": "Sonoro",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f370c819c63da7e1a5bdace57",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/49SNUyNfzb2OTr0jhb9sII"
-        },
-        {
-            "rank": 98,
-            "spotify_id": "1nczRccwmGR90tA5HvgUKP",
-            "name": "Atemporal con Andrés Acevedo",
-            "publisher": "Andrés Acevedo",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fa47e1c20ece7999bb5c2be93",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/1nczRccwmGR90tA5HvgUKP"
-        },
-        {
-            "rank": 99,
-            "spotify_id": "5MMXYd6TL3cTtbHNnCdeLG",
-            "name": "El Topo",
-            "publisher": "La No Ficción ",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1ff5f8c2b9450fcad27be0d729",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/5MMXYd6TL3cTtbHNnCdeLG"
-        },
-        {
-            "rank": 100,
-            "spotify_id": "0Hd8EoMBpl8EwKgzWycBFX",
-            "name": "Influence Yourself",
-            "publisher": "Influence Yourself",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f252b4ca8c5938b341ecf3363",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/0Hd8EoMBpl8EwKgzWycBFX"
-        },
-        {
-            "rank": 101,
+            "rank": 59,
             "spotify_id": "5hiPtlvSfLe4S9S5S9RCwG",
             "name": "WORLDCAST",
             "publisher": "Pedro Buerbaum",
@@ -916,31 +538,409 @@
             "url": "https:\/\/open.spotify.com\/show\/5hiPtlvSfLe4S9S5S9RCwG"
         },
         {
+            "rank": 60,
+            "spotify_id": "7kjGVVtrV57zfHbcw8YDto",
+            "name": "El Pulso del Fútbol",
+            "publisher": "Caracol Pódcast",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fba9ec3dfaf6cbf2c08680e29",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/7kjGVVtrV57zfHbcw8YDto"
+        },
+        {
+            "rank": 61,
+            "spotify_id": "4zeEGCXH4Au4WdokuRvJHf",
+            "name": "Chisme Corporativo",
+            "publisher": "Macarena Riva y Rosalaura López",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fe3d04e485e48d05509219146",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/4zeEGCXH4Au4WdokuRvJHf"
+        },
+        {
+            "rank": 62,
+            "spotify_id": "2xV7Vx7NQgAC8vMt2vZNnE",
+            "name": "El Podcast de Marian Rojas Estapé",
+            "publisher": "Marian Rojas Estapé",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f6dcd88eac55f32ef2bea3a32",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/2xV7Vx7NQgAC8vMt2vZNnE"
+        },
+        {
+            "rank": 63,
+            "spotify_id": "2zI3XiSjh5YJar9KFTrIgN",
+            "name": "CONEXIÓN ENIGMA",
+            "publisher": "CONEXIÓN ENIGMA",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f78b68a4ce08855fd18806bf5",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/2zI3XiSjh5YJar9KFTrIgN"
+        },
+        {
+            "rank": 64,
+            "spotify_id": "7MAGHGjX5mMVj7mrOASpNq",
+            "name": "La Verdad del Ser",
+            "publisher": "Maria Celeste",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f9b6cc649eafa0c187247e5bc",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/7MAGHGjX5mMVj7mrOASpNq"
+        },
+        {
+            "rank": 65,
+            "spotify_id": "3BRg4C52ElAD0nkGWnWLZY",
+            "name": "El Cartel de La Mega",
+            "publisher": "RCN Radio",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fc896bf1d590310fc8b0e5784",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/3BRg4C52ElAD0nkGWnWLZY"
+        },
+        {
+            "rank": 66,
+            "spotify_id": "63rOYwCdQeZnZRK4uuapr0",
+            "name": "Foro De Crecimiento | Pablo Chalakani",
+            "publisher": "Pablo Chalakani",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1ffca29b787ff877d4940fa6c6",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/63rOYwCdQeZnZRK4uuapr0"
+        },
+        {
+            "rank": 67,
+            "spotify_id": "2tKOuyn1Ul1Qd9w2L0ayX5",
+            "name": "SerialMente | Asesinos en Serie",
+            "publisher": "PIA Podcast \/ Sebastián Camelo",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f68a375fa72efede11abe3fbb",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/2tKOuyn1Ul1Qd9w2L0ayX5"
+        },
+        {
+            "rank": 68,
+            "spotify_id": "6Y0jzPbjaj0jXmkfIFfDtP",
+            "name": "BRIAN TRACY. SEMINARIO FENIX",
+            "publisher": "Alberteodosio",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fdede01e5e680ab40fc8865a4",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/6Y0jzPbjaj0jXmkfIFfDtP"
+        },
+        {
+            "rank": 69,
+            "spotify_id": "7GbKJtiBJloLRRjx4B7EcD",
+            "name": "Santo Rosario - Rezo Diario",
+            "publisher": "Diócesis de Escuintla - Guatemala",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f7d3198a7f38ff922585fe801",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/7GbKJtiBJloLRRjx4B7EcD"
+        },
+        {
+            "rank": 70,
+            "spotify_id": "7DResZLoGrREBpM4j8FuDd",
+            "name": "Abierta Mente",
+            "publisher": "Ana Isabel Santa María",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fac078a7c7aceea54139a8f9a",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/7DResZLoGrREBpM4j8FuDd"
+        },
+        {
+            "rank": 71,
+            "spotify_id": "1nczRccwmGR90tA5HvgUKP",
+            "name": "Atemporal con Andrés Acevedo",
+            "publisher": "Andrés Acevedo",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fa47e1c20ece7999bb5c2be93",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/1nczRccwmGR90tA5HvgUKP"
+        },
+        {
+            "rank": 72,
+            "spotify_id": "2M1nSNd0LKfg2vyNBZhgOn",
+            "name": "Más que adictos",
+            "publisher": "Diego Álvarez",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fc9318a0bf9c04ea26c3dd173",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/2M1nSNd0LKfg2vyNBZhgOn"
+        },
+        {
+            "rank": 73,
+            "spotify_id": "07rXxtOlzNI0NuB8vpAgvE",
+            "name": "BBVA Aprendemos juntos",
+            "publisher": "BBVA Podcast",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fa607dfb82ca7b301e4bfd7a3",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/07rXxtOlzNI0NuB8vpAgvE"
+        },
+        {
+            "rank": 74,
+            "spotify_id": "3urn8XzLDrnfQ2gxixlTD3",
+            "name": "Dos Cabras Locas",
+            "publisher": "Dos cabras locas",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fbc3941aa187fc0a216297643",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/3urn8XzLDrnfQ2gxixlTD3"
+        },
+        {
+            "rank": 75,
+            "spotify_id": "19a2vdWkYSJKnqDwl1UKXt",
+            "name": "Peláez y de Francisco",
+            "publisher": "pelaez y de Francisco",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fe0efabe2c567bb7c38655a46",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/19a2vdWkYSJKnqDwl1UKXt"
+        },
+        {
+            "rank": 76,
+            "spotify_id": "3QPjhwLS7PpT9PN87ImzJx",
+            "name": "📚ESCUCHA TU SUBCONSCIENTE ",
+            "publisher": "ESCUCHA TU SUBCONSCIENTE",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fd6cbb6d36accefb544bf4362",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/3QPjhwLS7PpT9PN87ImzJx"
+        },
+        {
+            "rank": 77,
+            "spotify_id": "033wRYQoYpmk8IiKx1Dkwf",
+            "name": "Este podcast no vende",
+            "publisher": "Pirry",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f3286c182d4ef735253712197",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/033wRYQoYpmk8IiKx1Dkwf"
+        },
+        {
+            "rank": 78,
+            "spotify_id": "5kopp3hL0uRgLZUh7nOvia",
+            "name": "Las Alucines",
+            "publisher": "Lupita Villalobos y Kass Quezada (Quesito)",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f535eb83c73e6b7750bd8817b",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/5kopp3hL0uRgLZUh7nOvia"
+        },
+        {
+            "rank": 79,
+            "spotify_id": "7kz871KX6zImeIPeAsofFQ",
+            "name": "Vida Plena ",
+            "publisher": "RaulNetworker",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f9267c2ab94a38518b373c304",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/7kz871KX6zImeIPeAsofFQ"
+        },
+        {
+            "rank": 80,
+            "spotify_id": "3j8c7Q59ilDYuJeIme0M6X",
+            "name": "Motivación para la vida",
+            "publisher": "Chispa Motivation Español",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f1f8d98b679f828f62c052127",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/3j8c7Q59ilDYuJeIme0M6X"
+        },
+        {
+            "rank": 81,
+            "spotify_id": "1w9Me4TrRiDOuK3OsJ2VAW",
+            "name": "Durmiendo",
+            "publisher": "Dudas Media",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f363a6422b9b1def4c30c3b3c",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/1w9Me4TrRiDOuK3OsJ2VAW"
+        },
+        {
+            "rank": 82,
+            "spotify_id": "3HdkzPhYssppwJEjArV3Az",
+            "name": "Tercera Vuelta",
+            "publisher": "El Locutorio",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f85c9dd1468476ba33d95f0e9",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/3HdkzPhYssppwJEjArV3Az"
+        },
+        {
+            "rank": 83,
+            "spotify_id": "5T6nge86sgwXW0TnpNoLTY",
+            "name": "Tu Desarrollo Personal",
+            "publisher": "Mente_Presocratica",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1ff65ba1309f89e91fcbff54c0",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/5T6nge86sgwXW0TnpNoLTY"
+        },
+        {
+            "rank": 84,
+            "spotify_id": "0sGGLIDnnijRPLef7InllD",
+            "name": "Entiende Tu Mente",
+            "publisher": "Molo Cebrián",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f5c40535d8ea71d28b4286111",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/0sGGLIDnnijRPLef7InllD"
+        },
+        {
+            "rank": 85,
+            "spotify_id": "0Axsz7z8PrkX9jWRIqWwlJ",
+            "name": "Boss Tank: Ser tu propio jefe",
+            "publisher": "ÁLVARO RODRÍGUEZ",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fc304e43f2a7ea75eb634a1de",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/0Axsz7z8PrkX9jWRIqWwlJ"
+        },
+        {
+            "rank": 86,
+            "spotify_id": "3UtuoTVTzBUQqIblcSMv6p",
+            "name": "Estoicismo para Ganadores",
+            "publisher": "Estoicismo Para Ganadores",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fa8b5ff1ed4cd7ee88d55ffcc",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/3UtuoTVTzBUQqIblcSMv6p"
+        },
+        {
+            "rank": 87,
+            "spotify_id": "033vvacF5Vh0VmspKqZtot",
+            "name": "Causa de Muerte: Podcast Forense",
+            "publisher": "Giovanni Galindo &amp; Fragore Studio",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f40d484d3df6904ef96c3646e",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/033vvacF5Vh0VmspKqZtot"
+        },
+        {
+            "rank": 88,
+            "spotify_id": "3xli2wpglzwDNT20k4TGtL",
+            "name": "Geniales y Mayores que yo",
+            "publisher": "Caracol Pódcast",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f4bd9ecced52b9e48c20ec571",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/3xli2wpglzwDNT20k4TGtL"
+        },
+        {
+            "rank": 89,
+            "spotify_id": "7CzHDusNXRICUXuefIXbxd",
+            "name": "DW Actualidad en análisis",
+            "publisher": "DW",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f5cce0f2aab29d084112d73af",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/7CzHDusNXRICUXuefIXbxd"
+        },
+        {
+            "rank": 90,
+            "spotify_id": "2wnOBwp6zC4az25sz9nJpe",
+            "name": "Perros Criollos Oficial",
+            "publisher": "Perros Criollos",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f42ca3736c6f3fd1895790248",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/2wnOBwp6zC4az25sz9nJpe"
+        },
+        {
+            "rank": 91,
+            "spotify_id": "0ob7mZuMUpwT0tMHMLXfoc",
+            "name": "Las Damitas Histeria",
+            "publisher": "Las Damitas Histeria",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f93dcd4351288adae3b3cf25d",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/0ob7mZuMUpwT0tMHMLXfoc"
+        },
+        {
+            "rank": 92,
+            "spotify_id": "4pA9GNFiBEKdCPJonz06X1",
+            "name": "Historia Criminal",
+            "publisher": "Historia Criminal",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fee3040b4b188ada94055a798",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/4pA9GNFiBEKdCPJonz06X1"
+        },
+        {
+            "rank": 93,
+            "spotify_id": "31lq38IV19Mm0Wfj4YtBuK",
+            "name": "ATERRADOS",
+            "publisher": "Jason Thores",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f3bdda08874bd20ecf79029a1",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/31lq38IV19Mm0Wfj4YtBuK"
+        },
+        {
+            "rank": 94,
+            "spotify_id": "3OqQvVfyrAvbz5nbEPgObq",
+            "name": "Grandes Infelices",
+            "publisher": "Blackie Books",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1ff356648de71389efdb0a5d82",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/3OqQvVfyrAvbz5nbEPgObq"
+        },
+        {
+            "rank": 95,
+            "spotify_id": "6KN6S5gooi6unJL8bWmSzI",
+            "name": "CRIMINALISTA NOCTURNO",
+            "publisher": "E. Castelar",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f570d4b071449efe35deb3784",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/6KN6S5gooi6unJL8bWmSzI"
+        },
+        {
+            "rank": 96,
+            "spotify_id": "3oHILWpLvqwNMCFDLI6kTb",
+            "name": "Se Regalan Sustos",
+            "publisher": "Extra Anormal podcast",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f093978c5a3c8958d185f97cd",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/3oHILWpLvqwNMCFDLI6kTb"
+        },
+        {
+            "rank": 97,
+            "spotify_id": "2Z9zf2OBD9hRcBvd8CCEPU",
+            "name": "Jaime Bayly",
+            "publisher": "Jaime Bayly",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fc999074541b9c2783e8e7a8b",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/2Z9zf2OBD9hRcBvd8CCEPU"
+        },
+        {
+            "rank": 98,
+            "spotify_id": "5MMXYd6TL3cTtbHNnCdeLG",
+            "name": "El Topo",
+            "publisher": "La No Ficción ",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1ff5f8c2b9450fcad27be0d729",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/5MMXYd6TL3cTtbHNnCdeLG"
+        },
+        {
+            "rank": 99,
+            "spotify_id": "3CU1UE4s9Cnme0rHhYH6pu",
+            "name": "Presunta Pola",
+            "publisher": "Sebastián Camelo",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f85c79bd0bd26dce974b55c1a",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/3CU1UE4s9Cnme0rHhYH6pu"
+        },
+        {
+            "rank": 100,
+            "spotify_id": "1xN5uK4wAhssG4ZloUGitE",
+            "name": "VAE Podcast",
+            "publisher": "Volviendo a la Esencia",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f2fc8715f66fa0800d1ff370f",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/1xN5uK4wAhssG4ZloUGitE"
+        },
+        {
+            "rank": 101,
+            "spotify_id": "3wG7ukuowaR4cdRMjQrjnY",
+            "name": "Daly Salermo",
+            "publisher": "Daly Salermo",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f2452b0f4b10cd4dacb6dd19f",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/3wG7ukuowaR4cdRMjQrjnY"
+        },
+        {
             "rank": 102,
             "spotify_id": "0pUuC7dVTZKCBXl0XLZBsj",
             "name": "No Me Puedes Lastimar [Can't Hurt Me] AUDIOLIBRO",
             "publisher": "Mundo Lectores",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f4609369b6a4cf57a47d512a0",
-            "rank_move": "UP",
+            "rank_move": "DOWN",
             "url": "https:\/\/open.spotify.com\/show\/0pUuC7dVTZKCBXl0XLZBsj"
         },
         {
             "rank": 103,
-            "spotify_id": "58Orrcm3l5bBYvOMyjYvK4",
-            "name": "LETRAS CON SONIDO",
-            "publisher": "cristian vigueras",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f127f9274b281a80b325662f1",
+            "spotify_id": "3skDSKvB1twtAxgLh0645y",
+            "name": "El hilo",
+            "publisher": "My Cultura and iHeartPodcasts",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fb34d1f3c49dbd604425b04d2",
             "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/58Orrcm3l5bBYvOMyjYvK4"
+            "url": "https:\/\/open.spotify.com\/show\/3skDSKvB1twtAxgLh0645y"
         },
         {
             "rank": 104,
-            "spotify_id": "3oHILWpLvqwNMCFDLI6kTb",
-            "name": "Se Regalan Sustos",
-            "publisher": "Extra Anormal podcast",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f093978c5a3c8958d185f97cd",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/3oHILWpLvqwNMCFDLI6kTb"
+            "spotify_id": "4KDFmzgiEcL1bmJH6Q3hLW",
+            "name": "Saber Comunicar",
+            "publisher": "Fernando Miralles",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f6bd05de650bab853747ebc5f",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/4KDFmzgiEcL1bmJH6Q3hLW"
         },
         {
             "rank": 105,
@@ -953,618 +953,6 @@
         },
         {
             "rank": 106,
-            "spotify_id": "1aJnpwQts5XyorDD95bXox",
-            "name": "Vsesenta Podcast",
-            "publisher": "Remember Productions",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f533befb9ca551b4145cab107",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/1aJnpwQts5XyorDD95bXox"
-        },
-        {
-            "rank": 107,
-            "spotify_id": "1mPSJ04ReWgi2zB0oWRDhT",
-            "name": "Sabiduría Bíblica",
-            "publisher": " Elizardo Romero Martinez",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1ffd1a171ec00fc415ff63670d",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/1mPSJ04ReWgi2zB0oWRDhT"
-        },
-        {
-            "rank": 108,
-            "spotify_id": "2Z9zf2OBD9hRcBvd8CCEPU",
-            "name": "Jaime Bayly",
-            "publisher": "Jaime Bayly",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fc999074541b9c2783e8e7a8b",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/2Z9zf2OBD9hRcBvd8CCEPU"
-        },
-        {
-            "rank": 109,
-            "spotify_id": "4u1nTj7G2CaNT7pZCntXvr",
-            "name": "Historia en Podcast",
-            "publisher": "Lucas Botta",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f7cae42c52a4b1385d16f7540",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/4u1nTj7G2CaNT7pZCntXvr"
-        },
-        {
-            "rank": 110,
-            "spotify_id": "1FrPINSqACfF47qlxMHbaG",
-            "name": "Rosario del Día",
-            "publisher": "JuanDiegoNetwork.com y Meditación del Día",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fef508eb8ea90d2189b0a2c66",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/1FrPINSqACfF47qlxMHbaG"
-        },
-        {
-            "rank": 111,
-            "spotify_id": "1hB0oD3zV1JK9TikWltlkE",
-            "name": "Desarrollo Personal ",
-            "publisher": "antonio_h.m",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f7c40430272b7a24692f2a078",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/1hB0oD3zV1JK9TikWltlkE"
-        },
-        {
-            "rank": 112,
-            "spotify_id": "7weBcuWGBuSzKzgIoZwEyK",
-            "name": "Yo, Camilo",
-            "publisher": "Camilo Barberi y Bielo Media",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fec1a2a5e7357a0d74582dd71",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/7weBcuWGBuSzKzgIoZwEyK"
-        },
-        {
-            "rank": 113,
-            "spotify_id": "3a36uQneX1imRuopaknUqw",
-            "name": "La Cotorrisa",
-            "publisher": "La Cotorrisa Podcast",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1ff5ce9aa331e821df9dff6246",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/3a36uQneX1imRuopaknUqw"
-        },
-        {
-            "rank": 114,
-            "spotify_id": "0Axsz7z8PrkX9jWRIqWwlJ",
-            "name": "Boss Tank: Ser tu propio jefe",
-            "publisher": "ÁLVARO RODRÍGUEZ",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fc304e43f2a7ea75eb634a1de",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/0Axsz7z8PrkX9jWRIqWwlJ"
-        },
-        {
-            "rank": 115,
-            "spotify_id": "6wF969GfLUfypoKaicH5gr",
-            "name": "Leyendas Legendarias",
-            "publisher": "Sonoro | SINCO",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fa0239a87d722cc9318898ab3",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/6wF969GfLUfypoKaicH5gr"
-        },
-        {
-            "rank": 116,
-            "spotify_id": "1ebm9EOfXkWTwzA5aHtvKG",
-            "name": "Daniel Novelo| Casos reales ",
-            "publisher": "Daniel Novelo",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f24b0af68d44d9dacccdc5784",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/1ebm9EOfXkWTwzA5aHtvKG"
-        },
-        {
-            "rank": 117,
-            "spotify_id": "1gcaZWGO8ju8zXXMhqHd6g",
-            "name": "La Habitación Invisible",
-            "publisher": "Marta Beltrán",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f5451ffee5f2fc95acec33d98",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/1gcaZWGO8ju8zXXMhqHd6g"
-        },
-        {
-            "rank": 118,
-            "spotify_id": "7lNjKpImWX5e85BuH0tPs6",
-            "name": "Pablo Gómez Psiquiatra",
-            "publisher": "Pablo Gómez Psiquiatra",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fde16f29b07d867cd88baee75",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/7lNjKpImWX5e85BuH0tPs6"
-        },
-        {
-            "rank": 119,
-            "spotify_id": "7CzHDusNXRICUXuefIXbxd",
-            "name": "DW Actualidad en análisis",
-            "publisher": "DW",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f5cce0f2aab29d084112d73af",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/7CzHDusNXRICUXuefIXbxd"
-        },
-        {
-            "rank": 120,
-            "spotify_id": "3GRJb6bwpKEbOOG7QFjRqS",
-            "name": "Listening Time: English Practice",
-            "publisher": "Sonoro |  Conner Pe",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f348fe426b8a23623effb434b",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/3GRJb6bwpKEbOOG7QFjRqS"
-        },
-        {
-            "rank": 121,
-            "spotify_id": "5o28OwdKFZMpxDEAzpFZH2",
-            "name": "CONSULTORIO DE FLOREZ",
-            "publisher": "DOCTORA FLÓREZ",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f4223f8d3b5fb0b4723c04fec",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/5o28OwdKFZMpxDEAzpFZH2"
-        },
-        {
-            "rank": 122,
-            "spotify_id": "1nFuHtanEjWSJPemOIX2KP",
-            "name": "El Club del Caos",
-            "publisher": "El Club del Caos",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fcdabcd0a005378168e0481e1",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/1nFuHtanEjWSJPemOIX2KP"
-        },
-        {
-            "rank": 123,
-            "spotify_id": "1xUBqskUo0Irpl569NGiet",
-            "name": "Autoestima para tu vida",
-            "publisher": "María José Álvarez Betín",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fb0cbe04d08a241ca07cc8c43",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/1xUBqskUo0Irpl569NGiet"
-        },
-        {
-            "rank": 124,
-            "spotify_id": "048nMXlfLoBewmcckhDoFn",
-            "name": "La buena platica",
-            "publisher": "Rodrigo Macías",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f5b621d9a6fef33c6b2cfbaad",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/048nMXlfLoBewmcckhDoFn"
-        },
-        {
-            "rank": 125,
-            "spotify_id": "1Szfa0HVxs7NC7FIMBbudY",
-            "name": "EXPEDIENTES PARANORMALES de Esteban Cruz, @Cruzescribiente",
-            "publisher": "Cruz Escribiente",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f7a48a1aa0e2f717e117775a0",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/1Szfa0HVxs7NC7FIMBbudY"
-        },
-        {
-            "rank": 126,
-            "spotify_id": "3skDSKvB1twtAxgLh0645y",
-            "name": "El hilo",
-            "publisher": "My Cultura and iHeartPodcasts",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fb34d1f3c49dbd604425b04d2",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/3skDSKvB1twtAxgLh0645y"
-        },
-        {
-            "rank": 127,
-            "spotify_id": "2OEFZFryjrsyWVTBQX0QXT",
-            "name": "El Corazón de la Estrategia",
-            "publisher": "El Corazón De La Estrategia",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f8f59e6232b777fe54c5bd4d2",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/2OEFZFryjrsyWVTBQX0QXT"
-        },
-        {
-            "rank": 128,
-            "spotify_id": "0yxMZ0GxeQlACcP08H3TBN",
-            "name": "Desafíate Podcast",
-            "publisher": "Desafiate Podcast",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f86eb1986c6b61e629e9ed024",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/0yxMZ0GxeQlACcP08H3TBN"
-        },
-        {
-            "rank": 129,
-            "spotify_id": "0g4uLMaKUrlXkGgwfVSAsC",
-            "name": "Ticket Dorado by Isa Osorio",
-            "publisher": "Isa Osorio",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fc61552a1839f649a37170e70",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/0g4uLMaKUrlXkGgwfVSAsC"
-        },
-        {
-            "rank": 130,
-            "spotify_id": "1XQjnygHNfmc5PGO3lmpdY",
-            "name": "La Mesa de Trabajo",
-            "publisher": "Monólogos sin Propina",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f1d719cc0ec42fc57362fc018",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/1XQjnygHNfmc5PGO3lmpdY"
-        },
-        {
-            "rank": 131,
-            "spotify_id": "4U1nLHSdCbnmKMZ5K5Yslz",
-            "name": "Juan David Arango Predicaciones",
-            "publisher": "juandavidarango",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fbfd8a347e654b774c9653282",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/4U1nLHSdCbnmKMZ5K5Yslz"
-        },
-        {
-            "rank": 132,
-            "spotify_id": "1fu6fUE09VsvbMQvMibZqj",
-            "name": "La FM Más Fútbol",
-            "publisher": "RCN Radio",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f94cd908c02643d785e6dd42b",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/1fu6fUE09VsvbMQvMibZqj"
-        },
-        {
-            "rank": 133,
-            "spotify_id": "033yYm4ZPsNOKwPNrWWYAR",
-            "name": "Recordando el Ser",
-            "publisher": "Jemac",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fb46621c27fb75aa22a2846e8",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/033yYm4ZPsNOKwPNrWWYAR"
-        },
-        {
-            "rank": 134,
-            "spotify_id": "7DFf3jxLqEFbkLhSNzEmWA",
-            "name": "AL QUID ",
-            "publisher": "Chichila Navia - George Slebi",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fe0c6ce7352da5d85c4894f91",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/7DFf3jxLqEFbkLhSNzEmWA"
-        },
-        {
-            "rank": 135,
-            "spotify_id": "58KeGycCHLpvwHZM2yAhXL",
-            "name": "SIN FILTRO PODCAST",
-            "publisher": "troop audio",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f05601ab3d2a35bf58899610f",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/58KeGycCHLpvwHZM2yAhXL"
-        },
-        {
-            "rank": 136,
-            "spotify_id": "7k9qjehgo2rjkud18QFcvU",
-            "name": "SANTO ROSARIO - Caballeros de la Virgen",
-            "publisher": "Caballeros de la Virgen",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f1bc9c94116cfc0c5bd3aa11f",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/7k9qjehgo2rjkud18QFcvU"
-        },
-        {
-            "rank": 137,
-            "spotify_id": "7iQXmUT7XGuZSzAMjoNWlX",
-            "name": "The Diary Of A CEO with Steven Bartlett",
-            "publisher": "FlightStory",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f9ad158f746c0f755d9ba5299",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/7iQXmUT7XGuZSzAMjoNWlX"
-        },
-        {
-            "rank": 138,
-            "spotify_id": "5RS6IlTgphrAEeT3hK2XIf",
-            "name": "Santo Rosario - Padre Carlos Yepes",
-            "publisher": "Padre Carlos Yepes",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1faf41fffea4abc28109252d0c",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/5RS6IlTgphrAEeT3hK2XIf"
-        },
-        {
-            "rank": 139,
-            "spotify_id": "77RTzRe7ahfjzj3gMbk5pj",
-            "name": "CriminalMente",
-            "publisher": "Podcast Paranormal",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fb46fd1350d86c493a758617f",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/77RTzRe7ahfjzj3gMbk5pj"
-        },
-        {
-            "rank": 140,
-            "spotify_id": "3tDEgVjkyYyIIPzcIHc2ej",
-            "name": "MELO CONVERSACIONES CHIMBAS",
-            "publisher": "Somos Melo ",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f160c02e4c1d51062d28b342f",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/3tDEgVjkyYyIIPzcIHc2ej"
-        },
-        {
-            "rank": 141,
-            "spotify_id": "4t1e7hojcXHO3rMfpkdO6L",
-            "name": "Cárceles Podcast",
-            "publisher": "Cárceles Podcast",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fbfb08ae4f45b32a7c7f78672",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/4t1e7hojcXHO3rMfpkdO6L"
-        },
-        {
-            "rank": 142,
-            "spotify_id": "6JwP9fI77Ck3LbSslhQb7m",
-            "name": "Vietato Fumare (Podcast)",
-            "publisher": "VF Media",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f25a189adcac9dc550a16d1dc",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/6JwP9fI77Ck3LbSslhQb7m"
-        },
-        {
-            "rank": 143,
-            "spotify_id": "2o2vvmnyqTwsupbZThZc6n",
-            "name": "Historia Aburrida para Dormir",
-            "publisher": "Historia Aburrida para Dormir",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f3c15ff09b6a098d01aea3bfb",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/2o2vvmnyqTwsupbZThZc6n"
-        },
-        {
-            "rank": 144,
-            "spotify_id": "1KRwhKl60iMj3r9QH5fTnf",
-            "name": "Inglés desde cero",
-            "publisher": "Daniel Barbour & Stephen Bain",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f5e98b573f37cd676e453117e",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/1KRwhKl60iMj3r9QH5fTnf"
-        },
-        {
-            "rank": 145,
-            "spotify_id": "7MdfxT2WVBfiNrcRfEV2SK",
-            "name": "En la RAYA con Cecilia Orozco",
-            "publisher": "Revista Raya",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f5e14ff41f2b55222c82a8296",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/7MdfxT2WVBfiNrcRfEV2SK"
-        },
-        {
-            "rank": 146,
-            "spotify_id": "5dbvpKwtqz3X3hcX1BSEzf",
-            "name": "No es el fin del mundo",
-            "publisher": "El Orden Mundial",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f6c0cdf623a29e064d2174dd2",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/5dbvpKwtqz3X3hcX1BSEzf"
-        },
-        {
-            "rank": 147,
-            "spotify_id": "4PSrw2IPwaw7xS0f197xS8",
-            "name": "Perturba2",
-            "publisher": "Malviaja2_Podcast",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f8c225284d0aa1a889db0195a",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/4PSrw2IPwaw7xS0f197xS8"
-        },
-        {
-            "rank": 148,
-            "spotify_id": "6OWA6iRo1rTNz8z2vOFrGr",
-            "name": "Club de lectura de MPF",
-            "publisher": "Mis Propias Finanzas",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fa8bf6ad0f0ae85be3be69cb3",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/6OWA6iRo1rTNz8z2vOFrGr"
-        },
-        {
-            "rank": 149,
-            "spotify_id": "0KLh09LEaPRZlHZ7cOCG2i",
-            "name": "Monólogo de Carolina Sanín",
-            "publisher": "CAMBIO",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f083292ed8d96031a873d4d90",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/0KLh09LEaPRZlHZ7cOCG2i"
-        },
-        {
-            "rank": 150,
-            "spotify_id": "39gTI5cc2sXn32vGCXVgPu",
-            "name": "6AM W",
-            "publisher": "Caracol Pódcast",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f66ce12937bb134cd57763319",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/39gTI5cc2sXn32vGCXVgPu"
-        },
-        {
-            "rank": 151,
-            "spotify_id": "1Qj5n3z0dLSAFerCHvgMpr",
-            "name": "Podcasts Al Estilo ",
-            "publisher": "Tony Sanchez",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f9f8f1f2a30f9913c35df457a",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/1Qj5n3z0dLSAFerCHvgMpr"
-        },
-        {
-            "rank": 152,
-            "spotify_id": "06X9VZLwWLBNiHS0sbdmmt",
-            "name": "Noche De Chicxs",
-            "publisher": "Me Mama Omnimedia | Sonoro",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f517af9b7ba8342e671cf974b",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/06X9VZLwWLBNiHS0sbdmmt"
-        },
-        {
-            "rank": 153,
-            "spotify_id": "0kJkgc2iCIMj6sxgpAUqTU",
-            "name": "Predicaciones Cristianas Pentecostales",
-            "publisher": "Predicaciones Pentecostales ",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f362587b209ab548f6723427c",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/0kJkgc2iCIMj6sxgpAUqTU"
-        },
-        {
-            "rank": 154,
-            "spotify_id": "4qifogfHrZVSy6Cc2VGZUp",
-            "name": "Emisiones Podcast",
-            "publisher": "Emisiones Podcast",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fd700b0ac3bc22ad396cde316",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/4qifogfHrZVSy6Cc2VGZUp"
-        },
-        {
-            "rank": 155,
-            "spotify_id": "1BZDroPPwtciyo2nICIofF",
-            "name": "Con C de Cuentacuentos",
-            "publisher": "Con C de Cuentacuentos",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f5a8430198b2eef815f734b62",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/1BZDroPPwtciyo2nICIofF"
-        },
-        {
-            "rank": 156,
-            "spotify_id": "2ipHiYFfZYXQdnDoYmlNvj",
-            "name": "Despertador con Brian Tracy",
-            "publisher": "dareany.ca",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fd504d8e8b4782c2310bef6d8",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/2ipHiYFfZYXQdnDoYmlNvj"
-        },
-        {
-            "rank": 157,
-            "spotify_id": "6jhopddUKe3P7s8VL3YL9u",
-            "name": "Psicología en Audio: Resúmenes de Libros de Psicología, Desarrollo Personal y Biografías",
-            "publisher": "Filosofía de Vida",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fa5d249a0865fa56d3e22c484",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/6jhopddUKe3P7s8VL3YL9u"
-        },
-        {
-            "rank": 158,
-            "spotify_id": "7IVfhxbkkFGF6tJeeLOcQW",
-            "name": "El Lugar de Su Presencia",
-            "publisher": "Su Presencia",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f4a3d8779a86e2c832a5e9172",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/7IVfhxbkkFGF6tJeeLOcQW"
-        },
-        {
-            "rank": 159,
-            "spotify_id": "1VXcH8QHkjRcTCEd88U3ti",
-            "name": "TED Talks Daily",
-            "publisher": "TED",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f1eef8dcabec3dca77ace07c8",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/1VXcH8QHkjRcTCEd88U3ti"
-        },
-        {
-            "rank": 160,
-            "spotify_id": "2kTcAoYCg6EEKWemq7LTTr",
-            "name": "Sueñacuentos",
-            "publisher": "Elena Lostalé",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f0e6838145508d22ab3fe81c6",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/2kTcAoYCg6EEKWemq7LTTr"
-        },
-        {
-            "rank": 161,
-            "spotify_id": "20ch3IIqtWSSM4nfy11ZzP",
-            "name": "Caso 63",
-            "publisher": "Spotify Studios",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f53a9bbd50690e870a334fa8c",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/20ch3IIqtWSSM4nfy11ZzP"
-        },
-        {
-            "rank": 162,
-            "spotify_id": "5EqqB52m2bsr4k1Ii7sStc",
-            "name": "On Purpose with Jay Shetty",
-            "publisher": "iHeartPodcasts",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fd9624e2ec50d7c5eb6213d21",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/5EqqB52m2bsr4k1Ii7sStc"
-        },
-        {
-            "rank": 163,
-            "spotify_id": "3qc5dbsSz0msibafnGUmrK",
-            "name": "Yo Pude, Tu Puedes",
-            "publisher": "Margarita Pasos y Sofi Pasos",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f9ab2b244adfdbe10eedea0e9",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/3qc5dbsSz0msibafnGUmrK"
-        },
-        {
-            "rank": 164,
-            "spotify_id": "6Zz7wQNvA4p9QdImMNyzLb",
-            "name": "Relatos Forenses Podcast",
-            "publisher": " Pepe&Chema | troop audio",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f17d98d7a1d434af6aaee321f",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/6Zz7wQNvA4p9QdImMNyzLb"
-        },
-        {
-            "rank": 165,
-            "spotify_id": "13Lnlt4GT3GiBWrs685Gga",
-            "name": "Expediente Criminal",
-            "publisher": "Expediente Criminal",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fd1aae7de9f7e0f78de76fe29",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/13Lnlt4GT3GiBWrs685Gga"
-        },
-        {
-            "rank": 166,
-            "spotify_id": "3CF9ANEicXGxEROA3cOryE",
-            "name": "6 Minute English",
-            "publisher": "BBC Radio",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fafe49ccbd89c819947b285b6",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/3CF9ANEicXGxEROA3cOryE"
-        },
-        {
-            "rank": 167,
-            "spotify_id": "5mYZ1Fe5kNeZfTsqpOi9h9",
-            "name": "Noche de Lluvia Podcast",
-            "publisher": "Lourdes Gómez I Insólita Labs",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f25da2000f851e547a4ff7286",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/5mYZ1Fe5kNeZfTsqpOi9h9"
-        },
-        {
-            "rank": 168,
-            "spotify_id": "3t0cSJXmnAY8o2gwXlweMN",
-            "name": "Confesiones con Serez",
-            "publisher": "by Manuela Escobar",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f1d0e5940919e82031f374602",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/3t0cSJXmnAY8o2gwXlweMN"
-        },
-        {
-            "rank": 169,
-            "spotify_id": "0WEqNybNBwZPZTM1V1iG2i",
-            "name": "Black Mango Podcast",
-            "publisher": "Black Mango",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f72bc5a3aa2803a9c1702078e",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/0WEqNybNBwZPZTM1V1iG2i"
-        },
-        {
-            "rank": 170,
-            "spotify_id": "6ouh4evTFLJ494S9Xs6WhT",
-            "name": "Táchalo",
-            "publisher": "Los De Sajú",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f58627947345f0989916a9d30",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/6ouh4evTFLJ494S9Xs6WhT"
-        },
-        {
-            "rank": 171,
-            "spotify_id": "39ceY3KiLGU4q7i2nP4IsT",
-            "name": "Con Ánimo de Ofender - Video Podcast",
-            "publisher": "Con Animo de Ofender",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f6bc2ca3007d6593aae4b600d",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/39ceY3KiLGU4q7i2nP4IsT"
-        },
-        {
-            "rank": 172,
-            "spotify_id": "4kC7b9omKVHMu6KPGd4sXV",
-            "name": "Dormicast",
-            "publisher": "Spotify Studios",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f1325d1662339fcbab0e85c70",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/4kC7b9omKVHMu6KPGd4sXV"
-        },
-        {
-            "rank": 173,
-            "spotify_id": "033vvacF5Vh0VmspKqZtot",
-            "name": "Causa de Muerte: Podcast Forense",
-            "publisher": "Giovanni Galindo &amp; Fragore Studio",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f40d484d3df6904ef96c3646e",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/033vvacF5Vh0VmspKqZtot"
-        },
-        {
-            "rank": 174,
             "spotify_id": "3eMMiTDzzOD4GL5fd0iqx3",
             "name": "pepe&chema podcast",
             "publisher": " Pepe&Chema | troop audio",
@@ -1573,205 +961,367 @@
             "url": "https:\/\/open.spotify.com\/show\/3eMMiTDzzOD4GL5fd0iqx3"
         },
         {
-            "rank": 175,
-            "spotify_id": "651ve5uRFmQWZf26uRWCbz",
-            "name": "Bravíssimo sin tapujos, el podcast",
-            "publisher": "Bravíssimo ",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f4694b39f57d7450c83623fe5",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/651ve5uRFmQWZf26uRWCbz"
-        },
-        {
-            "rank": 176,
-            "spotify_id": "0XE08Cr5LbpcozQr8nyLNc",
-            "name": "Ojalá lo hubiera sabido antes",
-            "publisher": "Álex Rovira",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f7fe58cb027d4cbf0e42354ff",
+            "rank": 107,
+            "spotify_id": "1FrPINSqACfF47qlxMHbaG",
+            "name": "Rosario del Día",
+            "publisher": "JuanDiegoNetwork.com y Meditación del Día",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fef508eb8ea90d2189b0a2c66",
             "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/0XE08Cr5LbpcozQr8nyLNc"
+            "url": "https:\/\/open.spotify.com\/show\/1FrPINSqACfF47qlxMHbaG"
         },
         {
-            "rank": 177,
-            "spotify_id": "3PQN4N0CmTKv0vuTG9VnPX",
-            "name": "Relatos Perturbadores de MrSlowPe",
-            "publisher": "Mrslowpe",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f0b00eba5d58772bc53a819ef",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/3PQN4N0CmTKv0vuTG9VnPX"
-        },
-        {
-            "rank": 178,
-            "spotify_id": "3sqthycKFLT9S1GqS8BmSv",
-            "name": "HISTORIAS DE UNA SEGUIDORA ",
-            "publisher": "Laurent Luciana",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fcf7b8d8d94992ca345c3f71e",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/3sqthycKFLT9S1GqS8BmSv"
-        },
-        {
-            "rank": 179,
-            "spotify_id": "6oSLEja7KNUFIJtnzSUEMb",
-            "name": "Una oración al día ",
-            "publisher": "ROCIO CABRERA",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f4b8002d11a94e27143115771",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/6oSLEja7KNUFIJtnzSUEMb"
-        },
-        {
-            "rank": 180,
-            "spotify_id": "5zdwe972gB7eJ2lGIEeJjD",
-            "name": "10AMPRO",
-            "publisher": "10ampro",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f74ee457fa566967f27a1783a",
+            "rank": 108,
+            "spotify_id": "3a36uQneX1imRuopaknUqw",
+            "name": "La Cotorrisa",
+            "publisher": "La Cotorrisa Podcast",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1ff5ce9aa331e821df9dff6246",
             "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/5zdwe972gB7eJ2lGIEeJjD"
+            "url": "https:\/\/open.spotify.com\/show\/3a36uQneX1imRuopaknUqw"
         },
         {
-            "rank": 181,
-            "spotify_id": "1mx1iHRACqzXzYMCcIHbEa",
-            "name": "Bibliotequeando",
-            "publisher": "Ricardo Lugo",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f21378a32a704c6b29abdfe04",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/1mx1iHRACqzXzYMCcIHbEa"
-        },
-        {
-            "rank": 182,
-            "spotify_id": "5kn212zNJcGn3xPb20U0sW",
-            "name": "Oscuro Secreto",
-            "publisher": "Oscuro Secreto Oficial",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f463712e8346c6c369fb9479c",
+            "rank": 109,
+            "spotify_id": "048nMXlfLoBewmcckhDoFn",
+            "name": "La buena platica",
+            "publisher": "Rodrigo Macías",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f5b621d9a6fef33c6b2cfbaad",
             "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/5kn212zNJcGn3xPb20U0sW"
+            "url": "https:\/\/open.spotify.com\/show\/048nMXlfLoBewmcckhDoFn"
         },
         {
-            "rank": 183,
-            "spotify_id": "3FA9mZ5fWlsNR5rMjofI1Q",
-            "name": "Chisme Mitológico",
-            "publisher": "Pol Gise",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f3d52402c31ff2bc5d9e220e1",
+            "rank": 110,
+            "spotify_id": "1mPSJ04ReWgi2zB0oWRDhT",
+            "name": "Sabiduría Bíblica",
+            "publisher": " Elizardo Romero Martinez",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1ffd1a171ec00fc415ff63670d",
             "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/3FA9mZ5fWlsNR5rMjofI1Q"
+            "url": "https:\/\/open.spotify.com\/show\/1mPSJ04ReWgi2zB0oWRDhT"
         },
         {
-            "rank": 184,
-            "spotify_id": "5f1ddPR3kEkNAmyw287T6a",
-            "name": "Enseñanzas: Iglesia de Dios Ministerial de Jesucristo Internacional - IDMJI",
-            "publisher": "IDMJI.ORG",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f34d09c914aa2075fe626b3df",
+            "rank": 111,
+            "spotify_id": "7MdfxT2WVBfiNrcRfEV2SK",
+            "name": "En la RAYA con Cecilia Orozco",
+            "publisher": "Revista Raya",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f5e14ff41f2b55222c82a8296",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/7MdfxT2WVBfiNrcRfEV2SK"
+        },
+        {
+            "rank": 112,
+            "spotify_id": "1gcaZWGO8ju8zXXMhqHd6g",
+            "name": "La Habitación Invisible",
+            "publisher": "Marta Beltrán",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f5451ffee5f2fc95acec33d98",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/1gcaZWGO8ju8zXXMhqHd6g"
+        },
+        {
+            "rank": 113,
+            "spotify_id": "6wF969GfLUfypoKaicH5gr",
+            "name": "Leyendas Legendarias",
+            "publisher": "Sonoro | SINCO",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fa0239a87d722cc9318898ab3",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/6wF969GfLUfypoKaicH5gr"
+        },
+        {
+            "rank": 114,
+            "spotify_id": "1ebm9EOfXkWTwzA5aHtvKG",
+            "name": "Daniel Novelo| Casos reales ",
+            "publisher": "Daniel Novelo",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f24b0af68d44d9dacccdc5784",
             "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/5f1ddPR3kEkNAmyw287T6a"
+            "url": "https:\/\/open.spotify.com\/show\/1ebm9EOfXkWTwzA5aHtvKG"
         },
         {
-            "rank": 185,
-            "spotify_id": "2XywqnelxwM5ZyjgCsazmO",
-            "name": "EL ARCHIVO SAGRADO",
-            "publisher": "El Archivo Sagrado",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f2b561ecd01964748f76e8f34",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/2XywqnelxwM5ZyjgCsazmO"
-        },
-        {
-            "rank": 186,
-            "spotify_id": "0KYi9XGWj9al7hDblj5qJG",
-            "name": "Expediente No Humano",
-            "publisher": "Fepo",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fe1004d410cad298362e764a1",
+            "rank": 115,
+            "spotify_id": "7weBcuWGBuSzKzgIoZwEyK",
+            "name": "Yo, Camilo",
+            "publisher": "Camilo Barberi y Bielo Media",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fec1a2a5e7357a0d74582dd71",
             "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/0KYi9XGWj9al7hDblj5qJG"
+            "url": "https:\/\/open.spotify.com\/show\/7weBcuWGBuSzKzgIoZwEyK"
         },
         {
-            "rank": 187,
-            "spotify_id": "5UOb6uF2EKF58JBCZfMinp",
-            "name": "Lesma VR",
-            "publisher": "Lesma VR",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f4a2fba35e89fb6eeeaeded64",
+            "rank": 116,
+            "spotify_id": "3GRJb6bwpKEbOOG7QFjRqS",
+            "name": "Listening Time: English Practice",
+            "publisher": "Sonoro |  Conner Pe",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f348fe426b8a23623effb434b",
             "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/5UOb6uF2EKF58JBCZfMinp"
+            "url": "https:\/\/open.spotify.com\/show\/3GRJb6bwpKEbOOG7QFjRqS"
         },
         {
-            "rank": 188,
-            "spotify_id": "4LbFVsDKSmiivu5EcVQuw0",
-            "name": "La Estrategia del Día Colombia",
-            "publisher": "Bloomberg Línea ",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f4d3e96fcc181ceb430eed961",
+            "rank": 117,
+            "spotify_id": "1Szfa0HVxs7NC7FIMBbudY",
+            "name": "EXPEDIENTES PARANORMALES de Esteban Cruz, @Cruzescribiente",
+            "publisher": "Cruz Escribiente",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f7a48a1aa0e2f717e117775a0",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/1Szfa0HVxs7NC7FIMBbudY"
+        },
+        {
+            "rank": 118,
+            "spotify_id": "6ouh4evTFLJ494S9Xs6WhT",
+            "name": "Táchalo",
+            "publisher": "Los De Sajú",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f58627947345f0989916a9d30",
             "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/4LbFVsDKSmiivu5EcVQuw0"
+            "url": "https:\/\/open.spotify.com\/show\/6ouh4evTFLJ494S9Xs6WhT"
         },
         {
-            "rank": 189,
-            "spotify_id": "1qdyHDmVJzniiyaRNuluV6",
-            "name": "Palabras Mayores",
-            "publisher": "RCN Radio",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fac352393303627fe6088bc74",
+            "rank": 119,
+            "spotify_id": "1aJnpwQts5XyorDD95bXox",
+            "name": "Vsesenta Podcast",
+            "publisher": "Remember Productions",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f533befb9ca551b4145cab107",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/1aJnpwQts5XyorDD95bXox"
+        },
+        {
+            "rank": 120,
+            "spotify_id": "7iQXmUT7XGuZSzAMjoNWlX",
+            "name": "The Diary Of A CEO with Steven Bartlett",
+            "publisher": "FlightStory",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f9ad158f746c0f755d9ba5299",
             "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/1qdyHDmVJzniiyaRNuluV6"
+            "url": "https:\/\/open.spotify.com\/show\/7iQXmUT7XGuZSzAMjoNWlX"
         },
         {
-            "rank": 190,
-            "spotify_id": "3bqOxGhHR8aA6DhDyvHPAX",
-            "name": "Evangelio de hoy - Padre Carlos Yepes",
-            "publisher": "Padre Carlos Yepes",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f59cee006b63c03aa6626d708",
+            "rank": 121,
+            "spotify_id": "4u1nTj7G2CaNT7pZCntXvr",
+            "name": "Historia en Podcast",
+            "publisher": "Lucas Botta",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f7cae42c52a4b1385d16f7540",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/4u1nTj7G2CaNT7pZCntXvr"
+        },
+        {
+            "rank": 122,
+            "spotify_id": "0Hd8EoMBpl8EwKgzWycBFX",
+            "name": "Influence Yourself",
+            "publisher": "Influence Yourself",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f252b4ca8c5938b341ecf3363",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/0Hd8EoMBpl8EwKgzWycBFX"
+        },
+        {
+            "rank": 123,
+            "spotify_id": "1xUBqskUo0Irpl569NGiet",
+            "name": "Autoestima para tu vida",
+            "publisher": "María José Álvarez Betín",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fb0cbe04d08a241ca07cc8c43",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/1xUBqskUo0Irpl569NGiet"
+        },
+        {
+            "rank": 124,
+            "spotify_id": "1hB0oD3zV1JK9TikWltlkE",
+            "name": "Desarrollo Personal ",
+            "publisher": "antonio_h.m",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f7c40430272b7a24692f2a078",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/1hB0oD3zV1JK9TikWltlkE"
+        },
+        {
+            "rank": 125,
+            "spotify_id": "1XQjnygHNfmc5PGO3lmpdY",
+            "name": "La Mesa de Trabajo",
+            "publisher": "Monólogos sin Propina",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f1d719cc0ec42fc57362fc018",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/1XQjnygHNfmc5PGO3lmpdY"
+        },
+        {
+            "rank": 126,
+            "spotify_id": "4U1nLHSdCbnmKMZ5K5Yslz",
+            "name": "Juan David Arango Predicaciones",
+            "publisher": "juandavidarango",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fbfd8a347e654b774c9653282",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/4U1nLHSdCbnmKMZ5K5Yslz"
+        },
+        {
+            "rank": 127,
+            "spotify_id": "1nFuHtanEjWSJPemOIX2KP",
+            "name": "El Club del Caos",
+            "publisher": "El Club del Caos",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fcdabcd0a005378168e0481e1",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/1nFuHtanEjWSJPemOIX2KP"
+        },
+        {
+            "rank": 128,
+            "spotify_id": "77RTzRe7ahfjzj3gMbk5pj",
+            "name": "CriminalMente",
+            "publisher": "Podcast Paranormal",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fb46fd1350d86c493a758617f",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/77RTzRe7ahfjzj3gMbk5pj"
+        },
+        {
+            "rank": 129,
+            "spotify_id": "7iBla4Bv3RcYcZLsPNuLJE",
+            "name": "Detrás del Like EL PODCAST ",
+            "publisher": "Paula Castillo Lenis",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f716740cd7fca5c8e6b33a58a",
             "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/3bqOxGhHR8aA6DhDyvHPAX"
+            "url": "https:\/\/open.spotify.com\/show\/7iBla4Bv3RcYcZLsPNuLJE"
         },
         {
-            "rank": 191,
+            "rank": 130,
+            "spotify_id": "6JwP9fI77Ck3LbSslhQb7m",
+            "name": "Vietato Fumare (Podcast)",
+            "publisher": "VF Media",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f25a189adcac9dc550a16d1dc",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/6JwP9fI77Ck3LbSslhQb7m"
+        },
+        {
+            "rank": 131,
+            "spotify_id": "5o28OwdKFZMpxDEAzpFZH2",
+            "name": "CONSULTORIO DE FLOREZ",
+            "publisher": "DOCTORA FLÓREZ",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f4223f8d3b5fb0b4723c04fec",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/5o28OwdKFZMpxDEAzpFZH2"
+        },
+        {
+            "rank": 132,
+            "spotify_id": "58Orrcm3l5bBYvOMyjYvK4",
+            "name": "LETRAS CON SONIDO",
+            "publisher": "cristian vigueras",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f127f9274b281a80b325662f1",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/58Orrcm3l5bBYvOMyjYvK4"
+        },
+        {
+            "rank": 133,
+            "spotify_id": "033kcef7vFhCgAieNtZ6FX",
+            "name": "Escuchamos y No Juzgamos",
+            "publisher": "Johana Fuentes y La No Ficción",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fa8122b0452a859168a2f7ce1",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/033kcef7vFhCgAieNtZ6FX"
+        },
+        {
+            "rank": 134,
             "spotify_id": "5neP2EhnGnHK0FWek2osI5",
             "name": "Daniel Habif - INQUEBRANTABLES",
             "publisher": "danielhabif",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fc1e87d69787a527da2e6e75a",
-            "rank_move": "DOWN",
+            "rank_move": "UP",
             "url": "https:\/\/open.spotify.com\/show\/5neP2EhnGnHK0FWek2osI5"
         },
         {
-            "rank": 192,
-            "spotify_id": "6psAbjSxjcNOW2GG7q2lda",
-            "name": "Conversaciones pendientes, con Juan David Correa.",
-            "publisher": "Canal Juan David Correa",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fbfd10a5bd4888968352d37a6",
+            "rank": 135,
+            "spotify_id": "5dbvpKwtqz3X3hcX1BSEzf",
+            "name": "No es el fin del mundo",
+            "publisher": "El Orden Mundial",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f6c0cdf623a29e064d2174dd2",
             "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/6psAbjSxjcNOW2GG7q2lda"
+            "url": "https:\/\/open.spotify.com\/show\/5dbvpKwtqz3X3hcX1BSEzf"
         },
         {
-            "rank": 193,
-            "spotify_id": "5vaFgc9HYzDNOOd61sKfkd",
-            "name": "Casale Vs. Samper",
-            "publisher": "Casale Vs. Samper",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f2646bf53042568f852152d7e",
+            "rank": 136,
+            "spotify_id": "7k9qjehgo2rjkud18QFcvU",
+            "name": "SANTO ROSARIO - Caballeros de la Virgen",
+            "publisher": "Caballeros de la Virgen",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f1bc9c94116cfc0c5bd3aa11f",
             "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/5vaFgc9HYzDNOOd61sKfkd"
+            "url": "https:\/\/open.spotify.com\/show\/7k9qjehgo2rjkud18QFcvU"
         },
         {
-            "rank": 194,
-            "spotify_id": "1UmqVskcUGGCQioXqkjMwB",
-            "name": "Baja Frecuencia Podcast",
-            "publisher": "Crux Media",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f009a2ad21850fa27a0fc52d7",
+            "rank": 137,
+            "spotify_id": "0XE08Cr5LbpcozQr8nyLNc",
+            "name": "Ojalá lo hubiera sabido antes",
+            "publisher": "Álex Rovira",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f7fe58cb027d4cbf0e42354ff",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/0XE08Cr5LbpcozQr8nyLNc"
+        },
+        {
+            "rank": 138,
+            "spotify_id": "5RS6IlTgphrAEeT3hK2XIf",
+            "name": "Santo Rosario - Padre Carlos Yepes",
+            "publisher": "Padre Carlos Yepes",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1faf41fffea4abc28109252d0c",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/5RS6IlTgphrAEeT3hK2XIf"
+        },
+        {
+            "rank": 139,
+            "spotify_id": "53bnc3AHyqknK2JMAHo9br",
+            "name": "LA MAGIA DEL CAOS con Aislinn Derbez",
+            "publisher": "Aislinn Derbez",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fe7818340ce48aa525a578871",
             "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/1UmqVskcUGGCQioXqkjMwB"
+            "url": "https:\/\/open.spotify.com\/show\/53bnc3AHyqknK2JMAHo9br"
         },
         {
-            "rank": 195,
-            "spotify_id": "35PJxFgqDgCgrD2aWAjgQG",
-            "name": "En la cama",
-            "publisher": "Angelina y Nicolás",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f8a94450325943213236ae1c9",
+            "rank": 140,
+            "spotify_id": "20ch3IIqtWSSM4nfy11ZzP",
+            "name": "Caso 63",
+            "publisher": "Spotify Studios",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f53a9bbd50690e870a334fa8c",
             "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/35PJxFgqDgCgrD2aWAjgQG"
+            "url": "https:\/\/open.spotify.com\/show\/20ch3IIqtWSSM4nfy11ZzP"
         },
         {
-            "rank": 196,
-            "spotify_id": "7085MbNnCmPvz4m2OEt6DE",
-            "name": "cositas",
-            "publisher": "Nataa",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fb695bad04a27ea0d17e71f39",
+            "rank": 141,
+            "spotify_id": "0yxMZ0GxeQlACcP08H3TBN",
+            "name": "Desafíate Podcast",
+            "publisher": "Desafiate Podcast",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f86eb1986c6b61e629e9ed024",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/0yxMZ0GxeQlACcP08H3TBN"
+        },
+        {
+            "rank": 142,
+            "spotify_id": "1KRwhKl60iMj3r9QH5fTnf",
+            "name": "Inglés desde cero",
+            "publisher": "Daniel Barbour & Stephen Bain",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f5e98b573f37cd676e453117e",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/1KRwhKl60iMj3r9QH5fTnf"
+        },
+        {
+            "rank": 143,
+            "spotify_id": "0WEqNybNBwZPZTM1V1iG2i",
+            "name": "Black Mango Podcast",
+            "publisher": "Black Mango",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f72bc5a3aa2803a9c1702078e",
             "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/7085MbNnCmPvz4m2OEt6DE"
+            "url": "https:\/\/open.spotify.com\/show\/0WEqNybNBwZPZTM1V1iG2i"
         },
         {
-            "rank": 197,
+            "rank": 144,
+            "spotify_id": "0kJkgc2iCIMj6sxgpAUqTU",
+            "name": "Predicaciones Cristianas Pentecostales",
+            "publisher": "Predicaciones Pentecostales ",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f362587b209ab548f6723427c",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/0kJkgc2iCIMj6sxgpAUqTU"
+        },
+        {
+            "rank": 145,
+            "spotify_id": "06X9VZLwWLBNiHS0sbdmmt",
+            "name": "Noche De Chicxs",
+            "publisher": "Me Mama Omnimedia | Sonoro",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f517af9b7ba8342e671cf974b",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/06X9VZLwWLBNiHS0sbdmmt"
+        },
+        {
+            "rank": 146,
+            "spotify_id": "4qifogfHrZVSy6Cc2VGZUp",
+            "name": "Emisiones Podcast",
+            "publisher": "Emisiones Podcast",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fd700b0ac3bc22ad396cde316",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/4qifogfHrZVSy6Cc2VGZUp"
+        },
+        {
+            "rank": 147,
             "spotify_id": "2z6tiaRI40NkPn5pbZHTUu",
             "name": "farid dieck de video a audio",
             "publisher": "Las aventuras de Arturo 31",
@@ -1780,31 +1330,481 @@
             "url": "https:\/\/open.spotify.com\/show\/2z6tiaRI40NkPn5pbZHTUu"
         },
         {
-            "rank": 198,
-            "spotify_id": "23cpsLV8m2LhuFT2sgrRjW",
-            "name": "Puedo Ser Cualquiera",
-            "publisher": "Juana Arias",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f0d4710e1b34f4e7813e913c7",
+            "rank": 148,
+            "spotify_id": "4AFwNrGj3qRBHiKFarFKwR",
+            "name": "Con Altura Podcast",
+            "publisher": "Sebastián Pérez",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f77387fe98e24116690ed563e",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/4AFwNrGj3qRBHiKFarFKwR"
+        },
+        {
+            "rank": 149,
+            "spotify_id": "1VXcH8QHkjRcTCEd88U3ti",
+            "name": "TED Talks Daily",
+            "publisher": "TED",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f1eef8dcabec3dca77ace07c8",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/1VXcH8QHkjRcTCEd88U3ti"
+        },
+        {
+            "rank": 150,
+            "spotify_id": "4PSrw2IPwaw7xS0f197xS8",
+            "name": "Perturba2",
+            "publisher": "Malviaja2_Podcast",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f8c225284d0aa1a889db0195a",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/4PSrw2IPwaw7xS0f197xS8"
+        },
+        {
+            "rank": 151,
+            "spotify_id": "1qdyHDmVJzniiyaRNuluV6",
+            "name": "Palabras Mayores",
+            "publisher": "RCN Radio",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fac352393303627fe6088bc74",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/1qdyHDmVJzniiyaRNuluV6"
+        },
+        {
+            "rank": 152,
+            "spotify_id": "5mYZ1Fe5kNeZfTsqpOi9h9",
+            "name": "Noche de Lluvia Podcast",
+            "publisher": "Lourdes Gómez I Insólita Labs",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f25da2000f851e547a4ff7286",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/5mYZ1Fe5kNeZfTsqpOi9h9"
+        },
+        {
+            "rank": 153,
+            "spotify_id": "6OWA6iRo1rTNz8z2vOFrGr",
+            "name": "Club de lectura de MPF",
+            "publisher": "Mis Propias Finanzas",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fa8bf6ad0f0ae85be3be69cb3",
             "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/23cpsLV8m2LhuFT2sgrRjW"
+            "url": "https:\/\/open.spotify.com\/show\/6OWA6iRo1rTNz8z2vOFrGr"
+        },
+        {
+            "rank": 154,
+            "spotify_id": "6jhopddUKe3P7s8VL3YL9u",
+            "name": "Psicología en Audio: Resúmenes de Libros de Psicología, Desarrollo Personal y Biografías",
+            "publisher": "Filosofía de Vida",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fa5d249a0865fa56d3e22c484",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/6jhopddUKe3P7s8VL3YL9u"
+        },
+        {
+            "rank": 155,
+            "spotify_id": "5kn212zNJcGn3xPb20U0sW",
+            "name": "Oscuro Secreto",
+            "publisher": "Oscuro Secreto Oficial",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f463712e8346c6c369fb9479c",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/5kn212zNJcGn3xPb20U0sW"
+        },
+        {
+            "rank": 156,
+            "spotify_id": "49SNUyNfzb2OTr0jhb9sII",
+            "name": "Historias de MundoCreepy",
+            "publisher": "Sonoro",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f370c819c63da7e1a5bdace57",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/49SNUyNfzb2OTr0jhb9sII"
+        },
+        {
+            "rank": 157,
+            "spotify_id": "3tDEgVjkyYyIIPzcIHc2ej",
+            "name": "MELO CONVERSACIONES CHIMBAS",
+            "publisher": "Somos Melo ",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f160c02e4c1d51062d28b342f",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/3tDEgVjkyYyIIPzcIHc2ej"
+        },
+        {
+            "rank": 158,
+            "spotify_id": "651ve5uRFmQWZf26uRWCbz",
+            "name": "Bravíssimo sin tapujos, el podcast",
+            "publisher": "Bravíssimo ",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f4694b39f57d7450c83623fe5",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/651ve5uRFmQWZf26uRWCbz"
+        },
+        {
+            "rank": 159,
+            "spotify_id": "2kTcAoYCg6EEKWemq7LTTr",
+            "name": "Sueñacuentos",
+            "publisher": "Elena Lostalé",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f0e6838145508d22ab3fe81c6",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/2kTcAoYCg6EEKWemq7LTTr"
+        },
+        {
+            "rank": 160,
+            "spotify_id": "1BZDroPPwtciyo2nICIofF",
+            "name": "Con C de Cuentacuentos",
+            "publisher": "Con C de Cuentacuentos",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f5a8430198b2eef815f734b62",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/1BZDroPPwtciyo2nICIofF"
+        },
+        {
+            "rank": 161,
+            "spotify_id": "2o2vvmnyqTwsupbZThZc6n",
+            "name": "Historia Aburrida para Dormir",
+            "publisher": "Historia Aburrida para Dormir",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f3c15ff09b6a098d01aea3bfb",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/2o2vvmnyqTwsupbZThZc6n"
+        },
+        {
+            "rank": 162,
+            "spotify_id": "0KYi9XGWj9al7hDblj5qJG",
+            "name": "Expediente No Humano",
+            "publisher": "Fepo",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fe1004d410cad298362e764a1",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/0KYi9XGWj9al7hDblj5qJG"
+        },
+        {
+            "rank": 163,
+            "spotify_id": "2ipHiYFfZYXQdnDoYmlNvj",
+            "name": "Despertador con Brian Tracy",
+            "publisher": "dareany.ca",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fd504d8e8b4782c2310bef6d8",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/2ipHiYFfZYXQdnDoYmlNvj"
+        },
+        {
+            "rank": 164,
+            "spotify_id": "7lNjKpImWX5e85BuH0tPs6",
+            "name": "Pablo Gómez Psiquiatra",
+            "publisher": "Pablo Gómez Psiquiatra",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fde16f29b07d867cd88baee75",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/7lNjKpImWX5e85BuH0tPs6"
+        },
+        {
+            "rank": 165,
+            "spotify_id": "39gTI5cc2sXn32vGCXVgPu",
+            "name": "6AM W",
+            "publisher": "Caracol Pódcast",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f66ce12937bb134cd57763319",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/39gTI5cc2sXn32vGCXVgPu"
+        },
+        {
+            "rank": 166,
+            "spotify_id": "1Qj5n3z0dLSAFerCHvgMpr",
+            "name": "Podcasts Al Estilo ",
+            "publisher": "Tony Sanchez",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f9f8f1f2a30f9913c35df457a",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/1Qj5n3z0dLSAFerCHvgMpr"
+        },
+        {
+            "rank": 167,
+            "spotify_id": "13Lnlt4GT3GiBWrs685Gga",
+            "name": "Expediente Criminal",
+            "publisher": "Expediente Criminal",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fd1aae7de9f7e0f78de76fe29",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/13Lnlt4GT3GiBWrs685Gga"
+        },
+        {
+            "rank": 168,
+            "spotify_id": "5vaFgc9HYzDNOOd61sKfkd",
+            "name": "Casale Vs. Samper",
+            "publisher": "Casale Vs. Samper",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f2646bf53042568f852152d7e",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/5vaFgc9HYzDNOOd61sKfkd"
+        },
+        {
+            "rank": 169,
+            "spotify_id": "56sCSM4oQ9S2z0SYnkWG0Q",
+            "name": "Historias De Terror ",
+            "publisher": "Historias De Terror ",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f2dacce42109f643b2660cf6f",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/56sCSM4oQ9S2z0SYnkWG0Q"
+        },
+        {
+            "rank": 170,
+            "spotify_id": "39ceY3KiLGU4q7i2nP4IsT",
+            "name": "Con Ánimo de Ofender - Video Podcast",
+            "publisher": "Con Animo de Ofender",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f6bc2ca3007d6593aae4b600d",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/39ceY3KiLGU4q7i2nP4IsT"
+        },
+        {
+            "rank": 171,
+            "spotify_id": "3t0cSJXmnAY8o2gwXlweMN",
+            "name": "Confesiones con Serez",
+            "publisher": "by Manuela Escobar",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f1d0e5940919e82031f374602",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/3t0cSJXmnAY8o2gwXlweMN"
+        },
+        {
+            "rank": 172,
+            "spotify_id": "7085MbNnCmPvz4m2OEt6DE",
+            "name": "cositas",
+            "publisher": "Nataa",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fb695bad04a27ea0d17e71f39",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/7085MbNnCmPvz4m2OEt6DE"
+        },
+        {
+            "rank": 173,
+            "spotify_id": "4kC7b9omKVHMu6KPGd4sXV",
+            "name": "Dormicast",
+            "publisher": "Spotify Studios",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f1325d1662339fcbab0e85c70",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/4kC7b9omKVHMu6KPGd4sXV"
+        },
+        {
+            "rank": 174,
+            "spotify_id": "4t1e7hojcXHO3rMfpkdO6L",
+            "name": "Cárceles Podcast",
+            "publisher": "Cárceles Podcast",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fbfb08ae4f45b32a7c7f78672",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/4t1e7hojcXHO3rMfpkdO6L"
+        },
+        {
+            "rank": 175,
+            "spotify_id": "7IVfhxbkkFGF6tJeeLOcQW",
+            "name": "El Lugar de Su Presencia",
+            "publisher": "Su Presencia",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f4a3d8779a86e2c832a5e9172",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/7IVfhxbkkFGF6tJeeLOcQW"
+        },
+        {
+            "rank": 176,
+            "spotify_id": "2lca82AiHkU3IttfTL3gFm",
+            "name": "El Podcast de Andrés Bilbao",
+            "publisher": "Andrés Bilbao",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f03789a5f487adbbbd7e7f0d3",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/2lca82AiHkU3IttfTL3gFm"
+        },
+        {
+            "rank": 177,
+            "spotify_id": "6y8IkuJHCKU1m6a239054o",
+            "name": "La cuarta es la vencida",
+            "publisher": "Laura Arias",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f27a181c3e12a35872f17b518",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/6y8IkuJHCKU1m6a239054o"
+        },
+        {
+            "rank": 178,
+            "spotify_id": "0KLh09LEaPRZlHZ7cOCG2i",
+            "name": "Monólogo de Carolina Sanín",
+            "publisher": "CAMBIO",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f083292ed8d96031a873d4d90",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/0KLh09LEaPRZlHZ7cOCG2i"
+        },
+        {
+            "rank": 179,
+            "spotify_id": "0qXuVDCYF8HvkEynJwHULb",
+            "name": "Libros para Emprendedores",
+            "publisher": "Luis Ramos",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1ff1240117ff0b35aedae42b32",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/0qXuVDCYF8HvkEynJwHULb"
+        },
+        {
+            "rank": 180,
+            "spotify_id": "0g4uLMaKUrlXkGgwfVSAsC",
+            "name": "Ticket Dorado by Isa Osorio",
+            "publisher": "Isa Osorio",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fc61552a1839f649a37170e70",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/0g4uLMaKUrlXkGgwfVSAsC"
+        },
+        {
+            "rank": 181,
+            "spotify_id": "4LbFVsDKSmiivu5EcVQuw0",
+            "name": "La Estrategia del Día Colombia",
+            "publisher": "Bloomberg Línea ",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f4d3e96fcc181ceb430eed961",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/4LbFVsDKSmiivu5EcVQuw0"
+        },
+        {
+            "rank": 182,
+            "spotify_id": "3FA9mZ5fWlsNR5rMjofI1Q",
+            "name": "Chisme Mitológico",
+            "publisher": "Pol Gise",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f617209d6a5c0a17e491f7ec1",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/3FA9mZ5fWlsNR5rMjofI1Q"
+        },
+        {
+            "rank": 183,
+            "spotify_id": "2AyZYsrsuqQRIjHszHWEas",
+            "name": "La Polémica",
+            "publisher": "Caracol Pódcast",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1ff39abbb4fc2b05b1a0f6c573",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/2AyZYsrsuqQRIjHszHWEas"
+        },
+        {
+            "rank": 184,
+            "spotify_id": "2U9Wh8ZheHnW9l2OVkCO6Q",
+            "name": "Operación Crimen",
+            "publisher": "PODCASTS RPTV",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f9ce5711b4146fa33659080b8",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/2U9Wh8ZheHnW9l2OVkCO6Q"
+        },
+        {
+            "rank": 185,
+            "spotify_id": "5zdwe972gB7eJ2lGIEeJjD",
+            "name": "10AMPRO",
+            "publisher": "10ampro",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f74ee457fa566967f27a1783a",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/5zdwe972gB7eJ2lGIEeJjD"
+        },
+        {
+            "rank": 186,
+            "spotify_id": "3qc5dbsSz0msibafnGUmrK",
+            "name": "Yo Pude, Tu Puedes",
+            "publisher": "Margarita Pasos y Sofi Pasos",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f9ab2b244adfdbe10eedea0e9",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/3qc5dbsSz0msibafnGUmrK"
+        },
+        {
+            "rank": 187,
+            "spotify_id": "3bqOxGhHR8aA6DhDyvHPAX",
+            "name": "Evangelio de hoy - Padre Carlos Yepes",
+            "publisher": "Padre Carlos Yepes",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f59cee006b63c03aa6626d708",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/3bqOxGhHR8aA6DhDyvHPAX"
+        },
+        {
+            "rank": 188,
+            "spotify_id": "77di3WAQNvmdwGDU2oFLJF",
+            "name": "Librería Prohibida",
+            "publisher": "Tilka5",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1ffa94dfd60ccca3585d5a9450",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/77di3WAQNvmdwGDU2oFLJF"
+        },
+        {
+            "rank": 189,
+            "spotify_id": "6Zz7wQNvA4p9QdImMNyzLb",
+            "name": "Relatos Forenses Podcast",
+            "publisher": " Pepe&Chema | troop audio",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f17d98d7a1d434af6aaee321f",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/6Zz7wQNvA4p9QdImMNyzLb"
+        },
+        {
+            "rank": 190,
+            "spotify_id": "3CF9ANEicXGxEROA3cOryE",
+            "name": "6 Minute English",
+            "publisher": "BBC Radio",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fafe49ccbd89c819947b285b6",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/3CF9ANEicXGxEROA3cOryE"
+        },
+        {
+            "rank": 191,
+            "spotify_id": "6oSLEja7KNUFIJtnzSUEMb",
+            "name": "Una oración al día ",
+            "publisher": "ROCIO CABRERA",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f4b8002d11a94e27143115771",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/6oSLEja7KNUFIJtnzSUEMb"
+        },
+        {
+            "rank": 192,
+            "spotify_id": "2XywqnelxwM5ZyjgCsazmO",
+            "name": "EL ARCHIVO SAGRADO",
+            "publisher": "El Archivo Sagrado",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f2b561ecd01964748f76e8f34",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/2XywqnelxwM5ZyjgCsazmO"
+        },
+        {
+            "rank": 193,
+            "spotify_id": "2sCKid5LqMOahYrcpAgFdk",
+            "name": "El Podcast con Luis Carlos Vélez",
+            "publisher": "Luis Carlos Velez",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fb1c2f0344771e1878ab1dad8",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/2sCKid5LqMOahYrcpAgFdk"
+        },
+        {
+            "rank": 194,
+            "spotify_id": "6psAbjSxjcNOW2GG7q2lda",
+            "name": "Conversaciones pendientes, con Juan David Correa.",
+            "publisher": "Canal Juan David Correa",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fbfd10a5bd4888968352d37a6",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/6psAbjSxjcNOW2GG7q2lda"
+        },
+        {
+            "rank": 195,
+            "spotify_id": "7jha3TuDeuL0k3ZF0yuzkL",
+            "name": "La Fórmula Del Éxito con Uri Sabat",
+            "publisher": "Uri Sabat ",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fff737bfa9a9a92b298a2f79b",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/7jha3TuDeuL0k3ZF0yuzkL"
+        },
+        {
+            "rank": 196,
+            "spotify_id": "1mx1iHRACqzXzYMCcIHbEa",
+            "name": "Bibliotequeando",
+            "publisher": "Ricardo Lugo",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f21378a32a704c6b29abdfe04",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/1mx1iHRACqzXzYMCcIHbEa"
+        },
+        {
+            "rank": 197,
+            "spotify_id": "35PJxFgqDgCgrD2aWAjgQG",
+            "name": "En la cama",
+            "publisher": "Angelina y Nicolás",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f8a94450325943213236ae1c9",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/35PJxFgqDgCgrD2aWAjgQG"
+        },
+        {
+            "rank": 198,
+            "spotify_id": "5wuu8g3rw9NS2Do5YZMvVP",
+            "name": "Historias Aburridas Para Dormir",
+            "publisher": "Hisrorias Aburridas Para Dormir",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fcdad6e159cf44c574f334a74",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/5wuu8g3rw9NS2Do5YZMvVP"
         },
         {
             "rank": 199,
-            "spotify_id": "3Ils69GWleUUNhR5kF4B5v",
-            "name": "Creando Líderes ",
-            "publisher": "Reto 90Kevolucion",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f360114d8ee478e3860f92289",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/3Ils69GWleUUNhR5kF4B5v"
+            "spotify_id": "1ypaPh52kJS76RnPS8hJQG",
+            "name": "SINERGÉTICOS",
+            "publisher": "Jorge Serratos | 1+1=3",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f2df14d318c639271b74640af",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/1ypaPh52kJS76RnPS8hJQG"
         },
         {
             "rank": 200,
-            "spotify_id": "3OqQvVfyrAvbz5nbEPgObq",
-            "name": "Grandes Infelices",
-            "publisher": "Blackie Books",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1ff356648de71389efdb0a5d82",
+            "spotify_id": "4pjQjfR0h0HgOumyYTAFQY",
+            "name": "MundoCreepy",
+            "publisher": "Sonoro",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fda5c6cc63b780ed1c32bc371",
             "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/3OqQvVfyrAvbz5nbEPgObq"
+            "url": "https:\/\/open.spotify.com\/show\/4pjQjfR0h0HgOumyYTAFQY"
         }
     ]
 }

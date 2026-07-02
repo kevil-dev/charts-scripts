@@ -3,7 +3,7 @@
     "country": "de",
     "genre": "Comedy",
     "slug": "comedy",
-    "fetched_at": "2026-06-24T06:37:07Z",
+    "fetched_at": "2026-07-01T04:43:55Z",
     "count": 50,
     "shows": [
         {
@@ -26,15 +26,6 @@
         },
         {
             "rank": 3,
-            "spotify_id": "6UUIXmp1V0fK4ZpK7vzAbQ",
-            "name": "Hobbylos",
-            "publisher": "Spotify, Rezo & Julien Bam",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f4ae7899c806101fbf0dc9f35",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/6UUIXmp1V0fK4ZpK7vzAbQ"
-        },
-        {
-            "rank": 4,
             "spotify_id": "3jtLk2Zlutfjo91QZYXmlA",
             "name": "Baywatch Berlin",
             "publisher": "Klaas Heufer-Umlauf, Thomas Schmitt, Jakob Lundt & Studio Bummens",
@@ -43,13 +34,22 @@
             "url": "https:\/\/open.spotify.com\/show\/3jtLk2Zlutfjo91QZYXmlA"
         },
         {
-            "rank": 5,
+            "rank": 4,
             "spotify_id": "1OLcQdw2PFDPG1jo3s0wbp",
             "name": "Fest & Flauschig",
             "publisher": "Jan Böhmermann & Olli Schulz",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f6f9a2770da99a3466ee54e93",
             "rank_move": "UNCHANGED",
             "url": "https:\/\/open.spotify.com\/show\/1OLcQdw2PFDPG1jo3s0wbp"
+        },
+        {
+            "rank": 5,
+            "spotify_id": "6UUIXmp1V0fK4ZpK7vzAbQ",
+            "name": "Hobbylos",
+            "publisher": "Spotify, Rezo & Julien Bam",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f4ae7899c806101fbf0dc9f35",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/6UUIXmp1V0fK4ZpK7vzAbQ"
         },
         {
             "rank": 6,
@@ -62,15 +62,24 @@
         },
         {
             "rank": 7,
+            "spotify_id": "7CaEsK7C8W4p0ZrPohyrht",
+            "name": "Offline + Ehrlich",
+            "publisher": "Trymacs, Varion & unsympathischTV",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f6bf357e4c20c1c00166e05c0",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/7CaEsK7C8W4p0ZrPohyrht"
+        },
+        {
+            "rank": 8,
             "spotify_id": "3RWaVT0v1SK6iALTtUK8bQ",
             "name": "Dick & Doof",
             "publisher": "RTL+ \/ laserluca, selfiesandra",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f60f0d0806ed4dfddf2b3dbde",
-            "rank_move": "UNCHANGED",
+            "rank_move": "DOWN",
             "url": "https:\/\/open.spotify.com\/show\/3RWaVT0v1SK6iALTtUK8bQ"
         },
         {
-            "rank": 8,
+            "rank": 9,
             "spotify_id": "7pmajV5WQ5e6e6vBu5WI4W",
             "name": "Die Nervigen",
             "publisher": "Julia Beautx & Joey's Jungle",
@@ -79,40 +88,31 @@
             "url": "https:\/\/open.spotify.com\/show\/7pmajV5WQ5e6e6vBu5WI4W"
         },
         {
-            "rank": 9,
-            "spotify_id": "7CaEsK7C8W4p0ZrPohyrht",
-            "name": "Offline + Ehrlich",
-            "publisher": "Trymacs, Varion & unsympathischTV",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f6bf357e4c20c1c00166e05c0",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/7CaEsK7C8W4p0ZrPohyrht"
+            "rank": 10,
+            "spotify_id": "2p6KBmLERyvVivvRs1pNDK",
+            "name": "Take Me Späti",
+            "publisher": "Sara Arslan",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fac96bcfc126c030027f7db24",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/2p6KBmLERyvVivvRs1pNDK"
         },
         {
-            "rank": 10,
+            "rank": 11,
             "spotify_id": "50NcPnY0wdposfnMN5sNwz",
             "name": "Talk ohne Gast",
             "publisher": "Moritz Neumeier und Till Reiners | ARD",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f1c5178edf2050be7518916bd",
-            "rank_move": "UP",
+            "rank_move": "DOWN",
             "url": "https:\/\/open.spotify.com\/show\/50NcPnY0wdposfnMN5sNwz"
         },
         {
-            "rank": 11,
+            "rank": 12,
             "spotify_id": "53R1htdbOIEG2LxPTCoxKD",
             "name": "Zum Scheitern Verurteilt",
             "publisher": "Laura Larsson & Simon Dömer",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fd3067fa7da7c0b715b960481",
-            "rank_move": "UP",
+            "rank_move": "UNCHANGED",
             "url": "https:\/\/open.spotify.com\/show\/53R1htdbOIEG2LxPTCoxKD"
-        },
-        {
-            "rank": 12,
-            "spotify_id": "3WNFqol2oqEZPIlSgkt0gC",
-            "name": "TeleKaddi - Coldmirrors Kinderserien",
-            "publisher": "funk - von ARD und ZDF",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f0b247819970c0d548eb7a198",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/3WNFqol2oqEZPIlSgkt0gC"
         },
         {
             "rank": 13,
@@ -125,33 +125,24 @@
         },
         {
             "rank": 14,
-            "spotify_id": "033uQhO4ghiOz16Dx7rVb0",
-            "name": "Gans & Specht - mit Henke & Lézan",
-            "publisher": "ARD, Henke & Lézan",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f378257bf25e0eb93a1caf6ea",
+            "spotify_id": "033rOXEULzSkPhQXNZsaES",
+            "name": "Familie Braunisch",
+            "publisher": "Vanessa und Timo Braunisch",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fd2460a96380ca6c19f02ac1e",
             "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/033uQhO4ghiOz16Dx7rVb0"
+            "url": "https:\/\/open.spotify.com\/show\/033rOXEULzSkPhQXNZsaES"
         },
         {
             "rank": 15,
-            "spotify_id": "16zDAJSEJp06lZnPdHv8pI",
-            "name": "Die Deutschen Podcast",
-            "publisher": "Nizar und Shayan",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fb6c5d059904c32b3b32a7e84",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/16zDAJSEJp06lZnPdHv8pI"
+            "spotify_id": "033jYO9eQZdexXM82obaWM",
+            "name": "Fomo Laber",
+            "publisher": "Tahsim Durgun und Merve Terzi",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f5afa8b00f5da1a967d29e1d6",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/033jYO9eQZdexXM82obaWM"
         },
         {
             "rank": 16,
-            "spotify_id": "2fifBdC0SICtkdU9iPymny",
-            "name": "$HZ wir müssen reden",
-            "publisher": "Kimisinamood & Studio Bummens",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f7c8a08c5d3aca0d64da3f73e",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/2fifBdC0SICtkdU9iPymny"
-        },
-        {
-            "rank": 17,
             "spotify_id": "3IEqNSIv2dTcFygT9tNrZG",
             "name": "4 Schwestern",
             "publisher": "selfiesandra, Alexandra, Lorena und Michelle \/ RTL+",
@@ -160,31 +151,40 @@
             "url": "https:\/\/open.spotify.com\/show\/3IEqNSIv2dTcFygT9tNrZG"
         },
         {
-            "rank": 18,
+            "rank": 17,
             "spotify_id": "4ZRAyq4VlebKGfxUXDNxcO",
             "name": "DRINNIES",
             "publisher": "Giulia Becker & Chris Sommer",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1faa232ccc80137945f701fe91",
-            "rank_move": "UNCHANGED",
+            "rank_move": "DOWN",
             "url": "https:\/\/open.spotify.com\/show\/4ZRAyq4VlebKGfxUXDNxcO"
         },
         {
-            "rank": 19,
+            "rank": 18,
             "spotify_id": "22ld4ZnaKY4xUvD3oIC8tn",
             "name": "Bratwurst und Baklava - mit Özcan Cosar und Bastian Bielendorfer",
             "publisher": "RTL+ \/ Bastian Bielendorfer, Özcan Cosar",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1faf40b5ed702147cd0161f759",
-            "rank_move": "UNCHANGED",
+            "rank_move": "DOWN",
             "url": "https:\/\/open.spotify.com\/show\/22ld4ZnaKY4xUvD3oIC8tn"
         },
         {
+            "rank": 19,
+            "spotify_id": "16zDAJSEJp06lZnPdHv8pI",
+            "name": "Die Deutschen Podcast",
+            "publisher": "Nizar und Shayan",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fb6c5d059904c32b3b32a7e84",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/16zDAJSEJp06lZnPdHv8pI"
+        },
+        {
             "rank": 20,
-            "spotify_id": "2p6KBmLERyvVivvRs1pNDK",
-            "name": "Take Me Späti",
-            "publisher": "Sara Arslan",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fac96bcfc126c030027f7db24",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/2p6KBmLERyvVivvRs1pNDK"
+            "spotify_id": "2fifBdC0SICtkdU9iPymny",
+            "name": "$HZ wir müssen reden",
+            "publisher": "Kimisinamood & Studio Bummens",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f7c8a08c5d3aca0d64da3f73e",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/2fifBdC0SICtkdU9iPymny"
         },
         {
             "rank": 21,
@@ -197,15 +197,42 @@
         },
         {
             "rank": 22,
+            "spotify_id": "5PSmP2v9609DE4e1c6Z3O3",
+            "name": "1LIVE 99 Problems mit Felix Lobrecht",
+            "publisher": "1LIVE",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fe46e2b8bf8b8e5bcffbf6ff7",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/5PSmP2v9609DE4e1c6Z3O3"
+        },
+        {
+            "rank": 23,
             "spotify_id": "38nrIhj58bTbp2DlQO8jfN",
             "name": "We Listen & We Judge",
             "publisher": "Matteo und Sashka ",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f80f823a00d2e8e1dff47a7b7",
-            "rank_move": "UP",
+            "rank_move": "UNCHANGED",
             "url": "https:\/\/open.spotify.com\/show\/38nrIhj58bTbp2DlQO8jfN"
         },
         {
-            "rank": 23,
+            "rank": 24,
+            "spotify_id": "6uNxhqoeVwN7Kt21SpmOXG",
+            "name": "Mehlix lustige YouTube Videos",
+            "publisher": "Mehlix",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f3e0e5ea26fd8d837ddd3d50e",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/6uNxhqoeVwN7Kt21SpmOXG"
+        },
+        {
+            "rank": 25,
+            "spotify_id": "4OrCGB5dMg7mU3GpH19Yzw",
+            "name": "Kalk & Welk - Die fabelhaften Boomer Boys",
+            "publisher": "radioeins (rbb)",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f14ea9766626b640d2c5e692a",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/4OrCGB5dMg7mU3GpH19Yzw"
+        },
+        {
+            "rank": 26,
             "spotify_id": "43UYrAGZgWsLHgBSSrppgU",
             "name": "Freundschaft Minus",
             "publisher": "Paula und Jan",
@@ -214,52 +241,34 @@
             "url": "https:\/\/open.spotify.com\/show\/43UYrAGZgWsLHgBSSrppgU"
         },
         {
-            "rank": 24,
-            "spotify_id": "4OrCGB5dMg7mU3GpH19Yzw",
-            "name": "Kalk & Welk - Die fabelhaften Boomer Boys",
-            "publisher": "radioeins (rbb)",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f14ea9766626b640d2c5e692a",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/4OrCGB5dMg7mU3GpH19Yzw"
-        },
-        {
-            "rank": 25,
-            "spotify_id": "6uNxhqoeVwN7Kt21SpmOXG",
-            "name": "Mehlix lustige YouTube Videos",
-            "publisher": "Mehlix",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f3e0e5ea26fd8d837ddd3d50e",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/6uNxhqoeVwN7Kt21SpmOXG"
-        },
-        {
-            "rank": 26,
-            "spotify_id": "7oLxh6kBPrtKw2QXYKTVuq",
-            "name": "Gestatten, von Sinnen!",
-            "publisher": "RE*PLAY",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f8e0ebc97ec9ddf9ba56573b6",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/7oLxh6kBPrtKw2QXYKTVuq"
-        },
-        {
             "rank": 27,
-            "spotify_id": "5IPs35WXO4A4X4qvmy8TK6",
-            "name": "Kontrastprogramm",
-            "publisher": "Kontrastprogramm - Der Podcast",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fb3264785a47b87b316485622",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/5IPs35WXO4A4X4qvmy8TK6"
+            "spotify_id": "1Cqn1iDCliQFsuq6a2ZxC0",
+            "name": "Johannesmlz",
+            "publisher": "Johannesmlz",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f81759d36de6aa257c4bcbb7c",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/1Cqn1iDCliQFsuq6a2ZxC0"
         },
         {
             "rank": 28,
-            "spotify_id": "3cmxcUZPFnXedW2tWpCTOO",
-            "name": "Girls Girls ",
-            "publisher": "Nessi & arc.studio",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fa5ab886404393610f3a4b40b",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/3cmxcUZPFnXedW2tWpCTOO"
+            "spotify_id": "3zplC42rYLic5ACOxno6lx",
+            "name": "WannaBe+",
+            "publisher": "WannaBe+",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fe25a28f63f71e137196d8b67",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/3zplC42rYLic5ACOxno6lx"
         },
         {
             "rank": 29,
+            "spotify_id": "18XS4gkHMFHwaeJ4iG5yUS",
+            "name": "Shordi",
+            "publisher": "Tordi",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f8aa550e63739d982c1fb5f56",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/18XS4gkHMFHwaeJ4iG5yUS"
+        },
+        {
+            "rank": 30,
             "spotify_id": "3Il39whDAFgbNzdtHEwBoF",
             "name": "Niemand muss ein Promi sein - Der Nr. 1 Gossip-Podcast!",
             "publisher": "Elena Gruschka & Lars Tönsfeuerborn",
@@ -268,97 +277,25 @@
             "url": "https:\/\/open.spotify.com\/show\/3Il39whDAFgbNzdtHEwBoF"
         },
         {
-            "rank": 30,
-            "spotify_id": "1ouJxdVKfhs6ixoLDuXUFW",
-            "name": "bennart",
-            "publisher": "bennart",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fe394ca8ca1110fd0687cc368",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/1ouJxdVKfhs6ixoLDuXUFW"
-        },
-        {
             "rank": 31,
-            "spotify_id": "18XS4gkHMFHwaeJ4iG5yUS",
-            "name": "Shordi",
-            "publisher": "Tordi",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f8aa550e63739d982c1fb5f56",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/18XS4gkHMFHwaeJ4iG5yUS"
-        },
-        {
-            "rank": 32,
-            "spotify_id": "4us7Lec3iNeAXDoG56Vths",
-            "name": "5 Minuten Harry Podcast von Coldmirror",
-            "publisher": "funk - von ARD und ZDF",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f92508e6e390432c346141d0b",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/4us7Lec3iNeAXDoG56Vths"
-        },
-        {
-            "rank": 33,
-            "spotify_id": "3zplC42rYLic5ACOxno6lx",
-            "name": "WannaBe+",
-            "publisher": "WannaBe+",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fe25a28f63f71e137196d8b67",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/3zplC42rYLic5ACOxno6lx"
-        },
-        {
-            "rank": 34,
             "spotify_id": "5FzQzTOrW19c1vgdms1Fi4",
             "name": "Mohi__07",
             "publisher": "Mohi__07",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fa2d6c5a362d2f825d64eefc6",
-            "rank_move": "DOWN",
+            "rank_move": "UP",
             "url": "https:\/\/open.spotify.com\/show\/5FzQzTOrW19c1vgdms1Fi4"
         },
         {
-            "rank": 35,
-            "spotify_id": "2asLsQXsB89MZXMp7T2Or1",
-            "name": "ANTI ALLES",
-            "publisher": "Frau Gretel, Rebecca Pap & Studio Bummens ",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fd5d6c5cd277f243cfbbd191d",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/2asLsQXsB89MZXMp7T2Or1"
-        },
-        {
-            "rank": 36,
-            "spotify_id": "033rOXEULzSkPhQXNZsaES",
-            "name": "Familie Braunisch",
-            "publisher": "Vanessa und Timo Braunisch",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fd2460a96380ca6c19f02ac1e",
+            "rank": 32,
+            "spotify_id": "1ouJxdVKfhs6ixoLDuXUFW",
+            "name": "bennart",
+            "publisher": "bennart",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fe394ca8ca1110fd0687cc368",
             "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/033rOXEULzSkPhQXNZsaES"
+            "url": "https:\/\/open.spotify.com\/show\/1ouJxdVKfhs6ixoLDuXUFW"
         },
         {
-            "rank": 37,
-            "spotify_id": "7mUxxhlTPzlMoBUgYE4xo9",
-            "name": "DIE LEUTE LIEBEN DAS",
-            "publisher": "Nina Chuba, Momme Hitzemann & Studio Bummens",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f8a100c5edd00502ed8d4fe31",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/7mUxxhlTPzlMoBUgYE4xo9"
-        },
-        {
-            "rank": 38,
-            "spotify_id": "5eW8n6skWfiEXONCrawfzV",
-            "name": "Äffchen mit Käffchen",
-            "publisher": "Paluten, Denno, Malte",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f0d027f1d0262f27e7206930f",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/5eW8n6skWfiEXONCrawfzV"
-        },
-        {
-            "rank": 39,
-            "spotify_id": "61drtfudDAjIXXNr1Dkg2w",
-            "name": "Rick Azas",
-            "publisher": "Rick Azas",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1ffce8edc43ee82bf7f30f7623",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/61drtfudDAjIXXNr1Dkg2w"
-        },
-        {
-            "rank": 40,
+            "rank": 33,
             "spotify_id": "270LODVNctwhq1jhAeA6nj",
             "name": "dudes.",
             "publisher": "Niklas van Lipzig & David Martin",
@@ -367,16 +304,43 @@
             "url": "https:\/\/open.spotify.com\/show\/270LODVNctwhq1jhAeA6nj"
         },
         {
-            "rank": 41,
-            "spotify_id": "2VtEUFxZViqjKaXpS4lFj4",
-            "name": "extrembequem",
-            "publisher": "extrembequem",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f2b98cae119ed9c7a4910929c",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/2VtEUFxZViqjKaXpS4lFj4"
+            "rank": 34,
+            "spotify_id": "4us7Lec3iNeAXDoG56Vths",
+            "name": "5 Minuten Harry Podcast von Coldmirror",
+            "publisher": "funk - von ARD und ZDF",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f92508e6e390432c346141d0b",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/4us7Lec3iNeAXDoG56Vths"
         },
         {
-            "rank": 42,
+            "rank": 35,
+            "spotify_id": "7mUxxhlTPzlMoBUgYE4xo9",
+            "name": "DIE LEUTE LIEBEN DAS",
+            "publisher": "Nina Chuba, Momme Hitzemann & Studio Bummens",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f8a100c5edd00502ed8d4fe31",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/7mUxxhlTPzlMoBUgYE4xo9"
+        },
+        {
+            "rank": 36,
+            "spotify_id": "5eW8n6skWfiEXONCrawfzV",
+            "name": "Äffchen mit Käffchen",
+            "publisher": "Paluten, Denno, Malte",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f0d027f1d0262f27e7206930f",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/5eW8n6skWfiEXONCrawfzV"
+        },
+        {
+            "rank": 37,
+            "spotify_id": "5IPs35WXO4A4X4qvmy8TK6",
+            "name": "Kontrastprogramm",
+            "publisher": "Kontrastprogramm - Der Podcast",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fb3264785a47b87b316485622",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/5IPs35WXO4A4X4qvmy8TK6"
+        },
+        {
+            "rank": 38,
             "spotify_id": "4DgNxXZKcQxYxyIGdsEAfm",
             "name": "Tom Werner",
             "publisher": "Tom Werner",
@@ -385,16 +349,16 @@
             "url": "https:\/\/open.spotify.com\/show\/4DgNxXZKcQxYxyIGdsEAfm"
         },
         {
-            "rank": 43,
-            "spotify_id": "4rOoJ6Egrf8K2IrywzwOMk",
-            "name": "The Joe Rogan Experience",
-            "publisher": "Joe Rogan",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f1e1acaebe06610165612f1ef",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/4rOoJ6Egrf8K2IrywzwOMk"
+            "rank": 39,
+            "spotify_id": "5YD2XLMMrhcizOp3Ddpbgj",
+            "name": "El Margo",
+            "publisher": "El Margo",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f49cb6af5a59570d1b27ca4f2",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/5YD2XLMMrhcizOp3Ddpbgj"
         },
         {
-            "rank": 44,
+            "rank": 40,
             "spotify_id": "2nrYKPxMh5n418ud6Uvuqy",
             "name": "Hazel Thomas Hörerlebnis",
             "publisher": "Hazel Brugger & Thomas Spitzer",
@@ -403,43 +367,52 @@
             "url": "https:\/\/open.spotify.com\/show\/2nrYKPxMh5n418ud6Uvuqy"
         },
         {
-            "rank": 45,
-            "spotify_id": "6lArpzpcmbSlXK7FRq4zbm",
-            "name": "Malternativ",
-            "publisher": "imagineC \/ Malternativ",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1ff5f789d06bf79f0faee52f53",
+            "rank": 41,
+            "spotify_id": "1lTHPD3QiisEX7VV4dtx5W",
+            "name": "Timo's Kino",
+            "publisher": "timos kino",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f1ae7cca71a5c91bc6020cffd",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/1lTHPD3QiisEX7VV4dtx5W"
+        },
+        {
+            "rank": 42,
+            "spotify_id": "3WNFqol2oqEZPIlSgkt0gC",
+            "name": "TeleKaddi - Coldmirrors Kinderserien",
+            "publisher": "funk - von ARD und ZDF",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f0b247819970c0d548eb7a198",
             "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/6lArpzpcmbSlXK7FRq4zbm"
+            "url": "https:\/\/open.spotify.com\/show\/3WNFqol2oqEZPIlSgkt0gC"
+        },
+        {
+            "rank": 43,
+            "spotify_id": "4sKxQMhZyM9lu3qsylbMrh",
+            "name": "Markey 2.0",
+            "publisher": "Markey",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f2842fc5919ec73ffcd77bde8",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/4sKxQMhZyM9lu3qsylbMrh"
+        },
+        {
+            "rank": 44,
+            "spotify_id": "4rOoJ6Egrf8K2IrywzwOMk",
+            "name": "The Joe Rogan Experience",
+            "publisher": "Joe Rogan",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f1e1acaebe06610165612f1ef",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/4rOoJ6Egrf8K2IrywzwOMk"
+        },
+        {
+            "rank": 45,
+            "spotify_id": "3cmxcUZPFnXedW2tWpCTOO",
+            "name": "Girls Girls ",
+            "publisher": "Nessi & arc.studio",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fa5ab886404393610f3a4b40b",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/3cmxcUZPFnXedW2tWpCTOO"
         },
         {
             "rank": 46,
-            "spotify_id": "1Cqn1iDCliQFsuq6a2ZxC0",
-            "name": "Johannesmlz",
-            "publisher": "Johannesmlz",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f81759d36de6aa257c4bcbb7c",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/1Cqn1iDCliQFsuq6a2ZxC0"
-        },
-        {
-            "rank": 47,
-            "spotify_id": "033jYO9eQZdexXM82obaWM",
-            "name": "Fomo Laber",
-            "publisher": "Tahsim Durgun und Merve Terzi",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f5afa8b00f5da1a967d29e1d6",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/033jYO9eQZdexXM82obaWM"
-        },
-        {
-            "rank": 48,
-            "spotify_id": "5YD2XLMMrhcizOp3Ddpbgj",
-            "name": "El Margo",
-            "publisher": "El Margo",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f49cb6af5a59570d1b27ca4f2",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/5YD2XLMMrhcizOp3Ddpbgj"
-        },
-        {
-            "rank": 49,
             "spotify_id": "2EeeINBbJBOpsUgmKKtLV4",
             "name": "Alliteration Am Arsch",
             "publisher": "Bastian Bielendorfer und Reinhard Remfort",
@@ -448,13 +421,40 @@
             "url": "https:\/\/open.spotify.com\/show\/2EeeINBbJBOpsUgmKKtLV4"
         },
         {
-            "rank": 50,
-            "spotify_id": "4qiRcCUtpInv3UOS0iT5Ev",
-            "name": "123 GO! German",
-            "publisher": "TheSoul Publishing",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fa31508a7b29b1ad2b8258c4a",
+            "rank": 47,
+            "spotify_id": "61drtfudDAjIXXNr1Dkg2w",
+            "name": "Rick Azas",
+            "publisher": "Rick Azas",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1ffce8edc43ee82bf7f30f7623",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/61drtfudDAjIXXNr1Dkg2w"
+        },
+        {
+            "rank": 48,
+            "spotify_id": "3KnpolglgHqV9cPIw9DySL",
+            "name": "Kaffee & Kater",
+            "publisher": "Malika Babel und Joi Bella",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f448f1dec08f9fe5af2d2f4e4",
             "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/4qiRcCUtpInv3UOS0iT5Ev"
+            "url": "https:\/\/open.spotify.com\/show\/3KnpolglgHqV9cPIw9DySL"
+        },
+        {
+            "rank": 49,
+            "spotify_id": "48cJqWbkjBcVPmjK8fFGPX",
+            "name": "Ton Verändert ",
+            "publisher": "lil doggo",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f05cfeb8379f746d84ae59961",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/48cJqWbkjBcVPmjK8fFGPX"
+        },
+        {
+            "rank": 50,
+            "spotify_id": "1OgUt01BLnpOhy5KE3XdGG",
+            "name": "Timo und Adri",
+            "publisher": "timo und adri",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f7219f1f3b557e8cb5ad02377",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/1OgUt01BLnpOhy5KE3XdGG"
         }
     ]
 }

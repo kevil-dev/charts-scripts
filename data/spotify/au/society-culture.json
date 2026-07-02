@@ -3,7 +3,7 @@
     "country": "au",
     "genre": "Society & Culture",
     "slug": "society-culture",
-    "fetched_at": "2026-06-24T06:36:46Z",
+    "fetched_at": "2026-07-01T04:43:33Z",
     "count": 50,
     "shows": [
         {
@@ -17,6 +17,15 @@
         },
         {
             "rank": 2,
+            "spotify_id": "7LuQv400JFzzlJrOuMukRj",
+            "name": "The Louis Theroux Podcast",
+            "publisher": "Spotify Studios",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f834c0d00b7c84d4605f1d0e0",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/7LuQv400JFzzlJrOuMukRj"
+        },
+        {
+            "rank": 3,
             "spotify_id": "2SWSViIUuCIrKBzFK9TSxB",
             "name": "Happy Hour with Lucy & Nikki",
             "publisher": "Lucy & Nikki",
@@ -25,7 +34,7 @@
             "url": "https:\/\/open.spotify.com\/show\/2SWSViIUuCIrKBzFK9TSxB"
         },
         {
-            "rank": 3,
+            "rank": 4,
             "spotify_id": "0XrOqvxlqQI6bmdYHuIVnr",
             "name": "Modern Wisdom",
             "publisher": "Chris Williamson",
@@ -34,7 +43,7 @@
             "url": "https:\/\/open.spotify.com\/show\/0XrOqvxlqQI6bmdYHuIVnr"
         },
         {
-            "rank": 4,
+            "rank": 5,
             "spotify_id": "6wKBCRYUub2QJfUT7M8ZNT",
             "name": "Life Uncut",
             "publisher": "LiSTNR",
@@ -43,22 +52,13 @@
             "url": "https:\/\/open.spotify.com\/show\/6wKBCRYUub2QJfUT7M8ZNT"
         },
         {
-            "rank": 5,
+            "rank": 6,
             "spotify_id": "7dPYxszTS36t2he9P9Jmcj",
             "name": "Mamamia Out Loud",
             "publisher": "Mamamia Podcasts",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1ffc79c7ff97d33f7279397f4c",
             "rank_move": "UNCHANGED",
             "url": "https:\/\/open.spotify.com\/show\/7dPYxszTS36t2he9P9Jmcj"
-        },
-        {
-            "rank": 6,
-            "spotify_id": "7LuQv400JFzzlJrOuMukRj",
-            "name": "The Louis Theroux Podcast",
-            "publisher": "Spotify Studios",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f834c0d00b7c84d4605f1d0e0",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/7LuQv400JFzzlJrOuMukRj"
         },
         {
             "rank": 7,
@@ -102,11 +102,29 @@
             "name": "MEMES",
             "publisher": "Dan Ayling",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f94fa38a9fdfe0b665b00e07a",
-            "rank_move": "UNCHANGED",
+            "rank_move": "UP",
             "url": "https:\/\/open.spotify.com\/show\/5o8dazxvQt3bdATxWYw3rb"
         },
         {
             "rank": 12,
+            "spotify_id": "6MEZAr2NCtjZnCC1Af2ya5",
+            "name": "2 Worlds Collide Podcast",
+            "publisher": "Sam Bamford",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f6c4cee852f7f95259022d684",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/6MEZAr2NCtjZnCC1Af2ya5"
+        },
+        {
+            "rank": 13,
+            "spotify_id": "5dRIMep0NcJ9ZhoVHv7uZD",
+            "name": "Inherited ",
+            "publisher": "Shameless Media",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1ffc1f91ec0e4364a599ea6ddf",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/5dRIMep0NcJ9ZhoVHv7uZD"
+        },
+        {
+            "rank": 14,
             "spotify_id": "362DwZBa01YuXx5LeK8Psp",
             "name": "Conversations",
             "publisher": "ABC Australia",
@@ -115,7 +133,7 @@
             "url": "https:\/\/open.spotify.com\/show\/362DwZBa01YuXx5LeK8Psp"
         },
         {
-            "rank": 13,
+            "rank": 15,
             "spotify_id": "0ofXAdFIQQRsCYj9754UFx",
             "name": "Stuff You Should Know",
             "publisher": "iHeartPodcasts",
@@ -124,7 +142,7 @@
             "url": "https:\/\/open.spotify.com\/show\/0ofXAdFIQQRsCYj9754UFx"
         },
         {
-            "rank": 14,
+            "rank": 16,
             "spotify_id": "3d4z5FXeXAtmmP6DPhkpzw",
             "name": "Two Broke Chicks",
             "publisher": "Alex Hourigan and Sally McMullen",
@@ -133,16 +151,7 @@
             "url": "https:\/\/open.spotify.com\/show\/3d4z5FXeXAtmmP6DPhkpzw"
         },
         {
-            "rank": 15,
-            "spotify_id": "6MEZAr2NCtjZnCC1Af2ya5",
-            "name": "2 Worlds Collide Podcast",
-            "publisher": "Sam Bamford",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f6c4cee852f7f95259022d684",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/6MEZAr2NCtjZnCC1Af2ya5"
-        },
-        {
-            "rank": 16,
+            "rank": 17,
             "spotify_id": "4VTLG0HiIZaCjH9gE6NFPq",
             "name": "Danny Jones Podcast",
             "publisher": "Danny Jones",
@@ -151,7 +160,16 @@
             "url": "https:\/\/open.spotify.com\/show\/4VTLG0HiIZaCjH9gE6NFPq"
         },
         {
-            "rank": 17,
+            "rank": 18,
+            "spotify_id": "03t0cQyHS8OzAYigyksL9E",
+            "name": "Outspoken the Podcast",
+            "publisher": "Outspoken the Podcast",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fc2351729d2267ad0614103ca",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/03t0cQyHS8OzAYigyksL9E"
+        },
+        {
+            "rank": 19,
             "spotify_id": "1i7gQREFRHmcw58095EDjX",
             "name": "High Scrollers",
             "publisher": "Nova Podcasts",
@@ -160,124 +178,79 @@
             "url": "https:\/\/open.spotify.com\/show\/1i7gQREFRHmcw58095EDjX"
         },
         {
-            "rank": 18,
-            "spotify_id": "5f3h5kIP4imtOLs1p3Z6bG",
-            "name": "We Need To Talk with Paul C. Brunson",
-            "publisher": "FlightStory",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f5317f30f782aaef842cd5032",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/5f3h5kIP4imtOLs1p3Z6bG"
-        },
-        {
-            "rank": 19,
+            "rank": 20,
             "spotify_id": "04dEe39FFHPhwlh7uw24eb",
             "name": "The Montoyas",
             "publisher": "The Montoyas Podcast",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f59f4d6f291fd8cdbfd93e914",
-            "rank_move": "UNCHANGED",
+            "rank_move": "UP",
             "url": "https:\/\/open.spotify.com\/show\/04dEe39FFHPhwlh7uw24eb"
         },
         {
-            "rank": 20,
-            "spotify_id": "5dRIMep0NcJ9ZhoVHv7uZD",
-            "name": "Inherited ",
-            "publisher": "Shameless Media",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1ffc1f91ec0e4364a599ea6ddf",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/5dRIMep0NcJ9ZhoVHv7uZD"
-        },
-        {
             "rank": 21,
-            "spotify_id": "03t0cQyHS8OzAYigyksL9E",
-            "name": "Outspoken the Podcast",
-            "publisher": "Outspoken the Podcast",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fc2351729d2267ad0614103ca",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/03t0cQyHS8OzAYigyksL9E"
-        },
-        {
-            "rank": 22,
-            "spotify_id": "7foNnbp8wDc8nfgbJYcqga",
-            "name": "Game Changers Radio",
-            "publisher": "Game Changers: Radio",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f6f9e1824565f676024420e90",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/7foNnbp8wDc8nfgbJYcqga"
-        },
-        {
-            "rank": 23,
-            "spotify_id": "3FefFFSRW6KGbMtaTmnAWP",
-            "name": "Just The Gist",
-            "publisher": "Just The Network",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fa6c7df1d99144b877505f826",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/3FefFFSRW6KGbMtaTmnAWP"
-        },
-        {
-            "rank": 24,
-            "spotify_id": "5RVJabFxj8BInR9wkspD87",
-            "name": "The Girls Bathroom",
-            "publisher": "Sophia & Cinzia",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f628a0505f9644f6bcf5e2740",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/5RVJabFxj8BInR9wkspD87"
-        },
-        {
-            "rank": 25,
-            "spotify_id": "5TckoauKmeJptnadrbQHal",
-            "name": "Zero Limits Podcast",
-            "publisher": "Matty Morris",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f3f039b0d22b4c26d976ab9df",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/5TckoauKmeJptnadrbQHal"
-        },
-        {
-            "rank": 26,
             "spotify_id": "5710LjlIMmmQrq0dEUq6HT",
             "name": "LADbible Stories",
             "publisher": "LADbible ",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f2bb3bf96e4c05a1e400a13e6",
-            "rank_move": "UP",
+            "rank_move": "DOWN",
             "url": "https:\/\/open.spotify.com\/show\/5710LjlIMmmQrq0dEUq6HT"
         },
         {
-            "rank": 27,
-            "spotify_id": "2khJBoF73ujIATWUFtSxLD",
-            "name": "If Books Could Kill",
-            "publisher": "Michael Hobbes & Peter Shamshiri",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f10cd4bdfe0e165d9aa3e1349",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/2khJBoF73ujIATWUFtSxLD"
-        },
-        {
-            "rank": 28,
+            "rank": 22,
             "spotify_id": "2hm3NRGFO5rRVDEhA0stZI",
             "name": "The Why Files: Operation Podcast",
             "publisher": "The Why Files",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f4b89fbb3a3fef92392478aec",
-            "rank_move": "DOWN",
+            "rank_move": "UNCHANGED",
             "url": "https:\/\/open.spotify.com\/show\/2hm3NRGFO5rRVDEhA0stZI"
         },
         {
-            "rank": 29,
-            "spotify_id": "0wJt0WHQ3Cv7a4Z7sY3QSG",
-            "name": "Secrets We Keep",
-            "publisher": "LiSTNR",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f19d77289c638e46ec4f7a330",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/0wJt0WHQ3Cv7a4Z7sY3QSG"
+            "rank": 23,
+            "spotify_id": "5RVJabFxj8BInR9wkspD87",
+            "name": "The Girls Bathroom",
+            "publisher": "Sophia & Cinzia",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f628a0505f9644f6bcf5e2740",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/5RVJabFxj8BInR9wkspD87"
         },
         {
-            "rank": 30,
+            "rank": 24,
+            "spotify_id": "3FefFFSRW6KGbMtaTmnAWP",
+            "name": "Just The Gist",
+            "publisher": "Just The Network",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fa6c7df1d99144b877505f826",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/3FefFFSRW6KGbMtaTmnAWP"
+        },
+        {
+            "rank": 25,
+            "spotify_id": "5f3h5kIP4imtOLs1p3Z6bG",
+            "name": "We Need To Talk with Paul C. Brunson",
+            "publisher": "FlightStory",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f5317f30f782aaef842cd5032",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/5f3h5kIP4imtOLs1p3Z6bG"
+        },
+        {
+            "rank": 26,
+            "spotify_id": "5TckoauKmeJptnadrbQHal",
+            "name": "Zero Limits Podcast",
+            "publisher": "Matty Morris",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f3f039b0d22b4c26d976ab9df",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/5TckoauKmeJptnadrbQHal"
+        },
+        {
+            "rank": 27,
             "spotify_id": "2dzMey4yRYKX5NWKp8zPrd",
             "name": "Sword and Scale",
             "publisher": "Sword and Scale",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fca4cdbd3d00e196e35f01347",
-            "rank_move": "UNCHANGED",
+            "rank_move": "UP",
             "url": "https:\/\/open.spotify.com\/show\/2dzMey4yRYKX5NWKp8zPrd"
         },
         {
-            "rank": 31,
+            "rank": 28,
             "spotify_id": "5Pjt7qlcii0gLqvccowYhs",
             "name": "CreepCast",
             "publisher": "Wendigoon & MeatCanyon",
@@ -286,16 +259,25 @@
             "url": "https:\/\/open.spotify.com\/show\/5Pjt7qlcii0gLqvccowYhs"
         },
         {
-            "rank": 32,
+            "rank": 29,
             "spotify_id": "6JyqSaJNrTSqlxmDGlhspg",
             "name": "Ladies, We Need To Talk",
             "publisher": "ABC Australia",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f47124d646bfae9e96d9a616c",
-            "rank_move": "UP",
+            "rank_move": "DOWN",
             "url": "https:\/\/open.spotify.com\/show\/6JyqSaJNrTSqlxmDGlhspg"
         },
         {
-            "rank": 33,
+            "rank": 30,
+            "spotify_id": "0wJt0WHQ3Cv7a4Z7sY3QSG",
+            "name": "Secrets We Keep",
+            "publisher": "LiSTNR",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fa568b244922d861d68c629a4",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/0wJt0WHQ3Cv7a4Z7sY3QSG"
+        },
+        {
+            "rank": 31,
             "spotify_id": "0esG6ztrLvQ45OuicH1H8F",
             "name": "Unleashed",
             "publisher": "Mamamia Podcasts",
@@ -304,16 +286,25 @@
             "url": "https:\/\/open.spotify.com\/show\/0esG6ztrLvQ45OuicH1H8F"
         },
         {
-            "rank": 34,
+            "rank": 32,
             "spotify_id": "7cvnNSQ2W25EKq6AwgOmZZ",
             "name": "Just For Girls",
             "publisher": "Izzy Armitage & Sam Guggenheimer",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f1db3a74cb06b49897d3c6054",
-            "rank_move": "UNCHANGED",
+            "rank_move": "UP",
             "url": "https:\/\/open.spotify.com\/show\/7cvnNSQ2W25EKq6AwgOmZZ"
         },
         {
-            "rank": 35,
+            "rank": 33,
+            "spotify_id": "2khJBoF73ujIATWUFtSxLD",
+            "name": "If Books Could Kill",
+            "publisher": "Michael Hobbes & Peter Shamshiri",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f10cd4bdfe0e165d9aa3e1349",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/2khJBoF73ujIATWUFtSxLD"
+        },
+        {
+            "rank": 34,
             "spotify_id": "2uxnOGrJqELAT9vCZkoxFv",
             "name": "Hear Me Out",
             "publisher": "Izzy Armitage",
@@ -322,12 +313,21 @@
             "url": "https:\/\/open.spotify.com\/show\/2uxnOGrJqELAT9vCZkoxFv"
         },
         {
+            "rank": 35,
+            "spotify_id": "7foNnbp8wDc8nfgbJYcqga",
+            "name": "Game Changers Radio",
+            "publisher": "Game Changers: Radio",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f6f9e1824565f676024420e90",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/7foNnbp8wDc8nfgbJYcqga"
+        },
+        {
             "rank": 36,
             "spotify_id": "0rOatMqaG3wB5BF4AdsrSX",
             "name": "Behind the Bastards",
             "publisher": "Cool Zone Media and iHeartPodcasts",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f1fc00b680849500ef7fe5fd8",
-            "rank_move": "DOWN",
+            "rank_move": "UNCHANGED",
             "url": "https:\/\/open.spotify.com\/show\/0rOatMqaG3wB5BF4AdsrSX"
         },
         {
@@ -345,17 +345,17 @@
             "name": "Chat 10 Looks 3",
             "publisher": "Chat 10 Looks 3",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f0e4569bbd46850769841acb9",
-            "rank_move": "UP",
+            "rank_move": "UNCHANGED",
             "url": "https:\/\/open.spotify.com\/show\/4vX0jVjbnlzFeWWxugNIbT"
         },
         {
             "rank": 39,
-            "spotify_id": "4PAm2BFhg94l5aeT6yc9hw",
-            "name": "Sensory Overload",
-            "publisher": "Bill Barker ",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fc6bf9f4285978d8ec7cacd4d",
+            "spotify_id": "3idWLizHLazBx210jFxJub",
+            "name": "The Affair…with Anna Williamson",
+            "publisher": "The Affair…with Anna Williamson",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f1d47f6fc8de4ddaa701d5811",
             "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/4PAm2BFhg94l5aeT6yc9hw"
+            "url": "https:\/\/open.spotify.com\/show\/3idWLizHLazBx210jFxJub"
         },
         {
             "rank": 40,
@@ -363,47 +363,11 @@
             "name": "The Spill",
             "publisher": "Mamamia Podcasts",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f9f50ca5033daa1c7f4d7d6bc",
-            "rank_move": "UP",
+            "rank_move": "DOWN",
             "url": "https:\/\/open.spotify.com\/show\/3mjNFVvJp1irXNVxKXXABO"
         },
         {
             "rank": 41,
-            "spotify_id": "122imavATqSE7eCyXIcqZL",
-            "name": "What Now? with Trevor Noah",
-            "publisher": "Trevor Noah",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f63887779e5ed7bd72d1c42d8",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/122imavATqSE7eCyXIcqZL"
-        },
-        {
-            "rank": 42,
-            "spotify_id": "0yN6MO6vIY5QBgg54XopPJ",
-            "name": "Everyone Has An Ex",
-            "publisher": "Mamamia Podcasts",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f32b3be894845fcd486699fcf",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/0yN6MO6vIY5QBgg54XopPJ"
-        },
-        {
-            "rank": 43,
-            "spotify_id": "41zWZdWCpVQrKj7ykQnXRc",
-            "name": "This American Life",
-            "publisher": "This American Life",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f91abbd997cff7b9b4497c930",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/41zWZdWCpVQrKj7ykQnXRc"
-        },
-        {
-            "rank": 44,
-            "spotify_id": "2dB2FfwU0bHHFZWcP5HiFK",
-            "name": "Emsolation",
-            "publisher": "Em Rusciano and Michael Lucas",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fca38945f4dcd4689adb64e4e",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/2dB2FfwU0bHHFZWcP5HiFK"
-        },
-        {
-            "rank": 45,
             "spotify_id": "0f5yoBRu25MS2cH68Kr64e",
             "name": "The Economy, Stupid",
             "publisher": "ABC Australia",
@@ -412,49 +376,85 @@
             "url": "https:\/\/open.spotify.com\/show\/0f5yoBRu25MS2cH68Kr64e"
         },
         {
-            "rank": 46,
-            "spotify_id": "3fKOTwtnX5oZLaiNntKWAV",
-            "name": "Where Should We Begin? with Esther Perel",
-            "publisher": "Esther Perel Global Media",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f3e10beaf2d6df8f8fc90d22d",
+            "rank": 42,
+            "spotify_id": "0tEVrfNp92a7lbjDe6GMLI",
+            "name": "The Oprah Podcast",
+            "publisher": "Harpo",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fd5ec263df18a7aa990255aa9",
             "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/3fKOTwtnX5oZLaiNntKWAV"
+            "url": "https:\/\/open.spotify.com\/show\/0tEVrfNp92a7lbjDe6GMLI"
+        },
+        {
+            "rank": 43,
+            "spotify_id": "122imavATqSE7eCyXIcqZL",
+            "name": "What Now? with Trevor Noah",
+            "publisher": "Trevor Noah",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f63887779e5ed7bd72d1c42d8",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/122imavATqSE7eCyXIcqZL"
+        },
+        {
+            "rank": 44,
+            "spotify_id": "2dB2FfwU0bHHFZWcP5HiFK",
+            "name": "Emsolation",
+            "publisher": "Em Rusciano and Michael Lucas",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fca38945f4dcd4689adb64e4e",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/2dB2FfwU0bHHFZWcP5HiFK"
+        },
+        {
+            "rank": 45,
+            "spotify_id": "41zWZdWCpVQrKj7ykQnXRc",
+            "name": "This American Life",
+            "publisher": "This American Life",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f91abbd997cff7b9b4497c930",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/41zWZdWCpVQrKj7ykQnXRc"
+        },
+        {
+            "rank": 46,
+            "spotify_id": "0yN6MO6vIY5QBgg54XopPJ",
+            "name": "Everyone Has An Ex",
+            "publisher": "Mamamia Podcasts",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f32b3be894845fcd486699fcf",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/0yN6MO6vIY5QBgg54XopPJ"
         },
         {
             "rank": 47,
-            "spotify_id": "4R4qnauWJRwIJ84nSH4dM9",
-            "name": "Influencer Updates AU",
-            "publisher": "influencerupdatesau",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fcedaeb52d2ac7646e170025f",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/4R4qnauWJRwIJ84nSH4dM9"
+            "spotify_id": "2I6TDCnC5EuGHNhAsBmKl5",
+            "name": "Uncomfortable Conversations with Josh Szeps",
+            "publisher": "Josh Szeps",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f5df578cdf43438bea721b1d9",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/2I6TDCnC5EuGHNhAsBmKl5"
         },
         {
             "rank": 48,
-            "spotify_id": "3oB5noYIwEB2dMAREj2F7S",
-            "name": "The Ezra Klein Show",
-            "publisher": "New York Times Opinion",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fe2838b9dffc9f39be3272540",
+            "spotify_id": "3AhaorKIwKuu1geBSyhQq2",
+            "name": "Skye & Callum",
+            "publisher": "Nova Podcasts",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f8ef823b2eb47da505c3783af",
             "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/3oB5noYIwEB2dMAREj2F7S"
+            "url": "https:\/\/open.spotify.com\/show\/3AhaorKIwKuu1geBSyhQq2"
         },
         {
             "rank": 49,
-            "spotify_id": "3idWLizHLazBx210jFxJub",
-            "name": "The Affair…with Anna Williamson",
-            "publisher": "The Affair…with Anna Williamson",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f252e71836dfff5559f47a513",
+            "spotify_id": "5Y5TmFUZbgsrYAzzT4MfBP",
+            "name": "Gypsy Tales",
+            "publisher": "Jase Macalpine",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fbbd0ca90d1c9b6a203d21bdd",
             "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/3idWLizHLazBx210jFxJub"
+            "url": "https:\/\/open.spotify.com\/show\/5Y5TmFUZbgsrYAzzT4MfBP"
         },
         {
             "rank": 50,
-            "spotify_id": "5R1s8bSTUzNti2GrclcO1X",
-            "name": "Basically Besties",
-            "publisher": "Amplify",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f4f7a0a62209d6bdad0ab7856",
+            "spotify_id": "5PhRGR4ImWmFhK9R7oy1VD",
+            "name": "OMG Stories",
+            "publisher": "UPSTREAM MEDIA",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fab3d649dfdf4b9ed51664120",
             "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/5R1s8bSTUzNti2GrclcO1X"
+            "url": "https:\/\/open.spotify.com\/show\/5PhRGR4ImWmFhK9R7oy1VD"
         }
     ]
 }

@@ -10,6 +10,7 @@ require_once __DIR__ . '/adapters/Normalize.php';
 require_once __DIR__ . '/adapters/apple_adapter.php';
 require_once __DIR__ . '/adapters/spotify_adapter.php';
 require_once __DIR__ . '/adapters/youtube_adapter.php';
+require_once __DIR__ . '/meta_fields.php';
 
 // If you have your DB config in your MVC framework, you can require it here.
 // For now, we will use the exact fallback logic the Python script used.
@@ -235,6 +236,96 @@ function executeBulkInsert(PDO $pdo, $table, $rows, $onDuplicateUpdate = false) 
     $stmt->execute($flatParams);
 }
 
+function meta_sql_type(string $type): string
+{
+    if (str_starts_with($type, 'int_range:'))   return 'INT';
+    if (str_starts_with($type, 'float_range:')) return 'DECIMAL(3,1)';
+    return match ($type) {
+        'short_text'                         => 'VARCHAR(512)',
+        'long_text'                          => 'TEXT',
+        'genre', 'publisher', 'freq',
+        'advisory', 'language'               => 'VARCHAR(64)',
+        'url', 'feed_url'                    => 'VARCHAR(512)',
+        'date_past', 'date_recent'           => 'DATE',
+        'json_history', 'json_footprint'     => 'JSON',
+        default                              => 'VARCHAR(255)',
+    };
+}
+
+function ensure_meta_table(PDO $pdo): void
+{
+    $cols = "  match_key VARCHAR(255) NOT NULL,\n";
+    foreach (MetaFields::catalogue() as $field) {
+        $cols .= "  `{$field['column']}` " . meta_sql_type($field['type']) . " NULL,\n";
+    }
+    $pdo->exec(
+        "CREATE TABLE IF NOT EXISTS podcast_meta (\n"
+        . $cols
+        . "  updated_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP,\n"
+        . "  PRIMARY KEY (match_key)\n"
+        . ") ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci"
+    );
+}
+
+function load_meta_file(PDO $pdo, string $dataDir): array
+{
+    $path = $dataDir . '/meta/podcast_meta.json';
+    if (!file_exists($path)) {
+        return ['loaded' => 0, 'note' => 'file not found'];
+    }
+
+    $fieldCols  = array_column(MetaFields::catalogue(), 'column');
+    $allCols    = array_merge(['match_key'], $fieldCols);
+    $colList    = implode(', ', array_map(fn($c) => "`$c`", $allCols));
+    $rowPholder = '(' . implode(', ', array_fill(0, count($allCols), '?')) . ')';
+    $updates    = implode(', ', array_map(fn($c) => "`$c` = VALUES(`$c`)", $fieldCols));
+
+    $flush = function(array $chunk) use ($pdo, $colList, $rowPholder, $updates, $allCols): void {
+        $params = [];
+        foreach ($chunk as $rec) {
+            foreach ($allCols as $col) {
+                $params[] = $rec[$col] ?? null;
+            }
+        }
+        $sql = "INSERT INTO podcast_meta ($colList) VALUES "
+             . implode(', ', array_fill(0, count($chunk), $rowPholder))
+             . " ON DUPLICATE KEY UPDATE $updates";
+        $pdo->prepare($sql)->execute($params);
+    };
+
+    // Stream line-by-line so we never load all 29k records into memory at once.
+    // generate_meta.php writes one JSON object per line, with a trailing comma
+    // on every line except the last (standard compact-array format).
+    $fh     = fopen($path, 'r');
+    $chunk  = [];
+    $loaded = 0;
+
+    while (($line = fgets($fh)) !== false) {
+        $line = rtrim($line, " \t\r\n,");
+        if ($line === '' || $line === '[' || $line === ']' || $line[0] !== '{') {
+            continue;
+        }
+        $rec = json_decode($line, true);
+        if (!is_array($rec)) {
+            continue;
+        }
+        $chunk[] = $rec;
+        if (count($chunk) >= 200) {
+            $flush($chunk);
+            $loaded += count($chunk);
+            $chunk  = [];
+        }
+    }
+    fclose($fh);
+
+    if (!empty($chunk)) {
+        $flush($chunk);
+        $loaded += count($chunk);
+    }
+
+    return ['loaded' => $loaded];
+}
+
 function load_chart(PDO $pdo, $platform, $country, $slug, $records) {
     global $platformSpec, $runDate;
     
@@ -349,6 +440,12 @@ function main() {
         return 1;
     }
 
+    try {
+        ensure_meta_table($pdo);
+    } catch (Exception $e) {
+        logMsg('WARNING', "could not ensure podcast_meta table: " . $e->getMessage());
+    }
+
     $manifest = ["run_date" => $runDate, "started_at" => $started, "files" => []];
     $totals = ["files" => 0, "ok" => 0, "skipped_files" => 0, "rows_loaded" => 0, "rows_skipped" => 0];
 
@@ -400,6 +497,14 @@ function main() {
             
             $manifest["files"][] = $entry;
         }
+    }
+
+    // --- Load podcast metadata ---
+    try {
+        $metaStats = load_meta_file($pdo, $dataDir);
+        logMsg('INFO', "ok   meta    podcast_meta       loaded={$metaStats['loaded']}");
+    } catch (Exception $exc) {
+        logMsg('WARNING', "skip meta/podcast_meta.json: " . $exc->getMessage());
     }
 
     $manifest["finished_at"] = date('c');

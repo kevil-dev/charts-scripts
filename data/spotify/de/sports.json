@@ -3,7 +3,7 @@
     "country": "de",
     "genre": "Sports",
     "slug": "sports",
-    "fetched_at": "2026-06-24T06:37:11Z",
+    "fetched_at": "2026-07-01T04:43:59Z",
     "count": 50,
     "shows": [
         {
@@ -17,6 +17,15 @@
         },
         {
             "rank": 2,
+            "spotify_id": "033snBQEjvWh4z9RvLGPLC",
+            "name": "KERNERS 11",
+            "publisher": "Johannes B. Kerner",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f170be42595ff7ea2eb26cadb",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/033snBQEjvWh4z9RvLGPLC"
+        },
+        {
+            "rank": 3,
             "spotify_id": "2ALSzpykFbwB9Bsv7gdL5I",
             "name": "50+2 - Der Fussballpodcast mit Nico & Niklas",
             "publisher": "Nico Heymer & Niklas Levinsohn",
@@ -25,7 +34,7 @@
             "url": "https:\/\/open.spotify.com\/show\/2ALSzpykFbwB9Bsv7gdL5I"
         },
         {
-            "rank": 3,
+            "rank": 4,
             "spotify_id": "6gthYJi0eXWYwdWXny3ZOP",
             "name": "Zeigler & Köster - Der Fußball-Podcast von 11FREUNDE",
             "publisher": "RTL+ \/ 11FREUNDE",
@@ -34,7 +43,7 @@
             "url": "https:\/\/open.spotify.com\/show\/6gthYJi0eXWYwdWXny3ZOP"
         },
         {
-            "rank": 4,
+            "rank": 5,
             "spotify_id": "2vLlqC395yNWTSqfCk6Csk",
             "name": "CALCIO BERLIN",
             "publisher": "Nico Heymer, Christoph Kröger, Niklas Levinsohn",
@@ -43,7 +52,7 @@
             "url": "https:\/\/open.spotify.com\/show\/2vLlqC395yNWTSqfCk6Csk"
         },
         {
-            "rank": 5,
+            "rank": 6,
             "spotify_id": "3j9Veq0fLZwRpIYtwCIPb7",
             "name": "FUSSBALL MML",
             "publisher": "Micky Beisenherz, Maik Nöcker, Lucas Vogelsang",
@@ -52,34 +61,7 @@
             "url": "https:\/\/open.spotify.com\/show\/3j9Veq0fLZwRpIYtwCIPb7"
         },
         {
-            "rank": 6,
-            "spotify_id": "4Lf8kixpdqaU0SfYC2jSVC",
-            "name": "Einfach mal Luppen",
-            "publisher": "Toni Kroos, Felix Kroos & Studio Bummens",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1feb3b4a6d156bd550bcea9f30",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/4Lf8kixpdqaU0SfYC2jSVC"
-        },
-        {
             "rank": 7,
-            "spotify_id": "033snBQEjvWh4z9RvLGPLC",
-            "name": "KERNERS 11",
-            "publisher": "Johannes B. Kerner",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f170be42595ff7ea2eb26cadb",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/033snBQEjvWh4z9RvLGPLC"
-        },
-        {
-            "rank": 8,
-            "spotify_id": "0Bb2C1kDSdVW0fVioBCMjb",
-            "name": "Stammplatz – Fußball News täglich",
-            "publisher": "BILD",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fe132d964b42faed2a31f280a",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/0Bb2C1kDSdVW0fVioBCMjb"
-        },
-        {
-            "rank": 9,
             "spotify_id": "7IvvrRrom4VOp1d6pNcWkq",
             "name": "Radio RTW",
             "publisher": "Richard Weinzheimer, Tobias Knaup, Max Walscheid",
@@ -88,7 +70,7 @@
             "url": "https:\/\/open.spotify.com\/show\/7IvvrRrom4VOp1d6pNcWkq"
         },
         {
-            "rank": 10,
+            "rank": 8,
             "spotify_id": "3gd1AKHnap3vhyYHOt8GWg",
             "name": "Reif ist live – Fußball Talk von BILD",
             "publisher": "BILD",
@@ -97,43 +79,34 @@
             "url": "https:\/\/open.spotify.com\/show\/3gd1AKHnap3vhyYHOt8GWg"
         },
         {
+            "rank": 9,
+            "spotify_id": "0Bb2C1kDSdVW0fVioBCMjb",
+            "name": "Stammplatz – Fußball News täglich",
+            "publisher": "BILD",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fe132d964b42faed2a31f280a",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/0Bb2C1kDSdVW0fVioBCMjb"
+        },
+        {
+            "rank": 10,
+            "spotify_id": "4wgR5mYeeeRGCQYyYBueFI",
+            "name": "Merle Loosen",
+            "publisher": "Merle Loosen",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f32f399e83ed598ffe99a0723",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/4wgR5mYeeeRGCQYyYBueFI"
+        },
+        {
             "rank": 11,
             "spotify_id": "0VkWjqLHNhEhbQ3HdNMXs4",
             "name": "11FREUNDE täglich",
             "publisher": "11FREUNDE",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fdc90cdc610a1cb47c6ef3594",
-            "rank_move": "UNCHANGED",
+            "rank_move": "DOWN",
             "url": "https:\/\/open.spotify.com\/show\/0VkWjqLHNhEhbQ3HdNMXs4"
         },
         {
             "rank": 12,
-            "spotify_id": "2g20kmJHKmciiU2XsH4Yy2",
-            "name": "Formkurve - Der Fußball-Podcast",
-            "publisher": "Conan Furlong, Dimi",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fb6a30a2c5ff88c3fe5b06e0b",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/2g20kmJHKmciiU2XsH4Yy2"
-        },
-        {
-            "rank": 13,
-            "spotify_id": "1qmAp0iyM0G5KtuYPGW6sZ",
-            "name": "GROßKREUTZ & KÜPPER - VIERTELSTUNDE FUSSBALL",
-            "publisher": "KEVIN GROßKREUTZ &amp; CORNI KÜPPER",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fe912d1fb22372010bfcb0a6f",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/1qmAp0iyM0G5KtuYPGW6sZ"
-        },
-        {
-            "rank": 14,
-            "spotify_id": "3wkN3w3plymubPNMpfeq6O",
-            "name": "Das WM Update - dein täglicher Fußball Podcast",
-            "publisher": "Sportschau",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fb99f03269306f25115159b4c",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/3wkN3w3plymubPNMpfeq6O"
-        },
-        {
-            "rank": 15,
             "spotify_id": "5vQTGlmbla4NhLUrdmIRph",
             "name": "Ulle & Rick",
             "publisher": "Rick Zabel und Jan Ullrich",
@@ -142,13 +115,40 @@
             "url": "https:\/\/open.spotify.com\/show\/5vQTGlmbla4NhLUrdmIRph"
         },
         {
-            "rank": 16,
-            "spotify_id": "67KjEWTnqowKmPxPrg3RjI",
-            "name": "Futcrunch auf Deutsch",
-            "publisher": "Futcrunch",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f1b0a7db930199358124011a7",
+            "rank": 13,
+            "spotify_id": "2g20kmJHKmciiU2XsH4Yy2",
+            "name": "Formkurve - Der Fußball-Podcast",
+            "publisher": "Conan Furlong, Dimi",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fb6a30a2c5ff88c3fe5b06e0b",
             "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/67KjEWTnqowKmPxPrg3RjI"
+            "url": "https:\/\/open.spotify.com\/show\/2g20kmJHKmciiU2XsH4Yy2"
+        },
+        {
+            "rank": 14,
+            "spotify_id": "1qmAp0iyM0G5KtuYPGW6sZ",
+            "name": "GROßKREUTZ & KÜPPER - VIERTELSTUNDE FUSSBALL",
+            "publisher": "KEVIN GROßKREUTZ &amp; CORNI KÜPPER",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fe912d1fb22372010bfcb0a6f",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/1qmAp0iyM0G5KtuYPGW6sZ"
+        },
+        {
+            "rank": 15,
+            "spotify_id": "3wkN3w3plymubPNMpfeq6O",
+            "name": "Das WM Update - dein täglicher Fußball Podcast",
+            "publisher": "Sportschau",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fb99f03269306f25115159b4c",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/3wkN3w3plymubPNMpfeq6O"
+        },
+        {
+            "rank": 16,
+            "spotify_id": "4Lf8kixpdqaU0SfYC2jSVC",
+            "name": "Einfach mal Luppen",
+            "publisher": "Toni Kroos, Felix Kroos & Studio Bummens",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1feb3b4a6d156bd550bcea9f30",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/4Lf8kixpdqaU0SfYC2jSVC"
         },
         {
             "rank": 17,
@@ -165,263 +165,20 @@
             "name": "Backstage Boxengasse - Der Formel 1 Podcast von Sky Sport",
             "publisher": "Ralf Schumacher, Peter Hardenacke",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fe0dfecc65b171cf7015f4ee0",
-            "rank_move": "UNCHANGED",
+            "rank_move": "UP",
             "url": "https:\/\/open.spotify.com\/show\/2cj5vuYN7nM1f1vQECBqtt"
         },
         {
             "rank": 19,
-            "spotify_id": "1PdMRodSL8nDZk07TBxP1q",
-            "name": "Kannst du so nicht sagen",
-            "publisher": "Podstars by OMR",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f68d3be1139802ae852f3dada",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/1PdMRodSL8nDZk07TBxP1q"
+            "spotify_id": "67KjEWTnqowKmPxPrg3RjI",
+            "name": "Futcrunch auf Deutsch",
+            "publisher": "Futcrunch",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f1b0a7db930199358124011a7",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/67KjEWTnqowKmPxPrg3RjI"
         },
         {
             "rank": 20,
-            "spotify_id": "2pepqWsksxycx7ISQGeJ4a",
-            "name": "FIROCKX.ONE WM Doppelpass",
-            "publisher": "SPORT1, Florian König, Ruth Hofmann und Katharina Kleinfeldt",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f6f3cc1fe40c62337156e9b91",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/2pepqWsksxycx7ISQGeJ4a"
-        },
-        {
-            "rank": 21,
-            "spotify_id": "4XkjnR6Q2lM86r2z9JP9Yz",
-            "name": "FUSSBALL MML Daily",
-            "publisher": "Maik Nöcker, Lena Cassel, MML",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f9a6012508c116bc79e444d6b",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/4XkjnR6Q2lM86r2z9JP9Yz"
-        },
-        {
-            "rank": 22,
-            "spotify_id": "0OuEurBun2IJvDLxWRAEyM",
-            "name": "DWIDSwoch - Fußball, Fankultur, Groundhopping",
-            "publisher": "DWIDSwoch",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f618100ac93edce116f3c48ac",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/0OuEurBun2IJvDLxWRAEyM"
-        },
-        {
-            "rank": 23,
-            "spotify_id": "6bplEDvNpLcIrEbIqIGSOb",
-            "name": "Bayern Insider",
-            "publisher": "BILD",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fc51d85f963661abe060e4bf6",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/6bplEDvNpLcIrEbIqIGSOb"
-        },
-        {
-            "rank": 24,
-            "spotify_id": "4ZrKt1SlW9Lw2z7ipDjsBO",
-            "name": "ViscaTabak - Der Fußball Podcast",
-            "publisher": "Anton Rinas und Antonijo Tabak",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f3dd36d8cdcba8d3ce24a69e3",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/4ZrKt1SlW9Lw2z7ipDjsBO"
-        },
-        {
-            "rank": 25,
-            "spotify_id": "7hEa25SokwrzpXL8iEnFxw",
-            "name": "SCHLAG UND FERTIG",
-            "publisher": "Fabian Köster, Jonas Hector",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f0159c5d039033ae7e1dc9203",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/7hEa25SokwrzpXL8iEnFxw"
-        },
-        {
-            "rank": 26,
-            "spotify_id": "0UTQkhBJSYP3Qn0hDVcZ65",
-            "name": "Kretzsche & Schmiso + Harzblut",
-            "publisher": "Dyn Handball",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f371440e26b3e4d4339618033",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/0UTQkhBJSYP3Qn0hDVcZ65"
-        },
-        {
-            "rank": 27,
-            "spotify_id": "2zbbbAfzVdz1SgPMbDQTco",
-            "name": "kicker WM-Daily - Dein täglicher WM-Wecker",
-            "publisher": "kicker",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fa17964a4a8d5cae3b08a59b7",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/2zbbbAfzVdz1SgPMbDQTco"
-        },
-        {
-            "rank": 28,
-            "spotify_id": "3BN5HlGfWUPsVwhamOHXUW",
-            "name": "kicker meets DAZN - Der Fußball Podcast",
-            "publisher": "kicker \/ DAZN",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fc93fe57e05b36a0326c2da40",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/3BN5HlGfWUPsVwhamOHXUW"
-        },
-        {
-            "rank": 29,
-            "spotify_id": "4USp7WKCNLGrwpiHsIYqkY",
-            "name": "Besenwagen - der Radsport Podcast",
-            "publisher": "Bastian Marks, Andreas Stauff, Paul Voß",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f17dd9025257358a03807c9f6",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/4USp7WKCNLGrwpiHsIYqkY"
-        },
-        {
-            "rank": 30,
-            "spotify_id": "2Nd7Yd3GClyVI33GucTmag",
-            "name": "Pushing Limits Podcast",
-            "publisher": "Pushing Limits",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f63eb54c7c6a05c1156752f69",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/2Nd7Yd3GClyVI33GucTmag"
-        },
-        {
-            "rank": 31,
-            "spotify_id": "3tTQ9PEr7KPs6zwt6D0JIS",
-            "name": "Flatterball",
-            "publisher": "Max Kruse, Martin Harnik & MML",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f14b7017f162e74d905f2c18e",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/3tTQ9PEr7KPs6zwt6D0JIS"
-        },
-        {
-            "rank": 32,
-            "spotify_id": "15StdcGNTAKbhOnqPcvUC5",
-            "name": "Schalker Markt - der S04-Podcast von Sky Sport",
-            "publisher": "Robert Gherda, Dirk große Schlarmann",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f5c7ce9c24a830efc5d38f7ca",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/15StdcGNTAKbhOnqPcvUC5"
-        },
-        {
-            "rank": 33,
-            "spotify_id": "2g7Yuez7cCPlkAdF5Majhf",
-            "name": "Darts auf die 1",
-            "publisher": "Gabriel Clemens, Marcel Althaus und Robert Marijanović",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1ff0ec3eb4378bb093b22e14e0",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/2g7Yuez7cCPlkAdF5Majhf"
-        },
-        {
-            "rank": 34,
-            "spotify_id": "4vnXzvbYE8EXrjB0KaZVrl",
-            "name": "Pferde Gut, Alles Gut.",
-            "publisher": "Mira Müller-Steinmann & Josephin Büttner",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f82b304d304af2c88e91e88a0",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/4vnXzvbYE8EXrjB0KaZVrl"
-        },
-        {
-            "rank": 35,
-            "spotify_id": "7kRMyoElMDYxI3JqP0RlOd",
-            "name": "\"PFOSTEN RETTET!\" - Der Fußball-Podcast mit Alex und Dennis",
-            "publisher": "Alex Grabowski und Dennis Schmitz",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f6c0bc895946b3138ad9af5a6",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/7kRMyoElMDYxI3JqP0RlOd"
-        },
-        {
-            "rank": 36,
-            "spotify_id": "1fSWVF9K2HhsKC1IUGBYKK",
-            "name": "Manu Thiele",
-            "publisher": "Manu Thiele",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f1210ad58fc508702af9745b0",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/1fSWVF9K2HhsKC1IUGBYKK"
-        },
-        {
-            "rank": 37,
-            "spotify_id": "5lKdJTRfGmONQXDuxLbFuH",
-            "name": "DerSechzehner.de",
-            "publisher": "Ewald Lienen, Michael Born",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fa877c53df29e647ec406e193",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/5lKdJTRfGmONQXDuxLbFuH"
-        },
-        {
-            "rank": 38,
-            "spotify_id": "033sVFUnakd29J6rIWMGcP",
-            "name": "Wake Up, World Cup - Dein täglicher WM Podcast",
-            "publisher": "Jesco von Eichmann, Felix Fischer, Marlon Irlbacher, Sven Töllner",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f790ddb8560d0fb92326c9409",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/033sVFUnakd29J6rIWMGcP"
-        },
-        {
-            "rank": 39,
-            "spotify_id": "5k5Rz12Ytq3NQntLARbVEh",
-            "name": "Brotatos",
-            "publisher": "Brotatos",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f694a7fd53851de66bf771f58",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/5k5Rz12Ytq3NQntLARbVEh"
-        },
-        {
-            "rank": 40,
-            "spotify_id": "5tMunDJSmAJ33qyrPR61Is",
-            "name": "Das 5. Viertel - NBA mit KobeBjoern & Maxx",
-            "publisher": "Maxx & KobeBjoern",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fec390c8ace521d3dfbe46415",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/5tMunDJSmAJ33qyrPR61Is"
-        },
-        {
-            "rank": 41,
-            "spotify_id": "4bgp5uZBCVSInRWOAxFaVs",
-            "name": "SPORT1 DEEP DIVE",
-            "publisher": "Lenny Peteanu, SPORT1",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fcecce6c95dfb4154d3c0cec5",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/4bgp5uZBCVSInRWOAxFaVs"
-        },
-        {
-            "rank": 42,
-            "spotify_id": "3rNYLZF2sKH24On2kzvuMm",
-            "name": "Strohgeflüster",
-            "publisher": "Christina Braunecker-Lang & Patrick Thomalla",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fcbb798895a8e1febda5895d0",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/3rNYLZF2sKH24On2kzvuMm"
-        },
-        {
-            "rank": 43,
-            "spotify_id": "5e0zM4JxGQlKjTn2hT4OBL",
-            "name": "Und nun zum Sport",
-            "publisher": "Süddeutsche Zeitung",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f5045d531bcc3847d72d44487",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/5e0zM4JxGQlKjTn2hT4OBL"
-        },
-        {
-            "rank": 44,
-            "spotify_id": "2UKwouk4pL7D2EtAb7a9ik",
-            "name": "Bergfreundinnen",
-            "publisher": "Bayerischer Rundfunk",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fd7950111dc71b4507918b5f5",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/2UKwouk4pL7D2EtAb7a9ik"
-        },
-        {
-            "rank": 45,
-            "spotify_id": "16t3jwReNRmx8R5Ph8820Y",
-            "name": "At Broski - Die Sport-Show",
-            "publisher": "Gamerbrother",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f8bab68c988bb962fd5829060",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/16t3jwReNRmx8R5Ph8820Y"
-        },
-        {
-            "rank": 46,
-            "spotify_id": "10xEdXYrX1RzVnS0QW6hSD",
-            "name": "Kicken kann er",
-            "publisher": "DIE ZEIT",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f3bb1c3b2cf5efde0f78f0daf",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/10xEdXYrX1RzVnS0QW6hSD"
-        },
-        {
-            "rank": 47,
             "spotify_id": "6yHSzThZ4keo82iKUEqk7w",
             "name": "Sportschau Tourfunk",
             "publisher": "sportschau.de",
@@ -430,16 +187,223 @@
             "url": "https:\/\/open.spotify.com\/show\/6yHSzThZ4keo82iKUEqk7w"
         },
         {
-            "rank": 48,
-            "spotify_id": "7drVUkPWZeY6dNOPiJiQVa",
-            "name": "PACE – der Ausdauerpodcast",
-            "publisher": "Marvin Neumann, Torben Müller",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fe18198379c2ce26b43a93f69",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/7drVUkPWZeY6dNOPiJiQVa"
+            "rank": 21,
+            "spotify_id": "6bplEDvNpLcIrEbIqIGSOb",
+            "name": "Bayern Insider",
+            "publisher": "BILD",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fc51d85f963661abe060e4bf6",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/6bplEDvNpLcIrEbIqIGSOb"
         },
         {
-            "rank": 49,
+            "rank": 22,
+            "spotify_id": "2pepqWsksxycx7ISQGeJ4a",
+            "name": "FIROCKX.ONE WM Doppelpass",
+            "publisher": "SPORT1, Florian König, Ruth Hofmann und Katharina Kleinfeldt",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f6f3cc1fe40c62337156e9b91",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/2pepqWsksxycx7ISQGeJ4a"
+        },
+        {
+            "rank": 23,
+            "spotify_id": "4XkjnR6Q2lM86r2z9JP9Yz",
+            "name": "FUSSBALL MML Daily",
+            "publisher": "Maik Nöcker, Lena Cassel, MML",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f9a6012508c116bc79e444d6b",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/4XkjnR6Q2lM86r2z9JP9Yz"
+        },
+        {
+            "rank": 24,
+            "spotify_id": "0OuEurBun2IJvDLxWRAEyM",
+            "name": "DWIDSwoch - Fußball, Fankultur, Groundhopping",
+            "publisher": "DWIDSwoch",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f618100ac93edce116f3c48ac",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/0OuEurBun2IJvDLxWRAEyM"
+        },
+        {
+            "rank": 25,
+            "spotify_id": "4ZrKt1SlW9Lw2z7ipDjsBO",
+            "name": "ViscaTabak - Der Fußball Podcast",
+            "publisher": "Anton Rinas und Antonijo Tabak",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f3dd36d8cdcba8d3ce24a69e3",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/4ZrKt1SlW9Lw2z7ipDjsBO"
+        },
+        {
+            "rank": 26,
+            "spotify_id": "1PdMRodSL8nDZk07TBxP1q",
+            "name": "Kannst du so nicht sagen",
+            "publisher": "Podstars by OMR",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f68d3be1139802ae852f3dada",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/1PdMRodSL8nDZk07TBxP1q"
+        },
+        {
+            "rank": 27,
+            "spotify_id": "7hEa25SokwrzpXL8iEnFxw",
+            "name": "SCHLAG UND FERTIG",
+            "publisher": "Fabian Köster, Jonas Hector",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f0159c5d039033ae7e1dc9203",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/7hEa25SokwrzpXL8iEnFxw"
+        },
+        {
+            "rank": 28,
+            "spotify_id": "2zbbbAfzVdz1SgPMbDQTco",
+            "name": "kicker WM-Daily - Dein täglicher WM-Wecker",
+            "publisher": "kicker",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fa17964a4a8d5cae3b08a59b7",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/2zbbbAfzVdz1SgPMbDQTco"
+        },
+        {
+            "rank": 29,
+            "spotify_id": "5tMunDJSmAJ33qyrPR61Is",
+            "name": "Das 5. Viertel - NBA mit KobeBjoern & Maxx",
+            "publisher": "Maxx & KobeBjoern",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fec390c8ace521d3dfbe46415",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/5tMunDJSmAJ33qyrPR61Is"
+        },
+        {
+            "rank": 30,
+            "spotify_id": "4Y49YXYDDC1GF1z0aYgFAG",
+            "name": "Becker Petkovic",
+            "publisher": "Boris Becker, Andrea Petkovic",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f2800d0e7a0628f3bb047634a",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/4Y49YXYDDC1GF1z0aYgFAG"
+        },
+        {
+            "rank": 31,
+            "spotify_id": "4USp7WKCNLGrwpiHsIYqkY",
+            "name": "Besenwagen - der Radsport Podcast",
+            "publisher": "Bastian Marks, Andreas Stauff, Paul Voß",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f17dd9025257358a03807c9f6",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/4USp7WKCNLGrwpiHsIYqkY"
+        },
+        {
+            "rank": 32,
+            "spotify_id": "2Nd7Yd3GClyVI33GucTmag",
+            "name": "Pushing Limits Podcast",
+            "publisher": "Pushing Limits",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f63eb54c7c6a05c1156752f69",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/2Nd7Yd3GClyVI33GucTmag"
+        },
+        {
+            "rank": 33,
+            "spotify_id": "3BN5HlGfWUPsVwhamOHXUW",
+            "name": "kicker meets DAZN - Der Fußball Podcast",
+            "publisher": "kicker \/ DAZN",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fc93fe57e05b36a0326c2da40",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/3BN5HlGfWUPsVwhamOHXUW"
+        },
+        {
+            "rank": 34,
+            "spotify_id": "3tTQ9PEr7KPs6zwt6D0JIS",
+            "name": "Flatterball",
+            "publisher": "Max Kruse, Martin Harnik & MML",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f14b7017f162e74d905f2c18e",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/3tTQ9PEr7KPs6zwt6D0JIS"
+        },
+        {
+            "rank": 35,
+            "spotify_id": "15StdcGNTAKbhOnqPcvUC5",
+            "name": "Schalker Markt - der S04-Podcast von Sky Sport",
+            "publisher": "Robert Gherda, Dirk große Schlarmann",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f5c7ce9c24a830efc5d38f7ca",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/15StdcGNTAKbhOnqPcvUC5"
+        },
+        {
+            "rank": 36,
+            "spotify_id": "2g7Yuez7cCPlkAdF5Majhf",
+            "name": "Darts auf die 1",
+            "publisher": "Gabriel Clemens, Marcel Althaus und Robert Marijanović",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1ff0ec3eb4378bb093b22e14e0",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/2g7Yuez7cCPlkAdF5Majhf"
+        },
+        {
+            "rank": 37,
+            "spotify_id": "033sVFUnakd29J6rIWMGcP",
+            "name": "Wake Up, World Cup - Dein täglicher WM Podcast",
+            "publisher": "Jesco von Eichmann, Felix Fischer, Marlon Irlbacher, Sven Töllner",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f790ddb8560d0fb92326c9409",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/033sVFUnakd29J6rIWMGcP"
+        },
+        {
+            "rank": 38,
+            "spotify_id": "4MSFF7EI5Vdx7mZGhtCmJ6",
+            "name": "Got Nexxt! – Der NBA und Basketball Podcast präsentiert von BLACKROLL",
+            "publisher": "André \"Dré\" Voigt",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f706614171c2eb56c62680c50",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/4MSFF7EI5Vdx7mZGhtCmJ6"
+        },
+        {
+            "rank": 39,
+            "spotify_id": "4vnXzvbYE8EXrjB0KaZVrl",
+            "name": "Pferde Gut, Alles Gut.",
+            "publisher": "Mira Müller-Steinmann & Josephin Büttner",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f82b304d304af2c88e91e88a0",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/4vnXzvbYE8EXrjB0KaZVrl"
+        },
+        {
+            "rank": 40,
+            "spotify_id": "5e0zM4JxGQlKjTn2hT4OBL",
+            "name": "Und nun zum Sport",
+            "publisher": "Süddeutsche Zeitung",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f5045d531bcc3847d72d44487",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/5e0zM4JxGQlKjTn2hT4OBL"
+        },
+        {
+            "rank": 41,
+            "spotify_id": "7kRMyoElMDYxI3JqP0RlOd",
+            "name": "\"PFOSTEN RETTET!\" - Der Fußball-Podcast mit Alex und Dennis",
+            "publisher": "Alex Grabowski und Dennis Schmitz",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fcc606f7facb2696e5f83acbb",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/7kRMyoElMDYxI3JqP0RlOd"
+        },
+        {
+            "rank": 42,
+            "spotify_id": "10xEdXYrX1RzVnS0QW6hSD",
+            "name": "Kicken kann er",
+            "publisher": "DIE ZEIT",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f3bb1c3b2cf5efde0f78f0daf",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/10xEdXYrX1RzVnS0QW6hSD"
+        },
+        {
+            "rank": 43,
+            "spotify_id": "5JA3OK3ExLoAogkGe9aAsC",
+            "name": "Höhenmeter pro Kilometer",
+            "publisher": "Kimi Schreiber & Ida-Sophie Hegemann",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f3f5c2ac8bfc0a4c65c154326",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/5JA3OK3ExLoAogkGe9aAsC"
+        },
+        {
+            "rank": 44,
+            "spotify_id": "2UKwouk4pL7D2EtAb7a9ik",
+            "name": "Bergfreundinnen",
+            "publisher": "Bayerischer Rundfunk",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f0e000ce30e9ae11e19ced6bc",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/2UKwouk4pL7D2EtAb7a9ik"
+        },
+        {
+            "rank": 45,
             "spotify_id": "5PD66NQkjo4iyFL2o4ZGRE",
             "name": "Glitzer Flitzer",
             "publisher": "Glitzer Flitzer Podcast by Maike Lea Nitsch und Esther Pfeiffer",
@@ -448,13 +412,49 @@
             "url": "https:\/\/open.spotify.com\/show\/5PD66NQkjo4iyFL2o4ZGRE"
         },
         {
+            "rank": 46,
+            "spotify_id": "5GGmYoLa66Ag1ohzZiymX1",
+            "name": "Basler Ballert powered by Tipico Sportwetten",
+            "publisher": "newsflash24.de",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f355dc0878c4543368360637a",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/5GGmYoLa66Ag1ohzZiymX1"
+        },
+        {
+            "rank": 47,
+            "spotify_id": "7drVUkPWZeY6dNOPiJiQVa",
+            "name": "PACE – der Ausdauerpodcast",
+            "publisher": "Marvin Neumann, Torben Müller",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fe18198379c2ce26b43a93f69",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/7drVUkPWZeY6dNOPiJiQVa"
+        },
+        {
+            "rank": 48,
+            "spotify_id": "5pjJXynL2YlKQdPDaVnj3h",
+            "name": "STINT - Der Formel 1 Podcast",
+            "publisher": "Sebastian Fenske und Florian Wolske",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f071ea42c0c3bb0f09bef379b",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/5pjJXynL2YlKQdPDaVnj3h"
+        },
+        {
+            "rank": 49,
+            "spotify_id": "09nNiJX1thQdtG29D6D2fj",
+            "name": "SCYENCE Podcast",
+            "publisher": "Lennart & Lukas",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fdc9142362b2d4ab3642e118f",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/09nNiJX1thQdtG29D6D2fj"
+        },
+        {
             "rank": 50,
-            "spotify_id": "6xUJCmXCCecoNEOfwztv6a",
-            "name": "Down Set Talk! - Der NFL Podcast von RTL",
-            "publisher": "Adrian Franke & Christoph Kröger \/ RTL +",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f4d00a00dec8aaa94947bd840",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/6xUJCmXCCecoNEOfwztv6a"
+            "spotify_id": "4MfUfHMVi8Jc6NVNQmAuH0",
+            "name": "BVB-Podcast - Der Experten-Talk der Ruhr Nachrichten",
+            "publisher": "Hansi Küpper, Dirk Krampe, Jürgen Koers, Kevin Pinnow, Cedric Gebhardt, Florian Groeger, Thomas Schulzke",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f7e768b59eb5ef6a7c3d7c9f4",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/4MfUfHMVi8Jc6NVNQmAuH0"
         }
     ]
 }

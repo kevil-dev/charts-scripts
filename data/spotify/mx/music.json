@@ -3,29 +3,38 @@
     "country": "mx",
     "genre": "Music",
     "slug": "music",
-    "fetched_at": "2026-06-24T06:38:09Z",
+    "fetched_at": "2026-07-01T04:44:54Z",
     "count": 50,
     "shows": [
         {
             "rank": 1,
+            "spotify_id": "033DfabssUj9X38pJmQBzl",
+            "name": "VICTOR M. FILTRADAS",
+            "publisher": "Dh4vhxzz 🧔🏻‍♂️",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f31b9bc43cfdf1b23f0edc3d9",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/033DfabssUj9X38pJmQBzl"
+        },
+        {
+            "rank": 2,
             "spotify_id": "0EwDk36KVbO6d6Rbjacf4Z",
             "name": "Billions Club: The Series",
             "publisher": "Spotify",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f467ed87c8b7ed76d7d990ca8",
-            "rank_move": "UNCHANGED",
+            "rank_move": "UP",
             "url": "https:\/\/open.spotify.com\/show\/0EwDk36KVbO6d6Rbjacf4Z"
         },
         {
-            "rank": 2,
+            "rank": 3,
             "spotify_id": "0MEPkZC9QQpvRYWncqzwjE",
             "name": "Radio La ventajosa",
             "publisher": "Radio La ventajosa",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fef959b7d08516e7eff0bc706",
-            "rank_move": "UNCHANGED",
+            "rank_move": "DOWN",
             "url": "https:\/\/open.spotify.com\/show\/0MEPkZC9QQpvRYWncqzwjE"
         },
         {
-            "rank": 3,
+            "rank": 4,
             "spotify_id": "7HEe4JUdCW8qtNr1hAXqHk",
             "name": "Analytic Dreamz: Notorious Mass Effect",
             "publisher": "Analytic_Dreamz",
@@ -34,34 +43,7 @@
             "url": "https:\/\/open.spotify.com\/show\/7HEe4JUdCW8qtNr1hAXqHk"
         },
         {
-            "rank": 4,
-            "spotify_id": "033uD8AJRTF7cogr0i4Tug",
-            "name": "HeartsPod",
-            "publisher": "Hearts2Hearts",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f9abf7cb2946741df1ab3961a",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/033uD8AJRTF7cogr0i4Tug"
-        },
-        {
             "rank": 5,
-            "spotify_id": "5AiIw0t9ZFwOW4dBZYBLa4",
-            "name": "Javier Paniagua ¿Qué es la música?",
-            "publisher": "Javier Paniagua",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1febaf326ef6dcd9053dc57cd8",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/5AiIw0t9ZFwOW4dBZYBLa4"
-        },
-        {
-            "rank": 6,
-            "spotify_id": "0MC8rVX0zdIwUlEVzgVdDD",
-            "name": "Músicos de Sillón",
-            "publisher": "Sonoro | SINCO",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1ffe0ca1327ac2938055a3fe57",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/0MC8rVX0zdIwUlEVzgVdDD"
-        },
-        {
-            "rank": 7,
             "spotify_id": "2YfzZOlhc8uezrsYm6pIEw",
             "name": "SongBook",
             "publisher": "Sensei Media",
@@ -70,34 +52,70 @@
             "url": "https:\/\/open.spotify.com\/show\/2YfzZOlhc8uezrsYm6pIEw"
         },
         {
-            "rank": 8,
-            "spotify_id": "2a2HgSBlhhUr73p1oQo4cI",
-            "name": "El Corrido De Jesus Herrera ",
-            "publisher": "Josue Torres",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fb862cea3830779262297427b",
+            "rank": 6,
+            "spotify_id": "5AiIw0t9ZFwOW4dBZYBLa4",
+            "name": "Javier Paniagua ¿Qué es la música?",
+            "publisher": "Javier Paniagua",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1febaf326ef6dcd9053dc57cd8",
             "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/2a2HgSBlhhUr73p1oQo4cI"
+            "url": "https:\/\/open.spotify.com\/show\/5AiIw0t9ZFwOW4dBZYBLa4"
+        },
+        {
+            "rank": 7,
+            "spotify_id": "7sBz3825on9pl9n0BfMuVp",
+            "name": "Spotify Presenta",
+            "publisher": "Spotify Studios",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f861688f48af900edea31be3f",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/7sBz3825on9pl9n0BfMuVp"
+        },
+        {
+            "rank": 8,
+            "spotify_id": "0MC8rVX0zdIwUlEVzgVdDD",
+            "name": "Músicos de Sillón",
+            "publisher": "Sonoro | SINCO",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1ffe0ca1327ac2938055a3fe57",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/0MC8rVX0zdIwUlEVzgVdDD"
         },
         {
             "rank": 9,
-            "spotify_id": "6Uzl0S9t4dE9azuRoSzh4B",
-            "name": "YORDI EN EXA",
-            "publisher": "MVS Radio",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f6a7a6bd2e100b634824eaf3a",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/6Uzl0S9t4dE9azuRoSzh4B"
-        },
-        {
-            "rank": 10,
             "spotify_id": "6jM5ZsUL1GKVPb8xtwrNEj",
             "name": "Beba Podcast",
             "publisher": "Beba Podcast",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f49f709cf29701bfa190c819a",
-            "rank_move": "UNCHANGED",
+            "rank_move": "UP",
             "url": "https:\/\/open.spotify.com\/show\/6jM5ZsUL1GKVPb8xtwrNEj"
         },
         {
+            "rank": 10,
+            "spotify_id": "6Uzl0S9t4dE9azuRoSzh4B",
+            "name": "YORDI EN EXA",
+            "publisher": "MVS Radio",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f6a7a6bd2e100b634824eaf3a",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/6Uzl0S9t4dE9azuRoSzh4B"
+        },
+        {
             "rank": 11,
+            "spotify_id": "2a2HgSBlhhUr73p1oQo4cI",
+            "name": "El Corrido De Jesus Herrera ",
+            "publisher": "Josue Torres",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fb862cea3830779262297427b",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/2a2HgSBlhhUr73p1oQo4cI"
+        },
+        {
+            "rank": 12,
+            "spotify_id": "28jLnjH1Jr9NcyQmeGvwrK",
+            "name": "RADIOSHOW",
+            "publisher": "Akio Annechini",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f78a5175638d8ce07305d517f",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/28jLnjH1Jr9NcyQmeGvwrK"
+        },
+        {
+            "rank": 13,
             "spotify_id": "55su4SAEyvv2mbGzQxr4Zr",
             "name": "POESIA Y REFLEXION",
             "publisher": "Sergio Armando Rodriguez Ortega",
@@ -106,31 +124,13 @@
             "url": "https:\/\/open.spotify.com\/show\/55su4SAEyvv2mbGzQxr4Zr"
         },
         {
-            "rank": 12,
-            "spotify_id": "28jLnjH1Jr9NcyQmeGvwrK",
-            "name": "RADIOSHOW",
-            "publisher": "Akio Annechini",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f78a5175638d8ce07305d517f",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/28jLnjH1Jr9NcyQmeGvwrK"
-        },
-        {
-            "rank": 13,
+            "rank": 14,
             "spotify_id": "56hx0zT5kdYRj7kh2XdkEN",
             "name": "Ven Con un Cuento",
             "publisher": "Spotify Studios",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fe0b813095f3309c08580774c",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/56hx0zT5kdYRj7kh2XdkEN"
-        },
-        {
-            "rank": 14,
-            "spotify_id": "3IxfOJ9NrXN7rVp669eHxk",
-            "name": "SANTOS BRAVOS -  El Podcast",
-            "publisher": "HYBE Latin America",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fcd5eb93a75ab3f5fbdc25cca",
             "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/3IxfOJ9NrXN7rVp669eHxk"
+            "url": "https:\/\/open.spotify.com\/show\/56hx0zT5kdYRj7kh2XdkEN"
         },
         {
             "rank": 15,
@@ -143,24 +143,15 @@
         },
         {
             "rank": 16,
-            "spotify_id": "44Vtu1B21sSjukrvs6L2dq",
-            "name": "El Buscador",
-            "publisher": "HISPA",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f57ab7fbc93ef82dca41e8bfc",
+            "spotify_id": "3IxfOJ9NrXN7rVp669eHxk",
+            "name": "SANTOS BRAVOS -  El Podcast",
+            "publisher": "HYBE Latin America",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fcd5eb93a75ab3f5fbdc25cca",
             "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/44Vtu1B21sSjukrvs6L2dq"
+            "url": "https:\/\/open.spotify.com\/show\/3IxfOJ9NrXN7rVp669eHxk"
         },
         {
             "rank": 17,
-            "spotify_id": "1LxIVsl5cb0SHHEOAXOwCz",
-            "name": "¡Ya Párate!",
-            "publisher": "LOS40",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f8ad58cb4040421555243a74f",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/1LxIVsl5cb0SHHEOAXOwCz"
-        },
-        {
-            "rank": 18,
             "spotify_id": "2sSwfmHAKB4ScUrw6eCNaa",
             "name": "RED MAESTRA OFICIAL",
             "publisher": "Red Maestra",
@@ -169,22 +160,31 @@
             "url": "https:\/\/open.spotify.com\/show\/2sSwfmHAKB4ScUrw6eCNaa"
         },
         {
+            "rank": 18,
+            "spotify_id": "44Vtu1B21sSjukrvs6L2dq",
+            "name": "El Buscador",
+            "publisher": "HISPA",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f57ab7fbc93ef82dca41e8bfc",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/44Vtu1B21sSjukrvs6L2dq"
+        },
+        {
             "rank": 19,
+            "spotify_id": "1LxIVsl5cb0SHHEOAXOwCz",
+            "name": "¡Ya Párate!",
+            "publisher": "LOS40",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f8ad58cb4040421555243a74f",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/1LxIVsl5cb0SHHEOAXOwCz"
+        },
+        {
+            "rank": 20,
             "spotify_id": "2gKF5B0riZozFbFN2Emcch",
             "name": "VINILANDIA ",
             "publisher": "Vinilandia",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fca186a8c5b4d328ba4b864f1",
-            "rank_move": "UP",
+            "rank_move": "UNCHANGED",
             "url": "https:\/\/open.spotify.com\/show\/2gKF5B0riZozFbFN2Emcch"
-        },
-        {
-            "rank": 20,
-            "spotify_id": "2lvHTYAERwoYusBDhCufEd",
-            "name": "MTV Lado B",
-            "publisher": "MTVLA",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fe6a8bd0c3f9a5e44c2d52494",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/2lvHTYAERwoYusBDhCufEd"
         },
         {
             "rank": 21,
@@ -192,65 +192,11 @@
             "name": "Jamcast",
             "publisher": "Chordhouse",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f616248c7b5521bf4aee280b3",
-            "rank_move": "UP",
+            "rank_move": "UNCHANGED",
             "url": "https:\/\/open.spotify.com\/show\/5nKtqkpa1dn8iLH6E05KZX"
         },
         {
             "rank": 22,
-            "spotify_id": "2f6XKoBVtRRBpVep51ZgPA",
-            "name": "Soldier Boy-Rapture",
-            "publisher": "Renan",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f2c396314acc2233d8f14de0b",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/2f6XKoBVtRRBpVep51ZgPA"
-        },
-        {
-            "rank": 23,
-            "spotify_id": "3mNzAtzbx87dJmkrz7HtS5",
-            "name": "STAN:A",
-            "publisher": "HYBE MEDIA STUDIO",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f21e47d5addfd3329e40533b7",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/3mNzAtzbx87dJmkrz7HtS5"
-        },
-        {
-            "rank": 24,
-            "spotify_id": "6CBYQ2jr5nHCGfowPxeCVX",
-            "name": "El Reportero Del Barrio",
-            "publisher": "MVS Radio",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f251da565de5b941565709535",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/6CBYQ2jr5nHCGfowPxeCVX"
-        },
-        {
-            "rank": 25,
-            "spotify_id": "1kQfl4vJmL9U1iKF6ifY6o",
-            "name": "Abstracta Mente",
-            "publisher": "Julio Orozco",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f57cafc833717ff4d8dbad64d",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/1kQfl4vJmL9U1iKF6ifY6o"
-        },
-        {
-            "rank": 26,
-            "spotify_id": "6L3dmx7tYvW7BvH6PbMKE1",
-            "name": "Spotify Anniversary",
-            "publisher": "Spotify Music Studios",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f43ac51f530755580da8f6c35",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/6L3dmx7tYvW7BvH6PbMKE1"
-        },
-        {
-            "rank": 27,
-            "spotify_id": "0iAKcXJyD4fv3rIZFVyqcQ",
-            "name": "Coming Soonish",
-            "publisher": "Coming Soonish",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fe62a5a8e14bf62c12bef82b0",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/0iAKcXJyD4fv3rIZFVyqcQ"
-        },
-        {
-            "rank": 28,
             "spotify_id": "033rd2sEcYLwRPgxHSYaPL",
             "name": "Alofoke Songs",
             "publisher": "Alofoke Songs",
@@ -259,7 +205,70 @@
             "url": "https:\/\/open.spotify.com\/show\/033rd2sEcYLwRPgxHSYaPL"
         },
         {
+            "rank": 23,
+            "spotify_id": "2dWRQUCPIbt7hOLSsadA7a",
+            "name": "El Bordo Mx podcast",
+            "publisher": "Fernando Puente",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fa0e97f8320e6c8c343f4bef3",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/2dWRQUCPIbt7hOLSsadA7a"
+        },
+        {
+            "rank": 24,
+            "spotify_id": "6L3dmx7tYvW7BvH6PbMKE1",
+            "name": "Spotify Anniversary",
+            "publisher": "Spotify Music Studios",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f43ac51f530755580da8f6c35",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/6L3dmx7tYvW7BvH6PbMKE1"
+        },
+        {
+            "rank": 25,
+            "spotify_id": "2f6XKoBVtRRBpVep51ZgPA",
+            "name": "Soldier Boy-Rapture",
+            "publisher": "Renan",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f2c396314acc2233d8f14de0b",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/2f6XKoBVtRRBpVep51ZgPA"
+        },
+        {
+            "rank": 26,
+            "spotify_id": "6CBYQ2jr5nHCGfowPxeCVX",
+            "name": "El Reportero Del Barrio",
+            "publisher": "MVS Radio",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f251da565de5b941565709535",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/6CBYQ2jr5nHCGfowPxeCVX"
+        },
+        {
+            "rank": 27,
+            "spotify_id": "1T0vrayeibFiq7ZLNKvJRn",
+            "name": "Radio Paini",
+            "publisher": "Andrés González",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f9ef77461984676fc86b27c5b",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/1T0vrayeibFiq7ZLNKvJRn"
+        },
+        {
+            "rank": 28,
+            "spotify_id": "4HJ7uSm3p6ApHa2xxi5N5L",
+            "name": "Lo Que Calla Mi Wrapped",
+            "publisher": "Spotify Studios",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fca0a79f941633c80f90a2f76",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/4HJ7uSm3p6ApHa2xxi5N5L"
+        },
+        {
             "rank": 29,
+            "spotify_id": "1kQfl4vJmL9U1iKF6ifY6o",
+            "name": "Abstracta Mente",
+            "publisher": "Julio Orozco",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f57cafc833717ff4d8dbad64d",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/1kQfl4vJmL9U1iKF6ifY6o"
+        },
+        {
+            "rank": 30,
             "spotify_id": "2daGL1hHDtIilxlRYMaae2",
             "name": "el compositor del año ",
             "publisher": "paula fernandez",
@@ -268,43 +277,43 @@
             "url": "https:\/\/open.spotify.com\/show\/2daGL1hHDtIilxlRYMaae2"
         },
         {
-            "rank": 30,
+            "rank": 31,
             "spotify_id": "033wN3Tl0eziT0gvBI0L7u",
             "name": " 𓈒🖥🎹💿 ̣̣ ۟    ―     愛     ꓄𝗲𝗮𝗹'𝘀 𝗺𝘂𝘀𝗶𝗰 𝘀𝘁𝘂𝗱𝗶𝗼 𖦹",
             "publisher": "🖥📎 ﹫  𝙏𝙚𝙖𝙡  ／  𝙏𝙚𝙖𝙡𝙞𝙤    ݂      𓄳   🎹💿",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fce99970613d57cc518912a1b",
-            "rank_move": "NEW",
+            "rank_move": "DOWN",
             "url": "https:\/\/open.spotify.com\/show\/033wN3Tl0eziT0gvBI0L7u"
         },
         {
-            "rank": 31,
+            "rank": 32,
             "spotify_id": "2Kivoc9cRB2X6ILCLVt6Ap",
             "name": "Ottoke Ottoke- Eunha",
             "publisher": "Suga's tangerine",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1ffbfb3a2adbe1759b88a68a83",
-            "rank_move": "DOWN",
+            "rank_move": "UP",
             "url": "https:\/\/open.spotify.com\/show\/2Kivoc9cRB2X6ILCLVt6Ap"
         },
         {
-            "rank": 32,
+            "rank": 33,
+            "spotify_id": "033odWksNe3dvYTgdipBPx",
+            "name": "𝓜𝓻𝓼. 𝓟𝓸𝓽𝓪𝓽𝓸 𝓗𝓮𝓪𝓭, 𝓣𝓮𝓵𝓵 𝓜𝓮 ♡",
+            "publisher": "𝘭𝘢𝘺𝘭𝘢♡",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fdb7251b9c1d7f862b1173e79",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/033odWksNe3dvYTgdipBPx"
+        },
+        {
+            "rank": 34,
             "spotify_id": "4u6BNfunXZjgdH15zVbNtR",
             "name": "CARA A CARA con Cora",
             "publisher": "Cora Nelda Gonzalez",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f26b583dc0c8057fcdffa9642",
-            "rank_move": "UP",
+            "rank_move": "DOWN",
             "url": "https:\/\/open.spotify.com\/show\/4u6BNfunXZjgdH15zVbNtR"
         },
         {
-            "rank": 33,
-            "spotify_id": "1T0vrayeibFiq7ZLNKvJRn",
-            "name": "Radio Paini",
-            "publisher": "Andrés González",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f9ef77461984676fc86b27c5b",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/1T0vrayeibFiq7ZLNKvJRn"
-        },
-        {
-            "rank": 34,
+            "rank": 35,
             "spotify_id": "4qFfNuV6bUqMkU35ziBtIr",
             "name": "Take Me Away - Freaky Friday",
             "publisher": "Ley Kim",
@@ -313,7 +322,124 @@
             "url": "https:\/\/open.spotify.com\/show\/4qFfNuV6bUqMkU35ziBtIr"
         },
         {
-            "rank": 35,
+            "rank": 36,
+            "spotify_id": "15fTYyVWNfPWUczsZEngwL",
+            "name": "El Flowcast",
+            "publisher": "Héctor Elí",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f2309564b952cef824f6f2738",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/15fTYyVWNfPWUczsZEngwL"
+        },
+        {
+            "rank": 37,
+            "spotify_id": "0iAKcXJyD4fv3rIZFVyqcQ",
+            "name": "Coming Soonish",
+            "publisher": "Coming Soonish",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fe62a5a8e14bf62c12bef82b0",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/0iAKcXJyD4fv3rIZFVyqcQ"
+        },
+        {
+            "rank": 38,
+            "spotify_id": "7CxDuoKojREVWh7ckhxl9W",
+            "name": "Besties con MTV",
+            "publisher": "MTVLA",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f788c19c6d976719b552d3f18",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/7CxDuoKojREVWh7ckhxl9W"
+        },
+        {
+            "rank": 39,
+            "spotify_id": "10lMwCjvzLCLwth2AW6cLG",
+            "name": "Song Exploder",
+            "publisher": "Hrishikesh Hirway",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fd10df910a507806f8c559542",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/10lMwCjvzLCLwth2AW6cLG"
+        },
+        {
+            "rank": 40,
+            "spotify_id": "2K5tDp2QRuZy16KTWoWq6B",
+            "name": "Spotify Presents",
+            "publisher": "Spotify",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f7b32df1dc40ab27be60b621c",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/2K5tDp2QRuZy16KTWoWq6B"
+        },
+        {
+            "rank": 41,
+            "spotify_id": "2PQMktCkk7MMRPuKGTTg6F",
+            "name": "Angel De Arranque | El Podcast De La Radio",
+            "publisher": "Javier Rembao",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fd8d2dc6032b684dcfe72fc10",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/2PQMktCkk7MMRPuKGTTg6F"
+        },
+        {
+            "rank": 42,
+            "spotify_id": "5valGYNFbiKyQ9vmY8NTdJ",
+            "name": "ROCKABULARIO ",
+            "publisher": "PASTO PASTOR",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f90871bd55eda17d4a70da8b4",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/5valGYNFbiKyQ9vmY8NTdJ"
+        },
+        {
+            "rank": 43,
+            "spotify_id": "033uD8AJRTF7cogr0i4Tug",
+            "name": "HeartsPod",
+            "publisher": "Hearts2Hearts",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f9abf7cb2946741df1ab3961a",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/033uD8AJRTF7cogr0i4Tug"
+        },
+        {
+            "rank": 44,
+            "spotify_id": "5Tl5uGQdWsbSdZEirSJZPC",
+            "name": "106.2 East Los FM",
+            "publisher": "Ronaldo Messi",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f9d1a656c803f05dd146306e2",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/5Tl5uGQdWsbSdZEirSJZPC"
+        },
+        {
+            "rank": 45,
+            "spotify_id": "78hb7uZVJgudPVUFq9FOJt",
+            "name": "Pepe's Office",
+            "publisher": "Pepe Garza",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f965897b3c9cec93e5fe6f63f",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/78hb7uZVJgudPVUFq9FOJt"
+        },
+        {
+            "rank": 46,
+            "spotify_id": "1buEv3qqa3ZHvlRTcdT32G",
+            "name": "Las Kinky Talks",
+            "publisher": "SayYeahTV",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fe11f00c2679fb799ae5d3b86",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/1buEv3qqa3ZHvlRTcdT32G"
+        },
+        {
+            "rank": 47,
+            "spotify_id": "6inpned8MmDFMQQqEByF2s",
+            "name": "Entrevistas de Yordi en EXA",
+            "publisher": "MVS Radio",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1feae4c2f7a603c69f62915f8c",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/6inpned8MmDFMQQqEByF2s"
+        },
+        {
+            "rank": 48,
+            "spotify_id": "4MPQPX3CO7Kb2WjbSFSpBG",
+            "name": "Puntos de Vista con Ernesto Barajas",
+            "publisher": "Ernesto Barajas",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f0acd9c265b7dc29733f78338",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/4MPQPX3CO7Kb2WjbSFSpBG"
+        },
+        {
+            "rank": 49,
             "spotify_id": "033k4HPcrDJyCr2SLFCicL",
             "name": "BBC Radio 1",
             "publisher": "BBC Music",
@@ -322,139 +448,13 @@
             "url": "https:\/\/open.spotify.com\/show\/033k4HPcrDJyCr2SLFCicL"
         },
         {
-            "rank": 36,
-            "spotify_id": "4HJ7uSm3p6ApHa2xxi5N5L",
-            "name": "Lo Que Calla Mi Wrapped",
-            "publisher": "Spotify Studios",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fca0a79f941633c80f90a2f76",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/4HJ7uSm3p6ApHa2xxi5N5L"
-        },
-        {
-            "rank": 37,
-            "spotify_id": "7sBz3825on9pl9n0BfMuVp",
-            "name": "Spotify Presenta",
-            "publisher": "Spotify Studios",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f861688f48af900edea31be3f",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/7sBz3825on9pl9n0BfMuVp"
-        },
-        {
-            "rank": 38,
-            "spotify_id": "2K5tDp2QRuZy16KTWoWq6B",
-            "name": "Spotify Presents",
-            "publisher": "Spotify",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f7b32df1dc40ab27be60b621c",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/2K5tDp2QRuZy16KTWoWq6B"
-        },
-        {
-            "rank": 39,
-            "spotify_id": "49OwrixbpMZv50gcLPH9TV",
-            "name": "Music PIls",
-            "publisher": "Servizi Radio",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f94f52ca224075c6411271ad4",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/49OwrixbpMZv50gcLPH9TV"
-        },
-        {
-            "rank": 40,
-            "spotify_id": "033odWksNe3dvYTgdipBPx",
-            "name": "𝓜𝓻𝓼. 𝓟𝓸𝓽𝓪𝓽𝓸 𝓗𝓮𝓪𝓭, 𝓣𝓮𝓵𝓵 𝓜𝓮 ♡",
-            "publisher": "𝘭𝘢𝘺𝘭𝘢♡",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fdb7251b9c1d7f862b1173e79",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/033odWksNe3dvYTgdipBPx"
-        },
-        {
-            "rank": 41,
-            "spotify_id": "5KYTveuTY4nydCKG8yTxjJ",
-            "name": "Living for the City ",
-            "publisher": "Side Stage",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fbb97ecd5c4f08fb8ebc1754d",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/5KYTveuTY4nydCKG8yTxjJ"
-        },
-        {
-            "rank": 42,
-            "spotify_id": "1buEv3qqa3ZHvlRTcdT32G",
-            "name": "Las Kinky Talks",
-            "publisher": "SayYeahTV",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fe11f00c2679fb799ae5d3b86",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/1buEv3qqa3ZHvlRTcdT32G"
-        },
-        {
-            "rank": 43,
-            "spotify_id": "4suXmIFFVmL3qdWG3eFHE2",
-            "name": "Jessie Cervantes",
-            "publisher": "Jessie Cervantes",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f12a9ab9a5e6f256fdb317a2c",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/4suXmIFFVmL3qdWG3eFHE2"
-        },
-        {
-            "rank": 44,
-            "spotify_id": "0JYnvKcwV4WgLUDeDUcYEM",
-            "name": "Dangerously Yours- audios",
-            "publisher": "!¡camila&#730;&#729;&#9734;",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1ff25445bf647e77d8737ea843",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/0JYnvKcwV4WgLUDeDUcYEM"
-        },
-        {
-            "rank": 45,
-            "spotify_id": "7CxDuoKojREVWh7ckhxl9W",
-            "name": "Besties con MTV",
-            "publisher": "MTVLA",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f788c19c6d976719b552d3f18",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/7CxDuoKojREVWh7ckhxl9W"
-        },
-        {
-            "rank": 46,
-            "spotify_id": "44Qmj049ZO2wZkIWPEEolm",
-            "name": "Avándaro: Principio y Fin del Rock Mexicano",
-            "publisher": "Free Convoy Network",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1ff67600b6ed611ecb22b0414f",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/44Qmj049ZO2wZkIWPEEolm"
-        },
-        {
-            "rank": 47,
-            "spotify_id": "78hb7uZVJgudPVUFq9FOJt",
-            "name": "Pepe's Office",
-            "publisher": "Pepe Garza",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f965897b3c9cec93e5fe6f63f",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/78hb7uZVJgudPVUFq9FOJt"
-        },
-        {
-            "rank": 48,
-            "spotify_id": "15fTYyVWNfPWUczsZEngwL",
-            "name": "El Flowcast",
-            "publisher": "Héctor Elí",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f2309564b952cef824f6f2738",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/15fTYyVWNfPWUczsZEngwL"
-        },
-        {
-            "rank": 49,
-            "spotify_id": "260Jl3J7ZD4K0RULK1cgjr",
-            "name": "El Reportero Del Barrio",
-            "publisher": "MVS Radio",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f3596a59dadd05208b06ec13f",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/260Jl3J7ZD4K0RULK1cgjr"
-        },
-        {
             "rank": 50,
-            "spotify_id": "10lMwCjvzLCLwth2AW6cLG",
-            "name": "Song Exploder",
-            "publisher": "Hrishikesh Hirway",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fd10df910a507806f8c559542",
+            "spotify_id": "76Awaaer4nD130SxSZux6F",
+            "name": "De Todas las Flores, El Podcast",
+            "publisher": "Natalia Lafourcade",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f910128e60b9cdcedb50748b6",
             "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/10lMwCjvzLCLwth2AW6cLG"
+            "url": "https:\/\/open.spotify.com\/show\/76Awaaer4nD130SxSZux6F"
         }
     ]
 }

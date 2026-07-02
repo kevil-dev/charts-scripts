@@ -3,7 +3,7 @@
     "country": "mx",
     "genre": "News",
     "slug": "news",
-    "fetched_at": "2026-06-24T06:38:09Z",
+    "fetched_at": "2026-07-01T04:44:56Z",
     "count": 50,
     "shows": [
         {
@@ -17,15 +17,6 @@
         },
         {
             "rank": 2,
-            "spotify_id": "5jrWRJhdOqSsxBFaZkPHv5",
-            "name": "Narcosistema con Anabel Hernández",
-            "publisher": "Pitaya Entertainment",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f40b439a533c163ab60f6e8ac",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/5jrWRJhdOqSsxBFaZkPHv5"
-        },
-        {
-            "rank": 3,
             "spotify_id": "3549T9pqHfPV6F0MF2lwu5",
             "name": "TU DOSIS DIARIA DE INFORMACIÓN con JACOBO WONG",
             "publisher": "Jacobo Wong",
@@ -34,13 +25,22 @@
             "url": "https:\/\/open.spotify.com\/show\/3549T9pqHfPV6F0MF2lwu5"
         },
         {
-            "rank": 4,
+            "rank": 3,
             "spotify_id": "1nS40a6gR0w53seTurNddC",
             "name": "El Noti",
             "publisher": "Maca Carriedo y Javier Garza",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f73f40afd2150841cc909be1f",
-            "rank_move": "UNCHANGED",
+            "rank_move": "UP",
             "url": "https:\/\/open.spotify.com\/show\/1nS40a6gR0w53seTurNddC"
+        },
+        {
+            "rank": 4,
+            "spotify_id": "5jrWRJhdOqSsxBFaZkPHv5",
+            "name": "Narcosistema con Anabel Hernández",
+            "publisher": "Pitaya Entertainment",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f40b439a533c163ab60f6e8ac",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/5jrWRJhdOqSsxBFaZkPHv5"
         },
         {
             "rank": 5,
@@ -80,15 +80,6 @@
         },
         {
             "rank": 9,
-            "spotify_id": "6iDL4cWORsaZwwVUcp6djF",
-            "name": "Tercer Grado",
-            "publisher": "N+ Podcast",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f5c75b01332ce935ab7fb093f",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/6iDL4cWORsaZwwVUcp6djF"
-        },
-        {
-            "rank": 10,
             "spotify_id": "5Gka9laolwx0TzJ0biYpxz",
             "name": "Tu Shot",
             "publisher": "Te lo cuento",
@@ -97,40 +88,49 @@
             "url": "https:\/\/open.spotify.com\/show\/5Gka9laolwx0TzJ0biYpxz"
         },
         {
-            "rank": 11,
-            "spotify_id": "4CWgpafBfzxjRJO72oU4m1",
-            "name": "Así se hacen los chismes",
-            "publisher": "Martha Figueroa",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f5c64bb62aca91e2957f1c0d5",
+            "rank": 10,
+            "spotify_id": "6iDL4cWORsaZwwVUcp6djF",
+            "name": "Tercer Grado",
+            "publisher": "N+ Podcast",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f5c75b01332ce935ab7fb093f",
             "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/4CWgpafBfzxjRJO72oU4m1"
+            "url": "https:\/\/open.spotify.com\/show\/6iDL4cWORsaZwwVUcp6djF"
         },
         {
-            "rank": 12,
+            "rank": 11,
             "spotify_id": "2rC80W9HKnkwDlsDOWHbgH",
             "name": "Envinadas",
             "publisher": "Envinadas",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f59e4c655c5c47a00e6384ab6",
-            "rank_move": "UP",
+            "rank_move": "UNCHANGED",
             "url": "https:\/\/open.spotify.com\/show\/2rC80W9HKnkwDlsDOWHbgH"
         },
         {
+            "rank": 12,
+            "spotify_id": "7bncg5AkyumTO0Gamr42zI",
+            "name": "Pinky Promise con Karla Díaz",
+            "publisher": "pinkypromisetv",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f7878308555debcd9fe6741aa",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/7bncg5AkyumTO0Gamr42zI"
+        },
+        {
             "rank": 13,
-            "spotify_id": "7B5754I5W4UlzQsPrKm3JW",
-            "name": "Ciro Gómez Leyva por la Mañana",
-            "publisher": "Radio Fórmula",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f5b5212d7ef91d0997036107e",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/7B5754I5W4UlzQsPrKm3JW"
+            "spotify_id": "4NGoEpjwtJL5N6QhJhzEUV",
+            "name": "Desmenucemos la Data",
+            "publisher": "Fernando",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fae3ce8d19be49d1e6eec7b87",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/4NGoEpjwtJL5N6QhJhzEUV"
         },
         {
             "rank": 14,
-            "spotify_id": "1jufqQUXJQw32CLNViyyEH",
-            "name": "Aristegui Noticias Podcast",
-            "publisher": "Sonoro, Aristegui",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fda765aa6ea4af21a71e10fc3",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/1jufqQUXJQw32CLNViyyEH"
+            "spotify_id": "4CWgpafBfzxjRJO72oU4m1",
+            "name": "Así se hacen los chismes",
+            "publisher": "Martha Figueroa",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f5c64bb62aca91e2957f1c0d5",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/4CWgpafBfzxjRJO72oU4m1"
         },
         {
             "rank": 15,
@@ -143,33 +143,42 @@
         },
         {
             "rank": 16,
+            "spotify_id": "7B5754I5W4UlzQsPrKm3JW",
+            "name": "Ciro Gómez Leyva por la Mañana",
+            "publisher": "Radio Fórmula",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f5b5212d7ef91d0997036107e",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/7B5754I5W4UlzQsPrKm3JW"
+        },
+        {
+            "rank": 17,
             "spotify_id": "7eZJ8BEDBB2fdISMIznLKl",
             "name": "Es la Hora de Opinar",
             "publisher": "N+ Podcast",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f50ad62aa9f587eaf8c947c38",
-            "rank_move": "UNCHANGED",
+            "rank_move": "DOWN",
             "url": "https:\/\/open.spotify.com\/show\/7eZJ8BEDBB2fdISMIznLKl"
         },
         {
-            "rank": 17,
+            "rank": 18,
             "spotify_id": "6Y7m1gQ2Uby15Hy3ow2jRu",
             "name": "Latinus Diario",
             "publisher": "LatinUs",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fe988a729614b45d798dc45c1",
-            "rank_move": "UP",
+            "rank_move": "DOWN",
             "url": "https:\/\/open.spotify.com\/show\/6Y7m1gQ2Uby15Hy3ow2jRu"
         },
         {
-            "rank": 18,
+            "rank": 19,
             "spotify_id": "5zTJWoWFOpbxCceO9UsBQV",
             "name": "TU DÍA CON EL UNIVERSAL",
             "publisher": "El Universal",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f18d4661d175f1c057d8bb7ab",
-            "rank_move": "UP",
+            "rank_move": "DOWN",
             "url": "https:\/\/open.spotify.com\/show\/5zTJWoWFOpbxCceO9UsBQV"
         },
         {
-            "rank": 19,
+            "rank": 20,
             "spotify_id": "4zJjzOg3ZMMxjLZqAmIh1F",
             "name": "Expansión Daily: Lo que hay que saber",
             "publisher": "Grupo Expansión",
@@ -178,16 +187,16 @@
             "url": "https:\/\/open.spotify.com\/show\/4zJjzOg3ZMMxjLZqAmIh1F"
         },
         {
-            "rank": 20,
-            "spotify_id": "7bncg5AkyumTO0Gamr42zI",
-            "name": "Pinky Promise con Karla Díaz",
-            "publisher": "pinkypromisetv",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f7878308555debcd9fe6741aa",
+            "rank": 21,
+            "spotify_id": "1jufqQUXJQw32CLNViyyEH",
+            "name": "Aristegui Noticias Podcast",
+            "publisher": "Sonoro, Aristegui",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fda765aa6ea4af21a71e10fc3",
             "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/7bncg5AkyumTO0Gamr42zI"
+            "url": "https:\/\/open.spotify.com\/show\/1jufqQUXJQw32CLNViyyEH"
         },
         {
-            "rank": 21,
+            "rank": 22,
             "spotify_id": "43rcJFrIwMyaiJO8VGH3pD",
             "name": "N+ Diario",
             "publisher": "N+ Podcast",
@@ -196,7 +205,25 @@
             "url": "https:\/\/open.spotify.com\/show\/43rcJFrIwMyaiJO8VGH3pD"
         },
         {
-            "rank": 22,
+            "rank": 23,
+            "spotify_id": "0RfAJBx1VhTalJYO6h5C75",
+            "name": "Los Talegones",
+            "publisher": "Los Talegones",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f1f5158791091a3e9b0252975",
+            "rank_move": "NEW",
+            "url": "https:\/\/open.spotify.com\/show\/0RfAJBx1VhTalJYO6h5C75"
+        },
+        {
+            "rank": 24,
+            "spotify_id": "378XzggN4b7xV1vpuWKSsV",
+            "name": "René Franco presenta La Taquilla",
+            "publisher": "Pitaya Entertainment",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fbfad6a9fca2591b0b38bb3ac",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/378XzggN4b7xV1vpuWKSsV"
+        },
+        {
+            "rank": 25,
             "spotify_id": "3IM0lmZxpFAY7CwMuv9H4g",
             "name": "The Daily",
             "publisher": "The New York Times",
@@ -205,79 +232,79 @@
             "url": "https:\/\/open.spotify.com\/show\/3IM0lmZxpFAY7CwMuv9H4g"
         },
         {
-            "rank": 23,
-            "spotify_id": "0q8PWTQPWrbOeotqS6Emwt",
-            "name": "Así las cosas con Carlos Loret de Mola",
-            "publisher": "WRadio",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f69496473c93c28e0d3245846",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/0q8PWTQPWrbOeotqS6Emwt"
-        },
-        {
-            "rank": 24,
-            "spotify_id": "378XzggN4b7xV1vpuWKSsV",
-            "name": "René Franco presenta La Taquilla",
-            "publisher": "Pitaya Entertainment",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fbfad6a9fca2591b0b38bb3ac",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/378XzggN4b7xV1vpuWKSsV"
-        },
-        {
-            "rank": 25,
+            "rank": 26,
             "spotify_id": "2CJUbUMrPbD0tJSfkWTilD",
             "name": "La Saga Podcasts",
             "publisher": "Pitaya Entertainment, La Saga con Adela Micha",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f201cfb8037960c784b97abc5",
-            "rank_move": "UNCHANGED",
+            "rank_move": "DOWN",
             "url": "https:\/\/open.spotify.com\/show\/2CJUbUMrPbD0tJSfkWTilD"
         },
         {
-            "rank": 26,
+            "rank": 27,
             "spotify_id": "0vDgnorbpBr65YZzFVVouE",
             "name": "CNN 5 Cosas",
             "publisher": "CNN en Español",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fcce49442d76f5dfbf20bdb39",
-            "rank_move": "UNCHANGED",
+            "rank_move": "DOWN",
             "url": "https:\/\/open.spotify.com\/show\/0vDgnorbpBr65YZzFVVouE"
         },
         {
-            "rank": 27,
+            "rank": 28,
+            "spotify_id": "0q8PWTQPWrbOeotqS6Emwt",
+            "name": "Así las cosas con Carlos Loret de Mola",
+            "publisher": "WRadio",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f69496473c93c28e0d3245846",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/0q8PWTQPWrbOeotqS6Emwt"
+        },
+        {
+            "rank": 29,
             "spotify_id": "6NohCptkHoUdIvgr7d0C43",
             "name": "Las Noticias del Día (MX)",
             "publisher": "Las Noticias del Día (MX)",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fd2d45ed5564cc83d1901f2ea",
-            "rank_move": "UNCHANGED",
+            "rank_move": "DOWN",
             "url": "https:\/\/open.spotify.com\/show\/6NohCptkHoUdIvgr7d0C43"
         },
         {
-            "rank": 28,
-            "spotify_id": "6R5TuRDRbGE27IyBxSxssj",
-            "name": "Fórmula Noticias con Azucena Uresti",
-            "publisher": "Radio Fórmula",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f127466028b6e7ba55b333e12",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/6R5TuRDRbGE27IyBxSxssj"
-        },
-        {
-            "rank": 29,
-            "spotify_id": "1AuwiQcKqEMVXMIB74k4CV",
-            "name": "Julio Patán y Juan Ignacio Zavala en El Heraldo Radio",
-            "publisher": "Heraldo Podcast",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fe40882958cd59e747a479172",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/1AuwiQcKqEMVXMIB74k4CV"
-        },
-        {
             "rank": 30,
+            "spotify_id": "7CzHDusNXRICUXuefIXbxd",
+            "name": "DW Actualidad en análisis",
+            "publisher": "DW",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f5cce0f2aab29d084112d73af",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/7CzHDusNXRICUXuefIXbxd"
+        },
+        {
+            "rank": 31,
             "spotify_id": "0svpg6jMaVMRlNcJfdBAvR",
             "name": "En Boca de León",
             "publisher": "León Krauze",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f602c6d15375b5006ce520643",
-            "rank_move": "UP",
+            "rank_move": "DOWN",
             "url": "https:\/\/open.spotify.com\/show\/0svpg6jMaVMRlNcJfdBAvR"
         },
         {
-            "rank": 31,
+            "rank": 32,
+            "spotify_id": "6R5TuRDRbGE27IyBxSxssj",
+            "name": "Fórmula Noticias con Azucena Uresti",
+            "publisher": "Radio Fórmula",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f127466028b6e7ba55b333e12",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/6R5TuRDRbGE27IyBxSxssj"
+        },
+        {
+            "rank": 33,
+            "spotify_id": "5PBxJK5HUESirxsxeaLs2T",
+            "name": "Oscar Morales Podcast",
+            "publisher": "Morales Producciones",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1ff63540fe355f72fb85bff64d",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/5PBxJK5HUESirxsxeaLs2T"
+        },
+        {
+            "rank": 34,
             "spotify_id": "3skDSKvB1twtAxgLh0645y",
             "name": "El hilo",
             "publisher": "My Cultura and iHeartPodcasts",
@@ -286,7 +313,16 @@
             "url": "https:\/\/open.spotify.com\/show\/3skDSKvB1twtAxgLh0645y"
         },
         {
-            "rank": 32,
+            "rank": 35,
+            "spotify_id": "1AuwiQcKqEMVXMIB74k4CV",
+            "name": "Julio Patán y Juan Ignacio Zavala en El Heraldo Radio",
+            "publisher": "Heraldo Podcast",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fe40882958cd59e747a479172",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/1AuwiQcKqEMVXMIB74k4CV"
+        },
+        {
+            "rank": 36,
             "spotify_id": "7GIjPB112ZItDWPcDSG5Ze",
             "name": "El Café de la Mañana",
             "publisher": "Grupo Reforma",
@@ -295,49 +331,13 @@
             "url": "https:\/\/open.spotify.com\/show\/7GIjPB112ZItDWPcDSG5Ze"
         },
         {
-            "rank": 33,
+            "rank": 37,
             "spotify_id": "5ZGlgp8Y6fpXNpg9drwBUs",
             "name": "Primera Plana: Noticias",
             "publisher": "Heraldo Podcast",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f2dd88f881c6f99338ee5dea8",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/5ZGlgp8Y6fpXNpg9drwBUs"
-        },
-        {
-            "rank": 34,
-            "spotify_id": "3ibrjXrz4hEsn257TZdmDq",
-            "name": "Eduardo Ruiz Healy",
-            "publisher": "Radio Fórmula",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f27f61afc7f6b580bbf6393c7",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/3ibrjXrz4hEsn257TZdmDq"
-        },
-        {
-            "rank": 35,
-            "spotify_id": "5G7sO0yl49TLRb0m4qk548",
-            "name": "López-Dóriga",
-            "publisher": "Radio Fórmula",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fd329e367476fbb00f694c18e",
             "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/5G7sO0yl49TLRb0m4qk548"
-        },
-        {
-            "rank": 36,
-            "spotify_id": "7CzHDusNXRICUXuefIXbxd",
-            "name": "DW Actualidad en análisis",
-            "publisher": "DW",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f5cce0f2aab29d084112d73af",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/7CzHDusNXRICUXuefIXbxd"
-        },
-        {
-            "rank": 37,
-            "spotify_id": "5BH7KHBb28tFMSlwB7qTOm",
-            "name": "Broojula",
-            "publisher": "Ana Paula Ordorica",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f4c508721a123a9368af4074f",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/5BH7KHBb28tFMSlwB7qTOm"
+            "url": "https:\/\/open.spotify.com\/show\/5ZGlgp8Y6fpXNpg9drwBUs"
         },
         {
             "rank": 38,
@@ -345,92 +345,29 @@
             "name": "Global News Podcast",
             "publisher": "BBC World Service",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fb0617b8983fa67ffd9678391",
-            "rank_move": "UNCHANGED",
+            "rank_move": "DOWN",
             "url": "https:\/\/open.spotify.com\/show\/3wBfqov60qDZbEVjPHo0a8"
         },
         {
             "rank": 39,
-            "spotify_id": "0hf79hQIMnFMGBsJUkJstw",
-            "name": "Ausentes ",
-            "publisher": "Ausentes",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1faed23d83114b4a4dc397691e",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/0hf79hQIMnFMGBsJUkJstw"
+            "spotify_id": "5BH7KHBb28tFMSlwB7qTOm",
+            "name": "Broojula",
+            "publisher": "Ana Paula Ordorica",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f4c508721a123a9368af4074f",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/5BH7KHBb28tFMSlwB7qTOm"
         },
         {
             "rank": 40,
-            "spotify_id": "0lMK7zHBBc31MsZMFRPjra",
-            "name": "En Portada, historias que se escuchan",
-            "publisher": "Milenio Podcast con Karla Angélica López",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f7bc7b7eed250dd8b3ffc0b8a",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/0lMK7zHBBc31MsZMFRPjra"
+            "spotify_id": "3ibrjXrz4hEsn257TZdmDq",
+            "name": "Eduardo Ruiz Healy",
+            "publisher": "Radio Fórmula",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f27f61afc7f6b580bbf6393c7",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/3ibrjXrz4hEsn257TZdmDq"
         },
         {
             "rank": 41,
-            "spotify_id": "2Dt3rirK86s4Z7cBuuWY6N",
-            "name": "Semanalmente con La Chávez",
-            "publisher": "La Chávez",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1ff26fae4215289609e3ff3de5",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/2Dt3rirK86s4Z7cBuuWY6N"
-        },
-        {
-            "rank": 42,
-            "spotify_id": "5PBxJK5HUESirxsxeaLs2T",
-            "name": "Oscar Morales Podcast",
-            "publisher": "Morales Producciones",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1ff63540fe355f72fb85bff64d",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/5PBxJK5HUESirxsxeaLs2T"
-        },
-        {
-            "rank": 43,
-            "spotify_id": "2xyxgPLviCtxDF3A3Tmg23",
-            "name": "EN SHOCK",
-            "publisher": "Pitaya Entertainment",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f57b38880c3b410e11d208b93",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/2xyxgPLviCtxDF3A3Tmg23"
-        },
-        {
-            "rank": 44,
-            "spotify_id": "1goZX9kZ2SrlYjwYAn6dF3",
-            "name": "PIE DE NOTA | Con Luis Chaparro",
-            "publisher": "Luis Alberto Chaparro",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fef774e966b23f0679e75ce51",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/1goZX9kZ2SrlYjwYAn6dF3"
-        },
-        {
-            "rank": 45,
-            "spotify_id": "4d5pKMELwNWiuNDYoXW0Dt",
-            "name": "Política y otros datos: La vida pública explicada",
-            "publisher": "Grupo Expansión",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f7e2e7493d54467f012a1761b",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/4d5pKMELwNWiuNDYoXW0Dt"
-        },
-        {
-            "rank": 46,
-            "spotify_id": "6yTTxJrxB1YSJseRXpx8kd",
-            "name": "Botepronto",
-            "publisher": "Así Como Suena",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f4b47305dc2b000d48cace5c0",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/6yTTxJrxB1YSJseRXpx8kd"
-        },
-        {
-            "rank": 47,
-            "spotify_id": "3iM6J3KDbrzqcuWfUw0LLk",
-            "name": "¿Qué pasa, Barroso?",
-            "publisher": "Alán Barroso",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1faf5a5341e50dde5e32119a25",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/3iM6J3KDbrzqcuWfUw0LLk"
-        },
-        {
-            "rank": 48,
             "spotify_id": "5LBL5q5I0U991wtnv2Jc0M",
             "name": "Yoshimitsu Cáleon",
             "publisher": "Yoshimitsu Cáleon",
@@ -439,22 +376,85 @@
             "url": "https:\/\/open.spotify.com\/show\/5LBL5q5I0U991wtnv2Jc0M"
         },
         {
-            "rank": 49,
-            "spotify_id": "1J8v4flcoNkGLudezDvlN9",
-            "name": "Punto Final en Fox Deportes",
-            "publisher": "Fox Deportes",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f64e508a1880a684a193147ad",
+            "rank": 42,
+            "spotify_id": "0hf79hQIMnFMGBsJUkJstw",
+            "name": "Ausentes ",
+            "publisher": "Ausentes",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1faed23d83114b4a4dc397691e",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/0hf79hQIMnFMGBsJUkJstw"
+        },
+        {
+            "rank": 43,
+            "spotify_id": "5G7sO0yl49TLRb0m4qk548",
+            "name": "López-Dóriga",
+            "publisher": "Radio Fórmula",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fd329e367476fbb00f694c18e",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/5G7sO0yl49TLRb0m4qk548"
+        },
+        {
+            "rank": 44,
+            "spotify_id": "2xyxgPLviCtxDF3A3Tmg23",
+            "name": "EN SHOCK",
+            "publisher": "Pitaya Entertainment",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f57b38880c3b410e11d208b93",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/2xyxgPLviCtxDF3A3Tmg23"
+        },
+        {
+            "rank": 45,
+            "spotify_id": "2Dt3rirK86s4Z7cBuuWY6N",
+            "name": "Semanalmente con La Chávez",
+            "publisher": "La Chávez",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1ff26fae4215289609e3ff3de5",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/2Dt3rirK86s4Z7cBuuWY6N"
+        },
+        {
+            "rank": 46,
+            "spotify_id": "4XwO4god3p7vsFsQ8K0UOd",
+            "name": "J. Jesús Lemus, El Podcast",
+            "publisher": "J. Jesús Lemus ",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f3a58f906cad8da2f7a4e3be1",
             "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/1J8v4flcoNkGLudezDvlN9"
+            "url": "https:\/\/open.spotify.com\/show\/4XwO4god3p7vsFsQ8K0UOd"
+        },
+        {
+            "rank": 47,
+            "spotify_id": "6yTTxJrxB1YSJseRXpx8kd",
+            "name": "Botepronto",
+            "publisher": "Así Como Suena",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f4b47305dc2b000d48cace5c0",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/6yTTxJrxB1YSJseRXpx8kd"
+        },
+        {
+            "rank": 48,
+            "spotify_id": "0lMK7zHBBc31MsZMFRPjra",
+            "name": "En Portada, historias que se escuchan",
+            "publisher": "Milenio Podcast con Karla Angélica López",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f7bc7b7eed250dd8b3ffc0b8a",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/0lMK7zHBBc31MsZMFRPjra"
+        },
+        {
+            "rank": 49,
+            "spotify_id": "1goZX9kZ2SrlYjwYAn6dF3",
+            "name": "PIE DE NOTA | Con Luis Chaparro",
+            "publisher": "Luis Alberto Chaparro",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fef774e966b23f0679e75ce51",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/1goZX9kZ2SrlYjwYAn6dF3"
         },
         {
             "rank": 50,
-            "spotify_id": "4p8yhhCnBb4A0CXzOELQ8w",
-            "name": "Hasta Aqui mí Reporte",
-            "publisher": "Carol\/Vasco\/Bobby\/PedroLuiz \n",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f7efed8857ebe8b9973c2c915",
+            "spotify_id": "3bKc4nRpxytBmYUwDmVaox",
+            "name": "Armando la Agenda con Amada",
+            "publisher": "Azteca Noticias Podcast",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fa104bb006172b642ad4f8553",
             "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/4p8yhhCnBb4A0CXzOELQ8w"
+            "url": "https:\/\/open.spotify.com\/show\/3bKc4nRpxytBmYUwDmVaox"
         }
     ]
 }

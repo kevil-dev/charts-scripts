@@ -4,21 +4,11 @@
     "genre": "Technology",
     "genre_id": "1318",
     "slug": "technology",
-    "fetched_at": "2026-06-24T06:35:10Z",
+    "fetched_at": "2026-07-01T04:41:53Z",
     "count": 200,
     "shows": [
         {
             "rank": 1,
-            "apple_id": "1050462261",
-            "name": "Acquired",
-            "artist": "Ben Gilbert and David Rosenthal",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/43\/c5\/fb\/43c5fbdf-b302-053a-2704-ba5f74322625\/mza_13119989780540450831.jpg\/170x170bb.png",
-            "genre": "Technology",
-            "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/acquired\/id1050462261?uo=2"
-        },
-        {
-            "rank": 2,
             "apple_id": "1502871393",
             "name": "All-In with Chamath, Jason, Sacks & Friedberg",
             "artist": "All-In Podcast, LLC",
@@ -28,27 +18,17 @@
             "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/all-in-with-chamath-jason-sacks-friedberg\/id1502871393?uo=2"
         },
         {
+            "rank": 2,
+            "apple_id": "1050462261",
+            "name": "Acquired",
+            "artist": "Ben Gilbert and David Rosenthal",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/43\/c5\/fb\/43c5fbdf-b302-053a-2704-ba5f74322625\/mza_13119989780540450831.jpg\/170x170bb.png",
+            "genre": "Technology",
+            "genre_id": "1318",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/acquired\/id1050462261?uo=2"
+        },
+        {
             "rank": 3,
-            "apple_id": "1680633614",
-            "name": "The AI Daily Brief: Artificial Intelligence News and Analysis",
-            "artist": "Nathaniel Whittemore",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/9c\/78\/d8\/9c78d82d-a2d1-a026-6ca2-f92ea61be9ae\/mza_18421328158594577747.jpg\/170x170bb.png",
-            "genre": "Technology",
-            "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/the-ai-daily-brief-artificial-intelligence-news\/id1680633614?uo=2"
-        },
-        {
-            "rank": 4,
-            "apple_id": "1771917740",
-            "name": "American Alchemy with Jesse Michels",
-            "artist": "Jesse Michels",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/dc\/82\/af\/dc82af71-3bb1-8aae-a0d1-5510646d2f4a\/mza_8358567098597130017.jpeg\/170x170bb.png",
-            "genre": "Technology",
-            "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/american-alchemy-with-jesse-michels\/id1771917740?uo=2"
-        },
-        {
-            "rank": 5,
             "apple_id": "1614253637",
             "name": "Search Engine",
             "artist": "PJ Vogt",
@@ -58,7 +38,17 @@
             "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/search-engine\/id1614253637?uo=2"
         },
         {
-            "rank": 6,
+            "rank": 4,
+            "apple_id": "1434243584",
+            "name": "Lex Fridman Podcast",
+            "artist": "Lex Fridman",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts115\/v4\/3e\/e3\/9c\/3ee39c89-de08-47a6-7f3d-3849cef6d255\/mza_16657851278549137484.png\/170x170bb.png",
+            "genre": "Technology",
+            "genre_id": "1318",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/lex-fridman-podcast\/id1434243584?uo=2"
+        },
+        {
+            "rank": 5,
             "apple_id": "1528594034",
             "name": "Hard Fork",
             "artist": "The New York Times",
@@ -66,6 +56,16 @@
             "genre": "Technology",
             "genre_id": "1318",
             "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/hard-fork\/id1528594034?uo=2"
+        },
+        {
+            "rank": 6,
+            "apple_id": "1680633614",
+            "name": "The AI Daily Brief: Artificial Intelligence News and Analysis",
+            "artist": "Nathaniel Whittemore",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/9c\/78\/d8\/9c78d82d-a2d1-a026-6ca2-f92ea61be9ae\/mza_18421328158594577747.jpg\/170x170bb.png",
+            "genre": "Technology",
+            "genre_id": "1318",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/the-ai-daily-brief-artificial-intelligence-news\/id1680633614?uo=2"
         },
         {
             "rank": 7,
@@ -79,6 +79,16 @@
         },
         {
             "rank": 8,
+            "apple_id": "430333725",
+            "name": "The Vergecast",
+            "artist": "The Verge",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/3b\/f7\/db\/3bf7dbc4-b8cc-3b1f-aab3-d5efdc64b1f1\/mza_12861866806353468883.jpeg\/170x170bb.png",
+            "genre": "Technology",
+            "genre_id": "1318",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/the-vergecast\/id430333725?uo=2"
+        },
+        {
+            "rank": 9,
             "apple_id": "1673817105",
             "name": "Understood: Artificial Intimacy",
             "artist": "CBC",
@@ -88,34 +98,24 @@
             "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/understood-artificial-intimacy\/id1673817105?uo=2"
         },
         {
-            "rank": 9,
-            "apple_id": "1434243584",
-            "name": "Lex Fridman Podcast",
-            "artist": "Lex Fridman",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts115\/v4\/3e\/e3\/9c\/3ee39c89-de08-47a6-7f3d-3849cef6d255\/mza_16657851278549137484.png\/170x170bb.png",
-            "genre": "Technology",
-            "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/lex-fridman-podcast\/id1434243584?uo=2"
-        },
-        {
             "rank": 10,
-            "apple_id": "1848156557",
-            "name": "Tomorrow, Today",
-            "artist": "Shekhar Natarajan",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/b2\/b4\/80\/b2b48020-11e7-92a9-db46-b7d475a19757\/mza_619091211434212889.jpg\/170x170bb.png",
+            "apple_id": "1515786216",
+            "name": "Deep Questions with Cal Newport",
+            "artist": "Cal Newport",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/3a\/78\/85\/3a788593-8b6d-0604-4294-8c0064f90901\/mza_18388961160349213914.jpg\/170x170bb.png",
             "genre": "Technology",
             "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/tomorrow-today\/id1848156557?uo=2"
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/deep-questions-with-cal-newport\/id1515786216?uo=2"
         },
         {
             "rank": 11,
-            "apple_id": "1730587238",
-            "name": "Better Offline",
-            "artist": "Cool Zone Media and iHeartPodcasts",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/c8\/a1\/3c\/c8a13c5f-7295-bc72-6152-db1cf5fbd405\/mza_760841200511424832.jpg\/170x170bb.png",
+            "apple_id": "1771917740",
+            "name": "American Alchemy with Jesse Michels",
+            "artist": "Jesse Michels",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/dc\/82\/af\/dc82af71-3bb1-8aae-a0d1-5510646d2f4a\/mza_8358567098597130017.jpeg\/170x170bb.png",
             "genre": "Technology",
             "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/better-offline\/id1730587238?uo=2"
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/american-alchemy-with-jesse-michels\/id1771917740?uo=2"
         },
         {
             "rank": 12,
@@ -129,56 +129,6 @@
         },
         {
             "rank": 13,
-            "apple_id": "1296350485",
-            "name": "Darknet Diaries",
-            "artist": "Jack Rhysider",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts122\/v4\/3a\/80\/a7\/3a80a7db-5620-f77b-9935-016e61cc2fbc\/mza_9399859904175514567.jpg\/170x170bb.png",
-            "genre": "Technology",
-            "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/darknet-diaries\/id1296350485?uo=2"
-        },
-        {
-            "rank": 14,
-            "apple_id": "430333725",
-            "name": "The Vergecast",
-            "artist": "The Verge",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/3b\/f7\/db\/3bf7dbc4-b8cc-3b1f-aab3-d5efdc64b1f1\/mza_12861866806353468883.jpeg\/170x170bb.png",
-            "genre": "Technology",
-            "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/the-vergecast\/id430333725?uo=2"
-        },
-        {
-            "rank": 15,
-            "apple_id": "1515786216",
-            "name": "Deep Questions with Cal Newport",
-            "artist": "Cal Newport",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/3a\/78\/85\/3a788593-8b6d-0604-4294-8c0064f90901\/mza_18388961160349213914.jpg\/170x170bb.png",
-            "genre": "Technology",
-            "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/deep-questions-with-cal-newport\/id1515786216?uo=2"
-        },
-        {
-            "rank": 16,
-            "apple_id": "1809663079",
-            "name": "How I AI",
-            "artist": "Claire Vo",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/df\/77\/34\/df7734e0-d212-274e-e216-b051c675b2de\/mza_8403544740418978020.jpg\/170x170bb.png",
-            "genre": "Technology",
-            "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/how-i-ai\/id1809663079?uo=2"
-        },
-        {
-            "rank": 17,
-            "apple_id": "1474429475",
-            "name": "Waveform: The MKBHD Podcast",
-            "artist": "MKBHD",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/92\/dd\/8e\/92dd8eed-43ec-dc47-50ae-c1ec7c0a3353\/mza_3861776104886813687.jpg\/170x170bb.png",
-            "genre": "Technology",
-            "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/waveform-the-mkbhd-podcast\/id1474429475?uo=2"
-        },
-        {
-            "rank": 18,
             "apple_id": "523121474",
             "name": "TED Radio Hour",
             "artist": "NPR",
@@ -188,37 +138,37 @@
             "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/ted-radio-hour\/id523121474?uo=2"
         },
         {
-            "rank": 19,
-            "apple_id": "73329404",
-            "name": "This Week in Tech (Audio)",
-            "artist": "TWiT",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts126\/v4\/9b\/96\/ac\/9b96ac54-6ef1-9380-43ad-83f3066155a0\/mza_10914428610214068995.jpg\/170x170bb.png",
+            "rank": 14,
+            "apple_id": "1730587238",
+            "name": "Better Offline",
+            "artist": "Cool Zone Media and iHeartPodcasts",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/c8\/a1\/3c\/c8a13c5f-7295-bc72-6152-db1cf5fbd405\/mza_760841200511424832.jpg\/170x170bb.png",
             "genre": "Technology",
             "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/this-week-in-tech-audio\/id73329404?uo=2"
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/better-offline\/id1730587238?uo=2"
         },
         {
-            "rank": 20,
-            "apple_id": "1798209377",
-            "name": "Digital Disruption with Geoff Nielson",
-            "artist": "Info-Tech Research Group",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/4f\/50\/6e\/4f506ec6-5345-143f-2c92-bb188206a57a\/mza_4697749020836512807.jpg\/170x170bb.png",
+            "rank": 15,
+            "apple_id": "1296350485",
+            "name": "Darknet Diaries",
+            "artist": "Jack Rhysider",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts122\/v4\/3a\/80\/a7\/3a80a7db-5620-f77b-9935-016e61cc2fbc\/mza_9399859904175514567.jpg\/170x170bb.png",
             "genre": "Technology",
             "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/digital-disruption-with-geoff-nielson\/id1798209377?uo=2"
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/darknet-diaries\/id1296350485?uo=2"
         },
         {
-            "rank": 21,
-            "apple_id": "1668002688",
-            "name": "No Priors: Artificial Intelligence | Technology | Startups",
-            "artist": "Conviction",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/8f\/46\/88\/8f4688ec-087f-28a1-7f6d-0d401d2e8a00\/mza_14043856542292072583.jpg\/170x170bb.png",
+            "rank": 16,
+            "apple_id": "1474429475",
+            "name": "Waveform: The MKBHD Podcast",
+            "artist": "MKBHD",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/92\/dd\/8e\/92dd8eed-43ec-dc47-50ae-c1ec7c0a3353\/mza_3861776104886813687.jpg\/170x170bb.png",
             "genre": "Technology",
             "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/no-priors-artificial-intelligence-technology-startups\/id1668002688?uo=2"
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/waveform-the-mkbhd-podcast\/id1474429475?uo=2"
         },
         {
-            "rank": 22,
+            "rank": 17,
             "apple_id": "842818711",
             "name": "The a16z Show",
             "artist": "Andreessen Horowitz",
@@ -228,37 +178,77 @@
             "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/the-a16z-show\/id842818711?uo=2"
         },
         {
-            "rank": 23,
-            "apple_id": "1498541229",
-            "name": "硅谷101",
-            "artist": "硅谷101",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts126\/v4\/96\/d6\/82\/96d682e0-e42f-d8bf-68c3-c18ff9c20c8f\/mza_15727650922171364471.jpg\/170x170bb.png",
+            "rank": 18,
+            "apple_id": "73329404",
+            "name": "This Week in Tech (Audio)",
+            "artist": "TWiT",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts126\/v4\/9b\/96\/ac\/9b96ac54-6ef1-9380-43ad-83f3066155a0\/mza_10914428610214068995.jpg\/170x170bb.png",
             "genre": "Technology",
             "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/%E7%A1%85%E8%B0%B7101\/id1498541229?uo=2"
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/this-week-in-tech-audio\/id73329404?uo=2"
+        },
+        {
+            "rank": 19,
+            "apple_id": "1798209377",
+            "name": "Digital Disruption with Geoff Nielson",
+            "artist": "Info-Tech Research Group",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/4f\/50\/6e\/4f506ec6-5345-143f-2c92-bb188206a57a\/mza_4697749020836512807.jpg\/170x170bb.png",
+            "genre": "Technology",
+            "genre_id": "1318",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/digital-disruption-with-geoff-nielson\/id1798209377?uo=2"
+        },
+        {
+            "rank": 20,
+            "apple_id": "1378618386",
+            "name": "Galaxy Brain",
+            "artist": "The Atlantic",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/1d\/98\/3f\/1d983f57-5cda-37c8-7b51-b31eaa00ddb9\/mza_15454235516419575708.jpg\/170x170bb.png",
+            "genre": "Technology",
+            "genre_id": "1318",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/galaxy-brain\/id1378618386?uo=2"
+        },
+        {
+            "rank": 21,
+            "apple_id": "1870822992",
+            "name": "The Interface",
+            "artist": "BBC",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/f3\/45\/1b\/f3451bad-8ae7-5b0e-7633-67341b199936\/mza_11089686260696600722.jpg\/170x170bb.png",
+            "genre": "Technology",
+            "genre_id": "1318",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/the-interface\/id1870822992?uo=2"
+        },
+        {
+            "rank": 22,
+            "apple_id": "1840983742",
+            "name": "Version History",
+            "artist": "The Verge",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/c1\/c9\/d3\/c1c9d3fc-af81-4de6-3af4-47790c389a22\/mza_3075406701764408465.jpg\/170x170bb.png",
+            "genre": "Technology",
+            "genre_id": "1318",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/version-history\/id1840983742?uo=2"
+        },
+        {
+            "rank": 23,
+            "apple_id": "1834069371",
+            "name": "罗永浩的十字路口",
+            "artist": "罗永浩的十字路口",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/79\/45\/99\/794599ee-b368-ad32-08c1-10fb8da1ab96\/mza_4122156040194880124.png\/170x170bb.png",
+            "genre": "Technology",
+            "genre_id": "1318",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/%E7%BD%97%E6%B0%B8%E6%B5%A9%E7%9A%84%E5%8D%81%E5%AD%97%E8%B7%AF%E5%8F%A3\/id1834069371?uo=2"
         },
         {
             "rank": 24,
-            "apple_id": "1674008350",
-            "name": "Latent Space: The AI Engineer Podcast",
-            "artist": "Latent.Space",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/2d\/c3\/b1\/2dc3b1c6-2170-e926-04d0-0aaabf848eff\/mza_2266632206147105925.jpg\/170x170bb.png",
+            "apple_id": "1507621076",
+            "name": "Tech Won't Save Us",
+            "artist": "Paris Marx",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/13\/d7\/70\/13d770a9-15da-2cfb-1adf-eb616a8df1de\/mza_7147558842617286242.jpg\/170x170bb.png",
             "genre": "Technology",
             "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/latent-space-the-ai-engineer-podcast\/id1674008350?uo=2"
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/tech-wont-save-us\/id1507621076?uo=2"
         },
         {
             "rank": 25,
-            "apple_id": "1436192624",
-            "name": "Moteur de recherche",
-            "artist": "Radio-Canada",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts112\/v4\/2b\/55\/f7\/2b55f73a-8a84-a9c1-15f0-c54e8a808bc8\/mza_1181108792502724285.jpg\/170x170bb.png",
-            "genre": "Technology",
-            "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/moteur-de-recherche\/id1436192624?uo=2"
-        },
-        {
-            "rank": 26,
             "apple_id": "941907967",
             "name": "Reply All",
             "artist": "Gimlet",
@@ -266,6 +256,16 @@
             "genre": "Technology",
             "genre_id": "1318",
             "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/reply-all\/id941907967?uo=2"
+        },
+        {
+            "rank": 26,
+            "apple_id": "1487829595",
+            "name": "Well There‘s Your Problem",
+            "artist": "WTYP is Justin Roczniak, November Kelly, Liam McAnderson, and friends.",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts125\/v4\/21\/da\/66\/21da66c0-ff2d-981c-862c-8d8138903ec5\/mza_1840288066774406949.jpg\/170x170bb.png",
+            "genre": "Technology",
+            "genre_id": "1318",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/well-there-s-your-problem\/id1487829595?uo=2"
         },
         {
             "rank": 27,
@@ -279,266 +279,6 @@
         },
         {
             "rank": 28,
-            "apple_id": "1507621076",
-            "name": "Tech Won't Save Us",
-            "artist": "Paris Marx",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/13\/d7\/70\/13d770a9-15da-2cfb-1adf-eb616a8df1de\/mza_7147558842617286242.jpg\/170x170bb.png",
-            "genre": "Technology",
-            "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/tech-wont-save-us\/id1507621076?uo=2"
-        },
-        {
-            "rank": 29,
-            "apple_id": "1802010242",
-            "name": "The Sixth Bureau",
-            "artist": "Bloomberg and iHeartPodcasts",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/6b\/34\/79\/6b3479b2-b97b-62c3-218e-54ba05a2e356\/mza_18206087385941654319.jpg\/170x170bb.png",
-            "genre": "Technology",
-            "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/the-sixth-bureau\/id1802010242?uo=2"
-        },
-        {
-            "rank": 30,
-            "apple_id": "1840983742",
-            "name": "Version History",
-            "artist": "The Verge",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/c1\/c9\/d3\/c1c9d3fc-af81-4de6-3af4-47790c389a22\/mza_3075406701764408465.jpg\/170x170bb.png",
-            "genre": "Technology",
-            "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/version-history\/id1840983742?uo=2"
-        },
-        {
-            "rank": 31,
-            "apple_id": "1556250107",
-            "name": "Underscore_",
-            "artist": "Micode",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/49\/1b\/52\/491b523c-404c-9d8e-f810-beedcdd2d8b1\/mza_12879556782584196351.jpeg\/170x170bb.png",
-            "genre": "Technology",
-            "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/underscore\/id1556250107?uo=2"
-        },
-        {
-            "rank": 32,
-            "apple_id": "1834069371",
-            "name": "罗永浩的十字路口",
-            "artist": "罗永浩的十字路口",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/79\/45\/99\/794599ee-b368-ad32-08c1-10fb8da1ab96\/mza_4122156040194880124.png\/170x170bb.png",
-            "genre": "Technology",
-            "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/%E7%BD%97%E6%B0%B8%E6%B5%A9%E7%9A%84%E5%8D%81%E5%AD%97%E8%B7%AF%E5%8F%A3\/id1834069371?uo=2"
-        },
-        {
-            "rank": 33,
-            "apple_id": "1777363835",
-            "name": "The Peterman Pod",
-            "artist": "Ryan Peterman",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/39\/59\/5a\/39595a76-5de4-be44-1e59-290885144b80\/mza_15577888025774747923.jpg\/170x170bb.png",
-            "genre": "Technology",
-            "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/the-peterman-pod\/id1777363835?uo=2"
-        },
-        {
-            "rank": 34,
-            "apple_id": "1378618386",
-            "name": "Galaxy Brain",
-            "artist": "The Atlantic",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/1d\/98\/3f\/1d983f57-5cda-37c8-7b51-b31eaa00ddb9\/mza_15454235516419575708.jpg\/170x170bb.png",
-            "genre": "Technology",
-            "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/galaxy-brain\/id1378618386?uo=2"
-        },
-        {
-            "rank": 35,
-            "apple_id": "1406537385",
-            "name": "Practical AI",
-            "artist": "Practical AI LLC",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/72\/7a\/be\/727abe96-2e44-d9ac-a6d9-7226372b5eb9\/mza_6848050469316823102.jpg\/170x170bb.png",
-            "genre": "Technology",
-            "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/practical-ai\/id1406537385?uo=2"
-        },
-        {
-            "rank": 36,
-            "apple_id": "1236907421",
-            "name": "Y Combinator Startup Podcast",
-            "artist": "Y Combinator",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/65\/d1\/1e\/65d11ed6-914f-e163-bc7a-d1ea5eda5b79\/mza_2184580866640883071.jpg\/170x170bb.png",
-            "genre": "Technology",
-            "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/y-combinator-startup-podcast\/id1236907421?uo=2"
-        },
-        {
-            "rank": 37,
-            "apple_id": "1482455669",
-            "name": "What Bitcoin Did",
-            "artist": "Danny Knowles",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/fb\/ff\/bb\/fbffbba3-1a5b-0759-fa35-cafc42f214c9\/mza_4444412895211887709.jpg\/170x170bb.png",
-            "genre": "Technology",
-            "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/what-bitcoin-did\/id1482455669?uo=2"
-        },
-        {
-            "rank": 38,
-            "apple_id": "918152703",
-            "name": "Upgrade",
-            "artist": "Relay",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/aa\/ad\/bc\/aaadbcc4-3935-514c-a7de-75f77f4e4e23\/mza_15187687731571733711.jpeg\/170x170bb.png",
-            "genre": "Technology",
-            "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/upgrade\/id918152703?uo=2"
-        },
-        {
-            "rank": 39,
-            "apple_id": "1870822992",
-            "name": "The Interface",
-            "artist": "BBC",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/f3\/45\/1b\/f3451bad-8ae7-5b0e-7633-67341b199936\/mza_11089686260696600722.jpg\/170x170bb.png",
-            "genre": "Technology",
-            "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/the-interface\/id1870822992?uo=2"
-        },
-        {
-            "rank": 40,
-            "apple_id": "1473854035",
-            "name": "Apple Events",
-            "artist": "Apple",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/b1\/0b\/ac\/b10bac9b-e35a-efd1-1c54-6321ce535fa0\/mza_4971492661867950951.jpeg\/170x170bb.png",
-            "genre": "Technology",
-            "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/apple-events\/id1473854035?uo=2"
-        },
-        {
-            "rank": 41,
-            "apple_id": "1727278168",
-            "name": "BG2Pod with Brad Gerstner and Bill Gurley",
-            "artist": "BG2Pod",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/PodcastSource126\/v4\/4b\/ab\/e5\/4babe58b-7cda-b2b3-40a5-bcac3f262764\/33f9cff7-dc0b-4293-a5bf-d8cc62ab8c98.jpg\/170x170bb.png",
-            "genre": "Technology",
-            "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/bg2pod-with-brad-gerstner-and-bill-gurley\/id1727278168?uo=2"
-        },
-        {
-            "rank": 42,
-            "apple_id": "1460030305",
-            "name": "Your Undivided Attention",
-            "artist": "The Center for Humane Technology, Tristan Harris, Aza Raskin",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/ab\/54\/4a\/ab544a69-282e-0850-431c-544f4e2dd17f\/mza_6569825874637328093.jpg\/170x170bb.png",
-            "genre": "Technology",
-            "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/your-undivided-attention\/id1460030305?uo=2"
-        },
-        {
-            "rank": 43,
-            "apple_id": "1487829595",
-            "name": "Well There‘s Your Problem",
-            "artist": "WTYP is Justin Roczniak, November Kelly, Liam McAnderson, and friends.",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts125\/v4\/21\/da\/66\/21da66c0-ff2d-981c-862c-8d8138903ec5\/mza_1840288066774406949.jpg\/170x170bb.png",
-            "genre": "Technology",
-            "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/well-there-s-your-problem\/id1487829595?uo=2"
-        },
-        {
-            "rank": 44,
-            "apple_id": "1507834679",
-            "name": "Triple Click",
-            "artist": "Maximum Fun",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/6f\/fe\/dd\/6ffedd89-9fe7-506e-f0cf-5b8f11086211\/mza_15027410562939629576.jpg\/170x170bb.png",
-            "genre": "Technology",
-            "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/triple-click\/id1507834679?uo=2"
-        },
-        {
-            "rank": 45,
-            "apple_id": "528458508",
-            "name": "The Talk Show With John Gruber",
-            "artist": "Daring Fireball \/ John Gruber",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts126\/v4\/3c\/d5\/d3\/3cd5d37f-bc05-ec52-e700-08bb37839faa\/mza_17217490491625030645.png\/170x170bb.png",
-            "genre": "Technology",
-            "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/the-talk-show-with-john-gruber\/id528458508?uo=2"
-        },
-        {
-            "rank": 46,
-            "apple_id": "1753117762",
-            "name": "Shell Game",
-            "artist": "Kaleidoscope",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/0e\/f8\/2e\/0ef82e32-2663-e4fa-92f1-a1083272774d\/mza_997507240740242504.jpg\/170x170bb.png",
-            "genre": "Technology",
-            "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/shell-game\/id1753117762?uo=2"
-        },
-        {
-            "rank": 47,
-            "apple_id": "1683401861",
-            "name": "Everyday AI Podcast – An AI and ChatGPT Podcast",
-            "artist": "Everyday AI",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/4d\/06\/fc\/4d06fc3a-e7df-9bfb-e38e-e0d40d8e44d0\/mza_18115190681597785982.jpg\/170x170bb.png",
-            "genre": "Technology",
-            "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/everyday-ai-podcast-an-ai-and-chatgpt-podcast\/id1683401861?uo=2"
-        },
-        {
-            "rank": 48,
-            "apple_id": "1784290225",
-            "name": "The Anthropic AI Daily Brief",
-            "artist": "PodcastAI",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/0c\/86\/91\/0c86914d-61de-33eb-3d20-5f18d73a793a\/mza_5898633283636713251.jpg\/170x170bb.png",
-            "genre": "Technology",
-            "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/the-anthropic-ai-daily-brief\/id1784290225?uo=2"
-        },
-        {
-            "rank": 49,
-            "apple_id": "790864884",
-            "name": "Daily Tech News Show",
-            "artist": "Tom Merritt",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/44\/53\/dd\/4453dde0-6830-63ca-737c-746884ff4155\/mza_3673903811199429827.jpeg\/170x170bb.png",
-            "genre": "Technology",
-            "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/daily-tech-news-show\/id790864884?uo=2"
-        },
-        {
-            "rank": 50,
-            "apple_id": "1669813431",
-            "name": "\"The Cognitive Revolution\" | AI Builders, Researchers, and Live Player Analysis",
-            "artist": "Erik Torenberg, Nathan Labenz",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/b1\/29\/0d\/b1290dd6-516c-bc2d-53b6-473d18a3dff2\/mza_6540782963388625071.jpeg\/170x170bb.png",
-            "genre": "Technology",
-            "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/the-cognitive-revolution-ai-builders-researchers-and\/id1669813431?uo=2"
-        },
-        {
-            "rank": 51,
-            "apple_id": "1870310599",
-            "name": "Bourbon with Brad",
-            "artist": "Completely Offensively LLC",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/9b\/0e\/b2\/9b0eb2b8-2d20-d10e-46db-8f26f445998f\/mza_16896880110342389059.jpg\/170x170bb.png",
-            "genre": "Technology",
-            "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/bourbon-with-brad\/id1870310599?uo=2"
-        },
-        {
-            "rank": 52,
-            "apple_id": "1634356920",
-            "name": "张小珺Jùn｜商业访谈录",
-            "artist": "张小珺",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/e6\/74\/44\/e674449c-c2ac-50c4-0099-7e37c330e6c5\/mza_16442776193352459849.png\/170x170bb.png",
-            "genre": "Technology",
-            "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/%E5%BC%A0%E5%B0%8F%E7%8F%BAj%C3%B9n-%E5%95%86%E4%B8%9A%E8%AE%BF%E8%B0%88%E5%BD%95\/id1634356920?uo=2"
-        },
-        {
-            "rank": 53,
-            "apple_id": "1682409647",
-            "name": "AI For Humans: Weekly AI News, Tools & Trends",
-            "artist": "Kevin Pereira & Gavin Purcell",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/60\/e5\/97\/60e59746-1e5a-de6e-59ec-78bc76d43422\/mza_17349172200761408050.png\/170x170bb.png",
-            "genre": "Technology",
-            "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/ai-for-humans-weekly-ai-news-tools-trends\/id1682409647?uo=2"
-        },
-        {
-            "rank": 54,
             "apple_id": "1769051199",
             "name": "The Pragmatic Engineer",
             "artist": "Gergely Orosz",
@@ -548,247 +288,57 @@
             "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/the-pragmatic-engineer\/id1769051199?uo=2"
         },
         {
-            "rank": 55,
-            "apple_id": "179237749",
-            "name": "MacBreak Weekly (Audio)",
-            "artist": "TWiT",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts116\/v4\/2a\/32\/88\/2a3288dd-537b-975a-46fb-0abdb77c2e5d\/mza_7642749812700456740.jpg\/170x170bb.png",
+            "rank": 29,
+            "apple_id": "1674008350",
+            "name": "Latent Space: The AI Engineer Podcast",
+            "artist": "Latent.Space",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/2d\/c3\/b1\/2dc3b1c6-2170-e926-04d0-0aaabf848eff\/mza_2266632206147105925.jpg\/170x170bb.png",
             "genre": "Technology",
             "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/macbreak-weekly-audio\/id179237749?uo=2"
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/latent-space-the-ai-engineer-podcast\/id1674008350?uo=2"
         },
         {
-            "rank": 56,
-            "apple_id": "1740187810",
-            "name": "Panic World",
-            "artist": "COURIER",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/25\/03\/60\/250360a8-ee80-0986-31b5-a57bc3688a36\/mza_17050666640891810660.jpeg\/170x170bb.png",
+            "rank": 30,
+            "apple_id": "1460030305",
+            "name": "Your Undivided Attention",
+            "artist": "The Center for Humane Technology, Tristan Harris, Aza Raskin",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/ab\/54\/4a\/ab544a69-282e-0850-431c-544f4e2dd17f\/mza_6569825874637328093.jpg\/170x170bb.png",
             "genre": "Technology",
             "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/panic-world\/id1740187810?uo=2"
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/your-undivided-attention\/id1460030305?uo=2"
         },
         {
-            "rank": 57,
-            "apple_id": "1507423923",
-            "name": "Rabbit Hole",
-            "artist": "The New York Times",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/8c\/5a\/a7\/8c5aa731-f3cd-c214-968f-d70c1de62a67\/mza_11141039469126456067.jpeg\/170x170bb.png",
+            "rank": 31,
+            "apple_id": "1406537385",
+            "name": "Practical AI",
+            "artist": "Practical AI LLC",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/72\/7a\/be\/727abe96-2e44-d9ac-a6d9-7226372b5eb9\/mza_6848050469316823102.jpg\/170x170bb.png",
             "genre": "Technology",
             "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/rabbit-hole\/id1507423923?uo=2"
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/practical-ai\/id1406537385?uo=2"
         },
         {
-            "rank": 58,
-            "apple_id": "1502782720",
-            "name": "Last Week in AI",
-            "artist": "Skynet Today",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/49\/6b\/53\/496b532c-27d1-9cfa-9538-65a88c322b4b\/mza_9426444235964349583.png\/170x170bb.png",
+            "rank": 32,
+            "apple_id": "1436192624",
+            "name": "Moteur de recherche",
+            "artist": "Radio-Canada",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts112\/v4\/2b\/55\/f7\/2b55f73a-8a84-a9c1-15f0-c54e8a808bc8\/mza_1181108792502724285.jpg\/170x170bb.png",
             "genre": "Technology",
             "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/last-week-in-ai\/id1502782720?uo=2"
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/moteur-de-recherche\/id1436192624?uo=2"
         },
         {
-            "rank": 59,
-            "apple_id": "1772360235",
-            "name": "TBPN",
-            "artist": "John Coogan & Jordi Hays",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/39\/91\/db\/3991db3a-72d2-a790-2676-d9a8ece72f2f\/mza_9318876029142238572.jpg\/170x170bb.png",
+            "rank": 33,
+            "apple_id": "1784290225",
+            "name": "The Anthropic AI Daily Brief",
+            "artist": "PodcastAI",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/0c\/86\/91\/0c86914d-61de-33eb-3d20-5f18d73a793a\/mza_5898633283636713251.jpg\/170x170bb.png",
             "genre": "Technology",
             "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/tbpn\/id1772360235?uo=2"
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/the-anthropic-ai-daily-brief\/id1784290225?uo=2"
         },
         {
-            "rank": 60,
-            "apple_id": "1896873502",
-            "name": "Intentional AI",
-            "artist": "Relay",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/d2\/36\/7c\/d2367c5f-5542-3094-72fa-718363f45b70\/mza_2265046778191054421.png\/170x170bb.png",
-            "genre": "Technology",
-            "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/intentional-ai\/id1896873502?uo=2"
-        },
-        {
-            "rank": 61,
-            "apple_id": "1839942885",
-            "name": "The Last Invention",
-            "artist": "Longview",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/7c\/e7\/6f\/7ce76f48-9b7d-51dc-5533-b6a4af596daf\/mza_2299958902563606985.jpeg\/170x170bb.png",
-            "genre": "Technology",
-            "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/the-last-invention\/id1839942885?uo=2"
-        },
-        {
-            "rank": 62,
-            "apple_id": "1186480811",
-            "name": "NVIDIA AI Podcast",
-            "artist": "NVIDIA",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/c4\/7c\/0b\/c47c0b72-58fb-0a1b-9836-03131889197a\/mza_18042270610221770825.jpeg\/170x170bb.png",
-            "genre": "Technology",
-            "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/nvidia-ai-podcast\/id1186480811?uo=2"
-        },
-        {
-            "rank": 63,
-            "apple_id": "1701165010",
-            "name": "A Beginner's Guide to AI",
-            "artist": "Dietmar Fischer",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/27\/ae\/98\/27ae9804-d003-533c-32a4-a7c02c8dd5fd\/mza_16763705750851859813.jpeg\/170x170bb.png",
-            "genre": "Technology",
-            "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/a-beginners-guide-to-ai\/id1701165010?uo=2"
-        },
-        {
-            "rank": 64,
-            "apple_id": "326120877",
-            "name": "Intelligent Machines (Audio)",
-            "artist": "TWiT",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/73\/e8\/dd\/73e8ddb8-45d8-4e36-b085-3bc682eebc3a\/mza_10049294359728907591.jpg\/170x170bb.png",
-            "genre": "Technology",
-            "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/intelligent-machines-audio\/id326120877?uo=2"
-        },
-        {
-            "rank": 65,
-            "apple_id": "1309267346",
-            "name": "Double Tap",
-            "artist": "Double Tap Productions Inc.",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/59\/50\/32\/595032cd-7a77-d5e0-eefb-e54b49abf396\/mza_13553953922950449511.jpg\/170x170bb.png",
-            "genre": "Technology",
-            "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/double-tap\/id1309267346?uo=2"
-        },
-        {
-            "rank": 66,
-            "apple_id": "1331816080",
-            "name": "9to5Mac Daily",
-            "artist": "9to5Mac",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts126\/v4\/d3\/92\/e3\/d392e321-02f3-a5f5-2b51-1a6bd96c7092\/mza_10089283711911945493.jpeg\/170x170bb.png",
-            "genre": "Technology",
-            "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/9to5mac-daily\/id1331816080?uo=2"
-        },
-        {
-            "rank": 67,
-            "apple_id": "1750736528",
-            "name": "Training Data",
-            "artist": "Sequoia Capital",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/dc\/90\/cc\/dc90cc93-154a-3aaf-c2e0-76a0e7ea6168\/mza_10106777445263047290.png\/170x170bb.png",
-            "genre": "Technology",
-            "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/training-data\/id1750736528?uo=2"
-        },
-        {
-            "rank": 68,
-            "apple_id": "1593204897",
-            "name": "Catalyst with Shayle Kann",
-            "artist": "Latitude Media",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts112\/v4\/85\/b4\/75\/85b475a8-93d1-ccdf-be5e-3399f4b322b2\/mza_4579948121520406325.jpeg\/170x170bb.png",
-            "genre": "Technology",
-            "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/catalyst-with-shayle-kann\/id1593204897?uo=2"
-        },
-        {
-            "rank": 69,
-            "apple_id": "1160898999",
-            "name": "Mon Carnet, l'actu numérique",
-            "artist": "Bruno Guglielminetti",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/8b\/c9\/4d\/8bc94da9-ed51-2a25-dc07-b52e23f4ae18\/mza_1253339223376401398.jpg\/170x170bb.png",
-            "genre": "Technology",
-            "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/mon-carnet-lactu-num%C3%A9rique\/id1160898999?uo=2"
-        },
-        {
-            "rank": 70,
-            "apple_id": "1494812579",
-            "name": "What's Next｜科技早知道",
-            "artist": "声动活泼",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts116\/v4\/f8\/99\/2a\/f8992af8-b391-a6e9-72a2-dda4c223ace8\/mza_3325716517235553759.jpg\/170x170bb.png",
-            "genre": "Technology",
-            "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/whats-next-%E7%A7%91%E6%8A%80%E6%97%A9%E7%9F%A5%E9%81%93\/id1494812579?uo=2"
-        },
-        {
-            "rank": 71,
-            "apple_id": "1163599059",
-            "name": "Super Data Science: ML & AI Podcast with Jon Krohn",
-            "artist": "Jon Krohn",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/1d\/e7\/a5\/1de7a51b-c248-2c9c-f51a-bd74a03bc8c3\/mza_4556473239840123837.jpeg\/170x170bb.png",
-            "genre": "Technology",
-            "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/super-data-science-ml-ai-podcast-with-jon-krohn\/id1163599059?uo=2"
-        },
-        {
-            "rank": 72,
-            "apple_id": "79016499",
-            "name": "Security Now (Audio)",
-            "artist": "TWiT",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts116\/v4\/a1\/be\/2b\/a1be2b5b-416d-eb8b-f008-dbf8f4dad378\/mza_13520720204623959175.jpg\/170x170bb.png",
-            "genre": "Technology",
-            "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/security-now-audio\/id79016499?uo=2"
-        },
-        {
-            "rank": 73,
-            "apple_id": "1253186678",
-            "name": "Syntax - Tasty Web Development Treats",
-            "artist": "Wes Bos & Scott Tolinski - Full Stack JavaScript Web Developers",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/14\/0a\/50\/140a50d8-f974-6542-e6d5-8362701cde23\/mza_16091458091864441720.jpeg\/170x170bb.png",
-            "genre": "Technology",
-            "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/syntax-tasty-web-development-treats\/id1253186678?uo=2"
-        },
-        {
-            "rank": 74,
-            "apple_id": "1677184070",
-            "name": "Possible",
-            "artist": "Reid Hoffman",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/c6\/8f\/87\/c68f87fc-1b27-1318-36c1-53c614a2baf5\/mza_9159866651311455771.jpg\/170x170bb.png",
-            "genre": "Technology",
-            "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/possible\/id1677184070?uo=2"
-        },
-        {
-            "rank": 75,
-            "apple_id": "1493503500",
-            "name": "BTC Sessions",
-            "artist": "Ben Perrin",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/ad\/68\/d3\/ad68d3b2-da73-817a-cb74-85b868e4eab6\/mza_17011046795583044673.jpg\/170x170bb.png",
-            "genre": "Technology",
-            "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/btc-sessions\/id1493503500?uo=2"
-        },
-        {
-            "rank": 76,
-            "apple_id": "1733535260",
-            "name": "Taylor Lorenz’s Power User",
-            "artist": "Taylor Lorenz",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/c9\/4f\/4d\/c94f4d8c-16f4-3fd8-035f-0f813dd166a5\/mza_10941332911013279577.jpeg\/170x170bb.png",
-            "genre": "Technology",
-            "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/taylor-lorenzs-power-user\/id1733535260?uo=2"
-        },
-        {
-            "rank": 77,
-            "apple_id": "1049420219",
-            "name": "Hacked",
-            "artist": "Hacked",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/14\/5d\/e2\/145de210-a496-c197-f9fc-3f2de3ec23b5\/mza_8058621631120231164.jpeg\/170x170bb.png",
-            "genre": "Technology",
-            "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/hacked\/id1049420219?uo=2"
-        },
-        {
-            "rank": 78,
-            "apple_id": "1896766925",
-            "name": "The Intelligence Shift",
-            "artist": "Morning Brew Inc.",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/9a\/f6\/b0\/9af6b09c-5c3f-57b0-b17f-4f68ee9d1afe\/mza_4364975442575147509.jpeg\/170x170bb.png",
-            "genre": "Technology",
-            "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/the-intelligence-shift\/id1896766925?uo=2"
-        },
-        {
-            "rank": 79,
+            "rank": 34,
             "apple_id": "1321060753",
             "name": "Endless Thread",
             "artist": "WBUR",
@@ -798,247 +348,127 @@
             "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/endless-thread\/id1321060753?uo=2"
         },
         {
-            "rank": 80,
-            "apple_id": "1355212895",
-            "name": "Tech Brew Ride Home",
-            "artist": "Morning Brew",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/fe\/7e\/3b\/fe7e3bc0-bdde-6fb6-f811-55e4d06e8085\/mza_333854194254290518.jpeg\/170x170bb.png",
+            "rank": 35,
+            "apple_id": "179237749",
+            "name": "MacBreak Weekly (Audio)",
+            "artist": "TWiT",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts116\/v4\/2a\/32\/88\/2a3288dd-537b-975a-46fb-0abdb77c2e5d\/mza_7642749812700456740.jpg\/170x170bb.png",
             "genre": "Technology",
             "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/tech-brew-ride-home\/id1355212895?uo=2"
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/macbreak-weekly-audio\/id179237749?uo=2"
         },
         {
-            "rank": 81,
-            "apple_id": "1738124704",
-            "name": "Sourcery",
-            "artist": "Sourcery with Molly O'Shea",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/1b\/27\/6d\/1b276d53-ab6d-4063-86c4-849089067fae\/mza_434361463720122753.jpg\/170x170bb.png",
+            "rank": 36,
+            "apple_id": "1683401861",
+            "name": "Everyday AI Podcast – An AI and ChatGPT Podcast",
+            "artist": "Everyday AI",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/4d\/06\/fc\/4d06fc3a-e7df-9bfb-e38e-e0d40d8e44d0\/mza_18115190681597785982.jpg\/170x170bb.png",
             "genre": "Technology",
             "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/sourcery\/id1738124704?uo=2"
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/everyday-ai-podcast-an-ai-and-chatgpt-podcast\/id1683401861?uo=2"
         },
         {
-            "rank": 82,
-            "apple_id": "1455262794",
-            "name": "Law Bytes",
-            "artist": "Michael Geist",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts113\/v4\/e7\/65\/4c\/e7654c2e-1c71-c288-f252-da45e4434067\/mza_772858382591546632.png\/170x170bb.png",
+            "rank": 37,
+            "apple_id": "1507834679",
+            "name": "Triple Click",
+            "artist": "Maximum Fun",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/6f\/fe\/dd\/6ffedd89-9fe7-506e-f0cf-5b8f11086211\/mza_15027410562939629576.jpg\/170x170bb.png",
             "genre": "Technology",
             "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/law-bytes\/id1455262794?uo=2"
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/triple-click\/id1507834679?uo=2"
         },
         {
-            "rank": 83,
-            "apple_id": "1499409058",
-            "name": "Bankless",
-            "artist": "Bankless",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts125\/v4\/7d\/89\/b1\/7d89b1bf-d4dc-c8aa-894c-d2bc002c42be\/mza_5764066019463168929.png\/170x170bb.png",
+            "rank": 38,
+            "apple_id": "1331816080",
+            "name": "9to5Mac Daily",
+            "artist": "9to5Mac",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts126\/v4\/d3\/92\/e3\/d392e321-02f3-a5f5-2b51-1a6bd96c7092\/mza_10089283711911945493.jpeg\/170x170bb.png",
             "genre": "Technology",
             "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/bankless\/id1499409058?uo=2"
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/9to5mac-daily\/id1331816080?uo=2"
         },
         {
-            "rank": 84,
-            "apple_id": "1195001633",
-            "name": "Smashing Security",
-            "artist": "Graham Cluley",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/c5\/d7\/a8\/c5d7a894-f886-7dee-8814-18204dabad46\/mza_16440597878419294581.jpeg\/170x170bb.png",
+            "rank": 39,
+            "apple_id": "918152703",
+            "name": "Upgrade",
+            "artist": "Relay",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/aa\/ad\/bc\/aaadbcc4-3935-514c-a7de-75f77f4e4e23\/mza_15187687731571733711.jpeg\/170x170bb.png",
             "genre": "Technology",
             "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/smashing-security\/id1195001633?uo=2"
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/upgrade\/id918152703?uo=2"
         },
         {
-            "rank": 85,
-            "apple_id": "1484910273",
-            "name": "Machines Like Us",
-            "artist": "The Globe and Mail",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/93\/03\/8f\/93038f2f-9230-8751-5365-24b4ef13323d\/mza_18356990948832024366.jpg\/170x170bb.png",
+            "rank": 40,
+            "apple_id": "1809663079",
+            "name": "How I AI",
+            "artist": "Claire Vo",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/df\/77\/34\/df7734e0-d212-274e-e216-b051c675b2de\/mza_8403544740418978020.jpg\/170x170bb.png",
             "genre": "Technology",
             "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/machines-like-us\/id1484910273?uo=2"
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/how-i-ai\/id1809663079?uo=2"
         },
         {
-            "rank": 86,
-            "apple_id": "1039210992",
-            "name": "Complete Developer Podcast",
-            "artist": "BJ Burns and Will Gant",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts125\/v4\/c7\/7a\/da\/c77adaef-1c29-fdb4-149f-784c5c7fd256\/mza_15107942769330438025.jpg\/170x170bb.png",
+            "rank": 41,
+            "apple_id": "617416468",
+            "name": "Accidental Tech Podcast",
+            "artist": "Marco Arment, Casey Liss, John Siracusa",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts126\/v4\/91\/22\/42\/9122426f-df98-4302-6ba3-da67b0648e70\/mza_5041274938111919910.png\/170x170bb.png",
             "genre": "Technology",
             "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/complete-developer-podcast\/id1039210992?uo=2"
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/accidental-tech-podcast\/id617416468?uo=2"
         },
         {
-            "rank": 87,
-            "apple_id": "1533115958",
-            "name": "Me, Myself, and AI",
-            "artist": "MIT Sloan Management Review",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/00\/eb\/fc\/00ebfcdc-6a2e-e046-adea-f907461ca3a3\/mza_7764048654762405827.jpg\/170x170bb.png",
+            "rank": 42,
+            "apple_id": "1482455669",
+            "name": "What Bitcoin Did",
+            "artist": "Danny Knowles",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/fb\/ff\/bb\/fbffbba3-1a5b-0759-fa35-cafc42f214c9\/mza_4444412895211887709.jpg\/170x170bb.png",
             "genre": "Technology",
             "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/me-myself-and-ai\/id1533115958?uo=2"
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/what-bitcoin-did\/id1482455669?uo=2"
         },
         {
-            "rank": 88,
-            "apple_id": "1602394741",
-            "name": "The MacRumors Show",
-            "artist": "The MacRumors Show",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts126\/v4\/b0\/04\/b3\/b004b3da-de01-45ce-c992-a77e576f6966\/mza_13240006522663574748.png\/170x170bb.png",
+            "rank": 43,
+            "apple_id": "1753117762",
+            "name": "Shell Game",
+            "artist": "Kaleidoscope",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/0e\/f8\/2e\/0ef82e32-2663-e4fa-92f1-a1083272774d\/mza_997507240740242504.jpg\/170x170bb.png",
             "genre": "Technology",
             "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/the-macrumors-show\/id1602394741?uo=2"
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/shell-game\/id1753117762?uo=2"
         },
         {
-            "rank": 89,
-            "apple_id": "1438378439",
-            "name": "Eye On A.I.",
-            "artist": "Craig S. Smith",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts126\/v4\/e1\/b0\/89\/e1b0891d-d710-9a32-e280-5922b92e08bf\/mza_15552391604477952012.jpg\/170x170bb.png",
+            "rank": 44,
+            "apple_id": "1473854035",
+            "name": "Apple Events",
+            "artist": "Apple",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/b1\/0b\/ac\/b10bac9b-e35a-efd1-1c54-6321ce535fa0\/mza_4971492661867950951.jpeg\/170x170bb.png",
             "genre": "Technology",
             "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/eye-on-a-i\/id1438378439?uo=2"
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/apple-events\/id1473854035?uo=2"
         },
         {
-            "rank": 90,
-            "apple_id": "1510472996",
-            "name": "Machine Learning Street Talk (MLST)",
-            "artist": "Machine Learning Street Talk (MLST)",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/34\/e4\/14\/34e41455-8b0d-9b6e-3290-e02f6da69696\/mza_1821645445708339756.jpg\/170x170bb.png",
+            "rank": 45,
+            "apple_id": "1851087585",
+            "name": "Blood in the Machine: The Podcast",
+            "artist": "Brian Merchant",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/24\/56\/f1\/2456f179-5d89-7fe6-44c6-b6b361c53869\/mza_15828419959611266891.jpg\/170x170bb.png",
             "genre": "Technology",
             "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/machine-learning-street-talk-mlst\/id1510472996?uo=2"
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/blood-in-the-machine-the-podcast\/id1851087585?uo=2"
         },
         {
-            "rank": 91,
-            "apple_id": "1197902997",
-            "name": "Silence On Roule",
-            "artist": "Martin Archambault",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/95\/1b\/f0\/951bf033-f92c-594f-3fad-6f600692832f\/mza_7044501369193796512.jpg\/170x170bb.png",
+            "rank": 46,
+            "apple_id": "1253186678",
+            "name": "Syntax - Tasty Web Development Treats",
+            "artist": "Wes Bos & Scott Tolinski - Full Stack JavaScript Web Developers",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/14\/0a\/50\/140a50d8-f974-6542-e6d5-8362701cde23\/mza_16091458091864441720.jpeg\/170x170bb.png",
             "genre": "Technology",
             "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/silence-on-roule\/id1197902997?uo=2"
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/syntax-tasty-web-development-treats\/id1253186678?uo=2"
         },
         {
-            "rank": 92,
-            "apple_id": "1234320525",
-            "name": "Bold Names",
-            "artist": "The Wall Street Journal",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/83\/98\/e4\/8398e4cd-87cb-5239-a28b-95c8800884da\/mza_1600739564434698433.jpg\/170x170bb.png",
-            "genre": "Technology",
-            "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/bold-names\/id1234320525?uo=2"
-        },
-        {
-            "rank": 93,
-            "apple_id": "1646152812",
-            "name": "Sharp Tech with Ben Thompson",
-            "artist": "Andrew Sharp and Ben Thompson",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts122\/v4\/8c\/3e\/76\/8c3e76f3-485f-3f8b-f6d7-3101bb86ede0\/mza_10263603389201953705.png\/170x170bb.png",
-            "genre": "Technology",
-            "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/sharp-tech-with-ben-thompson\/id1646152812?uo=2"
-        },
-        {
-            "rank": 94,
-            "apple_id": "1475672610",
-            "name": "Brain Science: Neuroscience, Behavior",
-            "artist": "Changelog Media",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/38\/a8\/77\/38a877e9-9d10-653d-1be4-64c445418a80\/mza_17726548438699252275.png\/170x170bb.png",
-            "genre": "Technology",
-            "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/brain-science-neuroscience-behavior\/id1475672610?uo=2"
-        },
-        {
-            "rank": 95,
-            "apple_id": "1072931592",
-            "name": "Claude AI Genius Podcast w\/ Claude Anthropic Expert Brandon Gaille",
-            "artist": "Claude AI Expert Brandon Gaille",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/9d\/36\/7c\/9d367ca0-3622-0bc1-6880-2797f32ad643\/mza_14627612357985743083.png\/170x170bb.png",
-            "genre": "Technology",
-            "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/claude-ai-genius-podcast-w-claude-anthropic-expert\/id1072931592?uo=2"
-        },
-        {
-            "rank": 96,
-            "apple_id": "1729552193",
-            "name": "十字路口Crossing",
-            "artist": "Koji",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/d8\/14\/eb\/d814eb12-0a75-e0b4-33a1-c6a2dae2b516\/mza_4023160414676912809.png\/170x170bb.png",
-            "genre": "Technology",
-            "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/%E5%8D%81%E5%AD%97%E8%B7%AF%E5%8F%A3crossing\/id1729552193?uo=2"
-        },
-        {
-            "rank": 97,
-            "apple_id": "130068596",
-            "name": ".NET Rocks!",
-            "artist": "Carl Franklin and Richard Campbell",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts115\/v4\/54\/24\/3c\/54243ce3-9852-4103-9107-7702c6aaa92a\/mza_15490608823975013175.jpg\/170x170bb.png",
-            "genre": "Technology",
-            "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/net-rocks\/id130068596?uo=2"
-        },
-        {
-            "rank": 98,
-            "apple_id": "1479882159",
-            "name": "Brad & Will Made a Tech Pod.",
-            "artist": "Brad Shoemaker, Will Smith",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts114\/v4\/29\/d9\/e7\/29d9e7c9-3470-6135-fd38-ac9e17b26237\/mza_7849446083714160321.jpg\/170x170bb.png",
-            "genre": "Technology",
-            "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/brad-will-made-a-tech-pod\/id1479882159?uo=2"
-        },
-        {
-            "rank": 99,
-            "apple_id": "1078453487",
-            "name": "The BetaKit Podcast Channel",
-            "artist": "BetaKit Podcast Network",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts125\/v4\/e6\/29\/40\/e6294082-f081-f32d-a23c-c8b0dfac24bb\/mza_12856824051282051002.png\/170x170bb.png",
-            "genre": "Technology",
-            "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/the-betakit-podcast-channel\/id1078453487?uo=2"
-        },
-        {
-            "rank": 100,
-            "apple_id": "1787176282",
-            "name": "Omnishambles",
-            "artist": "Virginia Heffernan and Cy Canterel",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/5c\/01\/09\/5c0109c1-7f03-f7c6-d259-04b9c3fe6ad9\/mza_8560670671315370174.jpg\/170x170bb.png",
-            "genre": "Technology",
-            "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/omnishambles\/id1787176282?uo=2"
-        },
-        {
-            "rank": 101,
-            "apple_id": "1896946917",
-            "name": "Hot Tech : le podcast qui décrypte l’IA",
-            "artist": "Anis Ayari (Defend Intelligence)",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/8a\/f8\/92\/8af892e5-24a6-119d-fb50-fea32bca55aa\/mza_14467398451367686691.jpg\/170x170bb.png",
-            "genre": "Technology",
-            "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/hot-tech-le-podcast-qui-d%C3%A9crypte-lia\/id1896946917?uo=2"
-        },
-        {
-            "rank": 102,
-            "apple_id": "963144241",
-            "name": "AppleInsider Podcast",
-            "artist": "AppleInsider",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/7c\/7e\/ec\/7c7eeced-8fdb-e0b3-31be-d8e0f577314e\/mza_10351125006468531805.jpg\/170x170bb.png",
-            "genre": "Technology",
-            "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/appleinsider-podcast\/id963144241?uo=2"
-        },
-        {
-            "rank": 103,
-            "apple_id": "1820330260",
-            "name": "OpenAI Podcast",
-            "artist": "OpenAI",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/d9\/1b\/91\/d91b91c1-7b1a-0d84-7702-da8c4abb8c39\/mza_12872078543701307403.jpeg\/170x170bb.png",
-            "genre": "Technology",
-            "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/openai-podcast\/id1820330260?uo=2"
-        },
-        {
-            "rank": 104,
+            "rank": 47,
             "apple_id": "315114957",
             "name": "This Week in Startups",
             "artist": "Jason Calacanis",
@@ -1048,157 +478,47 @@
             "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/this-week-in-startups\/id315114957?uo=2"
         },
         {
-            "rank": 105,
-            "apple_id": "1877895693",
-            "name": "Claude Code Cast",
-            "artist": "AI World",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/94\/ce\/37\/94ce3784-303c-6cc3-c658-9f9bbc0ec4cd\/mza_4451248880842997978.jpg\/170x170bb.png",
+            "rank": 48,
+            "apple_id": "1740187810",
+            "name": "Panic World",
+            "artist": "COURIER",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/25\/03\/60\/250360a8-ee80-0986-31b5-a57bc3688a36\/mza_17050666640891810660.jpeg\/170x170bb.png",
             "genre": "Technology",
             "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/claude-code-cast\/id1877895693?uo=2"
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/panic-world\/id1740187810?uo=2"
         },
         {
-            "rank": 106,
-            "apple_id": "1882523636",
-            "name": "The Register Kettle",
-            "artist": "El Reg",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/d0\/99\/65\/d099655d-ada9-1de5-aed8-ec716b0214ac\/mza_11226494689894542687.png\/170x170bb.png",
+            "rank": 49,
+            "apple_id": "1160898999",
+            "name": "Mon Carnet, l'actu numérique",
+            "artist": "Bruno Guglielminetti",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/8b\/c9\/4d\/8bc94da9-ed51-2a25-dc07-b52e23f4ae18\/mza_1253339223376401398.jpg\/170x170bb.png",
             "genre": "Technology",
             "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/the-register-kettle\/id1882523636?uo=2"
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/mon-carnet-lactu-num%C3%A9rique\/id1160898999?uo=2"
         },
         {
-            "rank": 107,
-            "apple_id": "802996636",
-            "name": "Tech Life",
-            "artist": "BBC World Service",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/ec\/7b\/2c\/ec7b2c25-5c3a-4ba0-5472-d83b1046f8aa\/mza_11538258655927977860.jpg\/170x170bb.png",
+            "rank": 50,
+            "apple_id": "1556250107",
+            "name": "Underscore_",
+            "artist": "Micode",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/49\/1b\/52\/491b523c-404c-9d8e-f810-beedcdd2d8b1\/mza_12879556782584196351.jpeg\/170x170bb.png",
             "genre": "Technology",
             "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/tech-life\/id802996636?uo=2"
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/underscore\/id1556250107?uo=2"
         },
         {
-            "rank": 108,
-            "apple_id": "916491698",
-            "name": "Tech Café",
-            "artist": "Guillaume Vendé",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/19\/d5\/6d\/19d56d24-f64f-3578-7b05-54d13fa93efd\/mza_9018170690222426731.jpg\/170x170bb.png",
+            "rank": 51,
+            "apple_id": "1772360235",
+            "name": "TBPN",
+            "artist": "John Coogan & Jordi Hays",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/39\/91\/db\/3991db3a-72d2-a790-2676-d9a8ece72f2f\/mza_9318876029142238572.jpg\/170x170bb.png",
             "genre": "Technology",
             "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/tech-caf%C3%A9\/id916491698?uo=2"
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/tbpn\/id1772360235?uo=2"
         },
         {
-            "rank": 109,
-            "apple_id": "1515834398",
-            "name": "Smart Home Insider",
-            "artist": "AppleInsider",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/79\/2b\/2f\/792b2f6a-eb1b-3d87-336b-2639d55c07e4\/mza_3582277135157383213.jpg\/170x170bb.png",
-            "genre": "Technology",
-            "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/smart-home-insider\/id1515834398?uo=2"
-        },
-        {
-            "rank": 110,
-            "apple_id": "303492600",
-            "name": "Le rendez-vous Tech - RDV Tech",
-            "artist": "NotPatrick",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/fe\/43\/e7\/fe43e795-aa66-d233-3a7b-292633ea11ec\/mza_2978818391863055112.jpg\/170x170bb.png",
-            "genre": "Technology",
-            "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/le-rendez-vous-tech-rdv-tech\/id303492600?uo=2"
-        },
-        {
-            "rank": 111,
-            "apple_id": "1458945676",
-            "name": "Thinking Crypto News & Interviews",
-            "artist": "Tony Edward",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/b6\/59\/88\/b6598845-a54b-e990-250b-fb93ef61ba4f\/mza_7637214795922328794.jpg\/170x170bb.png",
-            "genre": "Technology",
-            "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/thinking-crypto-news-interviews\/id1458945676?uo=2"
-        },
-        {
-            "rank": 112,
-            "apple_id": "1292381204",
-            "name": "TFTC: A Bitcoin Podcast",
-            "artist": "Marty Bent",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/84\/cd\/73\/84cd73e4-eddb-d7f6-a777-875efb65b924\/mza_15569173368189135395.jpg\/170x170bb.png",
-            "genre": "Technology",
-            "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/tftc-a-bitcoin-podcast\/id1292381204?uo=2"
-        },
-        {
-            "rank": 113,
-            "apple_id": "1657518313",
-            "name": "NEJM AI Grand Rounds",
-            "artist": "NEJM Group",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts116\/v4\/b9\/a2\/76\/b9a27667-c05d-9a27-8cb6-c23552ca07d9\/mza_5425605459380961782.jpg\/170x170bb.png",
-            "genre": "Technology",
-            "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/nejm-ai-grand-rounds\/id1657518313?uo=2"
-        },
-        {
-            "rank": 114,
-            "apple_id": "1720979290",
-            "name": "Websites Made Simple: How to have a successful website design business",
-            "artist": "Holly Christie (Website Design Business Mentor)",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/38\/0b\/f0\/380bf0b7-9b4f-82da-0df3-6587342a16d3\/mza_15766449790937925706.jpg\/170x170bb.png",
-            "genre": "Technology",
-            "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/websites-made-simple-how-to-have-a-successful\/id1720979290?uo=2"
-        },
-        {
-            "rank": 115,
-            "apple_id": "458066753",
-            "name": "Mac Power Users",
-            "artist": "Relay",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/d8\/66\/3e\/d8663ea5-9d09-a9c3-c165-3d5193f3dfb8\/mza_1850413281103408944.jpeg\/170x170bb.png",
-            "genre": "Technology",
-            "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/mac-power-users\/id458066753?uo=2"
-        },
-        {
-            "rank": 116,
-            "apple_id": "1691452657",
-            "name": "The PetaPixel Photography Podcast",
-            "artist": "PetaPixel",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts126\/v4\/9a\/05\/62\/9a056275-1aab-39eb-cc69-77473b5adc9e\/mza_14796251031695631646.jpg\/170x170bb.png",
-            "genre": "Technology",
-            "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/the-petapixel-photography-podcast\/id1691452657?uo=2"
-        },
-        {
-            "rank": 117,
-            "apple_id": "120906714",
-            "name": "Software Engineering Radio - the podcast for professional software developers",
-            "artist": "team@se-radio.net (SE-Radio Team)",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts116\/v4\/cf\/da\/b9\/cfdab986-4a2c-61c4-42a5-ec511eea0b1a\/mza_8712856294784819153.png\/170x170bb.png",
-            "genre": "Technology",
-            "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/software-engineering-radio-the-podcast-for\/id120906714?uo=2"
-        },
-        {
-            "rank": 118,
-            "apple_id": "1719307150",
-            "name": "Never Post",
-            "artist": "Charts & Leisure",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/d2\/20\/e0\/d220e0ed-6c5f-0861-d4b5-eec67ce9a0b9\/mza_4535103369446823008.png\/170x170bb.png",
-            "genre": "Technology",
-            "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/never-post\/id1719307150?uo=2"
-        },
-        {
-            "rank": 119,
-            "apple_id": "1740178076",
-            "name": "AI + a16z",
-            "artist": "a16z",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/96\/9a\/de\/969ade01-b527-6ce7-c0c6-7a2e1ef24dab\/mza_2451383717579494952.jpg\/170x170bb.png",
-            "genre": "Technology",
-            "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/ai-a16z\/id1740178076?uo=2"
-        },
-        {
-            "rank": 120,
+            "rank": 52,
             "apple_id": "1741574582",
             "name": "The TED AI Show",
             "artist": "TED",
@@ -1208,87 +528,297 @@
             "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/the-ted-ai-show\/id1741574582?uo=2"
         },
         {
-            "rank": 121,
-            "apple_id": "1597538298",
-            "name": "科技工作講 Tech Job N Talk",
-            "artist": "Tech Job N Talk 科技工作講",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts122\/v4\/70\/20\/20\/7020207d-0fe7-47e6-1ef3-2d9fc1ca45f5\/mza_12712607808564374839.jpg\/170x170bb.png",
+            "rank": 53,
+            "apple_id": "1777363835",
+            "name": "The Peterman Pod",
+            "artist": "Ryan Peterman",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/39\/59\/5a\/39595a76-5de4-be44-1e59-290885144b80\/mza_15577888025774747923.jpg\/170x170bb.png",
             "genre": "Technology",
             "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/%E7%A7%91%E6%8A%80%E5%B7%A5%E4%BD%9C%E8%AC%9B-tech-job-n-talk\/id1597538298?uo=2"
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/the-peterman-pod\/id1777363835?uo=2"
         },
         {
-            "rank": 122,
-            "apple_id": "1874648722",
-            "name": "This Week in AI",
-            "artist": "Jason Calacanis",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/db\/de\/a7\/dbdea70a-78e1-c54a-ddd1-8a9ed05d98e3\/mza_8891379757046457854.jpg\/170x170bb.png",
+            "rank": 54,
+            "apple_id": "1668002688",
+            "name": "No Priors: Artificial Intelligence | Technology | Startups",
+            "artist": "Conviction",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/8f\/46\/88\/8f4688ec-087f-28a1-7f6d-0d401d2e8a00\/mza_14043856542292072583.jpg\/170x170bb.png",
             "genre": "Technology",
             "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/this-week-in-ai\/id1874648722?uo=2"
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/no-priors-artificial-intelligence-technology-startups\/id1668002688?uo=2"
         },
         {
-            "rank": 123,
-            "apple_id": "1663945029",
-            "name": "Critical Thinking - Bug Bounty Podcast",
-            "artist": "Justin Gardner (Rhynorater), Joseph Thacker (Rez0), & Brandyn Murtagh (gr3pme)",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts113\/v4\/4a\/3b\/41\/4a3b41de-130e-74df-b8a2-3e45a5b95f7c\/mza_18157513534363364270.jpg\/170x170bb.png",
+            "rank": 55,
+            "apple_id": "458066753",
+            "name": "Mac Power Users",
+            "artist": "Relay",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/d8\/66\/3e\/d8663ea5-9d09-a9c3-c165-3d5193f3dfb8\/mza_1850413281103408944.jpeg\/170x170bb.png",
             "genre": "Technology",
             "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/critical-thinking-bug-bounty-podcast\/id1663945029?uo=2"
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/mac-power-users\/id458066753?uo=2"
         },
         {
-            "rank": 124,
-            "apple_id": "1891396509",
-            "name": "AI in Healthcare | Stanford Medicine",
-            "artist": "AI in Healthcare | Stanford Medicine",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/6b\/a7\/b5\/6ba7b536-131f-4661-8a0f-551697bb315e\/mza_3194032399505565997.png\/170x170bb.png",
+            "rank": 56,
+            "apple_id": "1802010242",
+            "name": "The Sixth Bureau",
+            "artist": "Bloomberg and iHeartPodcasts",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/6b\/34\/79\/6b3479b2-b97b-62c3-218e-54ba05a2e356\/mza_18206087385941654319.jpg\/170x170bb.png",
             "genre": "Technology",
             "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/ai-in-healthcare-stanford-medicine\/id1891396509?uo=2"
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/the-sixth-bureau\/id1802010242?uo=2"
         },
         {
-            "rank": 125,
-            "apple_id": "1876930155",
-            "name": "AI Governance Podcast",
-            "artist": "Enzai",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/99\/30\/5d\/99305d97-1003-71ca-0a38-c7fc3b7f9c57\/mza_3413901572276556945.jpg\/170x170bb.png",
+            "rank": 57,
+            "apple_id": "1686238724",
+            "name": "The MAD Podcast with Matt Turck",
+            "artist": "Matt Turck",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/79\/e2\/4c\/79e24c1b-c2d6-7a6f-a20a-018da6554144\/mza_1364975800453025496.jpg\/170x170bb.png",
             "genre": "Technology",
             "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/ai-governance-podcast\/id1876930155?uo=2"
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/the-mad-podcast-with-matt-turck\/id1686238724?uo=2"
         },
         {
-            "rank": 126,
-            "apple_id": "1568772123",
-            "name": "SpaceCasts",
-            "artist": "Ride Home Media",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts115\/v4\/a4\/c2\/0c\/a4c20c4e-6b00-67bd-5c9b-f948d52074e3\/mza_7855134228506045407.jpeg\/170x170bb.png",
+            "rank": 58,
+            "apple_id": "1498541229",
+            "name": "硅谷101",
+            "artist": "硅谷101",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts126\/v4\/96\/d6\/82\/96d682e0-e42f-d8bf-68c3-c18ff9c20c8f\/mza_15727650922171364471.jpg\/170x170bb.png",
             "genre": "Technology",
             "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/spacecasts\/id1568772123?uo=2"
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/%E7%A1%85%E8%B0%B7101\/id1498541229?uo=2"
         },
         {
-            "rank": 127,
-            "apple_id": "1193040557",
-            "name": "Data Engineering Podcast",
-            "artist": "Tobias Macey",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/76\/82\/5d\/76825d56-8b68-7023-2e34-0ffc59399560\/mza_68297862870122571.jpg\/170x170bb.png",
+            "rank": 59,
+            "apple_id": "79016499",
+            "name": "Security Now (Audio)",
+            "artist": "TWiT",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts116\/v4\/a1\/be\/2b\/a1be2b5b-416d-eb8b-f008-dbf8f4dad378\/mza_13520720204623959175.jpg\/170x170bb.png",
             "genre": "Technology",
             "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/data-engineering-podcast\/id1193040557?uo=2"
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/security-now-audio\/id79016499?uo=2"
         },
         {
-            "rank": 128,
-            "apple_id": "1169101860",
-            "name": "FT Tech Tonic",
-            "artist": "Financial Times",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/8a\/29\/1e\/8a291e28-a575-11cd-2184-bb8c91f6bef0\/mza_2497330991509709711.jpeg\/170x170bb.png",
+            "rank": 60,
+            "apple_id": "1144653856",
+            "name": "Gartner ThinkCast",
+            "artist": "Gartner",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/b8\/9c\/7b\/b89c7bcb-112d-4088-c564-70fac727f981\/mza_8432760311211849174.png\/170x170bb.png",
             "genre": "Technology",
             "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/ft-tech-tonic\/id1169101860?uo=2"
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/gartner-thinkcast\/id1144653856?uo=2"
         },
         {
-            "rank": 129,
+            "rank": 61,
+            "apple_id": "1669813431",
+            "name": "\"The Cognitive Revolution\" | AI Builders, Researchers, and Live Player Analysis",
+            "artist": "Erik Torenberg, Nathan Labenz",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/b1\/29\/0d\/b1290dd6-516c-bc2d-53b6-473d18a3dff2\/mza_6540782963388625071.jpeg\/170x170bb.png",
+            "genre": "Technology",
+            "genre_id": "1318",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/the-cognitive-revolution-ai-builders-researchers-and\/id1669813431?uo=2"
+        },
+        {
+            "rank": 62,
+            "apple_id": "1840893581",
+            "name": "The Paycast Network",
+            "artist": "The Paycast Network",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/1e\/49\/d5\/1e49d588-ce8f-c1fe-13d6-66c7dbeb6840\/mza_6357704560204379230.jpg\/170x170bb.png",
+            "genre": "Technology",
+            "genre_id": "1318",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/the-paycast-network\/id1840893581?uo=2"
+        },
+        {
+            "rank": 63,
+            "apple_id": "1502782720",
+            "name": "Last Week in AI",
+            "artist": "Skynet Today",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/49\/6b\/53\/496b532c-27d1-9cfa-9538-65a88c322b4b\/mza_9426444235964349583.png\/170x170bb.png",
+            "genre": "Technology",
+            "genre_id": "1318",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/last-week-in-ai\/id1502782720?uo=2"
+        },
+        {
+            "rank": 64,
+            "apple_id": "6784829318",
+            "name": "The Next Token",
+            "artist": "Dillon Mulroy, Rhys Sullivan, and Sunil Pai",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/b2\/d9\/97\/b2d997c7-b963-e2cc-b9d0-846d86f60039\/mza_14478913127110238789.png\/170x170bb.png",
+            "genre": "Technology",
+            "genre_id": "1318",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/the-next-token\/id6784829318?uo=2"
+        },
+        {
+            "rank": 65,
+            "apple_id": "1682771619",
+            "name": "Topline",
+            "artist": "Pavilion",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/d6\/8c\/2b\/d68c2bb6-d287-cd4a-1cd8-2757d0f824bf\/mza_806123483802300907.png\/170x170bb.png",
+            "genre": "Technology",
+            "genre_id": "1318",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/topline\/id1682771619?uo=2"
+        },
+        {
+            "rank": 66,
+            "apple_id": "1819090545",
+            "name": "Silicon Valley Girl: AI, Tech and Career Growth",
+            "artist": "Marina Mogilko",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/69\/eb\/b5\/69ebb5ad-2083-a50d-d76a-677504253895\/mza_4602711082543402345.jpg\/170x170bb.png",
+            "genre": "Technology",
+            "genre_id": "1318",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/silicon-valley-girl-ai-tech-and-career-growth\/id1819090545?uo=2"
+        },
+        {
+            "rank": 67,
+            "apple_id": "1733535260",
+            "name": "Taylor Lorenz’s Power User",
+            "artist": "Taylor Lorenz",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/c9\/4f\/4d\/c94f4d8c-16f4-3fd8-035f-0f813dd166a5\/mza_10941332911013279577.jpeg\/170x170bb.png",
+            "genre": "Technology",
+            "genre_id": "1318",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/taylor-lorenzs-power-user\/id1733535260?uo=2"
+        },
+        {
+            "rank": 68,
+            "apple_id": "1841491246",
+            "name": "I've Got Questions with Sinead Bovell",
+            "artist": "Sinead Bovell",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/ce\/34\/ee\/ce34eea2-62c0-3f76-7323-7887cb46f520\/mza_6579371249322004423.png\/170x170bb.png",
+            "genre": "Technology",
+            "genre_id": "1318",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/ive-got-questions-with-sinead-bovell\/id1841491246?uo=2"
+        },
+        {
+            "rank": 69,
+            "apple_id": "790864884",
+            "name": "Daily Tech News Show",
+            "artist": "Tom Merritt",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/44\/53\/dd\/4453dde0-6830-63ca-737c-746884ff4155\/mza_3673903811199429827.jpeg\/170x170bb.png",
+            "genre": "Technology",
+            "genre_id": "1318",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/daily-tech-news-show\/id790864884?uo=2"
+        },
+        {
+            "rank": 70,
+            "apple_id": "1292381204",
+            "name": "TFTC: A Bitcoin Podcast",
+            "artist": "Marty Bent",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/29\/84\/2a\/29842aec-ab2f-f4ea-720c-0a182b896001\/mza_16883325139704201560.jpg\/170x170bb.png",
+            "genre": "Technology",
+            "genre_id": "1318",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/tftc-a-bitcoin-podcast\/id1292381204?uo=2"
+        },
+        {
+            "rank": 71,
+            "apple_id": "1510472996",
+            "name": "Machine Learning Street Talk (MLST)",
+            "artist": "Machine Learning Street Talk (MLST)",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/34\/e4\/14\/34e41455-8b0d-9b6e-3290-e02f6da69696\/mza_1821645445708339756.jpg\/170x170bb.png",
+            "genre": "Technology",
+            "genre_id": "1318",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/machine-learning-street-talk-mlst\/id1510472996?uo=2"
+        },
+        {
+            "rank": 72,
+            "apple_id": "1236907421",
+            "name": "Y Combinator Startup Podcast",
+            "artist": "Y Combinator",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/65\/d1\/1e\/65d11ed6-914f-e163-bc7a-d1ea5eda5b79\/mza_2184580866640883071.jpg\/170x170bb.png",
+            "genre": "Technology",
+            "genre_id": "1318",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/y-combinator-startup-podcast\/id1236907421?uo=2"
+        },
+        {
+            "rank": 73,
+            "apple_id": "1479882159",
+            "name": "Brad & Will Made a Tech Pod.",
+            "artist": "Brad Shoemaker, Will Smith",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts114\/v4\/29\/d9\/e7\/29d9e7c9-3470-6135-fd38-ac9e17b26237\/mza_7849446083714160321.jpg\/170x170bb.png",
+            "genre": "Technology",
+            "genre_id": "1318",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/brad-will-made-a-tech-pod\/id1479882159?uo=2"
+        },
+        {
+            "rank": 74,
+            "apple_id": "1570644971",
+            "name": "Summation with Auren Hoffman",
+            "artist": "Auren Hoffman",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/68\/bf\/3d\/68bf3d7d-2fb1-bfbf-1583-434c195ccbac\/mza_10904211912736335537.jpg\/170x170bb.png",
+            "genre": "Technology",
+            "genre_id": "1318",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/summation-with-auren-hoffman\/id1570644971?uo=2"
+        },
+        {
+            "rank": 75,
+            "apple_id": "1701165010",
+            "name": "A Beginner's Guide to AI",
+            "artist": "Dietmar Fischer",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/27\/ae\/98\/27ae9804-d003-533c-32a4-a7c02c8dd5fd\/mza_16763705750851859813.jpeg\/170x170bb.png",
+            "genre": "Technology",
+            "genre_id": "1318",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/a-beginners-guide-to-ai\/id1701165010?uo=2"
+        },
+        {
+            "rank": 76,
+            "apple_id": "1886462697",
+            "name": "NextGen Science Hub",
+            "artist": "Kaizwan Science",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/a8\/77\/50\/a8775087-76f3-2823-0ffa-b265fbb084ff\/mza_831522146345443105.jpg\/170x170bb.png",
+            "genre": "Technology",
+            "genre_id": "1318",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/nextgen-science-hub\/id1886462697?uo=2"
+        },
+        {
+            "rank": 77,
+            "apple_id": "975125188",
+            "name": "Tech&Co, la quotidienne",
+            "artist": "BFM Business",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts116\/v4\/33\/b3\/0c\/33b30c5b-9b30-8d8a-03aa-4e6bacebee80\/mza_10031257665914112476.jpg\/170x170bb.png",
+            "genre": "Technology",
+            "genre_id": "1318",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/tech-co-la-quotidienne\/id975125188?uo=2"
+        },
+        {
+            "rank": 78,
+            "apple_id": "326120877",
+            "name": "Intelligent Machines (Audio)",
+            "artist": "TWiT",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/73\/e8\/dd\/73e8ddb8-45d8-4e36-b085-3bc682eebc3a\/mza_10049294359728907591.jpg\/170x170bb.png",
+            "genre": "Technology",
+            "genre_id": "1318",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/intelligent-machines-audio\/id326120877?uo=2"
+        },
+        {
+            "rank": 79,
+            "apple_id": "1499409058",
+            "name": "Bankless",
+            "artist": "Bankless",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts125\/v4\/7d\/89\/b1\/7d89b1bf-d4dc-c8aa-894c-d2bc002c42be\/mza_5764066019463168929.png\/170x170bb.png",
+            "genre": "Technology",
+            "genre_id": "1318",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/bankless\/id1499409058?uo=2"
+        },
+        {
+            "rank": 80,
+            "apple_id": "478840375",
+            "name": "This Week in Tech (Video)",
+            "artist": "TWiT",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/4a\/df\/01\/4adf012c-e792-dae4-a96c-807d7ae2e6cc\/mza_3325505634814590375.jpg\/170x170bb.png",
+            "genre": "Technology",
+            "genre_id": "1318",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/this-week-in-tech-video\/id478840375?uo=2"
+        },
+        {
+            "rank": 81,
+            "apple_id": "1896400463",
+            "name": "The AI Edge Daily",
+            "artist": "Jaina Shah",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/74\/bf\/7a\/74bf7ade-2e11-bcd5-72d3-cbe55b056224\/mza_9261052019428064419.jpeg\/170x170bb.png",
+            "genre": "Technology",
+            "genre_id": "1318",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/the-ai-edge-daily\/id1896400463?uo=2"
+        },
+        {
+            "rank": 82,
             "apple_id": "1286277202",
             "name": "Tech Talk with Alan Perry",
             "artist": "Alan Perry",
@@ -1298,57 +828,17 @@
             "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/tech-talk-with-alan-perry\/id1286277202?uo=2"
         },
         {
-            "rank": 130,
-            "apple_id": "1802315019",
-            "name": "Wired for Change",
-            "artist": "Amy Yee",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/7f\/c1\/f1\/7fc1f17a-faea-057e-251b-7404c4356824\/mza_6237175053724666183.jpg\/170x170bb.png",
+            "rank": 83,
+            "apple_id": "1455262794",
+            "name": "Law Bytes",
+            "artist": "Michael Geist",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts113\/v4\/e7\/65\/4c\/e7654c2e-1c71-c288-f252-da45e4434067\/mza_772858382591546632.png\/170x170bb.png",
             "genre": "Technology",
             "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/wired-for-change\/id1802315019?uo=2"
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/law-bytes\/id1455262794?uo=2"
         },
         {
-            "rank": 131,
-            "apple_id": "1573141757",
-            "name": "Joe Lonsdale: American Optimist",
-            "artist": "Joe Lonsdale",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/ab\/84\/fa\/ab84fac9-4943-e291-8655-9c1f1baff662\/mza_10379001999636152045.jpeg\/170x170bb.png",
-            "genre": "Technology",
-            "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/joe-lonsdale-american-optimist\/id1573141757?uo=2"
-        },
-        {
-            "rank": 132,
-            "apple_id": "641836403",
-            "name": "9to5Mac Happy Hour",
-            "artist": "9to5Mac",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts122\/v4\/e7\/f4\/22\/e7f42248-1ac6-543e-39f4-4017fd834719\/mza_18319970160227127259.jpg\/170x170bb.png",
-            "genre": "Technology",
-            "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/9to5mac-happy-hour\/id641836403?uo=2"
-        },
-        {
-            "rank": 133,
-            "apple_id": "73330785",
-            "name": "Mac Geek Gab — Apple Tips, Tricks, and Troubleshooting",
-            "artist": "Dave Hamilton, Pilot Pete & Adam Christianson",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts126\/v4\/6b\/a8\/5b\/6ba85b90-9faa-4dda-573c-cbf4d071e24a\/mza_8195981830504353543.jpg\/170x170bb.png",
-            "genre": "Technology",
-            "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/mac-geek-gab-apple-tips-tricks-and-troubleshooting\/id73330785?uo=2"
-        },
-        {
-            "rank": 134,
-            "apple_id": "1896801264",
-            "name": "AI Business Daily",
-            "artist": "Cast Nexa",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/d6\/32\/80\/d632803f-3ed4-bb1f-cd61-806fca57c005\/mza_16471444242429361376.jpg\/170x170bb.png",
-            "genre": "Technology",
-            "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/ai-business-daily\/id1896801264?uo=2"
-        },
-        {
-            "rank": 135,
+            "rank": 84,
             "apple_id": "1520715907",
             "name": "There Are No Girls on the Internet",
             "artist": "iHeartPodcasts",
@@ -1358,7 +848,27 @@
             "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/there-are-no-girls-on-the-internet\/id1520715907?uo=2"
         },
         {
-            "rank": 136,
+            "rank": 85,
+            "apple_id": "1783154139",
+            "name": "The Most Interesting Thing in AI",
+            "artist": "Atlantic Re:think",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/05\/5c\/ad\/055cad11-ccbb-27f0-cf8b-a9c94ad838dd\/mza_8350181568332202229.jpg\/170x170bb.png",
+            "genre": "Technology",
+            "genre_id": "1318",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/the-most-interesting-thing-in-ai\/id1783154139?uo=2"
+        },
+        {
+            "rank": 86,
+            "apple_id": "1738124704",
+            "name": "Sourcery",
+            "artist": "Sourcery with Molly O'Shea",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/1b\/27\/6d\/1b276d53-ab6d-4063-86c4-849089067fae\/mza_434361463720122753.jpg\/170x170bb.png",
+            "genre": "Technology",
+            "genre_id": "1318",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/sourcery\/id1738124704?uo=2"
+        },
+        {
+            "rank": 87,
             "apple_id": "1526914048",
             "name": "This Machine Kills",
             "artist": "This Machine Kills",
@@ -1366,6 +876,496 @@
             "genre": "Technology",
             "genre_id": "1318",
             "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/this-machine-kills\/id1526914048?uo=2"
+        },
+        {
+            "rank": 88,
+            "apple_id": "1116303051",
+            "name": "The TWIML AI Podcast (formerly This Week in Machine Learning & Artificial Intelligence)",
+            "artist": "Sam Charrington",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/16\/e7\/85\/16e78525-cfa1-a5f6-0ca9-f80dab699c61\/mza_5916579879984323845.jpeg\/170x170bb.png",
+            "genre": "Technology",
+            "genre_id": "1318",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/the-twiml-ai-podcast-formerly-this-week-in-machine\/id1116303051?uo=2"
+        },
+        {
+            "rank": 89,
+            "apple_id": "1828521905",
+            "name": "The In-Between Tech and Trust Podcast",
+            "artist": "Eva Simone Lihotzky",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/d1\/27\/50\/d12750ba-b2ad-21e2-7db4-c4444d09c2a9\/mza_5656885480081404536.jpg\/170x170bb.png",
+            "genre": "Technology",
+            "genre_id": "1318",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/the-in-between-tech-and-trust-podcast\/id1828521905?uo=2"
+        },
+        {
+            "rank": 90,
+            "apple_id": "1602394741",
+            "name": "The MacRumors Show",
+            "artist": "The MacRumors Show",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts126\/v4\/b0\/04\/b3\/b004b3da-de01-45ce-c992-a77e576f6966\/mza_13240006522663574748.png\/170x170bb.png",
+            "genre": "Technology",
+            "genre_id": "1318",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/the-macrumors-show\/id1602394741?uo=2"
+        },
+        {
+            "rank": 91,
+            "apple_id": "1539670094",
+            "name": "The Room Podcast",
+            "artist": "Claudia Laurie and Madison McIlwain",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/c1\/89\/fa\/c189fad2-250b-ded2-2030-91cf35f4fce9\/mza_2771269306765533595.jpg\/170x170bb.png",
+            "genre": "Technology",
+            "genre_id": "1318",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/the-room-podcast\/id1539670094?uo=2"
+        },
+        {
+            "rank": 92,
+            "apple_id": "1750736528",
+            "name": "Training Data",
+            "artist": "Sequoia Capital",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/dc\/90\/cc\/dc90cc93-154a-3aaf-c2e0-76a0e7ea6168\/mza_10106777445263047290.png\/170x170bb.png",
+            "genre": "Technology",
+            "genre_id": "1318",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/training-data\/id1750736528?uo=2"
+        },
+        {
+            "rank": 93,
+            "apple_id": "840308131",
+            "name": "Aviation Week's Check 6 Podcast",
+            "artist": "Aviation Week",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/84\/9a\/44\/849a44a9-fbab-d743-fa09-f78685231112\/mza_6408101317627876837.jpg\/170x170bb.png",
+            "genre": "Technology",
+            "genre_id": "1318",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/aviation-weeks-check-6-podcast\/id840308131?uo=2"
+        },
+        {
+            "rank": 94,
+            "apple_id": "282795787",
+            "name": "TechStuff",
+            "artist": "iHeartPodcasts",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/28\/b9\/08\/28b908c5-60e2-d461-e0d0-e3565767e74c\/mza_10040908254531769073.jpg\/170x170bb.png",
+            "genre": "Technology",
+            "genre_id": "1318",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/techstuff\/id282795787?uo=2"
+        },
+        {
+            "rank": 95,
+            "apple_id": "1813210890",
+            "name": "Limitless: An AI Podcast",
+            "artist": "Limitless",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/20\/b0\/b6\/20b0b63c-464d-1d16-0366-3e873b125169\/mza_18298087125152985517.jpg\/170x170bb.png",
+            "genre": "Technology",
+            "genre_id": "1318",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/limitless-an-ai-podcast\/id1813210890?uo=2"
+        },
+        {
+            "rank": 96,
+            "apple_id": "1721855892",
+            "name": "Artificial Intelligence Masterclass",
+            "artist": "AI Masterclass",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/c2\/18\/a9\/c218a938-74ba-42f4-4174-267463b633c6\/mza_7358057830992025831.jpg\/170x170bb.png",
+            "genre": "Technology",
+            "genre_id": "1318",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/artificial-intelligence-masterclass\/id1721855892?uo=2"
+        },
+        {
+            "rank": 97,
+            "apple_id": "528458508",
+            "name": "The Talk Show With John Gruber",
+            "artist": "Daring Fireball \/ John Gruber",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts126\/v4\/3c\/d5\/d3\/3cd5d37f-bc05-ec52-e700-08bb37839faa\/mza_17217490491625030645.png\/170x170bb.png",
+            "genre": "Technology",
+            "genre_id": "1318",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/the-talk-show-with-john-gruber\/id528458508?uo=2"
+        },
+        {
+            "rank": 98,
+            "apple_id": "1507423923",
+            "name": "Rabbit Hole",
+            "artist": "The New York Times",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/8c\/5a\/a7\/8c5aa731-f3cd-c214-968f-d70c1de62a67\/mza_11141039469126456067.jpeg\/170x170bb.png",
+            "genre": "Technology",
+            "genre_id": "1318",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/rabbit-hole\/id1507423923?uo=2"
+        },
+        {
+            "rank": 99,
+            "apple_id": "1668340815",
+            "name": "Comptoir IA 🎙️🧠🤖",
+            "artist": "Nicolas Guyon",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts116\/v4\/f6\/35\/d9\/f635d95c-7cb6-02ca-2736-835fa05ec1be\/mza_5142399276880653852.jpeg\/170x170bb.png",
+            "genre": "Technology",
+            "genre_id": "1318",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/comptoir-ia\/id1668340815?uo=2"
+        },
+        {
+            "rank": 100,
+            "apple_id": "396968552",
+            "name": "Tech&Co, la quotidienne",
+            "artist": "BFM Business",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts116\/v4\/a9\/a8\/a1\/a9a8a186-90b0-f2c2-6d76-cdd74d1e1b69\/mza_1072979972480529255.jpg\/170x170bb.png",
+            "genre": "Technology",
+            "genre_id": "1318",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/tech-co-la-quotidienne\/id396968552?uo=2"
+        },
+        {
+            "rank": 101,
+            "apple_id": "1494812579",
+            "name": "What's Next｜科技早知道",
+            "artist": "声动活泼",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts116\/v4\/f8\/99\/2a\/f8992af8-b391-a6e9-72a2-dda4c223ace8\/mza_3325716517235553759.jpg\/170x170bb.png",
+            "genre": "Technology",
+            "genre_id": "1318",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/whats-next-%E7%A7%91%E6%8A%80%E6%97%A9%E7%9F%A5%E9%81%93\/id1494812579?uo=2"
+        },
+        {
+            "rank": 102,
+            "apple_id": "1646152812",
+            "name": "Sharp Tech with Ben Thompson",
+            "artist": "Andrew Sharp and Ben Thompson",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts122\/v4\/8c\/3e\/76\/8c3e76f3-485f-3f8b-f6d7-3101bb86ede0\/mza_10263603389201953705.png\/170x170bb.png",
+            "genre": "Technology",
+            "genre_id": "1318",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/sharp-tech-with-ben-thompson\/id1646152812?uo=2"
+        },
+        {
+            "rank": 103,
+            "apple_id": "1355212895",
+            "name": "Tech Brew Ride Home",
+            "artist": "Morning Brew",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/fe\/7e\/3b\/fe7e3bc0-bdde-6fb6-f811-55e4d06e8085\/mza_333854194254290518.jpeg\/170x170bb.png",
+            "genre": "Technology",
+            "genre_id": "1318",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/tech-brew-ride-home\/id1355212895?uo=2"
+        },
+        {
+            "rank": 104,
+            "apple_id": "1072931592",
+            "name": "Claude AI Genius Podcast w\/ Claude Anthropic Expert Brandon Gaille",
+            "artist": "Claude AI Expert Brandon Gaille",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/9d\/36\/7c\/9d367ca0-3622-0bc1-6880-2797f32ad643\/mza_14627612357985743083.png\/170x170bb.png",
+            "genre": "Technology",
+            "genre_id": "1318",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/claude-ai-genius-podcast-w-claude-anthropic-expert\/id1072931592?uo=2"
+        },
+        {
+            "rank": 105,
+            "apple_id": "553604212",
+            "name": "MacBreak Weekly (Video)",
+            "artist": "TWiT",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/5a\/10\/76\/5a10763f-f1b2-bfb1-b1b8-0b7a07605c80\/mza_15465470930174652847.jpg\/170x170bb.png",
+            "genre": "Technology",
+            "genre_id": "1318",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/macbreak-weekly-video\/id553604212?uo=2"
+        },
+        {
+            "rank": 106,
+            "apple_id": "1493503500",
+            "name": "BTC Sessions",
+            "artist": "Ben Perrin",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/ad\/68\/d3\/ad68d3b2-da73-817a-cb74-85b868e4eab6\/mza_17011046795583044673.jpg\/170x170bb.png",
+            "genre": "Technology",
+            "genre_id": "1318",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/btc-sessions\/id1493503500?uo=2"
+        },
+        {
+            "rank": 107,
+            "apple_id": "1049420219",
+            "name": "Hacked",
+            "artist": "Hacked",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/14\/5d\/e2\/145de210-a496-c197-f9fc-3f2de3ec23b5\/mza_8058621631120231164.jpeg\/170x170bb.png",
+            "genre": "Technology",
+            "genre_id": "1318",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/hacked\/id1049420219?uo=2"
+        },
+        {
+            "rank": 108,
+            "apple_id": "1197902997",
+            "name": "Silence On Roule",
+            "artist": "Martin Archambault",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/95\/1b\/f0\/951bf033-f92c-594f-3fad-6f600692832f\/mza_7044501369193796512.jpg\/170x170bb.png",
+            "genre": "Technology",
+            "genre_id": "1318",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/silence-on-roule\/id1197902997?uo=2"
+        },
+        {
+            "rank": 109,
+            "apple_id": "1789397163",
+            "name": "Core Memory",
+            "artist": "Ashlee Vance",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/ce\/3a\/47\/ce3a476c-e2e9-a48a-8d91-b4e69e4854ef\/mza_13807279363836720684.jpeg\/170x170bb.png",
+            "genre": "Technology",
+            "genre_id": "1318",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/core-memory\/id1789397163?uo=2"
+        },
+        {
+            "rank": 110,
+            "apple_id": "1692234179",
+            "name": "More or Less",
+            "artist": "Dave Morin, Jessica Lessin, Brit Morin, and Sam Lessin",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/b8\/5b\/5b\/b85b5b7b-3da8-c778-22f8-d73a495bdb38\/mza_4888290117380457826.jpg\/170x170bb.png",
+            "genre": "Technology",
+            "genre_id": "1318",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/more-or-less\/id1692234179?uo=2"
+        },
+        {
+            "rank": 111,
+            "apple_id": "1467317304",
+            "name": "Broken Silicon",
+            "artist": "Moore's Law Is Dead, Bleav",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/c5\/13\/5d\/c5135d75-a812-0b0b-9675-6668343c04b2\/mza_9386923980932092642.jpg\/170x170bb.png",
+            "genre": "Technology",
+            "genre_id": "1318",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/broken-silicon\/id1467317304?uo=2"
+        },
+        {
+            "rank": 112,
+            "apple_id": "1863268753",
+            "name": "Cult of Mac",
+            "artist": "Cult of Mac",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/da\/9e\/5e\/da9e5e15-0428-21da-60bd-bdf1cdc8ae0d\/mza_14454408909566371805.jpg\/170x170bb.png",
+            "genre": "Technology",
+            "genre_id": "1318",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/cult-of-mac\/id1863268753?uo=2"
+        },
+        {
+            "rank": 113,
+            "apple_id": "1795992710",
+            "name": "The AmberMac Show",
+            "artist": "AmberMac Media Inc.",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/e7\/9a\/f0\/e79af011-5f37-3d02-c4ae-6fbb319b073f\/mza_14513201283583304081.jpg\/170x170bb.png",
+            "genre": "Technology",
+            "genre_id": "1318",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/the-ambermac-show\/id1795992710?uo=2"
+        },
+        {
+            "rank": 114,
+            "apple_id": "641836403",
+            "name": "9to5Mac Happy Hour",
+            "artist": "9to5Mac",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts122\/v4\/e7\/f4\/22\/e7f42248-1ac6-543e-39f4-4017fd834719\/mza_18319970160227127259.jpg\/170x170bb.png",
+            "genre": "Technology",
+            "genre_id": "1318",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/9to5mac-happy-hour\/id641836403?uo=2"
+        },
+        {
+            "rank": 115,
+            "apple_id": "1824936911",
+            "name": "WhynotTV Podcast",
+            "artist": "Tairan He",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/27\/90\/20\/279020d7-1dd3-7af7-bd03-e3cfeb58b11f\/mza_7472841716164216166.jpg\/170x170bb.png",
+            "genre": "Technology",
+            "genre_id": "1318",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/whynottv-podcast\/id1824936911?uo=2"
+        },
+        {
+            "rank": 116,
+            "apple_id": "1727278168",
+            "name": "BG2Pod with Brad Gerstner and Bill Gurley",
+            "artist": "BG2Pod",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/PodcastSource126\/v4\/4b\/ab\/e5\/4babe58b-7cda-b2b3-40a5-bcac3f262764\/33f9cff7-dc0b-4293-a5bf-d8cc62ab8c98.jpg\/170x170bb.png",
+            "genre": "Technology",
+            "genre_id": "1318",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/bg2pod-with-brad-gerstner-and-bill-gurley\/id1727278168?uo=2"
+        },
+        {
+            "rank": 117,
+            "apple_id": "1783076120",
+            "name": "AI Agents Podcast",
+            "artist": "AI Agents Podcast",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/f5\/9a\/ca\/f59aca7c-b017-5c46-1dea-3289b7c36a25\/mza_1957516471191143403.jpg\/170x170bb.png",
+            "genre": "Technology",
+            "genre_id": "1318",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/ai-agents-podcast\/id1783076120?uo=2"
+        },
+        {
+            "rank": 118,
+            "apple_id": "1727206360",
+            "name": "9to5Mac Overtime",
+            "artist": "9to5Mac",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts116\/v4\/62\/bb\/80\/62bb80ec-220a-582d-ea2e-187798aa4bdb\/mza_5000203138984758407.jpg\/170x170bb.png",
+            "genre": "Technology",
+            "genre_id": "1318",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/9to5mac-overtime\/id1727206360?uo=2"
+        },
+        {
+            "rank": 119,
+            "apple_id": "1809797957",
+            "name": "The DroneOn Show",
+            "artist": "Mike & Kevin",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/09\/7b\/97\/097b97a3-4bcf-a307-e8ec-f58dff6097c5\/mza_8749757518583804145.jpg\/170x170bb.png",
+            "genre": "Technology",
+            "genre_id": "1318",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/the-droneon-show\/id1809797957?uo=2"
+        },
+        {
+            "rank": 120,
+            "apple_id": "1726369564",
+            "name": "Computer Says Maybe",
+            "artist": "Alix Dunn",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/48\/0b\/7a\/480b7abc-420b-b1f0-6326-d12ed0507155\/mza_7767721410001904630.jpg\/170x170bb.png",
+            "genre": "Technology",
+            "genre_id": "1318",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/computer-says-maybe\/id1726369564?uo=2"
+        },
+        {
+            "rank": 121,
+            "apple_id": "1264759930",
+            "name": "Hashtag Trending",
+            "artist": "Jim Love",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/37\/58\/d8\/3758d834-8e65-2b74-dd3a-0cecbd1b7643\/mza_14130732602625237379.jpg\/170x170bb.png",
+            "genre": "Technology",
+            "genre_id": "1318",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/hashtag-trending\/id1264759930?uo=2"
+        },
+        {
+            "rank": 122,
+            "apple_id": "73330785",
+            "name": "Mac Geek Gab — Apple Tips, Tricks, and Troubleshooting",
+            "artist": "Dave Hamilton, Pilot Pete & Adam Christianson",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts126\/v4\/6b\/a8\/5b\/6ba85b90-9faa-4dda-573c-cbf4d071e24a\/mza_8195981830504353543.jpg\/170x170bb.png",
+            "genre": "Technology",
+            "genre_id": "1318",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/mac-geek-gab-apple-tips-tricks-and-troubleshooting\/id73330785?uo=2"
+        },
+        {
+            "rank": 123,
+            "apple_id": "1186480811",
+            "name": "NVIDIA AI Podcast",
+            "artist": "NVIDIA",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/c4\/7c\/0b\/c47c0b72-58fb-0a1b-9836-03131889197a\/mza_18042270610221770825.jpeg\/170x170bb.png",
+            "genre": "Technology",
+            "genre_id": "1318",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/nvidia-ai-podcast\/id1186480811?uo=2"
+        },
+        {
+            "rank": 124,
+            "apple_id": "1832762403",
+            "name": "The OSINT Podcast",
+            "artist": "Jake Creps",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/6f\/53\/b3\/6f53b359-995d-fab6-085b-045991550365\/mza_10055355162022412531.jpg\/170x170bb.png",
+            "genre": "Technology",
+            "genre_id": "1318",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/the-osint-podcast\/id1832762403?uo=2"
+        },
+        {
+            "rank": 125,
+            "apple_id": "1593204897",
+            "name": "Catalyst with Shayle Kann",
+            "artist": "Latitude Media",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts112\/v4\/85\/b4\/75\/85b475a8-93d1-ccdf-be5e-3399f4b322b2\/mza_4579948121520406325.jpeg\/170x170bb.png",
+            "genre": "Technology",
+            "genre_id": "1318",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/catalyst-with-shayle-kann\/id1593204897?uo=2"
+        },
+        {
+            "rank": 126,
+            "apple_id": "1891591146",
+            "name": "IA-tu pensé? - Le podcast de David Proulx",
+            "artist": "David-Proulx-iA-tu-pense",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/fe\/74\/ea\/fe74ea21-fb3e-2096-dde3-ff9bb01789dc\/mza_13713971877944804945.png\/170x170bb.png",
+            "genre": "Technology",
+            "genre_id": "1318",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/ia-tu-pens%C3%A9-le-podcast-de-david-proulx\/id1891591146?uo=2"
+        },
+        {
+            "rank": 127,
+            "apple_id": "1839942885",
+            "name": "The Last Invention",
+            "artist": "Longview",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/7c\/e7\/6f\/7ce76f48-9b7d-51dc-5533-b6a4af596daf\/mza_2299958902563606985.jpeg\/170x170bb.png",
+            "genre": "Technology",
+            "genre_id": "1318",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/the-last-invention\/id1839942885?uo=2"
+        },
+        {
+            "rank": 128,
+            "apple_id": "1822183654",
+            "name": "Certified: The CISSP Audio Course",
+            "artist": "Dr. Jason Edwards",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/1a\/36\/38\/1a36388a-3063-703f-890a-fc3bceb54920\/mza_8164695133970454396.jpg\/170x170bb.png",
+            "genre": "Technology",
+            "genre_id": "1318",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/certified-the-cissp-audio-course\/id1822183654?uo=2"
+        },
+        {
+            "rank": 129,
+            "apple_id": "1302281912",
+            "name": "What Next: TBD | Tech, power, and the future",
+            "artist": "Slate Podcasts",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/42\/a1\/a7\/42a1a72d-11f1-5011-4d90-b4ceb4af40ec\/mza_13553568370623675365.jpg\/170x170bb.png",
+            "genre": "Technology",
+            "genre_id": "1318",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/what-next-tbd-tech-power-and-the-future\/id1302281912?uo=2"
+        },
+        {
+            "rank": 130,
+            "apple_id": "1835151031",
+            "name": "AI for Beginners (300 episodes)",
+            "artist": "A.I. For Beginners",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/c4\/a1\/9e\/c4a19e11-9991-da7c-0d09-a30dc448ef7d\/mza_1786137292944830705.jpg\/170x170bb.png",
+            "genre": "Technology",
+            "genre_id": "1318",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/ai-for-beginners-300-episodes\/id1835151031?uo=2"
+        },
+        {
+            "rank": 131,
+            "apple_id": "1681015189",
+            "name": "Untitled Linux Show (Audio)",
+            "artist": "TWiT",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts116\/v4\/8c\/7c\/5e\/8c7c5e6c-bcaa-dc3f-b687-fe4d52dd84a2\/mza_17113769596505235725.jpg\/170x170bb.png",
+            "genre": "Technology",
+            "genre_id": "1318",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/untitled-linux-show-audio\/id1681015189?uo=2"
+        },
+        {
+            "rank": 132,
+            "apple_id": "1896284436",
+            "name": "Unfiltered – The Lee Fields’s Mixing Podcast",
+            "artist": "UnfilteredLeeFields",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/d8\/7b\/8d\/d87b8dee-94a3-1e51-02b1-7ca0f245b7aa\/mza_14530774993303966100.png\/170x170bb.png",
+            "genre": "Technology",
+            "genre_id": "1318",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/unfiltered-the-lee-fieldss-mixing-podcast\/id1896284436?uo=2"
+        },
+        {
+            "rank": 133,
+            "apple_id": "470624027",
+            "name": "TED Tech",
+            "artist": "TED Tech",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts126\/v4\/d9\/32\/32\/d932328a-a21d-999c-690c-f05d680778b2\/mza_13752174967843677920.jpg\/170x170bb.png",
+            "genre": "Technology",
+            "genre_id": "1318",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/ted-tech\/id470624027?uo=2"
+        },
+        {
+            "rank": 134,
+            "apple_id": "1870310599",
+            "name": "Bourbon with Brad",
+            "artist": "Completely Offensively LLC",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/9b\/0e\/b2\/9b0eb2b8-2d20-d10e-46db-8f26f445998f\/mza_16896880110342389059.jpg\/170x170bb.png",
+            "genre": "Technology",
+            "genre_id": "1318",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/bourbon-with-brad\/id1870310599?uo=2"
+        },
+        {
+            "rank": 135,
+            "apple_id": "1677184070",
+            "name": "Possible",
+            "artist": "Reid Hoffman",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/c6\/8f\/87\/c68f87fc-1b27-1318-36c1-53c614a2baf5\/mza_9159866651311455771.jpg\/170x170bb.png",
+            "genre": "Technology",
+            "genre_id": "1318",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/possible\/id1677184070?uo=2"
+        },
+        {
+            "rank": 136,
+            "apple_id": "1615936019",
+            "name": "Domotique Chronique",
+            "artist": "Aurélien Brunet",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/f6\/48\/b8\/f648b8e6-3c48-ce46-0b97-58a74f37591f\/mza_6258313779287773641.jpg\/170x170bb.png",
+            "genre": "Technology",
+            "genre_id": "1318",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/domotique-chronique\/id1615936019?uo=2"
         },
         {
             "rank": 137,
@@ -1379,336 +1379,46 @@
         },
         {
             "rank": 138,
-            "apple_id": "1587954336",
-            "name": "Data Science With Sam",
-            "artist": "Soumava Dey",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts126\/v4\/6a\/21\/3d\/6a213d7f-ebeb-ed8a-1123-9350aae3fb4b\/mza_9916926620382631982.jpg\/170x170bb.png",
+            "apple_id": "1719789201",
+            "name": "AI & I",
+            "artist": "Dan Shipper",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/93\/90\/75\/93907541-d90a-ba05-f7d7-f9a2f68bf714\/mza_11707959231788418835.jpg\/170x170bb.png",
             "genre": "Technology",
             "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/data-science-with-sam\/id1587954336?uo=2"
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/ai-i\/id1719789201?uo=2"
         },
         {
             "rank": 139,
-            "apple_id": "253682066",
-            "name": "RunAs Radio",
-            "artist": "Richard Campbell",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts115\/v4\/cf\/dd\/9f\/cfdd9f79-4a61-c3f8-5c49-6362a1e24550\/mza_4794641183246325650.jpg\/170x170bb.png",
+            "apple_id": "1860885636",
+            "name": "#GénérationIA",
+            "artist": "HEC Montréal - Groupes de travail en intelligence artificielle générative",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/16\/2a\/86\/162a86ff-27f4-e8fb-4eeb-cc3167378289\/mza_10249202061076882911.jpg\/170x170bb.png",
             "genre": "Technology",
             "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/runas-radio\/id253682066?uo=2"
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/g%C3%A9n%C3%A9rationia\/id1860885636?uo=2"
         },
         {
             "rank": 140,
-            "apple_id": "1001591696",
-            "name": "Cortex",
-            "artist": "Relay",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/7b\/2a\/a9\/7b2aa9e4-25fd-f767-e88a-8567756cc876\/mza_2440418142953585175.jpeg\/170x170bb.png",
+            "apple_id": "1195001633",
+            "name": "Smashing Security",
+            "artist": "Graham Cluley",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/c5\/d7\/a8\/c5d7a894-f886-7dee-8814-18204dabad46\/mza_16440597878419294581.jpeg\/170x170bb.png",
             "genre": "Technology",
             "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/cortex\/id1001591696?uo=2"
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/smashing-security\/id1195001633?uo=2"
         },
         {
             "rank": 141,
-            "apple_id": "1124414975",
-            "name": "Telecoms.com Podcast",
-            "artist": "Telecoms.com",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts125\/v4\/59\/71\/ab\/5971abaa-c6df-b878-e626-187c7dda5a36\/mza_7908752309334152614.jpg\/170x170bb.png",
+            "apple_id": "1042827113",
+            "name": "Wharton FinTech Podcast",
+            "artist": "Wharton Fintech Podcast",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts123\/v4\/b9\/61\/d1\/b961d1c9-3446-3d14-f462-50a66f051284\/mza_4846792912570995252.jpg\/170x170bb.png",
             "genre": "Technology",
             "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/telecoms-com-podcast\/id1124414975?uo=2"
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/wharton-fintech-podcast\/id1042827113?uo=2"
         },
         {
             "rank": 142,
-            "apple_id": "1204521130",
-            "name": "Machine Learning Guide",
-            "artist": "OCDevel",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/36\/c1\/ff\/36c1ff10-120a-10fb-a15c-2c08edf90d0b\/mza_17055839829755069717.jpg\/170x170bb.png",
-            "genre": "Technology",
-            "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/machine-learning-guide\/id1204521130?uo=2"
-        },
-        {
-            "rank": 143,
-            "apple_id": "1880189974",
-            "name": "Expedition: Handheld",
-            "artist": "Adam Patrick Murray, Russ Crandall",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/bc\/5f\/14\/bc5f14ec-a312-944d-b656-d2aa857efc53\/mza_6624675387536553750.jpg\/170x170bb.png",
-            "genre": "Technology",
-            "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/expedition-handheld\/id1880189974?uo=2"
-        },
-        {
-            "rank": 144,
-            "apple_id": "1871199326",
-            "name": "The Standup with ThePrimeagen",
-            "artist": "ThePrimeagen",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/06\/48\/6d\/06486d83-c01d-8fa1-b904-3fd0397ae4e2\/mza_15773397687851556126.png\/170x170bb.png",
-            "genre": "Technology",
-            "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/the-standup-with-theprimeagen\/id1871199326?uo=2"
-        },
-        {
-            "rank": 145,
-            "apple_id": "370842767",
-            "name": "Heavy Networking",
-            "artist": "Packet Pushers",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts126\/v4\/f3\/88\/86\/f3888608-580f-ae56-adfb-3358efbfab24\/mza_12277354268230403750.png\/170x170bb.png",
-            "genre": "Technology",
-            "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/heavy-networking\/id370842767?uo=2"
-        },
-        {
-            "rank": 146,
-            "apple_id": "470624027",
-            "name": "TED Tech",
-            "artist": "TED Tech",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts126\/v4\/d9\/32\/32\/d932328a-a21d-999c-690c-f05d680778b2\/mza_13752174967843677920.jpg\/170x170bb.png",
-            "genre": "Technology",
-            "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/ted-tech\/id470624027?uo=2"
-        },
-        {
-            "rank": 147,
-            "apple_id": "1480583664",
-            "name": "Elon Musk Podcast",
-            "artist": "Stage Zero",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/19\/1f\/05\/191f05c6-ee13-b197-d8e6-888dd7089040\/mza_16546692845372604450.jpg\/170x170bb.png",
-            "genre": "Technology",
-            "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/elon-musk-podcast\/id1480583664?uo=2"
-        },
-        {
-            "rank": 148,
-            "apple_id": "1819090545",
-            "name": "Silicon Valley Girl: AI, Tech and Career Growth",
-            "artist": "Marina Mogilko",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/69\/eb\/b5\/69ebb5ad-2083-a50d-d76a-677504253895\/mza_4602711082543402345.jpg\/170x170bb.png",
-            "genre": "Technology",
-            "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/silicon-valley-girl-ai-tech-and-career-growth\/id1819090545?uo=2"
-        },
-        {
-            "rank": 149,
-            "apple_id": "1501881754",
-            "name": "Embracing Digital Transformation",
-            "artist": "Dr. Darren Pulsipher",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/ea\/95\/d0\/ea95d01d-1ed6-d0b6-d2e2-e81fb65faee1\/mza_1538331033807963721.jpg\/170x170bb.png",
-            "genre": "Technology",
-            "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/embracing-digital-transformation\/id1501881754?uo=2"
-        },
-        {
-            "rank": 150,
-            "apple_id": "840308131",
-            "name": "Aviation Week's Check 6 Podcast",
-            "artist": "Aviation Week",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/84\/9a\/44\/849a44a9-fbab-d743-fa09-f78685231112\/mza_6408101317627876837.jpg\/170x170bb.png",
-            "genre": "Technology",
-            "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/aviation-weeks-check-6-podcast\/id840308131?uo=2"
-        },
-        {
-            "rank": 151,
-            "apple_id": "1891551672",
-            "name": "Max Agency",
-            "artist": "LangChain",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/05\/d3\/83\/05d383df-c608-e03d-2aa4-8cdfeded233a\/mza_7146693305735765165.jpg\/170x170bb.png",
-            "genre": "Technology",
-            "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/max-agency\/id1891551672?uo=2"
-        },
-        {
-            "rank": 152,
-            "apple_id": "282795787",
-            "name": "TechStuff",
-            "artist": "iHeartPodcasts",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/28\/b9\/08\/28b908c5-60e2-d461-e0d0-e3565767e74c\/mza_10040908254531769073.jpg\/170x170bb.png",
-            "genre": "Technology",
-            "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/techstuff\/id282795787?uo=2"
-        },
-        {
-            "rank": 153,
-            "apple_id": "1539670094",
-            "name": "The Room Podcast",
-            "artist": "Claudia Laurie and Madison McIlwain",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/c1\/89\/fa\/c189fad2-250b-ded2-2030-91cf35f4fce9\/mza_2771269306765533595.jpg\/170x170bb.png",
-            "genre": "Technology",
-            "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/the-room-podcast\/id1539670094?uo=2"
-        },
-        {
-            "rank": 154,
-            "apple_id": "1721855892",
-            "name": "Artificial Intelligence Masterclass",
-            "artist": "AI Masterclass",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/c2\/18\/a9\/c218a938-74ba-42f4-4174-267463b633c6\/mza_7358057830992025831.jpg\/170x170bb.png",
-            "genre": "Technology",
-            "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/artificial-intelligence-masterclass\/id1721855892?uo=2"
-        },
-        {
-            "rank": 155,
-            "apple_id": "1772772350",
-            "name": "N Is For Networking",
-            "artist": "Packet Pushers",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/a2\/49\/ed\/a249ed71-6739-a753-f8f8-e272b050046a\/mza_10906182676415997589.jpeg\/170x170bb.png",
-            "genre": "Technology",
-            "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/n-is-for-networking\/id1772772350?uo=2"
-        },
-        {
-            "rank": 156,
-            "apple_id": "1467317304",
-            "name": "Broken Silicon",
-            "artist": "Moore's Law Is Dead, Bleav",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/c5\/13\/5d\/c5135d75-a812-0b0b-9675-6668343c04b2\/mza_9386923980932092642.jpg\/170x170bb.png",
-            "genre": "Technology",
-            "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/broken-silicon\/id1467317304?uo=2"
-        },
-        {
-            "rank": 157,
-            "apple_id": "1795992710",
-            "name": "The AmberMac Show",
-            "artist": "AmberMac Media Inc.",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/e7\/9a\/f0\/e79af011-5f37-3d02-c4ae-6fbb319b073f\/mza_14513201283583304081.jpg\/170x170bb.png",
-            "genre": "Technology",
-            "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/the-ambermac-show\/id1795992710?uo=2"
-        },
-        {
-            "rank": 158,
-            "apple_id": "1508222292",
-            "name": "Being an Engineer",
-            "artist": "Aaron Moncur",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/f9\/ea\/7e\/f9ea7e14-28a4-07e0-7727-ba24527dfb7c\/mza_2694726557793121439.jpg\/170x170bb.png",
-            "genre": "Technology",
-            "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/being-an-engineer\/id1508222292?uo=2"
-        },
-        {
-            "rank": 159,
-            "apple_id": "1264759930",
-            "name": "Hashtag Trending",
-            "artist": "Jim Love",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/37\/58\/d8\/3758d834-8e65-2b74-dd3a-0cecbd1b7643\/mza_14130732602625237379.jpg\/170x170bb.png",
-            "genre": "Technology",
-            "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/hashtag-trending\/id1264759930?uo=2"
-        },
-        {
-            "rank": 160,
-            "apple_id": "670771965",
-            "name": "The AI in Business Podcast",
-            "artist": "Daniel Faggella",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/e9\/c0\/37\/e9c0370e-30e6-27f4-dedc-767d518ebfd0\/mza_15365728263578630927.png\/170x170bb.png",
-            "genre": "Technology",
-            "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/the-ai-in-business-podcast\/id670771965?uo=2"
-        },
-        {
-            "rank": 161,
-            "apple_id": "1700299886",
-            "name": "42章经",
-            "artist": "KaiQu",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts126\/v4\/33\/6c\/3f\/336c3fea-4e5a-9524-6b7d-92c1080a6db9\/mza_9247514814536235437.png\/170x170bb.png",
-            "genre": "Technology",
-            "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/42%E7%AB%A0%E7%BB%8F\/id1700299886?uo=2"
-        },
-        {
-            "rank": 162,
-            "apple_id": "1743404902",
-            "name": "Anglofuturism",
-            "artist": "Tom Ough and Calum Drysdale",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/f9\/92\/eb\/f992eb6b-978d-ed7f-1222-ed4a77ccf55e\/mza_14466723426510687122.jpg\/170x170bb.png",
-            "genre": "Technology",
-            "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/anglofuturism\/id1743404902?uo=2"
-        },
-        {
-            "rank": 163,
-            "apple_id": "1725551654",
-            "name": "In Machines we Trust",
-            "artist": "In Machines we Trust",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/ab\/86\/d1\/ab86d193-1e20-2542-ed7d-4fa5b79719c7\/mza_14841611386912975734.jpeg\/170x170bb.png",
-            "genre": "Technology",
-            "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/in-machines-we-trust\/id1725551654?uo=2"
-        },
-        {
-            "rank": 164,
-            "apple_id": "1615195553",
-            "name": "Podmastery: podcasting insights and advice for indie creators",
-            "artist": "The Podmaster (Neal Veglio)",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/c7\/fd\/9d\/c7fd9d7a-3b4b-1767-7a63-87461e6a461e\/mza_17307338754120262285.jpg\/170x170bb.png",
-            "genre": "Technology",
-            "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/podmastery-podcasting-insights-and-advice-for-indie\/id1615195553?uo=2"
-        },
-        {
-            "rank": 165,
-            "apple_id": "1450197741",
-            "name": "Defense in Depth",
-            "artist": "David Spark, Steve Zalewski, Geoff Belknap",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts113\/v4\/8e\/13\/63\/8e136368-ee01-abea-d780-976f33d799c8\/mza_8428782477805015991.png\/170x170bb.png",
-            "genre": "Technology",
-            "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/defense-in-depth\/id1450197741?uo=2"
-        },
-        {
-            "rank": 166,
-            "apple_id": "1787830122",
-            "name": "Building AI Boston",
-            "artist": "Building AI Boston",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/96\/51\/fb\/9651fbb6-beb9-32b5-4daf-807df5b1c2da\/mza_12664249370395591139.jpeg\/170x170bb.png",
-            "genre": "Technology",
-            "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/building-ai-boston\/id1787830122?uo=2"
-        },
-        {
-            "rank": 167,
-            "apple_id": "1770096799",
-            "name": "The Revenue Leadership Podcast with Kyle Norton",
-            "artist": "Pavilion",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/ab\/f7\/cb\/abf7cb6e-0931-cb40-d4a3-02a5070b04e5\/mza_7872353977152770807.jpg\/170x170bb.png",
-            "genre": "Technology",
-            "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/the-revenue-leadership-podcast-with-kyle-norton\/id1770096799?uo=2"
-        },
-        {
-            "rank": 168,
-            "apple_id": "941219323",
-            "name": "Linear Digressions",
-            "artist": "Katie Malone",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts115\/v4\/39\/d1\/c7\/39d1c707-9487-55b8-5225-e9ae54262292\/mza_7129723090907127604.jpg\/170x170bb.png",
-            "genre": "Technology",
-            "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/linear-digressions\/id941219323?uo=2"
-        },
-        {
-            "rank": 169,
-            "apple_id": "80063725",
-            "name": "HKPUG Podcast 派樂派對",
-            "artist": "HKPUG",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts\/v4\/9e\/da\/a6\/9edaa6b5-49ba-21bc-0493-7defb574bdf5\/mza_5704512714490021660.png\/170x170bb.png",
-            "genre": "Technology",
-            "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/hkpug-podcast-%E6%B4%BE%E6%A8%82%E6%B4%BE%E5%B0%8D\/id80063725?uo=2"
-        },
-        {
-            "rank": 170,
-            "apple_id": "1728935734",
-            "name": "Packet Protector",
-            "artist": "Packet Pushers",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts116\/v4\/02\/0a\/b5\/020ab5fc-1a5b-3841-adfc-75d4e7e8de4b\/mza_5791319916606868037.jpg\/170x170bb.png",
-            "genre": "Technology",
-            "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/packet-protector\/id1728935734?uo=2"
-        },
-        {
-            "rank": 171,
             "apple_id": "1368388920",
             "name": "Darko.Audio podcast",
             "artist": "John Darko",
@@ -1718,77 +1428,427 @@
             "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/darko-audio-podcast\/id1368388920?uo=2"
         },
         {
-            "rank": 172,
-            "apple_id": "1763085968",
-            "name": "Pioneers of AI",
-            "artist": "WaitWhat",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/f5\/06\/73\/f5067386-83d2-9e04-a4a1-a7a56f9b6140\/mza_10668335542397713410.jpeg\/170x170bb.png",
+            "rank": 143,
+            "apple_id": "1078453487",
+            "name": "The BetaKit Podcast Channel",
+            "artist": "BetaKit Podcast Network",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts125\/v4\/e6\/29\/40\/e6294082-f081-f32d-a23c-c8b0dfac24bb\/mza_12856824051282051002.png\/170x170bb.png",
             "genre": "Technology",
             "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/pioneers-of-ai\/id1763085968?uo=2"
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/the-betakit-podcast-channel\/id1078453487?uo=2"
+        },
+        {
+            "rank": 144,
+            "apple_id": "1533115958",
+            "name": "Me, Myself, and AI",
+            "artist": "MIT Sloan Management Review",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/00\/eb\/fc\/00ebfcdc-6a2e-e046-adea-f907461ca3a3\/mza_7764048654762405827.jpg\/170x170bb.png",
+            "genre": "Technology",
+            "genre_id": "1318",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/me-myself-and-ai\/id1533115958?uo=2"
+        },
+        {
+            "rank": 145,
+            "apple_id": "1848156557",
+            "name": "Tomorrow, Today",
+            "artist": "Shekhar Natarajan",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/b2\/b4\/80\/b2b48020-11e7-92a9-db46-b7d475a19757\/mza_619091211434212889.jpg\/170x170bb.png",
+            "genre": "Technology",
+            "genre_id": "1318",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/tomorrow-today\/id1848156557?uo=2"
+        },
+        {
+            "rank": 146,
+            "apple_id": "1484910273",
+            "name": "Machines Like Us",
+            "artist": "The Globe and Mail",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/93\/03\/8f\/93038f2f-9230-8751-5365-24b4ef13323d\/mza_18356990948832024366.jpg\/170x170bb.png",
+            "genre": "Technology",
+            "genre_id": "1318",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/machines-like-us\/id1484910273?uo=2"
+        },
+        {
+            "rank": 147,
+            "apple_id": "1878492063",
+            "name": "Risky Business Features",
+            "artist": "Risky Business Media",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/5b\/f3\/7d\/5bf37d86-3e3a-9e9a-2267-b9fae94d616b\/mza_1302698407325830243.png\/170x170bb.png",
+            "genre": "Technology",
+            "genre_id": "1318",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/risky-business-features\/id1878492063?uo=2"
+        },
+        {
+            "rank": 148,
+            "apple_id": "1521274991",
+            "name": "iWeek (la semaine Apple)",
+            "artist": "Benjamin VINCENT",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/fa\/43\/33\/fa43333d-9440-acc8-af6b-04418e315d21\/mza_11107334037692784929.jpeg\/170x170bb.png",
+            "genre": "Technology",
+            "genre_id": "1318",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/iweek-la-semaine-apple\/id1521274991?uo=2"
+        },
+        {
+            "rank": 149,
+            "apple_id": "1728044298",
+            "name": "Everything Is Fake",
+            "artist": "BBC Radio 4",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/99\/db\/43\/99db43a9-39c6-d8bc-23a9-c7b052135cd6\/mza_3514744363109902343.jpg\/170x170bb.png",
+            "genre": "Technology",
+            "genre_id": "1318",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/everything-is-fake\/id1728044298?uo=2"
+        },
+        {
+            "rank": 150,
+            "apple_id": "1895967811",
+            "name": "Eli the Computer Guy",
+            "artist": "Eli the Computer Guy",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/d9\/fb\/75\/d9fb75ef-2083-3694-633e-d3d53135ac19\/mza_12675971772178578255.jpg\/170x170bb.png",
+            "genre": "Technology",
+            "genre_id": "1318",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/eli-the-computer-guy\/id1895967811?uo=2"
+        },
+        {
+            "rank": 151,
+            "apple_id": "1439580752",
+            "name": "Apple, différemment",
+            "artist": "Audrey Couleau et Mat alias @profduweb",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/0f\/a3\/b6\/0fa3b620-1218-d7a1-f0e8-99251fa05512\/mza_3321316426793637812.jpg\/170x170bb.png",
+            "genre": "Technology",
+            "genre_id": "1318",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/apple-diff%C3%A9remment\/id1439580752?uo=2"
+        },
+        {
+            "rank": 152,
+            "apple_id": "1682409647",
+            "name": "AI For Humans: Weekly AI News, Tools & Trends",
+            "artist": "Kevin Pereira & Gavin Purcell",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/60\/e5\/97\/60e59746-1e5a-de6e-59ec-78bc76d43422\/mza_17349172200761408050.png\/170x170bb.png",
+            "genre": "Technology",
+            "genre_id": "1318",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/ai-for-humans-weekly-ai-news-tools-trends\/id1682409647?uo=2"
+        },
+        {
+            "rank": 153,
+            "apple_id": "963144241",
+            "name": "AppleInsider Podcast",
+            "artist": "AppleInsider",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/7c\/7e\/ec\/7c7eeced-8fdb-e0b3-31be-d8e0f577314e\/mza_10351125006468531805.jpg\/170x170bb.png",
+            "genre": "Technology",
+            "genre_id": "1318",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/appleinsider-podcast\/id963144241?uo=2"
+        },
+        {
+            "rank": 154,
+            "apple_id": "1515834398",
+            "name": "Smart Home Insider",
+            "artist": "AppleInsider",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/79\/2b\/2f\/792b2f6a-eb1b-3d87-336b-2639d55c07e4\/mza_3582277135157383213.jpg\/170x170bb.png",
+            "genre": "Technology",
+            "genre_id": "1318",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/smart-home-insider\/id1515834398?uo=2"
+        },
+        {
+            "rank": 155,
+            "apple_id": "687598126",
+            "name": "LINUX Unplugged",
+            "artist": "Jupiter Broadcasting",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts125\/v4\/ee\/92\/e7\/ee92e7ec-41bf-e302-0fb0-4550fd5c7ae2\/mza_1280668358667393986.jpg\/170x170bb.png",
+            "genre": "Technology",
+            "genre_id": "1318",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/linux-unplugged\/id687598126?uo=2"
+        },
+        {
+            "rank": 156,
+            "apple_id": "1204521130",
+            "name": "Machine Learning Guide",
+            "artist": "OCDevel",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/36\/c1\/ff\/36c1ff10-120a-10fb-a15c-2c08edf90d0b\/mza_17055839829755069717.jpg\/170x170bb.png",
+            "genre": "Technology",
+            "genre_id": "1318",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/machine-learning-guide\/id1204521130?uo=2"
+        },
+        {
+            "rank": 157,
+            "apple_id": "1234320525",
+            "name": "Bold Names",
+            "artist": "The Wall Street Journal",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/83\/98\/e4\/8398e4cd-87cb-5239-a28b-95c8800884da\/mza_1600739564434698433.jpg\/170x170bb.png",
+            "genre": "Technology",
+            "genre_id": "1318",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/bold-names\/id1234320525?uo=2"
+        },
+        {
+            "rank": 158,
+            "apple_id": "563933198",
+            "name": "Macworld Podcast",
+            "artist": "Foundry",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts125\/v4\/98\/e1\/5a\/98e15acd-5b13-111e-c267-1692aa0736ba\/mza_4798638731283775962.jpg\/170x170bb.png",
+            "genre": "Technology",
+            "genre_id": "1318",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/macworld-podcast\/id563933198?uo=2"
+        },
+        {
+            "rank": 159,
+            "apple_id": "73802706",
+            "name": "Hands-On Tech (Audio)",
+            "artist": "TWiT",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/d1\/c4\/7a\/d1c47a3c-3579-57e8-8e8c-a5a8f770592c\/mza_6446304910339154506.jpg\/170x170bb.png",
+            "genre": "Technology",
+            "genre_id": "1318",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/hands-on-tech-audio\/id73802706?uo=2"
+        },
+        {
+            "rank": 160,
+            "apple_id": "381972795",
+            "name": "iOS Today (Audio)",
+            "artist": "TWiT",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts126\/v4\/27\/fa\/37\/27fa3701-e60d-f56a-cb28-af4cecbb4b53\/mza_1039221618265710988.jpg\/170x170bb.png",
+            "genre": "Technology",
+            "genre_id": "1318",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/ios-today-audio\/id381972795?uo=2"
+        },
+        {
+            "rank": 161,
+            "apple_id": "1332150899",
+            "name": "The Flycast",
+            "artist": "The Flycast",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts125\/v4\/9c\/32\/42\/9c324209-744f-6435-2065-30d2dece7981\/mza_16662580058659422843.jpg\/170x170bb.png",
+            "genre": "Technology",
+            "genre_id": "1318",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/the-flycast\/id1332150899?uo=2"
+        },
+        {
+            "rank": 162,
+            "apple_id": "1661329711",
+            "name": "The Circuit",
+            "artist": "Ben Bajarin and Jay Goldberg",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/93\/af\/60\/93af603b-e0ae-3c34-fce4-68ced89e4938\/mza_989817321568677055.jpg\/170x170bb.png",
+            "genre": "Technology",
+            "genre_id": "1318",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/the-circuit\/id1661329711?uo=2"
+        },
+        {
+            "rank": 163,
+            "apple_id": "1692137063",
+            "name": "Zach Abramowitz is Legally Disrupted",
+            "artist": "Zach Abramowitz",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/fa\/7c\/4f\/fa7c4fc2-70af-07f9-710d-b5ea86ecd26d\/mza_15596063007887260994.jpg\/170x170bb.png",
+            "genre": "Technology",
+            "genre_id": "1318",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/zach-abramowitz-is-legally-disrupted\/id1692137063?uo=2"
+        },
+        {
+            "rank": 164,
+            "apple_id": "1193002598",
+            "name": "La French Connection",
+            "artist": "Hackfest Communication",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/80\/9a\/b1\/809ab1c6-7f0b-a53c-8c29-2eb9fe2c8419\/mza_11876107571718736518.png\/170x170bb.png",
+            "genre": "Technology",
+            "genre_id": "1318",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/la-french-connection\/id1193002598?uo=2"
+        },
+        {
+            "rank": 165,
+            "apple_id": "1834057690",
+            "name": "Vibing with AI Code",
+            "artist": "Brendan Buckingham",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/97\/a4\/40\/97a44018-da8e-ecc8-e227-50006dbbd3d6\/mza_18263618022858932168.jpg\/170x170bb.png",
+            "genre": "Technology",
+            "genre_id": "1318",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/vibing-with-ai-code\/id1834057690?uo=2"
+        },
+        {
+            "rank": 166,
+            "apple_id": "1447409683",
+            "name": "Hackaday Podcast",
+            "artist": "Hackaday",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts125\/v4\/8d\/91\/a4\/8d91a407-e89b-2847-6cf1-9a77b24646bc\/mza_13250927663186024278.jpg\/170x170bb.png",
+            "genre": "Technology",
+            "genre_id": "1318",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/hackaday-podcast\/id1447409683?uo=2"
+        },
+        {
+            "rank": 167,
+            "apple_id": "1691452657",
+            "name": "The PetaPixel Photography Podcast",
+            "artist": "PetaPixel",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts126\/v4\/9a\/05\/62\/9a056275-1aab-39eb-cc69-77473b5adc9e\/mza_14796251031695631646.jpg\/170x170bb.png",
+            "genre": "Technology",
+            "genre_id": "1318",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/the-petapixel-photography-podcast\/id1691452657?uo=2"
+        },
+        {
+            "rank": 168,
+            "apple_id": "1778060368",
+            "name": "The AI News Daily Brief",
+            "artist": "PodcastAI",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/90\/9b\/6a\/909b6a4d-066f-81a4-9026-24b5cf6ab097\/mza_4483189934291450779.jpg\/170x170bb.png",
+            "genre": "Technology",
+            "genre_id": "1318",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/the-ai-news-daily-brief\/id1778060368?uo=2"
+        },
+        {
+            "rank": 169,
+            "apple_id": "1493301231",
+            "name": "Security Now (Audio)",
+            "artist": "TWiT",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts116\/v4\/8a\/1d\/73\/8a1d736b-bb00-96b7-4f70-9b54372b813e\/mza_5524890780705130112.jpg\/170x170bb.png",
+            "genre": "Technology",
+            "genre_id": "1318",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/security-now-audio\/id1493301231?uo=2"
+        },
+        {
+            "rank": 170,
+            "apple_id": "1870946231",
+            "name": "Quantum Matters: Where Quantum Computing Gets Real",
+            "artist": "D-Wave",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/65\/b9\/29\/65b929e2-a174-d145-1320-62dc05cf7a0a\/mza_16527625562752546626.jpeg\/170x170bb.png",
+            "genre": "Technology",
+            "genre_id": "1318",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/quantum-matters-where-quantum-computing-gets-real\/id1870946231?uo=2"
+        },
+        {
+            "rank": 171,
+            "apple_id": "1450197741",
+            "name": "Defense in Depth",
+            "artist": "CISO Series",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts113\/v4\/8e\/13\/63\/8e136368-ee01-abea-d780-976f33d799c8\/mza_8428782477805015991.png\/170x170bb.png",
+            "genre": "Technology",
+            "genre_id": "1318",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/defense-in-depth\/id1450197741?uo=2"
+        },
+        {
+            "rank": 172,
+            "apple_id": "1896873502",
+            "name": "Intentional AI",
+            "artist": "Relay",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/d2\/36\/7c\/d2367c5f-5542-3094-72fa-718363f45b70\/mza_2265046778191054421.png\/170x170bb.png",
+            "genre": "Technology",
+            "genre_id": "1318",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/intentional-ai\/id1896873502?uo=2"
         },
         {
             "rank": 173,
-            "apple_id": "1770994541",
-            "name": "The Drone Ultimatum",
-            "artist": "Allen Control Systems (ACS)",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/7e\/05\/17\/7e051751-3c05-33e8-d16b-9823491b70eb\/mza_17335080933668254277.jpg\/170x170bb.png",
+            "apple_id": "1561685780",
+            "name": "TechCheck",
+            "artist": "CNBC",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/1d\/1e\/cb\/1d1ecbc3-4d28-50e2-f7e1-9c34835ae769\/mza_14069092791652477553.jpg\/170x170bb.png",
             "genre": "Technology",
             "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/the-drone-ultimatum\/id1770994541?uo=2"
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/techcheck\/id1561685780?uo=2"
         },
         {
             "rank": 174,
-            "apple_id": "1516840491",
-            "name": "Capsules Technos",
-            "artist": "Fondation INCA",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts114\/v4\/bb\/db\/af\/bbdbaf6d-bc16-4cee-2238-98ac88ed3ff7\/mza_16250514898362933870.jpg\/170x170bb.png",
+            "apple_id": "585914973",
+            "name": "Defensive Security Podcast - Malware, Hacking, Cyber Security & Infosec",
+            "artist": "Jerry Bell and Andrew Kalat",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts125\/v4\/cf\/b0\/d8\/cfb0d8af-15b4-c510-7bfe-5e3c405e11ca\/mza_5350933233141271249.png\/170x170bb.png",
             "genre": "Technology",
             "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/capsules-technos\/id1516840491?uo=2"
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/defensive-security-podcast-malware-hacking-cyber-security\/id585914973?uo=2"
         },
         {
             "rank": 175,
-            "apple_id": "1783081984",
-            "name": "IT Leadership Growth Series",
-            "artist": "IT Management and Leadership Institute",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/f8\/23\/7f\/f8237f31-cf56-b80c-2abf-4f9e5a90fe14\/mza_16967105333373638574.jpg\/170x170bb.png",
+            "apple_id": "1438378439",
+            "name": "Eye On A.I.",
+            "artist": "Craig S. Smith",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts126\/v4\/e1\/b0\/89\/e1b0891d-d710-9a32-e280-5922b92e08bf\/mza_15552391604477952012.jpg\/170x170bb.png",
             "genre": "Technology",
             "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/it-leadership-growth-series\/id1783081984?uo=2"
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/eye-on-a-i\/id1438378439?uo=2"
         },
         {
             "rank": 176,
-            "apple_id": "1475113228",
-            "name": "三五环",
-            "artist": "刘飞Lufy",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts126\/v4\/6e\/d0\/de\/6ed0dedb-d782-a562-e40b-043ce20441d3\/mza_5066303992234991879.jpeg\/170x170bb.png",
+            "apple_id": "1690426042",
+            "name": "Mystery AI Hype Theater 3000",
+            "artist": "Emily M. Bender and Alex Hanna",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/38\/fb\/7a\/38fb7a9e-01f3-883b-cef2-1e4b9ad76ad8\/mza_15529367428367822431.jpg\/170x170bb.png",
             "genre": "Technology",
             "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/%E4%B8%89%E4%BA%94%E7%8E%AF\/id1475113228?uo=2"
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/mystery-ai-hype-theater-3000\/id1690426042?uo=2"
         },
         {
             "rank": 177,
-            "apple_id": "1252417787",
-            "name": "Malicious Life",
-            "artist": "Malicious Life",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/0f\/29\/ab\/0f29ab12-4072-16eb-f3ee-91e4c5cf43f9\/mza_5233473439185484131.jpg\/170x170bb.png",
+            "apple_id": "1527573899",
+            "name": "The Future Skills Podcast",
+            "artist": "Signal49 Research",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/2b\/4a\/f3\/2b4af329-663f-2020-895a-3fc703a75bb2\/mza_5150195631636762154.jpg\/170x170bb.png",
             "genre": "Technology",
             "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/malicious-life\/id1252417787?uo=2"
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/the-future-skills-podcast\/id1527573899?uo=2"
         },
         {
             "rank": 178,
-            "apple_id": "1734495857",
-            "name": "Inside the Ecosystem",
-            "artist": "Nikias Molina",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts122\/v4\/0e\/84\/39\/0e843959-b69a-0798-1299-c456a2b5e52e\/mza_6633614830062338897.jpg\/170x170bb.png",
+            "apple_id": "82449868",
+            "name": "De quoi jme mail",
+            "artist": "BFM Business",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts116\/v4\/7f\/55\/0a\/7f550a81-902f-e0a1-ebf3-6e402268cfb4\/mza_1121364630741021475.jpg\/170x170bb.png",
             "genre": "Technology",
             "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/inside-the-ecosystem\/id1734495857?uo=2"
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/de-quoi-jme-mail\/id82449868?uo=2"
         },
         {
             "rank": 179,
+            "apple_id": "1777077679",
+            "name": "Terms of Service with Clare Duffy",
+            "artist": "CNN Podcasts",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/03\/b3\/8e\/03b38e78-96fb-f02e-b145-9a60558a723f\/mza_8469692931758762735.jpeg\/170x170bb.png",
+            "genre": "Technology",
+            "genre_id": "1318",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/terms-of-service-with-clare-duffy\/id1777077679?uo=2"
+        },
+        {
+            "rank": 180,
+            "apple_id": "1684061503",
+            "name": "Let’s Talk Microsoft 365 Copilot Podcast",
+            "artist": "Virteva",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts126\/v4\/d2\/96\/a8\/d296a84f-c592-a735-cdb1-1ca1641fd45d\/mza_4608687588131821977.png\/170x170bb.png",
+            "genre": "Technology",
+            "genre_id": "1318",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/lets-talk-microsoft-365-copilot-podcast\/id1684061503?uo=2"
+        },
+        {
+            "rank": 181,
+            "apple_id": "1482645186",
+            "name": "Kim Komando Daily Tech Update",
+            "artist": "Kim Komando",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/05\/db\/5c\/05db5cba-c891-a5b4-2c0c-7e1737fc71b9\/mza_4140670601450055286.jpg\/170x170bb.png",
+            "genre": "Technology",
+            "genre_id": "1318",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/kim-komando-daily-tech-update\/id1482645186?uo=2"
+        },
+        {
+            "rank": 182,
+            "apple_id": "1541394865",
+            "name": "Where the Internet Lives",
+            "artist": "Google",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/93\/76\/3a\/93763a73-187c-289c-4b33-4a39b5c84b25\/mza_16974755983696845528.jpg\/170x170bb.png",
+            "genre": "Technology",
+            "genre_id": "1318",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/where-the-internet-lives\/id1541394865?uo=2"
+        },
+        {
+            "rank": 183,
+            "apple_id": "1634356920",
+            "name": "张小珺Jùn｜商业访谈录",
+            "artist": "张小珺",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/e6\/74\/44\/e674449c-c2ac-50c4-0099-7e37c330e6c5\/mza_16442776193352459849.png\/170x170bb.png",
+            "genre": "Technology",
+            "genre_id": "1318",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/%E5%BC%A0%E5%B0%8F%E7%8F%BAj%C3%B9n-%E5%95%86%E4%B8%9A%E8%AE%BF%E8%B0%88%E5%BD%95\/id1634356920?uo=2"
+        },
+        {
+            "rank": 184,
+            "apple_id": "1672188924",
+            "name": "Unsupervised Learning with Jacob Effron",
+            "artist": "by Redpoint Ventures",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts116\/v4\/a2\/0f\/44\/a20f4439-99e5-222a-d1df-da8527fe4826\/mza_2913235468175420.jpg\/170x170bb.png",
+            "genre": "Technology",
+            "genre_id": "1318",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/unsupervised-learning-with-jacob-effron\/id1672188924?uo=2"
+        },
+        {
+            "rank": 185,
             "apple_id": "1091341048",
             "name": "Soft Skills Engineering",
             "artist": "Jamison Dance and Dave Smith",
@@ -1798,214 +1858,154 @@
             "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/soft-skills-engineering\/id1091341048?uo=2"
         },
         {
-            "rank": 180,
-            "apple_id": "797742806",
-            "name": "7 Minute Security",
-            "artist": "Brian Johnson",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts126\/v4\/5a\/6c\/03\/5a6c039c-d004-8b78-69c5-b715699d6ee3\/mza_6307985816488870963.png\/170x170bb.png",
-            "genre": "Technology",
-            "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/7-minute-security\/id797742806?uo=2"
-        },
-        {
-            "rank": 181,
-            "apple_id": "1822563826",
-            "name": "On Rails",
-            "artist": "Rails Foundation, Robby Russell",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/4b\/46\/28\/4b462883-2391-86ed-37cc-ddbeb4b43ac6\/mza_13394190389634084598.jpg\/170x170bb.png",
-            "genre": "Technology",
-            "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/on-rails\/id1822563826?uo=2"
-        },
-        {
-            "rank": 182,
-            "apple_id": "1350479996",
-            "name": "Techish",
-            "artist": "Techish",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/62\/3a\/f6\/623af626-f887-7ea2-7a88-333fe9848d41\/mza_17028207643318435488.jpg\/170x170bb.png",
-            "genre": "Technology",
-            "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/techish\/id1350479996?uo=2"
-        },
-        {
-            "rank": 183,
-            "apple_id": "1489678590",
-            "name": "Cloud Security Podcast",
-            "artist": "TechRiot.io",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts126\/v4\/58\/b3\/c5\/58b3c511-cc0e-7072-d883-1f5b065a25ff\/mza_5290799287308843995.jpg\/170x170bb.png",
-            "genre": "Technology",
-            "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/cloud-security-podcast\/id1489678590?uo=2"
-        },
-        {
-            "rank": 184,
-            "apple_id": "1465694268",
-            "name": "4Rahecomputer | چهارراه کامپیوتر",
-            "artist": "4Rahecomputer",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts114\/v4\/25\/6b\/29\/256b29bb-55a5-b6e1-2757-320c80ae3e5e\/mza_459016483852670330.jpg\/170x170bb.png",
-            "genre": "Technology",
-            "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/4rahecomputer-%DA%86%D9%87%D8%A7%D8%B1%D8%B1%D8%A7%D9%87-%DA%A9%D8%A7%D9%85%D9%BE%DB%8C%D9%88%D8%AA%D8%B1\/id1465694268?uo=2"
-        },
-        {
-            "rank": 185,
-            "apple_id": "1813210890",
-            "name": "Limitless: An AI Podcast",
-            "artist": "Limitless",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/20\/b0\/b6\/20b0b63c-464d-1d16-0366-3e873b125169\/mza_18298087125152985517.jpg\/170x170bb.png",
-            "genre": "Technology",
-            "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/limitless-an-ai-podcast\/id1813210890?uo=2"
-        },
-        {
             "rank": 186,
-            "apple_id": "1682797246",
-            "name": "Linux Matters",
-            "artist": "Linux Matters",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/0a\/08\/e5\/0a08e5ff-1830-2f89-b9af-cd0a35fb73a5\/mza_1444348169157925485.png\/170x170bb.png",
+            "apple_id": "1001591696",
+            "name": "Cortex",
+            "artist": "Relay",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/7b\/2a\/a9\/7b2aa9e4-25fd-f767-e88a-8567756cc876\/mza_2440418142953585175.jpeg\/170x170bb.png",
             "genre": "Technology",
             "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/linux-matters\/id1682797246?uo=2"
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/cortex\/id1001591696?uo=2"
         },
         {
             "rank": 187,
-            "apple_id": "1561084634",
-            "name": "PolySécure Podcast",
-            "artist": "Nicolas-Loïc Fortin et tous les collaborateurs",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/28\/3f\/f1\/283ff12a-8b1d-f1b1-c2e8-e5edb093574c\/mza_8980461369952681688.jpg\/170x170bb.png",
+            "apple_id": "1120941458",
+            "name": "Rich On Tech",
+            "artist": "iHeartPodcasts",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/fc\/f8\/77\/fcf87785-5f21-1a73-c708-f8b96fec876c\/mza_11951153613947751319.jpg\/170x170bb.png",
             "genre": "Technology",
             "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/polys%C3%A9cure-podcast\/id1561084634?uo=2"
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/rich-on-tech\/id1120941458?uo=2"
         },
         {
             "rank": 188,
-            "apple_id": "1500332802",
-            "name": "Apple @ Work",
-            "artist": "9to5Mac",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts116\/v4\/7f\/84\/35\/7f8435b5-bb5e-4c9b-3cbd-2eb5c6009374\/mza_2915036887835141159.png\/170x170bb.png",
+            "apple_id": "1751679193",
+            "name": "Tokenized",
+            "artist": "Fintech Brainfood & Dux Media",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/be\/d1\/24\/bed12467-cb0e-2156-4e69-331ae336dbce\/mza_2800790785712871799.jpg\/170x170bb.png",
             "genre": "Technology",
             "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/apple-work\/id1500332802?uo=2"
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/tokenized\/id1751679193?uo=2"
         },
         {
             "rank": 189,
-            "apple_id": "428175598",
-            "name": "Sound Design Live - Career building interviews on live sound, theatre, AV, recording, and sound system tuning",
-            "artist": "Nathan Lively",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts111\/v4\/84\/41\/61\/844161f8-bbeb-5ac2-bd1b-98fdfc44582f\/mza_7027366078395795610.jpg\/170x170bb.png",
+            "apple_id": "1581253272",
+            "name": "Le Futurologue",
+            "artist": "Shaïman Thürler",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/67\/84\/b4\/6784b471-f2f7-9631-133b-4c2e9bb64f0b\/mza_10426116754798722208.jpg\/170x170bb.png",
             "genre": "Technology",
             "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/sound-design-live-career-building-interviews-on-live\/id428175598?uo=2"
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/le-futurologue\/id1581253272?uo=2"
         },
         {
             "rank": 190,
-            "apple_id": "1616984048",
-            "name": "iBUG Cafe",
-            "artist": "iBUG Today",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts116\/v4\/a3\/97\/6f\/a3976ff5-69d1-d97a-726e-142b6a14a943\/mza_9485259400446522362.jpg\/170x170bb.png",
+            "apple_id": "120867842",
+            "name": "Mac OS Ken",
+            "artist": "Ken Ray",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/9a\/13\/de\/9a13de61-c0fa-ac93-0243-4cf404804e10\/mza_1953195492821754990.jpg\/170x170bb.png",
             "genre": "Technology",
             "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/ibug-cafe\/id1616984048?uo=2"
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/mac-os-ken\/id120867842?uo=2"
         },
         {
             "rank": 191,
-            "apple_id": "1554145026",
-            "name": "Cloud Security Podcast by Google",
-            "artist": "Anton Chuvakin",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts124\/v4\/7c\/22\/b1\/7c22b189-fc31-c858-dafd-df9cb74a4a22\/mza_12717273021851818734.png\/170x170bb.png",
+            "apple_id": "1415720320",
+            "name": "Stephan Livera Podcast",
+            "artist": "Stephan Livera",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts113\/v4\/ed\/fb\/80\/edfb8088-08fb-adfc-3a0e-89a216d0cb0a\/mza_546663195369372323.jpg\/170x170bb.png",
             "genre": "Technology",
             "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/cloud-security-podcast-by-google\/id1554145026?uo=2"
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/stephan-livera-podcast\/id1415720320?uo=2"
         },
         {
             "rank": 192,
-            "apple_id": "617416468",
-            "name": "Accidental Tech Podcast",
-            "artist": "Marco Arment, Casey Liss, John Siracusa",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts126\/v4\/91\/22\/42\/9122426f-df98-4302-6ba3-da67b0648e70\/mza_5041274938111919910.png\/170x170bb.png",
+            "apple_id": "1527196035",
+            "name": "NN\/G UX Podcast",
+            "artist": "Nielsen Norman Group",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/b0\/d4\/0a\/b0d40a04-a9d6-edd3-bed1-163cba592102\/mza_6265965471013384598.jpg\/170x170bb.png",
             "genre": "Technology",
             "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/accidental-tech-podcast\/id617416468?uo=2"
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/nn-g-ux-podcast\/id1527196035?uo=2"
         },
         {
             "rank": 193,
-            "apple_id": "1879908727",
-            "name": "OpenClaw Cast",
-            "artist": "AI World",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/2d\/16\/e6\/2d16e676-c9fb-9e69-c137-fb47742e7373\/mza_3602249304197455774.jpg\/170x170bb.png",
+            "apple_id": "1766773261",
+            "name": "Policy Prompt",
+            "artist": "The Centre for International Governance Innovation",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/d6\/af\/74\/d6af74a4-f0cb-3713-7921-85743c353405\/mza_6789484752318347237.jpg\/170x170bb.png",
             "genre": "Technology",
             "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/openclaw-cast\/id1879908727?uo=2"
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/policy-prompt\/id1766773261?uo=2"
         },
         {
             "rank": 194,
-            "apple_id": "1680775328",
-            "name": "Playback",
-            "artist": "Accedo",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts126\/v4\/83\/e0\/8f\/83e08f61-fb43-00c2-d159-a8bbf3573dd7\/mza_15843852358249592285.jpg\/170x170bb.png",
+            "apple_id": "1572440477",
+            "name": "Beyond Coding",
+            "artist": "Patrick Akil",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/af\/d3\/29\/afd32953-0e61-f2b1-010f-96add2065280\/mza_12420744005653121473.jpg\/170x170bb.png",
             "genre": "Technology",
             "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/playback\/id1680775328?uo=2"
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/beyond-coding\/id1572440477?uo=2"
         },
         {
             "rank": 195,
-            "apple_id": "1867875031",
-            "name": "AWS Migration & Modernization",
-            "artist": "Amazon Web Services (AWS)",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/f6\/cf\/1f\/f6cf1f10-2c26-3720-ecc2-057b278b295a\/mza_13297152466713563354.jpeg\/170x170bb.png",
+            "apple_id": "1189978971",
+            "name": "Late Night Linux",
+            "artist": "The Late Night Linux Family",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts125\/v4\/6c\/20\/55\/6c20554a-9c56-08a1-9d10-efa7acb14d08\/mza_6880318517519222684.jpg\/170x170bb.png",
             "genre": "Technology",
             "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/aws-migration-modernization\/id1867875031?uo=2"
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/late-night-linux\/id1189978971?uo=2"
         },
         {
             "rank": 196,
-            "apple_id": "1561927688",
-            "name": "The Data Engineering Show",
-            "artist": "The Firebolt Data Bros",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/2b\/80\/a3\/2b80a394-3b80-9cd9-b941-3d600d8be25f\/mza_18372290892907292749.jpg\/170x170bb.png",
+            "apple_id": "1663945029",
+            "name": "Critical Thinking - Bug Bounty Podcast",
+            "artist": "Justin Gardner (Rhynorater), Joseph Thacker (Rez0), & Brandyn Murtagh (gr3pme)",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts113\/v4\/4a\/3b\/41\/4a3b41de-130e-74df-b8a2-3e45a5b95f7c\/mza_18157513534363364270.jpg\/170x170bb.png",
             "genre": "Technology",
             "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/the-data-engineering-show\/id1561927688?uo=2"
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/critical-thinking-bug-bounty-podcast\/id1663945029?uo=2"
         },
         {
             "rank": 197,
-            "apple_id": "1522126693",
-            "name": "The Convivial Society",
-            "artist": "L. M. Sacasas",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts112\/v4\/e3\/8f\/7a\/e38f7a29-5e8f-018d-4e65-2bef4fe15c67\/mza_3853454265635397593.jpg\/170x170bb.png",
+            "apple_id": "1121124593",
+            "name": "Agile and Project Management - DrunkenPM Radio",
+            "artist": "Dave Prior, Agile Trainer, Consultant and Project Manager",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts115\/v4\/2f\/7d\/9f\/2f7d9f63-0283-6a74-b007-c34fd21d9bed\/mza_2074420283139148717.jpg\/170x170bb.png",
             "genre": "Technology",
             "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/the-convivial-society\/id1522126693?uo=2"
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/agile-and-project-management-drunkenpm-radio\/id1121124593?uo=2"
         },
         {
             "rank": 198,
-            "apple_id": "1553638518",
-            "name": "Engineering The Future",
-            "artist": "Ontario Society of Professional Engineers",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/5d\/ce\/02\/5dce02e3-e968-10a0-c4e1-4e8ff39875d2\/mza_12308138995639713262.jpg\/170x170bb.png",
+            "apple_id": "941219323",
+            "name": "Linear Digressions",
+            "artist": "Katie Malone",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts115\/v4\/39\/d1\/c7\/39d1c707-9487-55b8-5225-e9ae54262292\/mza_7129723090907127604.jpg\/170x170bb.png",
             "genre": "Technology",
             "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/engineering-the-future\/id1553638518?uo=2"
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/linear-digressions\/id941219323?uo=2"
         },
         {
             "rank": 199,
-            "apple_id": "1807344084",
-            "name": "A la base de la donnée",
-            "artist": "A la base de la donnée",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/4c\/b6\/91\/4cb691cd-94c7-63a7-6dc8-2f0acdedad3e\/mza_8808367553441730127.jpg\/170x170bb.png",
+            "apple_id": "1076365397",
+            "name": "Ganj e Hozour Programs",
+            "artist": "Parviz Shahbazi",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts126\/v4\/13\/bb\/ee\/13bbee78-ba3b-c11e-6cdd-453f69c7444e\/mza_8867735449080850119.jpeg\/170x170bb.png",
             "genre": "Technology",
             "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/a-la-base-de-la-donn%C3%A9e\/id1807344084?uo=2"
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/ganj-e-hozour-programs\/id1076365397?uo=2"
         },
         {
             "rank": 200,
-            "apple_id": "1692172944",
-            "name": "Euronews Tech Talks",
-            "artist": "Euronews",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts116\/v4\/9d\/2e\/54\/9d2e54e8-85ab-a514-3cff-f21efca05d2b\/mza_17819513380398495377.jpeg\/170x170bb.png",
+            "apple_id": "303492600",
+            "name": "Le rendez-vous Tech - RDV Tech",
+            "artist": "NotPatrick",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/fe\/43\/e7\/fe43e795-aa66-d233-3a7b-292633ea11ec\/mza_2978818391863055112.jpg\/170x170bb.png",
             "genre": "Technology",
             "genre_id": "1318",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/euronews-tech-talks\/id1692172944?uo=2"
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/le-rendez-vous-tech-rdv-tech\/id303492600?uo=2"
         }
     ]
 }

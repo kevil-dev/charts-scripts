@@ -3,7 +3,7 @@
     "country": "us",
     "genre": "Sports",
     "slug": "sports",
-    "fetched_at": "2026-06-24T06:36:23Z",
+    "fetched_at": "2026-07-01T04:43:09Z",
     "count": 50,
     "shows": [
         {
@@ -29,7 +29,7 @@
             "spotify_id": "7odspoIkzPJSTsiwffW20f",
             "name": "The Zach Lowe Show",
             "publisher": "The Ringer",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f69b6045762f16f1a5b425a78",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f626c490ec97943d8da321d7e",
             "rank_move": "UNCHANGED",
             "url": "https:\/\/open.spotify.com\/show\/7odspoIkzPJSTsiwffW20f"
         },
@@ -44,24 +44,15 @@
         },
         {
             "rank": 5,
-            "spotify_id": "3s3ihp9OHKAMuc46RitVPj",
-            "name": "No Laying Up - Golf Podcast",
-            "publisher": "NoLayingUp.com",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f9060bedb9437a0b1c01d9685",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/3s3ihp9OHKAMuc46RitVPj"
-        },
-        {
-            "rank": 6,
             "spotify_id": "21JnDrDd1P6pqls3fQtWL0",
             "name": "The Ryen Russillo Show",
             "publisher": "Barstool Sports",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fdb8e0ccb28df8fbe779936e8",
-            "rank_move": "DOWN",
+            "rank_move": "UNCHANGED",
             "url": "https:\/\/open.spotify.com\/show\/21JnDrDd1P6pqls3fQtWL0"
         },
         {
-            "rank": 7,
+            "rank": 6,
             "spotify_id": "5RaNsb5sKEBleahQa4MVC5",
             "name": "Fantasy Footballers - Fantasy Football Podcast",
             "publisher": "Fantasy Football",
@@ -70,7 +61,7 @@
             "url": "https:\/\/open.spotify.com\/show\/5RaNsb5sKEBleahQa4MVC5"
         },
         {
-            "rank": 8,
+            "rank": 7,
             "spotify_id": "7IWzayPhHif6GhgtTQdB84",
             "name": "Spittin Chiclets",
             "publisher": "Barstool Sports",
@@ -79,7 +70,61 @@
             "url": "https:\/\/open.spotify.com\/show\/7IWzayPhHif6GhgtTQdB84"
         },
         {
+            "rank": 8,
+            "spotify_id": "6b22qPe8Q4uV8YB9QbKuEr",
+            "name": "The McShay Show",
+            "publisher": "The Ringer",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f22d916c07cd31f8320f8a077",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/6b22qPe8Q4uV8YB9QbKuEr"
+        },
+        {
             "rank": 9,
+            "spotify_id": "6gNFf99YlMMvGtGyd8qv56",
+            "name": "The Shop",
+            "publisher": "The Shop",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1ffbf5c3e9b9041cdb41cf926c",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/6gNFf99YlMMvGtGyd8qv56"
+        },
+        {
+            "rank": 10,
+            "spotify_id": "0XLPhMzcKmxoNziHkVkYpR",
+            "name": "The Ringer Fantasy Football Show",
+            "publisher": "The Ringer",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fc1a31a8e9fcf0ccf531af320",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/0XLPhMzcKmxoNziHkVkYpR"
+        },
+        {
+            "rank": 11,
+            "spotify_id": "1y3SUbFMUSESC1N43tBleK",
+            "name": "New Heights with Jason & Travis Kelce",
+            "publisher": "Wondery ",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fc4d748c537958280d342c4ee",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/1y3SUbFMUSESC1N43tBleK"
+        },
+        {
+            "rank": 12,
+            "spotify_id": "4mOLvZqMud0JromeBgLpIh",
+            "name": "Brian Windhorst & The Hoop Collective",
+            "publisher": "ESPN, Omaha Productions, Brian Windhorst",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f8d632783e5c9f1fdfcab0544",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/4mOLvZqMud0JromeBgLpIh"
+        },
+        {
+            "rank": 13,
+            "spotify_id": "3s3ihp9OHKAMuc46RitVPj",
+            "name": "No Laying Up - Golf Podcast",
+            "publisher": "NoLayingUp.com",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f9060bedb9437a0b1c01d9685",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/3s3ihp9OHKAMuc46RitVPj"
+        },
+        {
+            "rank": 14,
             "spotify_id": "5jUeKBONOmKJivqrRoIDJn",
             "name": "The Ringer NBA Show",
             "publisher": "The Ringer",
@@ -88,34 +133,7 @@
             "url": "https:\/\/open.spotify.com\/show\/5jUeKBONOmKJivqrRoIDJn"
         },
         {
-            "rank": 10,
-            "spotify_id": "1y3SUbFMUSESC1N43tBleK",
-            "name": "New Heights with Jason & Travis Kelce",
-            "publisher": "Wondery ",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f58b753e6bc13a705c8a69837",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/1y3SUbFMUSESC1N43tBleK"
-        },
-        {
-            "rank": 11,
-            "spotify_id": "6edH5qoRqDy0LBIJgW2Mj3",
-            "name": "After the Whistle with Brendan Hunt and Rebecca Lowe",
-            "publisher": "Apple News",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1faf1bc42909bb6a0d3bddbabd",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/6edH5qoRqDy0LBIJgW2Mj3"
-        },
-        {
-            "rank": 12,
-            "spotify_id": "1lD0eIjmkyr92VggxZmDuF",
-            "name": "Business of Sport",
-            "publisher": "Charlie and Harry Stebbings",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fae729866026bfabd910bd1d2",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/1lD0eIjmkyr92VggxZmDuF"
-        },
-        {
-            "rank": 13,
+            "rank": 15,
             "spotify_id": "2YiLKNHIBty5xVbBKLyjkD",
             "name": "Men In Blazers",
             "publisher": "Men In Blazers",
@@ -124,43 +142,34 @@
             "url": "https:\/\/open.spotify.com\/show\/2YiLKNHIBty5xVbBKLyjkD"
         },
         {
-            "rank": 14,
-            "spotify_id": "0XLPhMzcKmxoNziHkVkYpR",
-            "name": "The Ringer Fantasy Football Show",
-            "publisher": "The Ringer",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fc1a31a8e9fcf0ccf531af320",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/0XLPhMzcKmxoNziHkVkYpR"
-        },
-        {
-            "rank": 15,
-            "spotify_id": "1ol0jP8hrNHydiAd38G6B1",
-            "name": "The Pat McAfee Show",
-            "publisher": "Pat McAfee, ESPN",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f5053ba560d6735ce4f876d55",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/1ol0jP8hrNHydiAd38G6B1"
-        },
-        {
             "rank": 16,
             "spotify_id": "3kimBZcCqsscKHMgjjfU3j",
             "name": "The Dale Jr. Download",
             "publisher": "Dirty Mo Media, SiriusXM",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f5ae3420c2d1c4ab3b5ad277a",
-            "rank_move": "UP",
+            "rank_move": "UNCHANGED",
             "url": "https:\/\/open.spotify.com\/show\/3kimBZcCqsscKHMgjjfU3j"
         },
         {
             "rank": 17,
-            "spotify_id": "4mOLvZqMud0JromeBgLpIh",
-            "name": "Brian Windhorst & The Hoop Collective",
-            "publisher": "ESPN, Omaha Productions, Brian Windhorst",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f8d632783e5c9f1fdfcab0544",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/4mOLvZqMud0JromeBgLpIh"
+            "spotify_id": "3HZIDDQdhda1c8PvKBPOTn",
+            "name": "Insight with Chris Van Vliet",
+            "publisher": "Cumulus Podcast Network",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f905bd22bf71eee11901b4625",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/3HZIDDQdhda1c8PvKBPOTn"
         },
         {
             "rank": 18,
+            "spotify_id": "1ol0jP8hrNHydiAd38G6B1",
+            "name": "The Pat McAfee Show",
+            "publisher": "Pat McAfee, ESPN",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f5053ba560d6735ce4f876d55",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/1ol0jP8hrNHydiAd38G6B1"
+        },
+        {
+            "rank": 19,
             "spotify_id": "2FuorRyd1NSURMWW9Ab7lj",
             "name": "The Dan Le Batard Show",
             "publisher": "Dan Le Batard",
@@ -169,34 +178,34 @@
             "url": "https:\/\/open.spotify.com\/show\/2FuorRyd1NSURMWW9Ab7lj"
         },
         {
-            "rank": 19,
+            "rank": 20,
+            "spotify_id": "0F7S8Jv6RsQXm5QrD4aZUX",
+            "name": "Fore Play",
+            "publisher": "Barstool Sports",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f8a0b50583d104e80840b9939",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/0F7S8Jv6RsQXm5QrD4aZUX"
+        },
+        {
+            "rank": 21,
             "spotify_id": "4SnPenz2D55YPQi0m5Q27k",
             "name": "Pablo Torre Finds Out",
             "publisher": "The Athletic",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fb9fb1125a1edd2c4403be0ab",
-            "rank_move": "DOWN",
+            "rank_move": "UNCHANGED",
             "url": "https:\/\/open.spotify.com\/show\/4SnPenz2D55YPQi0m5Q27k"
         },
         {
-            "rank": 20,
-            "spotify_id": "4iNbZkc4iZMPzqRWS5r906",
-            "name": "Fantasy Footballers Dynasty - Fantasy Football Podcast",
-            "publisher": "Dynasty Fantasy Football",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f7df009af5be40e3c684b4a74",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/4iNbZkc4iZMPzqRWS5r906"
-        },
-        {
-            "rank": 21,
-            "spotify_id": "68XHjBcgGBEA8HQcIHZwl5",
-            "name": "Fozcast - The Ben Foster Podcast",
-            "publisher": "The Ringer",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f48d5a494bd42b15319a45087",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/68XHjBcgGBEA8HQcIHZwl5"
-        },
-        {
             "rank": 22,
+            "spotify_id": "4Bz7L7MWImCl1fdhDPCkPq",
+            "name": "The Joel Klatt Show: A College Football Podcast",
+            "publisher": "Fox Sports",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f10ff5e8e084ec0939d5a6808",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/4Bz7L7MWImCl1fdhDPCkPq"
+        },
+        {
+            "rank": 23,
             "spotify_id": "55wzNQYr7gYXbsiIeTQTrg",
             "name": "Bussin' With The Boys",
             "publisher": "Bussin' with the Boys",
@@ -205,34 +214,106 @@
             "url": "https:\/\/open.spotify.com\/show\/55wzNQYr7gYXbsiIeTQTrg"
         },
         {
-            "rank": 23,
-            "spotify_id": "0F7S8Jv6RsQXm5QrD4aZUX",
-            "name": "Fore Play",
-            "publisher": "Barstool Sports",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f8a0b50583d104e80840b9939",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/0F7S8Jv6RsQXm5QrD4aZUX"
+            "rank": 24,
+            "spotify_id": "4iNbZkc4iZMPzqRWS5r906",
+            "name": "Fantasy Footballers Dynasty - Fantasy Football Podcast",
+            "publisher": "Dynasty Fantasy Football",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f7df009af5be40e3c684b4a74",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/4iNbZkc4iZMPzqRWS5r906"
         },
         {
-            "rank": 24,
+            "rank": 25,
+            "spotify_id": "0IZW9liL5GgugNnFYDpvAJ",
+            "name": "Bob Does Sports Podcast",
+            "publisher": "Bob Does Sports",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f4c5c86d9ba52e7e907880b67",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/0IZW9liL5GgugNnFYDpvAJ"
+        },
+        {
+            "rank": 26,
+            "spotify_id": "7j9CZOPTcoVUVslvqKBu9x",
+            "name": "32 Thoughts: The Podcast",
+            "publisher": "Sportsnet",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fb41dd47d994a75eee32e21cf",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/7j9CZOPTcoVUVslvqKBu9x"
+        },
+        {
+            "rank": 27,
             "spotify_id": "17GacVP62XZmK5FuOLUpd1",
             "name": "The Mismatch",
             "publisher": "The Ringer",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fa0c072e3e8e070141a649349",
-            "rank_move": "UP",
+            "rank_move": "DOWN",
             "url": "https:\/\/open.spotify.com\/show\/17GacVP62XZmK5FuOLUpd1"
         },
         {
-            "rank": 25,
-            "spotify_id": "1bxGi2Oo2y5CkgZH4skAEo",
-            "name": "The Ariel Helwani Show",
-            "publisher": "Uncrowned & Yahoo Sports",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fbd53041a39e7dd0ba8d5e6a8",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/1bxGi2Oo2y5CkgZH4skAEo"
+            "rank": 28,
+            "spotify_id": "5BDYo7bY2AMb5xs3txWLA8",
+            "name": "MightyCast w\/ Demetrious Johnson",
+            "publisher": "Demetrious Johnson, Wonsover Media",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fe34ba44ad3ff360369191db7",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/5BDYo7bY2AMb5xs3txWLA8"
         },
         {
-            "rank": 26,
+            "rank": 29,
+            "spotify_id": "09USaYF2LTQpNwBXnFGbAT",
+            "name": "Talkin' Baseball (MLB Podcast)",
+            "publisher": "Jomboy Media",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f94b0bd4ee5c0e6e90df6956c",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/09USaYF2LTQpNwBXnFGbAT"
+        },
+        {
+            "rank": 30,
+            "spotify_id": "3Cdge5G5apw1LsC8jGcl4j",
+            "name": "All The Smoke",
+            "publisher": "The Black Effect Podcast Network and iHeartPodcasts",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f84f6250f51c00f81988f0055",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/3Cdge5G5apw1LsC8jGcl4j"
+        },
+        {
+            "rank": 31,
+            "spotify_id": "6TUUyLhyjxXD8CApPoMvu9",
+            "name": "Jesser",
+            "publisher": "Jesser",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fbe52a8a962f9c9623aeecc32",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/6TUUyLhyjxXD8CApPoMvu9"
+        },
+        {
+            "rank": 32,
+            "spotify_id": "5LUnGGXpNoeaH1K0tWdLiB",
+            "name": "First Take",
+            "publisher": "ESPN, Stephen A. Smith, Shae Cornette",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f2f5f7ea19a2f55ecc1112754",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/5LUnGGXpNoeaH1K0tWdLiB"
+        },
+        {
+            "rank": 33,
+            "spotify_id": "6edH5qoRqDy0LBIJgW2Mj3",
+            "name": "After the Whistle with Brendan Hunt and Rebecca Lowe",
+            "publisher": "Apple News",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1faf1bc42909bb6a0d3bddbabd",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/6edH5qoRqDy0LBIJgW2Mj3"
+        },
+        {
+            "rank": 34,
+            "spotify_id": "553DKKHsBSCOkrZdppJpeB",
+            "name": "Josh Pate's College Football Show",
+            "publisher": "iHeartPodcasts",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fc823b5e2037b7623a92293b0",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/553DKKHsBSCOkrZdppJpeB"
+        },
+        {
+            "rank": 35,
             "spotify_id": "060hDdnydsJyMi17TmvyAh",
             "name": "Club Shay Shay",
             "publisher": "Shay Shay Media & Playmaker ",
@@ -241,115 +322,7 @@
             "url": "https:\/\/open.spotify.com\/show\/060hDdnydsJyMi17TmvyAh"
         },
         {
-            "rank": 27,
-            "spotify_id": "1rAJCa0oxSuSKoTYOZJq26",
-            "name": "The Fighter & The Kid",
-            "publisher": "Thiccc Boy Studios | PodcastOne",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fb0557de129d4d0f340ca214d",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/1rAJCa0oxSuSKoTYOZJq26"
-        },
-        {
-            "rank": 28,
-            "spotify_id": "6N7fDvgNz2EPDIOm49aj7M",
-            "name": "The Right Time with Bomani Jones",
-            "publisher": "Wave",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1ff4f891d0438154f11bb726b9",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/6N7fDvgNz2EPDIOm49aj7M"
-        },
-        {
-            "rank": 29,
-            "spotify_id": "6b22qPe8Q4uV8YB9QbKuEr",
-            "name": "The McShay Show",
-            "publisher": "The Ringer",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f22d916c07cd31f8320f8a077",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/6b22qPe8Q4uV8YB9QbKuEr"
-        },
-        {
-            "rank": 30,
-            "spotify_id": "09USaYF2LTQpNwBXnFGbAT",
-            "name": "Talkin' Baseball (MLB Podcast)",
-            "publisher": "Jomboy Media",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f94b0bd4ee5c0e6e90df6956c",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/09USaYF2LTQpNwBXnFGbAT"
-        },
-        {
-            "rank": 31,
-            "spotify_id": "6TUUyLhyjxXD8CApPoMvu9",
-            "name": "Jesser",
-            "publisher": "Jesser",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fbe52a8a962f9c9623aeecc32",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/6TUUyLhyjxXD8CApPoMvu9"
-        },
-        {
-            "rank": 32,
-            "spotify_id": "5BDYo7bY2AMb5xs3txWLA8",
-            "name": "MightyCast w\/ Demetrious Johnson",
-            "publisher": "Demetrious Johnson, Wonsover Media",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fe34ba44ad3ff360369191db7",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/5BDYo7bY2AMb5xs3txWLA8"
-        },
-        {
-            "rank": 33,
-            "spotify_id": "553DKKHsBSCOkrZdppJpeB",
-            "name": "Josh Pate's College Football Show",
-            "publisher": "iHeartPodcasts",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fc823b5e2037b7623a92293b0",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/553DKKHsBSCOkrZdppJpeB"
-        },
-        {
-            "rank": 34,
-            "spotify_id": "69AAB4ojTuK7gwy3ZdQdB9",
-            "name": "The Athletic FC Podcast",
-            "publisher": "The Athletic",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f14511ca77aa01f8f208a74a5",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/69AAB4ojTuK7gwy3ZdQdB9"
-        },
-        {
-            "rank": 35,
-            "spotify_id": "0MLEAslFa9CxTE3Gd5OX3E",
-            "name": "Bear Grease",
-            "publisher": "MeatEater",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fce1b1a1722ca35101deca107",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/0MLEAslFa9CxTE3Gd5OX3E"
-        },
-        {
             "rank": 36,
-            "spotify_id": "3HZIDDQdhda1c8PvKBPOTn",
-            "name": "Insight with Chris Van Vliet",
-            "publisher": "Cumulus Podcast Network",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f905bd22bf71eee11901b4625",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/3HZIDDQdhda1c8PvKBPOTn"
-        },
-        {
-            "rank": 37,
-            "spotify_id": "7j9CZOPTcoVUVslvqKBu9x",
-            "name": "32 Thoughts: The Podcast",
-            "publisher": "Sportsnet",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fb41dd47d994a75eee32e21cf",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/7j9CZOPTcoVUVslvqKBu9x"
-        },
-        {
-            "rank": 38,
-            "spotify_id": "5LUnGGXpNoeaH1K0tWdLiB",
-            "name": "First Take",
-            "publisher": "ESPN, Stephen A. Smith, Shae Cornette",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f2f5f7ea19a2f55ecc1112754",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/5LUnGGXpNoeaH1K0tWdLiB"
-        },
-        {
-            "rank": 39,
             "spotify_id": "55gaQm31JIbp6td7QtYsPU",
             "name": "Almost Athletes with Dude Perfect",
             "publisher": "Wave",
@@ -358,85 +331,112 @@
             "url": "https:\/\/open.spotify.com\/show\/55gaQm31JIbp6td7QtYsPU"
         },
         {
-            "rank": 40,
-            "spotify_id": "4Bz7L7MWImCl1fdhDPCkPq",
-            "name": "The Joel Klatt Show: A College Football Podcast",
-            "publisher": "Fox Sports",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f10ff5e8e084ec0939d5a6808",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/4Bz7L7MWImCl1fdhDPCkPq"
-        },
-        {
-            "rank": 41,
-            "spotify_id": "0A5nnVMkxzPtF1xm90VlgF",
-            "name": "ESPN FC",
-            "publisher": "ESPN",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1ffe01db7f6ac5bc09be54f591",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/0A5nnVMkxzPtF1xm90VlgF"
-        },
-        {
-            "rank": 42,
-            "spotify_id": "0eJdYO923ory6MIvZpoSVV",
-            "name": "Mostly Sports With Mark Titus and Brandon Walker",
-            "publisher": "Barstool Sports",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f3779429b0456860d10bb257f",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/0eJdYO923ory6MIvZpoSVV"
-        },
-        {
-            "rank": 43,
-            "spotify_id": "7rq03nfUFD5KrpiBQ9fals",
-            "name": "The Herd with Colin Cowherd",
-            "publisher": "iHeartPodcasts and The Volume",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f577ad9b89e5ffd5c93a795d5",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/7rq03nfUFD5KrpiBQ9fals"
-        },
-        {
-            "rank": 44,
+            "rank": 37,
             "spotify_id": "7ez8SsDDKbf0q5vaH2ulJf",
             "name": "Club 520 Podcast",
             "publisher": "iHeartPodcasts and The Volume",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fe66d9614bdf95e318716aed2",
-            "rank_move": "UP",
+            "rank_move": "UNCHANGED",
             "url": "https:\/\/open.spotify.com\/show\/7ez8SsDDKbf0q5vaH2ulJf"
         },
         {
-            "rank": 45,
-            "spotify_id": "2wPp24eC9cAGfUI4xEl1LA",
-            "name": "Actions Detrimental with Denny Hamlin",
-            "publisher": "Dirty Mo Media, SiriusXM",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f74f9257091cf26217cdb4eef",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/2wPp24eC9cAGfUI4xEl1LA"
+            "rank": 38,
+            "spotify_id": "0MLEAslFa9CxTE3Gd5OX3E",
+            "name": "Bear Grease",
+            "publisher": "MeatEater",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fce1b1a1722ca35101deca107",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/0MLEAslFa9CxTE3Gd5OX3E"
         },
         {
-            "rank": 46,
-            "spotify_id": "24OG6Hat6fGkArLPCTfyWP",
-            "name": "The Athletic Football Show: A show about the NFL",
+            "rank": 39,
+            "spotify_id": "6N7fDvgNz2EPDIOm49aj7M",
+            "name": "The Right Time with Bomani Jones",
+            "publisher": "Wave",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1ff4f891d0438154f11bb726b9",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/6N7fDvgNz2EPDIOm49aj7M"
+        },
+        {
+            "rank": 40,
+            "spotify_id": "7hVMyKCBLJ6uqIKcvKuz88",
+            "name": "The Athletic NBA Daily",
             "publisher": "The Athletic",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f73bbf0a9cc20fe4ca9d872b1",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/24OG6Hat6fGkArLPCTfyWP"
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1ffc65dcc8ec87cc150b84401f",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/7hVMyKCBLJ6uqIKcvKuz88"
         },
         {
-            "rank": 47,
-            "spotify_id": "6EGctjYNHAj3fISB4aPQw0",
-            "name": "Door Bumper Clear",
-            "publisher": "Dirty Mo Media, SiriusXM",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f0057ada7158497f846630d01",
+            "rank": 41,
+            "spotify_id": "7rq03nfUFD5KrpiBQ9fals",
+            "name": "The Herd with Colin Cowherd",
+            "publisher": "iHeartPodcasts and The Volume",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f577ad9b89e5ffd5c93a795d5",
             "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/6EGctjYNHAj3fISB4aPQw0"
+            "url": "https:\/\/open.spotify.com\/show\/7rq03nfUFD5KrpiBQ9fals"
         },
         {
-            "rank": 48,
+            "rank": 42,
+            "spotify_id": "69AAB4ojTuK7gwy3ZdQdB9",
+            "name": "The Athletic FC Podcast",
+            "publisher": "The Athletic",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f14511ca77aa01f8f208a74a5",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/69AAB4ojTuK7gwy3ZdQdB9"
+        },
+        {
+            "rank": 43,
             "spotify_id": "20La1QIIVElT4mkc046AIV",
             "name": "P1 with Matt and Tommy",
             "publisher": "Stak",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f1d53c95c2a6e825eb93af7c3",
-            "rank_move": "DOWN",
+            "rank_move": "UP",
             "url": "https:\/\/open.spotify.com\/show\/20La1QIIVElT4mkc046AIV"
+        },
+        {
+            "rank": 44,
+            "spotify_id": "0eJdYO923ory6MIvZpoSVV",
+            "name": "Mostly Sports With Mark Titus and Brandon Walker",
+            "publisher": "Barstool Sports",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f3779429b0456860d10bb257f",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/0eJdYO923ory6MIvZpoSVV"
+        },
+        {
+            "rank": 45,
+            "spotify_id": "6T87XuYtDAFC3a5mVahsg7",
+            "name": "Served with Andy Roddick",
+            "publisher": "Served Media",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1ff1e7138fdab7240198ecfc19",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/6T87XuYtDAFC3a5mVahsg7"
+        },
+        {
+            "rank": 46,
+            "spotify_id": "0A5nnVMkxzPtF1xm90VlgF",
+            "name": "ESPN FC",
+            "publisher": "ESPN",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1ffe01db7f6ac5bc09be54f591",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/0A5nnVMkxzPtF1xm90VlgF"
+        },
+        {
+            "rank": 47,
+            "spotify_id": "6Phxh0Ph8yzn7pyuspWWzq",
+            "name": "The Kevin O'Connor Show",
+            "publisher": "Yahoo Sports",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1ffcb843f106e8adc5caa09c8b",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/6Phxh0Ph8yzn7pyuspWWzq"
+        },
+        {
+            "rank": 48,
+            "spotify_id": "6EGctjYNHAj3fISB4aPQw0",
+            "name": "Door Bumper Clear",
+            "publisher": "Dirty Mo Media, SiriusXM",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f0057ada7158497f846630d01",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/6EGctjYNHAj3fISB4aPQw0"
         },
         {
             "rank": 49,
@@ -444,17 +444,17 @@
             "name": "First Things First",
             "publisher": "Fox Sports",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f0cc75155ae9490e2310290a2",
-            "rank_move": "UNCHANGED",
+            "rank_move": "DOWN",
             "url": "https:\/\/open.spotify.com\/show\/4ud0Bx3VwtUxrVHTfV5Og7"
         },
         {
             "rank": 50,
-            "spotify_id": "1X2isRkjbJAPr8BSjJKiYf",
-            "name": "The Dan Patrick Show",
-            "publisher": "iHeartPodcasts and Dan Patrick Podcast Network",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f31f5bfc0f4c37db9bf8838ea",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/1X2isRkjbJAPr8BSjJKiYf"
+            "spotify_id": "2wPp24eC9cAGfUI4xEl1LA",
+            "name": "Actions Detrimental with Denny Hamlin",
+            "publisher": "Dirty Mo Media, SiriusXM",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f74f9257091cf26217cdb4eef",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/2wPp24eC9cAGfUI4xEl1LA"
         }
     ]
 }

@@ -4,7 +4,7 @@
     "genre": "True Crime",
     "genre_id": "1488",
     "slug": "true-crime",
-    "fetched_at": "2026-06-24T06:35:54Z",
+    "fetched_at": "2026-07-01T04:42:36Z",
     "count": 200,
     "shows": [
         {
@@ -29,16 +29,6 @@
         },
         {
             "rank": 3,
-            "apple_id": "1779458186",
-            "name": "Nera",
-            "artist": "OnePodcast",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/a5\/e0\/2d\/a5e02dd2-ef87-96a7-e70f-aa4a5cf1c5ec\/mza_18392886043353641725.jpg\/170x170bb.png",
-            "genre": "True Crime",
-            "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/nera\/id1779458186?uo=2"
-        },
-        {
-            "rank": 4,
             "apple_id": "1626183517",
             "name": "Sky Crime Podcast",
             "artist": "Sky Crime",
@@ -48,7 +38,7 @@
             "url": "https:\/\/podcasts.apple.com\/it\/podcast\/sky-crime-podcast\/id1626183517?uo=2"
         },
         {
-            "rank": 5,
+            "rank": 4,
             "apple_id": "1863459408",
             "name": "Un avvertimento prima di iniziare",
             "artist": "Pablo Trincia - Sky Original",
@@ -56,6 +46,16 @@
             "genre": "True Crime",
             "genre_id": "1488",
             "url": "https:\/\/podcasts.apple.com\/it\/podcast\/un-avvertimento-prima-di-iniziare\/id1863459408?uo=2"
+        },
+        {
+            "rank": 5,
+            "apple_id": "1779458186",
+            "name": "Nera",
+            "artist": "OnePodcast",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/a5\/e0\/2d\/a5e02dd2-ef87-96a7-e70f-aa4a5cf1c5ec\/mza_18392886043353641725.jpg\/170x170bb.png",
+            "genre": "True Crime",
+            "genre_id": "1488",
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/nera\/id1779458186?uo=2"
         },
         {
             "rank": 6,
@@ -79,36 +79,6 @@
         },
         {
             "rank": 8,
-            "apple_id": "1708281258",
-            "name": "Non Aprite Quella Podcast",
-            "artist": "J-Ax, Pedar, Matteo Lenardon",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/3f\/c9\/b4\/3fc9b40d-45ef-ae70-3338-8937296501c0\/mza_6083382353737839463.jpg\/170x170bb.png",
-            "genre": "True Crime",
-            "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/non-aprite-quella-podcast\/id1708281258?uo=2"
-        },
-        {
-            "rank": 9,
-            "apple_id": "1839917426",
-            "name": "Crime Scene Podcast",
-            "artist": "Crime Scene",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/09\/15\/66\/091566b3-a67b-fb93-74ae-bab3ff18a5ee\/mza_11987938713312787833.jpg\/170x170bb.png",
-            "genre": "True Crime",
-            "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/crime-scene-podcast\/id1839917426?uo=2"
-        },
-        {
-            "rank": 10,
-            "apple_id": "1544996218",
-            "name": "Direful Tales",
-            "artist": "Direful Tales Crimini&Misteri",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/c0\/ad\/f2\/c0adf2fd-3a9c-de17-6743-0e2669581b45\/mza_6408399598496336356.jpg\/170x170bb.png",
-            "genre": "True Crime",
-            "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/direful-tales\/id1544996218?uo=2"
-        },
-        {
-            "rank": 11,
             "apple_id": "1523673044",
             "name": "Bouquet of Madness",
             "artist": "Unknown",
@@ -118,7 +88,17 @@
             "url": "https:\/\/podcasts.apple.com\/it\/podcast\/bouquet-of-madness\/id1523673044?uo=2"
         },
         {
-            "rank": 12,
+            "rank": 9,
+            "apple_id": "1708281258",
+            "name": "Non Aprite Quella Podcast",
+            "artist": "J-Ax, Pedar, Matteo Lenardon",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/3f\/c9\/b4\/3fc9b40d-45ef-ae70-3338-8937296501c0\/mza_6083382353737839463.jpg\/170x170bb.png",
+            "genre": "True Crime",
+            "genre_id": "1488",
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/non-aprite-quella-podcast\/id1708281258?uo=2"
+        },
+        {
+            "rank": 10,
             "apple_id": "1816664859",
             "name": "Dentro il caso",
             "artist": "OnePodcast",
@@ -128,17 +108,27 @@
             "url": "https:\/\/podcasts.apple.com\/it\/podcast\/dentro-il-caso\/id1816664859?uo=2"
         },
         {
-            "rank": 13,
-            "apple_id": "1823679448",
-            "name": "Dentro il mistero",
-            "artist": "Fabio Sanvitale",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/2f\/cd\/2a\/2fcd2a18-63bb-c96c-6808-cd7efc606572\/mza_378064537378505191.jpg\/170x170bb.png",
+            "rank": 11,
+            "apple_id": "1839917426",
+            "name": "Crime Scene Podcast",
+            "artist": "Crime Scene",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/09\/15\/66\/091566b3-a67b-fb93-74ae-bab3ff18a5ee\/mza_11987938713312787833.jpg\/170x170bb.png",
             "genre": "True Crime",
             "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/dentro-il-mistero\/id1823679448?uo=2"
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/crime-scene-podcast\/id1839917426?uo=2"
         },
         {
-            "rank": 14,
+            "rank": 12,
+            "apple_id": "1544996218",
+            "name": "Direful Tales",
+            "artist": "Direful Tales Crimini&Misteri",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/c0\/ad\/f2\/c0adf2fd-3a9c-de17-6743-0e2669581b45\/mza_6408399598496336356.jpg\/170x170bb.png",
+            "genre": "True Crime",
+            "genre_id": "1488",
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/direful-tales\/id1544996218?uo=2"
+        },
+        {
+            "rank": 13,
             "apple_id": "1615616960",
             "name": "Non spegnere la luce",
             "artist": "Michele D'Innella e Giacomo Giaquinto",
@@ -148,47 +138,17 @@
             "url": "https:\/\/podcasts.apple.com\/it\/podcast\/non-spegnere-la-luce\/id1615616960?uo=2"
         },
         {
+            "rank": 14,
+            "apple_id": "1823679448",
+            "name": "Dentro il mistero",
+            "artist": "Fabio Sanvitale",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/2f\/cd\/2a\/2fcd2a18-63bb-c96c-6808-cd7efc606572\/mza_378064537378505191.jpg\/170x170bb.png",
+            "genre": "True Crime",
+            "genre_id": "1488",
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/dentro-il-mistero\/id1823679448?uo=2"
+        },
+        {
             "rank": 15,
-            "apple_id": "1542508909",
-            "name": "Crime & Comedy",
-            "artist": "Marco Champier - Clara Campi",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts112\/v4\/10\/0c\/f4\/100cf4e5-a0a3-ac67-c024-e085a4f287dc\/mza_7498123032788726818.jpg\/170x170bb.png",
-            "genre": "True Crime",
-            "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/crime-comedy\/id1542508909?uo=2"
-        },
-        {
-            "rank": 16,
-            "apple_id": "1896758826",
-            "name": "Sottoterra",
-            "artist": "Fondazione Corriere della Sera",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/6a\/d2\/15\/6ad215b3-d483-019b-4420-88a4a3cc7710\/mza_17224304059709596371.jpg\/170x170bb.png",
-            "genre": "True Crime",
-            "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/sottoterra\/id1896758826?uo=2"
-        },
-        {
-            "rank": 17,
-            "apple_id": "1814099637",
-            "name": "Demoni",
-            "artist": "Orange Podcast",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/02\/d6\/7b\/02d67b54-e713-f896-765b-3506c26d628e\/mza_1408758464147436198.jpg\/170x170bb.png",
-            "genre": "True Crime",
-            "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/demoni\/id1814099637?uo=2"
-        },
-        {
-            "rank": 18,
-            "apple_id": "1703000388",
-            "name": "Dove nessuno guarda – Il caso Elisa Claps",
-            "artist": "Pablo Trincia – Sky Original by Chora Media",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/c1\/5d\/6c\/c15d6c2b-4794-d1f0-b57f-e35e198038ae\/mza_5432199437487390613.jpg\/170x170bb.png",
-            "genre": "True Crime",
-            "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/dove-nessuno-guarda-il-caso-elisa-claps\/id1703000388?uo=2"
-        },
-        {
-            "rank": 19,
             "apple_id": "1789725226",
             "name": "I bambini di Dio",
             "artist": "OnePodcast",
@@ -198,167 +158,47 @@
             "url": "https:\/\/podcasts.apple.com\/it\/podcast\/i-bambini-di-dio\/id1789725226?uo=2"
         },
         {
-            "rank": 20,
-            "apple_id": "1865730671",
-            "name": "Luminol",
-            "artist": "Luminol",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/9f\/7f\/18\/9f7f1839-326b-0748-66da-f4b07f90b97d\/mza_12917682991830306670.jpg\/170x170bb.png",
+            "rank": 16,
+            "apple_id": "1896900192",
+            "name": "Ombre - Il lato oscuro dei soldi",
+            "artist": "Massimiliano Carrà e Hillary di Lernia",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/f2\/65\/a4\/f265a422-ecea-2d1f-59fa-3b3fdfb3669d\/mza_15768952126420434559.jpeg\/170x170bb.png",
             "genre": "True Crime",
             "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/luminol\/id1865730671?uo=2"
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/ombre-il-lato-oscuro-dei-soldi\/id1896900192?uo=2"
         },
         {
-            "rank": 21,
-            "apple_id": "1409782375",
-            "name": "Demoni Urbani",
-            "artist": "Gli Ascoltabili",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/96\/5b\/fb\/965bfb7a-9f9c-2d94-2b0f-42426e578607\/mza_10451191670409044218.jpg\/170x170bb.png",
+            "rank": 17,
+            "apple_id": "1542508909",
+            "name": "Crime & Comedy",
+            "artist": "Marco Champier - Clara Campi",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts112\/v4\/10\/0c\/f4\/100cf4e5-a0a3-ac67-c024-e085a4f287dc\/mza_7498123032788726818.jpg\/170x170bb.png",
             "genre": "True Crime",
             "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/demoni-urbani\/id1409782375?uo=2"
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/crime-comedy\/id1542508909?uo=2"
         },
         {
-            "rank": 22,
-            "apple_id": "1812445402",
-            "name": "Il cono d'ombra - La storia di Denis Bergamini",
-            "artist": "Pablo Trincia - Sky Original",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/29\/30\/e3\/2930e381-b834-c800-b75f-28c55f3c7476\/mza_5055438952324231712.jpg\/170x170bb.png",
+            "rank": 18,
+            "apple_id": "1814099637",
+            "name": "Demoni",
+            "artist": "Orange Podcast",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/02\/d6\/7b\/02d67b54-e713-f896-765b-3506c26d628e\/mza_1408758464147436198.jpg\/170x170bb.png",
             "genre": "True Crime",
             "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/il-cono-dombra-la-storia-di-denis-bergamini\/id1812445402?uo=2"
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/demoni\/id1814099637?uo=2"
         },
         {
-            "rank": 23,
-            "apple_id": "1763013489",
-            "name": "Mente Criminale",
-            "artist": "Mente Criminale",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/68\/ce\/b3\/68ceb36b-21f2-49cf-af27-f69ffc965d87\/mza_7050698201322255172.jpg\/170x170bb.png",
-            "genre": "True Crime",
-            "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/mente-criminale\/id1763013489?uo=2"
-        },
-        {
-            "rank": 24,
-            "apple_id": "1802163963",
-            "name": "Partners in (True) Crime",
-            "artist": "Twords",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/1b\/3c\/e6\/1b3ce69e-426e-1d50-a179-58ced31c0bec\/mza_12287945269406338971.jpg\/170x170bb.png",
-            "genre": "True Crime",
-            "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/partners-in-true-crime\/id1802163963?uo=2"
-        },
-        {
-            "rank": 25,
-            "apple_id": "1617840239",
-            "name": "Profondo Nero",
-            "artist": "Sky Crime",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/c2\/82\/84\/c28284f0-115f-69fb-2a43-26e9338860f5\/mza_13498166557735831987.jpg\/170x170bb.png",
-            "genre": "True Crime",
-            "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/profondo-nero\/id1617840239?uo=2"
-        },
-        {
-            "rank": 26,
-            "apple_id": "1894474941",
-            "name": "L'Amore Esiste ?",
-            "artist": "Mattia Minutelli",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/11\/f7\/85\/11f78593-1b2f-fffe-a447-048f2485aebe\/mza_17014705723457892133.jpg\/170x170bb.png",
-            "genre": "True Crime",
-            "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/lamore-esiste\/id1894474941?uo=2"
-        },
-        {
-            "rank": 27,
-            "apple_id": "1823618418",
-            "name": "Hannibal Fletcher",
-            "artist": "LaRotten",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/23\/14\/34\/231434da-ee90-2d0a-8762-29d14d38b66b\/mza_182826388887638822.jpg\/170x170bb.png",
-            "genre": "True Crime",
-            "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/hannibal-fletcher\/id1823618418?uo=2"
-        },
-        {
-            "rank": 28,
-            "apple_id": "1728604174",
-            "name": "Sangue Loro - Il ragazzo mandato a uccidere",
+            "rank": 19,
+            "apple_id": "1703000388",
+            "name": "Dove nessuno guarda – Il caso Elisa Claps",
             "artist": "Pablo Trincia – Sky Original by Chora Media",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/dc\/dd\/37\/dcdd379a-9d29-1999-eef9-f734fc34fb8a\/mza_3506271219008464324.jpeg\/170x170bb.png",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/c1\/5d\/6c\/c15d6c2b-4794-d1f0-b57f-e35e198038ae\/mza_5432199437487390613.jpg\/170x170bb.png",
             "genre": "True Crime",
             "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/sangue-loro-il-ragazzo-mandato-a-uccidere\/id1728604174?uo=2"
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/dove-nessuno-guarda-il-caso-elisa-claps\/id1703000388?uo=2"
         },
         {
-            "rank": 29,
-            "apple_id": "1588870514",
-            "name": "La città dei vivi",
-            "artist": "Nicola Lagioia - Chora Media",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/45\/06\/7d\/45067d78-5499-5eb6-9515-b65bb405e7a6\/mza_9657007654117646556.jpg\/170x170bb.png",
-            "genre": "True Crime",
-            "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/la-citt%C3%A0-dei-vivi\/id1588870514?uo=2"
-        },
-        {
-            "rank": 30,
-            "apple_id": "1800473533",
-            "name": "Midnight's Legends  - Soprannaturale ma vero",
-            "artist": "Mr.Midnight - Vois",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/28\/1c\/00\/281c00c5-4b67-24fc-2d29-5e004d360e08\/mza_2485148826410179261.jpeg\/170x170bb.png",
-            "genre": "True Crime",
-            "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/midnights-legends-soprannaturale-ma-vero\/id1800473533?uo=2"
-        },
-        {
-            "rank": 31,
-            "apple_id": "1896911839",
-            "name": "Nicole Fornaro Stories",
-            "artist": "Nicole Fornaro",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/f5\/c6\/14\/f5c6143a-8c1e-d180-6cde-9a124a98fd2d\/mza_2003808711414522889.jpg\/170x170bb.png",
-            "genre": "True Crime",
-            "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/nicole-fornaro-stories\/id1896911839?uo=2"
-        },
-        {
-            "rank": 32,
-            "apple_id": "1890142597",
-            "name": "Fili Rossi",
-            "artist": "Davide Smaldone",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/0f\/a3\/d8\/0fa3d849-e7c0-34d6-1ba9-27a3ba1defcb\/mza_12326069790750426635.jpg\/170x170bb.png",
-            "genre": "True Crime",
-            "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/fili-rossi\/id1890142597?uo=2"
-        },
-        {
-            "rank": 33,
-            "apple_id": "1843066616",
-            "name": "Il Mostro di Firenze",
-            "artist": "OnePodcast",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/0f\/c3\/8c\/0fc38c3f-9b29-75f3-8522-0cf3f2420c3f\/mza_8892875752044567197.jpg\/170x170bb.png",
-            "genre": "True Crime",
-            "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/il-mostro-di-firenze\/id1843066616?uo=2"
-        },
-        {
-            "rank": 34,
-            "apple_id": "1725953681",
-            "name": "Mele Marce",
-            "artist": "Will Media",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts112\/v4\/79\/d0\/6a\/79d06af6-f276-e6f6-d31c-a57296cb88c7\/mza_3044374745960906286.jpg\/170x170bb.png",
-            "genre": "True Crime",
-            "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/mele-marce\/id1725953681?uo=2"
-        },
-        {
-            "rank": 35,
-            "apple_id": "1864372379",
-            "name": "Podcast Criminale",
-            "artist": "Podcast Criminale",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/17\/80\/19\/17801973-efb9-a391-db68-6acb501f4c15\/mza_13141580431960729307.jpg\/170x170bb.png",
-            "genre": "True Crime",
-            "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/podcast-criminale\/id1864372379?uo=2"
-        },
-        {
-            "rank": 36,
+            "rank": 20,
             "apple_id": "1896908186",
             "name": "The Last 12 Weeks",
             "artist": "Serial Productions & The New York Times",
@@ -368,17 +208,47 @@
             "url": "https:\/\/podcasts.apple.com\/it\/podcast\/the-last-12-weeks\/id1896908186?uo=2"
         },
         {
-            "rank": 37,
-            "apple_id": "1871929136",
-            "name": "Bosco -Cronache all'ombra della provincia-",
-            "artist": "Bosco il podcast",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/51\/13\/de\/5113de09-1ef2-4978-d6b0-123c48144017\/mza_5071758395589292091.jpg\/170x170bb.png",
+            "rank": 21,
+            "apple_id": "1812445402",
+            "name": "Il cono d'ombra - La storia di Denis Bergamini",
+            "artist": "Pablo Trincia - Sky Original",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/29\/30\/e3\/2930e381-b834-c800-b75f-28c55f3c7476\/mza_5055438952324231712.jpg\/170x170bb.png",
             "genre": "True Crime",
             "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/bosco-cronache-allombra-della-provincia\/id1871929136?uo=2"
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/il-cono-dombra-la-storia-di-denis-bergamini\/id1812445402?uo=2"
         },
         {
-            "rank": 38,
+            "rank": 22,
+            "apple_id": "1889903800",
+            "name": "Giada Crime – Il Podcast",
+            "artist": "Giada Severini",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/c2\/49\/9d\/c2499dd8-cffa-387c-c532-f6752b53b1db\/mza_6393493353862989220.jpeg\/170x170bb.png",
+            "genre": "True Crime",
+            "genre_id": "1488",
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/giada-crime-il-podcast\/id1889903800?uo=2"
+        },
+        {
+            "rank": 23,
+            "apple_id": "1728604174",
+            "name": "Sangue Loro - Il ragazzo mandato a uccidere",
+            "artist": "Pablo Trincia – Sky Original by Chora Media",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/dc\/dd\/37\/dcdd379a-9d29-1999-eef9-f734fc34fb8a\/mza_3506271219008464324.jpeg\/170x170bb.png",
+            "genre": "True Crime",
+            "genre_id": "1488",
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/sangue-loro-il-ragazzo-mandato-a-uccidere\/id1728604174?uo=2"
+        },
+        {
+            "rank": 24,
+            "apple_id": "1894474941",
+            "name": "L'Amore Esiste ?",
+            "artist": "Mattia Minutelli",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/11\/f7\/85\/11f78593-1b2f-fffe-a447-048f2485aebe\/mza_17014705723457892133.jpg\/170x170bb.png",
+            "genre": "True Crime",
+            "genre_id": "1488",
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/lamore-esiste\/id1894474941?uo=2"
+        },
+        {
+            "rank": 25,
             "apple_id": "1801159250",
             "name": "Il Banchiere di Dio",
             "artist": "Vois",
@@ -388,147 +258,47 @@
             "url": "https:\/\/podcasts.apple.com\/it\/podcast\/il-banchiere-di-dio\/id1801159250?uo=2"
         },
         {
-            "rank": 39,
-            "apple_id": "1652721412",
-            "name": "Fantasma - Il caso Unabomber",
-            "artist": "OnePodcast",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts112\/v4\/a4\/03\/64\/a40364bc-905b-56ba-b300-962091d898ee\/mza_6808358172849222499.jpg\/170x170bb.png",
+            "rank": 26,
+            "apple_id": "1896758826",
+            "name": "Sottoterra",
+            "artist": "Fondazione Corriere della Sera",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/6a\/d2\/15\/6ad215b3-d483-019b-4420-88a4a3cc7710\/mza_17224304059709596371.jpg\/170x170bb.png",
             "genre": "True Crime",
             "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/fantasma-il-caso-unabomber\/id1652721412?uo=2"
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/sottoterra\/id1896758826?uo=2"
         },
         {
-            "rank": 40,
-            "apple_id": "1322200189",
-            "name": "Crime Junkie",
-            "artist": "Audiochuck",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts126\/v4\/8c\/35\/04\/8c350430-2fbf-98d0-0a25-00b76550ffeb\/mza_13445204151221888086.jpg\/170x170bb.png",
+            "rank": 27,
+            "apple_id": "1409782375",
+            "name": "Demoni Urbani",
+            "artist": "Gli Ascoltabili",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/96\/5b\/fb\/965bfb7a-9f9c-2d94-2b0f-42426e578607\/mza_10451191670409044218.jpg\/170x170bb.png",
             "genre": "True Crime",
             "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/crime-junkie\/id1322200189?uo=2"
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/demoni-urbani\/id1409782375?uo=2"
         },
         {
-            "rank": 41,
-            "apple_id": "1895889729",
-            "name": "Confini Sottili - Il Podcast del Mistero",
-            "artist": "Pierpaolo Laconi",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/91\/28\/ac\/9128ac5d-2f3a-0687-6e1f-1ccece44c6a0\/mza_16132594072976603931.jpg\/170x170bb.png",
+            "rank": 28,
+            "apple_id": "1802163963",
+            "name": "Partners in (True) Crime",
+            "artist": "Twords",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/1b\/3c\/e6\/1b3ce69e-426e-1d50-a179-58ced31c0bec\/mza_12287945269406338971.jpg\/170x170bb.png",
             "genre": "True Crime",
             "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/confini-sottili-il-podcast-del-mistero\/id1895889729?uo=2"
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/partners-in-true-crime\/id1802163963?uo=2"
         },
         {
-            "rank": 42,
-            "apple_id": "1517954480",
-            "name": "Rotten Mango",
-            "artist": "Stephanie Soo",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/13\/8f\/fa\/138ffad5-1aee-a955-b73b-6aea47b55197\/mza_13457757566766616901.jpg\/170x170bb.png",
+            "rank": 29,
+            "apple_id": "1896911839",
+            "name": "Nicole Fornaro Stories",
+            "artist": "Nicole Fornaro",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/f5\/c6\/14\/f5c6143a-8c1e-d180-6cde-9a124a98fd2d\/mza_2003808711414522889.jpg\/170x170bb.png",
             "genre": "True Crime",
             "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/rotten-mango\/id1517954480?uo=2"
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/nicole-fornaro-stories\/id1896911839?uo=2"
         },
         {
-            "rank": 43,
-            "apple_id": "1748598583",
-            "name": "Benno - L'Oscurità Su Bolzano",
-            "artist": "T-Podcast",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/18\/a0\/89\/18a0892d-e539-c2ce-ee46-4a33a0f389f5\/mza_6204230813357329542.jpg\/170x170bb.png",
-            "genre": "True Crime",
-            "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/benno-loscurit%C3%A0-su-bolzano\/id1748598583?uo=2"
-        },
-        {
-            "rank": 44,
-            "apple_id": "1586551902",
-            "name": "Un uomo chiamato Diabolik",
-            "artist": "Giovanni Bianconi, Mauro Pescio, con Francesco Acquaroli - Chora Media",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/6d\/a4\/1f\/6da41f10-17a8-8dc8-86b3-d91cc4c7496c\/mza_654911684891311821.jpg\/170x170bb.png",
-            "genre": "True Crime",
-            "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/un-uomo-chiamato-diabolik\/id1586551902?uo=2"
-        },
-        {
-            "rank": 45,
-            "apple_id": "1588568781",
-            "name": "I dossier del mistero",
-            "artist": "Storylands Factory",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/73\/01\/33\/7301335a-9cca-6a92-f37c-24c7405e5c86\/mza_10646854514404599835.jpg\/170x170bb.png",
-            "genre": "True Crime",
-            "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/i-dossier-del-mistero\/id1588568781?uo=2"
-        },
-        {
-            "rank": 46,
-            "apple_id": "1775691177",
-            "name": "Shiver from Beyond",
-            "artist": "Giovanni Del Buono & Roberto Levoni",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/1e\/20\/d8\/1e20d8dd-d489-a456-d9e8-4afe4ff5352f\/mza_4333068178404041008.jpeg\/170x170bb.png",
-            "genre": "True Crime",
-            "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/shiver-from-beyond\/id1775691177?uo=2"
-        },
-        {
-            "rank": 47,
-            "apple_id": "1837207372",
-            "name": "L'Angolo del Crimine",
-            "artist": "Rosita - Hypercast",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/f7\/a7\/1e\/f7a71e7a-c431-b7be-4ca2-9308d245c3dd\/mza_2659859927718389783.jpg\/170x170bb.png",
-            "genre": "True Crime",
-            "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/langolo-del-crimine\/id1837207372?uo=2"
-        },
-        {
-            "rank": 48,
-            "apple_id": "1692849734",
-            "name": "Inchiostro Nero",
-            "artist": "Valerio Carpentieri",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/dc\/19\/bd\/dc19bdea-ae95-a6cd-68c4-a2e8f569938a\/mza_1422494084309069211.jpg\/170x170bb.png",
-            "genre": "True Crime",
-            "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/inchiostro-nero\/id1692849734?uo=2"
-        },
-        {
-            "rank": 49,
-            "apple_id": "1643026434",
-            "name": "Rumore. Il caso di Federico Aldrovandi",
-            "artist": "Francesca Zanni",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts122\/v4\/41\/d3\/e0\/41d3e098-f816-e592-91b9-ff26e5080c4a\/mza_6915035530208562463.jpg\/170x170bb.png",
-            "genre": "True Crime",
-            "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/rumore-il-caso-di-federico-aldrovandi\/id1643026434?uo=2"
-        },
-        {
-            "rank": 50,
-            "apple_id": "1773249041",
-            "name": "Cronache dell'ignoto",
-            "artist": "Simone Murru & Vois",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/d1\/79\/d1\/d179d100-3ff7-0727-ae0c-a4bcaf4c4eb2\/mza_16488141972178275365.jpeg\/170x170bb.png",
-            "genre": "True Crime",
-            "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/cronache-dellignoto\/id1773249041?uo=2"
-        },
-        {
-            "rank": 51,
-            "apple_id": "1802157212",
-            "name": "Sette",
-            "artist": "Chiara Penna",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/5c\/38\/b4\/5c38b4bb-051d-7f50-b5e6-276e09abe231\/mza_11455798318206291672.jpg\/170x170bb.png",
-            "genre": "True Crime",
-            "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/sette\/id1802157212?uo=2"
-        },
-        {
-            "rank": 52,
-            "apple_id": "1835851658",
-            "name": "Sottovoce - Storie criminali",
-            "artist": "Fabio Mammarella",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/56\/00\/4a\/56004a82-9349-c6ed-648c-7280484d76ed\/mza_5213835238782100545.jpg\/170x170bb.png",
-            "genre": "True Crime",
-            "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/sottovoce-storie-criminali\/id1835851658?uo=2"
-        },
-        {
-            "rank": 53,
+            "rank": 30,
             "apple_id": "1786573165",
             "name": "Narciso - Il femminicidio di Giulia Ballestri",
             "artist": "Selvaggia Lucarelli - Chora Media",
@@ -538,24 +308,254 @@
             "url": "https:\/\/podcasts.apple.com\/it\/podcast\/narciso-il-femminicidio-di-giulia-ballestri\/id1786573165?uo=2"
         },
         {
-            "rank": 54,
-            "apple_id": "1896858485",
-            "name": "The Snare",
-            "artist": "ABC News",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/0a\/7b\/1e\/0a7b1e0e-56d7-9f22-c1d2-2be83d2fc9f3\/mza_4354592459969619696.jpg\/170x170bb.png",
+            "rank": 31,
+            "apple_id": "1865730671",
+            "name": "Luminol",
+            "artist": "Luminol",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/9f\/7f\/18\/9f7f1839-326b-0748-66da-f4b07f90b97d\/mza_12917682991830306670.jpg\/170x170bb.png",
             "genre": "True Crime",
             "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/the-snare\/id1896858485?uo=2"
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/luminol\/id1865730671?uo=2"
+        },
+        {
+            "rank": 32,
+            "apple_id": "1725953681",
+            "name": "Mele Marce",
+            "artist": "Will Media",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts112\/v4\/79\/d0\/6a\/79d06af6-f276-e6f6-d31c-a57296cb88c7\/mza_3044374745960906286.jpg\/170x170bb.png",
+            "genre": "True Crime",
+            "genre_id": "1488",
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/mele-marce\/id1725953681?uo=2"
+        },
+        {
+            "rank": 33,
+            "apple_id": "1586551902",
+            "name": "Un uomo chiamato Diabolik",
+            "artist": "Giovanni Bianconi, Mauro Pescio, con Francesco Acquaroli - Chora Media",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/6d\/a4\/1f\/6da41f10-17a8-8dc8-86b3-d91cc4c7496c\/mza_654911684891311821.jpg\/170x170bb.png",
+            "genre": "True Crime",
+            "genre_id": "1488",
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/un-uomo-chiamato-diabolik\/id1586551902?uo=2"
+        },
+        {
+            "rank": 34,
+            "apple_id": "1763013489",
+            "name": "Mente Criminale",
+            "artist": "Mente Criminale",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/68\/ce\/b3\/68ceb36b-21f2-49cf-af27-f69ffc965d87\/mza_7050698201322255172.jpg\/170x170bb.png",
+            "genre": "True Crime",
+            "genre_id": "1488",
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/mente-criminale\/id1763013489?uo=2"
+        },
+        {
+            "rank": 35,
+            "apple_id": "1895889729",
+            "name": "Confini Sottili - Il Podcast del Mistero",
+            "artist": "Pierpaolo Laconi",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/91\/28\/ac\/9128ac5d-2f3a-0687-6e1f-1ccece44c6a0\/mza_16132594072976603931.jpg\/170x170bb.png",
+            "genre": "True Crime",
+            "genre_id": "1488",
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/confini-sottili-il-podcast-del-mistero\/id1895889729?uo=2"
+        },
+        {
+            "rank": 36,
+            "apple_id": "1652721412",
+            "name": "Fantasma - Il caso Unabomber",
+            "artist": "OnePodcast",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts112\/v4\/a4\/03\/64\/a40364bc-905b-56ba-b300-962091d898ee\/mza_6808358172849222499.jpg\/170x170bb.png",
+            "genre": "True Crime",
+            "genre_id": "1488",
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/fantasma-il-caso-unabomber\/id1652721412?uo=2"
+        },
+        {
+            "rank": 37,
+            "apple_id": "1617840239",
+            "name": "Profondo Nero",
+            "artist": "Sky Crime",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/c2\/82\/84\/c28284f0-115f-69fb-2a43-26e9338860f5\/mza_13498166557735831987.jpg\/170x170bb.png",
+            "genre": "True Crime",
+            "genre_id": "1488",
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/profondo-nero\/id1617840239?uo=2"
+        },
+        {
+            "rank": 38,
+            "apple_id": "1800473533",
+            "name": "Midnight's Legends  - Soprannaturale ma vero",
+            "artist": "Mr.Midnight - Vois",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/28\/1c\/00\/281c00c5-4b67-24fc-2d29-5e004d360e08\/mza_2485148826410179261.jpeg\/170x170bb.png",
+            "genre": "True Crime",
+            "genre_id": "1488",
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/midnights-legends-soprannaturale-ma-vero\/id1800473533?uo=2"
+        },
+        {
+            "rank": 39,
+            "apple_id": "1588870514",
+            "name": "La città dei vivi",
+            "artist": "Nicola Lagioia - Chora Media",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/45\/06\/7d\/45067d78-5499-5eb6-9515-b65bb405e7a6\/mza_9657007654117646556.jpg\/170x170bb.png",
+            "genre": "True Crime",
+            "genre_id": "1488",
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/la-citt%C3%A0-dei-vivi\/id1588870514?uo=2"
+        },
+        {
+            "rank": 40,
+            "apple_id": "1741568631",
+            "name": "Crimini a Rimini",
+            "artist": "Davide Cardone e Davide Grassi - Hypercast",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/de\/da\/47\/deda4781-1e8a-2a09-d285-d6d603d29571\/mza_7949250335704183116.jpg\/170x170bb.png",
+            "genre": "True Crime",
+            "genre_id": "1488",
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/crimini-a-rimini\/id1741568631?uo=2"
+        },
+        {
+            "rank": 41,
+            "apple_id": "1837207372",
+            "name": "L'Angolo del Crimine",
+            "artist": "Rosita - Hypercast",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/f7\/a7\/1e\/f7a71e7a-c431-b7be-4ca2-9308d245c3dd\/mza_2659859927718389783.jpg\/170x170bb.png",
+            "genre": "True Crime",
+            "genre_id": "1488",
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/langolo-del-crimine\/id1837207372?uo=2"
+        },
+        {
+            "rank": 42,
+            "apple_id": "1520478402",
+            "name": "Deep Cover",
+            "artist": "Pushkin Industries",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/4d\/a7\/60\/4da76084-8ea1-4f03-1730-5499cdeab8a3\/mza_10228564514706457371.jpg\/170x170bb.png",
+            "genre": "True Crime",
+            "genre_id": "1488",
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/deep-cover\/id1520478402?uo=2"
+        },
+        {
+            "rank": 43,
+            "apple_id": "1773249041",
+            "name": "Cronache dell'ignoto",
+            "artist": "Simone Murru & Vois",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/d1\/79\/d1\/d179d100-3ff7-0727-ae0c-a4bcaf4c4eb2\/mza_16488141972178275365.jpeg\/170x170bb.png",
+            "genre": "True Crime",
+            "genre_id": "1488",
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/cronache-dellignoto\/id1773249041?uo=2"
+        },
+        {
+            "rank": 44,
+            "apple_id": "1692849734",
+            "name": "Inchiostro Nero",
+            "artist": "Valerio Carpentieri",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/dc\/19\/bd\/dc19bdea-ae95-a6cd-68c4-a2e8f569938a\/mza_1422494084309069211.jpg\/170x170bb.png",
+            "genre": "True Crime",
+            "genre_id": "1488",
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/inchiostro-nero\/id1692849734?uo=2"
+        },
+        {
+            "rank": 45,
+            "apple_id": "1517954480",
+            "name": "Rotten Mango",
+            "artist": "Stephanie Soo",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/13\/8f\/fa\/138ffad5-1aee-a955-b73b-6aea47b55197\/mza_13457757566766616901.jpg\/170x170bb.png",
+            "genre": "True Crime",
+            "genre_id": "1488",
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/rotten-mango\/id1517954480?uo=2"
+        },
+        {
+            "rank": 46,
+            "apple_id": "1864372379",
+            "name": "Podcast Criminale",
+            "artist": "Podcast Criminale",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/17\/80\/19\/17801973-efb9-a391-db68-6acb501f4c15\/mza_13141580431960729307.jpg\/170x170bb.png",
+            "genre": "True Crime",
+            "genre_id": "1488",
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/podcast-criminale\/id1864372379?uo=2"
+        },
+        {
+            "rank": 47,
+            "apple_id": "1853234178",
+            "name": "Tu non puoi capire",
+            "artist": "Selvaggia Lucarelli e Marco Cribari",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/95\/2e\/01\/952e010b-5500-ccb2-fd10-9e8863bc592e\/mza_6368495996556097430.jpg\/170x170bb.png",
+            "genre": "True Crime",
+            "genre_id": "1488",
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/tu-non-puoi-capire\/id1853234178?uo=2"
+        },
+        {
+            "rank": 48,
+            "apple_id": "1588568781",
+            "name": "I dossier del mistero",
+            "artist": "Storylands Factory",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/73\/01\/33\/7301335a-9cca-6a92-f37c-24c7405e5c86\/mza_10646854514404599835.jpg\/170x170bb.png",
+            "genre": "True Crime",
+            "genre_id": "1488",
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/i-dossier-del-mistero\/id1588568781?uo=2"
+        },
+        {
+            "rank": 49,
+            "apple_id": "1871929136",
+            "name": "Bosco -Cronache all'ombra della provincia-",
+            "artist": "Bosco il podcast",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/51\/13\/de\/5113de09-1ef2-4978-d6b0-123c48144017\/mza_5071758395589292091.jpg\/170x170bb.png",
+            "genre": "True Crime",
+            "genre_id": "1488",
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/bosco-cronache-allombra-della-provincia\/id1871929136?uo=2"
+        },
+        {
+            "rank": 50,
+            "apple_id": "1823618418",
+            "name": "Hannibal Fletcher",
+            "artist": "LaRotten",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/23\/14\/34\/231434da-ee90-2d0a-8762-29d14d38b66b\/mza_182826388887638822.jpg\/170x170bb.png",
+            "genre": "True Crime",
+            "genre_id": "1488",
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/hannibal-fletcher\/id1823618418?uo=2"
+        },
+        {
+            "rank": 51,
+            "apple_id": "1718197897",
+            "name": "Ricorda il mio nome - Storie di femminicidi",
+            "artist": "Anna Bardazzi - Hypercast",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/d4\/9c\/aa\/d49caae2-30eb-cc14-ff7c-1ea48a1d91ec\/mza_7566828761833497790.jpg\/170x170bb.png",
+            "genre": "True Crime",
+            "genre_id": "1488",
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/ricorda-il-mio-nome-storie-di-femminicidi\/id1718197897?uo=2"
+        },
+        {
+            "rank": 52,
+            "apple_id": "1074507850",
+            "name": "My Favorite Murder with Karen Kilgariff and Georgia Hardstark",
+            "artist": "Exactly Right and iHeartPodcasts",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/1b\/80\/b1\/1b80b146-8608-f76f-97e7-7a2317549c35\/mza_14115126871478479568.jpg\/170x170bb.png",
+            "genre": "True Crime",
+            "genre_id": "1488",
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/my-favorite-murder-with-karen-kilgariff-and\/id1074507850?uo=2"
+        },
+        {
+            "rank": 53,
+            "apple_id": "1885854144",
+            "name": "Quel corpo non è il mio",
+            "artist": "Camilla Ferrario - Chora Media",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/1b\/66\/81\/1b66810a-1ef5-8e97-c0db-56208b40af85\/mza_4567572174580650287.png\/170x170bb.png",
+            "genre": "True Crime",
+            "genre_id": "1488",
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/quel-corpo-non-%C3%A8-il-mio\/id1885854144?uo=2"
+        },
+        {
+            "rank": 54,
+            "apple_id": "1766041449",
+            "name": "La Fiamma Oscura: Dentro la Mente dei Serial Killer",
+            "artist": "Giammarco Fernando Bevilacqua",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/5d\/bb\/c2\/5dbbc2bc-a993-4ffe-9c56-f5012b1d32f0\/mza_10280776792165565891.jpg\/170x170bb.png",
+            "genre": "True Crime",
+            "genre_id": "1488",
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/la-fiamma-oscura-dentro-la-mente-dei-serial-killer\/id1766041449?uo=2"
         },
         {
             "rank": 55,
-            "apple_id": "1486608425",
-            "name": "MORD AUF EX",
-            "artist": "Leonie Bartsch & Linn Schütze",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/b9\/17\/07\/b91707ba-b4bf-2021-bafe-b4dd1e1f0196\/mza_6370841172422755338.jpg\/170x170bb.png",
+            "apple_id": "1449598446",
+            "name": "Verbrechen von nebenan: True Crime aus der Nachbarschaft",
+            "artist": "RTL+ \/ Philipp Fleiter",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/99\/ed\/ca\/99edca87-e413-ae52-e296-f73a085f2fb1\/mza_14028260209326193247.jpg\/170x170bb.png",
             "genre": "True Crime",
             "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/mord-auf-ex\/id1486608425?uo=2"
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/verbrechen-von-nebenan-true-crime-aus-der-nachbarschaft\/id1449598446?uo=2"
         },
         {
             "rank": 56,
@@ -569,266 +569,6 @@
         },
         {
             "rank": 57,
-            "apple_id": "1845952273",
-            "name": "48 Ore - Il caso di Aldo Bianzino",
-            "artist": "Umbria 24",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/26\/45\/85\/264585a2-cb4b-3e79-973b-5bae5a948224\/mza_1407617856543029928.jpg\/170x170bb.png",
-            "genre": "True Crime",
-            "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/48-ore-il-caso-di-aldo-bianzino\/id1845952273?uo=2"
-        },
-        {
-            "rank": 58,
-            "apple_id": "1745304726",
-            "name": "Un caffè con l'assassino",
-            "artist": "Storielibere.fm",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/f9\/59\/40\/f95940aa-d39c-e9bf-cb07-f4d448d1dfad\/mza_2904240595214889568.jpeg\/170x170bb.png",
-            "genre": "True Crime",
-            "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/un-caff%C3%A8-con-lassassino\/id1745304726?uo=2"
-        },
-        {
-            "rank": 59,
-            "apple_id": "1250599915",
-            "name": "RedHanded",
-            "artist": "RedHanded",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/37\/38\/73\/373873c6-ff52-d2de-945c-3a1aab729c6d\/mza_18348784528713052513.jpg\/170x170bb.png",
-            "genre": "True Crime",
-            "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/redhanded\/id1250599915?uo=2"
-        },
-        {
-            "rank": 60,
-            "apple_id": "1585964597",
-            "name": "黑猫侦探社",
-            "artist": "Mizai",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/b9\/5b\/1c\/b95b1c6c-bdd5-9bcd-65fc-86b0904f89db\/mza_5176470659683907143.jpg\/170x170bb.png",
-            "genre": "True Crime",
-            "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/%E9%BB%91%E7%8C%AB%E4%BE%A6%E6%8E%A2%E7%A4%BE\/id1585964597?uo=2"
-        },
-        {
-            "rank": 61,
-            "apple_id": "1549358657",
-            "name": "Criminopatía",
-            "artist": "Clara Tiscar",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/fa\/4f\/a8\/fa4fa872-18f8-136b-29e2-bf1d3ed8d81c\/mza_5100316931390661597.jpg\/170x170bb.png",
-            "genre": "True Crime",
-            "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/criminopat%C3%ADa\/id1549358657?uo=2"
-        },
-        {
-            "rank": 62,
-            "apple_id": "1652298309",
-            "name": "Italia Nera: il Male nel Belpaese",
-            "artist": "Eleonora Quarchioni",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/09\/42\/91\/094291b4-56d6-520e-8762-65eb0ba12e67\/mza_2724431351944051142.jpg\/170x170bb.png",
-            "genre": "True Crime",
-            "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/italia-nera-il-male-nel-belpaese\/id1652298309?uo=2"
-        },
-        {
-            "rank": 63,
-            "apple_id": "1759859424",
-            "name": "10 e 25 - La vera storia dietro alla strage di Bologna",
-            "artist": "Gabriele Cruciata, Dario De Santis",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/65\/6d\/15\/656d1550-7180-6185-1d22-9ceac12225c0\/mza_5801639642849089085.jpg\/170x170bb.png",
-            "genre": "True Crime",
-            "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/10-e-25-la-vera-storia-dietro-alla-strage-di-bologna\/id1759859424?uo=2"
-        },
-        {
-            "rank": 64,
-            "apple_id": "1828581387",
-            "name": "Oltre",
-            "artist": "Bergamonews",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/55\/b1\/f5\/55b1f501-1e48-d076-3991-7d6d7a178794\/mza_9746904452173965845.jpg\/170x170bb.png",
-            "genre": "True Crime",
-            "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/oltre\/id1828581387?uo=2"
-        },
-        {
-            "rank": 65,
-            "apple_id": "809264944",
-            "name": "Criminal",
-            "artist": "Vox Media Podcast Network",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/bd\/98\/22\/bd9822cc-b8e0-59de-5809-45926a0ee5f3\/mza_2331604259390110897.jpeg\/170x170bb.png",
-            "genre": "True Crime",
-            "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/criminal\/id809264944?uo=2"
-        },
-        {
-            "rank": 66,
-            "apple_id": "1703146924",
-            "name": "The Pirate of Prague",
-            "artist": "Apple TV \/ Blanchard House",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts126\/v4\/76\/ee\/7f\/76ee7f45-aaba-ae8a-dad6-b7f7255df9e7\/mza_11285298976939853362.jpeg\/170x170bb.png",
-            "genre": "True Crime",
-            "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/the-pirate-of-prague\/id1703146924?uo=2"
-        },
-        {
-            "rank": 67,
-            "apple_id": "1609053292",
-            "name": "Nessuno - Il mostro di Firenze",
-            "artist": "CasoZero Media",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/c5\/70\/4a\/c5704ac7-221b-9ab2-38cc-167d5d82ab3d\/mza_18367737319190499571.jpg\/170x170bb.png",
-            "genre": "True Crime",
-            "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/nessuno-il-mostro-di-firenze\/id1609053292?uo=2"
-        },
-        {
-            "rank": 68,
-            "apple_id": "1831750398",
-            "name": "Crimini Dimenticati True Crime",
-            "artist": "Simona Cascio e Marcello Randazzo",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/c9\/a9\/b0\/c9a9b09b-1b4a-85f6-2d61-722d5ae3bd66\/mza_18322527694535891253.jpeg\/170x170bb.png",
-            "genre": "True Crime",
-            "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/crimini-dimenticati-true-crime\/id1831750398?uo=2"
-        },
-        {
-            "rank": 69,
-            "apple_id": "643369806",
-            "name": "Elena en El País de los Horrores",
-            "artist": "Elena Merino",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/81\/d0\/b8\/81d0b8a3-fc9b-d2ed-b197-d328d349a839\/mza_11803102564414298129.jpg\/170x170bb.png",
-            "genre": "True Crime",
-            "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/elena-en-el-pa%C3%ADs-de-los-horrores\/id643369806?uo=2"
-        },
-        {
-            "rank": 70,
-            "apple_id": "1731539225",
-            "name": "Casi Umani",
-            "artist": "Casi Umani",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/c5\/3a\/4d\/c53a4d86-f9fe-fea4-095d-002f39338417\/mza_7262103767779810896.jpeg\/170x170bb.png",
-            "genre": "True Crime",
-            "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/casi-umani\/id1731539225?uo=2"
-        },
-        {
-            "rank": 71,
-            "apple_id": "1492958937",
-            "name": "Modus Operandi",
-            "artist": "Modus Operandi",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/06\/d8\/0c\/06d80c01-9805-92be-3014-15110a5fa23f\/mza_15419489522249389235.jpeg\/170x170bb.png",
-            "genre": "True Crime",
-            "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/modus-operandi\/id1492958937?uo=2"
-        },
-        {
-            "rank": 72,
-            "apple_id": "1823533905",
-            "name": "Svaniti nel nulla",
-            "artist": "Marianna Molinaro - Svaniti nel nulla",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/e5\/10\/a4\/e510a4de-1133-22b3-3b91-3b1207c7999e\/mza_1890031887921068695.jpg\/170x170bb.png",
-            "genre": "True Crime",
-            "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/svaniti-nel-nulla\/id1823533905?uo=2"
-        },
-        {
-            "rank": 73,
-            "apple_id": "1480263708",
-            "name": "Your Own Backyard",
-            "artist": "Chris Lambert",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/90\/24\/36\/90243638-a0ce-1268-2c4e-c34761253812\/mza_17261943949558976257.jpg\/170x170bb.png",
-            "genre": "True Crime",
-            "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/your-own-backyard\/id1480263708?uo=2"
-        },
-        {
-            "rank": 74,
-            "apple_id": "1778430542",
-            "name": "In famiglia",
-            "artist": "Il Post - Stefano Nazzi e Antonia Sorge",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/f2\/8a\/bd\/f28abded-de00-6ed1-8be3-a1e28cf6a40d\/mza_2194350519991067581.jpg\/170x170bb.png",
-            "genre": "True Crime",
-            "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/in-famiglia\/id1778430542?uo=2"
-        },
-        {
-            "rank": 75,
-            "apple_id": "1657802345",
-            "name": "Nightmares",
-            "artist": "Sword and Scale",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/f1\/03\/f6\/f103f6b1-3349-d12c-21c3-7f4f1973cb18\/mza_17060429508642426305.jpg\/170x170bb.png",
-            "genre": "True Crime",
-            "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/nightmares\/id1657802345?uo=2"
-        },
-        {
-            "rank": 76,
-            "apple_id": "1292665011",
-            "name": "Shadow Kingdom",
-            "artist": "Crooked Media & Campside",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/88\/75\/2f\/88752f0f-b07c-a17d-506b-b6b1013189da\/mza_11120555969826645922.jpg\/170x170bb.png",
-            "genre": "True Crime",
-            "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/shadow-kingdom\/id1292665011?uo=2"
-        },
-        {
-            "rank": 77,
-            "apple_id": "1062418176",
-            "name": "True Crime Garage",
-            "artist": "TRUE CRIME GARAGE",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts116\/v4\/e2\/e1\/78\/e2e1788b-e584-7338-5561-f45f54d24fac\/mza_11079836307425036802.jpg\/170x170bb.png",
-            "genre": "True Crime",
-            "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/true-crime-garage\/id1062418176?uo=2"
-        },
-        {
-            "rank": 78,
-            "apple_id": "1450277129",
-            "name": "Root of Evil: The True Story of the Hodel Family and the Black Dahlia",
-            "artist": "TNT \/ Cadence13",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/b2\/c1\/7a\/b2c17a72-cb70-0b58-1c92-07a25524714d\/mza_9223420168743887948.jpg\/170x170bb.png",
-            "genre": "True Crime",
-            "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/root-of-evil-the-true-story-of-the\/id1450277129?uo=2"
-        },
-        {
-            "rank": 79,
-            "apple_id": "1697685760",
-            "name": "Mord, Mörder, Blut",
-            "artist": "August und Theo",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts126\/v4\/a5\/29\/e5\/a529e59e-0db1-fdd8-003e-fd227dc37706\/mza_8886215445961303524.jpg\/170x170bb.png",
-            "genre": "True Crime",
-            "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/mord-m%C3%B6rder-blut\/id1697685760?uo=2"
-        },
-        {
-            "rank": 80,
-            "apple_id": "1532225667",
-            "name": "Chameleon",
-            "artist": "Audiochuck | Campside Media",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/69\/21\/af\/6921af18-5d04-7e96-49c8-62f00dd202de\/mza_14293798668143431687.jpg\/170x170bb.png",
-            "genre": "True Crime",
-            "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/chameleon\/id1532225667?uo=2"
-        },
-        {
-            "rank": 81,
-            "apple_id": "1832738095",
-            "name": "The Whispers - Sussurri di True Crime",
-            "artist": "Giulia Lazzaris",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/6b\/02\/32\/6b0232f5-b79e-3803-aab0-75619d9dbd43\/mza_12043174399464343547.jpg\/170x170bb.png",
-            "genre": "True Crime",
-            "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/the-whispers-sussurri-di-true-crime\/id1832738095?uo=2"
-        },
-        {
-            "rank": 82,
-            "apple_id": "1718197897",
-            "name": "Ricorda il mio nome - Storie di femminicidi",
-            "artist": "Anna Bardazzi - Hypercast",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/d4\/9c\/aa\/d49caae2-30eb-cc14-ff7c-1ea48a1d91ec\/mza_7566828761833497790.jpg\/170x170bb.png",
-            "genre": "True Crime",
-            "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/ricorda-il-mio-nome-storie-di-femminicidi\/id1718197897?uo=2"
-        },
-        {
-            "rank": 83,
             "apple_id": "1796829479",
             "name": "Erika&Omar - Senza un perché",
             "artist": "OnePodcast",
@@ -838,757 +578,17 @@
             "url": "https:\/\/podcasts.apple.com\/it\/podcast\/erika-omar-senza-un-perch%C3%A9\/id1796829479?uo=2"
         },
         {
-            "rank": 84,
-            "apple_id": "1643974551",
-            "name": "Bone Valley",
-            "artist": "Lava for Good Podcasts",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/aa\/72\/2f\/aa722ff2-7e96-dfbd-fd98-d23d36d035b3\/mza_9383434172737455327.jpg\/170x170bb.png",
+            "rank": 58,
+            "apple_id": "1890142597",
+            "name": "Fili Rossi",
+            "artist": "Davide Smaldone",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/0f\/a3\/d8\/0fa3d849-e7c0-34d6-1ba9-27a3ba1defcb\/mza_12326069790750426635.jpg\/170x170bb.png",
             "genre": "True Crime",
             "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/bone-valley\/id1643974551?uo=2"
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/fili-rossi\/id1890142597?uo=2"
         },
         {
-            "rank": 85,
-            "apple_id": "1374777077",
-            "name": "Verbrechen",
-            "artist": "DIE ZEIT",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/be\/22\/24\/be2224ef-7d33-ad2a-a466-0cad62b4dcd3\/mza_1379870103000080830.jpg\/170x170bb.png",
-            "genre": "True Crime",
-            "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/verbrechen\/id1374777077?uo=2"
-        },
-        {
-            "rank": 86,
-            "apple_id": "1449598446",
-            "name": "Verbrechen von nebenan: True Crime aus der Nachbarschaft",
-            "artist": "RTL+ \/ Philipp Fleiter",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/99\/ed\/ca\/99edca87-e413-ae52-e296-f73a085f2fb1\/mza_14028260209326193247.jpg\/170x170bb.png",
-            "genre": "True Crime",
-            "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/verbrechen-von-nebenan-true-crime-aus-der-nachbarschaft\/id1449598446?uo=2"
-        },
-        {
-            "rank": 87,
-            "apple_id": "1512453641",
-            "name": "Schwarze Akte - True Crime",
-            "artist": "Anne, Patrick & Julep Studios",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/ce\/5d\/40\/ce5d40a7-2e6f-3a22-ebcc-2a28e2bea52f\/mza_18318464890695029424.jpg\/170x170bb.png",
-            "genre": "True Crime",
-            "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/schwarze-akte-true-crime\/id1512453641?uo=2"
-        },
-        {
-            "rank": 88,
-            "apple_id": "1878220033",
-            "name": "Love Trapped",
-            "artist": "iHeartPodcasts and Glass Podcasts",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/b5\/ad\/82\/b5ad82a9-b29a-1411-1506-05f9f3ad5d6b\/mza_17395607531155205240.jpg\/170x170bb.png",
-            "genre": "True Crime",
-            "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/love-trapped\/id1878220033?uo=2"
-        },
-        {
-            "rank": 89,
-            "apple_id": "1853234178",
-            "name": "Tu non puoi capire",
-            "artist": "Selvaggia Lucarelli e Marco Cribari",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/95\/2e\/01\/952e010b-5500-ccb2-fd10-9e8863bc592e\/mza_6368495996556097430.jpg\/170x170bb.png",
-            "genre": "True Crime",
-            "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/tu-non-puoi-capire\/id1853234178?uo=2"
-        },
-        {
-            "rank": 90,
-            "apple_id": "1684598888",
-            "name": "Ottocento oscuro",
-            "artist": "Ottocento oscuro",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/ad\/cf\/72\/adcf7217-b861-a631-1185-ebf784d86d94\/mza_6324147293252492684.jpg\/170x170bb.png",
-            "genre": "True Crime",
-            "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/ottocento-oscuro\/id1684598888?uo=2"
-        },
-        {
-            "rank": 91,
-            "apple_id": "1743737971",
-            "name": "Misteri Senza Tempo",
-            "artist": "Streammo",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/7e\/fb\/16\/7efb16da-4e7c-a6fd-756c-babfc2adb81b\/mza_7243143103712039032.png\/170x170bb.png",
-            "genre": "True Crime",
-            "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/misteri-senza-tempo\/id1743737971?uo=2"
-        },
-        {
-            "rank": 92,
-            "apple_id": "1874866922",
-            "name": "Razza dominante",
-            "artist": "Il Tempo",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/36\/e0\/c2\/36e0c2ef-6403-c7da-256c-681cae407e73\/mza_6722122369122173589.jpeg\/170x170bb.png",
-            "genre": "True Crime",
-            "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/razza-dominante\/id1874866922?uo=2"
-        },
-        {
-            "rank": 93,
-            "apple_id": "1863385413",
-            "name": "LE STANZE DEL MALE",
-            "artist": "Piergiorgio Pulixi - Feltrinelli",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/74\/84\/3d\/74843d3c-7359-71e6-67a8-1ba3288093fc\/mza_18320221320715382794.jpg\/170x170bb.png",
-            "genre": "True Crime",
-            "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/le-stanze-del-male\/id1863385413?uo=2"
-        },
-        {
-            "rank": 94,
-            "apple_id": "1394532858",
-            "name": "Apnea - Storie senza fiato",
-            "artist": "Andy Franco",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts116\/v4\/84\/47\/10\/844710df-0499-d4be-f518-b3569dfea52d\/mza_7774335420441427004.jpg\/170x170bb.png",
-            "genre": "True Crime",
-            "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/apnea-storie-senza-fiato\/id1394532858?uo=2"
-        },
-        {
-            "rank": 95,
-            "apple_id": "1567076396",
-            "name": "Dossier Negro",
-            "artist": "La Vanguardia",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/4a\/e2\/e2\/4ae2e202-48ec-2be8-fb0d-59032506e37c\/mza_7361986592630772518.jpg\/170x170bb.png",
-            "genre": "True Crime",
-            "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/dossier-negro\/id1567076396?uo=2"
-        },
-        {
-            "rank": 96,
-            "apple_id": "1697309319",
-            "name": "落日之后",
-            "artist": "根号乙，Gold_金龙鱼",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts116\/v4\/93\/b4\/84\/93b484d8-12a5-c8bf-8c59-0b9a66ebf036\/mza_6931191804202650639.png\/170x170bb.png",
-            "genre": "True Crime",
-            "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/%E8%90%BD%E6%97%A5%E4%B9%8B%E5%90%8E\/id1697309319?uo=2"
-        },
-        {
-            "rank": 97,
-            "apple_id": "1531922010",
-            "name": "Polvere",
-            "artist": "Chiara Lalli e Cecilia Sala",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/16\/b1\/46\/16b14632-383a-05e2-2ec7-38e16d1ed3d9\/mza_7314033760942455254.jpg\/170x170bb.png",
-            "genre": "True Crime",
-            "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/polvere\/id1531922010?uo=2"
-        },
-        {
-            "rank": 98,
-            "apple_id": "1881593975",
-            "name": "Bergamo Nera",
-            "artist": "Francesco Aliberti",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/a9\/83\/29\/a9832956-bc73-8915-a188-b6ab050bbe88\/mza_9917918941574329354.jpg\/170x170bb.png",
-            "genre": "True Crime",
-            "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/bergamo-nera\/id1881593975?uo=2"
-        },
-        {
-            "rank": 99,
-            "apple_id": "1603011962",
-            "name": "The Deck",
-            "artist": "Audiochuck",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts116\/v4\/39\/70\/89\/3970894c-87fc-e9b1-2bf3-f8c1f7d362d0\/mza_7224143132000797712.jpg\/170x170bb.png",
-            "genre": "True Crime",
-            "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/the-deck\/id1603011962?uo=2"
-        },
-        {
-            "rank": 100,
-            "apple_id": "1205030005",
-            "name": "Killer Stories with Harvey Guillén",
-            "artist": "Spotify Studios",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/f5\/d6\/59\/f5d659cd-d9ca-2ea5-9cd6-295b4d200427\/mza_15633811809801599009.jpeg\/170x170bb.png",
-            "genre": "True Crime",
-            "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/killer-stories-with-harvey-guill%C3%A9n\/id1205030005?uo=2"
-        },
-        {
-            "rank": 101,
-            "apple_id": "1232009882",
-            "name": "True Crime Obsessed",
-            "artist": "True Crime Obsessed",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/69\/54\/32\/69543251-63c2-b450-fd1d-4932b6f0238f\/mza_10028551918162705040.png\/170x170bb.png",
-            "genre": "True Crime",
-            "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/true-crime-obsessed\/id1232009882?uo=2"
-        },
-        {
-            "rank": 102,
-            "apple_id": "1769027640",
-            "name": "Extrasensory",
-            "artist": "Apple TV \/ Blanchard House",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/87\/d1\/f2\/87d1f21b-303d-480c-2293-1ba0f300d18b\/mza_12852650121927536558.jpeg\/170x170bb.png",
-            "genre": "True Crime",
-            "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/extrasensory\/id1769027640?uo=2"
-        },
-        {
-            "rank": 103,
-            "apple_id": "1278924392",
-            "name": "Murder Mile UK True Crime",
-            "artist": "Always True Crime",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/11\/f1\/32\/11f132fa-8e7d-7934-ff0b-48229c36c4a4\/mza_10205872379674206331.jpeg\/170x170bb.png",
-            "genre": "True Crime",
-            "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/murder-mile-uk-true-crime\/id1278924392?uo=2"
-        },
-        {
-            "rank": 104,
-            "apple_id": "1608813794",
-            "name": "MrBallen Podcast: Strange, Dark & Mysterious Stories",
-            "artist": "Ballen Studios",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/a5\/9c\/8a\/a59c8a0a-0cb2-9862-e0d6-7b5ee4e9e157\/mza_12554888833857337425.jpg\/170x170bb.png",
-            "genre": "True Crime",
-            "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/mrballen-podcast-strange-dark-mysterious-stories\/id1608813794?uo=2"
-        },
-        {
-            "rank": 105,
-            "apple_id": "1526682330",
-            "name": "Paper Ghosts: The Texas Teen Murders",
-            "artist": "iHeartPodcasts",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/4c\/15\/f6\/4c15f60c-bf59-c4f2-fbce-39133d9cb811\/mza_13396667933309988260.jpg\/170x170bb.png",
-            "genre": "True Crime",
-            "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/paper-ghosts-the-texas-teen-murders\/id1526682330?uo=2"
-        },
-        {
-            "rank": 106,
-            "apple_id": "1739538219",
-            "name": "The Bourne Investigation",
-            "artist": "Charley Bourne",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/7a\/c6\/47\/7ac64756-7bec-2200-25fd-4b44b6abbc60\/mza_16557032103602407787.jpg\/170x170bb.png",
-            "genre": "True Crime",
-            "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/the-bourne-investigation\/id1739538219?uo=2"
-        },
-        {
-            "rank": 107,
-            "apple_id": "1642995848",
-            "name": "Internal Affairs",
-            "artist": "NBC News",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts122\/v4\/3a\/c3\/f3\/3ac3f3a0-51cd-445b-f10c-a174804c78bc\/mza_16456252948459164087.jpg\/170x170bb.png",
-            "genre": "True Crime",
-            "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/internal-affairs\/id1642995848?uo=2"
-        },
-        {
-            "rank": 108,
-            "apple_id": "1779841350",
-            "name": "水果硬糖",
-            "artist": "硬糖_淼淼",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/68\/9a\/4b\/689a4bdd-5ae3-15a7-9dbe-ac8360635322\/mza_5746626617152050140.jpg\/170x170bb.png",
-            "genre": "True Crime",
-            "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/%E6%B0%B4%E6%9E%9C%E7%A1%AC%E7%B3%96\/id1779841350?uo=2"
-        },
-        {
-            "rank": 109,
-            "apple_id": "1676146930",
-            "name": "Under Cover of Knight",
-            "artist": "Apple TV \/ Spoke Media",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts126\/v4\/7b\/bc\/9f\/7bbc9f58-f9a1-5235-3b97-3a0003d73a24\/mza_2102199520580511012.jpeg\/170x170bb.png",
-            "genre": "True Crime",
-            "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/under-cover-of-knight\/id1676146930?uo=2"
-        },
-        {
-            "rank": 110,
-            "apple_id": "1871976453",
-            "name": "顽人播客",
-            "artist": "顽人播客",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/c3\/93\/be\/c393befe-4a59-954e-bd55-bd88c1f038d3\/mza_6897754889799236821.jpg\/170x170bb.png",
-            "genre": "True Crime",
-            "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/%E9%A1%BD%E4%BA%BA%E6%92%AD%E5%AE%A2\/id1871976453?uo=2"
-        },
-        {
-            "rank": 111,
-            "apple_id": "1677222172",
-            "name": "Psychopedia: True Crime & Criminal Psychology",
-            "artist": "Investigator Slater",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/28\/18\/54\/28185491-9c0d-e8ee-4eb7-5ee24550a6f2\/mza_5426871448281698233.jpg\/170x170bb.png",
-            "genre": "True Crime",
-            "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/psychopedia-true-crime-criminal-psychology\/id1677222172?uo=2"
-        },
-        {
-            "rank": 112,
-            "apple_id": "1772961354",
-            "name": "Dr. Insanity",
-            "artist": "Dr Insanity",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/6f\/13\/e6\/6f13e6b4-d9f0-b63e-3779-801c71b72060\/mza_6431048977640740002.jpg\/170x170bb.png",
-            "genre": "True Crime",
-            "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/dr-insanity\/id1772961354?uo=2"
-        },
-        {
-            "rank": 113,
-            "apple_id": "1771248028",
-            "name": "不吱声",
-            "artist": "不吱声的三多",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/99\/17\/4b\/99174bb0-ff64-4e06-1668-94a14cfb880b\/mza_486936777968077276.jpg\/170x170bb.png",
-            "genre": "True Crime",
-            "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/%E4%B8%8D%E5%90%B1%E5%A3%B0\/id1771248028?uo=2"
-        },
-        {
-            "rank": 114,
-            "apple_id": "1803355993",
-            "name": "Quarto Grado - Il Podcast",
-            "artist": "RTI S.p.A.",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/3c\/18\/2d\/3c182d85-9afa-32cc-a6a4-7f0d1db63470\/mza_15557776308413916725.jpeg\/170x170bb.png",
-            "genre": "True Crime",
-            "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/quarto-grado-il-podcast\/id1803355993?uo=2"
-        },
-        {
-            "rank": 115,
-            "apple_id": "1710102706",
-            "name": "18 secondi. La strage di Linate",
-            "artist": "Corriere della Sera_Produzione",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/87\/c7\/bf\/87c7bf67-ee29-b212-5c67-6185b2a1ead1\/mza_3487319440710232727.jpg\/170x170bb.png",
-            "genre": "True Crime",
-            "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/18-secondi-la-strage-di-linate\/id1710102706?uo=2"
-        },
-        {
-            "rank": 116,
-            "apple_id": "1556472772",
-            "name": "West Cork",
-            "artist": "yarn fm",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts126\/v4\/fe\/59\/69\/fe596930-c3cc-d344-a8a8-11a7307f8a05\/mza_7748082071715669071.jpg\/170x170bb.png",
-            "genre": "True Crime",
-            "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/west-cork\/id1556472772?uo=2"
-        },
-        {
-            "rank": 117,
-            "apple_id": "1464919521",
-            "name": "Dateline NBC",
-            "artist": "NBC News",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts115\/v4\/8c\/00\/7a\/8c007a42-e550-0214-d4cb-b59cd7edf194\/mza_5305664083935674472.jpeg\/170x170bb.png",
-            "genre": "True Crime",
-            "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/dateline-nbc\/id1464919521?uo=2"
-        },
-        {
-            "rank": 118,
-            "apple_id": "1745368960",
-            "name": "Fango - Storia di una Alluvione",
-            "artist": "Marco Cortesi, Mara Moschini & VOIS",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/a3\/2d\/98\/a32d98be-db03-d822-94e8-b201c545a5b9\/mza_2944115751723900333.jpg\/170x170bb.png",
-            "genre": "True Crime",
-            "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/fango-storia-di-una-alluvione\/id1745368960?uo=2"
-        },
-        {
-            "rank": 119,
-            "apple_id": "1647611347",
-            "name": "Operation: Tradebom",
-            "artist": "Apple TV \/ Truth Media",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts116\/v4\/e7\/8a\/3d\/e78a3d6a-7acc-a35b-ea10-e8a59841400b\/mza_17461958948794883108.jpeg\/170x170bb.png",
-            "genre": "True Crime",
-            "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/operation-tradebom\/id1647611347?uo=2"
-        },
-        {
-            "rank": 120,
-            "apple_id": "1769923414",
-            "name": "MORD HOCH ZWEI - Ein True Crime Podcast",
-            "artist": "Nadine d'Arachart, Sarah Wedler",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/df\/17\/ad\/df17adc8-65c1-a833-4c28-b98d80ca6f8c\/mza_10387359832575892246.jpg\/170x170bb.png",
-            "genre": "True Crime",
-            "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/mord-hoch-zwei-ein-true-crime-podcast\/id1769923414?uo=2"
-        },
-        {
-            "rank": 121,
-            "apple_id": "998568017",
-            "name": "Casefile True Crime",
-            "artist": "Casefile Presents",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/32\/81\/a3\/3281a345-6fa5-1d0d-b0bc-f02b0850a0ae\/mza_17562537467118278179.jpeg\/170x170bb.png",
-            "genre": "True Crime",
-            "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/casefile-true-crime\/id998568017?uo=2"
-        },
-        {
-            "rank": 122,
-            "apple_id": "1607655648",
-            "name": "True Crime & Mistery",
-            "artist": "Lo Strano Canale - True Crime",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/e8\/2e\/03\/e82e0368-a575-65ac-3b59-a6a847873ed4\/mza_7698886689424744517.jpg\/170x170bb.png",
-            "genre": "True Crime",
-            "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/true-crime-mistery\/id1607655648?uo=2"
-        },
-        {
-            "rank": 123,
-            "apple_id": "1759532516",
-            "name": "The Crime - La Scena Del Crimine",
-            "artist": "Ilaria Crime - Hypercast",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/d5\/13\/f1\/d513f107-45b8-b8f6-73d7-041888435c0a\/mza_11049554848817892559.jpg\/170x170bb.png",
-            "genre": "True Crime",
-            "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/the-crime-la-scena-del-crimine\/id1759532516?uo=2"
-        },
-        {
-            "rank": 124,
-            "apple_id": "1450290783",
-            "name": "Storie di Tenebra",
-            "artist": "Michele D'Innella",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts116\/v4\/8c\/29\/41\/8c29412e-5aef-2cd3-b5a7-c636d03ffc5c\/mza_822064124426578624.jpg\/170x170bb.png",
-            "genre": "True Crime",
-            "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/storie-di-tenebra\/id1450290783?uo=2"
-        },
-        {
-            "rank": 125,
-            "apple_id": "1562024476",
-            "name": "ПРОЛЕТАЯ НАД КРЫЛЬЦОМ ПСИХУШКИ",
-            "artist": "Kris Carter",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts112\/v4\/08\/38\/b8\/0838b8fd-c5a7-3e07-e45e-e159b2f3bdf6\/mza_6848011446848032290.png\/170x170bb.png",
-            "genre": "True Crime",
-            "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/%D0%BF%D1%80%D0%BE%D0%BB%D0%B5%D1%82%D0%B0%D1%8F-%D0%BD%D0%B0%D0%B4-%D0%BA%D1%80%D1%8B%D0%BB%D1%8C%D1%86%D0%BE%D0%BC-%D0%BF%D1%81%D0%B8%D1%85%D1%83%D1%88%D0%BA%D0%B8\/id1562024476?uo=2"
-        },
-        {
-            "rank": 126,
-            "apple_id": "1618084297",
-            "name": "Heart Starts Pounding: Horrors, Hauntings and Mysteries",
-            "artist": "Heart Starts Pounding",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/3e\/f5\/35\/3ef5359d-31eb-9108-850a-3a403430c98e\/mza_13733283972669743514.jpg\/170x170bb.png",
-            "genre": "True Crime",
-            "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/heart-starts-pounding-horrors-hauntings-and-mysteries\/id1618084297?uo=2"
-        },
-        {
-            "rank": 127,
-            "apple_id": "1758710406",
-            "name": "Head Number 7",
-            "artist": "Always True Crime",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/c4\/ec\/20\/c4ec20e4-f25c-24b5-74ed-8b9befae1d0a\/mza_1484472999260182392.jpeg\/170x170bb.png",
-            "genre": "True Crime",
-            "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/head-number-7\/id1758710406?uo=2"
-        },
-        {
-            "rank": 128,
-            "apple_id": "389542173",
-            "name": "L'Heure Du Crime",
-            "artist": "RTL",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/06\/93\/a2\/0693a211-5cef-a5ce-c788-e3e897964785\/mza_9139408145449524526.jpg\/170x170bb.png",
-            "genre": "True Crime",
-            "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/lheure-du-crime\/id389542173?uo=2"
-        },
-        {
-            "rank": 129,
-            "apple_id": "1074507850",
-            "name": "My Favorite Murder with Karen Kilgariff and Georgia Hardstark",
-            "artist": "Exactly Right and iHeartPodcasts",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/1b\/80\/b1\/1b80b146-8608-f76f-97e7-7a2317549c35\/mza_14115126871478479568.jpg\/170x170bb.png",
-            "genre": "True Crime",
-            "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/my-favorite-murder-with-karen-kilgariff-and\/id1074507850?uo=2"
-        },
-        {
-            "rank": 130,
-            "apple_id": "1517651197",
-            "name": "Park Predators",
-            "artist": "Audiochuck",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/eb\/95\/39\/eb9539bf-2d25-8928-9274-11f1d3364e98\/mza_9186932073749396122.jpg\/170x170bb.png",
-            "genre": "True Crime",
-            "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/park-predators\/id1517651197?uo=2"
-        },
-        {
-            "rank": 131,
-            "apple_id": "1868546178",
-            "name": "Blunt Force Trauma",
-            "artist": "EchoSpace",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/8f\/0b\/c9\/8f0bc958-91c4-38bc-b536-cd7b0ec7f25a\/mza_12957442479390404433.jpeg\/170x170bb.png",
-            "genre": "True Crime",
-            "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/blunt-force-trauma\/id1868546178?uo=2"
-        },
-        {
-            "rank": 132,
-            "apple_id": "1735118562",
-            "name": "Feroce - L'ultima notte di Pasolini",
-            "artist": "CasoZero Media",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/d0\/65\/e1\/d065e143-9dfc-3bc8-0cae-d518c120e47c\/mza_1103864247425473048.jpeg\/170x170bb.png",
-            "genre": "True Crime",
-            "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/feroce-lultima-notte-di-pasolini\/id1735118562?uo=2"
-        },
-        {
-            "rank": 133,
-            "apple_id": "1837934108",
-            "name": "Deadly Engagement",
-            "artist": "NBC News",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/21\/1b\/5f\/211b5fed-6c14-f9f9-d6be-724a5091123e\/mza_1234506885577987813.jpg\/170x170bb.png",
-            "genre": "True Crime",
-            "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/deadly-engagement\/id1837934108?uo=2"
-        },
-        {
-            "rank": 134,
-            "apple_id": "1726043468",
-            "name": "Dark Side",
-            "artist": "Dark Side",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts126\/v4\/20\/24\/ed\/2024ed64-79e4-d3c8-e74b-43a14400acdd\/mza_7699985216407756285.jpg\/170x170bb.png",
-            "genre": "True Crime",
-            "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/dark-side\/id1726043468?uo=2"
-        },
-        {
-            "rank": 135,
-            "apple_id": "1896787047",
-            "name": "Ontvoerd naar Noord-Korea",
-            "artist": "De Telegraaf",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/0c\/28\/5a\/0c285af9-dd44-46a7-1183-f0905678cb10\/mza_1503043998255437912.jpg\/170x170bb.png",
-            "genre": "True Crime",
-            "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/ontvoerd-naar-noord-korea\/id1896787047?uo=2"
-        },
-        {
-            "rank": 136,
-            "apple_id": "1707765762",
-            "name": "A domani - La scomparsa di Giacomo",
-            "artist": "Niccolò Agliardi & VOIS",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts122\/v4\/15\/6d\/06\/156d0658-f6bb-c650-8b2b-8b0da5f71c52\/mza_5827447236513841161.jpg\/170x170bb.png",
-            "genre": "True Crime",
-            "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/a-domani-la-scomparsa-di-giacomo\/id1707765762?uo=2"
-        },
-        {
-            "rank": 137,
-            "apple_id": "1745316992",
-            "name": "负一楼",
-            "artist": "负一楼_班尼",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/36\/39\/b8\/3639b855-5e02-94fb-54a2-9c9ca0894e75\/mza_7640310764930646605.jpg\/170x170bb.png",
-            "genre": "True Crime",
-            "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/%E8%B4%9F%E4%B8%80%E6%A5%BC\/id1745316992?uo=2"
-        },
-        {
-            "rank": 138,
-            "apple_id": "1838774573",
-            "name": "DOMINO Di uniformi e vite tolte",
-            "artist": "Alessandro Valenti",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/db\/ee\/bb\/dbeebb64-5113-348a-cfd7-ce73689cbf38\/mza_11961674506801186743.jpg\/170x170bb.png",
-            "genre": "True Crime",
-            "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/domino-di-uniformi-e-vite-tolte\/id1838774573?uo=2"
-        },
-        {
-            "rank": 139,
-            "apple_id": "1364665348",
-            "name": "The Expert Witness from Uncover",
-            "artist": "CBC",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/13\/3a\/c3\/133ac395-0741-73b6-0929-b660648fa7c7\/mza_16067063217184027757.jpg\/170x170bb.png",
-            "genre": "True Crime",
-            "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/the-expert-witness-from-uncover\/id1364665348?uo=2"
-        },
-        {
-            "rank": 140,
-            "apple_id": "1668626930",
-            "name": "霓达播客",
-            "artist": "霓达播台NidaMedia",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts126\/v4\/31\/20\/de\/3120de83-d957-83de-8224-092c98de7189\/mza_18215723817537101746.png\/170x170bb.png",
-            "genre": "True Crime",
-            "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/%E9%9C%93%E8%BE%BE%E6%92%AD%E5%AE%A2\/id1668626930?uo=2"
-        },
-        {
-            "rank": 141,
-            "apple_id": "1718537589",
-            "name": "Il Rosa e Il Nero",
-            "artist": "La Gazzetta Dello Sport",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/af\/8b\/1d\/af8b1de9-6ab7-7296-a142-2a3ba7304045\/mza_5457148849153103888.jpeg\/170x170bb.png",
-            "genre": "True Crime",
-            "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/il-rosa-e-il-nero\/id1718537589?uo=2"
-        },
-        {
-            "rank": 142,
-            "apple_id": "1799597269",
-            "name": "Come Il Crimine Podcast",
-            "artist": "Pierpaolo Episcopo - Lucrezia Carnevale",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/e3\/5b\/e5\/e35be502-8ba0-c759-837f-3f4593dc55e8\/mza_9264830117840171213.jpg\/170x170bb.png",
-            "genre": "True Crime",
-            "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/come-il-crimine-podcast\/id1799597269?uo=2"
-        },
-        {
-            "rank": 143,
-            "apple_id": "1539343828",
-            "name": "British Murders with Stuart Blues",
-            "artist": "Stuart Blues",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/be\/03\/11\/be031173-b48c-9b32-5943-559143348793\/mza_15661434579759229870.jpeg\/170x170bb.png",
-            "genre": "True Crime",
-            "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/british-murders-with-stuart-blues\/id1539343828?uo=2"
-        },
-        {
-            "rank": 144,
-            "apple_id": "1144137857",
-            "name": "Court Junkie",
-            "artist": "PodcastOne",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/e8\/70\/bc\/e870bc43-f38c-93af-fbe3-2d8f4f5d6eca\/mza_12106334235278312442.jpeg\/170x170bb.png",
-            "genre": "True Crime",
-            "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/court-junkie\/id1144137857?uo=2"
-        },
-        {
-            "rank": 145,
-            "apple_id": "1769673691",
-            "name": "Vinnie Politan Investigates Podcast",
-            "artist": "Court TV",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/ca\/ac\/cc\/caaccca5-f284-ddbd-3b3e-b2f5700028a8\/mza_3402213696419064527.jpg\/170x170bb.png",
-            "genre": "True Crime",
-            "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/vinnie-politan-investigates-podcast\/id1769673691?uo=2"
-        },
-        {
-            "rank": 146,
-            "apple_id": "1547724473",
-            "name": "Marylin Chignet - True Crime",
-            "artist": "Marylin Chignet - TRUE CRIME",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts112\/v4\/7d\/e0\/87\/7de087ef-278f-734c-a1d3-554ac80a528c\/mza_1485320327552238834.jpg\/170x170bb.png",
-            "genre": "True Crime",
-            "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/marylin-chignet-true-crime\/id1547724473?uo=2"
-        },
-        {
-            "rank": 147,
-            "apple_id": "1438924421",
-            "name": "What Is Happening Here | Canadaland Investigates",
-            "artist": "Canadaland",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/aa\/33\/d0\/aa33d0f0-78ee-e774-e371-65a74879cdaf\/mza_6054482551654014222.jpeg\/170x170bb.png",
-            "genre": "True Crime",
-            "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/what-is-happening-here-canadaland-investigates\/id1438924421?uo=2"
-        },
-        {
-            "rank": 148,
-            "apple_id": "1591791650",
-            "name": "Черничный подкаст",
-            "artist": "Маруся Черничкина",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts122\/v4\/ab\/eb\/6c\/abeb6ca4-6fdf-1b57-6533-dafc4ee6adf1\/mza_3335192835838913417.png\/170x170bb.png",
-            "genre": "True Crime",
-            "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/%D1%87%D0%B5%D1%80%D0%BD%D0%B8%D1%87%D0%BD%D1%8B%D0%B9-%D0%BF%D0%BE%D0%B4%D0%BA%D0%B0%D1%81%D1%82\/id1591791650?uo=2"
-        },
-        {
-            "rank": 149,
-            "apple_id": "1379959217",
-            "name": "Morbid",
-            "artist": "Ash Kelley & Alaina Urquhart",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/a4\/69\/a6\/a469a64c-580d-938a-53f1-893d968e1332\/mza_11675757052043432554.jpg\/170x170bb.png",
-            "genre": "True Crime",
-            "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/morbid\/id1379959217?uo=2"
-        },
-        {
-            "rank": 150,
-            "apple_id": "1708574614",
-            "name": "Der Untergang der Sea Story",
-            "artist": "Stern \/ RTL+",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/d3\/3e\/ca\/d33eca4c-b092-b99e-c86a-d99c35609f22\/mza_16428971754813925689.jpg\/170x170bb.png",
-            "genre": "True Crime",
-            "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/der-untergang-der-sea-story\/id1708574614?uo=2"
-        },
-        {
-            "rank": 151,
-            "apple_id": "987967575",
-            "name": "20\/20",
-            "artist": "ABC News",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/81\/6c\/5d\/816c5d57-7c3f-3df9-1557-08e17469dfe4\/mza_1433648970787567135.jpg\/170x170bb.png",
-            "genre": "True Crime",
-            "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/20-20\/id987967575?uo=2"
-        },
-        {
-            "rank": 152,
-            "apple_id": "1509806160",
-            "name": "Café Crime e Chocolate",
-            "artist": "Tatiana Daignault - Crimes e Mistérios Brasil",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts126\/v4\/1e\/4a\/84\/1e4a8414-8e6a-de41-8354-e9216417117d\/mza_10212827255873926630.jpeg\/170x170bb.png",
-            "genre": "True Crime",
-            "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/caf%C3%A9-crime-e-chocolate\/id1509806160?uo=2"
-        },
-        {
-            "rank": 153,
-            "apple_id": "1710726263",
-            "name": "Enquêtes criminelles",
-            "artist": "RTL",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts116\/v4\/71\/0d\/ee\/710dee32-38a2-67ef-2013-ddd5e125ece6\/mza_2228807721967325244.jpg\/170x170bb.png",
-            "genre": "True Crime",
-            "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/enqu%C3%AAtes-criminelles\/id1710726263?uo=2"
-        },
-        {
-            "rank": 154,
-            "apple_id": "1770731694",
-            "name": "重重电波",
-            "artist": "小烘、王王",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/0a\/32\/d1\/0a32d1fa-1069-2ef2-79c0-700f6fb3bae1\/mza_1910500795813289961.jpeg\/170x170bb.png",
-            "genre": "True Crime",
-            "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/%E9%87%8D%E9%87%8D%E7%94%B5%E6%B3%A2\/id1770731694?uo=2"
-        },
-        {
-            "rank": 155,
-            "apple_id": "1792283951",
-            "name": "Clues with Morgan Absher and Kaelyn Moore",
-            "artist": "Crime House",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/1f\/ea\/43\/1fea43be-24c7-482a-db14-80f2cb88cbb8\/mza_8015836366008022683.jpeg\/170x170bb.png",
-            "genre": "True Crime",
-            "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/clues-with-morgan-absher-and-kaelyn-moore\/id1792283951?uo=2"
-        },
-        {
-            "rank": 156,
-            "apple_id": "1480270157",
-            "name": "Hunting the Suicide Salesman",
-            "artist": "CBC",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/e5\/f0\/16\/e5f016a6-7ac6-e9c3-0b8b-9b7550003a58\/mza_292765647511162307.jpg\/170x170bb.png",
-            "genre": "True Crime",
-            "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/hunting-the-suicide-salesman\/id1480270157?uo=2"
-        },
-        {
-            "rank": 157,
-            "apple_id": "1667153362",
-            "name": "The Campfire",
-            "artist": "Storie vere di crimini per la buonanotte",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts123\/v4\/68\/ad\/29\/68ad2952-402b-b3f5-9b59-a3b13baf0b2c\/mza_9635618696031437328.jpg\/170x170bb.png",
-            "genre": "True Crime",
-            "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/the-campfire\/id1667153362?uo=2"
-        },
-        {
-            "rank": 158,
-            "apple_id": "1885854144",
-            "name": "Quel corpo non è il mio",
-            "artist": "Camilla Ferrario - Chora Media",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/d8\/fd\/58\/d8fd583d-4ade-7aec-aa5d-a0be6a23a41c\/mza_7501607099996312878.png\/170x170bb.png",
-            "genre": "True Crime",
-            "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/quel-corpo-non-%C3%A8-il-mio\/id1885854144?uo=2"
-        },
-        {
-            "rank": 159,
+            "rank": 59,
             "apple_id": "1753896976",
             "name": "Brutte Storie",
             "artist": "Clara Campi",
@@ -1598,57 +598,47 @@
             "url": "https:\/\/podcasts.apple.com\/it\/podcast\/brutte-storie\/id1753896976?uo=2"
         },
         {
-            "rank": 160,
-            "apple_id": "1546899313",
-            "name": "Home(icides)",
-            "artist": "Bababam",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/d4\/f7\/8f\/d4f78f3a-79af-942f-6ae6-ad3a97a4db65\/mza_8586543808612477832.jpeg\/170x170bb.png",
+            "rank": 60,
+            "apple_id": "1835851658",
+            "name": "Sottovoce - Storie criminali",
+            "artist": "Fabio Mammarella",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/56\/00\/4a\/56004a82-9349-c6ed-648c-7280484d76ed\/mza_5213835238782100545.jpg\/170x170bb.png",
             "genre": "True Crime",
             "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/home-icides\/id1546899313?uo=2"
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/sottovoce-storie-criminali\/id1835851658?uo=2"
         },
         {
-            "rank": 161,
-            "apple_id": "1353728357",
-            "name": "Let's Go To Court!",
-            "artist": "Let's Go To Court!",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/44\/2a\/16\/442a166d-67c4-9824-8627-f44800d2f5b7\/mza_13520276847421188542.jpg\/170x170bb.png",
+            "rank": 61,
+            "apple_id": "1743737971",
+            "name": "Misteri Senza Tempo",
+            "artist": "Streammo",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/7e\/fb\/16\/7efb16da-4e7c-a6fd-756c-babfc2adb81b\/mza_7243143103712039032.png\/170x170bb.png",
             "genre": "True Crime",
             "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/lets-go-to-court\/id1353728357?uo=2"
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/misteri-senza-tempo\/id1743737971?uo=2"
         },
         {
-            "rank": 162,
-            "apple_id": "1816039678",
-            "name": "Delitto di Garlasco: domande e risposte",
-            "artist": "Sky TG24",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/b9\/a7\/56\/b9a75615-6a10-84bb-3815-b1a4c1d2faa5\/mza_6152646272903075933.jpg\/170x170bb.png",
+            "rank": 62,
+            "apple_id": "1450290783",
+            "name": "Storie di Tenebra",
+            "artist": "Michele D'Innella",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts116\/v4\/8c\/29\/41\/8c29412e-5aef-2cd3-b5a7-c636d03ffc5c\/mza_822064124426578624.jpg\/170x170bb.png",
             "genre": "True Crime",
             "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/delitto-di-garlasco-domande-e-risposte\/id1816039678?uo=2"
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/storie-di-tenebra\/id1450290783?uo=2"
         },
         {
-            "rank": 163,
-            "apple_id": "1546873523",
-            "name": "Looking For The Todt Family",
-            "artist": "The Day",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts126\/v4\/1f\/7b\/2e\/1f7b2e8d-a72a-f867-a591-66f9bb04605b\/mza_429339697286746186.jpeg\/170x170bb.png",
+            "rank": 63,
+            "apple_id": "1784969380",
+            "name": "Un PodCast in Pretura - Dentro i Processi True Crime",
+            "artist": "Un PodCast in Pretura",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/5b\/1f\/dc\/5b1fdc6b-2d95-d0bc-fcb2-53d5a90d9043\/mza_6873884398519325880.jpg\/170x170bb.png",
             "genre": "True Crime",
             "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/looking-for-the-todt-family\/id1546873523?uo=2"
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/un-podcast-in-pretura-dentro-i-processi-true-crime\/id1784969380?uo=2"
         },
         {
-            "rank": 164,
-            "apple_id": "1777411513",
-            "name": "Ombre Su Torino",
-            "artist": "Ombre Su Torino",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/a1\/05\/ed\/a105ed98-a9f6-124a-2a46-1425d35ce4c3\/mza_14671854735174715694.jpg\/170x170bb.png",
-            "genre": "True Crime",
-            "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/ombre-su-torino\/id1777411513?uo=2"
-        },
-        {
-            "rank": 165,
+            "rank": 64,
             "apple_id": "1386640017",
             "name": "Unravel",
             "artist": "ABC Australia",
@@ -1658,37 +648,77 @@
             "url": "https:\/\/podcasts.apple.com\/it\/podcast\/unravel\/id1386640017?uo=2"
         },
         {
-            "rank": 166,
-            "apple_id": "1889903800",
-            "name": "Giada Crime – Il Podcast",
-            "artist": "Giada Severini",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/0e\/8e\/3c\/0e8e3cfb-f3be-7f30-ce8e-db6bbdbac326\/mza_13044938681706443723.jpeg\/170x170bb.png",
+            "rank": 65,
+            "apple_id": "1486608425",
+            "name": "MORD AUF EX",
+            "artist": "Leonie Bartsch & Linn Schütze",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/b9\/17\/07\/b91707ba-b4bf-2021-bafe-b4dd1e1f0196\/mza_6370841172422755338.jpg\/170x170bb.png",
             "genre": "True Crime",
             "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/giada-crime-il-podcast\/id1889903800?uo=2"
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/mord-auf-ex\/id1486608425?uo=2"
         },
         {
-            "rank": 167,
-            "apple_id": "1413425371",
-            "name": "Mordlust",
-            "artist": "Paulina Krasa & Laura Wohlers",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/33\/fd\/32\/33fd32f2-d7ab-c1c8-07d8-e9453cfb960a\/mza_15001598499224287928.jpg\/170x170bb.png",
+            "rank": 66,
+            "apple_id": "1843066616",
+            "name": "Il Mostro di Firenze",
+            "artist": "OnePodcast",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/0f\/c3\/8c\/0fc38c3f-9b29-75f3-8522-0cf3f2420c3f\/mza_8892875752044567197.jpg\/170x170bb.png",
             "genre": "True Crime",
             "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/mordlust\/id1413425371?uo=2"
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/il-mostro-di-firenze\/id1843066616?uo=2"
         },
         {
-            "rank": 168,
-            "apple_id": "1539713306",
-            "name": "Irrisolti. I misteri del crimine",
-            "artist": "Francesca Zanni",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts126\/v4\/fe\/1e\/56\/fe1e56fb-3fcb-14df-1897-9e8872726dc5\/mza_8920621194737514331.jpg\/170x170bb.png",
+            "rank": 67,
+            "apple_id": "1768118905",
+            "name": "Salutava Sempre",
+            "artist": "Vee Tridente, Luca Semeraro",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/7b\/8d\/44\/7b8d4434-3c8e-ff5e-04ea-d6af8250de52\/mza_1238552326606531099.jpeg\/170x170bb.png",
             "genre": "True Crime",
             "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/irrisolti-i-misteri-del-crimine\/id1539713306?uo=2"
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/salutava-sempre\/id1768118905?uo=2"
         },
         {
-            "rank": 169,
+            "rank": 68,
+            "apple_id": "1708574614",
+            "name": "Der Untergang der Sea Story",
+            "artist": "Stern \/ RTL+",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/d3\/3e\/ca\/d33eca4c-b092-b99e-c86a-d99c35609f22\/mza_16428971754813925689.jpg\/170x170bb.png",
+            "genre": "True Crime",
+            "genre_id": "1488",
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/der-untergang-der-sea-story\/id1708574614?uo=2"
+        },
+        {
+            "rank": 69,
+            "apple_id": "389542173",
+            "name": "L'Heure Du Crime",
+            "artist": "RTL",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/06\/93\/a2\/0693a211-5cef-a5ce-c788-e3e897964785\/mza_9139408145449524526.jpg\/170x170bb.png",
+            "genre": "True Crime",
+            "genre_id": "1488",
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/lheure-du-crime\/id389542173?uo=2"
+        },
+        {
+            "rank": 70,
+            "apple_id": "1703146924",
+            "name": "The Pirate of Prague",
+            "artist": "Apple TV \/ Blanchard House",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts126\/v4\/76\/ee\/7f\/76ee7f45-aaba-ae8a-dad6-b7f7255df9e7\/mza_11285298976939853362.jpeg\/170x170bb.png",
+            "genre": "True Crime",
+            "genre_id": "1488",
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/the-pirate-of-prague\/id1703146924?uo=2"
+        },
+        {
+            "rank": 71,
+            "apple_id": "1607655648",
+            "name": "True Crime & Mistery",
+            "artist": "Lo Strano Canale - True Crime",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/e8\/2e\/03\/e82e0368-a575-65ac-3b59-a6a847873ed4\/mza_7698886689424744517.jpg\/170x170bb.png",
+            "genre": "True Crime",
+            "genre_id": "1488",
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/true-crime-mistery\/id1607655648?uo=2"
+        },
+        {
+            "rank": 72,
             "apple_id": "1874641982",
             "name": "Bridge of Lies",
             "artist": "ABC News",
@@ -1698,127 +728,147 @@
             "url": "https:\/\/podcasts.apple.com\/it\/podcast\/bridge-of-lies\/id1874641982?uo=2"
         },
         {
-            "rank": 170,
-            "apple_id": "1525807626",
-            "name": "The Binge Cases: U R NEXT",
-            "artist": "Sony Music Entertainment",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/31\/b8\/0e\/31b80eca-fb03-d7e5-c384-80627d8a8e55\/mza_17631010085641476666.jpeg\/170x170bb.png",
+            "rank": 73,
+            "apple_id": "1561990291",
+            "name": "Cyber Hack",
+            "artist": "BBC World Service",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/85\/18\/03\/851803af-e015-c35d-e77c-3ec889364861\/mza_16107265052880572776.jpg\/170x170bb.png",
             "genre": "True Crime",
             "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/the-binge-cases-u-r-next\/id1525807626?uo=2"
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/cyber-hack\/id1561990291?uo=2"
         },
         {
-            "rank": 171,
-            "apple_id": "1587763116",
-            "name": "Body Bags with Joseph Scott Morgan",
-            "artist": "CrimeOnline and iHeartPodcasts",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts126\/v4\/07\/fa\/82\/07fa82ef-7be4-49f1-fdcb-d012b172bb14\/mza_10355413436532206772.jpg\/170x170bb.png",
+            "rank": 74,
+            "apple_id": "1628600912",
+            "name": "Casos Forenses",
+            "artist": "Tribunal de Justiça São Paulo",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts122\/v4\/1f\/de\/32\/1fde32e9-e0fb-8a51-f8ac-a5aa16b69b86\/mza_1229519872382548397.jpg\/170x170bb.png",
             "genre": "True Crime",
             "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/body-bags-with-joseph-scott-morgan\/id1587763116?uo=2"
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/casos-forenses\/id1628600912?uo=2"
         },
         {
-            "rank": 172,
-            "apple_id": "1423306695",
-            "name": "Bear Brook",
-            "artist": "NHPR",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/a5\/fe\/98\/a5fe9817-5b2d-aad9-46f6-fb130a2a4570\/mza_6952306081654209574.jpg\/170x170bb.png",
+            "rank": 75,
+            "apple_id": "1466674804",
+            "name": "Dunkle Spuren",
+            "artist": "KURIER True Crime Podcast",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/18\/79\/61\/187961f2-2776-6e6d-f566-836265915e6e\/mza_17050473353754780421.jpeg\/170x170bb.png",
             "genre": "True Crime",
             "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/bear-brook\/id1423306695?uo=2"
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/dunkle-spuren\/id1466674804?uo=2"
         },
         {
-            "rank": 173,
-            "apple_id": "1775202581",
-            "name": "PLOT HOUSE",
-            "artist": "Lottie & Studio Bummens",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/97\/b3\/01\/97b30174-1e39-640c-a30a-4b529c668431\/mza_14145830276899952355.jpg\/170x170bb.png",
+            "rank": 76,
+            "apple_id": "1643974551",
+            "name": "Bone Valley",
+            "artist": "Lava for Good Podcasts",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/aa\/72\/2f\/aa722ff2-7e96-dfbd-fd98-d23d36d035b3\/mza_9383434172737455327.jpg\/170x170bb.png",
             "genre": "True Crime",
             "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/plot-house\/id1775202581?uo=2"
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/bone-valley\/id1643974551?uo=2"
         },
         {
-            "rank": 174,
-            "apple_id": "1736465347",
-            "name": "Pestaggio di Stato",
-            "artist": "OnePodcast",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts122\/v4\/d0\/6b\/67\/d06b6782-69cd-2fcb-75c0-72c00e9a7b29\/mza_6499264107964637816.jpg\/170x170bb.png",
+            "rank": 77,
+            "apple_id": "1802157212",
+            "name": "Sette",
+            "artist": "Chiara Penna",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/5c\/38\/b4\/5c38b4bb-051d-7f50-b5e6-276e09abe231\/mza_11455798318206291672.jpg\/170x170bb.png",
             "genre": "True Crime",
             "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/pestaggio-di-stato\/id1736465347?uo=2"
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/sette\/id1802157212?uo=2"
         },
         {
-            "rank": 175,
-            "apple_id": "1777825094",
-            "name": "Scandali",
-            "artist": "BOATS",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/de\/f1\/b7\/def1b780-8f5c-8c1c-6696-a94d58a661e2\/mza_9712040737125109276.png\/170x170bb.png",
+            "rank": 78,
+            "apple_id": "1714394532",
+            "name": "鲶鱼夜话",
+            "artist": "鲶鱼夜话",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts116\/v4\/18\/98\/4d\/18984d11-31fc-8d4c-3d7b-58630ba5ede8\/mza_18124726160908731226.jpeg\/170x170bb.png",
             "genre": "True Crime",
             "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/scandali\/id1777825094?uo=2"
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/%E9%B2%B6%E9%B1%BC%E5%A4%9C%E8%AF%9D\/id1714394532?uo=2"
         },
         {
-            "rank": 176,
-            "apple_id": "990753230",
-            "name": "Truth & Justice with Bob Ruff",
-            "artist": "NBI Studios",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/9c\/ba\/49\/9cba4990-e6f5-8762-3089-e29c781627cb\/mza_2542859268457037768.jpg\/170x170bb.png",
+            "rank": 79,
+            "apple_id": "1896858485",
+            "name": "The Snare",
+            "artist": "ABC News",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/0a\/7b\/1e\/0a7b1e0e-56d7-9f22-c1d2-2be83d2fc9f3\/mza_4354592459969619696.jpg\/170x170bb.png",
             "genre": "True Crime",
             "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/truth-justice-with-bob-ruff\/id990753230?uo=2"
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/the-snare\/id1896858485?uo=2"
         },
         {
-            "rank": 177,
-            "apple_id": "1146402624",
-            "name": "Hondelatte Raconte",
-            "artist": "Europe 1",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/9e\/3a\/52\/9e3a52e1-31e2-7616-6329-1c376e9243da\/mza_137985806042307432.jpg\/170x170bb.png",
+            "rank": 80,
+            "apple_id": "1684598888",
+            "name": "Ottocento oscuro",
+            "artist": "Ottocento oscuro",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/ad\/cf\/72\/adcf7217-b861-a631-1185-ebf784d86d94\/mza_6324147293252492684.jpg\/170x170bb.png",
             "genre": "True Crime",
             "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/hondelatte-raconte\/id1146402624?uo=2"
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/ottocento-oscuro\/id1684598888?uo=2"
         },
         {
-            "rank": 178,
-            "apple_id": "1799759174",
-            "name": "The Knife: A True Crime Podcast",
-            "artist": "Exactly Right and iHeartPodcasts",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/92\/6a\/72\/926a72c2-5aae-9a62-4f35-1b28aa2afe9b\/mza_12328798354632854529.jpg\/170x170bb.png",
+            "rank": 81,
+            "apple_id": "1896834497",
+            "name": "Five Miles From Home",
+            "artist": "NBC News",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/5f\/26\/79\/5f267967-ef75-63dc-6958-59004d144c16\/mza_3103516722400828111.jpg\/170x170bb.png",
             "genre": "True Crime",
             "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/the-knife-a-true-crime-podcast\/id1799759174?uo=2"
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/five-miles-from-home\/id1896834497?uo=2"
         },
         {
-            "rank": 179,
-            "apple_id": "1840856418",
-            "name": "Out from the Cold: Searching for Elaine",
-            "artist": "Happy Tuesday Productions",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/6c\/0d\/3f\/6c0d3f33-e1da-363a-c890-ed7c4abee328\/mza_11351168786774994788.jpg\/170x170bb.png",
+            "rank": 82,
+            "apple_id": "1643026434",
+            "name": "Rumore. Il caso di Federico Aldrovandi",
+            "artist": "Francesca Zanni",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts122\/v4\/41\/d3\/e0\/41d3e098-f816-e592-91b9-ff26e5080c4a\/mza_6915035530208562463.jpg\/170x170bb.png",
             "genre": "True Crime",
             "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/out-from-the-cold-searching-for-elaine\/id1840856418?uo=2"
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/rumore-il-caso-di-federico-aldrovandi\/id1643026434?uo=2"
         },
         {
-            "rank": 180,
-            "apple_id": "1597948413",
-            "name": "Tracce",
-            "artist": "Il Messaggero",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts116\/v4\/7e\/a8\/8e\/7ea88e67-1b00-9b05-6bc6-d4a6f5198711\/mza_12144940802521546593.jpg\/170x170bb.png",
+            "rank": 83,
+            "apple_id": "1322200189",
+            "name": "Crime Junkie",
+            "artist": "Audiochuck",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts126\/v4\/8c\/35\/04\/8c350430-2fbf-98d0-0a25-00b76550ffeb\/mza_13445204151221888086.jpg\/170x170bb.png",
             "genre": "True Crime",
             "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/tracce\/id1597948413?uo=2"
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/crime-junkie\/id1322200189?uo=2"
         },
         {
-            "rank": 181,
-            "apple_id": "1631886137",
-            "name": "Faites entrer l'accusé",
-            "artist": "RMC Crime",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/20\/5e\/1a\/205e1a8a-c4c3-449c-c70b-621869ccb907\/mza_14112288925394124836.jpg\/170x170bb.png",
+            "rank": 84,
+            "apple_id": "1710102706",
+            "name": "18 secondi. La strage di Linate",
+            "artist": "Corriere della Sera_Produzione",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/87\/c7\/bf\/87c7bf67-ee29-b212-5c67-6185b2a1ead1\/mza_3487319440710232727.jpg\/170x170bb.png",
             "genre": "True Crime",
             "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/faites-entrer-laccus%C3%A9\/id1631886137?uo=2"
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/18-secondi-la-strage-di-linate\/id1710102706?uo=2"
         },
         {
-            "rank": 182,
+            "rank": 85,
+            "apple_id": "1449500734",
+            "name": "The Dropout",
+            "artist": "ABC News",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/a1\/04\/b0\/a104b063-9af6-11ce-5d26-b09dd2240a43\/mza_5346619928485267768.jpg\/170x170bb.png",
+            "genre": "True Crime",
+            "genre_id": "1488",
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/the-dropout\/id1449500734?uo=2"
+        },
+        {
+            "rank": 86,
+            "apple_id": "1324249769",
+            "name": "Atlanta Monster",
+            "artist": "iHeartPodcasts and Tenderfoot TV",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/46\/2a\/e1\/462ae1fc-7883-9448-ba87-b91cc56c8f7e\/mza_15719246178230166495.jpg\/170x170bb.png",
+            "genre": "True Crime",
+            "genre_id": "1488",
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/atlanta-monster\/id1324249769?uo=2"
+        },
+        {
+            "rank": 87,
             "apple_id": "1870583364",
             "name": "Non succede mai niente",
             "artist": "Diego Correnti",
@@ -1828,37 +878,257 @@
             "url": "https:\/\/podcasts.apple.com\/it\/podcast\/non-succede-mai-niente\/id1870583364?uo=2"
         },
         {
-            "rank": 183,
-            "apple_id": "1564051059",
-            "name": "Scary Monster - True-crime Podcast",
-            "artist": "Antonello Sale",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/d6\/73\/c1\/d673c18d-36f8-ddef-118b-3d9f419eb994\/mza_12592749562676509579.jpg\/170x170bb.png",
+            "rank": 88,
+            "apple_id": "1480263708",
+            "name": "Your Own Backyard",
+            "artist": "Chris Lambert",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/90\/24\/36\/90243638-a0ce-1268-2c4e-c34761253812\/mza_17261943949558976257.jpg\/170x170bb.png",
             "genre": "True Crime",
             "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/scary-monster-true-crime-podcast\/id1564051059?uo=2"
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/your-own-backyard\/id1480263708?uo=2"
         },
         {
-            "rank": 184,
-            "apple_id": "1819001651",
-            "name": "Il pietrificatore di morti. La storia di Efisio Marini",
-            "artist": "Manuela - Hypercast",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/02\/f0\/3f\/02f03fdf-e4b7-a1e4-4eec-2387714cd732\/mza_15174479451925202707.jpg\/170x170bb.png",
+            "rank": 89,
+            "apple_id": "1689775943",
+            "name": "Le Bestie di Satana, 25 anni dopo",
+            "artist": "Francesco Paolo Esposito",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/f7\/f0\/4c\/f7f04c67-828b-cb61-8be2-85c91b344f55\/mza_6366047095558560410.jpg\/170x170bb.png",
             "genre": "True Crime",
             "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/il-pietrificatore-di-morti-la-storia-di-efisio-marini\/id1819001651?uo=2"
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/le-bestie-di-satana-25-anni-dopo\/id1689775943?uo=2"
         },
         {
-            "rank": 185,
-            "apple_id": "1081244497",
-            "name": "Real Crime Profile",
-            "artist": "Real Crime Profile \/ Wondery",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts113\/v4\/ae\/05\/89\/ae058968-8d14-e44f-1107-adfb79057e40\/mza_3149060387677514283.jpeg\/170x170bb.png",
+            "rank": 90,
+            "apple_id": "1620155570",
+            "name": "Lady Killers with Lucy Worsley",
+            "artist": "BBC Radio 4",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/6f\/b8\/77\/6fb877c2-1d87-a7e1-3c4a-b661e5049f57\/mza_1164710275762676024.jpg\/170x170bb.png",
             "genre": "True Crime",
             "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/real-crime-profile\/id1081244497?uo=2"
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/lady-killers-with-lucy-worsley\/id1620155570?uo=2"
         },
         {
-            "rank": 186,
+            "rank": 91,
+            "apple_id": "1694942743",
+            "name": "Shalom - Le terapeute di Cristo",
+            "artist": "Fanpage.it",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/11\/f3\/1d\/11f31dd9-e2ac-0d62-98ba-54fdb50928b5\/mza_5986928720799657641.jpeg\/170x170bb.png",
+            "genre": "True Crime",
+            "genre_id": "1488",
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/shalom-le-terapeute-di-cristo\/id1694942743?uo=2"
+        },
+        {
+            "rank": 92,
+            "apple_id": "1543025626",
+            "name": "Macht und Millionen – Echte Wirtschaftskrimis",
+            "artist": "Business Insider",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/5d\/31\/85\/5d31858a-256d-dd5a-a6ff-1fca6963dab6\/mza_9493300082242718581.jpeg\/170x170bb.png",
+            "genre": "True Crime",
+            "genre_id": "1488",
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/macht-und-millionen-echte-wirtschaftskrimis\/id1543025626?uo=2"
+        },
+        {
+            "rank": 93,
+            "apple_id": "1803614551",
+            "name": "Operazione Betulla, la mafia al Nord non esiste",
+            "artist": "Arianna Giannini Tomà - Podstar Original",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/c0\/63\/da\/c063dafd-1f6f-3a0e-067e-759c74a0de5c\/mza_10117512250075400948.jpg\/170x170bb.png",
+            "genre": "True Crime",
+            "genre_id": "1488",
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/operazione-betulla-la-mafia-al-nord-non-esiste\/id1803614551?uo=2"
+        },
+        {
+            "rank": 94,
+            "apple_id": "1540069464",
+            "name": "Crime World",
+            "artist": "Crime World",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/38\/5d\/4c\/385d4ccb-03ee-7601-2c03-0c3a32a9383e\/mza_5005829771005827067.jpeg\/170x170bb.png",
+            "genre": "True Crime",
+            "genre_id": "1488",
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/crime-world\/id1540069464?uo=2"
+        },
+        {
+            "rank": 95,
+            "apple_id": "1760774993",
+            "name": "Crimini e Criminologia",
+            "artist": "Cusano Italia TV",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/78\/87\/21\/788721c0-1dcc-49f1-b423-950d8d0b75cf\/mza_15484731596585781253.jpeg\/170x170bb.png",
+            "genre": "True Crime",
+            "genre_id": "1488",
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/crimini-e-criminologia\/id1760774993?uo=2"
+        },
+        {
+            "rank": 96,
+            "apple_id": "1527561201",
+            "name": "Cover",
+            "artist": "BBC Radio 5 Live",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/21\/32\/9a\/21329a08-33fe-11d4-50bb-50174189219d\/mza_9496440112668872052.jpg\/170x170bb.png",
+            "genre": "True Crime",
+            "genre_id": "1488",
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/cover\/id1527561201?uo=2"
+        },
+        {
+            "rank": 97,
+            "apple_id": "1722089008",
+            "name": "June: Voice of a Silent Twin",
+            "artist": "BBC Radio Wales",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts126\/v4\/22\/7b\/87\/227b87a6-5b75-81ed-a26c-e17f13ece4be\/mza_2665904623829041114.jpg\/170x170bb.png",
+            "genre": "True Crime",
+            "genre_id": "1488",
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/june-voice-of-a-silent-twin\/id1722089008?uo=2"
+        },
+        {
+            "rank": 98,
+            "apple_id": "1825557190",
+            "name": "Vite Private",
+            "artist": "Simona De Giuseppe e Laura Marinaro",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/86\/83\/0e\/86830e1b-44fe-e12b-915d-1cbee7e8367d\/mza_6779641713537928634.jpg\/170x170bb.png",
+            "genre": "True Crime",
+            "genre_id": "1488",
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/vite-private\/id1825557190?uo=2"
+        },
+        {
+            "rank": 99,
+            "apple_id": "1793922492",
+            "name": "Ombre Sul Lavoro - Lezioni imparate e mancate dai grandi incidenti",
+            "artist": "May HSE",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/99\/ac\/c2\/99acc2b4-0505-6551-e137-e0d256823da0\/mza_5631101310863023379.jpg\/170x170bb.png",
+            "genre": "True Crime",
+            "genre_id": "1488",
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/ombre-sul-lavoro-lezioni-imparate-e-mancate-dai-grandi\/id1793922492?uo=2"
+        },
+        {
+            "rank": 100,
+            "apple_id": "1524768655",
+            "name": "Bad People",
+            "artist": "BBC Radio 5 Live",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/41\/a2\/7f\/41a27faa-ae7b-c3d1-9b1b-188394c0385c\/mza_1301340807843619010.jpg\/170x170bb.png",
+            "genre": "True Crime",
+            "genre_id": "1488",
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/bad-people\/id1524768655?uo=2"
+        },
+        {
+            "rank": 101,
+            "apple_id": "1517651197",
+            "name": "Park Predators",
+            "artist": "Audiochuck",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/eb\/95\/39\/eb9539bf-2d25-8928-9274-11f1d3364e98\/mza_9186932073749396122.jpg\/170x170bb.png",
+            "genre": "True Crime",
+            "genre_id": "1488",
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/park-predators\/id1517651197?uo=2"
+        },
+        {
+            "rank": 102,
+            "apple_id": "1450277129",
+            "name": "Root of Evil: The True Story of the Hodel Family and the Black Dahlia",
+            "artist": "TNT \/ Cadence13",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/b2\/c1\/7a\/b2c17a72-cb70-0b58-1c92-07a25524714d\/mza_9223420168743887948.jpg\/170x170bb.png",
+            "genre": "True Crime",
+            "genre_id": "1488",
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/root-of-evil-the-true-story-of-the\/id1450277129?uo=2"
+        },
+        {
+            "rank": 103,
+            "apple_id": "1374777077",
+            "name": "Verbrechen",
+            "artist": "DIE ZEIT",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/be\/22\/24\/be2224ef-7d33-ad2a-a466-0cad62b4dcd3\/mza_1379870103000080830.jpg\/170x170bb.png",
+            "genre": "True Crime",
+            "genre_id": "1488",
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/verbrechen\/id1374777077?uo=2"
+        },
+        {
+            "rank": 104,
+            "apple_id": "1710726263",
+            "name": "Enquêtes criminelles",
+            "artist": "RTL",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts116\/v4\/71\/0d\/ee\/710dee32-38a2-67ef-2013-ddd5e125ece6\/mza_2228807721967325244.jpg\/170x170bb.png",
+            "genre": "True Crime",
+            "genre_id": "1488",
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/enqu%C3%AAtes-criminelles\/id1710726263?uo=2"
+        },
+        {
+            "rank": 105,
+            "apple_id": "1896803199",
+            "name": "Foul Play",
+            "artist": "Audible | Gabriel Gatehouse",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/aa\/48\/aa\/aa48aa88-fbd2-235c-924c-30c4a8a98c06\/mza_14824163004884085013.jpeg\/170x170bb.png",
+            "genre": "True Crime",
+            "genre_id": "1488",
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/foul-play\/id1896803199?uo=2"
+        },
+        {
+            "rank": 106,
+            "apple_id": "1464919521",
+            "name": "Dateline NBC",
+            "artist": "NBC News",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts115\/v4\/8c\/00\/7a\/8c007a42-e550-0214-d4cb-b59cd7edf194\/mza_5305664083935674472.jpeg\/170x170bb.png",
+            "genre": "True Crime",
+            "genre_id": "1488",
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/dateline-nbc\/id1464919521?uo=2"
+        },
+        {
+            "rank": 107,
+            "apple_id": "1379959217",
+            "name": "Morbid",
+            "artist": "Ash Kelley & Alaina Urquhart",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/a4\/69\/a6\/a469a64c-580d-938a-53f1-893d968e1332\/mza_11675757052043432554.jpg\/170x170bb.png",
+            "genre": "True Crime",
+            "genre_id": "1488",
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/morbid\/id1379959217?uo=2"
+        },
+        {
+            "rank": 108,
+            "apple_id": "1778430542",
+            "name": "In famiglia",
+            "artist": "Il Post - Stefano Nazzi e Antonia Sorge",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/f2\/8a\/bd\/f28abded-de00-6ed1-8be3-a1e28cf6a40d\/mza_2194350519991067581.jpg\/170x170bb.png",
+            "genre": "True Crime",
+            "genre_id": "1488",
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/in-famiglia\/id1778430542?uo=2"
+        },
+        {
+            "rank": 109,
+            "apple_id": "1531922010",
+            "name": "Polvere",
+            "artist": "Chiara Lalli e Cecilia Sala",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/16\/b1\/46\/16b14632-383a-05e2-2ec7-38e16d1ed3d9\/mza_7314033760942455254.jpg\/170x170bb.png",
+            "genre": "True Crime",
+            "genre_id": "1488",
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/polvere\/id1531922010?uo=2"
+        },
+        {
+            "rank": 110,
+            "apple_id": "643369806",
+            "name": "Elena en El País de los Horrores",
+            "artist": "Elena Merino",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/81\/d0\/b8\/81d0b8a3-fc9b-d2ed-b197-d328d349a839\/mza_11803102564414298129.jpg\/170x170bb.png",
+            "genre": "True Crime",
+            "genre_id": "1488",
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/elena-en-el-pa%C3%ADs-de-los-horrores\/id643369806?uo=2"
+        },
+        {
+            "rank": 111,
+            "apple_id": "1896805398",
+            "name": "Nero come l'uranio",
+            "artist": "Lucio Altieri",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/3d\/f7\/e3\/3df7e322-9ea8-9e8b-6050-78aa4cf43b70\/mza_14491735118021520788.jpg\/170x170bb.png",
+            "genre": "True Crime",
+            "genre_id": "1488",
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/nero-come-luranio\/id1896805398?uo=2"
+        },
+        {
+            "rank": 112,
+            "apple_id": "1721330373",
+            "name": "Nella setta",
+            "artist": "Fandango Podcast",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/ac\/1e\/72\/ac1e72c9-f81e-f64c-5f53-e08c5b04553c\/mza_12081592003710558671.jpg\/170x170bb.png",
+            "genre": "True Crime",
+            "genre_id": "1488",
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/nella-setta\/id1721330373?uo=2"
+        },
+        {
+            "rank": 113,
             "apple_id": "1641319873",
             "name": "Criminal Archives",
             "artist": "Henry Cummins",
@@ -1868,97 +1138,447 @@
             "url": "https:\/\/podcasts.apple.com\/it\/podcast\/criminal-archives\/id1641319873?uo=2"
         },
         {
-            "rank": 187,
-            "apple_id": "1485636621",
-            "name": "Detective Trapp",
-            "artist": "Los Angeles Times | Wondery",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts113\/v4\/ce\/f8\/80\/cef88068-60a8-71ae-15d7-b5528357e070\/mza_5574220378963752804.jpeg\/170x170bb.png",
+            "rank": 114,
+            "apple_id": "1799597269",
+            "name": "Come Il Crimine Podcast",
+            "artist": "Pierpaolo Episcopo - Lucrezia Carnevale",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/e3\/5b\/e5\/e35be502-8ba0-c759-837f-3f4593dc55e8\/mza_9264830117840171213.jpg\/170x170bb.png",
             "genre": "True Crime",
             "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/detective-trapp\/id1485636621?uo=2"
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/come-il-crimine-podcast\/id1799597269?uo=2"
         },
         {
-            "rank": 188,
-            "apple_id": "1508098400",
-            "name": "Murder With My Husband",
-            "artist": "OH NO MEDIA",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/94\/1f\/fb\/941ffbcc-52f6-9278-5126-935462b77ed6\/mza_6340464045960938966.png\/170x170bb.png",
+            "rank": 115,
+            "apple_id": "541481026",
+            "name": "Generation Why: True Crime",
+            "artist": "Audible",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/39\/1c\/a5\/391ca518-c5e3-8d7d-82d0-bd81e7797991\/mza_18277870937113959359.jpeg\/170x170bb.png",
             "genre": "True Crime",
             "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/murder-with-my-husband\/id1508098400?uo=2"
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/generation-why-true-crime\/id541481026?uo=2"
         },
         {
-            "rank": 189,
-            "apple_id": "1877870463",
-            "name": "Amanda Knox Hosts | DOUBT: The Case of Lucy Letby",
+            "rank": 116,
+            "apple_id": "1580419124",
+            "name": "Historias de MundoCreepy",
+            "artist": "Sonoro | MundoCreepy",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/90\/aa\/e2\/90aae2dd-8300-8b5e-b3e8-4cf8bf793363\/mza_12845503470452645627.jpg\/170x170bb.png",
+            "genre": "True Crime",
+            "genre_id": "1488",
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/historias-de-mundocreepy\/id1580419124?uo=2"
+        },
+        {
+            "rank": 117,
+            "apple_id": "1777825094",
+            "name": "Scandali",
+            "artist": "BOATS",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/de\/f1\/b7\/def1b780-8f5c-8c1c-6696-a94d58a661e2\/mza_9712040737125109276.png\/170x170bb.png",
+            "genre": "True Crime",
+            "genre_id": "1488",
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/scandali\/id1777825094?uo=2"
+        },
+        {
+            "rank": 118,
+            "apple_id": "1609053292",
+            "name": "Nessuno - Il mostro di Firenze",
+            "artist": "CasoZero Media",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/c5\/70\/4a\/c5704ac7-221b-9ab2-38cc-167d5d82ab3d\/mza_18367737319190499571.jpg\/170x170bb.png",
+            "genre": "True Crime",
+            "genre_id": "1488",
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/nessuno-il-mostro-di-firenze\/id1609053292?uo=2"
+        },
+        {
+            "rank": 119,
+            "apple_id": "1745368960",
+            "name": "Fango - Storia di una Alluvione",
+            "artist": "Marco Cortesi, Mara Moschini & VOIS",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/a3\/2d\/98\/a32d98be-db03-d822-94e8-b201c545a5b9\/mza_2944115751723900333.jpg\/170x170bb.png",
+            "genre": "True Crime",
+            "genre_id": "1488",
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/fango-storia-di-una-alluvione\/id1745368960?uo=2"
+        },
+        {
+            "rank": 120,
+            "apple_id": "1593842944",
+            "name": "Les collections de l'heure du crime",
+            "artist": "RTL",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts116\/v4\/f1\/fa\/e8\/f1fae805-593a-18ca-6b70-02b6853e357c\/mza_14975720002720985897.jpg\/170x170bb.png",
+            "genre": "True Crime",
+            "genre_id": "1488",
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/les-collections-de-lheure-du-crime\/id1593842944?uo=2"
+        },
+        {
+            "rank": 121,
+            "apple_id": "1751988016",
+            "name": "True Crime with Rachel Shannon",
+            "artist": "Unknown",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/b0\/31\/3a\/b0313a68-1aac-d22c-afc2-ed408543177b\/mza_13803325831729424827.jpg\/170x170bb.png",
+            "genre": "True Crime",
+            "genre_id": "1488",
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/true-crime-with-rachel-shannon\/id1751988016?uo=2"
+        },
+        {
+            "rank": 122,
+            "apple_id": "1675097152",
+            "name": "Más Allá del Crimen",
+            "artist": "Más Allá del Crimen",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts116\/v4\/dd\/5f\/ff\/dd5fff89-944b-16b2-6a38-5c7d3bd81254\/mza_15525922181474221271.jpg\/170x170bb.png",
+            "genre": "True Crime",
+            "genre_id": "1488",
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/m%C3%A1s-all%C3%A1-del-crimen\/id1675097152?uo=2"
+        },
+        {
+            "rank": 123,
+            "apple_id": "1545769570",
+            "name": "Piazza Fontana e il Golpe Borghese",
+            "artist": "Ilcorsivosportivo.it",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/9c\/ee\/81\/9cee81f7-4f63-c42b-baef-b886736c2030\/mza_7495543077590379295.jpg\/170x170bb.png",
+            "genre": "True Crime",
+            "genre_id": "1488",
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/piazza-fontana-e-il-golpe-borghese\/id1545769570?uo=2"
+        },
+        {
+            "rank": 124,
+            "apple_id": "1896591290",
+            "name": "True Crime: Dissected",
+            "artist": "Like A Shot Entertainment",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/8a\/ee\/56\/8aee56f4-fc24-05bd-bdef-1a1baefc5167\/mza_6762966984418089551.jpeg\/170x170bb.png",
+            "genre": "True Crime",
+            "genre_id": "1488",
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/true-crime-dissected\/id1896591290?uo=2"
+        },
+        {
+            "rank": 125,
+            "apple_id": "1691599042",
+            "name": "The Retrievals",
+            "artist": "Serial Productions & The New York Times",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/06\/3d\/20\/063d20f7-ce05-785d-258b-5447572d52cf\/mza_9458984032882667830.jpg\/170x170bb.png",
+            "genre": "True Crime",
+            "genre_id": "1488",
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/the-retrievals\/id1691599042?uo=2"
+        },
+        {
+            "rank": 126,
+            "apple_id": "1896267437",
+            "name": "Kingdom of Fraud",
             "artist": "iHeartPodcasts",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/98\/ec\/48\/98ec4826-9f99-2277-f86b-35c5b053bda3\/mza_6836564502434766701.jpg\/170x170bb.png",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/99\/a1\/fb\/99a1fb97-5d77-b6d6-de9f-f10e41ff0b59\/mza_2022230094311770553.jpg\/170x170bb.png",
             "genre": "True Crime",
             "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/amanda-knox-hosts-doubt-the-case-of-lucy-letby\/id1877870463?uo=2"
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/kingdom-of-fraud\/id1896267437?uo=2"
         },
         {
-            "rank": 190,
-            "apple_id": "1597154260",
-            "name": "Giallo Quotidiano",
-            "artist": "PierJC",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/48\/39\/b5\/4839b5a3-2d35-4a0d-dc16-2df363726f37\/mza_6229645244781149325.jpg\/170x170bb.png",
+            "rank": 127,
+            "apple_id": "1896886409",
+            "name": "My Mother's Lies",
+            "artist": "Sony Music Entertainment",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/f2\/76\/ed\/f276ed12-e566-ae32-c8bf-cd0cfff92e8c\/mza_8742981344191357344.jpg\/170x170bb.png",
             "genre": "True Crime",
             "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/giallo-quotidiano\/id1597154260?uo=2"
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/my-mothers-lies\/id1896886409?uo=2"
         },
         {
-            "rank": 191,
-            "apple_id": "1145089790",
-            "name": "Snapped: Women Who Murder",
-            "artist": "Oxygen",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts125\/v4\/d4\/ef\/ff\/d4efff91-8a69-ba8a-b5a8-634c029af6ff\/mza_14265882527940743554.jpeg\/170x170bb.png",
+            "rank": 128,
+            "apple_id": "1783433044",
+            "name": "True Crime Español",
+            "artist": "True Crime Español",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/4d\/c8\/f6\/4dc8f671-9600-e479-bc1b-57aff7c85ce3\/mza_1348861565785639741.jpg\/170x170bb.png",
             "genre": "True Crime",
             "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/snapped-women-who-murder\/id1145089790?uo=2"
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/true-crime-espa%C3%B1ol\/id1783433044?uo=2"
         },
         {
-            "rank": 192,
-            "apple_id": "1596610770",
-            "name": "Crimehub: A True Crime Podcast",
-            "artist": "Crimehub Studios",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/79\/27\/a5\/7927a51c-675d-a7d0-1a26-01232c175864\/mza_9951570963408477715.jpeg\/170x170bb.png",
+            "rank": 129,
+            "apple_id": "1842348296",
+            "name": "De zeven levens van Betty",
+            "artist": "Dag en Nacht | Podimo",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/ee\/4d\/21\/ee4d21a9-84a0-4074-cdd3-9f3ea885ae34\/mza_954083437284294178.jpg\/170x170bb.png",
             "genre": "True Crime",
             "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/crimehub-a-true-crime-podcast\/id1596610770?uo=2"
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/de-zeven-levens-van-betty\/id1842348296?uo=2"
         },
         {
-            "rank": 193,
-            "apple_id": "1794097068",
-            "name": "L'abbraccio che ripara - Perdonare un delitto",
-            "artist": "Niccolò Agliardi – Sky TG24 by Vois",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/02\/be\/ba\/02beba2a-4227-7b17-4ba1-f95abc069fe8\/mza_2648322505142353878.jpg\/170x170bb.png",
+            "rank": 130,
+            "apple_id": "1704419690",
+            "name": "EXPEDIENTES PARANORMALES de Esteban Cruz, @Cruzescribiente",
+            "artist": "Cruz Escribiente",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/05\/ad\/92\/05ad92f3-a1f0-0dac-9358-e74b83badd15\/mza_10488671027622613819.jpg\/170x170bb.png",
             "genre": "True Crime",
             "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/labbraccio-che-ripara-perdonare-un-delitto\/id1794097068?uo=2"
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/expedientes-paranormales-de-esteban-cruz\/id1704419690?uo=2"
         },
         {
-            "rank": 194,
-            "apple_id": "1510265909",
-            "name": "Una Creepypasta Per Mr. Awful",
-            "artist": "Mr. Awful - Hypercast",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/71\/c7\/0b\/71c70b61-5b3f-12e5-0db4-6d1306d8cdab\/mza_5050961650455594769.jpg\/170x170bb.png",
+            "rank": 131,
+            "apple_id": "1839479557",
+            "name": "FBI Profilers: Criminal Archives",
+            "artist": "Audible",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/c6\/c2\/b8\/c6c2b8e8-ef2f-302c-f0db-039fbc183554\/mza_5909783846876935041.jpeg\/170x170bb.png",
             "genre": "True Crime",
             "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/una-creepypasta-per-mr-awful\/id1510265909?uo=2"
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/fbi-profilers-criminal-archives\/id1839479557?uo=2"
         },
         {
-            "rank": 195,
-            "apple_id": "1547098956",
-            "name": "True Crime Diaries, un podcast firmato LA CASE Books",
-            "artist": "LA CASE Books",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/64\/d1\/88\/64d1881d-cdbe-d4f9-c75b-e2c4aa30486d\/mza_2298886199579665639.jpg\/170x170bb.png",
+            "rank": 132,
+            "apple_id": "1896859174",
+            "name": "I Am Not Nicholas",
+            "artist": "BBC Studios",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/24\/af\/dd\/24afdd92-7745-6a58-2eaf-1fc4fde1f814\/mza_8191827653767483676.jpeg\/170x170bb.png",
             "genre": "True Crime",
             "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/true-crime-diaries-un-podcast-firmato-la-case-books\/id1547098956?uo=2"
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/i-am-not-nicholas\/id1896859174?uo=2"
         },
         {
-            "rank": 196,
+            "rank": 133,
+            "apple_id": "1852032918",
+            "name": "Heat List",
+            "artist": "Wondery",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/d0\/fe\/a5\/d0fea5d7-ec9c-e87b-11b7-a3171dde9bbe\/mza_9749939474441744980.jpeg\/170x170bb.png",
+            "genre": "True Crime",
+            "genre_id": "1488",
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/heat-list\/id1852032918?uo=2"
+        },
+        {
+            "rank": 134,
+            "apple_id": "1807341101",
+            "name": "Death County, PA",
+            "artist": "Audible",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/79\/b2\/26\/79b2265d-443c-e9b9-e524-f668a457505f\/mza_10937657661627090286.jpeg\/170x170bb.png",
+            "genre": "True Crime",
+            "genre_id": "1488",
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/death-county-pa\/id1807341101?uo=2"
+        },
+        {
+            "rank": 135,
+            "apple_id": "1790456066",
+            "name": "We Came to the Forest",
+            "artist": "Audible | Campside Media",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/e2\/40\/0e\/e2400e3e-88ca-a725-7658-a05689d5fcb7\/mza_2126022870249500902.jpeg\/170x170bb.png",
+            "genre": "True Crime",
+            "genre_id": "1488",
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/we-came-to-the-forest\/id1790456066?uo=2"
+        },
+        {
+            "rank": 136,
+            "apple_id": "1689582787",
+            "name": "Donor 9623",
+            "artist": "Audible Originals",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts116\/v4\/c5\/bf\/77\/c5bf779b-c7ab-b325-5509-1833c205fd68\/mza_9467734342832821172.jpeg\/170x170bb.png",
+            "genre": "True Crime",
+            "genre_id": "1488",
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/donor-9623\/id1689582787?uo=2"
+        },
+        {
+            "rank": 137,
+            "apple_id": "1575177579",
+            "name": "Un Crime, une Histoire : 36, Quai des Orfèvres",
+            "artist": "RTBF",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts116\/v4\/2b\/14\/b9\/2b14b996-d742-70ee-c84e-d92ded31c769\/mza_7880511564089527744.jpg\/170x170bb.png",
+            "genre": "True Crime",
+            "genre_id": "1488",
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/un-crime-une-histoire-36-quai-des-orf%C3%A8vres\/id1575177579?uo=2"
+        },
+        {
+            "rank": 138,
+            "apple_id": "1556472772",
+            "name": "West Cork",
+            "artist": "yarn fm",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts126\/v4\/fe\/59\/69\/fe596930-c3cc-d344-a8a8-11a7307f8a05\/mza_7748082071715669071.jpg\/170x170bb.png",
+            "genre": "True Crime",
+            "genre_id": "1488",
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/west-cork\/id1556472772?uo=2"
+        },
+        {
+            "rank": 139,
+            "apple_id": "1845952273",
+            "name": "48 Ore - Il caso di Aldo Bianzino",
+            "artist": "Umbria 24",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/26\/45\/85\/264585a2-cb4b-3e79-973b-5bae5a948224\/mza_1407617856543029928.jpg\/170x170bb.png",
+            "genre": "True Crime",
+            "genre_id": "1488",
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/48-ore-il-caso-di-aldo-bianzino\/id1845952273?uo=2"
+        },
+        {
+            "rank": 140,
+            "apple_id": "1745304726",
+            "name": "Un caffè con l'assassino",
+            "artist": "Storielibere.fm",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/f9\/59\/40\/f95940aa-d39c-e9bf-cb07-f4d448d1dfad\/mza_2904240595214889568.jpeg\/170x170bb.png",
+            "genre": "True Crime",
+            "genre_id": "1488",
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/un-caff%C3%A8-con-lassassino\/id1745304726?uo=2"
+        },
+        {
+            "rank": 141,
+            "apple_id": "1775202581",
+            "name": "PLOT HOUSE",
+            "artist": "Lottie & Studio Bummens",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/97\/b3\/01\/97b30174-1e39-640c-a30a-4b529c668431\/mza_14145830276899952355.jpg\/170x170bb.png",
+            "genre": "True Crime",
+            "genre_id": "1488",
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/plot-house\/id1775202581?uo=2"
+        },
+        {
+            "rank": 142,
+            "apple_id": "1831750398",
+            "name": "Crimini Dimenticati True Crime",
+            "artist": "Simona Cascio e Marcello Randazzo",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/c9\/a9\/b0\/c9a9b09b-1b4a-85f6-2d61-722d5ae3bd66\/mza_18322527694535891253.jpeg\/170x170bb.png",
+            "genre": "True Crime",
+            "genre_id": "1488",
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/crimini-dimenticati-true-crime\/id1831750398?uo=2"
+        },
+        {
+            "rank": 143,
+            "apple_id": "1759532516",
+            "name": "The Crime - La Scena Del Crimine",
+            "artist": "Ilaria Crime - Hypercast",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/d5\/13\/f1\/d513f107-45b8-b8f6-73d7-041888435c0a\/mza_11049554848817892559.jpg\/170x170bb.png",
+            "genre": "True Crime",
+            "genre_id": "1488",
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/the-crime-la-scena-del-crimine\/id1759532516?uo=2"
+        },
+        {
+            "rank": 144,
+            "apple_id": "1874866922",
+            "name": "Razza dominante",
+            "artist": "Il Tempo",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/36\/e0\/c2\/36e0c2ef-6403-c7da-256c-681cae407e73\/mza_6722122369122173589.jpeg\/170x170bb.png",
+            "genre": "True Crime",
+            "genre_id": "1488",
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/razza-dominante\/id1874866922?uo=2"
+        },
+        {
+            "rank": 145,
+            "apple_id": "1837358967",
+            "name": "Strewth - Australian True Crime and Mystery Podcast",
+            "artist": "Mark",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/63\/f6\/3b\/63f63bed-ae01-bdeb-6a3d-7e0f8073c46f\/mza_6604775148711610766.png\/170x170bb.png",
+            "genre": "True Crime",
+            "genre_id": "1488",
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/strewth-australian-true-crime-and-mystery-podcast\/id1837358967?uo=2"
+        },
+        {
+            "rank": 146,
+            "apple_id": "1205030005",
+            "name": "Killer Stories with Harvey Guillén",
+            "artist": "Spotify Studios",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/f5\/d6\/59\/f5d659cd-d9ca-2ea5-9cd6-295b4d200427\/mza_15633811809801599009.jpeg\/170x170bb.png",
+            "genre": "True Crime",
+            "genre_id": "1488",
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/killer-stories-with-harvey-guill%C3%A9n\/id1205030005?uo=2"
+        },
+        {
+            "rank": 147,
+            "apple_id": "1881593975",
+            "name": "Bergamo Nera",
+            "artist": "Francesco Aliberti",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/a9\/83\/29\/a9832956-bc73-8915-a188-b6ab050bbe88\/mza_9917918941574329354.jpg\/170x170bb.png",
+            "genre": "True Crime",
+            "genre_id": "1488",
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/bergamo-nera\/id1881593975?uo=2"
+        },
+        {
+            "rank": 148,
+            "apple_id": "998568017",
+            "name": "Casefile True Crime",
+            "artist": "Casefile Presents",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/32\/81\/a3\/3281a345-6fa5-1d0d-b0bc-f02b0850a0ae\/mza_17562537467118278179.jpeg\/170x170bb.png",
+            "genre": "True Crime",
+            "genre_id": "1488",
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/casefile-true-crime\/id998568017?uo=2"
+        },
+        {
+            "rank": 149,
+            "apple_id": "1579043547",
+            "name": "Le Rivelazioni di Adam Kadmon",
+            "artist": "Adam Kadmon",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts115\/v4\/b4\/99\/58\/b49958b6-5de1-1fb7-d9a7-1a49b19edbf0\/mza_13032099948141226524.jpg\/170x170bb.png",
+            "genre": "True Crime",
+            "genre_id": "1488",
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/le-rivelazioni-di-adam-kadmon\/id1579043547?uo=2"
+        },
+        {
+            "rank": 150,
+            "apple_id": "987967575",
+            "name": "20\/20",
+            "artist": "ABC News",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/81\/6c\/5d\/816c5d57-7c3f-3df9-1557-08e17469dfe4\/mza_1433648970787567135.jpg\/170x170bb.png",
+            "genre": "True Crime",
+            "genre_id": "1488",
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/20-20\/id987967575?uo=2"
+        },
+        {
+            "rank": 151,
+            "apple_id": "1766068544",
+            "name": "The Surgeon Of St Helena",
+            "artist": "Always True Crime",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/7d\/59\/85\/7d598524-888e-fc39-bd50-ab96e23f6286\/mza_5313524596411674357.jpeg\/170x170bb.png",
+            "genre": "True Crime",
+            "genre_id": "1488",
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/the-surgeon-of-st-helena\/id1766068544?uo=2"
+        },
+        {
+            "rank": 152,
+            "apple_id": "1608813794",
+            "name": "MrBallen Podcast: Strange, Dark & Mysterious Stories",
+            "artist": "Ballen Studios",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/a5\/9c\/8a\/a59c8a0a-0cb2-9862-e0d6-7b5ee4e9e157\/mza_12554888833857337425.jpg\/170x170bb.png",
+            "genre": "True Crime",
+            "genre_id": "1488",
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/mrballen-podcast-strange-dark-mysterious-stories\/id1608813794?uo=2"
+        },
+        {
+            "rank": 153,
+            "apple_id": "1668626930",
+            "name": "霓达播客",
+            "artist": "霓达播台NidaMedia",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts126\/v4\/31\/20\/de\/3120de83-d957-83de-8224-092c98de7189\/mza_18215723817537101746.png\/170x170bb.png",
+            "genre": "True Crime",
+            "genre_id": "1488",
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/%E9%9C%93%E8%BE%BE%E6%92%AD%E5%AE%A2\/id1668626930?uo=2"
+        },
+        {
+            "rank": 154,
+            "apple_id": "1803355993",
+            "name": "Quarto Grado - Il Podcast",
+            "artist": "RTI S.p.A.",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/3c\/18\/2d\/3c182d85-9afa-32cc-a6a4-7f0d1db63470\/mza_15557776308413916725.jpeg\/170x170bb.png",
+            "genre": "True Crime",
+            "genre_id": "1488",
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/quarto-grado-il-podcast\/id1803355993?uo=2"
+        },
+        {
+            "rank": 155,
+            "apple_id": "1394532858",
+            "name": "Apnea - Storie senza fiato",
+            "artist": "Andy Franco",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts116\/v4\/84\/47\/10\/844710df-0499-d4be-f518-b3569dfea52d\/mza_7774335420441427004.jpg\/170x170bb.png",
+            "genre": "True Crime",
+            "genre_id": "1488",
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/apnea-storie-senza-fiato\/id1394532858?uo=2"
+        },
+        {
+            "rank": 156,
+            "apple_id": "1884735227",
+            "name": "The Idiot",
+            "artist": "Serial Productions & The New York Times",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/e0\/51\/63\/e0516361-1ae2-40fd-3d1c-fc4178969373\/mza_10963835521218649303.jpg\/170x170bb.png",
+            "genre": "True Crime",
+            "genre_id": "1488",
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/the-idiot\/id1884735227?uo=2"
+        },
+        {
+            "rank": 157,
+            "apple_id": "1532225667",
+            "name": "Chameleon",
+            "artist": "Audiochuck | Campside Media",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/69\/21\/af\/6921af18-5d04-7e96-49c8-62f00dd202de\/mza_14293798668143431687.jpg\/170x170bb.png",
+            "genre": "True Crime",
+            "genre_id": "1488",
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/chameleon\/id1532225667?uo=2"
+        },
+        {
+            "rank": 158,
             "apple_id": "1489482036",
             "name": "CounterClock",
             "artist": "Audiochuck",
@@ -1968,17 +1588,107 @@
             "url": "https:\/\/podcasts.apple.com\/it\/podcast\/counterclock\/id1489482036?uo=2"
         },
         {
-            "rank": 197,
-            "apple_id": "1804438960",
-            "name": "The Girlfriends: Trust Me Babe",
-            "artist": "iHeartPodcasts and Novel",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/81\/eb\/86\/81eb86aa-79f8-dc9e-7321-2de49baec3d2\/mza_445409308803272401.jpg\/170x170bb.png",
+            "rank": 159,
+            "apple_id": "1062418176",
+            "name": "True Crime Garage",
+            "artist": "TRUE CRIME GARAGE",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts116\/v4\/e2\/e1\/78\/e2e1788b-e584-7338-5561-f45f54d24fac\/mza_11079836307425036802.jpg\/170x170bb.png",
             "genre": "True Crime",
             "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/the-girlfriends-trust-me-babe\/id1804438960?uo=2"
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/true-crime-garage\/id1062418176?uo=2"
         },
         {
-            "rank": 198,
+            "rank": 160,
+            "apple_id": "1773924080",
+            "name": "Au Coeur du Crime",
+            "artist": "Europe1",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/36\/df\/3d\/36df3d01-d518-a87b-e983-84985856bce4\/mza_10916289766765414836.jpg\/170x170bb.png",
+            "genre": "True Crime",
+            "genre_id": "1488",
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/au-coeur-du-crime\/id1773924080?uo=2"
+        },
+        {
+            "rank": 161,
+            "apple_id": "1808700817",
+            "name": "Camp Shame",
+            "artist": "iHeartPodcasts",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/1a\/79\/3f\/1a793f6d-0cb7-368f-8c1c-a28b08f5b5f9\/mza_13458691859464783687.jpg\/170x170bb.png",
+            "genre": "True Crime",
+            "genre_id": "1488",
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/camp-shame\/id1808700817?uo=2"
+        },
+        {
+            "rank": 162,
+            "apple_id": "1623196731",
+            "name": "The Criminal Makeup",
+            "artist": "Danielle Kirsty",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/75\/6f\/83\/756f8382-6fdf-bbca-64ce-8f528b8bf541\/mza_17755032712770536722.jpeg\/170x170bb.png",
+            "genre": "True Crime",
+            "genre_id": "1488",
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/the-criminal-makeup\/id1623196731?uo=2"
+        },
+        {
+            "rank": 163,
+            "apple_id": "1364665348",
+            "name": "The Expert Witness from Uncover",
+            "artist": "CBC",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/13\/3a\/c3\/133ac395-0741-73b6-0929-b660648fa7c7\/mza_16067063217184027757.jpg\/170x170bb.png",
+            "genre": "True Crime",
+            "genre_id": "1488",
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/the-expert-witness-from-uncover\/id1364665348?uo=2"
+        },
+        {
+            "rank": 164,
+            "apple_id": "1250599915",
+            "name": "RedHanded",
+            "artist": "RedHanded",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/37\/38\/73\/373873c6-ff52-d2de-945c-3a1aab729c6d\/mza_18348784528713052513.jpg\/170x170bb.png",
+            "genre": "True Crime",
+            "genre_id": "1488",
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/redhanded\/id1250599915?uo=2"
+        },
+        {
+            "rank": 165,
+            "apple_id": "1769072368",
+            "name": "Kill List",
+            "artist": "Audible | Novel",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/90\/db\/18\/90db18c1-86b9-f6e2-f9a7-ad5e1c614e3b\/mza_10733527073015733286.jpeg\/170x170bb.png",
+            "genre": "True Crime",
+            "genre_id": "1488",
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/kill-list\/id1769072368?uo=2"
+        },
+        {
+            "rank": 166,
+            "apple_id": "1796125462",
+            "name": "(In)Justice: Killer Privilege",
+            "artist": "Evening Standard | Message Heard",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/68\/19\/b3\/6819b33e-4c6e-7494-9c23-5fa5f3a9c5bc\/mza_15734065227097086508.jpeg\/170x170bb.png",
+            "genre": "True Crime",
+            "genre_id": "1488",
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/in-justice-killer-privilege\/id1796125462?uo=2"
+        },
+        {
+            "rank": 167,
+            "apple_id": "1880711858",
+            "name": "Trace of Suspicion",
+            "artist": "NBC News",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/89\/2f\/4d\/892f4dec-f450-b166-2c2c-198f03d921b7\/mza_15789624275893950972.jpg\/170x170bb.png",
+            "genre": "True Crime",
+            "genre_id": "1488",
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/trace-of-suspicion\/id1880711858?uo=2"
+        },
+        {
+            "rank": 168,
+            "apple_id": "1828581387",
+            "name": "Oltre",
+            "artist": "Bergamonews",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/55\/b1\/f5\/55b1f501-1e48-d076-3991-7d6d7a178794\/mza_9746904452173965845.jpg\/170x170bb.png",
+            "genre": "True Crime",
+            "genre_id": "1488",
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/oltre\/id1828581387?uo=2"
+        },
+        {
+            "rank": 169,
             "apple_id": "1616628119",
             "name": "OP - Omicidio Pecorelli",
             "artist": "Raffaella Fanelli - Emons Record",
@@ -1988,24 +1698,314 @@
             "url": "https:\/\/podcasts.apple.com\/it\/podcast\/op-omicidio-pecorelli\/id1616628119?uo=2"
         },
         {
-            "rank": 199,
-            "apple_id": "1777764991",
-            "name": "L'impero dei figli impossibili",
-            "artist": "Alberto Gottardo e Francesca Sironi - Chora Media",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/21\/e4\/5a\/21e45a06-5d7a-c109-4ee0-497ca995eb90\/mza_6896940405131459783.jpg\/170x170bb.png",
+            "rank": 170,
+            "apple_id": "1748598583",
+            "name": "Benno - L'Oscurità Su Bolzano",
+            "artist": "T-Podcast",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/18\/a0\/89\/18a0892d-e539-c2ce-ee46-4a33a0f389f5\/mza_6204230813357329542.jpg\/170x170bb.png",
             "genre": "True Crime",
             "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/limpero-dei-figli-impossibili\/id1777764991?uo=2"
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/benno-loscurit%C3%A0-su-bolzano\/id1748598583?uo=2"
+        },
+        {
+            "rank": 171,
+            "apple_id": "1726934689",
+            "name": "只有猫知道CatsKnow",
+            "artist": "SOLDiersTear",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/9b\/4d\/42\/9b4d4296-c01f-5f8b-5c6c-23267414fd4e\/mza_17397443515942676226.png\/170x170bb.png",
+            "genre": "True Crime",
+            "genre_id": "1488",
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/%E5%8F%AA%E6%9C%89%E7%8C%AB%E7%9F%A5%E9%81%93catsknow\/id1726934689?uo=2"
+        },
+        {
+            "rank": 172,
+            "apple_id": "1573961841",
+            "name": "Killer Psyche",
+            "artist": "Audible | Treefort Media",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/d5\/46\/ef\/d546ef0a-81e4-5c4d-bd6d-d86a9dac148f\/mza_2016556522152385676.jpeg\/170x170bb.png",
+            "genre": "True Crime",
+            "genre_id": "1488",
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/killer-psyche\/id1573961841?uo=2"
+        },
+        {
+            "rank": 173,
+            "apple_id": "1578324041",
+            "name": "The Binge Crimes: The Poet",
+            "artist": "Sony Music Entertainment",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/d1\/e6\/a5\/d1e6a5a7-7572-a419-a071-46e550fb5faa\/mza_4610811899227368257.jpeg\/170x170bb.png",
+            "genre": "True Crime",
+            "genre_id": "1488",
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/the-binge-crimes-the-poet\/id1578324041?uo=2"
+        },
+        {
+            "rank": 174,
+            "apple_id": "1506227593",
+            "name": "Take to the Sky: the Air Disaster Podcast",
+            "artist": "Shelly Price and Stephanie Hubka",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts115\/v4\/14\/ae\/4d\/14ae4dd3-d1b8-0e3b-93a3-14df618db8b4\/mza_14567128463804437335.png\/170x170bb.png",
+            "genre": "True Crime",
+            "genre_id": "1488",
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/take-to-the-sky-the-air-disaster-podcast\/id1506227593?uo=2"
+        },
+        {
+            "rank": 175,
+            "apple_id": "1308717668",
+            "name": "Swindled",
+            "artist": "Swindled",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/41\/0d\/64\/410d64d4-14f9-8f5c-a00f-cb444d86ee2d\/mza_10046263930288601800.jpg\/170x170bb.png",
+            "genre": "True Crime",
+            "genre_id": "1488",
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/swindled\/id1308717668?uo=2"
+        },
+        {
+            "rank": 176,
+            "apple_id": "1677429178",
+            "name": "Zio Francis Crime",
+            "artist": "Zio Francis",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts116\/v4\/4f\/db\/16\/4fdb16cf-08e6-9e45-93d7-bf083b454e3c\/mza_12877632955335912734.jpg\/170x170bb.png",
+            "genre": "True Crime",
+            "genre_id": "1488",
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/zio-francis-crime\/id1677429178?uo=2"
+        },
+        {
+            "rank": 177,
+            "apple_id": "1549673828",
+            "name": "La Cronaca Nera in pillole",
+            "artist": "Listanera Official",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/d8\/74\/60\/d87460c0-e2e8-aeab-6706-2dbe8bd66d12\/mza_6181011653981512961.jpg\/170x170bb.png",
+            "genre": "True Crime",
+            "genre_id": "1488",
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/la-cronaca-nera-in-pillole\/id1549673828?uo=2"
+        },
+        {
+            "rank": 178,
+            "apple_id": "1821838422",
+            "name": "Julie's Gone",
+            "artist": "Casefile Presents",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/61\/32\/17\/61321782-a5bd-b90a-3e58-d93d90746afe\/mza_10937993063088142000.jpeg\/170x170bb.png",
+            "genre": "True Crime",
+            "genre_id": "1488",
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/julies-gone\/id1821838422?uo=2"
+        },
+        {
+            "rank": 179,
+            "apple_id": "1785270431",
+            "name": "Blodspår",
+            "artist": "Viviann Le & Aida Engvall",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/ee\/2f\/30\/ee2f309b-e906-284e-2613-9b462e3e2513\/mza_17416671340779691401.jpeg\/170x170bb.png",
+            "genre": "True Crime",
+            "genre_id": "1488",
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/blodsp%C3%A5r\/id1785270431?uo=2"
+        },
+        {
+            "rank": 180,
+            "apple_id": "809264944",
+            "name": "Criminal",
+            "artist": "Vox Media Podcast Network",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/bd\/98\/22\/bd9822cc-b8e0-59de-5809-45926a0ee5f3\/mza_2331604259390110897.jpeg\/170x170bb.png",
+            "genre": "True Crime",
+            "genre_id": "1488",
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/criminal\/id809264944?uo=2"
+        },
+        {
+            "rank": 181,
+            "apple_id": "1714019520",
+            "name": "Exposing Scientology",
+            "artist": "Mike Rinder",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/ae\/84\/fe\/ae84fefa-f405-b6ee-c795-274f6388cb82\/mza_12572566484722663220.jpg\/170x170bb.png",
+            "genre": "True Crime",
+            "genre_id": "1488",
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/exposing-scientology\/id1714019520?uo=2"
+        },
+        {
+            "rank": 182,
+            "apple_id": "1644661277",
+            "name": "Aktenzeichen XY… Unvergessene Verbrechen",
+            "artist": "ZDF - Aktenzeichen XY",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/3f\/e2\/75\/3fe2759e-62e9-8365-facc-80c4974dd034\/mza_17866006312201094550.jpg\/170x170bb.png",
+            "genre": "True Crime",
+            "genre_id": "1488",
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/aktenzeichen-xy-unvergessene-verbrechen\/id1644661277?uo=2"
+        },
+        {
+            "rank": 183,
+            "apple_id": "1721921086",
+            "name": "Dateline Originals",
+            "artist": "NBC News",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/c5\/0b\/04\/c50b0460-8686-0a6c-d941-2776e6774824\/mza_4034755818837964809.jpg\/170x170bb.png",
+            "genre": "True Crime",
+            "genre_id": "1488",
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/dateline-originals\/id1721921086?uo=2"
+        },
+        {
+            "rank": 184,
+            "apple_id": "1547098956",
+            "name": "True Crime Diaries, un podcast firmato LA CASE Books",
+            "artist": "LA CASE Books",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/64\/d1\/88\/64d1881d-cdbe-d4f9-c75b-e2c4aa30486d\/mza_2298886199579665639.jpg\/170x170bb.png",
+            "genre": "True Crime",
+            "genre_id": "1488",
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/true-crime-diaries-un-podcast-firmato-la-case-books\/id1547098956?uo=2"
+        },
+        {
+            "rank": 185,
+            "apple_id": "1512453641",
+            "name": "Schwarze Akte - True Crime",
+            "artist": "Anne, Patrick & Julep Studios",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/ce\/5d\/40\/ce5d40a7-2e6f-3a22-ebcc-2a28e2bea52f\/mza_18318464890695029424.jpg\/170x170bb.png",
+            "genre": "True Crime",
+            "genre_id": "1488",
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/schwarze-akte-true-crime\/id1512453641?uo=2"
+        },
+        {
+            "rank": 186,
+            "apple_id": "1508098400",
+            "name": "Murder With My Husband",
+            "artist": "OH NO MEDIA",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/f7\/11\/ee\/f711eec8-724f-355d-7f9a-c741694f5094\/mza_13083627678721826690.png\/170x170bb.png",
+            "genre": "True Crime",
+            "genre_id": "1488",
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/murder-with-my-husband\/id1508098400?uo=2"
+        },
+        {
+            "rank": 187,
+            "apple_id": "1488439861",
+            "name": "TSP怪奇档案",
+            "artist": "TSP怪奇档案",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts124\/v4\/d8\/83\/04\/d883044f-7b13-7d15-9270-ebd7027a8560\/mza_8193832955662829579.jpg\/170x170bb.png",
+            "genre": "True Crime",
+            "genre_id": "1488",
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/tsp%E6%80%AA%E5%A5%87%E6%A1%A3%E6%A1%88\/id1488439861?uo=2"
+        },
+        {
+            "rank": 188,
+            "apple_id": "437299706",
+            "name": "Last Podcast On The Left",
+            "artist": "The Last Podcast Network",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/25\/c9\/7f\/25c97f36-41e7-38a9-7e95-4f87997024f4\/mza_430481307357513215.jpg\/170x170bb.png",
+            "genre": "True Crime",
+            "genre_id": "1488",
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/last-podcast-on-the-left\/id437299706?uo=2"
+        },
+        {
+            "rank": 189,
+            "apple_id": "1894914873",
+            "name": "Black Files",
+            "artist": "SNAPOD",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/2a\/29\/cd\/2a29cde2-9510-8d74-7a76-27464566b780\/mza_15021045729834646140.jpg\/170x170bb.png",
+            "genre": "True Crime",
+            "genre_id": "1488",
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/black-files\/id1894914873?uo=2"
+        },
+        {
+            "rank": 190,
+            "apple_id": "1145089790",
+            "name": "Snapped: Women Who Murder",
+            "artist": "Oxygen",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts125\/v4\/d4\/ef\/ff\/d4efff91-8a69-ba8a-b5a8-634c029af6ff\/mza_14265882527940743554.jpeg\/170x170bb.png",
+            "genre": "True Crime",
+            "genre_id": "1488",
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/snapped-women-who-murder\/id1145089790?uo=2"
+        },
+        {
+            "rank": 191,
+            "apple_id": "1615637188",
+            "name": "Nobody Should Believe Me",
+            "artist": "True Story Media",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/fa\/1c\/85\/fa1c857e-84d1-4495-a090-67547fa67492\/mza_15282196844405075222.jpg\/170x170bb.png",
+            "genre": "True Crime",
+            "genre_id": "1488",
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/nobody-should-believe-me\/id1615637188?uo=2"
+        },
+        {
+            "rank": 192,
+            "apple_id": "1732005471",
+            "name": "Il Colpevole Perfetto",
+            "artist": "Maurizio Corte",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/77\/c7\/5e\/77c75e27-b0f5-90ba-9fbc-ff31c622acbe\/mza_6066985940862728469.jpg\/170x170bb.png",
+            "genre": "True Crime",
+            "genre_id": "1488",
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/il-colpevole-perfetto\/id1732005471?uo=2"
+        },
+        {
+            "rank": 193,
+            "apple_id": "1146402624",
+            "name": "Hondelatte Raconte",
+            "artist": "Europe 1",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/9e\/3a\/52\/9e3a52e1-31e2-7616-6329-1c376e9243da\/mza_137985806042307432.jpg\/170x170bb.png",
+            "genre": "True Crime",
+            "genre_id": "1488",
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/hondelatte-raconte\/id1146402624?uo=2"
+        },
+        {
+            "rank": 194,
+            "apple_id": "1841942565",
+            "name": "10 to Life",
+            "artist": "Annie Elise",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/99\/19\/1e\/99191e2f-915e-9320-db9c-4ae1a51f7d77\/mza_5381004304104260262.jpg\/170x170bb.png",
+            "genre": "True Crime",
+            "genre_id": "1488",
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/10-to-life\/id1841942565?uo=2"
+        },
+        {
+            "rank": 195,
+            "apple_id": "1454107197",
+            "name": "Piąte: Nie zabijaj",
+            "artist": "Justyna Mazur",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts116\/v4\/4a\/98\/23\/4a9823fa-3b4a-d634-0c87-39b2d0762ff3\/mza_11730200731241651487.jpeg\/170x170bb.png",
+            "genre": "True Crime",
+            "genre_id": "1488",
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/pi%C4%85te-nie-zabijaj\/id1454107197?uo=2"
+        },
+        {
+            "rank": 196,
+            "apple_id": "1878220033",
+            "name": "Love Trapped",
+            "artist": "iHeartPodcasts and Glass Podcasts",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/b5\/ad\/82\/b5ad82a9-b29a-1411-1506-05f9f3ad5d6b\/mza_17395607531155205240.jpg\/170x170bb.png",
+            "genre": "True Crime",
+            "genre_id": "1488",
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/love-trapped\/id1878220033?uo=2"
+        },
+        {
+            "rank": 197,
+            "apple_id": "1681038008",
+            "name": "RƎDRUM",
+            "artist": "RƎDRUM",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/82\/4e\/21\/824e217a-cd42-fcda-39b1-adf6e0edad01\/mza_4867803907535004830.jpg\/170x170bb.png",
+            "genre": "True Crime",
+            "genre_id": "1488",
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/r%C7%9Ddrum\/id1681038008?uo=2"
+        },
+        {
+            "rank": 198,
+            "apple_id": "1585964597",
+            "name": "黑猫侦探社",
+            "artist": "Mizai",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/b9\/5b\/1c\/b95b1c6c-bdd5-9bcd-65fc-86b0904f89db\/mza_5176470659683907143.jpg\/170x170bb.png",
+            "genre": "True Crime",
+            "genre_id": "1488",
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/%E9%BB%91%E7%8C%AB%E4%BE%A6%E6%8E%A2%E7%A4%BE\/id1585964597?uo=2"
+        },
+        {
+            "rank": 199,
+            "apple_id": "1539713306",
+            "name": "Irrisolti. I misteri del crimine",
+            "artist": "Francesca Zanni",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts126\/v4\/fe\/1e\/56\/fe1e56fb-3fcb-14df-1897-9e8872726dc5\/mza_8920621194737514331.jpg\/170x170bb.png",
+            "genre": "True Crime",
+            "genre_id": "1488",
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/irrisolti-i-misteri-del-crimine\/id1539713306?uo=2"
         },
         {
             "rank": 200,
-            "apple_id": "1896803199",
-            "name": "Foul Play",
-            "artist": "Audible | Gabriel Gatehouse",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/aa\/48\/aa\/aa48aa88-fbd2-235c-924c-30c4a8a98c06\/mza_14824163004884085013.jpeg\/170x170bb.png",
+            "apple_id": "1777411513",
+            "name": "Ombre Su Torino",
+            "artist": "Ombre Su Torino",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/a1\/05\/ed\/a105ed98-a9f6-124a-2a46-1425d35ce4c3\/mza_14671854735174715694.jpg\/170x170bb.png",
             "genre": "True Crime",
             "genre_id": "1488",
-            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/foul-play\/id1896803199?uo=2"
+            "url": "https:\/\/podcasts.apple.com\/it\/podcast\/ombre-su-torino\/id1777411513?uo=2"
         }
     ]
 }

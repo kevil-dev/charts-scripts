@@ -3,7 +3,7 @@
     "country": "au",
     "genre": "Religion & Spirituality",
     "slug": "religion-spirituality",
-    "fetched_at": "2026-06-24T06:36:45Z",
+    "fetched_at": "2026-07-01T04:43:32Z",
     "count": 50,
     "shows": [
         {
@@ -57,11 +57,20 @@
             "name": "Joel Osteen Podcast",
             "publisher": "Joel Osteen, SiriusXM",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fa8935b4e459478e13c12a399",
-            "rank_move": "UP",
+            "rank_move": "UNCHANGED",
             "url": "https:\/\/open.spotify.com\/show\/7wIDnmJ41exqZZ5GnsBGDS"
         },
         {
             "rank": 7,
+            "spotify_id": "37McjD0j2cdu4GExcFQgm0",
+            "name": "Tara Brach",
+            "publisher": "Tara Brach",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fa525172faa748ca9dc30925d",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/37McjD0j2cdu4GExcFQgm0"
+        },
+        {
+            "rank": 8,
             "spotify_id": "6f2oD3RtQY1rOeyfF2OeOa",
             "name": "BibleProject",
             "publisher": "BibleProject Podcast",
@@ -70,58 +79,49 @@
             "url": "https:\/\/open.spotify.com\/show\/6f2oD3RtQY1rOeyfF2OeOa"
         },
         {
-            "rank": 8,
-            "spotify_id": "37McjD0j2cdu4GExcFQgm0",
-            "name": "Tara Brach",
-            "publisher": "Tara Brach",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fa525172faa748ca9dc30925d",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/37McjD0j2cdu4GExcFQgm0"
-        },
-        {
             "rank": 9,
-            "spotify_id": "6SsM1gGP4EIvUuvTLby5pl",
-            "name": "The Holy Rosary",
-            "publisher": "Creedal",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fa2418cbc1c439a48a548c89a",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/6SsM1gGP4EIvUuvTLby5pl"
-        },
-        {
-            "rank": 10,
             "spotify_id": "312eXMI31liKUHSx6U5p1H",
             "name": "Pints With Aquinas",
             "publisher": "Matt Fradd",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1ff33c2e72b4a04325d0b44520",
-            "rank_move": "UNCHANGED",
+            "rank_move": "UP",
             "url": "https:\/\/open.spotify.com\/show\/312eXMI31liKUHSx6U5p1H"
         },
         {
+            "rank": 10,
+            "spotify_id": "6SsM1gGP4EIvUuvTLby5pl",
+            "name": "The Holy Rosary",
+            "publisher": "Creedal",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fa2418cbc1c439a48a548c89a",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/6SsM1gGP4EIvUuvTLby5pl"
+        },
+        {
             "rank": 11,
-            "spotify_id": "4mrR5M8mS7FlGJYAfk7sEr",
-            "name": "Wisdom of the Masters ",
-            "publisher": "Samaneri Jayasara",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f23e551b470b4ae47de7eb6ec",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/4mrR5M8mS7FlGJYAfk7sEr"
-        },
-        {
-            "rank": 12,
-            "spotify_id": "6nLlNUMm4VuZE1ln9oOJvy",
-            "name": "Elevation with Steven Furtick",
-            "publisher": "iHeartPodcasts",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f5be41240dfa801ce59243ff2",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/6nLlNUMm4VuZE1ln9oOJvy"
-        },
-        {
-            "rank": 13,
             "spotify_id": "1FUnt2EsvOM0bjZXAjLPtI",
             "name": "2819 Church",
             "publisher": "2819 Church",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1ff8108668ee5872eab0688ede",
-            "rank_move": "DOWN",
+            "rank_move": "UP",
             "url": "https:\/\/open.spotify.com\/show\/1FUnt2EsvOM0bjZXAjLPtI"
+        },
+        {
+            "rank": 12,
+            "spotify_id": "5ZNPUMoBgY1snpmvMaJnK0",
+            "name": "Quran",
+            "publisher": "Quran",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fb292f91c05b9117faef0c52a",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/5ZNPUMoBgY1snpmvMaJnK0"
+        },
+        {
+            "rank": 13,
+            "spotify_id": "6nLlNUMm4VuZE1ln9oOJvy",
+            "name": "Elevation with Steven Furtick",
+            "publisher": "iHeartPodcasts",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f5be41240dfa801ce59243ff2",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/6nLlNUMm4VuZE1ln9oOJvy"
         },
         {
             "rank": 14,
@@ -134,69 +134,24 @@
         },
         {
             "rank": 15,
+            "spotify_id": "4mrR5M8mS7FlGJYAfk7sEr",
+            "name": "Wisdom of the Masters ",
+            "publisher": "Samaneri Jayasara",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f23e551b470b4ae47de7eb6ec",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/4mrR5M8mS7FlGJYAfk7sEr"
+        },
+        {
+            "rank": 16,
             "spotify_id": "2w0QPVrnD1HJXqOkgH8ynS",
             "name": "The David Ghiyam Podcast",
             "publisher": "David Ghiyam",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f9ba2727f6c34cd40b1f90578",
-            "rank_move": "UP",
+            "rank_move": "UNCHANGED",
             "url": "https:\/\/open.spotify.com\/show\/2w0QPVrnD1HJXqOkgH8ynS"
         },
         {
-            "rank": 16,
-            "spotify_id": "5ZNPUMoBgY1snpmvMaJnK0",
-            "name": "Quran",
-            "publisher": "Quran",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fb292f91c05b9117faef0c52a",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/5ZNPUMoBgY1snpmvMaJnK0"
-        },
-        {
             "rank": 17,
-            "spotify_id": "3Dz4DL2ZMvnNQUnDSXqSdm",
-            "name": "Ram Dass Here And Now",
-            "publisher": "Ram Dass \/ Love Serve Remember",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fdf95f8a978b313af9d8d4f41",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/3Dz4DL2ZMvnNQUnDSXqSdm"
-        },
-        {
-            "rank": 18,
-            "spotify_id": "5XT5lbnmEzXOj6Bcsb2Ivk",
-            "name": "Ten Minute Bible Talks Devotional Bible Study",
-            "publisher": "Ten Minute Bible Talks",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fcf005ee6d1fc4411861e7fcc",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/5XT5lbnmEzXOj6Bcsb2Ivk"
-        },
-        {
-            "rank": 19,
-            "spotify_id": "7hpCJfE2JItPqOj8AgONCp",
-            "name": "Astrology of the Week Ahead with Chani Nicholas",
-            "publisher": "CHANI",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f17f92824a94197f2cb85b787",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/7hpCJfE2JItPqOj8AgONCp"
-        },
-        {
-            "rank": 20,
-            "spotify_id": "0LgGXWd4W7p4OXz08KWOw6",
-            "name": "Alignment With Jenn",
-            "publisher": "Jenn Ditzhazy",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1ff9023a10055565fae9f2a1b6",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/0LgGXWd4W7p4OXz08KWOw6"
-        },
-        {
-            "rank": 21,
-            "spotify_id": "7aBfZ9PI8J9HigMbSROo2f",
-            "name": "Sundar Gutka",
-            "publisher": "Hubhopper",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f84d092cd081ed735610264eb",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/7aBfZ9PI8J9HigMbSROo2f"
-        },
-        {
-            "rank": 22,
             "spotify_id": "0YQFYisAjStOZkbOHchedd",
             "name": "ACID FOR SQUARES",
             "publisher": "Cody Blue & Tanya Dahl",
@@ -205,25 +160,61 @@
             "url": "https:\/\/open.spotify.com\/show\/0YQFYisAjStOZkbOHchedd"
         },
         {
-            "rank": 23,
-            "spotify_id": "092Y8BQe0lz6dCsdCTZkPG",
-            "name": "Christ With Coffee On Ice",
-            "publisher": "Ally Yost",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f9fa322455f713ff7e1a7f51d",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/092Y8BQe0lz6dCsdCTZkPG"
+            "rank": 18,
+            "spotify_id": "5XT5lbnmEzXOj6Bcsb2Ivk",
+            "name": "Ten Minute Bible Talks Devotional Bible Study",
+            "publisher": "Ten Minute Bible Talks",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fcf005ee6d1fc4411861e7fcc",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/5XT5lbnmEzXOj6Bcsb2Ivk"
         },
         {
-            "rank": 24,
+            "rank": 19,
+            "spotify_id": "3Dz4DL2ZMvnNQUnDSXqSdm",
+            "name": "Ram Dass Here And Now",
+            "publisher": "Ram Dass \/ Love Serve Remember",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fdf95f8a978b313af9d8d4f41",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/3Dz4DL2ZMvnNQUnDSXqSdm"
+        },
+        {
+            "rank": 20,
             "spotify_id": "3NOrSmX98DjeDNBdSJ95VP",
             "name": "Joyce Meyer's Enjoying Everyday Life® Podcast",
             "publisher": "Joyce Meyer Ministries",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f5b750fc4639f0c39bb2bba38",
-            "rank_move": "UNCHANGED",
+            "rank_move": "UP",
             "url": "https:\/\/open.spotify.com\/show\/3NOrSmX98DjeDNBdSJ95VP"
         },
         {
-            "rank": 25,
+            "rank": 21,
+            "spotify_id": "1LNkgXxwe23zCedgHctKYQ",
+            "name": "Undeceptions with John Dickson",
+            "publisher": "Undeceptions Ltd",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f79e96432d40879ad9ea3cc2c",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/1LNkgXxwe23zCedgHctKYQ"
+        },
+        {
+            "rank": 22,
+            "spotify_id": "092Y8BQe0lz6dCsdCTZkPG",
+            "name": "Christ With Coffee On Ice",
+            "publisher": "Ally Yost",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f9fa322455f713ff7e1a7f51d",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/092Y8BQe0lz6dCsdCTZkPG"
+        },
+        {
+            "rank": 23,
+            "spotify_id": "525jKxXqHKgPGEWI02GJIA",
+            "name": "Joyce Meyer Enjoying Everyday Life® TV Audio Podcast",
+            "publisher": "Joyce Meyer",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fcda46bf0fc11a4148e01ea6e",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/525jKxXqHKgPGEWI02GJIA"
+        },
+        {
+            "rank": 24,
             "spotify_id": "4iIu7ScTmDR7AYGvMUcKCb",
             "name": "LA DOSIS DIARIA ROKA",
             "publisher": "Con William Arana                                          ROKA STEREO",
@@ -232,112 +223,121 @@
             "url": "https:\/\/open.spotify.com\/show\/4iIu7ScTmDR7AYGvMUcKCb"
         },
         {
+            "rank": 25,
+            "spotify_id": "7aBfZ9PI8J9HigMbSROo2f",
+            "name": "Sundar Gutka",
+            "publisher": "Hubhopper",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f84d092cd081ed735610264eb",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/7aBfZ9PI8J9HigMbSROo2f"
+        },
+        {
             "rank": 26,
-            "spotify_id": "5qPMt8j6feb80cpwckYqT4",
-            "name": "Belal Assaad",
-            "publisher": "Belal Assaad",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f81a3c8c954f54a08fc6ded63",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/5qPMt8j6feb80cpwckYqT4"
-        },
-        {
-            "rank": 27,
-            "spotify_id": "2ArVayzyQaeJYXlx4r5Apk",
-            "name": "Meditations",
-            "publisher": "Monique van der Vleuten",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fdd73925a3593728c708efd3c",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/2ArVayzyQaeJYXlx4r5Apk"
-        },
-        {
-            "rank": 28,
-            "spotify_id": "33adwpBckOK4UCeKbqHiqI",
-            "name": "Metta State of Mind - Just Breathe",
-            "publisher": "raggetysam",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fb32c86e0254ed987382f946a",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/33adwpBckOK4UCeKbqHiqI"
-        },
-        {
-            "rank": 29,
-            "spotify_id": "20QMlCg3sccbCx1xrSI94b",
-            "name": "Pastor Rick's Daily Hope",
-            "publisher": "PastorRick.com",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f33d25b686c870c6b6a324fb8",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/20QMlCg3sccbCx1xrSI94b"
-        },
-        {
-            "rank": 30,
-            "spotify_id": "525jKxXqHKgPGEWI02GJIA",
-            "name": "Joyce Meyer Enjoying Everyday Life® TV Audio Podcast",
-            "publisher": "Joyce Meyer",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fcda46bf0fc11a4148e01ea6e",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/525jKxXqHKgPGEWI02GJIA"
-        },
-        {
-            "rank": 31,
-            "spotify_id": "2rBd8xmNjtXbpw6BaCBI2a",
-            "name": "Medium at Large",
-            "publisher": "Stitch Up Studios",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f4e50369a286564737364b33a",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/2rBd8xmNjtXbpw6BaCBI2a"
-        },
-        {
-            "rank": 32,
             "spotify_id": "3dLmv3iMDVU0RxeVoxkQkV",
             "name": "Omar Suleiman",
             "publisher": "Muslim Central",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f399095754cebb1e7f8ae7b24",
-            "rank_move": "UP",
+            "rank_move": "DOWN",
             "url": "https:\/\/open.spotify.com\/show\/3dLmv3iMDVU0RxeVoxkQkV"
         },
         {
-            "rank": 33,
-            "spotify_id": "5yhzrY6mG8Vf1G3CJcwKLc",
-            "name": "Next Level Soul Podcast with Alex Ferrari",
-            "publisher": "NextLevelSoul.com",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f7c03d34775d176f4af84f7ec",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/5yhzrY6mG8Vf1G3CJcwKLc"
-        },
-        {
-            "rank": 34,
-            "spotify_id": "2pxmt7sks4OXF6YIUIcWO1",
-            "name": "Bible: Beginning to End",
-            "publisher": "Bible Beginning to End",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1faf00c18f1aa3d14fae5538df",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/2pxmt7sks4OXF6YIUIcWO1"
-        },
-        {
-            "rank": 35,
+            "rank": 27,
             "spotify_id": "3Pqrl9Xpuja6kSPjHUgxF4",
             "name": "The Deep End w\/Taylor Welch",
             "publisher": "Taylor A Welch",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f79335b956c5998a2f8337c27",
-            "rank_move": "DOWN",
+            "rank_move": "UNCHANGED",
             "url": "https:\/\/open.spotify.com\/show\/3Pqrl9Xpuja6kSPjHUgxF4"
         },
         {
-            "rank": 36,
-            "spotify_id": "4WK5XGUq8CxJkeILLur2LW",
-            "name": "Michael Singer Podcast",
-            "publisher": "Michael Singer",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f4e75c6f5e45b1947ee9baa3e",
+            "rank": 28,
+            "spotify_id": "5qPMt8j6feb80cpwckYqT4",
+            "name": "Belal Assaad",
+            "publisher": "Belal Assaad",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f81a3c8c954f54a08fc6ded63",
             "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/4WK5XGUq8CxJkeILLur2LW"
+            "url": "https:\/\/open.spotify.com\/show\/5qPMt8j6feb80cpwckYqT4"
+        },
+        {
+            "rank": 29,
+            "spotify_id": "5yhzrY6mG8Vf1G3CJcwKLc",
+            "name": "Next Level Soul Podcast with Alex Ferrari",
+            "publisher": "NextLevelSoul.com",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f7c03d34775d176f4af84f7ec",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/5yhzrY6mG8Vf1G3CJcwKLc"
+        },
+        {
+            "rank": 30,
+            "spotify_id": "2ArVayzyQaeJYXlx4r5Apk",
+            "name": "Meditations",
+            "publisher": "Monique van der Vleuten",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fdd73925a3593728c708efd3c",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/2ArVayzyQaeJYXlx4r5Apk"
+        },
+        {
+            "rank": 31,
+            "spotify_id": "2PGMuVJuMLB2m3yfD4QVMU",
+            "name": "JeffMara Podcast",
+            "publisher": "Jeff",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1faebdf02de7fe22ae1f78b9dc",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/2PGMuVJuMLB2m3yfD4QVMU"
+        },
+        {
+            "rank": 32,
+            "spotify_id": "2pxmt7sks4OXF6YIUIcWO1",
+            "name": "Bible: Beginning to End",
+            "publisher": "Bible Beginning to End",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1faf00c18f1aa3d14fae5538df",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/2pxmt7sks4OXF6YIUIcWO1"
+        },
+        {
+            "rank": 33,
+            "spotify_id": "20QMlCg3sccbCx1xrSI94b",
+            "name": "Pastor Rick's Daily Hope",
+            "publisher": "PastorRick.com",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f33d25b686c870c6b6a324fb8",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/20QMlCg3sccbCx1xrSI94b"
+        },
+        {
+            "rank": 34,
+            "spotify_id": "0LgGXWd4W7p4OXz08KWOw6",
+            "name": "Alignment With Jenn",
+            "publisher": "Jenn Ditzhazy",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1ff9023a10055565fae9f2a1b6",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/0LgGXWd4W7p4OXz08KWOw6"
+        },
+        {
+            "rank": 35,
+            "spotify_id": "4NPcpFYx1c1kbMh8AEqdA9",
+            "name": "Life.Church with Craig Groeschel",
+            "publisher": "Life.Church",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f83fa4555c5f771c5c1de4456",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/4NPcpFYx1c1kbMh8AEqdA9"
+        },
+        {
+            "rank": 36,
+            "spotify_id": "5P5S72Rgx5DStu4sRQHx8V",
+            "name": "The Quran  (with English Translation)",
+            "publisher": "Sheikh Mish'ary Rashid Al Afasi",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f6c87d43d4eaff81dba2a6a46",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/5P5S72Rgx5DStu4sRQHx8V"
         },
         {
             "rank": 37,
-            "spotify_id": "0hLWWWvKUFrMEmqiqaxcpD",
-            "name": "With The Perrys",
-            "publisher": "The Perrys",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f0966bf10dae4e2f99ca39064",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/0hLWWWvKUFrMEmqiqaxcpD"
+            "spotify_id": "4WK5XGUq8CxJkeILLur2LW",
+            "name": "Michael Singer Podcast",
+            "publisher": "Michael Singer",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1ffd2bf7c55a9ba284fcb9a1c3",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/4WK5XGUq8CxJkeILLur2LW"
         },
         {
             "rank": 38,
@@ -350,42 +350,6 @@
         },
         {
             "rank": 39,
-            "spotify_id": "4NPcpFYx1c1kbMh8AEqdA9",
-            "name": "Life.Church with Craig Groeschel",
-            "publisher": "Life.Church",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f83fa4555c5f771c5c1de4456",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/4NPcpFYx1c1kbMh8AEqdA9"
-        },
-        {
-            "rank": 40,
-            "spotify_id": "5P5S72Rgx5DStu4sRQHx8V",
-            "name": "The Quran  (with English Translation)",
-            "publisher": "Sheikh Mish'ary Rashid Al Afasi",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f6c87d43d4eaff81dba2a6a46",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/5P5S72Rgx5DStu4sRQHx8V"
-        },
-        {
-            "rank": 41,
-            "spotify_id": "5vPg9kNdtiKdsjAaox2jOC",
-            "name": "Ask Pastor John",
-            "publisher": "Desiring God",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fbd013ff7b0d5e37f0a4ba941",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/5vPg9kNdtiKdsjAaox2jOC"
-        },
-        {
-            "rank": 42,
-            "spotify_id": "1LNkgXxwe23zCedgHctKYQ",
-            "name": "Undeceptions with John Dickson",
-            "publisher": "Undeceptions Ltd",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f79e96432d40879ad9ea3cc2c",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/1LNkgXxwe23zCedgHctKYQ"
-        },
-        {
-            "rank": 43,
             "spotify_id": "1JOq4FadXo52EqtRbI9Nxl",
             "name": "Girls Gone Bible",
             "publisher": "Girls Gone Bible",
@@ -394,67 +358,103 @@
             "url": "https:\/\/open.spotify.com\/show\/1JOq4FadXo52EqtRbI9Nxl"
         },
         {
-            "rank": 44,
+            "rank": 40,
             "spotify_id": "6hrWNXZjd5BWU1kKk9PsX4",
             "name": "Unlearned Wisdom by Johnny Chang",
             "publisher": "Johnny Chang",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f439db37464880f7dd19a8774",
-            "rank_move": "DOWN",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1ffe09424874088bc85ca0dd4a",
+            "rank_move": "UP",
             "url": "https:\/\/open.spotify.com\/show\/6hrWNXZjd5BWU1kKk9PsX4"
         },
         {
-            "rank": 45,
+            "rank": 41,
+            "spotify_id": "7hpCJfE2JItPqOj8AgONCp",
+            "name": "Astrology of the Week Ahead with Chani Nicholas",
+            "publisher": "CHANI",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f17f92824a94197f2cb85b787",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/7hpCJfE2JItPqOj8AgONCp"
+        },
+        {
+            "rank": 42,
+            "spotify_id": "5vPg9kNdtiKdsjAaox2jOC",
+            "name": "Ask Pastor John",
+            "publisher": "Desiring God",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fbd013ff7b0d5e37f0a4ba941",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/5vPg9kNdtiKdsjAaox2jOC"
+        },
+        {
+            "rank": 43,
+            "spotify_id": "33adwpBckOK4UCeKbqHiqI",
+            "name": "Metta State of Mind - Just Breathe",
+            "publisher": "raggetysam",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fb32c86e0254ed987382f946a",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/33adwpBckOK4UCeKbqHiqI"
+        },
+        {
+            "rank": 44,
             "spotify_id": "4n8I02c8M5QlgKSNR9IUbJ",
             "name": "WHOA That's Good Podcast",
             "publisher": "Live Original",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fcf2474a8cdafd012698df64a",
-            "rank_move": "DOWN",
+            "rank_move": "UNCHANGED",
             "url": "https:\/\/open.spotify.com\/show\/4n8I02c8M5QlgKSNR9IUbJ"
         },
         {
-            "rank": 46,
-            "spotify_id": "3tOLzXzQrII1sF6ZdossIA",
-            "name": "Martyn Iles - At the Crux",
-            "publisher": "Martyn Iles",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f28bb92ec384f774a8e590837",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/3tOLzXzQrII1sF6ZdossIA"
-        },
-        {
-            "rank": 47,
+            "rank": 45,
             "spotify_id": "6C1Q7ITJKvZVosOdC9M1RM",
             "name": "You Can Heal Your Life ™",
             "publisher": "Hay House",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f5bdd5508e283b9cbd6b9a5cb",
-            "rank_move": "DOWN",
+            "rank_move": "UP",
             "url": "https:\/\/open.spotify.com\/show\/6C1Q7ITJKvZVosOdC9M1RM"
         },
         {
-            "rank": 48,
-            "spotify_id": "5KhMVavoTzH3ssVZTVJNwI",
-            "name": "The Way Out Is In",
-            "publisher": "Plum Village",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f94c31759a1c100471cdbec52",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/5KhMVavoTzH3ssVZTVJNwI"
-        },
-        {
-            "rank": 49,
+            "rank": 46,
             "spotify_id": "5eN8VVWPtzYCG055qJjU8y",
             "name": "Just Tap In with Emilio Ortiz",
             "publisher": "Emilio Ortiz",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f0b785b6d196ed5329f7303fd",
-            "rank_move": "UNCHANGED",
+            "rank_move": "DOWN",
             "url": "https:\/\/open.spotify.com\/show\/5eN8VVWPtzYCG055qJjU8y"
         },
         {
-            "rank": 50,
-            "spotify_id": "0RKi1s1GEQ1jQy76epoSzy",
-            "name": "Pray the Rosary",
-            "publisher": "CBCP Online Radio",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1feebc3c2eaea63d928616bba9",
+            "rank": 47,
+            "spotify_id": "2W5IGCn4Q4FRer3Rm5F9dM",
+            "name": "Billy Graham Crusaders",
+            "publisher": "Billy Graham Crusaders",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f7df5a6ab8c47d84e51f094cf",
             "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/0RKi1s1GEQ1jQy76epoSzy"
+            "url": "https:\/\/open.spotify.com\/show\/2W5IGCn4Q4FRer3Rm5F9dM"
+        },
+        {
+            "rank": 48,
+            "spotify_id": "4RAJGQI99RX03VR9TeHCxY",
+            "name": "The Pastor's Heart with Dominic Steele",
+            "publisher": "Dominic Steele",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f99c62ef660486b71862bc625",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/4RAJGQI99RX03VR9TeHCxY"
+        },
+        {
+            "rank": 49,
+            "spotify_id": "0hLWWWvKUFrMEmqiqaxcpD",
+            "name": "With The Perrys",
+            "publisher": "The Perrys",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f0966bf10dae4e2f99ca39064",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/0hLWWWvKUFrMEmqiqaxcpD"
+        },
+        {
+            "rank": 50,
+            "spotify_id": "2rBd8xmNjtXbpw6BaCBI2a",
+            "name": "Medium at Large",
+            "publisher": "Stitch Up Studios",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f4e50369a286564737364b33a",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/2rBd8xmNjtXbpw6BaCBI2a"
         }
     ]
 }

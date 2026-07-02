@@ -4,21 +4,11 @@
     "genre": "News",
     "genre_id": "1489",
     "slug": "news",
-    "fetched_at": "2026-06-24T06:35:15Z",
+    "fetched_at": "2026-07-01T04:41:59Z",
     "count": 200,
     "shows": [
         {
             "rank": 1,
-            "apple_id": "1611374685",
-            "name": "The Rest Is Politics",
-            "artist": "Goalhanger",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/d0\/a7\/d6\/d0a7d6a3-e1d3-52ba-60fd-d788ceb7d559\/mza_17193364103373697567.jpg\/170x170bb.png",
-            "genre": "Politics",
-            "genre_id": "1527",
-            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/the-rest-is-politics\/id1611374685?uo=2"
-        },
-        {
-            "rank": 2,
             "apple_id": "1872352760",
             "name": "The Karl Stefanovic Show",
             "artist": "Karl Stefanovic",
@@ -28,7 +18,7 @@
             "url": "https:\/\/podcasts.apple.com\/au\/podcast\/the-karl-stefanovic-show\/id1872352760?uo=2"
         },
         {
-            "rank": 3,
+            "rank": 2,
             "apple_id": "1743030473",
             "name": "The Rest Is Politics: US",
             "artist": "Goalhanger",
@@ -38,17 +28,7 @@
             "url": "https:\/\/podcasts.apple.com\/au\/podcast\/the-rest-is-politics-us\/id1743030473?uo=2"
         },
         {
-            "rank": 4,
-            "apple_id": "1381291342",
-            "name": "If You're Listening",
-            "artist": "ABC Australia",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/a7\/72\/3c\/a7723cbe-c18e-aa7d-b672-2df00bcd87d9\/mza_12422576754060203579.jpg\/170x170bb.png",
-            "genre": "Politics",
-            "genre_id": "1527",
-            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/if-youre-listening\/id1381291342?uo=2"
-        },
-        {
-            "rank": 5,
+            "rank": 3,
             "apple_id": "1102298716",
             "name": "Politics Now",
             "artist": "ABC Australia",
@@ -58,17 +38,7 @@
             "url": "https:\/\/podcasts.apple.com\/au\/podcast\/politics-now\/id1102298716?uo=2"
         },
         {
-            "rank": 6,
-            "apple_id": "1200361736",
-            "name": "The Daily",
-            "artist": "The New York Times",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/ab\/64\/66\/ab6466a9-9a7d-e20e-7a3d-bc5be37d29ce\/mza_15084852813176276273.jpg\/170x170bb.png",
-            "genre": "Daily News",
-            "genre_id": "1526",
-            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/the-daily\/id1200361736?uo=2"
-        },
-        {
-            "rank": 7,
+            "rank": 4,
             "apple_id": "1349523628",
             "name": "ABC News Daily",
             "artist": "ABC Australia",
@@ -76,6 +46,36 @@
             "genre": "Daily News",
             "genre_id": "1526",
             "url": "https:\/\/podcasts.apple.com\/au\/podcast\/abc-news-daily\/id1349523628?uo=2"
+        },
+        {
+            "rank": 5,
+            "apple_id": "1381291342",
+            "name": "If You're Listening",
+            "artist": "ABC Australia",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/a7\/72\/3c\/a7723cbe-c18e-aa7d-b672-2df00bcd87d9\/mza_12422576754060203579.jpg\/170x170bb.png",
+            "genre": "Politics",
+            "genre_id": "1527",
+            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/if-youre-listening\/id1381291342?uo=2"
+        },
+        {
+            "rank": 6,
+            "apple_id": "1611374685",
+            "name": "The Rest Is Politics",
+            "artist": "Goalhanger",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/d0\/a7\/d6\/d0a7d6a3-e1d3-52ba-60fd-d788ceb7d559\/mza_17193364103373697567.jpg\/170x170bb.png",
+            "genre": "Politics",
+            "genre_id": "1527",
+            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/the-rest-is-politics\/id1611374685?uo=2"
+        },
+        {
+            "rank": 7,
+            "apple_id": "1200361736",
+            "name": "The Daily",
+            "artist": "The New York Times",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/ab\/64\/66\/ab6466a9-9a7d-e20e-7a3d-bc5be37d29ce\/mza_15084852813176276273.jpg\/170x170bb.png",
+            "genre": "Daily News",
+            "genre_id": "1526",
+            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/the-daily\/id1200361736?uo=2"
         },
         {
             "rank": 8,
@@ -89,36 +89,6 @@
         },
         {
             "rank": 9,
-            "apple_id": "917918570",
-            "name": "Serial",
-            "artist": "Serial Productions & The New York Times",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/9a\/fb\/87\/9afb8760-0e05-2b3e-24a2-7e14cce74570\/mza_14816055607064169808.jpg\/170x170bb.png",
-            "genre": "News",
-            "genre_id": "1489",
-            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/serial\/id917918570?uo=2"
-        },
-        {
-            "rank": 10,
-            "apple_id": "135067274",
-            "name": "Global News Podcast",
-            "artist": "BBC World Service",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/84\/57\/09\/8457093f-677a-d6de-5666-6514cc588a7e\/mza_17083078915388787537.jpg\/170x170bb.png",
-            "genre": "Daily News",
-            "genre_id": "1526",
-            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/global-news-podcast\/id135067274?uo=2"
-        },
-        {
-            "rank": 11,
-            "apple_id": "1461999702",
-            "name": "7am",
-            "artist": "Solstice Media",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/d9\/9e\/ba\/d99eba39-d86d-514a-04d7-74352a3a1c0b\/mza_8141820651466166028.jpg\/170x170bb.png",
-            "genre": "Daily News",
-            "genre_id": "1526",
-            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/7am\/id1461999702?uo=2"
-        },
-        {
-            "rank": 12,
             "apple_id": "1192761536",
             "name": "Pod Save America",
             "artist": "Pod Save America",
@@ -128,7 +98,27 @@
             "url": "https:\/\/podcasts.apple.com\/au\/podcast\/pod-save-america\/id1192761536?uo=2"
         },
         {
-            "rank": 13,
+            "rank": 10,
+            "apple_id": "1461999702",
+            "name": "7am",
+            "artist": "Solstice Media",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/d9\/9e\/ba\/d99eba39-d86d-514a-04d7-74352a3a1c0b\/mza_8141820651466166028.jpg\/170x170bb.png",
+            "genre": "Daily News",
+            "genre_id": "1526",
+            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/7am\/id1461999702?uo=2"
+        },
+        {
+            "rank": 11,
+            "apple_id": "135067274",
+            "name": "Global News Podcast",
+            "artist": "BBC World Service",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/84\/57\/09\/8457093f-677a-d6de-5666-6514cc588a7e\/mza_17083078915388787537.jpg\/170x170bb.png",
+            "genre": "Daily News",
+            "genre_id": "1526",
+            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/global-news-podcast\/id135067274?uo=2"
+        },
+        {
+            "rank": 12,
             "apple_id": "1665265193",
             "name": "The Rest Is Politics: Leading",
             "artist": "Goalhanger",
@@ -138,7 +128,7 @@
             "url": "https:\/\/podcasts.apple.com\/au\/podcast\/the-rest-is-politics-leading\/id1665265193?uo=2"
         },
         {
-            "rank": 14,
+            "rank": 13,
             "apple_id": "1701358863",
             "name": "Big Small Talk",
             "artist": "LiSTNR",
@@ -148,17 +138,17 @@
             "url": "https:\/\/podcasts.apple.com\/au\/podcast\/big-small-talk\/id1701358863?uo=2"
         },
         {
-            "rank": 15,
-            "apple_id": "73330306",
-            "name": "Background Briefing",
-            "artist": "ABC Australia",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/86\/fb\/be\/86fbbe59-d12e-7eaf-0fb1-91b362272d0b\/mza_7943214252650227205.jpg\/170x170bb.png",
-            "genre": "News",
-            "genre_id": "1489",
-            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/background-briefing\/id73330306?uo=2"
+            "rank": 14,
+            "apple_id": "1385995581",
+            "name": "Squiz Today",
+            "artist": "Squiz Media",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/62\/76\/51\/62765166-4762-43f2-b40e-62aaac66c9e7\/mza_12907265438806037599.jpeg\/170x170bb.png",
+            "genre": "Daily News",
+            "genre_id": "1526",
+            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/squiz-today\/id1385995581?uo=2"
         },
         {
-            "rank": 16,
+            "rank": 15,
             "apple_id": "1451469361",
             "name": "The Quicky",
             "artist": "Mamamia Podcasts",
@@ -168,17 +158,7 @@
             "url": "https:\/\/podcasts.apple.com\/au\/podcast\/the-quicky\/id1451469361?uo=2"
         },
         {
-            "rank": 17,
-            "apple_id": "1640878689",
-            "name": "The News Agents",
-            "artist": "Global",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/40\/86\/8d\/40868d10-4f7c-a931-e314-0e31be83667b\/mza_15291423343249011134.jpg\/170x170bb.png",
-            "genre": "Daily News",
-            "genre_id": "1526",
-            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/the-news-agents\/id1640878689?uo=2"
-        },
-        {
-            "rank": 18,
+            "rank": 16,
             "apple_id": "1436450976",
             "name": "The Morning Edition",
             "artist": "The Age and Sydney Morning Herald",
@@ -188,7 +168,7 @@
             "url": "https:\/\/podcasts.apple.com\/au\/podcast\/the-morning-edition\/id1436450976?uo=2"
         },
         {
-            "rank": 19,
+            "rank": 17,
             "apple_id": "1552309889",
             "name": "The Daily Aus",
             "artist": "The Daily Aus",
@@ -198,7 +178,7 @@
             "url": "https:\/\/podcasts.apple.com\/au\/podcast\/the-daily-aus\/id1552309889?uo=2"
         },
         {
-            "rank": 20,
+            "rank": 18,
             "apple_id": "1725924485",
             "name": "Global Roaming with Geraldine Doogue and Hamish Macdonald",
             "artist": "ABC Australia",
@@ -208,14 +188,34 @@
             "url": "https:\/\/podcasts.apple.com\/au\/podcast\/global-roaming-with-geraldine-doogue-and-hamish-macdonald\/id1725924485?uo=2"
         },
         {
-            "rank": 21,
-            "apple_id": "1385995581",
-            "name": "Squiz Today",
-            "artist": "Squiz Media",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/62\/76\/51\/62765166-4762-43f2-b40e-62aaac66c9e7\/mza_12907265438806037599.jpeg\/170x170bb.png",
+            "rank": 19,
+            "apple_id": "1640878689",
+            "name": "The News Agents",
+            "artist": "Global",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/40\/86\/8d\/40868d10-4f7c-a931-e314-0e31be83667b\/mza_15291423343249011134.jpg\/170x170bb.png",
             "genre": "Daily News",
             "genre_id": "1526",
-            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/squiz-today\/id1385995581?uo=2"
+            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/the-news-agents\/id1640878689?uo=2"
+        },
+        {
+            "rank": 20,
+            "apple_id": "1507116817",
+            "name": "The Briefing",
+            "artist": "LiSTNR",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts126\/v4\/9f\/d1\/5c\/9fd15c3e-8e7b-3502-c55a-b2e0c4692edd\/mza_16544467014941875344.jpg\/170x170bb.png",
+            "genre": "Daily News",
+            "genre_id": "1526",
+            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/the-briefing\/id1507116817?uo=2"
+        },
+        {
+            "rank": 21,
+            "apple_id": "1612424182",
+            "name": "Ukraine: The Latest",
+            "artist": "The Telegraph",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/5a\/36\/3a\/5a363a31-d920-e10f-1c93-9fcee9e255fb\/mza_8095698668475838488.jpeg\/170x170bb.png",
+            "genre": "Daily News",
+            "genre_id": "1526",
+            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/ukraine-the-latest\/id1612424182?uo=2"
         },
         {
             "rank": 22,
@@ -239,186 +239,6 @@
         },
         {
             "rank": 24,
-            "apple_id": "1440133626",
-            "name": "Today in Focus",
-            "artist": "The Guardian",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts126\/v4\/f1\/13\/71\/f113715f-56e4-f542-a08c-b5890c0841bc\/mza_18228009703397905678.jpg\/170x170bb.png",
-            "genre": "Daily News",
-            "genre_id": "1526",
-            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/today-in-focus\/id1440133626?uo=2"
-        },
-        {
-            "rank": 25,
-            "apple_id": "1508202790",
-            "name": "The Daily Beast Podcast",
-            "artist": "The Daily Beast, Joanna Coles",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/95\/0b\/26\/950b261d-3741-e9f7-e075-5e905d3b0344\/mza_18428683356059909118.jpeg\/170x170bb.png",
-            "genre": "News",
-            "genre_id": "1489",
-            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/the-daily-beast-podcast\/id1508202790?uo=2"
-        },
-        {
-            "rank": 26,
-            "apple_id": "1719657632",
-            "name": "The Tucker Carlson Show",
-            "artist": "Tucker Carlson Network",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/1a\/1f\/9c\/1a1f9c6d-67fd-0e33-cdf3-4b62617ea9a6\/mza_9226157347267917930.jpg\/170x170bb.png",
-            "genre": "News Commentary",
-            "genre_id": "1530",
-            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/the-tucker-carlson-show\/id1719657632?uo=2"
-        },
-        {
-            "rank": 27,
-            "apple_id": "1617557824",
-            "name": "The Making of One Nation",
-            "artist": "The Conversation",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/97\/5e\/3e\/975e3eb3-6776-2b99-ef1f-3338cb2c7325\/mza_5578361735479752000.png\/170x170bb.png",
-            "genre": "Politics",
-            "genre_id": "1527",
-            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/the-making-of-one-nation\/id1617557824?uo=2"
-        },
-        {
-            "rank": 28,
-            "apple_id": "1612424182",
-            "name": "Ukraine: The Latest",
-            "artist": "The Telegraph",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/5a\/36\/3a\/5a363a31-d920-e10f-1c93-9fcee9e255fb\/mza_8095698668475838488.jpeg\/170x170bb.png",
-            "genre": "Daily News",
-            "genre_id": "1526",
-            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/ukraine-the-latest\/id1612424182?uo=2"
-        },
-        {
-            "rank": 29,
-            "apple_id": "1896908712",
-            "name": "The Long Weekend",
-            "artist": "Karl Stefanovic, Eddie McGuire, GOLD & iHeart Australia",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/98\/fa\/db\/98fadbf3-40de-59df-0006-888860253baa\/mza_5632257859421817612.jpg\/170x170bb.png",
-            "genre": "News Commentary",
-            "genre_id": "1530",
-            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/the-long-weekend\/id1896908712?uo=2"
-        },
-        {
-            "rank": 30,
-            "apple_id": "1507116817",
-            "name": "The Briefing",
-            "artist": "LiSTNR",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts126\/v4\/9f\/d1\/5c\/9fd15c3e-8e7b-3502-c55a-b2e0c4692edd\/mza_16544467014941875344.jpg\/170x170bb.png",
-            "genre": "Daily News",
-            "genre_id": "1526",
-            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/the-briefing\/id1507116817?uo=2"
-        },
-        {
-            "rank": 31,
-            "apple_id": "1073226719",
-            "name": "Pivot",
-            "artist": "New York Magazine",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/13\/22\/39\/1322397a-976e-3c8f-7764-91cc38d0dd70\/mza_12130189257448841692.jpeg\/170x170bb.png",
-            "genre": "News Commentary",
-            "genre_id": "1530",
-            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/pivot\/id1073226719?uo=2"
-        },
-        {
-            "rank": 32,
-            "apple_id": "1447684472",
-            "name": "The Bulwark Podcast",
-            "artist": "The Bulwark",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts116\/v4\/e3\/07\/89\/e30789af-e7d0-bb29-8cf8-ae3b9cfe4316\/mza_2484307396739987098.jpg\/170x170bb.png",
-            "genre": "Politics",
-            "genre_id": "1527",
-            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/the-bulwark-podcast\/id1447684472?uo=2"
-        },
-        {
-            "rank": 33,
-            "apple_id": "1750591415",
-            "name": "Candace",
-            "artist": "Candace Owens",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/33\/6f\/c6\/336fc616-d502-e275-2b71-7cb67da75009\/mza_4089989466656231139.jpeg\/170x170bb.png",
-            "genre": "Politics",
-            "genre_id": "1527",
-            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/candace\/id1750591415?uo=2"
-        },
-        {
-            "rank": 34,
-            "apple_id": "1375568988",
-            "name": "TRIGGERnometry",
-            "artist": "TRIGGERnometry",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts122\/v4\/15\/72\/c4\/1572c4aa-0a61-4fab-ff39-688354ad5931\/mza_13587565036420406085.png\/170x170bb.png",
-            "genre": "Politics",
-            "genre_id": "1527",
-            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/triggernometry\/id1375568988?uo=2"
-        },
-        {
-            "rank": 35,
-            "apple_id": "1649633861",
-            "name": "The Fin",
-            "artist": "Australian Financial Review",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/e4\/b9\/28\/e4b928df-59c0-6fd1-485e-03d52af966ed\/mza_3257711486010462854.jpg\/170x170bb.png",
-            "genre": "Business News",
-            "genre_id": "1490",
-            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/the-fin\/id1649633861?uo=2"
-        },
-        {
-            "rank": 36,
-            "apple_id": "1761444284",
-            "name": "IHIP News",
-            "artist": "Jennifer Welch & Angie Sullivan",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/99\/bb\/c8\/99bbc8a4-c35f-e408-70b0-6b830bfa545f\/mza_4547072400750918608.jpeg\/170x170bb.png",
-            "genre": "News",
-            "genre_id": "1489",
-            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/ihip-news\/id1761444284?uo=2"
-        },
-        {
-            "rank": 37,
-            "apple_id": "157670116",
-            "name": "Ben Fordham Live on 2GB Breakfast",
-            "artist": "Radio 2GB",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/f8\/27\/02\/f827024a-ad40-1270-ca76-2518c3fdbce4\/mza_7582666238844577148.jpg\/170x170bb.png",
-            "genre": "News",
-            "genre_id": "1489",
-            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/ben-fordham-live-on-2gb-breakfast\/id157670116?uo=2"
-        },
-        {
-            "rank": 38,
-            "apple_id": "1499646320",
-            "name": "PEP with Chas and Dr Dave",
-            "artist": "Chas Licciardello",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts125\/v4\/7f\/52\/84\/7f528472-f891-d465-72ca-d700e04477eb\/mza_2273680519904277718.png\/170x170bb.png",
-            "genre": "Politics",
-            "genre_id": "1527",
-            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/pep-with-chas-and-dr-dave\/id1499646320?uo=2"
-        },
-        {
-            "rank": 39,
-            "apple_id": "1823491652",
-            "name": "We Used to be Journos",
-            "artist": "Ette Media",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/1d\/4b\/9b\/1d4b9b0d-e56c-b76e-59b1-7222ff4888ba\/mza_18047271034462262370.jpeg\/170x170bb.png",
-            "genre": "News Commentary",
-            "genre_id": "1530",
-            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/we-used-to-be-journos\/id1823491652?uo=2"
-        },
-        {
-            "rank": 40,
-            "apple_id": "151230264",
-            "name": "Economist Podcasts",
-            "artist": "The Economist",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/92\/68\/ba\/9268bae8-1bd5-2a15-7f1b-7e265d4773bd\/mza_10204374987848109193.png\/170x170bb.png",
-            "genre": "News",
-            "genre_id": "1489",
-            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/economist-podcasts\/id151230264?uo=2"
-        },
-        {
-            "rank": 41,
-            "apple_id": "1459965243",
-            "name": "Democracy Sausage with Mark Kenny",
-            "artist": "The Australian National University",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/e4\/9d\/8b\/e49d8b22-0c7e-7161-5be4-98774c963d90\/mza_11767168428771679953.jpeg\/170x170bb.png",
-            "genre": "News",
-            "genre_id": "1489",
-            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/democracy-sausage-with-mark-kenny\/id1459965243?uo=2"
-        },
-        {
-            "rank": 42,
             "apple_id": "1676700145",
             "name": "Tradies",
             "artist": "Clubby Sports",
@@ -428,57 +248,77 @@
             "url": "https:\/\/podcasts.apple.com\/au\/podcast\/tradies\/id1676700145?uo=2"
         },
         {
-            "rank": 43,
-            "apple_id": "1810214465",
-            "name": "Lamestream",
-            "artist": "Lamestream Media",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/e2\/5f\/92\/e25f925b-0c91-2aeb-8fb4-9f6a5197f19a\/mza_8085535536859729083.jpeg\/170x170bb.png",
-            "genre": "News Commentary",
-            "genre_id": "1530",
-            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/lamestream\/id1810214465?uo=2"
+            "rank": 25,
+            "apple_id": "73330306",
+            "name": "Background Briefing",
+            "artist": "ABC Australia",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/86\/fb\/be\/86fbbe59-d12e-7eaf-0fb1-91b362272d0b\/mza_7943214252650227205.jpg\/170x170bb.png",
+            "genre": "News",
+            "genre_id": "1489",
+            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/background-briefing\/id73330306?uo=2"
         },
         {
-            "rank": 44,
-            "apple_id": "1473150244",
-            "name": "Americast",
-            "artist": "BBC News",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/2b\/d0\/2c\/2bd02c0e-3bbe-26fb-adde-cda213952eb0\/mza_987238534982265770.jpg\/170x170bb.png",
+            "rank": 26,
+            "apple_id": "1823491652",
+            "name": "We Used to be Journos",
+            "artist": "Ette Media",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/1d\/4b\/9b\/1d4b9b0d-e56c-b76e-59b1-7222ff4888ba\/mza_18047271034462262370.jpeg\/170x170bb.png",
+            "genre": "News Commentary",
+            "genre_id": "1530",
+            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/we-used-to-be-journos\/id1823491652?uo=2"
+        },
+        {
+            "rank": 27,
+            "apple_id": "917918570",
+            "name": "Serial",
+            "artist": "Serial Productions & The New York Times",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/9a\/fb\/87\/9afb8760-0e05-2b3e-24a2-7e14cce74570\/mza_14816055607064169808.jpg\/170x170bb.png",
+            "genre": "News",
+            "genre_id": "1489",
+            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/serial\/id917918570?uo=2"
+        },
+        {
+            "rank": 28,
+            "apple_id": "1447684472",
+            "name": "The Bulwark Podcast",
+            "artist": "The Bulwark",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts116\/v4\/e3\/07\/89\/e30789af-e7d0-bb29-8cf8-ae3b9cfe4316\/mza_2484307396739987098.jpg\/170x170bb.png",
             "genre": "Politics",
             "genre_id": "1527",
-            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/americast\/id1473150244?uo=2"
+            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/the-bulwark-podcast\/id1447684472?uo=2"
         },
         {
-            "rank": 45,
-            "apple_id": "1315898827",
-            "name": "Credlin",
-            "artist": "Sky News Australia \/ NZ",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/d1\/eb\/f9\/d1ebf92f-f886-bba4-a87a-1d0a35ca4825\/mza_12798325027890752954.jpg\/170x170bb.png",
-            "genre": "News",
-            "genre_id": "1489",
-            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/credlin\/id1315898827?uo=2"
-        },
-        {
-            "rank": 46,
-            "apple_id": "1006554000",
-            "name": "Fourth Estate",
-            "artist": "2SER",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/a3\/e1\/7d\/a3e17df0-f561-7d3a-872f-b8d234af19f9\/mza_16950281289466771993.jpg\/170x170bb.png",
-            "genre": "News",
-            "genre_id": "1489",
-            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/fourth-estate\/id1006554000?uo=2"
-        },
-        {
-            "rank": 47,
-            "apple_id": "1532976305",
-            "name": "The Megyn Kelly Show",
-            "artist": "SiriusXM",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/3e\/9f\/c1\/3e9fc13c-8030-b57e-f29e-0f14dc8db10d\/mza_602213930944272333.jpg\/170x170bb.png",
+            "rank": 29,
+            "apple_id": "1719657632",
+            "name": "The Tucker Carlson Show",
+            "artist": "Tucker Carlson Network",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/1a\/1f\/9c\/1a1f9c6d-67fd-0e33-cdf3-4b62617ea9a6\/mza_9226157347267917930.jpg\/170x170bb.png",
             "genre": "News Commentary",
             "genre_id": "1530",
-            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/the-megyn-kelly-show\/id1532976305?uo=2"
+            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/the-tucker-carlson-show\/id1719657632?uo=2"
         },
         {
-            "rank": 48,
+            "rank": 30,
+            "apple_id": "1073226719",
+            "name": "Pivot",
+            "artist": "New York Magazine",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/13\/22\/39\/1322397a-976e-3c8f-7764-91cc38d0dd70\/mza_12130189257448841692.jpeg\/170x170bb.png",
+            "genre": "News Commentary",
+            "genre_id": "1530",
+            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/pivot\/id1073226719?uo=2"
+        },
+        {
+            "rank": 31,
+            "apple_id": "1761444284",
+            "name": "IHIP News",
+            "artist": "Jennifer Welch & Angie Sullivan",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/99\/bb\/c8\/99bbc8a4-c35f-e408-70b0-6b830bfa545f\/mza_4547072400750918608.jpeg\/170x170bb.png",
+            "genre": "News",
+            "genre_id": "1489",
+            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/ihip-news\/id1761444284?uo=2"
+        },
+        {
+            "rank": 32,
             "apple_id": "1148500935",
             "name": "NAB Morning Call",
             "artist": "Phil Dobbie",
@@ -488,17 +328,207 @@
             "url": "https:\/\/podcasts.apple.com\/au\/podcast\/nab-morning-call\/id1148500935?uo=2"
         },
         {
-            "rank": 49,
-            "apple_id": "1896853314",
-            "name": "The Solo Bureau",
-            "artist": "Claire Murphy",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/5c\/e0\/83\/5ce08328-1c8e-3843-517e-3ac745f48ac5\/mza_11712227019783443838.jpg\/170x170bb.png",
+            "rank": 33,
+            "apple_id": "1508202790",
+            "name": "The Daily Beast Podcast",
+            "artist": "The Daily Beast, Joanna Coles",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/95\/0b\/26\/950b261d-3741-e9f7-e075-5e905d3b0344\/mza_18428683356059909118.jpeg\/170x170bb.png",
+            "genre": "News",
+            "genre_id": "1489",
+            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/the-daily-beast-podcast\/id1508202790?uo=2"
+        },
+        {
+            "rank": 34,
+            "apple_id": "1440133626",
+            "name": "Today in Focus",
+            "artist": "The Guardian",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts126\/v4\/f1\/13\/71\/f113715f-56e4-f542-a08c-b5890c0841bc\/mza_18228009703397905678.jpg\/170x170bb.png",
             "genre": "Daily News",
             "genre_id": "1526",
-            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/the-solo-bureau\/id1896853314?uo=2"
+            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/today-in-focus\/id1440133626?uo=2"
+        },
+        {
+            "rank": 35,
+            "apple_id": "151230264",
+            "name": "Economist Podcasts",
+            "artist": "The Economist",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/92\/68\/ba\/9268bae8-1bd5-2a15-7f1b-7e265d4773bd\/mza_10204374987848109193.png\/170x170bb.png",
+            "genre": "News",
+            "genre_id": "1489",
+            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/economist-podcasts\/id151230264?uo=2"
+        },
+        {
+            "rank": 36,
+            "apple_id": "1617557824",
+            "name": "The Making of One Nation",
+            "artist": "The Conversation",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/97\/5e\/3e\/975e3eb3-6776-2b99-ef1f-3338cb2c7325\/mza_5578361735479752000.png\/170x170bb.png",
+            "genre": "Politics",
+            "genre_id": "1527",
+            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/the-making-of-one-nation\/id1617557824?uo=2"
+        },
+        {
+            "rank": 37,
+            "apple_id": "1375568988",
+            "name": "TRIGGERnometry",
+            "artist": "TRIGGERnometry",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts122\/v4\/15\/72\/c4\/1572c4aa-0a61-4fab-ff39-688354ad5931\/mza_13587565036420406085.png\/170x170bb.png",
+            "genre": "Politics",
+            "genre_id": "1527",
+            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/triggernometry\/id1375568988?uo=2"
+        },
+        {
+            "rank": 38,
+            "apple_id": "1542880132",
+            "name": "Sky Sports Radio's Big Sports Breakfast",
+            "artist": "Sky Sports Radio",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/92\/8b\/53\/928b53f6-52d1-ad7c-9016-5c678dbc62f8\/mza_13382524858898781639.jpeg\/170x170bb.png",
+            "genre": "Sports News",
+            "genre_id": "1529",
+            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/sky-sports-radios-big-sports-breakfast\/id1542880132?uo=2"
+        },
+        {
+            "rank": 39,
+            "apple_id": "1499646320",
+            "name": "PEP with Chas and Dr Dave",
+            "artist": "Chas Licciardello",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts125\/v4\/7f\/52\/84\/7f528472-f891-d465-72ca-d700e04477eb\/mza_2273680519904277718.png\/170x170bb.png",
+            "genre": "Politics",
+            "genre_id": "1527",
+            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/pep-with-chas-and-dr-dave\/id1499646320?uo=2"
+        },
+        {
+            "rank": 40,
+            "apple_id": "1367201919",
+            "name": "Deadline: White House",
+            "artist": "Nicolle Wallace, MS NOW",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/4a\/73\/46\/4a73468e-e4ef-8a13-931b-b6e0b4c08bd1\/mza_7488883199874680086.jpg\/170x170bb.png",
+            "genre": "Politics",
+            "genre_id": "1527",
+            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/deadline-white-house\/id1367201919?uo=2"
+        },
+        {
+            "rank": 41,
+            "apple_id": "157670116",
+            "name": "Ben Fordham Live on 2GB Breakfast",
+            "artist": "Radio 2GB",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/f8\/27\/02\/f827024a-ad40-1270-ca76-2518c3fdbce4\/mza_7582666238844577148.jpg\/170x170bb.png",
+            "genre": "News",
+            "genre_id": "1489",
+            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/ben-fordham-live-on-2gb-breakfast\/id157670116?uo=2"
+        },
+        {
+            "rank": 42,
+            "apple_id": "1315898827",
+            "name": "Credlin",
+            "artist": "Sky News Australia \/ NZ",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/d1\/eb\/f9\/d1ebf92f-f886-bba4-a87a-1d0a35ca4825\/mza_12798325027890752954.jpg\/170x170bb.png",
+            "genre": "News",
+            "genre_id": "1489",
+            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/credlin\/id1315898827?uo=2"
+        },
+        {
+            "rank": 43,
+            "apple_id": "1532976305",
+            "name": "The Megyn Kelly Show",
+            "artist": "SiriusXM",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/3e\/9f\/c1\/3e9fc13c-8030-b57e-f29e-0f14dc8db10d\/mza_602213930944272333.jpg\/170x170bb.png",
+            "genre": "News Commentary",
+            "genre_id": "1530",
+            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/the-megyn-kelly-show\/id1532976305?uo=2"
+        },
+        {
+            "rank": 44,
+            "apple_id": "1810214465",
+            "name": "Lamestream",
+            "artist": "Lamestream Media",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/e2\/5f\/92\/e25f925b-0c91-2aeb-8fb4-9f6a5197f19a\/mza_8085535536859729083.jpeg\/170x170bb.png",
+            "genre": "News Commentary",
+            "genre_id": "1530",
+            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/lamestream\/id1810214465?uo=2"
+        },
+        {
+            "rank": 45,
+            "apple_id": "1459965243",
+            "name": "Democracy Sausage with Mark Kenny",
+            "artist": "The Australian National University",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/e4\/9d\/8b\/e49d8b22-0c7e-7161-5be4-98774c963d90\/mza_11767168428771679953.jpeg\/170x170bb.png",
+            "genre": "News",
+            "genre_id": "1489",
+            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/democracy-sausage-with-mark-kenny\/id1459965243?uo=2"
+        },
+        {
+            "rank": 46,
+            "apple_id": "294055449",
+            "name": "The Rachel Maddow Show",
+            "artist": "Rachel Maddow, MS NOW",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/b6\/f9\/25\/b6f92595-26d3-7991-646f-e99345579850\/mza_15700909801633924951.jpg\/170x170bb.png",
+            "genre": "News",
+            "genre_id": "1489",
+            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/the-rachel-maddow-show\/id294055449?uo=2"
+        },
+        {
+            "rank": 47,
+            "apple_id": "124116392",
+            "name": "Radio National Breakfast",
+            "artist": "ABC Australia",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/fd\/05\/7b\/fd057b03-c393-0e5e-1a0e-bcbebc86435b\/mza_13072980533068685384.jpg\/170x170bb.png",
+            "genre": "Daily News",
+            "genre_id": "1526",
+            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/radio-national-breakfast\/id124116392?uo=2"
+        },
+        {
+            "rank": 48,
+            "apple_id": "1473150244",
+            "name": "Americast",
+            "artist": "BBC News",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/2b\/d0\/2c\/2bd02c0e-3bbe-26fb-adde-cda213952eb0\/mza_987238534982265770.jpg\/170x170bb.png",
+            "genre": "Politics",
+            "genre_id": "1527",
+            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/americast\/id1473150244?uo=2"
+        },
+        {
+            "rank": 49,
+            "apple_id": "1649633861",
+            "name": "The Fin",
+            "artist": "Australian Financial Review",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/e4\/b9\/28\/e4b928df-59c0-6fd1-485e-03d52af966ed\/mza_3257711486010462854.jpg\/170x170bb.png",
+            "genre": "Business News",
+            "genre_id": "1490",
+            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/the-fin\/id1649633861?uo=2"
         },
         {
             "rank": 50,
+            "apple_id": "297778503",
+            "name": "AM",
+            "artist": "ABC Australia",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/6b\/34\/5d\/6b345d01-5c2f-f549-8e06-38fa6121cfda\/mza_4381452791072228695.jpg\/170x170bb.png",
+            "genre": "Daily News",
+            "genre_id": "1526",
+            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/am\/id297778503?uo=2"
+        },
+        {
+            "rank": 51,
+            "apple_id": "1469394914",
+            "name": "The Journal.",
+            "artist": "The Wall Street Journal & Spotify Studios",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/91\/0e\/ca\/910eca32-75a3-48b6-9be7-f45799ef5f2f\/mza_9869666721903280546.jpg\/170x170bb.png",
+            "genre": "Daily News",
+            "genre_id": "1526",
+            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/the-journal\/id1469394914?uo=2"
+        },
+        {
+            "rank": 52,
+            "apple_id": "1107866169",
+            "name": "The Bolt Report",
+            "artist": "Sky News Australia \/ NZ",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/2c\/05\/9e\/2c059e65-661f-c3b2-27cf-c97726171a07\/mza_15543718198017810809.jpg\/170x170bb.png",
+            "genre": "News",
+            "genre_id": "1489",
+            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/the-bolt-report\/id1107866169?uo=2"
+        },
+        {
+            "rank": 53,
             "apple_id": "78995043",
             "name": "Hack",
             "artist": "triplej",
@@ -506,36 +536,6 @@
             "genre": "Daily News",
             "genre_id": "1526",
             "url": "https:\/\/podcasts.apple.com\/au\/podcast\/hack\/id78995043?uo=2"
-        },
-        {
-            "rank": 51,
-            "apple_id": "1668721389",
-            "name": "ABC News Top Stories",
-            "artist": "ABC Australia",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/b7\/0d\/12\/b70d129b-ff4f-e5e0-e50e-e431aa4da4b2\/mza_15335270152269751866.jpg\/170x170bb.png",
-            "genre": "News",
-            "genre_id": "1489",
-            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/abc-news-top-stories\/id1668721389?uo=2"
-        },
-        {
-            "rank": 52,
-            "apple_id": "1449631195",
-            "name": "The Intelligence from The Economist",
-            "artist": "The Economist",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/13\/a6\/58\/13a65875-b7c7-a663-9b40-0bb42f62bf74\/mza_18066604315473996895.jpeg\/170x170bb.png",
-            "genre": "Daily News",
-            "genre_id": "1526",
-            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/the-intelligence-from-the-economist\/id1449631195?uo=2"
-        },
-        {
-            "rank": 53,
-            "apple_id": "1234185718",
-            "name": "Newscast",
-            "artist": "BBC News",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/69\/3d\/77\/693d775a-d8d8-d735-a66f-072b8ae54106\/mza_14077127562991224684.jpg\/170x170bb.png",
-            "genre": "Daily News",
-            "genre_id": "1526",
-            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/newscast\/id1234185718?uo=2"
         },
         {
             "rank": 54,
@@ -549,53 +549,53 @@
         },
         {
             "rank": 55,
-            "apple_id": "1542880132",
-            "name": "Sky Sports Radio's Big Sports Breakfast",
-            "artist": "Sky Sports Radio",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/92\/8b\/53\/928b53f6-52d1-ad7c-9016-5c678dbc62f8\/mza_13382524858898781639.jpeg\/170x170bb.png",
-            "genre": "Sports News",
-            "genre_id": "1529",
-            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/sky-sports-radios-big-sports-breakfast\/id1542880132?uo=2"
+            "apple_id": "1047335260",
+            "name": "The Ben Shapiro Show",
+            "artist": "The Daily Wire",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/b6\/2c\/2c\/b62c2c46-3fd6-5733-2c82-b95b781a4b40\/mza_17718419788103424619.jpg\/170x170bb.png",
+            "genre": "News Commentary",
+            "genre_id": "1530",
+            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/the-ben-shapiro-show\/id1047335260?uo=2"
         },
         {
             "rank": 56,
-            "apple_id": "124116392",
-            "name": "Radio National Breakfast",
+            "apple_id": "1668721389",
+            "name": "ABC News Top Stories",
             "artist": "ABC Australia",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/fd\/05\/7b\/fd057b03-c393-0e5e-1a0e-bcbebc86435b\/mza_13072980533068685384.jpg\/170x170bb.png",
-            "genre": "Daily News",
-            "genre_id": "1526",
-            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/radio-national-breakfast\/id124116392?uo=2"
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/b7\/0d\/12\/b70d129b-ff4f-e5e0-e50e-e431aa4da4b2\/mza_15335270152269751866.jpg\/170x170bb.png",
+            "genre": "News",
+            "genre_id": "1489",
+            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/abc-news-top-stories\/id1668721389?uo=2"
         },
         {
             "rank": 57,
-            "apple_id": "294055449",
-            "name": "The Rachel Maddow Show",
-            "artist": "Rachel Maddow, MS NOW",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/b6\/f9\/25\/b6f92595-26d3-7991-646f-e99345579850\/mza_15700909801633924951.jpg\/170x170bb.png",
-            "genre": "News",
-            "genre_id": "1489",
-            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/the-rachel-maddow-show\/id294055449?uo=2"
+            "apple_id": "1896853314",
+            "name": "The Solo Bureau",
+            "artist": "Claire Murphy",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/5c\/e0\/83\/5ce08328-1c8e-3843-517e-3ac745f48ac5\/mza_11712227019783443838.jpg\/170x170bb.png",
+            "genre": "Daily News",
+            "genre_id": "1526",
+            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/the-solo-bureau\/id1896853314?uo=2"
         },
         {
             "rank": 58,
-            "apple_id": "1367201919",
-            "name": "Deadline: White House",
-            "artist": "Nicolle Wallace, MS NOW",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/4a\/73\/46\/4a73468e-e4ef-8a13-931b-b6e0b4c08bd1\/mza_7488883199874680086.jpg\/170x170bb.png",
-            "genre": "Politics",
-            "genre_id": "1527",
-            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/deadline-white-house\/id1367201919?uo=2"
+            "apple_id": "1449631195",
+            "name": "The Intelligence from The Economist",
+            "artist": "The Economist",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/13\/a6\/58\/13a65875-b7c7-a663-9b40-0bb42f62bf74\/mza_18066604315473996895.jpeg\/170x170bb.png",
+            "genre": "Daily News",
+            "genre_id": "1526",
+            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/the-intelligence-from-the-economist\/id1449631195?uo=2"
         },
         {
             "rank": 59,
-            "apple_id": "356157099",
-            "name": "Newshour",
-            "artist": "BBC World Service",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/60\/6d\/79\/606d7992-2e59-3374-579f-83d3010f25bd\/mza_15128963149149619329.jpg\/170x170bb.png",
-            "genre": "Daily News",
-            "genre_id": "1526",
-            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/newshour\/id356157099?uo=2"
+            "apple_id": "1050430296",
+            "name": "The New Yorker Radio Hour",
+            "artist": "WNYC Studios and The New Yorker",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/08\/d7\/f9\/08d7f9be-6657-6ed8-f6a7-b1c2db243ca4\/mza_1050541904651421683.jpg\/170x170bb.png",
+            "genre": "Politics",
+            "genre_id": "1527",
+            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/the-new-yorker-radio-hour\/id1050430296?uo=2"
         },
         {
             "rank": 60,
@@ -609,96 +609,16 @@
         },
         {
             "rank": 61,
-            "apple_id": "1370741457",
-            "name": "John Anderson: Conversations",
-            "artist": "John Anderson",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/e7\/79\/78\/e77978ef-c6bf-75e3-a3e4-460e41a06a8f\/mza_16281669569413928591.jpg\/170x170bb.png",
+            "apple_id": "1750591415",
+            "name": "Candace",
+            "artist": "Candace Owens",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/33\/6f\/c6\/336fc616-d502-e275-2b71-7cb67da75009\/mza_4089989466656231139.jpeg\/170x170bb.png",
             "genre": "Politics",
             "genre_id": "1527",
-            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/john-anderson-conversations\/id1370741457?uo=2"
+            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/candace\/id1750591415?uo=2"
         },
         {
             "rank": 62,
-            "apple_id": "1794450472",
-            "name": "Bulwark Takes",
-            "artist": "The Bulwark",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/04\/cf\/04\/04cf0471-ef46-af11-9519-8f5f43a74897\/mza_8455835125203898833.jpg\/170x170bb.png",
-            "genre": "Politics",
-            "genre_id": "1527",
-            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/bulwark-takes\/id1794450472?uo=2"
-        },
-        {
-            "rank": 63,
-            "apple_id": "297778503",
-            "name": "AM",
-            "artist": "ABC Australia",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/6b\/34\/5d\/6b345d01-5c2f-f549-8e06-38fa6121cfda\/mza_4381452791072228695.jpg\/170x170bb.png",
-            "genre": "Daily News",
-            "genre_id": "1526",
-            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/am\/id297778503?uo=2"
-        },
-        {
-            "rank": 64,
-            "apple_id": "1107866169",
-            "name": "The Bolt Report",
-            "artist": "Sky News Australia \/ NZ",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/2c\/05\/9e\/2c059e65-661f-c3b2-27cf-c97726171a07\/mza_15543718198017810809.jpg\/170x170bb.png",
-            "genre": "News",
-            "genre_id": "1489",
-            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/the-bolt-report\/id1107866169?uo=2"
-        },
-        {
-            "rank": 65,
-            "apple_id": "1047335260",
-            "name": "The Ben Shapiro Show",
-            "artist": "The Daily Wire",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/b6\/2c\/2c\/b62c2c46-3fd6-5733-2c82-b95b781a4b40\/mza_17718419788103424619.jpg\/170x170bb.png",
-            "genre": "News Commentary",
-            "genre_id": "1530",
-            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/the-ben-shapiro-show\/id1047335260?uo=2"
-        },
-        {
-            "rank": 66,
-            "apple_id": "499177572",
-            "name": "Insiders",
-            "artist": "ABC Australia",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/86\/5d\/70\/865d703b-173f-a0b5-03f9-d3e88e87f604\/mza_8526822452052543315.jpg\/170x170bb.png",
-            "genre": "Politics",
-            "genre_id": "1527",
-            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/insiders\/id499177572?uo=2"
-        },
-        {
-            "rank": 67,
-            "apple_id": "1767675909",
-            "name": "Inside Trump's Head",
-            "artist": "The Daily Beast, Michael Wolff and Joanna Coles",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/ee\/78\/ea\/ee78ea12-f8bb-5e3c-06ca-7e63a1260c47\/mza_15095967035321623556.jpeg\/170x170bb.png",
-            "genre": "News",
-            "genre_id": "1489",
-            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/inside-trumps-head\/id1767675909?uo=2"
-        },
-        {
-            "rank": 68,
-            "apple_id": "1469394914",
-            "name": "The Journal.",
-            "artist": "The Wall Street Journal & Spotify Studios",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/91\/0e\/ca\/910eca32-75a3-48b6-9be7-f45799ef5f2f\/mza_9869666721903280546.jpg\/170x170bb.png",
-            "genre": "Daily News",
-            "genre_id": "1526",
-            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/the-journal\/id1469394914?uo=2"
-        },
-        {
-            "rank": 69,
-            "apple_id": "974299441",
-            "name": "Morning Joe",
-            "artist": "Joe Scarborough, Mika Brzezinski, MS NOW, Willie Geist",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/c6\/c9\/3b\/c6c93b35-1f3f-79fb-20c0-fc26efae4863\/mza_3156122001457171418.jpg\/170x170bb.png",
-            "genre": "News",
-            "genre_id": "1489",
-            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/morning-joe\/id974299441?uo=2"
-        },
-        {
-            "rank": 70,
             "apple_id": "1346207297",
             "name": "Today, Explained",
             "artist": "Vox",
@@ -708,87 +628,27 @@
             "url": "https:\/\/podcasts.apple.com\/au\/podcast\/today-explained\/id1346207297?uo=2"
         },
         {
-            "rank": 71,
-            "apple_id": "1715473158",
-            "name": "The Global Story",
-            "artist": "BBC World Service",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/04\/79\/45\/047945a2-bc30-0f9f-a4c2-9d27b1761fd2\/mza_3986113186933533816.jpg\/170x170bb.png",
+            "rank": 63,
+            "apple_id": "1794450472",
+            "name": "Bulwark Takes",
+            "artist": "The Bulwark",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/04\/cf\/04\/04cf0471-ef46-af11-9519-8f5f43a74897\/mza_8455835125203898833.jpg\/170x170bb.png",
+            "genre": "Politics",
+            "genre_id": "1527",
+            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/bulwark-takes\/id1794450472?uo=2"
+        },
+        {
+            "rank": 64,
+            "apple_id": "1234185718",
+            "name": "Newscast",
+            "artist": "BBC News",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/69\/3d\/77\/693d775a-d8d8-d735-a66f-072b8ae54106\/mza_14077127562991224684.jpg\/170x170bb.png",
             "genre": "Daily News",
             "genre_id": "1526",
-            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/the-global-story\/id1715473158?uo=2"
+            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/newscast\/id1234185718?uo=2"
         },
         {
-            "rank": 72,
-            "apple_id": "1896918330",
-            "name": "Tocqueville Road Trip from The Economist",
-            "artist": "The Economist",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/03\/d6\/9d\/03d69d72-d072-0ccb-a309-2a878f47d8b8\/mza_2643074564668278483.jpeg\/170x170bb.png",
-            "genre": "Politics",
-            "genre_id": "1527",
-            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/tocqueville-road-trip-from-the-economist\/id1896918330?uo=2"
-        },
-        {
-            "rank": 73,
-            "apple_id": "1712903296",
-            "name": "Iran: The Latest",
-            "artist": "The Telegraph",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/cc\/f2\/1d\/ccf21dd7-ffec-29e3-c6d8-458d4b40caf3\/mza_5394234317232001768.jpeg\/170x170bb.png",
-            "genre": "News Commentary",
-            "genre_id": "1530",
-            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/iran-the-latest\/id1712903296?uo=2"
-        },
-        {
-            "rank": 74,
-            "apple_id": "1895075797",
-            "name": "KIIS Breakfast",
-            "artist": "KIIS and iHeart Australia",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/35\/4f\/11\/354f1186-459e-2018-b86a-d0bb83128919\/mza_17269912302125710538.jpg\/170x170bb.png",
-            "genre": "Entertainment News",
-            "genre_id": "1531",
-            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/kiis-breakfast\/id1895075797?uo=2"
-        },
-        {
-            "rank": 75,
-            "apple_id": "1457296528",
-            "name": "The Lady Vanishes",
-            "artist": "LiSTNR",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/c8\/3f\/ce\/c83fcef1-90ed-b0b0-d917-a139cd13cab3\/mza_995694913201417705.jpg\/170x170bb.png",
-            "genre": "News",
-            "genre_id": "1489",
-            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/the-lady-vanishes\/id1457296528?uo=2"
-        },
-        {
-            "rank": 76,
-            "apple_id": "1109943717",
-            "name": "Australian Politics",
-            "artist": "The Guardian",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/1e\/36\/9c\/1e369c4a-ae6b-17b7-bd57-909952a9715a\/mza_6694889403823498839.jpg\/170x170bb.png",
-            "genre": "News",
-            "genre_id": "1489",
-            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/australian-politics\/id1109943717?uo=2"
-        },
-        {
-            "rank": 77,
-            "apple_id": "1648663774",
-            "name": "Off Air with Jane & Fi",
-            "artist": "The Times",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/8b\/46\/c5\/8b46c572-7ac6-5765-a68d-44f527db2294\/mza_5546825376674359615.jpeg\/170x170bb.png",
-            "genre": "Entertainment News",
-            "genre_id": "1531",
-            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/off-air-with-jane-fi\/id1648663774?uo=2"
-        },
-        {
-            "rank": 78,
-            "apple_id": "1050430296",
-            "name": "The New Yorker Radio Hour",
-            "artist": "WNYC Studios and The New Yorker",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/08\/d7\/f9\/08d7f9be-6657-6ed8-f6a7-b1c2db243ca4\/mza_1050541904651421683.jpg\/170x170bb.png",
-            "genre": "Politics",
-            "genre_id": "1527",
-            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/the-new-yorker-radio-hour\/id1050430296?uo=2"
-        },
-        {
-            "rank": 79,
+            "rank": 65,
             "apple_id": "291212440",
             "name": "3AW Mornings with Tom Elliott",
             "artist": "3AW",
@@ -798,87 +658,87 @@
             "url": "https:\/\/podcasts.apple.com\/au\/podcast\/3aw-mornings-with-tom-elliott\/id291212440?uo=2"
         },
         {
-            "rank": 80,
-            "apple_id": "1539292794",
-            "name": "Call Me Back - with Dan Senor",
-            "artist": "Ark Media",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/d4\/a9\/4e\/d4a94e88-5503-adea-7518-46273e1394ba\/mza_9918457534096932067.jpg\/170x170bb.png",
-            "genre": "News Commentary",
-            "genre_id": "1530",
-            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/call-me-back-with-dan-senor\/id1539292794?uo=2"
-        },
-        {
-            "rank": 81,
-            "apple_id": "289570515",
-            "name": "3AW Breakfast with Ross and Russel",
-            "artist": "3AW",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/6b\/4a\/0d\/6b4a0d04-5216-57ad-89dc-bbf97176e46a\/mza_13482944558637419157.jpg\/170x170bb.png",
-            "genre": "News",
-            "genre_id": "1489",
-            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/3aw-breakfast-with-ross-and-russel\/id289570515?uo=2"
-        },
-        {
-            "rank": 82,
-            "apple_id": "129573335",
-            "name": "Mornings with Mark Levy",
-            "artist": "Tapt Media",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/f6\/17\/4b\/f6174b20-5eb7-1219-0dd1-c4246d9d22e8\/mza_496932415463578611.jpg\/170x170bb.png",
-            "genre": "News",
-            "genre_id": "1489",
-            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/mornings-with-mark-levy\/id129573335?uo=2"
-        },
-        {
-            "rank": 83,
-            "apple_id": "1501716010",
-            "name": "The Story",
+            "rank": 66,
+            "apple_id": "1648663774",
+            "name": "Off Air with Jane & Fi",
             "artist": "The Times",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/cd\/a8\/a9\/cda8a9ab-3880-fe2f-00bf-aa366b073e79\/mza_2126528412175777456.jpeg\/170x170bb.png",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/8b\/46\/c5\/8b46c572-7ac6-5765-a68d-44f527db2294\/mza_5546825376674359615.jpeg\/170x170bb.png",
+            "genre": "Entertainment News",
+            "genre_id": "1531",
+            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/off-air-with-jane-fi\/id1648663774?uo=2"
+        },
+        {
+            "rank": 67,
+            "apple_id": "356157099",
+            "name": "Newshour",
+            "artist": "BBC World Service",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/60\/6d\/79\/606d7992-2e59-3374-579f-83d3010f25bd\/mza_15128963149149619329.jpg\/170x170bb.png",
             "genre": "Daily News",
             "genre_id": "1526",
-            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/the-story\/id1501716010?uo=2"
+            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/newshour\/id356157099?uo=2"
         },
         {
-            "rank": 84,
-            "apple_id": "1776930118",
-            "name": "Gina",
-            "artist": "The Guardian",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/35\/d1\/ea\/35d1ea01-bf1e-24ec-b829-8dd9a3b77175\/mza_12585347648990781288.png\/170x170bb.png",
+            "rank": 68,
+            "apple_id": "1618445014",
+            "name": "Piers Morgan Uncensored",
+            "artist": "Piers Morgan Uncensored",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/0c\/00\/cb\/0c00cb64-16ea-bf12-d6c7-d26b38a270cc\/mza_10536823905303676675.jpeg\/170x170bb.png",
             "genre": "News",
             "genre_id": "1489",
-            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/gina\/id1776930118?uo=2"
+            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/piers-morgan-uncensored\/id1618445014?uo=2"
         },
         {
-            "rank": 85,
-            "apple_id": "1316084734",
-            "name": "The Last Word with Lawrence O’Donnell",
-            "artist": "Lawrence O'Donnell, MS NOW",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/d2\/c1\/8c\/d2c18c76-5323-6215-8d33-7ea944445044\/mza_1815708261480788103.jpg\/170x170bb.png",
-            "genre": "News",
-            "genre_id": "1489",
-            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/the-last-word-with-lawrence-odonnell\/id1316084734?uo=2"
-        },
-        {
-            "rank": 86,
-            "apple_id": "1591962689",
-            "name": "Judging Freedom",
-            "artist": "Judge Napolitano",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts126\/v4\/45\/11\/a3\/4511a3aa-2fbc-e3d4-e243-ab518ceeb74f\/mza_8011996445941328713.jpeg\/170x170bb.png",
+            "rank": 69,
+            "apple_id": "1712903296",
+            "name": "Iran: The Latest",
+            "artist": "The Telegraph",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/cc\/f2\/1d\/ccf21dd7-ffec-29e3-c6d8-458d4b40caf3\/mza_5394234317232001768.jpeg\/170x170bb.png",
             "genre": "News Commentary",
             "genre_id": "1530",
-            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/judging-freedom\/id1591962689?uo=2"
+            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/iran-the-latest\/id1712903296?uo=2"
         },
         {
-            "rank": 87,
-            "apple_id": "1438449989",
-            "name": "FT News Briefing",
-            "artist": "Financial Times",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/60\/fd\/0c\/60fd0c79-808e-cc79-e121-27527becbdc6\/mza_1413179331890984538.jpeg\/170x170bb.png",
-            "genre": "Daily News",
-            "genre_id": "1526",
-            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/ft-news-briefing\/id1438449989?uo=2"
+            "rank": 70,
+            "apple_id": "1454487674",
+            "name": "CLAREMONT: The Trial",
+            "artist": "The West Australian",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts125\/v4\/40\/c0\/17\/40c017c7-3f6a-daf0-61c0-524218c8439b\/mza_13067723954452915237.jpg\/170x170bb.png",
+            "genre": "News",
+            "genre_id": "1489",
+            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/claremont-the-trial\/id1454487674?uo=2"
         },
         {
-            "rank": 88,
+            "rank": 71,
+            "apple_id": "1750404106",
+            "name": "Punters Politics",
+            "artist": "Punter Konrad & Punter James",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/4c\/d1\/3d\/4cd13dcc-e0bb-f142-d073-e8c77eff0e68\/mza_5655500675159550580.jpg\/170x170bb.png",
+            "genre": "Politics",
+            "genre_id": "1527",
+            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/punters-politics\/id1750404106?uo=2"
+        },
+        {
+            "rank": 72,
+            "apple_id": "1457296528",
+            "name": "The Lady Vanishes",
+            "artist": "LiSTNR",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/c8\/3f\/ce\/c83fcef1-90ed-b0b0-d917-a139cd13cab3\/mza_995694913201417705.jpg\/170x170bb.png",
+            "genre": "News",
+            "genre_id": "1489",
+            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/the-lady-vanishes\/id1457296528?uo=2"
+        },
+        {
+            "rank": 73,
+            "apple_id": "499177572",
+            "name": "Insiders",
+            "artist": "ABC Australia",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/86\/5d\/70\/865d703b-173f-a0b5-03f9-d3e88e87f604\/mza_8526822452052543315.jpg\/170x170bb.png",
+            "genre": "Politics",
+            "genre_id": "1527",
+            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/insiders\/id499177572?uo=2"
+        },
+        {
+            "rank": 74,
             "apple_id": "1801841940",
             "name": "Bonafide with Luke Bona",
             "artist": "Luke Bona",
@@ -888,24 +748,164 @@
             "url": "https:\/\/podcasts.apple.com\/au\/podcast\/bonafide-with-luke-bona\/id1801841940?uo=2"
         },
         {
-            "rank": 89,
-            "apple_id": "268213039",
-            "name": "The Political Scene | The New Yorker",
-            "artist": "The New Yorker",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts116\/v4\/dc\/e6\/83\/dce6837d-bb84-ab24-417b-776523ac6456\/mza_4556673873494746368.jpeg\/170x170bb.png",
+            "rank": 75,
+            "apple_id": "1767675909",
+            "name": "Inside Trump's Head",
+            "artist": "The Daily Beast, Michael Wolff and Joanna Coles",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/ee\/78\/ea\/ee78ea12-f8bb-5e3c-06ca-7e63a1260c47\/mza_15095967035321623556.jpeg\/170x170bb.png",
+            "genre": "News",
+            "genre_id": "1489",
+            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/inside-trumps-head\/id1767675909?uo=2"
+        },
+        {
+            "rank": 76,
+            "apple_id": "1539292794",
+            "name": "Call Me Back - with Dan Senor",
+            "artist": "Ark Media",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/d4\/a9\/4e\/d4a94e88-5503-adea-7518-46273e1394ba\/mza_9918457534096932067.jpg\/170x170bb.png",
+            "genre": "News Commentary",
+            "genre_id": "1530",
+            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/call-me-back-with-dan-senor\/id1539292794?uo=2"
+        },
+        {
+            "rank": 77,
+            "apple_id": "1591962689",
+            "name": "Judging Freedom",
+            "artist": "Judge Napolitano",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts126\/v4\/45\/11\/a3\/4511a3aa-2fbc-e3d4-e243-ab518ceeb74f\/mza_8011996445941328713.jpeg\/170x170bb.png",
+            "genre": "News Commentary",
+            "genre_id": "1530",
+            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/judging-freedom\/id1591962689?uo=2"
+        },
+        {
+            "rank": 78,
+            "apple_id": "1715473158",
+            "name": "The Global Story",
+            "artist": "BBC World Service",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/04\/79\/45\/047945a2-bc30-0f9f-a4c2-9d27b1761fd2\/mza_3986113186933533816.jpg\/170x170bb.png",
+            "genre": "Daily News",
+            "genre_id": "1526",
+            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/the-global-story\/id1715473158?uo=2"
+        },
+        {
+            "rank": 79,
+            "apple_id": "6785693502",
+            "name": "The Sarah Hanson-Young Podcast",
+            "artist": "Sarah Hanson-Young",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/f1\/b5\/42\/f1b5422d-844c-ed96-b0aa-53ec42765394\/mza_2398355415433515843.jpg\/170x170bb.png",
             "genre": "Politics",
             "genre_id": "1527",
-            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/the-political-scene-the-new-yorker\/id268213039?uo=2"
+            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/the-sarah-hanson-young-podcast\/id6785693502?uo=2"
+        },
+        {
+            "rank": 80,
+            "apple_id": "1895075797",
+            "name": "KIIS Breakfast",
+            "artist": "KIIS and iHeart Australia",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/35\/4f\/11\/354f1186-459e-2018-b86a-d0bb83128919\/mza_17269912302125710538.jpg\/170x170bb.png",
+            "genre": "Entertainment News",
+            "genre_id": "1531",
+            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/kiis-breakfast\/id1895075797?uo=2"
+        },
+        {
+            "rank": 81,
+            "apple_id": "1896871574",
+            "name": "What’s the Point? with Richard Denniss",
+            "artist": "The Australia Institute",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/e0\/68\/4f\/e0684f2c-ca72-84e8-7421-868988849c27\/mza_557228015789847018.jpg\/170x170bb.png",
+            "genre": "Politics",
+            "genre_id": "1527",
+            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/whats-the-point-with-richard-denniss\/id1896871574?uo=2"
+        },
+        {
+            "rank": 82,
+            "apple_id": "973958702",
+            "name": "Page 94: The Private Eye Podcast",
+            "artist": "Page 94: The Private Eye Podcast",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/0d\/00\/af\/0d00afce-b6ea-e572-a7bf-8ffee0d5facd\/mza_2409410119917680445.png\/170x170bb.png",
+            "genre": "News",
+            "genre_id": "1489",
+            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/page-94-the-private-eye-podcast\/id973958702?uo=2"
+        },
+        {
+            "rank": 83,
+            "apple_id": "1896908712",
+            "name": "The Long Weekend",
+            "artist": "Karl Stefanovic, Eddie McGuire, GOLD & iHeart Australia",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/98\/fa\/db\/98fadbf3-40de-59df-0006-888860253baa\/mza_5632257859421817612.jpg\/170x170bb.png",
+            "genre": "News Commentary",
+            "genre_id": "1530",
+            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/the-long-weekend\/id1896908712?uo=2"
+        },
+        {
+            "rank": 84,
+            "apple_id": "1097417804",
+            "name": "Chapo Trap House",
+            "artist": "Chapo Trap House",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts18\/v4\/37\/d9\/a0\/37d9a0b4-64f8-70d4-722e-b3a8772f3424\/mza_5335192259855381405.jpg\/170x170bb.png",
+            "genre": "News",
+            "genre_id": "1489",
+            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/chapo-trap-house\/id1097417804?uo=2"
+        },
+        {
+            "rank": 85,
+            "apple_id": "1367210511",
+            "name": "The Matt Walsh Show",
+            "artist": "The Daily Wire",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/45\/40\/6e\/45406e30-1af5-f3e6-67c6-86aaffe9522e\/mza_1644857351055524075.jpg\/170x170bb.png",
+            "genre": "News Commentary",
+            "genre_id": "1530",
+            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/the-matt-walsh-show\/id1367210511?uo=2"
+        },
+        {
+            "rank": 86,
+            "apple_id": "1222114325",
+            "name": "Up First from NPR",
+            "artist": "NPR",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/0e\/35\/25\/0e352569-e694-81d9-ea55-5f935981c15a\/mza_1788275989855583986.png\/170x170bb.png",
+            "genre": "Daily News",
+            "genre_id": "1526",
+            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/up-first-from-npr\/id1222114325?uo=2"
+        },
+        {
+            "rank": 87,
+            "apple_id": "1316084734",
+            "name": "The Last Word with Lawrence O’Donnell",
+            "artist": "Lawrence O'Donnell, MS NOW",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/d2\/c1\/8c\/d2c18c76-5323-6215-8d33-7ea944445044\/mza_1815708261480788103.jpg\/170x170bb.png",
+            "genre": "News",
+            "genre_id": "1489",
+            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/the-last-word-with-lawrence-odonnell\/id1316084734?uo=2"
+        },
+        {
+            "rank": 88,
+            "apple_id": "1057255460",
+            "name": "The NPR Politics Podcast",
+            "artist": "NPR",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/71\/15\/1d\/71151d33-32e7-f0e1-2a6b-412bf4835c5d\/mza_9550948332778108059.jpg\/170x170bb.png",
+            "genre": "Politics",
+            "genre_id": "1527",
+            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/the-npr-politics-podcast\/id1057255460?uo=2"
+        },
+        {
+            "rank": 89,
+            "apple_id": "289570515",
+            "name": "3AW Breakfast with Ross and Russel",
+            "artist": "3AW",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/6b\/4a\/0d\/6b4a0d04-5216-57ad-89dc-bbf97176e46a\/mza_13482944558637419157.jpg\/170x170bb.png",
+            "genre": "News",
+            "genre_id": "1489",
+            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/3aw-breakfast-with-ross-and-russel\/id289570515?uo=2"
         },
         {
             "rank": 90,
-            "apple_id": "1896058335",
-            "name": "Paper Trail",
-            "artist": "ProPublica",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/7a\/8f\/15\/7a8f15de-dd03-da38-954c-804f9d0db5e3\/mza_15825585973900367281.jpg\/170x170bb.png",
-            "genre": "News",
-            "genre_id": "1489",
-            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/paper-trail\/id1896058335?uo=2"
+            "apple_id": "1697739141",
+            "name": "5 in 5 with ANZ",
+            "artist": "ANZ",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/48\/d7\/a4\/48d7a4da-cc34-4d12-5971-4d5cacc2c6a0\/mza_10206251105202195356.jpg\/170x170bb.png",
+            "genre": "Business News",
+            "genre_id": "1490",
+            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/5-in-5-with-anz\/id1697739141?uo=2"
         },
         {
             "rank": 91,
@@ -919,66 +919,16 @@
         },
         {
             "rank": 92,
-            "apple_id": "1750404106",
-            "name": "Punters Politics",
-            "artist": "Punter Konrad & Punter James",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/4c\/d1\/3d\/4cd13dcc-e0bb-f142-d073-e8c77eff0e68\/mza_5655500675159550580.jpg\/170x170bb.png",
-            "genre": "Politics",
-            "genre_id": "1527",
-            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/punters-politics\/id1750404106?uo=2"
+            "apple_id": "974299441",
+            "name": "Morning Joe",
+            "artist": "Joe Scarborough, Mika Brzezinski, MS NOW, Willie Geist",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/c6\/c9\/3b\/c6c93b35-1f3f-79fb-20c0-fc26efae4863\/mza_3156122001457171418.jpg\/170x170bb.png",
+            "genre": "News",
+            "genre_id": "1489",
+            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/morning-joe\/id974299441?uo=2"
         },
         {
             "rank": 93,
-            "apple_id": "1527948302",
-            "name": "SBS News Headlines",
-            "artist": "SBS",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/38\/39\/ac\/3839ac48-9e8b-4ec8-835d-ba230736caae\/mza_13649805719620070139.jpg\/170x170bb.png",
-            "genre": "News",
-            "genre_id": "1489",
-            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/sbs-news-headlines\/id1527948302?uo=2"
-        },
-        {
-            "rank": 94,
-            "apple_id": "1451470931",
-            "name": "Who the Hell is Hamish?",
-            "artist": "The Australian",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts114\/v4\/9f\/98\/b4\/9f98b450-84a6-1f8c-c04f-2075745381df\/mza_15058863898374923159.jpg\/170x170bb.png",
-            "genre": "News",
-            "genre_id": "1489",
-            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/who-the-hell-is-hamish\/id1451470931?uo=2"
-        },
-        {
-            "rank": 95,
-            "apple_id": "1057255460",
-            "name": "The NPR Politics Podcast",
-            "artist": "NPR",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/71\/15\/1d\/71151d33-32e7-f0e1-2a6b-412bf4835c5d\/mza_9550948332778108059.jpg\/170x170bb.png",
-            "genre": "Politics",
-            "genre_id": "1527",
-            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/the-npr-politics-podcast\/id1057255460?uo=2"
-        },
-        {
-            "rank": 96,
-            "apple_id": "1245265763",
-            "name": "Oh God, What Now?",
-            "artist": "Podmasters",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/b8\/22\/4d\/b8224d89-b375-c70e-6aed-ed22477d3291\/mza_15610624498819759843.jpeg\/170x170bb.png",
-            "genre": "Politics",
-            "genre_id": "1527",
-            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/oh-god-what-now\/id1245265763?uo=2"
-        },
-        {
-            "rank": 97,
-            "apple_id": "297778505",
-            "name": "The World Today",
-            "artist": "ABC Australia",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/96\/18\/10\/96181021-f7c4-d20d-ef66-5bdf4569e101\/mza_5815411821599311254.jpg\/170x170bb.png",
-            "genre": "Daily News",
-            "genre_id": "1526",
-            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/the-world-today\/id297778505?uo=2"
-        },
-        {
-            "rank": 98,
             "apple_id": "833706616",
             "name": "Part Of The Problem",
             "artist": "GaS Digital Network",
@@ -988,57 +938,7 @@
             "url": "https:\/\/podcasts.apple.com\/au\/podcast\/part-of-the-problem\/id833706616?uo=2"
         },
         {
-            "rank": 99,
-            "apple_id": "1222114325",
-            "name": "Up First from NPR",
-            "artist": "NPR",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/0e\/35\/25\/0e352569-e694-81d9-ea55-5f935981c15a\/mza_1788275989855583986.png\/170x170bb.png",
-            "genre": "Daily News",
-            "genre_id": "1526",
-            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/up-first-from-npr\/id1222114325?uo=2"
-        },
-        {
-            "rank": 100,
-            "apple_id": "136697472",
-            "name": "Politics Weekly UK",
-            "artist": "The Guardian",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/5b\/c3\/68\/5bc36828-cf61-c471-1e1a-629db43068e5\/mza_4178671098091294109.jpg\/170x170bb.png",
-            "genre": "Politics",
-            "genre_id": "1527",
-            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/politics-weekly-uk\/id136697472?uo=2"
-        },
-        {
-            "rank": 101,
-            "apple_id": "1850526014",
-            "name": "The Long Game with Jake Sullivan and Jon Finer",
-            "artist": "Vox Media Podcast Network",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/99\/f2\/c4\/99f2c4b6-5c53-5000-403a-2abf752dfe2f\/mza_2435957084918419723.jpg\/170x170bb.png",
-            "genre": "News Commentary",
-            "genre_id": "1530",
-            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/the-long-game-with-jake-sullivan-and-jon-finer\/id1850526014?uo=2"
-        },
-        {
-            "rank": 102,
-            "apple_id": "1182784661",
-            "name": "Outsiders",
-            "artist": "Sky News Australia \/ NZ",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/c3\/d0\/61\/c3d061ab-f541-61e3-0722-4a9cc0ed4bc5\/mza_14208040460593545219.jpg\/170x170bb.png",
-            "genre": "News",
-            "genre_id": "1489",
-            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/outsiders\/id1182784661?uo=2"
-        },
-        {
-            "rank": 103,
-            "apple_id": "1097417804",
-            "name": "Chapo Trap House",
-            "artist": "Chapo Trap House",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts18\/v4\/37\/d9\/a0\/37d9a0b4-64f8-70d4-722e-b3a8772f3424\/mza_5335192259855381405.jpg\/170x170bb.png",
-            "genre": "News",
-            "genre_id": "1489",
-            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/chapo-trap-house\/id1097417804?uo=2"
-        },
-        {
-            "rank": 104,
+            "rank": 94,
             "apple_id": "98746009",
             "name": "Real Time with Bill Maher",
             "artist": "HBO Podcasts",
@@ -1048,7 +948,7 @@
             "url": "https:\/\/podcasts.apple.com\/au\/podcast\/real-time-with-bill-maher\/id98746009?uo=2"
         },
         {
-            "rank": 105,
+            "rank": 95,
             "apple_id": "1730358737",
             "name": "Letters from an American",
             "artist": "Heather Cox Richardson",
@@ -1058,77 +958,7 @@
             "url": "https:\/\/podcasts.apple.com\/au\/podcast\/letters-from-an-american\/id1730358737?uo=2"
         },
         {
-            "rank": 106,
-            "apple_id": "1857197452",
-            "name": "The Antony Loewenstein Podcast",
-            "artist": "Antony Loewenstein",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/2d\/dd\/ff\/2dddff14-c2e7-c2af-df5c-e745a26dae17\/mza_5756692360178681072.jpg\/170x170bb.png",
-            "genre": "Politics",
-            "genre_id": "1527",
-            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/the-antony-loewenstein-podcast\/id1857197452?uo=2"
-        },
-        {
-            "rank": 107,
-            "apple_id": "1460121501",
-            "name": "James O'Brien - The Whole Show",
-            "artist": "Global",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/48\/75\/d7\/4875d7a6-5ce8-737c-ae77-0c8f92f710b4\/mza_11738304168069757713.jpg\/170x170bb.png",
-            "genre": "Daily News",
-            "genre_id": "1526",
-            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/james-obrien-the-whole-show\/id1460121501?uo=2"
-        },
-        {
-            "rank": 108,
-            "apple_id": "1758855019",
-            "name": "The Headlines",
-            "artist": "The New York Times",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/fc\/8a\/52\/fc8a527d-8979-adf2-977b-06304a816969\/mza_684749869280596722.jpg\/170x170bb.png",
-            "genre": "Daily News",
-            "genre_id": "1526",
-            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/the-headlines\/id1758855019?uo=2"
-        },
-        {
-            "rank": 109,
-            "apple_id": "1672896508",
-            "name": "Shelter FootyCast",
-            "artist": "BackChat Studios",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts122\/v4\/91\/ca\/bf\/91cabf40-95ae-1d58-519c-940ef547e36b\/mza_14033016928058335676.jpeg\/170x170bb.png",
-            "genre": "Sports News",
-            "genre_id": "1529",
-            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/shelter-footycast\/id1672896508?uo=2"
-        },
-        {
-            "rank": 110,
-            "apple_id": "1200016351",
-            "name": "Pod Save the World",
-            "artist": "Pod Save the World",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/41\/3b\/73\/413b73d5-0b9d-667b-23c2-46dcdb379218\/mza_7676514152444871967.jpg\/170x170bb.png",
-            "genre": "Politics",
-            "genre_id": "1527",
-            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/pod-save-the-world\/id1200016351?uo=2"
-        },
-        {
-            "rank": 111,
-            "apple_id": "1462649946",
-            "name": "The David McWilliams Podcast",
-            "artist": "David McWilliams & John Davis",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts116\/v4\/ef\/fc\/04\/effc0417-9d78-a353-a201-90b8a8580704\/mza_11622494059153919215.jpg\/170x170bb.png",
-            "genre": "News",
-            "genre_id": "1489",
-            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/the-david-mcwilliams-podcast\/id1462649946?uo=2"
-        },
-        {
-            "rank": 112,
-            "apple_id": "1314170606",
-            "name": "All In with Chris Hayes",
-            "artist": "MS NOW, Chris Hayes",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/67\/4c\/4a\/674c4abe-4d43-c67c-b70e-fff1795ba447\/mza_7592879859283148412.jpg\/170x170bb.png",
-            "genre": "Politics",
-            "genre_id": "1527",
-            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/all-in-with-chris-hayes\/id1314170606?uo=2"
-        },
-        {
-            "rank": 113,
+            "rank": 96,
             "apple_id": "1751661496",
             "name": "After America",
             "artist": "The Australia Institute",
@@ -1138,177 +968,57 @@
             "url": "https:\/\/podcasts.apple.com\/au\/podcast\/after-america\/id1751661496?uo=2"
         },
         {
-            "rank": 114,
-            "apple_id": "1728152109",
-            "name": "THE DAILY BLAST with Greg Sargent",
-            "artist": "Greg Sargent",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/15\/33\/68\/153368d3-f069-3ee2-e7b7-19f63ce5cbb6\/mza_14148120892209222282.jpeg\/170x170bb.png",
+            "rank": 97,
+            "apple_id": "1438449989",
+            "name": "FT News Briefing",
+            "artist": "Financial Times",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/60\/fd\/0c\/60fd0c79-808e-cc79-e121-27527becbdc6\/mza_1413179331890984538.jpeg\/170x170bb.png",
+            "genre": "Daily News",
+            "genre_id": "1526",
+            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/ft-news-briefing\/id1438449989?uo=2"
+        },
+        {
+            "rank": 98,
+            "apple_id": "268213039",
+            "name": "The Political Scene | The New Yorker",
+            "artist": "The New Yorker",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts116\/v4\/dc\/e6\/83\/dce6837d-bb84-ab24-417b-776523ac6456\/mza_4556673873494746368.jpeg\/170x170bb.png",
             "genre": "Politics",
             "genre_id": "1527",
-            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/the-daily-blast-with-greg-sargent\/id1728152109?uo=2"
+            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/the-political-scene-the-new-yorker\/id268213039?uo=2"
         },
         {
-            "rank": 115,
-            "apple_id": "1618445014",
-            "name": "Piers Morgan Uncensored",
-            "artist": "Piers Morgan Uncensored",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/0c\/00\/cb\/0c00cb64-16ea-bf12-d6c7-d26b38a270cc\/mza_10536823905303676675.jpeg\/170x170bb.png",
+            "rank": 99,
+            "apple_id": "1109943717",
+            "name": "Australian Politics",
+            "artist": "The Guardian",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/1e\/36\/9c\/1e369c4a-ae6b-17b7-bd57-909952a9715a\/mza_6694889403823498839.jpg\/170x170bb.png",
             "genre": "News",
             "genre_id": "1489",
-            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/piers-morgan-uncensored\/id1618445014?uo=2"
+            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/australian-politics\/id1109943717?uo=2"
         },
         {
-            "rank": 116,
-            "apple_id": "1722322123",
-            "name": "Claude AI",
-            "artist": "Claude AI",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/bb\/6d\/aa\/bb6daa11-6190-d473-a2e9-a0d5ad51ce21\/mza_29215563039164085.jpeg\/170x170bb.png",
-            "genre": "Tech News",
-            "genre_id": "1528",
-            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/claude-ai\/id1722322123?uo=2"
-        },
-        {
-            "rank": 117,
-            "apple_id": "1837783062",
-            "name": "Reality Check with Ross Coulthart",
-            "artist": "Ross Coulthart",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/80\/79\/a1\/8079a15d-531a-5e90-229f-3a6d221422c3\/mza_1453221545862509385.jpg\/170x170bb.png",
-            "genre": "News Commentary",
-            "genre_id": "1530",
-            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/reality-check-with-ross-coulthart\/id1837783062?uo=2"
-        },
-        {
-            "rank": 118,
-            "apple_id": "1623945753",
-            "name": "The Teacher's Trial",
-            "artist": "The Australian",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts122\/v4\/37\/28\/fd\/3728fdfa-757c-d285-d2b9-c5e258bd174a\/mza_14100177444604516475.jpg\/170x170bb.png",
+            "rank": 100,
+            "apple_id": "1527948302",
+            "name": "SBS News Headlines",
+            "artist": "SBS",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/38\/39\/ac\/3839ac48-9e8b-4ec8-835d-ba230736caae\/mza_13649805719620070139.jpg\/170x170bb.png",
             "genre": "News",
             "genre_id": "1489",
-            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/the-teachers-trial\/id1623945753?uo=2"
+            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/sbs-news-headlines\/id1527948302?uo=2"
         },
         {
-            "rank": 119,
-            "apple_id": "1429393971",
-            "name": "Australia in the World",
-            "artist": "Darren Lim",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts122\/v4\/8b\/6d\/a9\/8b6da953-4b2d-9c2c-6cb1-886dda047df5\/mza_15889800197871195058.jpg\/170x170bb.png",
-            "genre": "Politics",
-            "genre_id": "1527",
-            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/australia-in-the-world\/id1429393971?uo=2"
-        },
-        {
-            "rank": 120,
-            "apple_id": "1762898126",
-            "name": "The Opinions",
-            "artist": "The New York Times Opinion",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/2d\/af\/bf\/2dafbf10-c118-d531-b43b-5c0e97878e29\/mza_12716482502454917697.jpg\/170x170bb.png",
+            "rank": 101,
+            "apple_id": "129573335",
+            "name": "Mornings with Mark Levy",
+            "artist": "Tapt Media",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/f6\/17\/4b\/f6174b20-5eb7-1219-0dd1-c4246d9d22e8\/mza_496932415463578611.jpg\/170x170bb.png",
             "genre": "News",
             "genre_id": "1489",
-            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/the-opinions\/id1762898126?uo=2"
+            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/mornings-with-mark-levy\/id129573335?uo=2"
         },
         {
-            "rank": 121,
-            "apple_id": "1779393978",
-            "name": "The West Sport Show",
-            "artist": "The West Australian",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/61\/95\/3c\/61953c88-fbb3-35e1-201a-79237ddb68a2\/mza_2423471480485042667.jpg\/170x170bb.png",
-            "genre": "Sports News",
-            "genre_id": "1529",
-            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/the-west-sport-show\/id1779393978?uo=2"
-        },
-        {
-            "rank": 122,
-            "apple_id": "1697739141",
-            "name": "5 in 5 with ANZ",
-            "artist": "ANZ",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/48\/d7\/a4\/48d7a4da-cc34-4d12-5971-4d5cacc2c6a0\/mza_10206251105202195356.jpg\/170x170bb.png",
-            "genre": "Business News",
-            "genre_id": "1490",
-            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/5-in-5-with-anz\/id1697739141?uo=2"
-        },
-        {
-            "rank": 123,
-            "apple_id": "1485351658",
-            "name": "Bannon`s War Room",
-            "artist": "WarRoom.org",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts112\/v4\/80\/d6\/3b\/80d63bcd-5154-0c3a-5896-b091383c01ed\/mza_15154479909201138490.png\/170x170bb.png",
-            "genre": "Politics",
-            "genre_id": "1527",
-            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/bannon-s-war-room\/id1485351658?uo=2"
-        },
-        {
-            "rank": 124,
-            "apple_id": "1476734813",
-            "name": "talkSPORT Daily",
-            "artist": "talkSPORT",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/f0\/84\/8e\/f0848ef4-79e4-c06b-cc4d-732832ad3ab7\/mza_10787094988775035441.jpeg\/170x170bb.png",
-            "genre": "Sports News",
-            "genre_id": "1529",
-            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/talksport-daily\/id1476734813?uo=2"
-        },
-        {
-            "rank": 125,
-            "apple_id": "1606813419",
-            "name": "The Rita Panahi Show",
-            "artist": "Sky News Australia \/ NZ",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/6c\/93\/06\/6c930666-3401-72fc-c600-7a003ccffdf5\/mza_13349962585908113159.jpg\/170x170bb.png",
-            "genre": "News Commentary",
-            "genre_id": "1530",
-            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/the-rita-panahi-show\/id1606813419?uo=2"
-        },
-        {
-            "rank": 126,
-            "apple_id": "1438024613",
-            "name": "Interesting Times with Ross Douthat",
-            "artist": "New York Times Opinion",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/8c\/58\/6b\/8c586bf2-a6cb-b585-fec9-ab95039c49b3\/mza_7541535115834092105.jpg\/170x170bb.png",
-            "genre": "News",
-            "genre_id": "1489",
-            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/interesting-times-with-ross-douthat\/id1438024613?uo=2"
-        },
-        {
-            "rank": 127,
-            "apple_id": "1633394903",
-            "name": "The Kenny Report",
-            "artist": "Sky News Australia \/ NZ",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/b2\/b9\/b6\/b2b9b66e-e92c-f1b9-aa25-941dca853a4e\/mza_15522241191803626365.jpg\/170x170bb.png",
-            "genre": "News",
-            "genre_id": "1489",
-            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/the-kenny-report\/id1633394903?uo=2"
-        },
-        {
-            "rank": 128,
-            "apple_id": "1594471023",
-            "name": "Plain English with Derek Thompson",
-            "artist": "The Ringer",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/be\/63\/2a\/be632ac1-2696-e88b-772c-a9e1ce0722ca\/mza_1153903338389641207.jpeg\/170x170bb.png",
-            "genre": "News Commentary",
-            "genre_id": "1530",
-            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/plain-english-with-derek-thompson\/id1594471023?uo=2"
-        },
-        {
-            "rank": 129,
-            "apple_id": "1706536336",
-            "name": "Political Currency",
-            "artist": "Persephonica",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/81\/50\/27\/81502798-0b1e-7040-169a-872ffacae3d2\/mza_16713582391260423281.jpeg\/170x170bb.png",
-            "genre": "Politics",
-            "genre_id": "1527",
-            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/political-currency\/id1706536336?uo=2"
-        },
-        {
-            "rank": 130,
-            "apple_id": "1580828595",
-            "name": "Legal AF by MeidasTouch",
-            "artist": "MeidasTouch Network",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts122\/v4\/02\/e9\/98\/02e998f1-da38-ef29-d728-eea0667001fc\/mza_13226447739515829660.jpeg\/170x170bb.png",
-            "genre": "News Commentary",
-            "genre_id": "1530",
-            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/legal-af-by-meidastouch\/id1580828595?uo=2"
-        },
-        {
-            "rank": 131,
+            "rank": 102,
             "apple_id": "1691740320",
             "name": "LEGEND",
             "artist": "Guillaume Pley",
@@ -1318,87 +1028,87 @@
             "url": "https:\/\/podcasts.apple.com\/au\/podcast\/legend\/id1691740320?uo=2"
         },
         {
-            "rank": 132,
-            "apple_id": "1822142909",
-            "name": "Glenn Diesen - Greater Eurasia Podcast",
-            "artist": "Glenn Diesen",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/7a\/9e\/dd\/7a9edd57-51be-9212-74fd-4a1453dd2b04\/mza_17905934591870680664.png\/170x170bb.png",
+            "rank": 103,
+            "apple_id": "1485351658",
+            "name": "Bannon`s War Room",
+            "artist": "WarRoom.org",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts112\/v4\/80\/d6\/3b\/80d63bcd-5154-0c3a-5896-b091383c01ed\/mza_15154479909201138490.png\/170x170bb.png",
             "genre": "Politics",
             "genre_id": "1527",
-            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/glenn-diesen-greater-eurasia-podcast\/id1822142909?uo=2"
+            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/bannon-s-war-room\/id1485351658?uo=2"
         },
         {
-            "rank": 133,
-            "apple_id": "1367210511",
-            "name": "The Matt Walsh Show",
-            "artist": "The Daily Wire",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/45\/40\/6e\/45406e30-1af5-f3e6-67c6-86aaffe9522e\/mza_1644857351055524075.jpg\/170x170bb.png",
-            "genre": "News Commentary",
-            "genre_id": "1530",
-            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/the-matt-walsh-show\/id1367210511?uo=2"
+            "rank": 104,
+            "apple_id": "1501716010",
+            "name": "The Story",
+            "artist": "The Times",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/cd\/a8\/a9\/cda8a9ab-3880-fe2f-00bf-aa366b073e79\/mza_2126528412175777456.jpeg\/170x170bb.png",
+            "genre": "Daily News",
+            "genre_id": "1526",
+            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/the-story\/id1501716010?uo=2"
         },
         {
-            "rank": 134,
-            "apple_id": "1896865845",
-            "name": "The Andrew Neil Report",
-            "artist": "Times Radio",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/e6\/81\/dd\/e681dde3-4181-81b3-33b4-aaf8eafeb8bc\/mza_3037107971493923905.jpeg\/170x170bb.png",
+            "rank": 105,
+            "apple_id": "1462649946",
+            "name": "The David McWilliams Podcast",
+            "artist": "David McWilliams & John Davis",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts116\/v4\/ef\/fc\/04\/effc0417-9d78-a353-a201-90b8a8580704\/mza_11622494059153919215.jpg\/170x170bb.png",
+            "genre": "News",
+            "genre_id": "1489",
+            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/the-david-mcwilliams-podcast\/id1462649946?uo=2"
+        },
+        {
+            "rank": 106,
+            "apple_id": "1451470931",
+            "name": "Who the Hell is Hamish?",
+            "artist": "The Australian",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts114\/v4\/9f\/98\/b4\/9f98b450-84a6-1f8c-c04f-2075745381df\/mza_15058863898374923159.jpg\/170x170bb.png",
+            "genre": "News",
+            "genre_id": "1489",
+            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/who-the-hell-is-hamish\/id1451470931?uo=2"
+        },
+        {
+            "rank": 107,
+            "apple_id": "1551582052",
+            "name": "The Lincoln Project",
+            "artist": "The Lincoln Project",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/94\/62\/98\/9462985c-055e-faa6-f517-209f370ac1c2\/mza_4468508680755044166.jpg\/170x170bb.png",
             "genre": "Politics",
             "genre_id": "1527",
-            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/the-andrew-neil-report\/id1896865845?uo=2"
+            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/the-lincoln-project\/id1551582052?uo=2"
         },
         {
-            "rank": 135,
-            "apple_id": "1547404042",
-            "name": "The Times of Israel Daily Briefing",
-            "artist": "The Times of Israel",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts115\/v4\/09\/27\/15\/09271568-ca58-ee45-644d-81cb087b6d79\/mza_18193034415116056993.jpg\/170x170bb.png",
-            "genre": "News",
-            "genre_id": "1489",
-            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/the-times-of-israel-daily-briefing\/id1547404042?uo=2"
-        },
-        {
-            "rank": 136,
-            "apple_id": "984987791",
-            "name": "Undisclosed: Toward Justice",
-            "artist": "Undisclosed",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/a9\/b3\/77\/a9b37710-7b96-6142-17de-2bf7ce7caa5a\/mza_8725957857716441910.png\/170x170bb.png",
-            "genre": "News",
-            "genre_id": "1489",
-            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/undisclosed-toward-justice\/id984987791?uo=2"
-        },
-        {
-            "rank": 137,
-            "apple_id": "1738365431",
-            "name": "Inside Politics",
-            "artist": "The Age and Sydney Morning Herald",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/e6\/6e\/3e\/e66e3eac-c224-706a-9d21-e7f6e0a3a800\/mza_10484093285976313226.jpg\/170x170bb.png",
+            "rank": 108,
+            "apple_id": "1370741457",
+            "name": "John Anderson: Conversations",
+            "artist": "John Anderson",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/e7\/79\/78\/e77978ef-c6bf-75e3-a3e4-460e41a06a8f\/mza_16281669569413928591.jpg\/170x170bb.png",
             "genre": "Politics",
             "genre_id": "1527",
-            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/inside-politics\/id1738365431?uo=2"
+            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/john-anderson-conversations\/id1370741457?uo=2"
         },
         {
-            "rank": 138,
-            "apple_id": "1660605216",
-            "name": "A Right Royal Podcast",
-            "artist": "Hello! Magazine Ltd",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts112\/v4\/18\/e1\/c5\/18e1c5bc-f31c-c381-5448-bfcea61616b6\/mza_9978926349794098395.jpeg\/170x170bb.png",
-            "genre": "Entertainment News",
-            "genre_id": "1531",
-            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/a-right-royal-podcast\/id1660605216?uo=2"
+            "rank": 109,
+            "apple_id": "136697472",
+            "name": "Politics Weekly UK",
+            "artist": "The Guardian",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/5b\/c3\/68\/5bc36828-cf61-c471-1e1a-629db43068e5\/mza_4178671098091294109.jpg\/170x170bb.png",
+            "genre": "Politics",
+            "genre_id": "1527",
+            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/politics-weekly-uk\/id136697472?uo=2"
         },
         {
-            "rank": 139,
-            "apple_id": "1489612924",
-            "name": "The Daily T",
-            "artist": "The Telegraph",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/19\/97\/d8\/1997d870-a7aa-8eca-906a-b9ee4c0795f3\/mza_13395620210198067057.jpeg\/170x170bb.png",
-            "genre": "News",
-            "genre_id": "1489",
-            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/the-daily-t\/id1489612924?uo=2"
+            "rank": 110,
+            "apple_id": "1679657705",
+            "name": "Main Justice",
+            "artist": "MS NOW, Andrew Weissmann, Mary McCord",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/8f\/64\/8b\/8f648b44-580b-4186-4438-25219de0b70a\/mza_5231678167664251491.jpg\/170x170bb.png",
+            "genre": "Politics",
+            "genre_id": "1527",
+            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/main-justice\/id1679657705?uo=2"
         },
         {
-            "rank": 140,
+            "rank": 111,
             "apple_id": "1052842770",
             "name": "The Rubin Report",
             "artist": "Dave Rubin",
@@ -1408,427 +1118,57 @@
             "url": "https:\/\/podcasts.apple.com\/au\/podcast\/the-rubin-report\/id1052842770?uo=2"
         },
         {
-            "rank": 141,
-            "apple_id": "402050558",
-            "name": "The David Pakman Show",
-            "artist": "David Pakman",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/cc\/15\/b2\/cc15b208-1bc4-7f1b-7d35-0d130773ce20\/mza_4326210096222791691.jpg\/170x170bb.png",
+            "rank": 112,
+            "apple_id": "1245265763",
+            "name": "Oh God, What Now?",
+            "artist": "Podmasters",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/b8\/22\/4d\/b8224d89-b375-c70e-6aed-ed22477d3291\/mza_15610624498819759843.jpeg\/170x170bb.png",
             "genre": "Politics",
             "genre_id": "1527",
-            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/the-david-pakman-show\/id402050558?uo=2"
+            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/oh-god-what-now\/id1245265763?uo=2"
         },
         {
-            "rank": 142,
-            "apple_id": "1198375045",
-            "name": "Energy Insiders - a RenewEconomy Podcast",
-            "artist": "RenewEconomy",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts113\/v4\/a8\/76\/db\/a876db31-96fc-fd84-1c0e-b8b40350340e\/mza_7348161984671027396.jpg\/170x170bb.png",
-            "genre": "News",
-            "genre_id": "1489",
-            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/energy-insiders-a-reneweconomy-podcast\/id1198375045?uo=2"
-        },
-        {
-            "rank": 143,
-            "apple_id": "1442883993",
-            "name": "The Duran Podcast",
-            "artist": "The Duran",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts125\/v4\/1d\/6b\/36\/1d6b3681-8e40-4d3a-633a-ee4ac0ba7445\/mza_1830853894073669904.jpg\/170x170bb.png",
-            "genre": "News",
-            "genre_id": "1489",
-            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/the-duran-podcast\/id1442883993?uo=2"
-        },
-        {
-            "rank": 144,
-            "apple_id": "965293227",
-            "name": "The Dan Bongino Show",
-            "artist": "Cumulus Podcast Network | Dan Bongino",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/5b\/c5\/91\/5bc59191-e0fe-ea3d-2ea9-e93d764f0996\/mza_17020828405094667327.jpg\/170x170bb.png",
-            "genre": "News Commentary",
-            "genre_id": "1530",
-            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/the-dan-bongino-show\/id965293227?uo=2"
-        },
-        {
-            "rank": 145,
-            "apple_id": "1544753433",
-            "name": "The Podcast of the Lotus Eaters",
-            "artist": "lotuseaters.com",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts125\/v4\/20\/b3\/c8\/20b3c809-e39e-3a2b-f47b-0b148f70bf42\/mza_12180810654403649339.jpg\/170x170bb.png",
-            "genre": "News",
-            "genre_id": "1489",
-            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/the-podcast-of-the-lotus-eaters\/id1544753433?uo=2"
-        },
-        {
-            "rank": 146,
-            "apple_id": "1550643487",
-            "name": "The Conversation Weekly",
-            "artist": "The Conversation",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts124\/v4\/b0\/f9\/f4\/b0f9f465-75a4-f2d2-01f8-235efb77362e\/mza_14451840210543597544.jpeg\/170x170bb.png",
-            "genre": "News Commentary",
-            "genre_id": "1530",
-            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/the-conversation-weekly\/id1550643487?uo=2"
-        },
-        {
-            "rank": 147,
-            "apple_id": "425179503",
-            "name": "Anderson Cooper 360",
-            "artist": "CNN Podcasts",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/c1\/6a\/ca\/c16aca28-8409-fe88-42ea-a34ca07b7ce9\/mza_10791453805987698187.jpeg\/170x170bb.png",
-            "genre": "News",
-            "genre_id": "1489",
-            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/anderson-cooper-360\/id425179503?uo=2"
-        },
-        {
-            "rank": 148,
-            "apple_id": "1887499486",
-            "name": "The Walkers: The real Salt Path",
-            "artist": "The Observer",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/45\/05\/b6\/4505b609-38dc-463f-f39b-b047a36dcb2c\/mza_7913000048597976687.jpeg\/170x170bb.png",
-            "genre": "News",
-            "genre_id": "1489",
-            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/the-walkers-the-real-salt-path\/id1887499486?uo=2"
-        },
-        {
-            "rank": 149,
-            "apple_id": "932499233",
-            "name": "The Inquiry",
-            "artist": "BBC World Service",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/e2\/35\/de\/e235ded5-8400-9b8b-cc59-b78e8022ae8d\/mza_4724996283128949085.jpg\/170x170bb.png",
-            "genre": "News Commentary",
-            "genre_id": "1530",
-            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/the-inquiry\/id932499233?uo=2"
-        },
-        {
-            "rank": 150,
-            "apple_id": "129625085",
-            "name": "Scottish Football Podcast",
-            "artist": "BBC Radio Scotland",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts116\/v4\/5d\/11\/eb\/5d11eb7b-e1e8-fee9-d56e-1449ce6edc5e\/mza_11388402499936898455.jpg\/170x170bb.png",
-            "genre": "Sports News",
-            "genre_id": "1529",
-            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/scottish-football-podcast\/id129625085?uo=2"
-        },
-        {
-            "rank": 151,
-            "apple_id": "1548441108",
-            "name": "Unholy: Two Jews on the News",
-            "artist": "Unholy Media",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/7f\/10\/20\/7f10200d-6ca7-390b-fbd9-237172122397\/mza_3335446398295563493.jpg\/170x170bb.png",
-            "genre": "News Commentary",
-            "genre_id": "1530",
-            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/unholy-two-jews-on-the-news\/id1548441108?uo=2"
-        },
-        {
-            "rank": 152,
-            "apple_id": "290343835",
-            "name": "Drive with Jacqui Felgate",
-            "artist": "3AW",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/dc\/2a\/5a\/dc2a5aa1-7ad9-9afa-678e-593a1a36678e\/mza_3075020179779576502.jpg\/170x170bb.png",
-            "genre": "News",
-            "genre_id": "1489",
-            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/drive-with-jacqui-felgate\/id290343835?uo=2"
-        },
-        {
-            "rank": 153,
-            "apple_id": "1796123715",
-            "name": "Kevie Walters Inside Ball",
-            "artist": "Kevie Walters and Ben ‘Dobbo’ Dobbin",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/8e\/35\/11\/8e3511e3-6373-a49e-779a-f1bab723ae78\/mza_4092583318303609561.jpg\/170x170bb.png",
-            "genre": "Sports News",
-            "genre_id": "1529",
-            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/kevie-walters-inside-ball\/id1796123715?uo=2"
-        },
-        {
-            "rank": 154,
-            "apple_id": "269169796",
-            "name": "No Agenda Show",
-            "artist": "Adam Curry & John C. Dvorak",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/95\/28\/80\/95288072-5763-3280-5b2e-313973b839ba\/mza_3796267140655268585.jpg\/170x170bb.png",
-            "genre": "News",
-            "genre_id": "1489",
-            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/no-agenda-show\/id269169796?uo=2"
-        },
-        {
-            "rank": 155,
-            "apple_id": "1062997995",
-            "name": "The WAN Show",
-            "artist": "Linus Tech Tips",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/a3\/81\/3a\/a3813a57-e8ec-7b73-37d4-348145548b81\/mza_17033335129325092052.jpg\/170x170bb.png",
-            "genre": "Tech News",
-            "genre_id": "1528",
-            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/the-wan-show\/id1062997995?uo=2"
-        },
-        {
-            "rank": 156,
-            "apple_id": "1896878581",
-            "name": "Fire at Will | GB News",
-            "artist": "GB News",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/57\/2d\/03\/572d0380-b1b2-c089-9497-8700a941ce47\/mza_11658795856493536703.jpeg\/170x170bb.png",
-            "genre": "News Commentary",
-            "genre_id": "1530",
-            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/fire-at-will-gb-news\/id1896878581?uo=2"
-        },
-        {
-            "rank": 157,
-            "apple_id": "1490693338",
-            "name": "Palace Intrigue :  King Charles, Meghan Markle and all the Royal Family gossip",
-            "artist": "Caloroga Shark Media \/ The Daily Royal Family Podcast",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/00\/51\/e1\/0051e16e-d411-12f9-8c5b-8baba1e052ef\/mza_6868662715438225276.jpg\/170x170bb.png",
-            "genre": "Entertainment News",
-            "genre_id": "1531",
-            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/palace-intrigue-king-charles-meghan-markle-and-all\/id1490693338?uo=2"
-        },
-        {
-            "rank": 158,
-            "apple_id": "1309362676",
-            "name": "The World Today",
-            "artist": "ABC Australia",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/99\/9c\/40\/999c407a-8c5b-ab38-2ce1-785a85c53902\/mza_9444399424563484808.jpg\/170x170bb.png",
+            "rank": 113,
+            "apple_id": "1758855019",
+            "name": "The Headlines",
+            "artist": "The New York Times",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/fc\/8a\/52\/fc8a527d-8979-adf2-977b-06304a816969\/mza_684749869280596722.jpg\/170x170bb.png",
             "genre": "Daily News",
             "genre_id": "1526",
-            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/the-world-today\/id1309362676?uo=2"
+            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/the-headlines\/id1758855019?uo=2"
         },
         {
-            "rank": 159,
-            "apple_id": "1484862164",
-            "name": "Politics War Room with James Carville & Al Hunt",
-            "artist": "Politicon",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts126\/v4\/01\/f8\/3e\/01f83e2e-e369-6ffa-a57b-0b2a9386265c\/mza_7024420996455505617.jpg\/170x170bb.png",
-            "genre": "Politics",
-            "genre_id": "1527",
-            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/politics-war-room-with-james-carville-al-hunt\/id1484862164?uo=2"
+            "rank": 114,
+            "apple_id": "1623945753",
+            "name": "The Teacher's Trial",
+            "artist": "The Australian",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts122\/v4\/37\/28\/fd\/3728fdfa-757c-d285-d2b9-c5e258bd174a\/mza_14100177444604516475.jpg\/170x170bb.png",
+            "genre": "News",
+            "genre_id": "1489",
+            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/the-teachers-trial\/id1623945753?uo=2"
         },
         {
-            "rank": 160,
-            "apple_id": "1566731706",
-            "name": "Victor Davis Hanson: In His Own Words",
-            "artist": "Victor Davis Hanson | The Daily Signal",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/59\/90\/78\/599078f3-5b9b-87a1-11f6-192a59326c73\/mza_12134361784888768075.jpg\/170x170bb.png",
-            "genre": "News Commentary",
-            "genre_id": "1530",
-            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/victor-davis-hanson-in-his-own-words\/id1566731706?uo=2"
-        },
-        {
-            "rank": 161,
-            "apple_id": "1364113251",
-            "name": "The Beat with Ari Melber",
-            "artist": "Ari Melber, MS NOW",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/9b\/08\/81\/9b088118-b538-fcb0-2fde-b2d5f17dd4cd\/mza_74306059664273424.jpg\/170x170bb.png",
-            "genre": "Politics",
-            "genre_id": "1527",
-            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/the-beat-with-ari-melber\/id1364113251?uo=2"
-        },
-        {
-            "rank": 162,
-            "apple_id": "1439867370",
-            "name": "Sharri",
+            "rank": 115,
+            "apple_id": "1182784661",
+            "name": "Outsiders",
             "artist": "Sky News Australia \/ NZ",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/15\/d5\/eb\/15d5eb15-bf41-4d1e-ebdf-1025112fc45e\/mza_1060931631699657595.jpg\/170x170bb.png",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/c3\/d0\/61\/c3d061ab-f541-61e3-0722-4a9cc0ed4bc5\/mza_14208040460593545219.jpg\/170x170bb.png",
             "genre": "News",
             "genre_id": "1489",
-            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/sharri\/id1439867370?uo=2"
+            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/outsiders\/id1182784661?uo=2"
         },
         {
-            "rank": 163,
-            "apple_id": "1896675372",
-            "name": "With David Pocock",
-            "artist": "David Pocock Media",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/2c\/0d\/55\/2c0d5566-9bc5-d6bc-b9a0-ba74cbfae760\/mza_7206428205680453425.jpg\/170x170bb.png",
-            "genre": "Politics",
-            "genre_id": "1527",
-            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/with-david-pocock\/id1896675372?uo=2"
+            "rank": 116,
+            "apple_id": "1672896508",
+            "name": "Shelter FootyCast",
+            "artist": "BackChat Studios",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts122\/v4\/91\/ca\/bf\/91cabf40-95ae-1d58-519c-940ef547e36b\/mza_14033016928058335676.jpeg\/170x170bb.png",
+            "genre": "Sports News",
+            "genre_id": "1529",
+            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/shelter-footycast\/id1672896508?uo=2"
         },
         {
-            "rank": 164,
-            "apple_id": "152016440",
-            "name": "WSJ What’s News",
-            "artist": "The Wall Street Journal",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/65\/7d\/a7\/657da78c-5043-57ae-bd81-fb5352479baa\/mza_999814641005091524.jpg\/170x170bb.png",
-            "genre": "Daily News",
-            "genre_id": "1526",
-            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/wsj-whats-news\/id152016440?uo=2"
-        },
-        {
-            "rank": 165,
-            "apple_id": "1568934774",
-            "name": "The Indo Daily",
-            "artist": "Irish Independent",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/9e\/cd\/b1\/9ecdb1e8-e0be-495b-d1b7-62c2b0bf12cf\/mza_8829569346542265253.jpg\/170x170bb.png",
-            "genre": "News",
-            "genre_id": "1489",
-            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/the-indo-daily\/id1568934774?uo=2"
-        },
-        {
-            "rank": 166,
-            "apple_id": "1533533467",
-            "name": "Good Noticings",
-            "artist": "Vox Media Podcast Network",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/64\/fd\/e1\/64fde144-0dc5-f862-abea-f7939f2c16e2\/mza_9612501456124811694.jpeg\/170x170bb.png",
-            "genre": "Entertainment News",
-            "genre_id": "1531",
-            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/good-noticings\/id1533533467?uo=2"
-        },
-        {
-            "rank": 167,
-            "apple_id": "1613562765",
-            "name": "Electoral Dysfunction",
-            "artist": "Sky News",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/4e\/d6\/4e\/4ed64e1b-11f4-987b-e69e-10969774355f\/mza_9019531307439862159.jpg\/170x170bb.png",
-            "genre": "Politics",
-            "genre_id": "1527",
-            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/electoral-dysfunction\/id1613562765?uo=2"
-        },
-        {
-            "rank": 168,
-            "apple_id": "1645614328",
-            "name": "Fast Politics with Molly Jong-Fast",
-            "artist": "iHeartPodcasts",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/7f\/fa\/ad\/7ffaad06-512e-6ce7-c636-6f81a2312368\/mza_11493862159505710824.jpg\/170x170bb.png",
-            "genre": "Politics",
-            "genre_id": "1527",
-            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/fast-politics-with-molly-jong-fast\/id1645614328?uo=2"
-        },
-        {
-            "rank": 169,
-            "apple_id": "1501054889",
-            "name": "Good Weekend Talks",
-            "artist": "The Age and Sydney Morning Herald",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts112\/v4\/a3\/8a\/5b\/a38a5b5b-2de0-5069-dbb2-1ce3cf88458a\/mza_14576492847112439645.jpg\/170x170bb.png",
-            "genre": "Politics",
-            "genre_id": "1527",
-            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/good-weekend-talks\/id1501054889?uo=2"
-        },
-        {
-            "rank": 170,
-            "apple_id": "1657077956",
-            "name": "The Shot Podcast",
-            "artist": "Jo Dyer and Dave Milner",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/66\/5f\/2a\/665f2ae5-07a4-a15f-f719-5481003bd185\/mza_8635958441426303719.jpeg\/170x170bb.png",
-            "genre": "News Commentary",
-            "genre_id": "1530",
-            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/the-shot-podcast\/id1657077956?uo=2"
-        },
-        {
-            "rank": 171,
-            "apple_id": "1867017379",
-            "name": "Switzerland with Tom Switzer",
-            "artist": "Tom Switzer",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/ba\/04\/3f\/ba043f55-6ab4-bb97-bbbe-c2419a0eaeed\/mza_2994532187350306671.jpg\/170x170bb.png",
-            "genre": "Politics",
-            "genre_id": "1527",
-            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/switzerland-with-tom-switzer\/id1867017379?uo=2"
-        },
-        {
-            "rank": 172,
-            "apple_id": "1744285555",
-            "name": "At Large with Toby Manhire",
-            "artist": "The Spinoff",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/ad\/4a\/e8\/ad4ae8f2-d942-60a7-e4ba-6e7551d45c73\/mza_13460122246995211410.jpg\/170x170bb.png",
-            "genre": "Politics",
-            "genre_id": "1527",
-            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/at-large-with-toby-manhire\/id1744285555?uo=2"
-        },
-        {
-            "rank": 173,
-            "apple_id": "1358381502",
-            "name": "Wall Street Breakfast",
-            "artist": "Seeking Alpha",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/5b\/e3\/2d\/5be32dd8-1641-3eb1-7947-a6d1967c0447\/mza_14192425420296728391.jpg\/170x170bb.png",
-            "genre": "Business News",
-            "genre_id": "1490",
-            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/wall-street-breakfast\/id1358381502?uo=2"
-        },
-        {
-            "rank": 174,
-            "apple_id": "1487173754",
-            "name": "The World in Brief from The Economist",
-            "artist": "The Economist",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/9e\/21\/b1\/9e21b146-e5c1-232e-00a8-10c9ac3192d2\/mza_16558186685278697640.jpeg\/170x170bb.png",
-            "genre": "Daily News",
-            "genre_id": "1526",
-            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/the-world-in-brief-from-the-economist\/id1487173754?uo=2"
-        },
-        {
-            "rank": 175,
-            "apple_id": "1101754136",
-            "name": "Coffee House Shots",
-            "artist": "The Spectator",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/de\/35\/b4\/de35b4e6-9dae-b6f1-a78b-0b1e8d11520c\/mza_967555411389562103.jpeg\/170x170bb.png",
-            "genre": "Daily News",
-            "genre_id": "1526",
-            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/coffee-house-shots\/id1101754136?uo=2"
-        },
-        {
-            "rank": 176,
-            "apple_id": "703425900",
-            "name": "Politics with Michelle Grattan",
-            "artist": "The Conversation",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/3f\/67\/28\/3f672802-1d5e-d688-7f3e-d78a0ae7b346\/mza_200465560588514626.png\/170x170bb.png",
-            "genre": "Politics",
-            "genre_id": "1527",
-            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/politics-with-michelle-grattan\/id703425900?uo=2"
-        },
-        {
-            "rank": 177,
-            "apple_id": "1640311112",
-            "name": "The Necessary Conversation",
-            "artist": "The Necessary Conversation",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/2c\/be\/20\/2cbe2050-696c-d51c-9986-9a874e527eb5\/mza_2951829362180446906.jpg\/170x170bb.png",
-            "genre": "Politics",
-            "genre_id": "1527",
-            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/the-necessary-conversation\/id1640311112?uo=2"
-        },
-        {
-            "rank": 178,
-            "apple_id": "1595031851",
-            "name": "Serious Danger",
-            "artist": "Emerald Moon & Tom Ballard",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts126\/v4\/9d\/60\/c5\/9d60c568-2708-f557-60e2-83adf2e3a42c\/mza_1827082971591895658.jpg\/170x170bb.png",
-            "genre": "Politics",
-            "genre_id": "1527",
-            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/serious-danger\/id1595031851?uo=2"
-        },
-        {
-            "rank": 179,
-            "apple_id": "630596898",
-            "name": "The Politics Show",
-            "artist": "The New Statesman",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/2f\/4b\/15\/2f4b1508-5f3e-93fe-291b-1fdd3b5ef04e\/mza_4306378745060014091.jpeg\/170x170bb.png",
-            "genre": "Politics",
-            "genre_id": "1527",
-            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/the-politics-show\/id630596898?uo=2"
-        },
-        {
-            "rank": 180,
-            "apple_id": "1734442919",
-            "name": "Royal Exclusive",
-            "artist": "The Sun",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/b0\/4c\/19\/b04c19a6-fba8-dcc1-5250-6b575ccdcc27\/mza_1104680015535123406.jpeg\/170x170bb.png",
-            "genre": "Entertainment News",
-            "genre_id": "1531",
-            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/royal-exclusive\/id1734442919?uo=2"
-        },
-        {
-            "rank": 181,
-            "apple_id": "1617887885",
-            "name": "The President's Daily Brief",
-            "artist": "The First TV",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/53\/49\/18\/534918fe-0e88-5523-d9e0-56c02ffdc4ae\/mza_5418178523264340498.jpeg\/170x170bb.png",
-            "genre": "Politics",
-            "genre_id": "1527",
-            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/the-presidents-daily-brief\/id1617887885?uo=2"
-        },
-        {
-            "rank": 182,
-            "apple_id": "975569919",
-            "name": "Political Fix",
-            "artist": "Financial Times",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/17\/6b\/d6\/176bd6e1-8c33-fd47-56e2-1ebdc30cba0f\/mza_4343929186735121917.jpeg\/170x170bb.png",
-            "genre": "Politics",
-            "genre_id": "1527",
-            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/political-fix\/id975569919?uo=2"
-        },
-        {
-            "rank": 183,
+            "rank": 117,
             "apple_id": "524000093",
             "name": "Nights with John Stanley",
             "artist": "Tapt Media",
@@ -1838,57 +1178,597 @@
             "url": "https:\/\/podcasts.apple.com\/au\/podcast\/nights-with-john-stanley\/id524000093?uo=2"
         },
         {
-            "rank": 184,
-            "apple_id": "1523617207",
-            "name": "Australia’s Future with Tony Abbott",
-            "artist": "The Institute of Public Affairs",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts112\/v4\/ed\/93\/56\/ed935638-c75a-eff5-333c-04e351f48478\/mza_3311579754373517714.jpg\/170x170bb.png",
-            "genre": "Politics",
-            "genre_id": "1527",
-            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/australias-future-with-tony-abbott\/id1523617207?uo=2"
-        },
-        {
-            "rank": 185,
-            "apple_id": "1665219519",
-            "name": "Reuters World News",
-            "artist": "Reuters",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/37\/79\/ed\/3779ed28-900c-fe28-3fd4-177873c3bba4\/mza_6421898793909046859.jpg\/170x170bb.png",
-            "genre": "Daily News",
-            "genre_id": "1526",
-            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/reuters-world-news\/id1665219519?uo=2"
-        },
-        {
-            "rank": 186,
-            "apple_id": "1477008816",
-            "name": "News Club",
-            "artist": "The Squiz",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/3b\/29\/7a\/3b297a8e-1c18-1aca-3084-a0260c7ca48f\/mza_17023863996319341340.jpeg\/170x170bb.png",
+            "rank": 118,
+            "apple_id": "1580828595",
+            "name": "Legal AF by MeidasTouch",
+            "artist": "MeidasTouch Network",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts122\/v4\/02\/e9\/98\/02e998f1-da38-ef29-d728-eea0667001fc\/mza_13226447739515829660.jpeg\/170x170bb.png",
             "genre": "News Commentary",
             "genre_id": "1530",
-            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/news-club\/id1477008816?uo=2"
+            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/legal-af-by-meidastouch\/id1580828595?uo=2"
         },
         {
-            "rank": 187,
-            "apple_id": "1777930544",
-            "name": "DSPN - Devlin Sports Podcast Network",
-            "artist": "rova | DSPN",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/5d\/89\/a6\/5d89a607-255b-2940-68a5-e1b14666c312\/mza_15341844485207448191.jpeg\/170x170bb.png",
+            "rank": 119,
+            "apple_id": "1796123715",
+            "name": "Kevie Walters Inside Ball",
+            "artist": "Kevie Walters and Ben ‘Dobbo’ Dobbin",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/8e\/35\/11\/8e3511e3-6373-a49e-779a-f1bab723ae78\/mza_4092583318303609561.jpg\/170x170bb.png",
             "genre": "Sports News",
             "genre_id": "1529",
-            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/dspn-devlin-sports-podcast-network\/id1777930544?uo=2"
+            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/kevie-walters-inside-ball\/id1796123715?uo=2"
         },
         {
-            "rank": 188,
-            "apple_id": "1488434518",
-            "name": "TRUMP100",
-            "artist": "Sky News",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/1b\/ea\/70\/1bea7048-be48-4442-e492-2dc427810584\/mza_6005611499037369002.jpg\/170x170bb.png",
+            "rank": 120,
+            "apple_id": "297778505",
+            "name": "The World Today",
+            "artist": "ABC Australia",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/96\/18\/10\/96181021-f7c4-d20d-ef66-5bdf4569e101\/mza_5815411821599311254.jpg\/170x170bb.png",
+            "genre": "Daily News",
+            "genre_id": "1526",
+            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/the-world-today\/id297778505?uo=2"
+        },
+        {
+            "rank": 121,
+            "apple_id": "1633394903",
+            "name": "The Kenny Report",
+            "artist": "Sky News Australia \/ NZ",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/b2\/b9\/b6\/b2b9b66e-e92c-f1b9-aa25-941dca853a4e\/mza_15522241191803626365.jpg\/170x170bb.png",
+            "genre": "News",
+            "genre_id": "1489",
+            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/the-kenny-report\/id1633394903?uo=2"
+        },
+        {
+            "rank": 122,
+            "apple_id": "1865794721",
+            "name": "Real Baron Podcast",
+            "artist": "Baron Coleman",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/3c\/04\/08\/3c0408f0-2f04-8c3e-30df-6c0480223bd3\/mza_12180408426065244276.png\/170x170bb.png",
             "genre": "Politics",
             "genre_id": "1527",
-            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/trump100\/id1488434518?uo=2"
+            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/real-baron-podcast\/id1865794721?uo=2"
         },
         {
-            "rank": 189,
+            "rank": 123,
+            "apple_id": "402050558",
+            "name": "The David Pakman Show",
+            "artist": "David Pakman",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/cc\/15\/b2\/cc15b208-1bc4-7f1b-7d35-0d130773ce20\/mza_4326210096222791691.jpg\/170x170bb.png",
+            "genre": "Politics",
+            "genre_id": "1527",
+            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/the-david-pakman-show\/id402050558?uo=2"
+        },
+        {
+            "rank": 124,
+            "apple_id": "1606813419",
+            "name": "The Rita Panahi Show",
+            "artist": "Sky News Australia \/ NZ",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/6c\/93\/06\/6c930666-3401-72fc-c600-7a003ccffdf5\/mza_13349962585908113159.jpg\/170x170bb.png",
+            "genre": "News Commentary",
+            "genre_id": "1530",
+            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/the-rita-panahi-show\/id1606813419?uo=2"
+        },
+        {
+            "rank": 125,
+            "apple_id": "1814385446",
+            "name": "Australia Matters",
+            "artist": "The Australia Institute",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/88\/56\/60\/88566030-505a-6dbe-675b-23e7766c15f9\/mza_10673093720312000549.jpg\/170x170bb.png",
+            "genre": "Politics",
+            "genre_id": "1527",
+            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/australia-matters\/id1814385446?uo=2"
+        },
+        {
+            "rank": 126,
+            "apple_id": "1314170606",
+            "name": "All In with Chris Hayes",
+            "artist": "MS NOW, Chris Hayes",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/67\/4c\/4a\/674c4abe-4d43-c67c-b70e-fff1795ba447\/mza_7592879859283148412.jpg\/170x170bb.png",
+            "genre": "Politics",
+            "genre_id": "1527",
+            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/all-in-with-chris-hayes\/id1314170606?uo=2"
+        },
+        {
+            "rank": 127,
+            "apple_id": "1594471023",
+            "name": "Plain English with Derek Thompson",
+            "artist": "The Ringer",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/be\/63\/2a\/be632ac1-2696-e88b-772c-a9e1ce0722ca\/mza_1153903338389641207.jpeg\/170x170bb.png",
+            "genre": "News Commentary",
+            "genre_id": "1530",
+            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/plain-english-with-derek-thompson\/id1594471023?uo=2"
+        },
+        {
+            "rank": 128,
+            "apple_id": "1547404042",
+            "name": "The Times of Israel Daily Briefing",
+            "artist": "The Times of Israel",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts115\/v4\/09\/27\/15\/09271568-ca58-ee45-644d-81cb087b6d79\/mza_18193034415116056993.jpg\/170x170bb.png",
+            "genre": "News",
+            "genre_id": "1489",
+            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/the-times-of-israel-daily-briefing\/id1547404042?uo=2"
+        },
+        {
+            "rank": 129,
+            "apple_id": "1442883993",
+            "name": "The Duran Podcast",
+            "artist": "The Duran",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts125\/v4\/1d\/6b\/36\/1d6b3681-8e40-4d3a-633a-ee4ac0ba7445\/mza_1830853894073669904.jpg\/170x170bb.png",
+            "genre": "News",
+            "genre_id": "1489",
+            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/the-duran-podcast\/id1442883993?uo=2"
+        },
+        {
+            "rank": 130,
+            "apple_id": "1544753433",
+            "name": "The Podcast of the Lotus Eaters",
+            "artist": "lotuseaters.com",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts125\/v4\/20\/b3\/c8\/20b3c809-e39e-3a2b-f47b-0b148f70bf42\/mza_12180810654403649339.jpg\/170x170bb.png",
+            "genre": "News",
+            "genre_id": "1489",
+            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/the-podcast-of-the-lotus-eaters\/id1544753433?uo=2"
+        },
+        {
+            "rank": 131,
+            "apple_id": "1834964940",
+            "name": "Kinsey Schofield Unfiltered",
+            "artist": "News UK",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/6f\/23\/00\/6f2300e0-56f0-f939-1848-23121c31ef4c\/mza_10055621172884912517.jpg\/170x170bb.png",
+            "genre": "Entertainment News",
+            "genre_id": "1531",
+            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/kinsey-schofield-unfiltered\/id1834964940?uo=2"
+        },
+        {
+            "rank": 132,
+            "apple_id": "1467297559",
+            "name": "Hacks On Tap",
+            "artist": "Vox Media",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/43\/1e\/1f\/431e1fc3-e9d9-92ba-77c8-4ee07d5caac5\/mza_4049853093869590479.jpeg\/170x170bb.png",
+            "genre": "Politics",
+            "genre_id": "1527",
+            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/hacks-on-tap\/id1467297559?uo=2"
+        },
+        {
+            "rank": 133,
+            "apple_id": "1793486918",
+            "name": "Headlines by Equity Mates",
+            "artist": "Equity Mates Media",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/b0\/01\/7a\/b0017a00-73ba-346a-3d41-4ced3483d37d\/mza_3122712750112583113.jpeg\/170x170bb.png",
+            "genre": "News",
+            "genre_id": "1489",
+            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/headlines-by-equity-mates\/id1793486918?uo=2"
+        },
+        {
+            "rank": 134,
+            "apple_id": "1258635512",
+            "name": "Radio Atlantic",
+            "artist": "The Atlantic",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/13\/5e\/41\/135e41d6-dbc8-66b9-1367-460ac0f5e6c0\/mza_2058775075235418486.jpg\/170x170bb.png",
+            "genre": "Politics",
+            "genre_id": "1527",
+            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/radio-atlantic\/id1258635512?uo=2"
+        },
+        {
+            "rank": 135,
+            "apple_id": "984987791",
+            "name": "Undisclosed: Toward Justice",
+            "artist": "Undisclosed",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/a9\/b3\/77\/a9b37710-7b96-6142-17de-2bf7ce7caa5a\/mza_8725957857716441910.png\/170x170bb.png",
+            "genre": "News",
+            "genre_id": "1489",
+            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/undisclosed-toward-justice\/id984987791?uo=2"
+        },
+        {
+            "rank": 136,
+            "apple_id": "932499233",
+            "name": "The Inquiry",
+            "artist": "BBC World Service",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/e2\/35\/de\/e235ded5-8400-9b8b-cc59-b78e8022ae8d\/mza_4724996283128949085.jpg\/170x170bb.png",
+            "genre": "News Commentary",
+            "genre_id": "1530",
+            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/the-inquiry\/id932499233?uo=2"
+        },
+        {
+            "rank": 137,
+            "apple_id": "425179503",
+            "name": "Anderson Cooper 360",
+            "artist": "CNN Podcasts",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/c1\/6a\/ca\/c16aca28-8409-fe88-42ea-a34ca07b7ce9\/mza_10791453805987698187.jpeg\/170x170bb.png",
+            "genre": "News",
+            "genre_id": "1489",
+            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/anderson-cooper-360\/id425179503?uo=2"
+        },
+        {
+            "rank": 138,
+            "apple_id": "1439867370",
+            "name": "Sharri",
+            "artist": "Sky News Australia \/ NZ",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/15\/d5\/eb\/15d5eb15-bf41-4d1e-ebdf-1025112fc45e\/mza_1060931631699657595.jpg\/170x170bb.png",
+            "genre": "News",
+            "genre_id": "1489",
+            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/sharri\/id1439867370?uo=2"
+        },
+        {
+            "rank": 139,
+            "apple_id": "1200016351",
+            "name": "Pod Save the World",
+            "artist": "Pod Save the World",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/41\/3b\/73\/413b73d5-0b9d-667b-23c2-46dcdb379218\/mza_7676514152444871967.jpg\/170x170bb.png",
+            "genre": "Politics",
+            "genre_id": "1527",
+            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/pod-save-the-world\/id1200016351?uo=2"
+        },
+        {
+            "rank": 140,
+            "apple_id": "1489612924",
+            "name": "The Daily T",
+            "artist": "The Telegraph",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/19\/97\/d8\/1997d870-a7aa-8eca-906a-b9ee4c0795f3\/mza_13395620210198067057.jpeg\/170x170bb.png",
+            "genre": "News",
+            "genre_id": "1489",
+            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/the-daily-t\/id1489612924?uo=2"
+        },
+        {
+            "rank": 141,
+            "apple_id": "1837783062",
+            "name": "Reality Check with Ross Coulthart",
+            "artist": "Ross Coulthart",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/80\/79\/a1\/8079a15d-531a-5e90-229f-3a6d221422c3\/mza_1453221545862509385.jpg\/170x170bb.png",
+            "genre": "News Commentary",
+            "genre_id": "1530",
+            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/reality-check-with-ross-coulthart\/id1837783062?uo=2"
+        },
+        {
+            "rank": 142,
+            "apple_id": "1550643487",
+            "name": "The Conversation Weekly",
+            "artist": "The Conversation",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts124\/v4\/b0\/f9\/f4\/b0f9f465-75a4-f2d2-01f8-235efb77362e\/mza_14451840210543597544.jpeg\/170x170bb.png",
+            "genre": "News Commentary",
+            "genre_id": "1530",
+            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/the-conversation-weekly\/id1550643487?uo=2"
+        },
+        {
+            "rank": 143,
+            "apple_id": "1474001390",
+            "name": "TRUE ANON TRUTH FEED",
+            "artist": "TrueAnon",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/3f\/7f\/86\/3f7f8690-baca-c549-fa69-0166d8101e31\/mza_11692394208238860671.png\/170x170bb.png",
+            "genre": "Politics",
+            "genre_id": "1527",
+            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/true-anon-truth-feed\/id1474001390?uo=2"
+        },
+        {
+            "rank": 144,
+            "apple_id": "1779393978",
+            "name": "The West Sport Show",
+            "artist": "The West Australian",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/61\/95\/3c\/61953c88-fbb3-35e1-201a-79237ddb68a2\/mza_2423471480485042667.jpg\/170x170bb.png",
+            "genre": "Sports News",
+            "genre_id": "1529",
+            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/the-west-sport-show\/id1779393978?uo=2"
+        },
+        {
+            "rank": 145,
+            "apple_id": "290343835",
+            "name": "Drive with Jacqui Felgate",
+            "artist": "3AW",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/dc\/2a\/5a\/dc2a5aa1-7ad9-9afa-678e-593a1a36678e\/mza_3075020179779576502.jpg\/170x170bb.png",
+            "genre": "News",
+            "genre_id": "1489",
+            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/drive-with-jacqui-felgate\/id290343835?uo=2"
+        },
+        {
+            "rank": 146,
+            "apple_id": "1896675372",
+            "name": "With David Pocock",
+            "artist": "David Pocock Media",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/2c\/0d\/55\/2c0d5566-9bc5-d6bc-b9a0-ba74cbfae760\/mza_7206428205680453425.jpg\/170x170bb.png",
+            "genre": "Politics",
+            "genre_id": "1527",
+            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/with-david-pocock\/id1896675372?uo=2"
+        },
+        {
+            "rank": 147,
+            "apple_id": "1538664843",
+            "name": "Racing HQ with Dave Stanley",
+            "artist": "Sky Sports Radio",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts122\/v4\/18\/8c\/4f\/188c4f5c-257f-6332-00d5-69b12da9c025\/mza_14179212064850709896.jpg\/170x170bb.png",
+            "genre": "Sports News",
+            "genre_id": "1529",
+            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/racing-hq-with-dave-stanley\/id1538664843?uo=2"
+        },
+        {
+            "rank": 148,
+            "apple_id": "1776930118",
+            "name": "Gina",
+            "artist": "The Guardian",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/35\/d1\/ea\/35d1ea01-bf1e-24ec-b829-8dd9a3b77175\/mza_12585347648990781288.png\/170x170bb.png",
+            "genre": "News",
+            "genre_id": "1489",
+            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/gina\/id1776930118?uo=2"
+        },
+        {
+            "rank": 149,
+            "apple_id": "1364113251",
+            "name": "The Beat with Ari Melber",
+            "artist": "Ari Melber, MS NOW",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/9b\/08\/81\/9b088118-b538-fcb0-2fde-b2d5f17dd4cd\/mza_74306059664273424.jpg\/170x170bb.png",
+            "genre": "Politics",
+            "genre_id": "1527",
+            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/the-beat-with-ari-melber\/id1364113251?uo=2"
+        },
+        {
+            "rank": 150,
+            "apple_id": "1438024613",
+            "name": "Interesting Times with Ross Douthat",
+            "artist": "New York Times Opinion",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/8c\/58\/6b\/8c586bf2-a6cb-b585-fec9-ab95039c49b3\/mza_7541535115834092105.jpg\/170x170bb.png",
+            "genre": "News",
+            "genre_id": "1489",
+            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/interesting-times-with-ross-douthat\/id1438024613?uo=2"
+        },
+        {
+            "rank": 151,
+            "apple_id": "1617887885",
+            "name": "The President's Daily Brief",
+            "artist": "The First TV",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/53\/49\/18\/534918fe-0e88-5523-d9e0-56c02ffdc4ae\/mza_5418178523264340498.jpeg\/170x170bb.png",
+            "genre": "Politics",
+            "genre_id": "1527",
+            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/the-presidents-daily-brief\/id1617887885?uo=2"
+        },
+        {
+            "rank": 152,
+            "apple_id": "1762898126",
+            "name": "The Opinions",
+            "artist": "The New York Times Opinion",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/2d\/af\/bf\/2dafbf10-c118-d531-b43b-5c0e97878e29\/mza_12716482502454917697.jpg\/170x170bb.png",
+            "genre": "News",
+            "genre_id": "1489",
+            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/the-opinions\/id1762898126?uo=2"
+        },
+        {
+            "rank": 153,
+            "apple_id": "1728152109",
+            "name": "THE DAILY BLAST with Greg Sargent",
+            "artist": "Greg Sargent",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/15\/33\/68\/153368d3-f069-3ee2-e7b7-19f63ce5cbb6\/mza_14148120892209222282.jpeg\/170x170bb.png",
+            "genre": "Politics",
+            "genre_id": "1527",
+            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/the-daily-blast-with-greg-sargent\/id1728152109?uo=2"
+        },
+        {
+            "rank": 154,
+            "apple_id": "1533533467",
+            "name": "Good Noticings",
+            "artist": "Vox Media Podcast Network",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/64\/fd\/e1\/64fde144-0dc5-f862-abea-f7939f2c16e2\/mza_9612501456124811694.jpeg\/170x170bb.png",
+            "genre": "Entertainment News",
+            "genre_id": "1531",
+            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/good-noticings\/id1533533467?uo=2"
+        },
+        {
+            "rank": 155,
+            "apple_id": "1791494552",
+            "name": "The Radio National Hour",
+            "artist": "ABC Australia",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/4f\/12\/24\/4f12247c-5c5f-9385-3901-3ec9b139df83\/mza_17521728119002986172.jpg\/170x170bb.png",
+            "genre": "News",
+            "genre_id": "1489",
+            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/the-radio-national-hour\/id1791494552?uo=2"
+        },
+        {
+            "rank": 156,
+            "apple_id": "129584472",
+            "name": "606",
+            "artist": "BBC Radio 5 Live",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/2e\/c7\/96\/2ec7962c-a5e7-93b9-295c-1d83d96524c7\/mza_13474855592412425994.jpg\/170x170bb.png",
+            "genre": "Sports News",
+            "genre_id": "1529",
+            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/606\/id129584472?uo=2"
+        },
+        {
+            "rank": 157,
+            "apple_id": "929121341",
+            "name": "Louder with Crowder",
+            "artist": "Louder with Crowder",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/de\/17\/7f\/de177f32-1734-a8df-7f4c-bd9c6245ad77\/mza_4684500712399842709.jpg\/170x170bb.png",
+            "genre": "Politics",
+            "genre_id": "1527",
+            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/louder-with-crowder\/id929121341?uo=2"
+        },
+        {
+            "rank": 158,
+            "apple_id": "1822142909",
+            "name": "Glenn Diesen - Greater Eurasia Podcast",
+            "artist": "Glenn Diesen",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/7a\/9e\/dd\/7a9edd57-51be-9212-74fd-4a1453dd2b04\/mza_17905934591870680664.png\/170x170bb.png",
+            "genre": "Politics",
+            "genre_id": "1527",
+            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/glenn-diesen-greater-eurasia-podcast\/id1822142909?uo=2"
+        },
+        {
+            "rank": 159,
+            "apple_id": "1807787260",
+            "name": "Christiane Amanpour Presents: The Ex Files",
+            "artist": "Global",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/f7\/63\/b2\/f763b2ef-5c3d-88e7-5d19-d09f0886f720\/mza_15702104729064168444.jpg\/170x170bb.png",
+            "genre": "News",
+            "genre_id": "1489",
+            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/christiane-amanpour-presents-the-ex-files\/id1807787260?uo=2"
+        },
+        {
+            "rank": 160,
+            "apple_id": "1006554000",
+            "name": "Fourth Estate",
+            "artist": "2SER",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/a3\/e1\/7d\/a3e17df0-f561-7d3a-872f-b8d234af19f9\/mza_16950281289466771993.jpg\/170x170bb.png",
+            "genre": "News",
+            "genre_id": "1489",
+            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/fourth-estate\/id1006554000?uo=2"
+        },
+        {
+            "rank": 161,
+            "apple_id": "152016440",
+            "name": "WSJ What’s News",
+            "artist": "The Wall Street Journal",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/65\/7d\/a7\/657da78c-5043-57ae-bd81-fb5352479baa\/mza_999814641005091524.jpg\/170x170bb.png",
+            "genre": "Daily News",
+            "genre_id": "1526",
+            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/wsj-whats-news\/id152016440?uo=2"
+        },
+        {
+            "rank": 162,
+            "apple_id": "1496246490",
+            "name": "The Bunker – News without the nonsense",
+            "artist": "Podmasters",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/1b\/c7\/13\/1bc71357-b584-f299-22b6-ebda2e1302e9\/mza_4893912138604316790.jpg\/170x170bb.png",
+            "genre": "Politics",
+            "genre_id": "1527",
+            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/the-bunker-news-without-the-nonsense\/id1496246490?uo=2"
+        },
+        {
+            "rank": 163,
+            "apple_id": "1548441108",
+            "name": "Unholy: Two Jews on the News",
+            "artist": "Unholy Media",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/7f\/10\/20\/7f10200d-6ca7-390b-fbd9-237172122397\/mza_3335446398295563493.jpg\/170x170bb.png",
+            "genre": "News Commentary",
+            "genre_id": "1530",
+            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/unholy-two-jews-on-the-news\/id1548441108?uo=2"
+        },
+        {
+            "rank": 164,
+            "apple_id": "1647085571",
+            "name": "The Next Level",
+            "artist": "The Bulwark",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/65\/c3\/ca\/65c3ca48-71d4-cf3f-84f5-d7847106e79c\/mza_6132127499934224504.jpg\/170x170bb.png",
+            "genre": "Politics",
+            "genre_id": "1527",
+            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/the-next-level\/id1647085571?uo=2"
+        },
+        {
+            "rank": 165,
+            "apple_id": "1800099248",
+            "name": "Truth, Lies and Media",
+            "artist": "Nicole Chvastek, Denis Muller",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/b2\/cd\/28\/b2cd287c-9776-7b26-9565-a9029ba57433\/mza_18002859825958172618.jpeg\/170x170bb.png",
+            "genre": "News",
+            "genre_id": "1489",
+            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/truth-lies-and-media\/id1800099248?uo=2"
+        },
+        {
+            "rank": 166,
+            "apple_id": "1857197452",
+            "name": "The Antony Loewenstein Podcast",
+            "artist": "Antony Loewenstein",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/2d\/dd\/ff\/2dddff14-c2e7-c2af-df5c-e745a26dae17\/mza_5756692360178681072.jpg\/170x170bb.png",
+            "genre": "Politics",
+            "genre_id": "1527",
+            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/the-antony-loewenstein-podcast\/id1857197452?uo=2"
+        },
+        {
+            "rank": 167,
+            "apple_id": "1368668108",
+            "name": "CNN Inside Politics",
+            "artist": "CNN Podcasts",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/bf\/ad\/83\/bfad83c2-4aef-eb33-727d-581833bd37fe\/mza_14546558905443569198.jpeg\/170x170bb.png",
+            "genre": "News",
+            "genre_id": "1489",
+            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/cnn-inside-politics\/id1368668108?uo=2"
+        },
+        {
+            "rank": 168,
+            "apple_id": "1668233289",
+            "name": "The Late Debate",
+            "artist": "Sky News Australia \/ NZ",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/71\/71\/4a\/71714a16-9347-8803-f924-1902fa14191b\/mza_1561310879661869524.jpg\/170x170bb.png",
+            "genre": "News",
+            "genre_id": "1489",
+            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/the-late-debate\/id1668233289?uo=2"
+        },
+        {
+            "rank": 169,
+            "apple_id": "400203229",
+            "name": "NHKラジオニュース",
+            "artist": "NHK (Japan Broadcasting Corporation)",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/14\/3e\/01\/143e0148-1d4a-197e-8db6-7c28f22fb70a\/mza_1995634670380288253.jpg\/170x170bb.png",
+            "genre": "News",
+            "genre_id": "1489",
+            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/nhk%E3%83%A9%E3%82%B8%E3%82%AA%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9\/id400203229?uo=2"
+        },
+        {
+            "rank": 170,
+            "apple_id": "269169796",
+            "name": "No Agenda Show",
+            "artist": "Adam Curry & John C. Dvorak",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/d8\/8b\/dc\/d88bdcda-01f1-5df5-e31d-10dc0e48ef3d\/mza_5035267244204095063.jpg\/170x170bb.png",
+            "genre": "News",
+            "genre_id": "1489",
+            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/no-agenda-show\/id269169796?uo=2"
+        },
+        {
+            "rank": 171,
+            "apple_id": "1289384685",
+            "name": "The Daily Zeitgeist",
+            "artist": "iHeartPodcasts",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/63\/f2\/0b\/63f20b8f-4627-73be-a229-c2298ce40e00\/mza_17172377238594242904.jpg\/170x170bb.png",
+            "genre": "News",
+            "genre_id": "1489",
+            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/the-daily-zeitgeist\/id1289384685?uo=2"
+        },
+        {
+            "rank": 172,
+            "apple_id": "296237493",
+            "name": "Bloomberg Surveillance",
+            "artist": "Bloomberg",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts116\/v4\/02\/c5\/36\/02c5367b-22cc-2555-ff0c-d8a7981014ea\/mza_17425960332446088310.jpg\/170x170bb.png",
+            "genre": "Business News",
+            "genre_id": "1490",
+            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/bloomberg-surveillance\/id296237493?uo=2"
+        },
+        {
+            "rank": 173,
+            "apple_id": "1062997995",
+            "name": "The WAN Show",
+            "artist": "Linus Tech Tips",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/a3\/81\/3a\/a3813a57-e8ec-7b73-37d4-348145548b81\/mza_17033335129325092052.jpg\/170x170bb.png",
+            "genre": "Tech News",
+            "genre_id": "1528",
+            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/the-wan-show\/id1062997995?uo=2"
+        },
+        {
+            "rank": 174,
+            "apple_id": "292651411",
+            "name": "World Business Report",
+            "artist": "BBC World Service",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/4c\/59\/e5\/4c59e58d-3705-07ae-8202-cd6dc0c1a775\/mza_14776944308557775503.jpg\/170x170bb.png",
+            "genre": "Business News",
+            "genre_id": "1490",
+            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/world-business-report\/id292651411?uo=2"
+        },
+        {
+            "rank": 175,
+            "apple_id": "1266577963",
+            "name": "The Michael Knowles Show",
+            "artist": "The Daily Wire",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/eb\/2b\/49\/eb2b49b3-16b9-8ddb-d73a-43f71d302e76\/mza_18084327446382056995.jpg\/170x170bb.png",
+            "genre": "News Commentary",
+            "genre_id": "1530",
+            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/the-michael-knowles-show\/id1266577963?uo=2"
+        },
+        {
+            "rank": 176,
+            "apple_id": "1837201724",
+            "name": "Bold Politics with Zack Polanski",
+            "artist": "Bold Politics",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/6c\/03\/ec\/6c03ec4e-1eda-770d-cbc7-41d44668900d\/mza_469419572501059171.jpeg\/170x170bb.png",
+            "genre": "Politics",
+            "genre_id": "1527",
+            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/bold-politics-with-zack-polanski\/id1837201724?uo=2"
+        },
+        {
+            "rank": 177,
             "apple_id": "1473747182",
             "name": "The Daily Beans",
             "artist": "MSW Media",
@@ -1898,57 +1778,17 @@
             "url": "https:\/\/podcasts.apple.com\/au\/podcast\/the-daily-beans\/id1473747182?uo=2"
         },
         {
-            "rank": 190,
-            "apple_id": "977602870",
-            "name": "Six O'Clock News",
-            "artist": "BBC Radio 4",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/d7\/f1\/fb\/d7f1fb04-882f-45da-4fb3-2238974f7a8f\/mza_17846386286938860128.jpg\/170x170bb.png",
-            "genre": "Daily News",
-            "genre_id": "1526",
-            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/six-oclock-news\/id977602870?uo=2"
+            "rank": 178,
+            "apple_id": "1477008816",
+            "name": "News Club",
+            "artist": "The Squiz",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/3b\/29\/7a\/3b297a8e-1c18-1aca-3084-a0260c7ca48f\/mza_17023863996319341340.jpeg\/170x170bb.png",
+            "genre": "News Commentary",
+            "genre_id": "1530",
+            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/news-club\/id1477008816?uo=2"
         },
         {
-            "rank": 191,
-            "apple_id": "1885015768",
-            "name": "Ark News Daily",
-            "artist": "Ark Media",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/cf\/86\/0e\/cf860e9a-32d3-6470-eec7-e2ccd6f58871\/mza_13547824408200204570.jpg\/170x170bb.png",
-            "genre": "Daily News",
-            "genre_id": "1526",
-            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/ark-news-daily\/id1885015768?uo=2"
-        },
-        {
-            "rank": 192,
-            "apple_id": "1895656861",
-            "name": "Super Structure with Julian Feeld",
-            "artist": "Julian Feeld",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/e2\/91\/a4\/e291a493-9f07-e5a4-6bda-f80823eab6d5\/mza_13440258168894295393.png\/170x170bb.png",
-            "genre": "News",
-            "genre_id": "1489",
-            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/super-structure-with-julian-feeld\/id1895656861?uo=2"
-        },
-        {
-            "rank": 193,
-            "apple_id": "1887002984",
-            "name": "Footy In Focus: NRL News with Kat & Isaac",
-            "artist": "Kat Haddad",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/71\/0b\/ca\/710bca91-2a39-4083-e6d9-68db103ff0a5\/mza_2704423033162670444.jpeg\/170x170bb.png",
-            "genre": "Sports News",
-            "genre_id": "1529",
-            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/footy-in-focus-nrl-news-with-kat-isaac\/id1887002984?uo=2"
-        },
-        {
-            "rank": 194,
-            "apple_id": "1522960417",
-            "name": "Big Technology Podcast",
-            "artist": "Alex Kantrowitz",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/c3\/30\/67\/c330676b-2402-432b-0505-12490dc3ccc1\/mza_4262545472677654397.jpeg\/170x170bb.png",
-            "genre": "Tech News",
-            "genre_id": "1528",
-            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/big-technology-podcast\/id1522960417?uo=2"
-        },
-        {
-            "rank": 195,
+            "rank": 179,
             "apple_id": "1652941051",
             "name": "Infamous",
             "artist": "Campside Media \/ Sony Music Entertainment",
@@ -1958,7 +1798,107 @@
             "url": "https:\/\/podcasts.apple.com\/au\/podcast\/infamous\/id1652941051?uo=2"
         },
         {
-            "rank": 196,
+            "rank": 180,
+            "apple_id": "965293227",
+            "name": "The Dan Bongino Show",
+            "artist": "Cumulus Podcast Network | Dan Bongino",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/5b\/c5\/91\/5bc59191-e0fe-ea3d-2ea9-e93d764f0996\/mza_17020828405094667327.jpg\/170x170bb.png",
+            "genre": "News Commentary",
+            "genre_id": "1530",
+            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/the-dan-bongino-show\/id965293227?uo=2"
+        },
+        {
+            "rank": 181,
+            "apple_id": "1438817292",
+            "name": "The Take",
+            "artist": "Al Jazeera",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/74\/a1\/58\/74a158f8-d8b9-0f82-ccef-26793f0ec50e\/mza_9290977667246390752.jpg\/170x170bb.png",
+            "genre": "Daily News",
+            "genre_id": "1526",
+            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/the-take\/id1438817292?uo=2"
+        },
+        {
+            "rank": 182,
+            "apple_id": "1488434518",
+            "name": "TRUMP100",
+            "artist": "Sky News",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/1b\/ea\/70\/1bea7048-be48-4442-e492-2dc427810584\/mza_6005611499037369002.jpg\/170x170bb.png",
+            "genre": "Politics",
+            "genre_id": "1527",
+            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/trump100\/id1488434518?uo=2"
+        },
+        {
+            "rank": 183,
+            "apple_id": "1884146372",
+            "name": "The Morgan Stewart Show",
+            "artist": "Morgan Stewart",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/69\/84\/e7\/6984e772-9e27-1d7c-b641-0d1ca2208028\/mza_9843280263932663127.jpg\/170x170bb.png",
+            "genre": "Entertainment News",
+            "genre_id": "1531",
+            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/the-morgan-stewart-show\/id1884146372?uo=2"
+        },
+        {
+            "rank": 184,
+            "apple_id": "1568934774",
+            "name": "The Indo Daily",
+            "artist": "Irish Independent",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/9e\/cd\/b1\/9ecdb1e8-e0be-495b-d1b7-62c2b0bf12cf\/mza_8829569346542265253.jpg\/170x170bb.png",
+            "genre": "News",
+            "genre_id": "1489",
+            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/the-indo-daily\/id1568934774?uo=2"
+        },
+        {
+            "rank": 185,
+            "apple_id": "977602870",
+            "name": "Six O'Clock News",
+            "artist": "BBC Radio 4",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/d7\/f1\/fb\/d7f1fb04-882f-45da-4fb3-2238974f7a8f\/mza_17846386286938860128.jpg\/170x170bb.png",
+            "genre": "Daily News",
+            "genre_id": "1526",
+            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/six-oclock-news\/id977602870?uo=2"
+        },
+        {
+            "rank": 186,
+            "apple_id": "1655210692",
+            "name": "Spin Cycle",
+            "artist": "Escape Collective",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/e5\/6b\/d4\/e56bd4ba-b587-e771-d8fb-ab8e8a60dde9\/mza_16779168846063565129.png\/170x170bb.png",
+            "genre": "Sports News",
+            "genre_id": "1529",
+            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/spin-cycle\/id1655210692?uo=2"
+        },
+        {
+            "rank": 187,
+            "apple_id": "1476734813",
+            "name": "talkSPORT Daily",
+            "artist": "talkSPORT",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/f0\/84\/8e\/f0848ef4-79e4-c06b-cc4d-732832ad3ab7\/mza_10787094988775035441.jpeg\/170x170bb.png",
+            "genre": "Sports News",
+            "genre_id": "1529",
+            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/talksport-daily\/id1476734813?uo=2"
+        },
+        {
+            "rank": 188,
+            "apple_id": "1263353535",
+            "name": "The FIVEAA Sports Show",
+            "artist": "FIVEAA",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts112\/v4\/b1\/4d\/08\/b14d0822-c6b3-c359-52c6-5199a505be9d\/mza_11503835266722100753.jpg\/170x170bb.png",
+            "genre": "Sports News",
+            "genre_id": "1529",
+            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/the-fiveaa-sports-show\/id1263353535?uo=2"
+        },
+        {
+            "rank": 189,
+            "apple_id": "1665219519",
+            "name": "Reuters World News",
+            "artist": "Reuters",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/37\/79\/ed\/3779ed28-900c-fe28-3fd4-177873c3bba4\/mza_6421898793909046859.jpg\/170x170bb.png",
+            "genre": "Daily News",
+            "genre_id": "1526",
+            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/reuters-world-news\/id1665219519?uo=2"
+        },
+        {
+            "rank": 190,
             "apple_id": "1696974077",
             "name": "The Source with Kaitlan Collins",
             "artist": "CNN Podcasts",
@@ -1968,44 +1908,104 @@
             "url": "https:\/\/podcasts.apple.com\/au\/podcast\/the-source-with-kaitlan-collins\/id1696974077?uo=2"
         },
         {
-            "rank": 197,
-            "apple_id": "161304362",
-            "name": "SBS Cantonese - SBS廣東話節目",
-            "artist": "SBS",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/02\/ea\/02\/02ea0276-8490-c853-e83f-21d4daa453d5\/mza_10897682751063128908.jpg\/170x170bb.png",
+            "rank": 191,
+            "apple_id": "121493675",
+            "name": "NPR News Now",
+            "artist": "NPR",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/27\/a0\/ab\/27a0abb7-817f-d80c-4fed-6fd04d424333\/mza_16804553558295235422.jpg\/170x170bb.png",
             "genre": "Daily News",
             "genre_id": "1526",
-            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/sbs-cantonese-sbs%E5%BB%A3%E6%9D%B1%E8%A9%B1%E7%AF%80%E7%9B%AE\/id161304362?uo=2"
+            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/npr-news-now\/id121493675?uo=2"
+        },
+        {
+            "rank": 192,
+            "apple_id": "1198375045",
+            "name": "Energy Insiders - a RenewEconomy Podcast",
+            "artist": "RenewEconomy",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts113\/v4\/a8\/76\/db\/a876db31-96fc-fd84-1c0e-b8b40350340e\/mza_7348161984671027396.jpg\/170x170bb.png",
+            "genre": "News",
+            "genre_id": "1489",
+            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/energy-insiders-a-reneweconomy-podcast\/id1198375045?uo=2"
+        },
+        {
+            "rank": 193,
+            "apple_id": "883247497",
+            "name": "The spiked podcast",
+            "artist": "The spiked podcast",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/0d\/2d\/35\/0d2d355e-fc99-490e-b817-c63e4faf8ee4\/mza_2147217403778231371.jpeg\/170x170bb.png",
+            "genre": "Politics",
+            "genre_id": "1527",
+            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/the-spiked-podcast\/id883247497?uo=2"
+        },
+        {
+            "rank": 194,
+            "apple_id": "1703785141",
+            "name": "The Rest Is Money",
+            "artist": "Goalhanger",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/a4\/87\/ba\/a487ba10-5322-e680-ebbf-700810906517\/mza_1048449418612094833.jpg\/170x170bb.png",
+            "genre": "Politics",
+            "genre_id": "1527",
+            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/the-rest-is-money\/id1703785141?uo=2"
+        },
+        {
+            "rank": 195,
+            "apple_id": "1473872585",
+            "name": "Apple News Today",
+            "artist": "Apple News",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/f2\/04\/2a\/f2042a31-a0c9-9eaa-9823-463b64a12da7\/mza_11550077189211837325.jpg\/170x170bb.png",
+            "genre": "Daily News",
+            "genre_id": "1526",
+            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/apple-news-today\/id1473872585?uo=2"
+        },
+        {
+            "rank": 196,
+            "apple_id": "1229518712",
+            "name": "The Mike Hosking Breakfast",
+            "artist": "Newstalk ZB",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/27\/b3\/c2\/27b3c288-b267-5c80-94bb-8eef60874067\/mza_1178394962837580919.jpg\/170x170bb.png",
+            "genre": "News",
+            "genre_id": "1489",
+            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/the-mike-hosking-breakfast\/id1229518712?uo=2"
+        },
+        {
+            "rank": 197,
+            "apple_id": "1566731706",
+            "name": "Victor Davis Hanson: In His Own Words",
+            "artist": "Victor Davis Hanson | The Daily Signal",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/59\/90\/78\/599078f3-5b9b-87a1-11f6-192a59326c73\/mza_12134361784888768075.jpg\/170x170bb.png",
+            "genre": "News Commentary",
+            "genre_id": "1530",
+            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/victor-davis-hanson-in-his-own-words\/id1566731706?uo=2"
         },
         {
             "rank": 198,
-            "apple_id": "1587936366",
-            "name": "The Inside Story Podcast",
-            "artist": "Al Jazeera",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts116\/v4\/05\/0a\/32\/050a32d6-dee1-9b06-4ffb-ac458aecccdf\/mza_3674579057895972941.jpg\/170x170bb.png",
-            "genre": "Politics",
-            "genre_id": "1527",
-            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/the-inside-story-podcast\/id1587936366?uo=2"
+            "apple_id": "81200245",
+            "name": "SBS Mandarin - SBS 普通话电台",
+            "artist": "SBS",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/7e\/63\/6f\/7e636f35-3d54-67a5-4a19-dc35fc1a308e\/mza_12982045001162144795.jpg\/170x170bb.png",
+            "genre": "Daily News",
+            "genre_id": "1526",
+            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/sbs-mandarin-sbs-%E6%99%AE%E9%80%9A%E8%AF%9D%E7%94%B5%E5%8F%B0\/id81200245?uo=2"
         },
         {
             "rank": 199,
-            "apple_id": "1449762156",
-            "name": "It Could Happen Here",
-            "artist": "Cool Zone Media and iHeartPodcasts",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/00\/fa\/18\/00fa186b-20f5-7e82-2882-5c6d4d0feedc\/mza_13814382296146294027.jpg\/170x170bb.png",
-            "genre": "Daily News",
-            "genre_id": "1526",
-            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/it-could-happen-here\/id1449762156?uo=2"
+            "apple_id": "1445801763",
+            "name": "60 Minutes - True Crime",
+            "artist": "60 Minutes Australia",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts115\/v4\/a3\/d2\/5d\/a3d25dab-b27e-7dfd-3ded-c0a028e9f21f\/mza_629452706432924595.jpg\/170x170bb.png",
+            "genre": "News",
+            "genre_id": "1489",
+            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/60-minutes-true-crime\/id1445801763?uo=2"
         },
         {
             "rank": 200,
-            "apple_id": "1496246490",
-            "name": "The Bunker – News without the nonsense",
-            "artist": "Podmasters",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/1b\/c7\/13\/1bc71357-b584-f299-22b6-ebda2e1302e9\/mza_4893912138604316790.jpg\/170x170bb.png",
-            "genre": "Politics",
-            "genre_id": "1527",
-            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/the-bunker-news-without-the-nonsense\/id1496246490?uo=2"
+            "apple_id": "1777930544",
+            "name": "DSPN - Devlin Sports Podcast Network",
+            "artist": "rova | DSPN",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/5d\/89\/a6\/5d89a607-255b-2940-68a5-e1b14666c312\/mza_15341844485207448191.jpeg\/170x170bb.png",
+            "genre": "Sports News",
+            "genre_id": "1529",
+            "url": "https:\/\/podcasts.apple.com\/au\/podcast\/dspn-devlin-sports-podcast-network\/id1777930544?uo=2"
         }
     ]
 }

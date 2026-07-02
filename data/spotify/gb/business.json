@@ -3,7 +3,7 @@
     "country": "gb",
     "genre": "Business",
     "slug": "business",
-    "fetched_at": "2026-06-24T06:36:25Z",
+    "fetched_at": "2026-07-01T04:43:11Z",
     "count": 50,
     "shows": [
         {
@@ -17,15 +17,33 @@
         },
         {
             "rank": 2,
+            "spotify_id": "1Uh7KMBji1BptMsUS4tNNM",
+            "name": "Working Hard with Grace Beverley",
+            "publisher": "Grace Beverley",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f30bec3f052c237bdb996877e",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/1Uh7KMBji1BptMsUS4tNNM"
+        },
+        {
+            "rank": 3,
+            "spotify_id": "6tsU1ycENJzlaViEw0aAQq",
+            "name": "The Martin Lewis Podcast",
+            "publisher": "BBC Radio 5 Live",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f7c351c746aad97b1f6fd0f50",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/6tsU1ycENJzlaViEw0aAQq"
+        },
+        {
+            "rank": 4,
             "spotify_id": "2807p01KIe4RRFjRTB5o25",
             "name": "Garys Economics",
             "publisher": "Gary Stevenson",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f6f6d1571fdfd92772296b411",
-            "rank_move": "UNCHANGED",
+            "rank_move": "DOWN",
             "url": "https:\/\/open.spotify.com\/show\/2807p01KIe4RRFjRTB5o25"
         },
         {
-            "rank": 3,
+            "rank": 5,
             "spotify_id": "1Ii04MZEAoxLdHnjRtd5cG",
             "name": "Financial Audit",
             "publisher": "Caleb Hammer",
@@ -34,34 +52,34 @@
             "url": "https:\/\/open.spotify.com\/show\/1Ii04MZEAoxLdHnjRtd5cG"
         },
         {
-            "rank": 4,
-            "spotify_id": "1Uh7KMBji1BptMsUS4tNNM",
-            "name": "Working Hard with Grace Beverley",
-            "publisher": "Grace Beverley",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f30bec3f052c237bdb996877e",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/1Uh7KMBji1BptMsUS4tNNM"
-        },
-        {
-            "rank": 5,
+            "rank": 6,
             "spotify_id": "42KqGvg4MxWwUPqZ0t98OC",
             "name": "Unhedged",
             "publisher": "Financial Times & Pushkin Industries",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f37f3d26ecaef2810bb19e5d0",
-            "rank_move": "UP",
+            "rank_move": "UNCHANGED",
             "url": "https:\/\/open.spotify.com\/show\/42KqGvg4MxWwUPqZ0t98OC"
         },
         {
-            "rank": 6,
-            "spotify_id": "6tsU1ycENJzlaViEw0aAQq",
-            "name": "The Martin Lewis Podcast",
-            "publisher": "BBC Radio 5 Live",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f7c351c746aad97b1f6fd0f50",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/6tsU1ycENJzlaViEw0aAQq"
+            "rank": 7,
+            "spotify_id": "3FVOp5guWNV4b0S9pfuVcw",
+            "name": "PBD Podcast",
+            "publisher": "PBD Podcast",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f8acb2759f389a24949c57b2a",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/3FVOp5guWNV4b0S9pfuVcw"
         },
         {
-            "rank": 7,
+            "rank": 8,
+            "spotify_id": "2pOyCAyEi3nZq6rd77FbP9",
+            "name": "Dodge Woodall Network",
+            "publisher": "Dodge Woodall",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f56c11b76828f50897b9adbd6",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/2pOyCAyEi3nZq6rd77FbP9"
+        },
+        {
+            "rank": 9,
             "spotify_id": "6N6KqZOQeu7srMoEzSjNj2",
             "name": "BigDeal",
             "publisher": "Codie Sanchez",
@@ -70,7 +88,7 @@
             "url": "https:\/\/open.spotify.com\/show\/6N6KqZOQeu7srMoEzSjNj2"
         },
         {
-            "rank": 8,
+            "rank": 10,
             "spotify_id": "6VrW9tP43eyusliA0qBwLl",
             "name": "Making Money",
             "publisher": "Damien Jordan & Timeyin Akerele from Most",
@@ -79,31 +97,13 @@
             "url": "https:\/\/open.spotify.com\/show\/6VrW9tP43eyusliA0qBwLl"
         },
         {
-            "rank": 9,
+            "rank": 11,
             "spotify_id": "0JQrDHMhoyC3Bu1Dnnkyc8",
             "name": "This is Money Podcast",
             "publisher": "This is Money",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f45e9be0739e82786808de59c",
             "rank_move": "UNCHANGED",
             "url": "https:\/\/open.spotify.com\/show\/0JQrDHMhoyC3Bu1Dnnkyc8"
-        },
-        {
-            "rank": 10,
-            "spotify_id": "3FVOp5guWNV4b0S9pfuVcw",
-            "name": "PBD Podcast",
-            "publisher": "PBD Podcast",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f8acb2759f389a24949c57b2a",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/3FVOp5guWNV4b0S9pfuVcw"
-        },
-        {
-            "rank": 11,
-            "spotify_id": "2pOyCAyEi3nZq6rd77FbP9",
-            "name": "Dodge Woodall Network",
-            "publisher": "Dodge Woodall",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f56c11b76828f50897b9adbd6",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/2pOyCAyEi3nZq6rd77FbP9"
         },
         {
             "rank": 12,
@@ -116,15 +116,6 @@
         },
         {
             "rank": 13,
-            "spotify_id": "0wjYlCNxLDgFUUjZMaP6Dx",
-            "name": "A Bit of Optimism",
-            "publisher": "The Optimism Company from Simon Sinek",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f886f282ed75375faff7e9cb4",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/0wjYlCNxLDgFUUjZMaP6Dx"
-        },
-        {
-            "rank": 14,
             "spotify_id": "4ZnU4XAaiPu6ahTCrG1hgo",
             "name": "Embracing Marketing Mistakes",
             "publisher": "Prohibition PR",
@@ -133,7 +124,7 @@
             "url": "https:\/\/open.spotify.com\/show\/4ZnU4XAaiPu6ahTCrG1hgo"
         },
         {
-            "rank": 15,
+            "rank": 14,
             "spotify_id": "5exfRPDNCBHmntEkJrlLmX",
             "name": "The Ramsey Show",
             "publisher": "Ramsey Network",
@@ -142,61 +133,25 @@
             "url": "https:\/\/open.spotify.com\/show\/5exfRPDNCBHmntEkJrlLmX"
         },
         {
-            "rank": 16,
+            "rank": 15,
             "spotify_id": "3S6fhYXPKcumZKh2yg3vo7",
             "name": "The Property Podcast",
             "publisher": "Rob Bence & Rob Dix",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f68572fb9f73b504959cabe48",
-            "rank_move": "UP",
+            "rank_move": "UNCHANGED",
             "url": "https:\/\/open.spotify.com\/show\/3S6fhYXPKcumZKh2yg3vo7"
         },
         {
-            "rank": 17,
+            "rank": 16,
             "spotify_id": "6YNopzKDGDwf0auIpPTIID",
             "name": "The Game with Alex Hormozi",
             "publisher": "Alex Hormozi",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fc08069229b5067ad92470a8d",
-            "rank_move": "DOWN",
+            "rank_move": "UNCHANGED",
             "url": "https:\/\/open.spotify.com\/show\/6YNopzKDGDwf0auIpPTIID"
         },
         {
-            "rank": 18,
-            "spotify_id": "2hGCdojNmrJYUg5TpU3VVN",
-            "name": "Open Book with Anthony Scaramucci",
-            "publisher": "SALT  & Goalhanger ",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f4855b022cdb62af26d6fec96",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/2hGCdojNmrJYUg5TpU3VVN"
-        },
-        {
-            "rank": 19,
-            "spotify_id": "39poaGO6oBRFN6cVOIl4yL",
-            "name": "Aspire with Emma Grede",
-            "publisher": "Emma Grede | Audacy",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f23b127ec638a5dfe1572fb84",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/39poaGO6oBRFN6cVOIl4yL"
-        },
-        {
-            "rank": 20,
-            "spotify_id": "1C6mBa88zAU82xf1A3oiWh",
-            "name": "FED by Farmers Podcast",
-            "publisher": "FED by Farmers",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1ffe20b5bf9f4bcd46a3ef2790",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/1C6mBa88zAU82xf1A3oiWh"
-        },
-        {
-            "rank": 21,
-            "spotify_id": "1Z1axE6NZf4R299jaflg5V",
-            "name": "Ladies Who Launch",
-            "publisher": "Rochelle Humes",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f5dead5989410f2e5a4609f5e",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/1Z1axE6NZf4R299jaflg5V"
-        },
-        {
-            "rank": 22,
+            "rank": 17,
             "spotify_id": "1B9qwepswPeR5i8eYzmUtF",
             "name": "Merryn Talks Money",
             "publisher": "Bloomberg",
@@ -205,34 +160,88 @@
             "url": "https:\/\/open.spotify.com\/show\/1B9qwepswPeR5i8eYzmUtF"
         },
         {
-            "rank": 23,
-            "spotify_id": "1te7oSFyRVekxMBJUSethH",
-            "name": "Odd Lots",
-            "publisher": "Bloomberg",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f77e76ef980ccf6174ff80c42",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/1te7oSFyRVekxMBJUSethH"
+            "rank": 18,
+            "spotify_id": "1C6mBa88zAU82xf1A3oiWh",
+            "name": "FED by Farmers Podcast",
+            "publisher": "FED by Farmers",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1ffe20b5bf9f4bcd46a3ef2790",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/1C6mBa88zAU82xf1A3oiWh"
         },
         {
-            "rank": 24,
+            "rank": 19,
+            "spotify_id": "1Z1axE6NZf4R299jaflg5V",
+            "name": "Ladies Who Launch",
+            "publisher": "Rochelle Humes",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f5dead5989410f2e5a4609f5e",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/1Z1axE6NZf4R299jaflg5V"
+        },
+        {
+            "rank": 20,
+            "spotify_id": "39poaGO6oBRFN6cVOIl4yL",
+            "name": "Aspire with Emma Grede",
+            "publisher": "Emma Grede | Audacy",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f23b127ec638a5dfe1572fb84",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/39poaGO6oBRFN6cVOIl4yL"
+        },
+        {
+            "rank": 21,
+            "spotify_id": "0wjYlCNxLDgFUUjZMaP6Dx",
+            "name": "A Bit of Optimism",
+            "publisher": "The Optimism Company from Simon Sinek",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f886f282ed75375faff7e9cb4",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/0wjYlCNxLDgFUUjZMaP6Dx"
+        },
+        {
+            "rank": 22,
+            "spotify_id": "5SPdIblwAoR0fcArYqE6Xq",
+            "name": "Good Bad Billionaire",
+            "publisher": "BBC World Service",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f7ac559999c145fff56a9ac14",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/5SPdIblwAoR0fcArYqE6Xq"
+        },
+        {
+            "rank": 23,
             "spotify_id": "3j2KMcZTtgTNBKwtZBMHvl",
             "name": "The Twenty Minute VC (20VC): Venture Capital | Startup Funding | The Pitch",
             "publisher": "Harry Stebbings",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f7a7091c6e9230538733e4765",
-            "rank_move": "DOWN",
+            "rank_move": "UP",
             "url": "https:\/\/open.spotify.com\/show\/3j2KMcZTtgTNBKwtZBMHvl"
         },
         {
+            "rank": 24,
+            "spotify_id": "1te7oSFyRVekxMBJUSethH",
+            "name": "Odd Lots",
+            "publisher": "Bloomberg",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f77e76ef980ccf6174ff80c42",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/1te7oSFyRVekxMBJUSethH"
+        },
+        {
             "rank": 25,
-            "spotify_id": "3mliji9352UAk3XnWElnDV",
-            "name": "My First Million",
-            "publisher": "Hubspot",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f35af1b9c3ee719329f85f229",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/3mliji9352UAk3XnWElnDV"
+            "spotify_id": "7APe2Bwo5zEyD8kF0mxov6",
+            "name": "Digg Podcast ",
+            "publisher": "CAROLINE O'NEILL",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f6c5ff38a01797b57dc125129",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/7APe2Bwo5zEyD8kF0mxov6"
         },
         {
             "rank": 26,
+            "spotify_id": "0J4H8RINrvtG2hoYktpoNO",
+            "name": "The Money Gains Podcast",
+            "publisher": "The Money Gains Podcast",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fcbee6026866b655d8b3baaa6",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/0J4H8RINrvtG2hoYktpoNO"
+        },
+        {
+            "rank": 27,
             "spotify_id": "2jTVLosTBBIR1FS5oiBI6Q",
             "name": "First Things THRST",
             "publisher": "Mike Thurston",
@@ -241,52 +250,16 @@
             "url": "https:\/\/open.spotify.com\/show\/2jTVLosTBBIR1FS5oiBI6Q"
         },
         {
-            "rank": 27,
-            "spotify_id": "0grx3M2eLOCOwvHRFsCZj5",
-            "name": "The Diary Of A CEO with Steven Bartlett",
-            "publisher": "FlightStory",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f576ba3d25b628e2e032b82df",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/0grx3M2eLOCOwvHRFsCZj5"
-        },
-        {
             "rank": 28,
-            "spotify_id": "0J4H8RINrvtG2hoYktpoNO",
-            "name": "The Money Gains Podcast",
-            "publisher": "The Money Gains Podcast",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fcbee6026866b655d8b3baaa6",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/0J4H8RINrvtG2hoYktpoNO"
+            "spotify_id": "2hGCdojNmrJYUg5TpU3VVN",
+            "name": "Open Book with Anthony Scaramucci",
+            "publisher": "SALT  & Goalhanger ",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f4855b022cdb62af26d6fec96",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/2hGCdojNmrJYUg5TpU3VVN"
         },
         {
             "rank": 29,
-            "spotify_id": "5Y1NyT6srGx38f5LINbH6c",
-            "name": "Moonshots with Peter Diamandis",
-            "publisher": "PHD Ventures",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f2c33a17267fd1e99d551f2b4",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/5Y1NyT6srGx38f5LINbH6c"
-        },
-        {
-            "rank": 30,
-            "spotify_id": "0vP5KPoQdfEhcTUyxuBdS7",
-            "name": "Many Happy Returns",
-            "publisher": "PensionCraft",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f397049ce9b25c6f6cb032e58",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/0vP5KPoQdfEhcTUyxuBdS7"
-        },
-        {
-            "rank": 31,
-            "spotify_id": "5Ob5psTjoUtIGYxKUp2QVy",
-            "name": "The Prof G Pod with Scott Galloway",
-            "publisher": "Vox Media Podcast Network",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fd3fc7e5bbb2cd7ada59b7a68",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/5Ob5psTjoUtIGYxKUp2QVy"
-        },
-        {
-            "rank": 32,
             "spotify_id": "0Yz44z9z3t8VQu4WRmsrs6",
             "name": "Lemonade Stand",
             "publisher": "Vox Media Podcast Network",
@@ -295,22 +268,49 @@
             "url": "https:\/\/open.spotify.com\/show\/0Yz44z9z3t8VQu4WRmsrs6"
         },
         {
-            "rank": 33,
-            "spotify_id": "64rPqCkSSBkuSJpkMLRe9i",
-            "name": "The Economics Show",
-            "publisher": "Financial Times",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fddefc5f5030fb19bb0428460",
+            "rank": 30,
+            "spotify_id": "3mliji9352UAk3XnWElnDV",
+            "name": "My First Million",
+            "publisher": "Hubspot",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f35af1b9c3ee719329f85f229",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/3mliji9352UAk3XnWElnDV"
+        },
+        {
+            "rank": 31,
+            "spotify_id": "033EBglkV5u9NyHI5rBpzf",
+            "name": "flubbys goonerlicious pod",
+            "publisher": "flubby mctubby",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1ffda856ceba8359c32b6b49a0",
             "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/64rPqCkSSBkuSJpkMLRe9i"
+            "url": "https:\/\/open.spotify.com\/show\/033EBglkV5u9NyHI5rBpzf"
+        },
+        {
+            "rank": 32,
+            "spotify_id": "5Ob5psTjoUtIGYxKUp2QVy",
+            "name": "The Prof G Pod with Scott Galloway",
+            "publisher": "Vox Media Podcast Network",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fd3fc7e5bbb2cd7ada59b7a68",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/5Ob5psTjoUtIGYxKUp2QVy"
+        },
+        {
+            "rank": 33,
+            "spotify_id": "5Y1NyT6srGx38f5LINbH6c",
+            "name": "Moonshots with Peter Diamandis",
+            "publisher": "PHD Ventures",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f2c33a17267fd1e99d551f2b4",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/5Y1NyT6srGx38f5LINbH6c"
         },
         {
             "rank": 34,
-            "spotify_id": "3iwRYmT3VIYrGC9NdRv2ya",
-            "name": "The Meaningful Money Personal Finance Podcast",
-            "publisher": "Pete Matthew",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f89e71025aedd836b296f6b46",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/3iwRYmT3VIYrGC9NdRv2ya"
+            "spotify_id": "0vP5KPoQdfEhcTUyxuBdS7",
+            "name": "Many Happy Returns",
+            "publisher": "PensionCraft",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f397049ce9b25c6f6cb032e58",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/0vP5KPoQdfEhcTUyxuBdS7"
         },
         {
             "rank": 35,
@@ -318,26 +318,26 @@
             "name": "The Knowledge Project",
             "publisher": "Shane Parrish",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f193bfd4c1f7a5b7f1f312fac",
-            "rank_move": "UP",
+            "rank_move": "DOWN",
             "url": "https:\/\/open.spotify.com\/show\/1VyK52NSZHaDKeMJzT4TSM"
         },
         {
             "rank": 36,
-            "spotify_id": "7APe2Bwo5zEyD8kF0mxov6",
-            "name": "Digg Podcast ",
-            "publisher": "CAROLINE O'NEILL",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f6c5ff38a01797b57dc125129",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/7APe2Bwo5zEyD8kF0mxov6"
+            "spotify_id": "2BygnhbUpwPacJyzdBL2jX",
+            "name": "All Things Markets",
+            "publisher": "SALT Media",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f40ff65a177ae3b0aca88b2c4",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/2BygnhbUpwPacJyzdBL2jX"
         },
         {
             "rank": 37,
-            "spotify_id": "1aT2HaX87aIdK7MONPnrfJ",
-            "name": "The Stocks and Savings Podcast",
-            "publisher": "Stocks and Savings",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f2779c3bd52ee84773258f938",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/1aT2HaX87aIdK7MONPnrfJ"
+            "spotify_id": "64rPqCkSSBkuSJpkMLRe9i",
+            "name": "The Economics Show",
+            "publisher": "Financial Times",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fddefc5f5030fb19bb0428460",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/64rPqCkSSBkuSJpkMLRe9i"
         },
         {
             "rank": 38,
@@ -350,15 +350,42 @@
         },
         {
             "rank": 39,
+            "spotify_id": "1aT2HaX87aIdK7MONPnrfJ",
+            "name": "The Stocks and Savings Podcast",
+            "publisher": "Stocks and Savings",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f2779c3bd52ee84773258f938",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/1aT2HaX87aIdK7MONPnrfJ"
+        },
+        {
+            "rank": 40,
+            "spotify_id": "4r2372Ggf2RrxOY3bsmlwm",
+            "name": "Where Pop Culture Meets PR",
+            "publisher": "Jacki Vause & Lyle Fulton",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f18d20d7b8aedb456ab59be20",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/4r2372Ggf2RrxOY3bsmlwm"
+        },
+        {
+            "rank": 41,
             "spotify_id": "0ZReedpR6Bf1kvHeKBuWY1",
             "name": "The Marketing Bestie Podcast with zoeunlimited",
             "publisher": "zoeunlimited",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f9240b18998dd183bb5a350fd",
-            "rank_move": "UP",
+            "rank_move": "DOWN",
             "url": "https:\/\/open.spotify.com\/show\/0ZReedpR6Bf1kvHeKBuWY1"
         },
         {
-            "rank": 40,
+            "rank": 42,
+            "spotify_id": "3iwRYmT3VIYrGC9NdRv2ya",
+            "name": "The Meaningful Money Personal Finance Podcast",
+            "publisher": "Pete Matthew",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f89e71025aedd836b296f6b46",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/3iwRYmT3VIYrGC9NdRv2ya"
+        },
+        {
+            "rank": 43,
             "spotify_id": "7uhrWlDvxzy9hLoW0EYf0b",
             "name": "Patrick Boyle On Finance",
             "publisher": "Patrick Boyle",
@@ -367,94 +394,67 @@
             "url": "https:\/\/open.spotify.com\/show\/7uhrWlDvxzy9hLoW0EYf0b"
         },
         {
-            "rank": 41,
+            "rank": 44,
             "spotify_id": "44pekawcpIJ7KgwcFIgZDr",
             "name": "Ones and Tooze",
             "publisher": "Foreign  Policy",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fbd5c8edfb89ffda11316519f",
-            "rank_move": "UP",
+            "rank_move": "DOWN",
             "url": "https:\/\/open.spotify.com\/show\/44pekawcpIJ7KgwcFIgZDr"
         },
         {
-            "rank": 42,
-            "spotify_id": "5SPdIblwAoR0fcArYqE6Xq",
-            "name": "Good Bad Billionaire",
-            "publisher": "BBC World Service",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f7ac559999c145fff56a9ac14",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/5SPdIblwAoR0fcArYqE6Xq"
+            "rank": 45,
+            "spotify_id": "5d56fHpiYdxjQGQAdEH2f6",
+            "name": "Hot Smart Rich with Maggie Sellers Reum",
+            "publisher": "FlightStory",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f0070093753efdc904f101bd2",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/5d56fHpiYdxjQGQAdEH2f6"
         },
         {
-            "rank": 43,
+            "rank": 46,
+            "spotify_id": "4QYK5hxHNeXnevtUTsn5a7",
+            "name": "The Markets",
+            "publisher": "Goldman Sachs",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fad06b8bab5fb7b6afda92eba",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/4QYK5hxHNeXnevtUTsn5a7"
+        },
+        {
+            "rank": 47,
+            "spotify_id": "6PvWIVwhhOOyNfAAqqOvzX",
+            "name": "James Sinclair's Business Broadcast",
+            "publisher": "James Sinclair",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fc097ef7c30453f0d5a563f46",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/6PvWIVwhhOOyNfAAqqOvzX"
+        },
+        {
+            "rank": 48,
             "spotify_id": "5UOQnxomRBw3qlnIHevm6F",
             "name": "The Story of Money",
             "publisher": "Financial Times",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fe1ce87d68052b510cd2997ce",
-            "rank_move": "UP",
+            "rank_move": "DOWN",
             "url": "https:\/\/open.spotify.com\/show\/5UOQnxomRBw3qlnIHevm6F"
         },
         {
-            "rank": 44,
-            "spotify_id": "6aB0v6amo3a8hgTCjlTlvh",
-            "name": "The Startup Ideas Podcast",
-            "publisher": "Greg Isenberg",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f697f307428c2f5509c528609",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/6aB0v6amo3a8hgTCjlTlvh"
-        },
-        {
-            "rank": 45,
-            "spotify_id": "7tXRc97C1fA0epHAGQuJOE",
-            "name": "Motley Fool Hidden Gems Investing",
-            "publisher": "The Motley Fool",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1faeb2180dd29052a88710e1b5",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/7tXRc97C1fA0epHAGQuJOE"
-        },
-        {
-            "rank": 46,
-            "spotify_id": "5qSUyCrk9KR69lEiXbjwXM",
-            "name": "The Tim Ferriss Show",
-            "publisher": "Tim Ferriss: Bestselling Author, Human Guinea Pig",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1faebf288621ea86c79d44f12f",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/5qSUyCrk9KR69lEiXbjwXM"
-        },
-        {
-            "rank": 47,
-            "spotify_id": "6qLJ5GoJiopJ4CxJMOQc5L",
-            "name": "Emergency meeting",
-            "publisher": "Tate Speech",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f72349ac623bd5a023ce64903",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/6qLJ5GoJiopJ4CxJMOQc5L"
-        },
-        {
-            "rank": 48,
-            "spotify_id": "5c2uoXBQkOjIiCOf60jJj7",
-            "name": "The Iced Coffee Hour",
-            "publisher": "Graham Stephan\/Jack Selby",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f3b50cfe272532295c7e1a2e0",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/5c2uoXBQkOjIiCOf60jJj7"
-        },
-        {
             "rank": 49,
-            "spotify_id": "22fi0RqfoBACCuQDv97wFO",
-            "name": "Invest Like the Best with Patrick O'Shaughnessy",
-            "publisher": "Colossus | Investing & Business Podcasts",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f89579acf0ef2e358b97c2bf4",
+            "spotify_id": "6tPDj5LfM8SN46Gm2FqRQa",
+            "name": "reWORKING with Tim Campbell",
+            "publisher": "Bauer Media",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f12f6c078b02794e5ec1d1335",
             "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/22fi0RqfoBACCuQDv97wFO"
+            "url": "https:\/\/open.spotify.com\/show\/6tPDj5LfM8SN46Gm2FqRQa"
         },
         {
             "rank": 50,
-            "spotify_id": "4bmvfbDz2kniwxCL66sVjH",
-            "name": "The Art of Investing",
-            "publisher": "IG UK",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f908540ec4eda089d16695655",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/4bmvfbDz2kniwxCL66sVjH"
+            "spotify_id": "1Q9XAxIXE1HQ656Ft7CtZR",
+            "name": "Wake Up to Money",
+            "publisher": "BBC Radio 5 Live",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f408a699a7482d477829aee8f",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/1Q9XAxIXE1HQ656Ft7CtZR"
         }
     ]
 }

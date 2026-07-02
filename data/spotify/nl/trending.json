@@ -3,11 +3,20 @@
     "country": "nl",
     "genre": "Trending Podcasts",
     "slug": "trending",
-    "fetched_at": "2026-06-24T06:37:42Z",
+    "fetched_at": "2026-07-01T04:44:26Z",
     "count": 200,
     "shows": [
         {
             "rank": 1,
+            "spotify_id": "0XodDF3KBk4XKX74DG4iTo",
+            "name": "Even Denken",
+            "publisher": "Universiteit van Nederland | Podimo",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f6e8e5c80c61a4ca6b2d886e1",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/0XodDF3KBk4XKX74DG4iTo"
+        },
+        {
+            "rank": 2,
             "spotify_id": "6cm6wIZxZ6Cj1qmVwohjRx",
             "name": "Vandaag Inside Oranje",
             "publisher": "Vandaag Inside Oranje",
@@ -16,7 +25,7 @@
             "url": "https:\/\/open.spotify.com\/show\/6cm6wIZxZ6Cj1qmVwohjRx"
         },
         {
-            "rank": 2,
+            "rank": 3,
             "spotify_id": "033kwVCJuV5ba1MMahTdVl",
             "name": "Ontvoerd naar Noord-Korea",
             "publisher": "De Telegraaf",
@@ -25,7 +34,7 @@
             "url": "https:\/\/open.spotify.com\/show\/033kwVCJuV5ba1MMahTdVl"
         },
         {
-            "rank": 3,
+            "rank": 4,
             "spotify_id": "19po9BEGXkaA4uvyviCtSS",
             "name": "Zembla Podcast: Op zoek naar Marlotte",
             "publisher": "NPO Luister \/ BNNVARA",
@@ -34,16 +43,25 @@
             "url": "https:\/\/open.spotify.com\/show\/19po9BEGXkaA4uvyviCtSS"
         },
         {
-            "rank": 4,
+            "rank": 5,
+            "spotify_id": "1RGUJ8uKoJTTMOJjIHoe8n",
+            "name": "Maarten van Rossem & Tom Jessen",
+            "publisher": "Tom Jessen en Maarten van Rossem",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f6a1f28d7810bb3c867c78672",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/1RGUJ8uKoJTTMOJjIHoe8n"
+        },
+        {
+            "rank": 6,
             "spotify_id": "63ReLP9jSEFOEh1JyoD3vY",
             "name": "NOS Voetbalpodcast",
             "publisher": "NPO Luister \/ NOS",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fd3d234d706853a1c888e0ae4",
-            "rank_move": "UNCHANGED",
+            "rank_move": "DOWN",
             "url": "https:\/\/open.spotify.com\/show\/63ReLP9jSEFOEh1JyoD3vY"
         },
         {
-            "rank": 5,
+            "rank": 7,
             "spotify_id": "3KqnhZPbVxWcYjnNrkyQpw",
             "name": "We Love Nederlands",
             "publisher": "Tonny Media",
@@ -52,160 +70,106 @@
             "url": "https:\/\/open.spotify.com\/show\/3KqnhZPbVxWcYjnNrkyQpw"
         },
         {
-            "rank": 6,
-            "spotify_id": "033iUd0A3LgOXBgClwvzTz",
-            "name": "Ziggo Sport: Wes & Raf",
-            "publisher": "Ziggo Sport",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fc0d13e7d12469f9942270b3a",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/033iUd0A3LgOXBgClwvzTz"
-        },
-        {
-            "rank": 7,
-            "spotify_id": "15GXxE3uKmSATmyQxlyP3m",
-            "name": "Over Mijn Lijk – de podcast",
-            "publisher": "NPO Luister \/ BNNVARA",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1ff5de81324e2e6cfa42c06750",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/15GXxE3uKmSATmyQxlyP3m"
-        },
-        {
             "rank": 8,
-            "spotify_id": "1RGUJ8uKoJTTMOJjIHoe8n",
-            "name": "Maarten van Rossem & Tom Jessen",
-            "publisher": "Tom Jessen en Maarten van Rossem",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f6a1f28d7810bb3c867c78672",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/1RGUJ8uKoJTTMOJjIHoe8n"
+            "spotify_id": "033uY2K2uJyXzPeUoGnEso",
+            "name": "De dood of de gladiolen",
+            "publisher": "Omroep Gelderland",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1ff94b59e326abe2898151cd10",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/033uY2K2uJyXzPeUoGnEso"
         },
         {
             "rank": 9,
-            "spotify_id": "2R28yGJIrtTeU15uphXfUn",
-            "name": "Knoester & Kwint",
-            "publisher": "Recht in je Oor | KVK Advocaten",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fe889d350fec6b4a3fca78b72",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/2R28yGJIrtTeU15uphXfUn"
-        },
-        {
-            "rank": 10,
-            "spotify_id": "5qWfxu3kOBgpm7iXJqy8Eq",
-            "name": "Gianni's Imperium",
-            "publisher": "NPO Luister \/ NOS",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f31c33780d166489f72c2354f",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/5qWfxu3kOBgpm7iXJqy8Eq"
-        },
-        {
-            "rank": 11,
-            "spotify_id": "7Jv4tYk1AdBh6afSAbLOmi",
-            "name": "Het Spreekuur",
-            "publisher": "Erik Scherder, Leonard Hofstra, Brechje van Bladel \/ Corti Media & Quest",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fd47bf79152bdf013ffb841db",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/7Jv4tYk1AdBh6afSAbLOmi"
-        },
-        {
-            "rank": 12,
-            "spotify_id": "033qNpb2ZEy3zDj9AT5Z2M",
-            "name": "Het Geheim van de Efteling",
-            "publisher": "Efteling",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f7778e78d90506233fb742cae",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/033qNpb2ZEy3zDj9AT5Z2M"
-        },
-        {
-            "rank": 13,
-            "spotify_id": "1Xs85qXwyA1kv08oY8zSXB",
-            "name": "ADHAZES",
-            "publisher": "Rox & Dré \/ Tonny Media",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fd7294b9594c5615ea72381fa",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/1Xs85qXwyA1kv08oY8zSXB"
-        },
-        {
-            "rank": 14,
-            "spotify_id": "033h1xO4k2BrMJ2ZqE623C",
-            "name": "Het klopt niet",
-            "publisher": "AD",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f82a201cc7348ef3c25aab91e",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/033h1xO4k2BrMJ2ZqE623C"
-        },
-        {
-            "rank": 15,
             "spotify_id": "033g07cH7Zo2waNmUY4KUY",
             "name": "Boekestijn & De Wijk | Plus",
             "publisher": "BNR Nieuwsradio",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f250e54a7a4f0060bca335b8f",
-            "rank_move": "DOWN",
+            "rank_move": "UP",
             "url": "https:\/\/open.spotify.com\/show\/033g07cH7Zo2waNmUY4KUY"
         },
         {
-            "rank": 16,
-            "spotify_id": "1AllUDN7S8tNkgTvW9TETU",
-            "name": "De Onderwereld",
-            "publisher": "Bas Dingemanse & Bas van Mulken",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1faa2c660e2a3ffb0107d4dcd2",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/1AllUDN7S8tNkgTvW9TETU"
-        },
-        {
-            "rank": 17,
-            "spotify_id": "4taEZvMzjGiQIBJlxihjE2",
-            "name": "Boekestijn en De Wijk",
-            "publisher": "BNR Nieuwsradio",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fb1fa707a6fb128f0014b76ab",
+            "rank": 10,
+            "spotify_id": "15GXxE3uKmSATmyQxlyP3m",
+            "name": "Over Mijn Lijk – de podcast",
+            "publisher": "NPO Luister \/ BNNVARA",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1ff5de81324e2e6cfa42c06750",
             "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/4taEZvMzjGiQIBJlxihjE2"
+            "url": "https:\/\/open.spotify.com\/show\/15GXxE3uKmSATmyQxlyP3m"
         },
         {
-            "rank": 18,
+            "rank": 11,
             "spotify_id": "6G6aAEkJJVMogVW5mcaauX",
             "name": "Napleiten",
             "publisher": "Wouter Laumans, Christian Flokstra",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f264fa6968d2b05d900a1a37e",
-            "rank_move": "DOWN",
+            "rank_move": "UP",
             "url": "https:\/\/open.spotify.com\/show\/6G6aAEkJJVMogVW5mcaauX"
         },
         {
-            "rank": 19,
+            "rank": 12,
+            "spotify_id": "1Xs85qXwyA1kv08oY8zSXB",
+            "name": "ADHAZES",
+            "publisher": "Rox & Dré \/ Tonny Media",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fd7294b9594c5615ea72381fa",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/1Xs85qXwyA1kv08oY8zSXB"
+        },
+        {
+            "rank": 13,
+            "spotify_id": "4taEZvMzjGiQIBJlxihjE2",
+            "name": "Boekestijn en De Wijk",
+            "publisher": "BNR Nieuwsradio",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fb1fa707a6fb128f0014b76ab",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/4taEZvMzjGiQIBJlxihjE2"
+        },
+        {
+            "rank": 14,
+            "spotify_id": "033zZydwZWH4xl0YwRY5jQ",
+            "name": "Uit de schaduw",
+            "publisher": "AIVD, KMar, NCTV, OM, Politie",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fafd8361cf4fa875fdc30a034",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/033zZydwZWH4xl0YwRY5jQ"
+        },
+        {
+            "rank": 15,
+            "spotify_id": "033h1xO4k2BrMJ2ZqE623C",
+            "name": "Het klopt niet",
+            "publisher": "AD",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f82a201cc7348ef3c25aab91e",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/033h1xO4k2BrMJ2ZqE623C"
+        },
+        {
+            "rank": 16,
+            "spotify_id": "5lGyCTXfMMRLjwGM0TDELt",
+            "name": "Dai Carter: Missie Mentale Kracht",
+            "publisher": "Dag en Nacht",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fb217ffd03479d1025a073164",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/5lGyCTXfMMRLjwGM0TDELt"
+        },
+        {
+            "rank": 17,
             "spotify_id": "4MUyn0Qo0MiITn8PY3MsgU",
             "name": "KieftJansenEgmondGijp",
             "publisher": "KieftJansenEgmondGijp",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f14a1932dcafbfa00ca27607b",
-            "rank_move": "UNCHANGED",
+            "rank_move": "DOWN",
             "url": "https:\/\/open.spotify.com\/show\/4MUyn0Qo0MiITn8PY3MsgU"
         },
         {
-            "rank": 20,
-            "spotify_id": "0XodDF3KBk4XKX74DG4iTo",
-            "name": "Even Denken",
-            "publisher": "Universiteit van Nederland | Podimo",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f6e8e5c80c61a4ca6b2d886e1",
+            "rank": 18,
+            "spotify_id": "2D4jZc3OLdYIjyQK9ITuHN",
+            "name": "Bubbel van Steph & Rijk",
+            "publisher": "Rijk en Steph",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fbb74388ae75fe36ce752b066",
             "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/0XodDF3KBk4XKX74DG4iTo"
+            "url": "https:\/\/open.spotify.com\/show\/2D4jZc3OLdYIjyQK9ITuHN"
         },
         {
-            "rank": 21,
-            "spotify_id": "033fnm9BJsppwOYy0vKwYU",
-            "name": "De Biecht van Karel: Het Misdaadbureau Extra",
-            "publisher": "NPO Luister \/ PowNed",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f2d6281772987fb5b12ce990e",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/033fnm9BJsppwOYy0vKwYU"
-        },
-        {
-            "rank": 22,
-            "spotify_id": "1ceGREFHFJzcgHK875tjvP",
-            "name": "True Crime Pro's",
-            "publisher": "Carrie Voshaar \/ John Pel & Marcel van de Ven",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fcfa9e7a24c0d071a9a522a09",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/1ceGREFHFJzcgHK875tjvP"
-        },
-        {
-            "rank": 23,
+            "rank": 19,
             "spotify_id": "6WHADhOMldOayb0id9BtE2",
             "name": "Daan & Jani",
             "publisher": "Play",
@@ -214,61 +178,88 @@
             "url": "https:\/\/open.spotify.com\/show\/6WHADhOMldOayb0id9BtE2"
         },
         {
+            "rank": 20,
+            "spotify_id": "033iUd0A3LgOXBgClwvzTz",
+            "name": "Ziggo Sport: Wes & Raf",
+            "publisher": "Ziggo Sport",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fc0d13e7d12469f9942270b3a",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/033iUd0A3LgOXBgClwvzTz"
+        },
+        {
+            "rank": 21,
+            "spotify_id": "5qWfxu3kOBgpm7iXJqy8Eq",
+            "name": "Gianni's Imperium",
+            "publisher": "NPO Luister \/ NOS",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f31c33780d166489f72c2354f",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/5qWfxu3kOBgpm7iXJqy8Eq"
+        },
+        {
+            "rank": 22,
+            "spotify_id": "7iQXmUT7XGuZSzAMjoNWlX",
+            "name": "The Diary Of A CEO with Steven Bartlett",
+            "publisher": "FlightStory",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f9ad158f746c0f755d9ba5299",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/7iQXmUT7XGuZSzAMjoNWlX"
+        },
+        {
+            "rank": 23,
+            "spotify_id": "2R28yGJIrtTeU15uphXfUn",
+            "name": "Knoester & Kwint",
+            "publisher": "Recht in je Oor | KVK Advocaten",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fe889d350fec6b4a3fca78b72",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/2R28yGJIrtTeU15uphXfUn"
+        },
+        {
             "rank": 24,
-            "spotify_id": "4wOXkVHoQ7ByzpBnurCba6",
-            "name": "Mysterieuze Verhalen",
-            "publisher": "Stefan de Vries",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f659a08c1f56f4c859280888e",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/4wOXkVHoQ7ByzpBnurCba6"
+            "spotify_id": "0z2ydI7p9BA6wxFiq8U0lF",
+            "name": "De Universiteit van Nederland Podcast",
+            "publisher": "Universiteit van Nederland",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fa4da16944b3e40a8400a8011",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/0z2ydI7p9BA6wxFiq8U0lF"
         },
         {
             "rank": 25,
-            "spotify_id": "4vzFti7X0cH7cmResdU13Z",
-            "name": "Kick-off met Valentijn Driessen",
-            "publisher": "De Telegraaf",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f57dd268c304d5c5509bd8170",
+            "spotify_id": "7Jv4tYk1AdBh6afSAbLOmi",
+            "name": "Het Spreekuur",
+            "publisher": "Erik Scherder, Leonard Hofstra, Brechje van Bladel \/ Corti Media & Quest",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fd47bf79152bdf013ffb841db",
             "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/4vzFti7X0cH7cmResdU13Z"
+            "url": "https:\/\/open.spotify.com\/show\/7Jv4tYk1AdBh6afSAbLOmi"
         },
         {
             "rank": 26,
-            "spotify_id": "4vBAQUIBz0WFV3Q1IRlteD",
-            "name": "Parool Misdaadpodcast",
-            "publisher": "Het Parool",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f065ca02b4ce58c0f9e9db77e",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/4vBAQUIBz0WFV3Q1IRlteD"
+            "spotify_id": "033qNpb2ZEy3zDj9AT5Z2M",
+            "name": "Het Geheim van de Efteling",
+            "publisher": "Efteling",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f7778e78d90506233fb742cae",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/033qNpb2ZEy3zDj9AT5Z2M"
         },
         {
             "rank": 27,
-            "spotify_id": "0kRvNOwfw2iAxZiPo4fbi9",
-            "name": "AD Voetbal podcast",
-            "publisher": "AD",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fa04384e4c30e0c7d5d5867cd",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/0kRvNOwfw2iAxZiPo4fbi9"
+            "spotify_id": "033CWMy0zGlctlvgGnUM39",
+            "name": "De lelijkste flat van Amsterdam",
+            "publisher": "Het Parool",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f0c1dd371700b87e5495ea5e8",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/033CWMy0zGlctlvgGnUM39"
         },
         {
             "rank": 28,
-            "spotify_id": "50rDE822dlCxQFbulYrLH1",
-            "name": "RADIO BOOS",
-            "publisher": "NPO Luister \/ BNNVARA",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f5dc4ec073b16b74277dd7d95",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/50rDE822dlCxQFbulYrLH1"
-        },
-        {
-            "rank": 29,
             "spotify_id": "02HbmZiEGXMRduAFcZMHlx",
             "name": "De Vondeling",
             "publisher": "AT5",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fef7c7fce215166a86b6a48b5",
-            "rank_move": "DOWN",
+            "rank_move": "UP",
             "url": "https:\/\/open.spotify.com\/show\/02HbmZiEGXMRduAFcZMHlx"
         },
         {
-            "rank": 30,
+            "rank": 29,
             "spotify_id": "6PiUtr2vrOB1zwso2EkiMB",
             "name": "NRC Uitgelicht: Koekoekskind",
             "publisher": "NRC",
@@ -277,142 +268,34 @@
             "url": "https:\/\/open.spotify.com\/show\/6PiUtr2vrOB1zwso2EkiMB"
         },
         {
-            "rank": 31,
-            "spotify_id": "2D4jZc3OLdYIjyQK9ITuHN",
-            "name": "Bubbel van Steph & Rijk",
-            "publisher": "Rijk en Steph",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fbb74388ae75fe36ce752b066",
+            "rank": 30,
+            "spotify_id": "4vzFti7X0cH7cmResdU13Z",
+            "name": "Kick-off met Valentijn Driessen",
+            "publisher": "De Telegraaf",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f57dd268c304d5c5509bd8170",
             "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/2D4jZc3OLdYIjyQK9ITuHN"
+            "url": "https:\/\/open.spotify.com\/show\/4vzFti7X0cH7cmResdU13Z"
+        },
+        {
+            "rank": 31,
+            "spotify_id": "033fnm9BJsppwOYy0vKwYU",
+            "name": "De Biecht van Karel: Het Misdaadbureau Extra",
+            "publisher": "NPO Luister \/ PowNed",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f2d6281772987fb5b12ce990e",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/033fnm9BJsppwOYy0vKwYU"
         },
         {
             "rank": 32,
-            "spotify_id": "5lGyCTXfMMRLjwGM0TDELt",
-            "name": "Dai Carter: Missie Mentale Kracht",
-            "publisher": "Dag en Nacht",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fb217ffd03479d1025a073164",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/5lGyCTXfMMRLjwGM0TDELt"
+            "spotify_id": "73vZPMVjxTqC02OYZdcCr7",
+            "name": "NRC Vandaag",
+            "publisher": "NRC",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f12b685f0b53b4caac3911f7b",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/73vZPMVjxTqC02OYZdcCr7"
         },
         {
             "rank": 33,
-            "spotify_id": "2r8jokYJbiT00igS6YffkF",
-            "name": "De erfenis van Engel",
-            "publisher": "AD \/ BN DeStem",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f0d8c5a44eafa643567910889",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/2r8jokYJbiT00igS6YffkF"
-        },
-        {
-            "rank": 34,
-            "spotify_id": "0hDDAa8VJui2oPHsGjETQr",
-            "name": "Hagelslag",
-            "publisher": "Bas Louissen, Chris Bergström en Puck van den Hoogen \/ Meer van dit",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fbfdb8404390c3e0a2f337434",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/0hDDAa8VJui2oPHsGjETQr"
-        },
-        {
-            "rank": 35,
-            "spotify_id": "3PyWv3sU59HAOC1awt7uN4",
-            "name": "De Grote Podcastlas",
-            "publisher": "Leon Boelens, Max Gerritsen & Hugo Noordman",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f1c6bf58077c62507382bcbb0",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/3PyWv3sU59HAOC1awt7uN4"
-        },
-        {
-            "rank": 36,
-            "spotify_id": "0SOiuwn5p3F9grVoRIGJMH",
-            "name": "VI Oranje Podcast",
-            "publisher": "Voetbal International",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fab9f3049345ed21d4b0f3a12",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/0SOiuwn5p3F9grVoRIGJMH"
-        },
-        {
-            "rank": 37,
-            "spotify_id": "6IUw0GZbJtMsXetz6PI5uX",
-            "name": "Je Favoriete Podcast",
-            "publisher": "Stefan de Vries, Julia Heetman en Sean Demmers \/ Tonny Media",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f36bbf62daf8ed0047476ca54",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/6IUw0GZbJtMsXetz6PI5uX"
-        },
-        {
-            "rank": 38,
-            "spotify_id": "5wfUHkNvcUEpAImNXUuWxz",
-            "name": "Moordzaken",
-            "publisher": "Carrie & Eddie",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1ff91fe42c7155900a32091b62",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/5wfUHkNvcUEpAImNXUuWxz"
-        },
-        {
-            "rank": 39,
-            "spotify_id": "0qsGVJ7lVZIh5UmtduhDL8",
-            "name": "Aaf en Lies lossen het wel weer op",
-            "publisher": "Tonny Media",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f68c00e424f3682502108c5a9",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/0qsGVJ7lVZIh5UmtduhDL8"
-        },
-        {
-            "rank": 40,
-            "spotify_id": "4zMp17pA0Du63rzZimXOYv",
-            "name": "De Oranjezomer",
-            "publisher": "Oranjezomer",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f4cd03f4aa85ba4428cfef9b0",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/4zMp17pA0Du63rzZimXOYv"
-        },
-        {
-            "rank": 41,
-            "spotify_id": "07VlPlIqfU5bRRpIYWlg1C",
-            "name": "Zo, Opgelost",
-            "publisher": "NPO Luister \/ KRO-NCRV",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f3532398588ccc553d34d4fdc",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/07VlPlIqfU5bRRpIYWlg1C"
-        },
-        {
-            "rank": 42,
-            "spotify_id": "0qyV7aEcv189h0HMoMbFSr",
-            "name": "Radio Ramkraak",
-            "publisher": "LC & DVHN",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f908f3c965a1a8fd817317c4b",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/0qyV7aEcv189h0HMoMbFSr"
-        },
-        {
-            "rank": 43,
-            "spotify_id": "4AwU3uqJkcw017yXKpn9UM",
-            "name": "Amerika in 15 minuten",
-            "publisher": "Raymond Mens",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fd005675ec4321cba26f8fa7d",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/4AwU3uqJkcw017yXKpn9UM"
-        },
-        {
-            "rank": 44,
-            "spotify_id": "6C1XBOjNXCFLHVwPk6oXva",
-            "name": "Geuze & Gorgels",
-            "publisher": "Monica & Kaj \/ Tonny Media",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f1faf54beac63b1a60650a655",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/6C1XBOjNXCFLHVwPk6oXva"
-        },
-        {
-            "rank": 45,
-            "spotify_id": "3Gjrh4aIX4ZKJOf1KB5BJK",
-            "name": "Provinfluencers",
-            "publisher": "Plien & Bianca\/Tonny Media",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f9c046cd58b3acb5a5bd89aa2",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/3Gjrh4aIX4ZKJOf1KB5BJK"
-        },
-        {
-            "rank": 46,
             "spotify_id": "2MJTbWuSmaPfuk3mX1uey8",
             "name": "Fred en Ries",
             "publisher": "Tonny Media",
@@ -421,79 +304,25 @@
             "url": "https:\/\/open.spotify.com\/show\/2MJTbWuSmaPfuk3mX1uey8"
         },
         {
-            "rank": 47,
-            "spotify_id": "4yk0Avw2wFzL3pGyl8i2y4",
-            "name": "Chantal & Tina",
-            "publisher": "&C Media \/ Audiohuis",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f1155c421b0d3b980652ee558",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/4yk0Avw2wFzL3pGyl8i2y4"
-        },
-        {
-            "rank": 48,
-            "spotify_id": "4lpkuJibQKPzuW9TTMMLQg",
-            "name": "WK Praat",
-            "publisher": "ESPN NL",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1ffbceb6828fc1f6fcdcb3dfe9",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/4lpkuJibQKPzuW9TTMMLQg"
-        },
-        {
-            "rank": 49,
-            "spotify_id": "0u3poqkV9lMDVqbkXhHLh9",
-            "name": "Zolang het leuk is",
-            "publisher": "BNR Nieuwsradio",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f5948baafb68e4f9f18a15a23",
+            "rank": 34,
+            "spotify_id": "4wOXkVHoQ7ByzpBnurCba6",
+            "name": "Mysterieuze Verhalen",
+            "publisher": "Stefan de Vries",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f659a08c1f56f4c859280888e",
             "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/0u3poqkV9lMDVqbkXhHLh9"
+            "url": "https:\/\/open.spotify.com\/show\/4wOXkVHoQ7ByzpBnurCba6"
         },
         {
-            "rank": 50,
-            "spotify_id": "79CX1bK0RVep8SDm84Bnwy",
-            "name": "Bo & Pauline: Genoeg onderweg",
-            "publisher": "Tonny Media",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f795fbe760e020cf1a02147bc",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/79CX1bK0RVep8SDm84Bnwy"
-        },
-        {
-            "rank": 51,
-            "spotify_id": "6NuLTAJtcgsU2lKYxQqPCJ",
-            "name": "Veldheren",
-            "publisher": "Peter van Uhm, Mart de Kruif, Jos de Groot \/ Corti Media",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f437ac8b2ed1ececf72127501",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/6NuLTAJtcgsU2lKYxQqPCJ"
-        },
-        {
-            "rank": 52,
-            "spotify_id": "2bbrFZb8kWUWfCdMzjwlwi",
-            "name": "De Geweldloze Podcast • Over opvoeden en zo!",
-            "publisher": "Marieke  & Ilse \/ ILVY Network",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fb36e84f18ad3fc49071514e1",
+            "rank": 35,
+            "spotify_id": "3Gjrh4aIX4ZKJOf1KB5BJK",
+            "name": "Provinfluencers",
+            "publisher": "Plien & Bianca\/Tonny Media",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f9c046cd58b3acb5a5bd89aa2",
             "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/2bbrFZb8kWUWfCdMzjwlwi"
+            "url": "https:\/\/open.spotify.com\/show\/3Gjrh4aIX4ZKJOf1KB5BJK"
         },
         {
-            "rank": 53,
-            "spotify_id": "0z2ydI7p9BA6wxFiq8U0lF",
-            "name": "De Universiteit van Nederland Podcast",
-            "publisher": "Universiteit van Nederland",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fa4da16944b3e40a8400a8011",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/0z2ydI7p9BA6wxFiq8U0lF"
-        },
-        {
-            "rank": 54,
-            "spotify_id": "7iQXmUT7XGuZSzAMjoNWlX",
-            "name": "The Diary Of A CEO with Steven Bartlett",
-            "publisher": "FlightStory",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f9ad158f746c0f755d9ba5299",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/7iQXmUT7XGuZSzAMjoNWlX"
-        },
-        {
-            "rank": 55,
+            "rank": 36,
             "spotify_id": "1pfR1EbTZ8gwMLY6HbVJGk",
             "name": "HELD IN EIGEN VERHAAL",
             "publisher": "Iris Enthoven",
@@ -502,13 +331,184 @@
             "url": "https:\/\/open.spotify.com\/show\/1pfR1EbTZ8gwMLY6HbVJGk"
         },
         {
-            "rank": 56,
+            "rank": 37,
+            "spotify_id": "4yk0Avw2wFzL3pGyl8i2y4",
+            "name": "Chantal & Tina",
+            "publisher": "&C Media \/ Audiohuis",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f1155c421b0d3b980652ee558",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/4yk0Avw2wFzL3pGyl8i2y4"
+        },
+        {
+            "rank": 38,
+            "spotify_id": "4vBAQUIBz0WFV3Q1IRlteD",
+            "name": "Parool Misdaadpodcast",
+            "publisher": "Het Parool",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f065ca02b4ce58c0f9e9db77e",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/4vBAQUIBz0WFV3Q1IRlteD"
+        },
+        {
+            "rank": 39,
+            "spotify_id": "1AllUDN7S8tNkgTvW9TETU",
+            "name": "De Onderwereld",
+            "publisher": "Bas Dingemanse & Bas van Mulken",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1faa2c660e2a3ffb0107d4dcd2",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/1AllUDN7S8tNkgTvW9TETU"
+        },
+        {
+            "rank": 40,
+            "spotify_id": "2r8jokYJbiT00igS6YffkF",
+            "name": "De erfenis van Engel",
+            "publisher": "AD \/ BN DeStem",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f0d8c5a44eafa643567910889",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/2r8jokYJbiT00igS6YffkF"
+        },
+        {
+            "rank": 41,
+            "spotify_id": "5wfUHkNvcUEpAImNXUuWxz",
+            "name": "Moordzaken",
+            "publisher": "Carrie & Eddie",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1ff91fe42c7155900a32091b62",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/5wfUHkNvcUEpAImNXUuWxz"
+        },
+        {
+            "rank": 42,
+            "spotify_id": "1otpxELP6XaCFw6DespksE",
+            "name": "De Ware Jacob",
+            "publisher": "Dagblad van het Noorden",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fe238bd6896202a2131881505",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/1otpxELP6XaCFw6DespksE"
+        },
+        {
+            "rank": 43,
+            "spotify_id": "5bXgeTIeqmmDNjCDNApeHI",
+            "name": "Verhaal Onbekend",
+            "publisher": "Rake Media",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f3350604e16e555d90723c39b",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/5bXgeTIeqmmDNjCDNApeHI"
+        },
+        {
+            "rank": 44,
+            "spotify_id": "0EjTTS72NplNDL0WNId6VU",
+            "name": "MISCHA!",
+            "publisher": "NPO Luister \/ AVROTROS",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1ffd2956a1f86fc9de0d457b37",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/0EjTTS72NplNDL0WNId6VU"
+        },
+        {
+            "rank": 45,
+            "spotify_id": "46KKnE6gclkl85Ijs0uooI",
+            "name": "Breinstof",
+            "publisher": "Marlieke Koks",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f1adc1c7b9d5b19bc95cd2ce4",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/46KKnE6gclkl85Ijs0uooI"
+        },
+        {
+            "rank": 46,
+            "spotify_id": "44knfuBzB4IIbqJXeAKgf7",
+            "name": "Nooit Voorbij",
+            "publisher": "Stichting Nooit Voorbij",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fa485bb11a1e34f5f524c3f54",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/44knfuBzB4IIbqJXeAKgf7"
+        },
+        {
+            "rank": 47,
+            "spotify_id": "0qsGVJ7lVZIh5UmtduhDL8",
+            "name": "Aaf en Lies lossen het wel weer op",
+            "publisher": "Tonny Media",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f68c00e424f3682502108c5a9",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/0qsGVJ7lVZIh5UmtduhDL8"
+        },
+        {
+            "rank": 48,
+            "spotify_id": "6IUw0GZbJtMsXetz6PI5uX",
+            "name": "Je Favoriete Podcast",
+            "publisher": "Stefan de Vries, Julia Heetman en Sean Demmers \/ Tonny Media",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f36bbf62daf8ed0047476ca54",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/6IUw0GZbJtMsXetz6PI5uX"
+        },
+        {
+            "rank": 49,
+            "spotify_id": "5thtX9AMcghTeewSRbTnuK",
+            "name": "Dit kan geen toeval zijn",
+            "publisher": "de Volkskrant",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fc0b612bdae8a8c36b5cb6ea0",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/5thtX9AMcghTeewSRbTnuK"
+        },
+        {
+            "rank": 50,
+            "spotify_id": "033qLYP12Z9NaLEpomIdrJ",
+            "name": "FRANIEKOE",
+            "publisher": "Frank van der Slot, Niek Roozen & Koen Weijland",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f2dc89629cf84e9777f2d59fa",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/033qLYP12Z9NaLEpomIdrJ"
+        },
+        {
+            "rank": 51,
+            "spotify_id": "0u3poqkV9lMDVqbkXhHLh9",
+            "name": "Zolang het leuk is",
+            "publisher": "BNR Nieuwsradio",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f5948baafb68e4f9f18a15a23",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/0u3poqkV9lMDVqbkXhHLh9"
+        },
+        {
+            "rank": 52,
+            "spotify_id": "3Y99BTNT9fUuEnk3i93jDg",
+            "name": "Daphne's Hulptroepen",
+            "publisher": "Dag en Nacht | Podimo",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fb0d8d781690d42a1181a59ea",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/3Y99BTNT9fUuEnk3i93jDg"
+        },
+        {
+            "rank": 53,
+            "spotify_id": "0f1ANZCyz5IaFjlcTdGozS",
+            "name": "Verdwenen",
+            "publisher": "NPO Luister \/ EO",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fe37d99facc776523b1a07fb6",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/0f1ANZCyz5IaFjlcTdGozS"
+        },
+        {
+            "rank": 54,
             "spotify_id": "34ELRkPVW3CfnXMAdASaWT",
             "name": "Sam Solo",
             "publisher": "Sam Solo",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fa97300901b3abb8ec0afa20b",
             "rank_move": "UNCHANGED",
             "url": "https:\/\/open.spotify.com\/show\/34ELRkPVW3CfnXMAdASaWT"
+        },
+        {
+            "rank": 55,
+            "spotify_id": "3PyWv3sU59HAOC1awt7uN4",
+            "name": "De Grote Podcastlas",
+            "publisher": "Leon Boelens, Max Gerritsen & Hugo Noordman",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f1c6bf58077c62507382bcbb0",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/3PyWv3sU59HAOC1awt7uN4"
+        },
+        {
+            "rank": 56,
+            "spotify_id": "0kRvNOwfw2iAxZiPo4fbi9",
+            "name": "AD Voetbal podcast",
+            "publisher": "AD",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fa04384e4c30e0c7d5d5867cd",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/0kRvNOwfw2iAxZiPo4fbi9"
         },
         {
             "rank": 57,
@@ -521,258 +521,42 @@
         },
         {
             "rank": 58,
-            "spotify_id": "3sPa5pDuDrcU22vCeUvcQw",
-            "name": "VI RONDJE",
-            "publisher": "Voetbal International",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f40fa7bfc513f137cab03a6d6",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/3sPa5pDuDrcU22vCeUvcQw"
-        },
-        {
-            "rank": 59,
-            "spotify_id": "5Hpc8qDcawOEf4ulCouPau",
-            "name": "AI Report",
-            "publisher": "Alexander Klöpping en Wietse Hage",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f5e6baacf7117d9a4d8b032ac",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/5Hpc8qDcawOEf4ulCouPau"
-        },
-        {
-            "rank": 60,
-            "spotify_id": "73vZPMVjxTqC02OYZdcCr7",
-            "name": "NRC Vandaag",
-            "publisher": "NRC",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f12b685f0b53b4caac3911f7b",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/73vZPMVjxTqC02OYZdcCr7"
-        },
-        {
-            "rank": 61,
-            "spotify_id": "0f1ANZCyz5IaFjlcTdGozS",
-            "name": "Verdwenen",
-            "publisher": "NPO Luister \/ EO",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fe37d99facc776523b1a07fb6",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/0f1ANZCyz5IaFjlcTdGozS"
-        },
-        {
-            "rank": 62,
-            "spotify_id": "3Y99BTNT9fUuEnk3i93jDg",
-            "name": "Daphne's Hulptroepen",
-            "publisher": "Dag en Nacht | Podimo",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fb0d8d781690d42a1181a59ea",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/3Y99BTNT9fUuEnk3i93jDg"
-        },
-        {
-            "rank": 63,
-            "spotify_id": "033qPYYM5b6XZhRmC2g5t2",
-            "name": "Wij doen maar wat.. (de podcast)",
-            "publisher": "Lars en Nicole",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f252655b2602102ed055feb31",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/033qPYYM5b6XZhRmC2g5t2"
-        },
-        {
-            "rank": 64,
-            "spotify_id": "0fYGsIg9ZoZpxwdfbiO3ik",
-            "name": "VERSUZ",
-            "publisher": "Podgrond",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fccb0d7b647534954f07dc39c",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/0fYGsIg9ZoZpxwdfbiO3ik"
-        },
-        {
-            "rank": 65,
-            "spotify_id": "3UlIAP2Hm3E4tfcK3bcCSr",
-            "name": "Dutch Dragons",
-            "publisher": "Bas Witvoet, Pieter Schoen, Michel Perridon",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f949f4fe95163f8a9da099e69",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/3UlIAP2Hm3E4tfcK3bcCSr"
-        },
-        {
-            "rank": 66,
-            "spotify_id": "1otpxELP6XaCFw6DespksE",
-            "name": "De Ware Jacob",
-            "publisher": "Dagblad van het Noorden",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fe238bd6896202a2131881505",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/1otpxELP6XaCFw6DespksE"
-        },
-        {
-            "rank": 67,
-            "spotify_id": "6K3qPE7YDFf87FlBa6BShV",
-            "name": "Moordcast",
-            "publisher": "Dionne & Henrik",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f29fb0d17c1f97dd69b00228e",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/6K3qPE7YDFf87FlBa6BShV"
-        },
-        {
-            "rank": 68,
-            "spotify_id": "033zZydwZWH4xl0YwRY5jQ",
-            "name": "Uit de schaduw",
-            "publisher": "AIVD, KMar, NCTV, OM, Politie",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fafd8361cf4fa875fdc30a034",
-            "rank_move": "NEW",
-            "url": "https:\/\/open.spotify.com\/show\/033zZydwZWH4xl0YwRY5jQ"
-        },
-        {
-            "rank": 69,
-            "spotify_id": "6pOF6DWm1YeSjXcMTSF4Tq",
-            "name": "Moorden in het Noorden",
-            "publisher": "Podimo",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f1a5c6cda03e0090c680f62dc",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/6pOF6DWm1YeSjXcMTSF4Tq"
-        },
-        {
-            "rank": 70,
-            "spotify_id": "1gttPJzgJWnaWM829JVN5a",
-            "name": "De Jortcast",
-            "publisher": "NPO Luister \/ AVROTROS",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fb724451d4e0e625341bbcaa6",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/1gttPJzgJWnaWM829JVN5a"
-        },
-        {
-            "rank": 71,
-            "spotify_id": "4diHcl3zqOgQBSgFDDskiI",
-            "name": "Alle Geschiedenis Ooit – Grote Namen",
-            "publisher": "Alle Geschiedenis Ooit",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f0460535f8e0e4da9b51f6420",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/4diHcl3zqOgQBSgFDDskiI"
-        },
-        {
-            "rank": 72,
-            "spotify_id": "52tyt6FIqWYlRFDOpmv0cr",
-            "name": "Rust in je hoofd",
-            "publisher": "Meditation Moments",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f049f8c68cda5ab0aef73c18e",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/52tyt6FIqWYlRFDOpmv0cr"
-        },
-        {
-            "rank": 73,
             "spotify_id": "6RoavqvppTcNKmlGYqOXEk",
             "name": "De Claudia Show",
             "publisher": "Claudia de Breij",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f65cc2a81881773f58db48859",
-            "rank_move": "DOWN",
+            "rank_move": "UP",
             "url": "https:\/\/open.spotify.com\/show\/6RoavqvppTcNKmlGYqOXEk"
         },
         {
-            "rank": 74,
-            "spotify_id": "6AeemTu3AwFDGkM50OtnbI",
-            "name": "Wat een Week!",
-            "publisher": "Maxim Hartman & Willem Treur",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f16a7cc88bc0bbef0aed05f4f",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/6AeemTu3AwFDGkM50OtnbI"
-        },
-        {
-            "rank": 75,
-            "spotify_id": "0ZoS33lfc6zH1uT3pKERa0",
-            "name": "Studio Oranje",
-            "publisher": "VoetbalPrimeur",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f47633f73648ee4b2fb634832",
+            "rank": 59,
+            "spotify_id": "4AwU3uqJkcw017yXKpn9UM",
+            "name": "Amerika in 15 minuten",
+            "publisher": "Raymond Mens",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fd005675ec4321cba26f8fa7d",
             "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/0ZoS33lfc6zH1uT3pKERa0"
+            "url": "https:\/\/open.spotify.com\/show\/4AwU3uqJkcw017yXKpn9UM"
         },
         {
-            "rank": 76,
-            "spotify_id": "5bXgeTIeqmmDNjCDNApeHI",
-            "name": "Verhaal Onbekend",
-            "publisher": "Rake Media",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f3350604e16e555d90723c39b",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/5bXgeTIeqmmDNjCDNApeHI"
-        },
-        {
-            "rank": 77,
-            "spotify_id": "5QbTqK2ZW2D2GFBUaksLf4",
-            "name": "Bureau Sport Podcast",
+            "rank": 60,
+            "spotify_id": "50rDE822dlCxQFbulYrLH1",
+            "name": "RADIO BOOS",
             "publisher": "NPO Luister \/ BNNVARA",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f14a3b4ce1ff6fb2c4f5aa62a",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f5dc4ec073b16b74277dd7d95",
             "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/5QbTqK2ZW2D2GFBUaksLf4"
+            "url": "https:\/\/open.spotify.com\/show\/50rDE822dlCxQFbulYrLH1"
         },
         {
-            "rank": 78,
-            "spotify_id": "033qLYP12Z9NaLEpomIdrJ",
-            "name": "FRANIEKOE",
-            "publisher": "Frank van der Slot, Niek Roozen & Koen Weijland",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f2dc89629cf84e9777f2d59fa",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/033qLYP12Z9NaLEpomIdrJ"
-        },
-        {
-            "rank": 79,
-            "spotify_id": "6rXFj4ftMeKoShJLwEsJFA",
-            "name": "#GeenFilter",
-            "publisher": "Maria & Tamara",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f68d330fe2c933707c365feac",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/6rXFj4ftMeKoShJLwEsJFA"
-        },
-        {
-            "rank": 80,
-            "spotify_id": "2dt8aHvUzzfG6Ua2kwdjFV",
-            "name": "Komt goed schat",
-            "publisher": "Anna van Borre \/ Tonny Media",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f8ff94c62a27eeddfd94b97cf",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/2dt8aHvUzzfG6Ua2kwdjFV"
-        },
-        {
-            "rank": 81,
+            "rank": 61,
             "spotify_id": "47394wyoE7zWt31qWWpOrv",
             "name": "De Zaak X",
             "publisher": "AD",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fb1d9622068dae87fd9023bef",
-            "rank_move": "DOWN",
+            "rank_move": "UP",
             "url": "https:\/\/open.spotify.com\/show\/47394wyoE7zWt31qWWpOrv"
         },
         {
-            "rank": 82,
-            "spotify_id": "2pPm0GUfuNSAghPT7XSW5V",
-            "name": "Zelfspodcast",
-            "publisher": "Tonny Media",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f5105e2ef136cfa58834c17d7",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/2pPm0GUfuNSAghPT7XSW5V"
-        },
-        {
-            "rank": 83,
-            "spotify_id": "3zH56kN3RdOB0DX4mPE2pC",
-            "name": "Let's go mental",
-            "publisher": "NPO Luister \/ HUMAN",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f9a5dff6788897e9d3325ea7d",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/3zH56kN3RdOB0DX4mPE2pC"
-        },
-        {
-            "rank": 84,
-            "spotify_id": "5BdUfhFwhFKT2KKEQM4yps",
-            "name": "BNR Nieuws Vandaag",
-            "publisher": "BNR Nieuwsradio",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fd0fd7e22df55dcf9b542541a",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/5BdUfhFwhFKT2KKEQM4yps"
-        },
-        {
-            "rank": 85,
-            "spotify_id": "7Cvsbcjhtur7nplC148TWy",
-            "name": "The Rest Is History",
-            "publisher": "Goalhanger",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f39c851bf41a3a665b14ca26f",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/7Cvsbcjhtur7nplC148TWy"
-        },
-        {
-            "rank": 86,
+            "rank": 62,
             "spotify_id": "1vLJx2D3i1yE3yIskqbg9N",
             "name": "Eefke, in rook opgegaan",
             "publisher": "De Stentor",
@@ -781,7 +565,178 @@
             "url": "https:\/\/open.spotify.com\/show\/1vLJx2D3i1yE3yIskqbg9N"
         },
         {
-            "rank": 87,
+            "rank": 63,
+            "spotify_id": "2bbrFZb8kWUWfCdMzjwlwi",
+            "name": "De Geweldloze Podcast • Over opvoeden en zo!",
+            "publisher": "Marieke  & Ilse \/ ILVY Network",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fb36e84f18ad3fc49071514e1",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/2bbrFZb8kWUWfCdMzjwlwi"
+        },
+        {
+            "rank": 64,
+            "spotify_id": "6K3qPE7YDFf87FlBa6BShV",
+            "name": "Moordcast",
+            "publisher": "Dionne & Henrik",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f29fb0d17c1f97dd69b00228e",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/6K3qPE7YDFf87FlBa6BShV"
+        },
+        {
+            "rank": 65,
+            "spotify_id": "1gttPJzgJWnaWM829JVN5a",
+            "name": "De Jortcast",
+            "publisher": "NPO Luister \/ AVROTROS",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fb724451d4e0e625341bbcaa6",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/1gttPJzgJWnaWM829JVN5a"
+        },
+        {
+            "rank": 66,
+            "spotify_id": "0hDDAa8VJui2oPHsGjETQr",
+            "name": "Hagelslag",
+            "publisher": "Bas Louissen, Chris Bergström en Puck van den Hoogen \/ Meer van dit",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fbfdb8404390c3e0a2f337434",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/0hDDAa8VJui2oPHsGjETQr"
+        },
+        {
+            "rank": 67,
+            "spotify_id": "2Oeh3L5u0y9R54jEz8Mgty",
+            "name": "De Dag",
+            "publisher": "NPO Luister \/ NOS",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fc92f72720d93eb549980517f",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/2Oeh3L5u0y9R54jEz8Mgty"
+        },
+        {
+            "rank": 68,
+            "spotify_id": "2dt8aHvUzzfG6Ua2kwdjFV",
+            "name": "Komt goed schat",
+            "publisher": "Anna van Borre \/ Tonny Media",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f8ff94c62a27eeddfd94b97cf",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/2dt8aHvUzzfG6Ua2kwdjFV"
+        },
+        {
+            "rank": 69,
+            "spotify_id": "6NuLTAJtcgsU2lKYxQqPCJ",
+            "name": "Veldheren",
+            "publisher": "Peter van Uhm, Mart de Kruif, Jos de Groot \/ Corti Media",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f437ac8b2ed1ececf72127501",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/6NuLTAJtcgsU2lKYxQqPCJ"
+        },
+        {
+            "rank": 70,
+            "spotify_id": "6pOF6DWm1YeSjXcMTSF4Tq",
+            "name": "Moorden in het Noorden",
+            "publisher": "Podimo",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f1a5c6cda03e0090c680f62dc",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/6pOF6DWm1YeSjXcMTSF4Tq"
+        },
+        {
+            "rank": 71,
+            "spotify_id": "5nINyapsDh3irSAQsZJhq5",
+            "name": "Efkes onder ons",
+            "publisher": "Kelly Pfaff | Shania Gooris | Studio Story",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f04f7f8e63d5d887f99c9c1cf",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/5nINyapsDh3irSAQsZJhq5"
+        },
+        {
+            "rank": 72,
+            "spotify_id": "5Hpc8qDcawOEf4ulCouPau",
+            "name": "AI Report",
+            "publisher": "Alexander Klöpping en Wietse Hage",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f5e6baacf7117d9a4d8b032ac",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/5Hpc8qDcawOEf4ulCouPau"
+        },
+        {
+            "rank": 73,
+            "spotify_id": "6C1XBOjNXCFLHVwPk6oXva",
+            "name": "Geuze & Gorgels",
+            "publisher": "Monica & Kaj \/ Tonny Media",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f1faf54beac63b1a60650a655",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/6C1XBOjNXCFLHVwPk6oXva"
+        },
+        {
+            "rank": 74,
+            "spotify_id": "3zH56kN3RdOB0DX4mPE2pC",
+            "name": "Let's go mental",
+            "publisher": "NPO Luister \/ HUMAN",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f9a5dff6788897e9d3325ea7d",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/3zH56kN3RdOB0DX4mPE2pC"
+        },
+        {
+            "rank": 75,
+            "spotify_id": "79CX1bK0RVep8SDm84Bnwy",
+            "name": "Bo & Pauline: Genoeg onderweg",
+            "publisher": "Tonny Media",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f795fbe760e020cf1a02147bc",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/79CX1bK0RVep8SDm84Bnwy"
+        },
+        {
+            "rank": 76,
+            "spotify_id": "4diHcl3zqOgQBSgFDDskiI",
+            "name": "Alle Geschiedenis Ooit – Grote Namen",
+            "publisher": "Alle Geschiedenis Ooit",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f0460535f8e0e4da9b51f6420",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/4diHcl3zqOgQBSgFDDskiI"
+        },
+        {
+            "rank": 77,
+            "spotify_id": "1YsZGTxmXh0K1LiUX3kHKR",
+            "name": "Doorzetters | met Ruud Hendriks en Richard Bross",
+            "publisher": "Doorzetters Media",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f953646828450f392d56c3a56",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/1YsZGTxmXh0K1LiUX3kHKR"
+        },
+        {
+            "rank": 78,
+            "spotify_id": "1ceGREFHFJzcgHK875tjvP",
+            "name": "True Crime Pro's",
+            "publisher": "Carrie Voshaar \/ John Pel & Marcel van de Ven",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fcfa9e7a24c0d071a9a522a09",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/1ceGREFHFJzcgHK875tjvP"
+        },
+        {
+            "rank": 79,
+            "spotify_id": "0fYGsIg9ZoZpxwdfbiO3ik",
+            "name": "VERSUZ",
+            "publisher": "Podgrond",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fccb0d7b647534954f07dc39c",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/0fYGsIg9ZoZpxwdfbiO3ik"
+        },
+        {
+            "rank": 80,
+            "spotify_id": "07VlPlIqfU5bRRpIYWlg1C",
+            "name": "Zo, Opgelost",
+            "publisher": "NPO Luister \/ KRO-NCRV",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f3532398588ccc553d34d4fdc",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/07VlPlIqfU5bRRpIYWlg1C"
+        },
+        {
+            "rank": 81,
+            "spotify_id": "5mCwIOef62Cy0GvqkkdH0f",
+            "name": "Geschiedenis Inside",
+            "publisher": "Tonny Media",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f304a7dd70a88479301ace67e",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/5mCwIOef62Cy0GvqkkdH0f"
+        },
+        {
+            "rank": 82,
             "spotify_id": "4j6rkKNWxPzlfVS4k662er",
             "name": "FD Dagkoers",
             "publisher": "Het Financieele Dagblad",
@@ -790,295 +745,34 @@
             "url": "https:\/\/open.spotify.com\/show\/4j6rkKNWxPzlfVS4k662er"
         },
         {
-            "rank": 88,
-            "spotify_id": "1J9w1rGmr1NdF1Vwz7Z5Nm",
-            "name": "de Volkskrant Elke Dag",
-            "publisher": "de Volkskrant",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f1d7328ffe0a9f9e5884d68b2",
+            "rank": 83,
+            "spotify_id": "5QbTqK2ZW2D2GFBUaksLf4",
+            "name": "Bureau Sport Podcast",
+            "publisher": "NPO Luister \/ BNNVARA",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f14a3b4ce1ff6fb2c4f5aa62a",
             "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/1J9w1rGmr1NdF1Vwz7Z5Nm"
+            "url": "https:\/\/open.spotify.com\/show\/5QbTqK2ZW2D2GFBUaksLf4"
         },
         {
-            "rank": 89,
-            "spotify_id": "5EqqB52m2bsr4k1Ii7sStc",
-            "name": "On Purpose with Jay Shetty",
-            "publisher": "iHeartPodcasts",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fd9624e2ec50d7c5eb6213d21",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/5EqqB52m2bsr4k1Ii7sStc"
-        },
-        {
-            "rank": 90,
-            "spotify_id": "4MQW3nZcDVptUDGnln3sIX",
-            "name": "Europa Draait Door",
-            "publisher": "NPO Luister \/ VPRO",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f27c8f0441e6611de53d4156e",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/4MQW3nZcDVptUDGnln3sIX"
-        },
-        {
-            "rank": 91,
+            "rank": 84,
             "spotify_id": "1aXFxpK6Bp2Lkky2sU74x3",
             "name": "De Ongelooflijke Podcast",
             "publisher": "NPO Luister \/ EO",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fc234a92a3e4169380cb0220d",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fcffe143f5042e60f65f1ff25",
             "rank_move": "UP",
             "url": "https:\/\/open.spotify.com\/show\/1aXFxpK6Bp2Lkky2sU74x3"
         },
         {
-            "rank": 92,
-            "spotify_id": "033uY2K2uJyXzPeUoGnEso",
-            "name": "De dood of de gladiolen",
-            "publisher": "Omroep Gelderland",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1ff94b59e326abe2898151cd10",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/033uY2K2uJyXzPeUoGnEso"
-        },
-        {
-            "rank": 93,
-            "spotify_id": "1fI3xqzFr8NLS8C9kRJ26a",
-            "name": "Cocaïnekoorts: De zaak Bressers",
-            "publisher": "NRC & De Standaard",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fe205edd6482d1bf204656901",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/1fI3xqzFr8NLS8C9kRJ26a"
-        },
-        {
-            "rank": 94,
-            "spotify_id": "5IWS8rljMbdaK0cUUxNIau",
-            "name": "Omdenken Podcast",
-            "publisher": "Berthold Gunster",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f2bbac5bdd01edae13f0deb4e",
+            "rank": 85,
+            "spotify_id": "0SOiuwn5p3F9grVoRIGJMH",
+            "name": "VI Oranje Podcast",
+            "publisher": "Voetbal International",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fab9f3049345ed21d4b0f3a12",
             "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/5IWS8rljMbdaK0cUUxNIau"
+            "url": "https:\/\/open.spotify.com\/show\/0SOiuwn5p3F9grVoRIGJMH"
         },
         {
-            "rank": 95,
-            "spotify_id": "5mCwIOef62Cy0GvqkkdH0f",
-            "name": "Geschiedenis Inside",
-            "publisher": "Tonny Media",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f304a7dd70a88479301ace67e",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/5mCwIOef62Cy0GvqkkdH0f"
-        },
-        {
-            "rank": 96,
-            "spotify_id": "4bwTVxbNb0eWK8KPJZWSeP",
-            "name": "ZIN",
-            "publisher": "Jacqueline van Lieshout \/ Middle Child Media",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f7579b319635caf0ffdd32c23",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/4bwTVxbNb0eWK8KPJZWSeP"
-        },
-        {
-            "rank": 97,
-            "spotify_id": "3V5LLq86SS1NmVD1DdWbJi",
-            "name": "Moorden in de jaren...",
-            "publisher": "Hanneke Hendrix & Lotte Lentes \/ New Tree Media",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f30b0b717db818b377f1bb86e",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/3V5LLq86SS1NmVD1DdWbJi"
-        },
-        {
-            "rank": 98,
-            "spotify_id": "5nINyapsDh3irSAQsZJhq5",
-            "name": "Efkes onder ons",
-            "publisher": "Kelly Pfaff | Shania Gooris | Studio Story",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f04f7f8e63d5d887f99c9c1cf",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/5nINyapsDh3irSAQsZJhq5"
-        },
-        {
-            "rank": 99,
-            "spotify_id": "5qfuN63xjwv18e1ngAlVpg",
-            "name": "Peace of Mind",
-            "publisher": "David de Kock & Arjan Vergeer \/ 365 Dagen Succesvol",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1faea3280225429b737ba1fc73",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/5qfuN63xjwv18e1ngAlVpg"
-        },
-        {
-            "rank": 100,
-            "spotify_id": "2iDhYY7pnT56UqiWF7n3AL",
-            "name": "Studio Sedee",
-            "publisher": "De Telegraaf",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f727c8b0338a3fc1430df3f11",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/2iDhYY7pnT56UqiWF7n3AL"
-        },
-        {
-            "rank": 101,
-            "spotify_id": "2Oeh3L5u0y9R54jEz8Mgty",
-            "name": "De Dag",
-            "publisher": "NPO Luister \/ NOS",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fc92f72720d93eb549980517f",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/2Oeh3L5u0y9R54jEz8Mgty"
-        },
-        {
-            "rank": 102,
-            "spotify_id": "2AllZeZOV4t45fQljCFezG",
-            "name": "Weer een dag",
-            "publisher": "Marcel van Roosmalen & Gijs Groenteman \/ Meer van dit",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f477b97d9ba21ca1a786cfe14",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/2AllZeZOV4t45fQljCFezG"
-        },
-        {
-            "rank": 103,
-            "spotify_id": "2sqXXRb21xL7ACjX8fHofN",
-            "name": "De Podcast Psycholoog",
-            "publisher": "De Podcast Psycholoog",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f557af2060b492d108933f4b4",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/2sqXXRb21xL7ACjX8fHofN"
-        },
-        {
-            "rank": 104,
-            "spotify_id": "6SMCITqavvOQPSPyCmODax",
-            "name": "SEXTORTION",
-            "publisher": "Lars van Eijden & Rick Uilenbroek \/ Audiohuis",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f6164ad637510ed5e799e567c",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/6SMCITqavvOQPSPyCmODax"
-        },
-        {
-            "rank": 105,
-            "spotify_id": "033obbfboIx2OvJzytmxtW",
-            "name": "Afspelen",
-            "publisher": "NU.nl",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f626355f37e5fde3af4245979",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/033obbfboIx2OvJzytmxtW"
-        },
-        {
-            "rank": 106,
-            "spotify_id": "5fwoi5JXby6D99Vzxl5OhN",
-            "name": "BIMS",
-            "publisher": "Soundos, Edson & Quinty \/ Tonny Media",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fe8f1c94dd109fa2bb6fef425",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/5fwoi5JXby6D99Vzxl5OhN"
-        },
-        {
-            "rank": 107,
-            "spotify_id": "5ngAyd9GbLiCOTtYVLm3kI",
-            "name": "Rechtpraten",
-            "publisher": "Royce de Vries & Annemiek van Spanje \/ New Tree Media",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fc359ac008f8eacbe7ed61ab7",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/5ngAyd9GbLiCOTtYVLm3kI"
-        },
-        {
-            "rank": 108,
-            "spotify_id": "5kbrf2NkBeLvOECGxsomYh",
-            "name": "Het Misdaadbureau",
-            "publisher": "NPO Luister \/ PowNed",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f74131c3e2632523c1d111176",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/5kbrf2NkBeLvOECGxsomYh"
-        },
-        {
-            "rank": 109,
-            "spotify_id": "7dxtMoOB2wUcPIIET4BuBn",
-            "name": "Heterdaad",
-            "publisher": "De Telegraaf",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fcab404dbd7e63a83a921cafc",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/7dxtMoOB2wUcPIIET4BuBn"
-        },
-        {
-            "rank": 110,
-            "spotify_id": "5thtX9AMcghTeewSRbTnuK",
-            "name": "Dit kan geen toeval zijn",
-            "publisher": "de Volkskrant",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fc0b612bdae8a8c36b5cb6ea0",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/5thtX9AMcghTeewSRbTnuK"
-        },
-        {
-            "rank": 111,
-            "spotify_id": "0iqubvN9iIGLGRBTJOPlVf",
-            "name": "Jong Beleggen, de podcast",
-            "publisher": "Pim Verlaan \/ Milou Brand",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f28a483a5454bd1b60f2e37ff",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/0iqubvN9iIGLGRBTJOPlVf"
-        },
-        {
-            "rank": 112,
-            "spotify_id": "033l3rbr9WRSRWVBfVGYQJ",
-            "name": "Brood Nodig",
-            "publisher": "NPO Luister \/ Omroep MAX",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1faa20313372289f7d87d1a5e4",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/033l3rbr9WRSRWVBfVGYQJ"
-        },
-        {
-            "rank": 113,
-            "spotify_id": "1JT1OLCTy0FRzxE0J8ltJA",
-            "name": "Bloedheet & Tranen - de overgang zonder onzin",
-            "publisher": "Evi Hanssen \/ PnP Media",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f5b077cfc3e5e4c91fa37284f",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/1JT1OLCTy0FRzxE0J8ltJA"
-        },
-        {
-            "rank": 114,
-            "spotify_id": "3sba91hbQMAS23xFIUUpsH",
-            "name": "Met Groenteman in de kast",
-            "publisher": "de Volkskrant",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1ff12ad717342de2f15b5d9d99",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/3sba91hbQMAS23xFIUUpsH"
-        },
-        {
-            "rank": 115,
-            "spotify_id": "67rElaUbzD77BKkUZBUTT9",
-            "name": "Borrelpraat",
-            "publisher": "Thijs Boermans & Niels Oosthoek",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f1c6eabdcffc6d67474eab008",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/67rElaUbzD77BKkUZBUTT9"
-        },
-        {
-            "rank": 116,
-            "spotify_id": "6rz0PtkHkAnjK0jwAkB7AK",
-            "name": "De Brand in het Landhuis",
-            "publisher": "NPO Luister \/ NTR",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f0fc444084a6d6830e33e474e",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/6rz0PtkHkAnjK0jwAkB7AK"
-        },
-        {
-            "rank": 117,
-            "spotify_id": "59wGengjepa7In6C4y4kHN",
-            "name": "Schaduwoorlog",
-            "publisher": "De Volkskrant ",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f6d412ed1fe8fce2027be33de",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/59wGengjepa7In6C4y4kHN"
-        },
-        {
-            "rank": 118,
-            "spotify_id": "65RS7CVAV15q2K81qvLy7u",
-            "name": "Crime Insight",
-            "publisher": "MvW Crime Station",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fcdb8fe06768db2d664bd27e1",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/65RS7CVAV15q2K81qvLy7u"
-        },
-        {
-            "rank": 119,
-            "spotify_id": "7gBSnpcQ9cYCiCEt8Y4eSI",
-            "name": "Scientias Podcast",
-            "publisher": "Scientias",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f4b79a75a39aca7e4b4eecfe4",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/7gBSnpcQ9cYCiCEt8Y4eSI"
-        },
-        {
-            "rank": 120,
+            "rank": 86,
             "spotify_id": "7DNz6wXbfEklyOveLal6Ps",
             "name": "That's what Shei said",
             "publisher": "Geuren & Kleuren Media \/ Sheida Alhoei",
@@ -1087,493 +781,223 @@
             "url": "https:\/\/open.spotify.com\/show\/7DNz6wXbfEklyOveLal6Ps"
         },
         {
-            "rank": 121,
-            "spotify_id": "033kAxSw1DtjUDXXBKnPmI",
-            "name": "Moerdijk: dorp van de rekening  ",
-            "publisher": "BNR Nieuwsradio",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fd55b87979cdf8bb249d31ac6",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/033kAxSw1DtjUDXXBKnPmI"
-        },
-        {
-            "rank": 122,
-            "spotify_id": "3eC9tx1pouQ0xmgJaVTH7q",
-            "name": "Het Habbo-mysterie",
-            "publisher": "AD",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fe1ba82c38b85898b050248e4",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/3eC9tx1pouQ0xmgJaVTH7q"
-        },
-        {
-            "rank": 123,
-            "spotify_id": "4ntG5VOdJoq2SxTHhlSZbg",
-            "name": "De Hippiemoord",
-            "publisher": "Dag en Nacht | Podimo ",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fab5c22b650eaff8a92901af3",
+            "rank": 87,
+            "spotify_id": "4zMp17pA0Du63rzZimXOYv",
+            "name": "De Oranjezomer",
+            "publisher": "Oranjezomer",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f4cd03f4aa85ba4428cfef9b0",
             "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/4ntG5VOdJoq2SxTHhlSZbg"
+            "url": "https:\/\/open.spotify.com\/show\/4zMp17pA0Du63rzZimXOYv"
         },
         {
-            "rank": 124,
-            "spotify_id": "72KhxhMrhLthaf3V1n7YIx",
-            "name": "De Nieuwe Wereld",
-            "publisher": "De Nieuwe Wereld",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f7eef7c9401efa2bf26b96f96",
+            "rank": 88,
+            "spotify_id": "5IWS8rljMbdaK0cUUxNIau",
+            "name": "Omdenken Podcast",
+            "publisher": "Berthold Gunster",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f2bbac5bdd01edae13f0deb4e",
             "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/72KhxhMrhLthaf3V1n7YIx"
+            "url": "https:\/\/open.spotify.com\/show\/5IWS8rljMbdaK0cUUxNIau"
         },
         {
-            "rank": 125,
-            "spotify_id": "5IQCDDwWlDkZDRahQYwZon",
-            "name": "BROERS met Sam & Rijk",
-            "publisher": "Sam &amp; Rijk",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fcc9939fdb1ce29b0815ee119",
+            "rank": 89,
+            "spotify_id": "3sPa5pDuDrcU22vCeUvcQw",
+            "name": "VI RONDJE",
+            "publisher": "Voetbal International",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f40fa7bfc513f137cab03a6d6",
             "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/5IQCDDwWlDkZDRahQYwZon"
+            "url": "https:\/\/open.spotify.com\/show\/3sPa5pDuDrcU22vCeUvcQw"
         },
         {
-            "rank": 126,
-            "spotify_id": "6l23Rpe9yhfbMDJxtqt7Qw",
-            "name": "Vik & Gert",
-            "publisher": "Play Media | Tonny Media",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f552be6af564329890b570fa3",
+            "rank": 90,
+            "spotify_id": "0qyV7aEcv189h0HMoMbFSr",
+            "name": "Radio Ramkraak",
+            "publisher": "LC & DVHN",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f908f3c965a1a8fd817317c4b",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/0qyV7aEcv189h0HMoMbFSr"
+        },
+        {
+            "rank": 91,
+            "spotify_id": "6AeemTu3AwFDGkM50OtnbI",
+            "name": "Wat een Week!",
+            "publisher": "Maxim Hartman & Willem Treur",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f16a7cc88bc0bbef0aed05f4f",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/6AeemTu3AwFDGkM50OtnbI"
+        },
+        {
+            "rank": 92,
+            "spotify_id": "3Ab6DGFJL7VE5ToIH4r6w1",
+            "name": "Lang verhaal kort",
+            "publisher": "NPO Luister \/ NOS op 3",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f2b1188311eb364892c8ed7ac",
             "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/6l23Rpe9yhfbMDJxtqt7Qw"
+            "url": "https:\/\/open.spotify.com\/show\/3Ab6DGFJL7VE5ToIH4r6w1"
         },
         {
-            "rank": 127,
+            "rank": 93,
+            "spotify_id": "0KDSiH2knmcnEFo2tQZX0M",
+            "name": "Bas & Frank onderweg naar morgen",
+            "publisher": "Bas Louissen & Frank van der Lende \/ Meer van dit",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fea74b316f11b068c6c28dd05",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/0KDSiH2knmcnEFo2tQZX0M"
+        },
+        {
+            "rank": 94,
+            "spotify_id": "4lpkuJibQKPzuW9TTMMLQg",
+            "name": "WK Praat",
+            "publisher": "ESPN NL",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1ffbceb6828fc1f6fcdcb3dfe9",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/4lpkuJibQKPzuW9TTMMLQg"
+        },
+        {
+            "rank": 95,
+            "spotify_id": "4P7ygGnJ6Wkper4rUe8xWo",
+            "name": "De Ayurveda Podcast",
+            "publisher": "Marleen Dijkhoff en Cielke Sijben",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f4fb7fb3f03435c7a9c3981fe",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/4P7ygGnJ6Wkper4rUe8xWo"
+        },
+        {
+            "rank": 96,
+            "spotify_id": "59wGengjepa7In6C4y4kHN",
+            "name": "Schaduwoorlog",
+            "publisher": "De Volkskrant ",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f6d412ed1fe8fce2027be33de",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/59wGengjepa7In6C4y4kHN"
+        },
+        {
+            "rank": 97,
+            "spotify_id": "5IvRSpUvK9DCfw4y55o0Nh",
+            "name": "Mijn kind, de moordenaar",
+            "publisher": "De Standaard",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fbd9f0e3863d5193d1e4b81c6",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/5IvRSpUvK9DCfw4y55o0Nh"
+        },
+        {
+            "rank": 98,
+            "spotify_id": "7Cvsbcjhtur7nplC148TWy",
+            "name": "The Rest Is History",
+            "publisher": "Goalhanger",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f39c851bf41a3a665b14ca26f",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/7Cvsbcjhtur7nplC148TWy"
+        },
+        {
+            "rank": 99,
             "spotify_id": "6CTkSYrLpjHgBrn100zbeL",
             "name": "De zaak ontleed",
             "publisher": "De Telegraaf",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f9d1a597c0b973991804f2e2e",
-            "rank_move": "DOWN",
+            "rank_move": "UP",
             "url": "https:\/\/open.spotify.com\/show\/6CTkSYrLpjHgBrn100zbeL"
         },
         {
-            "rank": 128,
-            "spotify_id": "2BuBhOIFdutoVEmWuX7F6D",
-            "name": "Beurs | BNR",
-            "publisher": "BNR Nieuwsradio",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fce57819cc109091c229040ae",
+            "rank": 100,
+            "spotify_id": "5ECBLtD0IX5tu7t3D5SH2W",
+            "name": "Mijn eerste miljoen",
+            "publisher": "Quote",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f0dad039dc07a27fd8510eb49",
             "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/2BuBhOIFdutoVEmWuX7F6D"
+            "url": "https:\/\/open.spotify.com\/show\/5ECBLtD0IX5tu7t3D5SH2W"
         },
         {
-            "rank": 129,
-            "spotify_id": "033rZA5HhbkqcO2qGqNOUj",
-            "name": "Station Negen",
-            "publisher": "Station Negen",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f0908857b1d0710dcb3302d0b",
+            "rank": 101,
+            "spotify_id": "1ulFIGRFsOqzdrPs6sO2Fr",
+            "name": "Unfinished Business",
+            "publisher": "Danique & Pieter \/ Tonny Media",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1ff6d695b76bf3bedd78b48276",
             "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/033rZA5HhbkqcO2qGqNOUj"
+            "url": "https:\/\/open.spotify.com\/show\/1ulFIGRFsOqzdrPs6sO2Fr"
         },
         {
-            "rank": 130,
-            "spotify_id": "033fqs1eFut6xFkHdwDSWd",
-            "name": "Sister Talk",
-            "publisher": "Nicola Ebbink \/ MIDDLE CHILD MEDIA.",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f877ce032c8e78e87d0d74a49",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/033fqs1eFut6xFkHdwDSWd"
-        },
-        {
-            "rank": 131,
-            "spotify_id": "5YfSvurcNouoF8pOgtPtVp",
-            "name": "NOS Jeugdjournaal",
-            "publisher": "NPO Zapp \/ NOS",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fdf86352173eb9128f426c7d4",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/5YfSvurcNouoF8pOgtPtVp"
-        },
-        {
-            "rank": 132,
-            "spotify_id": "6UKivY62F1Bt1AbtVki0DF",
-            "name": "Eerst dit",
-            "publisher": "NPO Luister \/ EO",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f82b1eefff98248c306005757",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/6UKivY62F1Bt1AbtVki0DF"
-        },
-        {
-            "rank": 133,
-            "spotify_id": "4gV5if5FRtfB1T8G1XfGZP",
-            "name": "Na de bel",
-            "publisher": "HOTSEFLOTS",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f6ffa1e403d34d6292b0de5e9",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/4gV5if5FRtfB1T8G1XfGZP"
-        },
-        {
-            "rank": 134,
-            "spotify_id": "39NyZJ5cPnpVf7fEVJoaD0",
-            "name": "that's so us de podcast | by Iris en Michelle",
-            "publisher": "Iris en Michelle",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1ff834250d6bc473d0263215bf",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/39NyZJ5cPnpVf7fEVJoaD0"
-        },
-        {
-            "rank": 135,
-            "spotify_id": "6EBWHzSAigW0USmENKGQem",
-            "name": "Voorheen Schaamteloos Randstedelijk (VSR)",
-            "publisher": "Dag en Nacht",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f8dfbdee7d0db146440dfe596",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/6EBWHzSAigW0USmENKGQem"
-        },
-        {
-            "rank": 136,
-            "spotify_id": "5nvRkVMH58SelKZYZFZx1S",
-            "name": "Ologies with Alie Ward",
-            "publisher": "Alie Ward",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fce54de8da4c5935c915c48a3",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/5nvRkVMH58SelKZYZFZx1S"
-        },
-        {
-            "rank": 137,
-            "spotify_id": "0VAAUXRAYzsCVCa89eSdO6",
-            "name": "De Stemming van Vullings en De Rooy",
-            "publisher": "NPO Radio 1 \/ NOS \/ EenVandaag",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1ff6907c7ab21bc6c2f54a355a",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/0VAAUXRAYzsCVCa89eSdO6"
-        },
-        {
-            "rank": 138,
-            "spotify_id": "6gRd8BMvq0sUTzdIWc2gy0",
-            "name": "In de ban van Rian",
-            "publisher": "AD \/ Tubantia",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f5f39bc033e21d931b53bb372",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/6gRd8BMvq0sUTzdIWc2gy0"
-        },
-        {
-            "rank": 139,
-            "spotify_id": "0V4dehCRtSMXQvXvpYVMqd",
-            "name": "Bizarre Verhalen",
-            "publisher": "Jenneke en Mees",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fecce394e132ebb4bc077ae0f",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/0V4dehCRtSMXQvXvpYVMqd"
-        },
-        {
-            "rank": 140,
-            "spotify_id": "3SXWNylNJCFO1YbpIVdZyJ",
-            "name": "De Gierende Hormonen Show",
-            "publisher": "Vivian Reijs en Tanja Jess ",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fcc10a5461188d73c6fcc4e46",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/3SXWNylNJCFO1YbpIVdZyJ"
-        },
-        {
-            "rank": 141,
-            "spotify_id": "7vv1dmgmdebeXOLT4kX3yW",
-            "name": "Groeten uit Grolloo",
-            "publisher": "Johan Derksen ",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f9bba8f46ef6c9113c1e2b3d0",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/7vv1dmgmdebeXOLT4kX3yW"
-        },
-        {
-            "rank": 142,
-            "spotify_id": "033ooSQuedYn2QNrZ35e7b",
-            "name": "Youtube Video's Nederlands\/Engels",
-            "publisher": "Youtuber",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f5b3267c7cd32b83c57cd2ec5",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/033ooSQuedYn2QNrZ35e7b"
-        },
-        {
-            "rank": 143,
-            "spotify_id": "6gPHtIoIKecP74AtiEQ2s5",
-            "name": "ALPHA",
-            "publisher": "NPO Luister \/ NTR",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1ff15f787d15a1b7005364d682",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/6gPHtIoIKecP74AtiEQ2s5"
-        },
-        {
-            "rank": 144,
-            "spotify_id": "7vz4RYsD5MulTCrcH478t1",
-            "name": "The Mel Robbins Podcast",
-            "publisher": "Mel Robbins",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f464250c491dc86ec4316431f",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/7vz4RYsD5MulTCrcH478t1"
-        },
-        {
-            "rank": 145,
-            "spotify_id": "033iQ6XBmZkYP3iIgvgeSr",
-            "name": "FD De strijd om Nexperia",
-            "publisher": "Het Financieele Dagblad",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f3fc736fd7fead0f62fe6d38d",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/033iQ6XBmZkYP3iIgvgeSr"
-        },
-        {
-            "rank": 146,
-            "spotify_id": "40Ccr7O2qZKxW66PK0A3An",
-            "name": "De Joodse Raad van Twente",
-            "publisher": "NPO Luister \/ EO",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f98a5194fadd4750bb987ec0c",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/40Ccr7O2qZKxW66PK0A3An"
-        },
-        {
-            "rank": 147,
-            "spotify_id": "033yUdgjOXwlys8h5ifxme",
-            "name": "FF tussen jou en mij",
-            "publisher": "Fftussenjouenmijpodcast",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f35f5b2c107b430f243dcf663",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/033yUdgjOXwlys8h5ifxme"
-        },
-        {
-            "rank": 148,
-            "spotify_id": "033kHbzo0a1Xu0A3YpEYMc",
-            "name": "Bontenbal's Boekenclub",
-            "publisher": "Henri Bontenbal",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f2d9bbcc20cc77fa6f1fa226d",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/033kHbzo0a1Xu0A3YpEYMc"
-        },
-        {
-            "rank": 149,
-            "spotify_id": "033g0KG8R7VsPA4VSUZ9hJ",
-            "name": "Lullen & Poetsen",
-            "publisher": "PodcastJunkies",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f2e5e07a4d8cebce6c6144af7",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/033g0KG8R7VsPA4VSUZ9hJ"
-        },
-        {
-            "rank": 150,
-            "spotify_id": "7hwKPWvQX09Qc7NEaHIVeq",
-            "name": "De Stijn, Tobi en Jeppe Show",
-            "publisher": "Dag en Nacht Media | Podimo",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fb9dcdf0c0693523f44af3f18",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/7hwKPWvQX09Qc7NEaHIVeq"
-        },
-        {
-            "rank": 151,
-            "spotify_id": "1YsZGTxmXh0K1LiUX3kHKR",
-            "name": "Doorzetters | met Ruud Hendriks en Richard Bross",
-            "publisher": "Doorzetters Media",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f953646828450f392d56c3a56",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/1YsZGTxmXh0K1LiUX3kHKR"
-        },
-        {
-            "rank": 152,
-            "spotify_id": "6bWnoMPM3nUv1FP3hGTSHg",
-            "name": "Marc-Marie & Isa Vinden Iets",
-            "publisher": "Marc-Marie & Isa \/ Tonny Media",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f6e45fcd3122ff0299bec661b",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/6bWnoMPM3nUv1FP3hGTSHg"
-        },
-        {
-            "rank": 153,
-            "spotify_id": "44Ath3wOhgd3mxqlSMWoxq",
-            "name": "De Sekte van Aaldert",
-            "publisher": "NPO Luister \/ PowNed",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f4c5bfa66439f352a94ffc112",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/44Ath3wOhgd3mxqlSMWoxq"
-        },
-        {
-            "rank": 154,
-            "spotify_id": "6gs75aXIGlNrJtu9dbsdVv",
-            "name": "De Rolverdeling",
-            "publisher": "NPO Luister \/ NTR",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f31c5f83438b19e74866f1a70",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/6gs75aXIGlNrJtu9dbsdVv"
-        },
-        {
-            "rank": 155,
-            "spotify_id": "5IEpUScpETh4d1AHAOXdQS",
-            "name": "FC Twente - Sinds 1965",
-            "publisher": "FC Twente",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f5ebdb93a25730feca89d47f7",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/5IEpUScpETh4d1AHAOXdQS"
-        },
-        {
-            "rank": 156,
-            "spotify_id": "5n8dXnTn3SfGAGE1zkWbRS",
-            "name": "De zwarte dag van Hans",
-            "publisher": "AD",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fb8da128e4b58f45e1a3a6b05",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/5n8dXnTn3SfGAGE1zkWbRS"
-        },
-        {
-            "rank": 157,
-            "spotify_id": "1nZ2GSfvsgeKqlElSXJoiL",
-            "name": "Donald Duck Voorleescast ",
-            "publisher": "Donald Duck Weekblad",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f03c0b29e2b9e7f1bba1aae8c",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/1nZ2GSfvsgeKqlElSXJoiL"
-        },
-        {
-            "rank": 158,
+            "rank": 102,
             "spotify_id": "7LuQv400JFzzlJrOuMukRj",
             "name": "The Louis Theroux Podcast",
             "publisher": "Spotify Studios",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f834c0d00b7c84d4605f1d0e0",
-            "rank_move": "UP",
+            "rank_move": "DOWN",
             "url": "https:\/\/open.spotify.com\/show\/7LuQv400JFzzlJrOuMukRj"
         },
         {
-            "rank": 159,
-            "spotify_id": "1Z8WlhFsSADpjiB4N4Toyp",
-            "name": "Amber Stinissen Podcast",
-            "publisher": "Amber Stinissen",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f49c52241f1112bbc78f7e461",
+            "rank": 103,
+            "spotify_id": "033qPYYM5b6XZhRmC2g5t2",
+            "name": "Wij doen maar wat.. (de podcast)",
+            "publisher": "Lars en Nicole",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f252655b2602102ed055feb31",
             "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/1Z8WlhFsSADpjiB4N4Toyp"
+            "url": "https:\/\/open.spotify.com\/show\/033qPYYM5b6XZhRmC2g5t2"
         },
         {
-            "rank": 160,
-            "spotify_id": "4yWgXAWzgbx6GbbNentwWQ",
-            "name": "De Geschiedenis in 11 Fijne Feitjes",
-            "publisher": "NPO Luister \/ BNNVARA",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fe95fb14087d63da51d399fb2",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/4yWgXAWzgbx6GbbNentwWQ"
-        },
-        {
-            "rank": 161,
-            "spotify_id": "1avleoc5U4DA7U37GFPzIH",
-            "name": "Focus: Adults in the Room",
-            "publisher": "KUOW News and Information",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f61742deb2af4cb1ca9442e2c",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/1avleoc5U4DA7U37GFPzIH"
-        },
-        {
-            "rank": 162,
-            "spotify_id": "0mBV8ZVYys74AVDzDfIsrQ",
-            "name": "Tafeltje Vier",
-            "publisher": "Dag en Nacht \/ Vullings Media",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1ff92e11f9d701cdeb34505060",
+            "rank": 104,
+            "spotify_id": "3UlIAP2Hm3E4tfcK3bcCSr",
+            "name": "Dutch Dragons",
+            "publisher": "Bas Witvoet, Pieter Schoen, Michel Perridon",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f949f4fe95163f8a9da099e69",
             "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/0mBV8ZVYys74AVDzDfIsrQ"
+            "url": "https:\/\/open.spotify.com\/show\/3UlIAP2Hm3E4tfcK3bcCSr"
         },
         {
-            "rank": 163,
-            "spotify_id": "2dC9DFgRCLzD51SNm4sSlY",
-            "name": "GRAPES Podcast",
-            "publisher": "GRAPES | Bridget Maasland",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f885d6d33ced39ba4cebc2be7",
+            "rank": 105,
+            "spotify_id": "5YfSvurcNouoF8pOgtPtVp",
+            "name": "NOS Jeugdjournaal",
+            "publisher": "NPO Zapp \/ NOS",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fdf86352173eb9128f426c7d4",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/5YfSvurcNouoF8pOgtPtVp"
+        },
+        {
+            "rank": 106,
+            "spotify_id": "6bIXQVViVjTbrMIxxAjcbX",
+            "name": "Ondertussen in de kosmos",
+            "publisher": "de Volkskrant",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f1e467740723488920c7c4698",
             "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/2dC9DFgRCLzD51SNm4sSlY"
+            "url": "https:\/\/open.spotify.com\/show\/6bIXQVViVjTbrMIxxAjcbX"
         },
         {
-            "rank": 164,
-            "spotify_id": "5ZsRdjM4dHz2YtMk9BNhws",
-            "name": "Beter Goed Gejat",
-            "publisher": "Rein & Max \/ Tonny Media",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fdcd1f819a5af6dd9b2a8bec5",
+            "rank": 107,
+            "spotify_id": "0mnv2oyKGZ9EIa4QSy44K2",
+            "name": "NRC Het Uur",
+            "publisher": "NRC",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f85e69d69e3cc5f619de1ec89",
             "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/5ZsRdjM4dHz2YtMk9BNhws"
+            "url": "https:\/\/open.spotify.com\/show\/0mnv2oyKGZ9EIa4QSy44K2"
         },
         {
-            "rank": 165,
-            "spotify_id": "1V0tGqc36C4OISNwL6MLSU",
-            "name": "Verraad in de geschiedenis",
-            "publisher": "David Lucieer, Thom Aalmoes & Elisabeth Hoekstra \/ New Tree Media",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f7cafd21c7155cd6cd746049a",
+            "rank": 108,
+            "spotify_id": "5BdUfhFwhFKT2KKEQM4yps",
+            "name": "BNR Nieuws Vandaag",
+            "publisher": "BNR Nieuwsradio",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fd0fd7e22df55dcf9b542541a",
             "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/1V0tGqc36C4OISNwL6MLSU"
+            "url": "https:\/\/open.spotify.com\/show\/5BdUfhFwhFKT2KKEQM4yps"
         },
         {
-            "rank": 166,
-            "spotify_id": "62IpQNaFifMA8YtzYrozeW",
-            "name": "VI ZSM",
-            "publisher": "Voetbal International",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f9b6f7e3bcdfb7960e98d75bd",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/62IpQNaFifMA8YtzYrozeW"
-        },
-        {
-            "rank": 167,
-            "spotify_id": "033g2gC9j2vUqVrAYrGtKt",
-            "name": "Financieel Verlangen Show",
-            "publisher": "Lotgenoten Media",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f3aae42da6bd53c6b22b8cd1f",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/033g2gC9j2vUqVrAYrGtKt"
-        },
-        {
-            "rank": 168,
-            "spotify_id": "6JRl2GbEoin0CFCejkEDjS",
-            "name": "Dit is Waanzin",
-            "publisher": "Rosalie Karels",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f7ac1470c6e11576365a34311",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/6JRl2GbEoin0CFCejkEDjS"
-        },
-        {
-            "rank": 169,
-            "spotify_id": "6qrTPgmddsRwlreYeKu7Ki",
-            "name": "AI, je nieuwe collega",
-            "publisher": "Generative AI Strategy | Podkasteel",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f23362054feae4bdefaa6059b",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/6qrTPgmddsRwlreYeKu7Ki"
-        },
-        {
-            "rank": 170,
-            "spotify_id": "4rOoJ6Egrf8K2IrywzwOMk",
-            "name": "The Joe Rogan Experience",
-            "publisher": "Joe Rogan",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f1e1acaebe06610165612f1ef",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/4rOoJ6Egrf8K2IrywzwOMk"
-        },
-        {
-            "rank": 171,
-            "spotify_id": "32WjjycKVEV3KJj5h1ml4i",
-            "name": "De Nieuwe Wereld volgens de Grannies",
+            "rank": 109,
+            "spotify_id": "033l3rbr9WRSRWVBfVGYQJ",
+            "name": "Brood Nodig",
             "publisher": "NPO Luister \/ Omroep MAX",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f274598fe1bfe83bb0e2855d0",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/32WjjycKVEV3KJj5h1ml4i"
-        },
-        {
-            "rank": 172,
-            "spotify_id": "737teGPYY7IKKmQueVU6qD",
-            "name": "Dick Voormekaar Podcast",
-            "publisher": "Voetbal International",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f3b1906cbbed505313c42194f",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/737teGPYY7IKKmQueVU6qD"
-        },
-        {
-            "rank": 173,
-            "spotify_id": "26r1Zgg4L55eOkE4RPlpPn",
-            "name": "Life Wisdom - By Words of Taoism",
-            "publisher": "Words of Taoism",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f66f8394ca61472685ad98d2d",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/26r1Zgg4L55eOkE4RPlpPn"
-        },
-        {
-            "rank": 174,
-            "spotify_id": "3E130nPvh2yE2D0AspPP5W",
-            "name": "De Saarpodcast",
-            "publisher": "Saar Magazine",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f11aaf9c93211b0a754fd0593",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1faa20313372289f7d87d1a5e4",
             "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/3E130nPvh2yE2D0AspPP5W"
+            "url": "https:\/\/open.spotify.com\/show\/033l3rbr9WRSRWVBfVGYQJ"
         },
         {
-            "rank": 175,
+            "rank": 110,
+            "spotify_id": "52tyt6FIqWYlRFDOpmv0cr",
+            "name": "Rust in je hoofd",
+            "publisher": "Meditation Moments",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f049f8c68cda5ab0aef73c18e",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/52tyt6FIqWYlRFDOpmv0cr"
+        },
+        {
+            "rank": 111,
             "spotify_id": "3AwlQN1WAAwbh149kPdBhL",
             "name": "Zo simpel is het niet – Stellinga & Schinkel over economie",
             "publisher": "NRC",
@@ -1582,88 +1006,124 @@
             "url": "https:\/\/open.spotify.com\/show\/3AwlQN1WAAwbh149kPdBhL"
         },
         {
-            "rank": 176,
-            "spotify_id": "25sP3MQgEEY6wCBgnvsAqw",
-            "name": "Over Leven",
-            "publisher": "NPO Luister \/ HUMAN",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f38d8a3c1fb50697358ea60fb",
+            "rank": 112,
+            "spotify_id": "1J9w1rGmr1NdF1Vwz7Z5Nm",
+            "name": "de Volkskrant Elke Dag",
+            "publisher": "de Volkskrant",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f1d7328ffe0a9f9e5884d68b2",
             "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/25sP3MQgEEY6wCBgnvsAqw"
+            "url": "https:\/\/open.spotify.com\/show\/1J9w1rGmr1NdF1Vwz7Z5Nm"
         },
         {
-            "rank": 177,
-            "spotify_id": "33Q2DADF6XoxRCWNs5CgBL",
-            "name": "Het Land van Wierd Duk",
-            "publisher": "De Telegraaf",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fb51dffcba7629ce6ab80b866",
+            "rank": 113,
+            "spotify_id": "5qfuN63xjwv18e1ngAlVpg",
+            "name": "Peace of Mind",
+            "publisher": "David de Kock & Arjan Vergeer \/ 365 Dagen Succesvol",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1faea3280225429b737ba1fc73",
             "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/33Q2DADF6XoxRCWNs5CgBL"
+            "url": "https:\/\/open.spotify.com\/show\/5qfuN63xjwv18e1ngAlVpg"
         },
         {
-            "rank": 178,
-            "spotify_id": "59EKTmNFbbuUT88Ju6t1ws",
-            "name": "Dijkhoff & Segers",
-            "publisher": "Dag en Nacht | Podimo",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f92e99bbc057ad8764f82c7cf",
+            "rank": 114,
+            "spotify_id": "0iqubvN9iIGLGRBTJOPlVf",
+            "name": "Jong Beleggen, de podcast",
+            "publisher": "Pim Verlaan \/ Milou Brand",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f28a483a5454bd1b60f2e37ff",
             "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/59EKTmNFbbuUT88Ju6t1ws"
+            "url": "https:\/\/open.spotify.com\/show\/0iqubvN9iIGLGRBTJOPlVf"
         },
         {
-            "rank": 179,
-            "spotify_id": "3Qg260DeB3kTMAQOQFqEwl",
-            "name": "Metaxamoord",
-            "publisher": "OPEN Rotterdam",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f9835748071e8d2e2e94b2944",
+            "rank": 115,
+            "spotify_id": "6l8WsNN052iwrtisU6k1ds",
+            "name": "In De Waaier",
+            "publisher": "Hidde van Warmerdam en Thijs Zonneveld",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f24e2359cb5ba11f360c7457d",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/6l8WsNN052iwrtisU6k1ds"
+        },
+        {
+            "rank": 116,
+            "spotify_id": "1qniXH0hfMbJLxpwCWs8XZ",
+            "name": "FC Utrecht Podcast",
+            "publisher": "FC Utrecht",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fe9d0e4b5a203b47277a16848",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/1qniXH0hfMbJLxpwCWs8XZ"
+        },
+        {
+            "rank": 117,
+            "spotify_id": "3eC9tx1pouQ0xmgJaVTH7q",
+            "name": "Het Habbo-mysterie",
+            "publisher": "AD",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fe1ba82c38b85898b050248e4",
             "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/3Qg260DeB3kTMAQOQFqEwl"
+            "url": "https:\/\/open.spotify.com\/show\/3eC9tx1pouQ0xmgJaVTH7q"
         },
         {
-            "rank": 180,
-            "spotify_id": "7dsnf5p0JApXk2uEI0PP55",
-            "name": "Het Tussenuurtje",
-            "publisher": "Jesse, Luuk, Jonas en Lucas",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f19d79b075b3285f36e5b2c52",
+            "rank": 118,
+            "spotify_id": "0VAAUXRAYzsCVCa89eSdO6",
+            "name": "De Stemming van Vullings en De Rooy",
+            "publisher": "NPO Radio 1 \/ NOS \/ EenVandaag",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1ff6907c7ab21bc6c2f54a355a",
             "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/7dsnf5p0JApXk2uEI0PP55"
+            "url": "https:\/\/open.spotify.com\/show\/0VAAUXRAYzsCVCa89eSdO6"
         },
         {
-            "rank": 181,
-            "spotify_id": "3iBUjUYT1Z9VOxVlZlyoOL",
-            "name": "Misdaad Uitgelegd - in de rechtbank",
-            "publisher": "Omroep Brabant",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fc1c44e62468e7383b7a0d69d",
+            "rank": 119,
+            "spotify_id": "67rElaUbzD77BKkUZBUTT9",
+            "name": "Borrelpraat",
+            "publisher": "Thijs Boermans & Niels Oosthoek",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f1c6eabdcffc6d67474eab008",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/67rElaUbzD77BKkUZBUTT9"
+        },
+        {
+            "rank": 120,
+            "spotify_id": "5ngAyd9GbLiCOTtYVLm3kI",
+            "name": "Rechtpraten",
+            "publisher": "Royce de Vries & Annemiek van Spanje \/ New Tree Media",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fc359ac008f8eacbe7ed61ab7",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/5ngAyd9GbLiCOTtYVLm3kI"
+        },
+        {
+            "rank": 121,
+            "spotify_id": "033DhEJD7z8sNm29xM1tZF",
+            "name": "Snelle - Binnenspiegel: de Podcast",
+            "publisher": "Snelle",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f16cd7d113d4866686c475414",
             "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/3iBUjUYT1Z9VOxVlZlyoOL"
+            "url": "https:\/\/open.spotify.com\/show\/033DhEJD7z8sNm29xM1tZF"
         },
         {
-            "rank": 182,
-            "spotify_id": "4x1s2QnG3oPQrTSCXr1n99",
-            "name": "In het defensief",
-            "publisher": "BNR Nieuwsradio",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f568f257c5e4aba3f3df2065b",
+            "rank": 122,
+            "spotify_id": "1nZ2GSfvsgeKqlElSXJoiL",
+            "name": "Donald Duck Voorleescast ",
+            "publisher": "Donald Duck Weekblad",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f03c0b29e2b9e7f1bba1aae8c",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/1nZ2GSfvsgeKqlElSXJoiL"
+        },
+        {
+            "rank": 123,
+            "spotify_id": "1fI3xqzFr8NLS8C9kRJ26a",
+            "name": "Cocaïnekoorts: De zaak Bressers",
+            "publisher": "NRC & De Standaard",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fe205edd6482d1bf204656901",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/1fI3xqzFr8NLS8C9kRJ26a"
+        },
+        {
+            "rank": 124,
+            "spotify_id": "03VXTszECe0vA70GKkU7VR",
+            "name": "We zouden het toch zó doen?",
+            "publisher": "Bianca Schrijver & Titia Hoogendoorn",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1ffb88a7dd1681aba04beb8a04",
             "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/4x1s2QnG3oPQrTSCXr1n99"
+            "url": "https:\/\/open.spotify.com\/show\/03VXTszECe0vA70GKkU7VR"
         },
         {
-            "rank": 183,
-            "spotify_id": "65vXsG8O8c5sknjaXKyEGX",
-            "name": "Meditaties van Praktijk Luz - voor een lichter leven",
-            "publisher": "Marijkegroener",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fa37aee85e326c173cc8493bf",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/65vXsG8O8c5sknjaXKyEGX"
-        },
-        {
-            "rank": 184,
-            "spotify_id": "56DJTFqt8Vg1qfLJ1ibH7j",
-            "name": "NOS Met het Oog op Morgen",
-            "publisher": "NPO Radio 1 \/ NOS",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f8a4405280959fb28f41b0cb4",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/56DJTFqt8Vg1qfLJ1ibH7j"
-        },
-        {
-            "rank": 185,
+            "rank": 125,
             "spotify_id": "1EjYFYybhOyNbGxM2H50wb",
             "name": "Echt Gebeurd",
             "publisher": "Echt Gebeurd",
@@ -1672,25 +1132,304 @@
             "url": "https:\/\/open.spotify.com\/show\/1EjYFYybhOyNbGxM2H50wb"
         },
         {
-            "rank": 186,
-            "spotify_id": "4nJMr27qQYzWVuDcynOzdk",
-            "name": "Denkstof",
-            "publisher": "Etienne Boonen & Geraldine Kemper \/ Geuren & Kleuren Media ",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1ff9f786fdc95e3641b588341b",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/4nJMr27qQYzWVuDcynOzdk"
+            "rank": 126,
+            "spotify_id": "0ZoS33lfc6zH1uT3pKERa0",
+            "name": "Studio Oranje",
+            "publisher": "VoetbalPrimeur",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f47633f73648ee4b2fb634832",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/0ZoS33lfc6zH1uT3pKERa0"
         },
         {
-            "rank": 187,
-            "spotify_id": "0oDH5uAV5EVp9GKjEnlVOo",
-            "name": "Dit is de Bijbel",
+            "rank": 127,
+            "spotify_id": "0AGEanO6N0QbwRdxOhJ2tP",
+            "name": "De Rode Lantaarn",
+            "publisher": "Dag en Nacht",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f7a1db2dcd037dfdc8576bd7d",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/0AGEanO6N0QbwRdxOhJ2tP"
+        },
+        {
+            "rank": 128,
+            "spotify_id": "6SMCITqavvOQPSPyCmODax",
+            "name": "SEXTORTION",
+            "publisher": "Lars van Eijden & Rick Uilenbroek \/ Audiohuis",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f6164ad637510ed5e799e567c",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/6SMCITqavvOQPSPyCmODax"
+        },
+        {
+            "rank": 129,
+            "spotify_id": "3hMFBFyrc0971Cvdb16z1h",
+            "name": "Trias Criminalis",
+            "publisher": "Marian Husken, John Pel & Mark Teurlings \/ Audiohuis",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f42ce9ce8d14c650ba7f44615",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/3hMFBFyrc0971Cvdb16z1h"
+        },
+        {
+            "rank": 130,
+            "spotify_id": "5YjjFNBedb4rx8y9Sv2DIF",
+            "name": "Radio Scorito",
+            "publisher": "Scorito.com",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f070a4610f671bb8d0b4d21b9",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/5YjjFNBedb4rx8y9Sv2DIF"
+        },
+        {
+            "rank": 131,
+            "spotify_id": "1V0tGqc36C4OISNwL6MLSU",
+            "name": "Verraad in de geschiedenis",
+            "publisher": "David Lucieer, Thom Aalmoes & Elisabeth Hoekstra \/ New Tree Media",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f7cafd21c7155cd6cd746049a",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/1V0tGqc36C4OISNwL6MLSU"
+        },
+        {
+            "rank": 132,
+            "spotify_id": "6EBWHzSAigW0USmENKGQem",
+            "name": "Voorheen Schaamteloos Randstedelijk (VSR)",
+            "publisher": "Dag en Nacht",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f8dfbdee7d0db146440dfe596",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/6EBWHzSAigW0USmENKGQem"
+        },
+        {
+            "rank": 133,
+            "spotify_id": "72KhxhMrhLthaf3V1n7YIx",
+            "name": "De Nieuwe Wereld",
+            "publisher": "De Nieuwe Wereld",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f7eef7c9401efa2bf26b96f96",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/72KhxhMrhLthaf3V1n7YIx"
+        },
+        {
+            "rank": 134,
+            "spotify_id": "033obbfboIx2OvJzytmxtW",
+            "name": "Afspelen",
+            "publisher": "NU.nl",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f626355f37e5fde3af4245979",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/033obbfboIx2OvJzytmxtW"
+        },
+        {
+            "rank": 135,
+            "spotify_id": "5IQCDDwWlDkZDRahQYwZon",
+            "name": "BROERS met Sam & Rijk",
+            "publisher": "Sam &amp; Rijk",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fcc9939fdb1ce29b0815ee119",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/5IQCDDwWlDkZDRahQYwZon"
+        },
+        {
+            "rank": 136,
+            "spotify_id": "7gBSnpcQ9cYCiCEt8Y4eSI",
+            "name": "Scientias Podcast",
+            "publisher": "Scientias",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f4b79a75a39aca7e4b4eecfe4",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/7gBSnpcQ9cYCiCEt8Y4eSI"
+        },
+        {
+            "rank": 137,
+            "spotify_id": "2pPm0GUfuNSAghPT7XSW5V",
+            "name": "Zelfspodcast",
+            "publisher": "Tonny Media",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f5105e2ef136cfa58834c17d7",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/2pPm0GUfuNSAghPT7XSW5V"
+        },
+        {
+            "rank": 138,
+            "spotify_id": "5fwoi5JXby6D99Vzxl5OhN",
+            "name": "BIMS",
+            "publisher": "Soundos, Edson & Quinty \/ Tonny Media",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fe8f1c94dd109fa2bb6fef425",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/5fwoi5JXby6D99Vzxl5OhN"
+        },
+        {
+            "rank": 139,
+            "spotify_id": "4GL63eNeABIiM9LW0TUwx4",
+            "name": "Keuringsdienst van Waarde",
+            "publisher": "NPO Luister \/ KRO-NCRV",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f132347cce2691eafdbf3231a",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/4GL63eNeABIiM9LW0TUwx4"
+        },
+        {
+            "rank": 140,
+            "spotify_id": "0V4dehCRtSMXQvXvpYVMqd",
+            "name": "Bizarre Verhalen",
+            "publisher": "Jenneke en Mees",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fecce394e132ebb4bc077ae0f",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/0V4dehCRtSMXQvXvpYVMqd"
+        },
+        {
+            "rank": 141,
+            "spotify_id": "4yWgXAWzgbx6GbbNentwWQ",
+            "name": "De Geschiedenis in 11 Fijne Feitjes",
+            "publisher": "NPO Luister \/ BNNVARA",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fe95fb14087d63da51d399fb2",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/4yWgXAWzgbx6GbbNentwWQ"
+        },
+        {
+            "rank": 142,
+            "spotify_id": "3V5LLq86SS1NmVD1DdWbJi",
+            "name": "Moorden in de jaren...",
+            "publisher": "Hanneke Hendrix & Lotte Lentes \/ New Tree Media",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f30b0b717db818b377f1bb86e",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/3V5LLq86SS1NmVD1DdWbJi"
+        },
+        {
+            "rank": 143,
+            "spotify_id": "0GMm8VrrZBhZD1l7wR8nNs",
+            "name": "Refovrouwen",
+            "publisher": "Arine van den Bor, Mirthe van Westerhuis, Reformatorisch dagblad",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f35723bd257989e792667e04b",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/0GMm8VrrZBhZD1l7wR8nNs"
+        },
+        {
+            "rank": 144,
+            "spotify_id": "6gs75aXIGlNrJtu9dbsdVv",
+            "name": "De Rolverdeling",
+            "publisher": "NPO Luister \/ NTR",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f31c5f83438b19e74866f1a70",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/6gs75aXIGlNrJtu9dbsdVv"
+        },
+        {
+            "rank": 145,
+            "spotify_id": "2AllZeZOV4t45fQljCFezG",
+            "name": "Weer een dag",
+            "publisher": "Marcel van Roosmalen & Gijs Groenteman \/ Meer van dit",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f477b97d9ba21ca1a786cfe14",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/2AllZeZOV4t45fQljCFezG"
+        },
+        {
+            "rank": 146,
+            "spotify_id": "6rTHOWtlL9QvyNAYrdUCLK",
+            "name": "Diagnose Gestoord",
+            "publisher": "Recht in je Oor | Jan-Jesse Lieftink & Parissima Rauf ",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f09137a21b8b0d284064116f8",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/6rTHOWtlL9QvyNAYrdUCLK"
+        },
+        {
+            "rank": 147,
+            "spotify_id": "4bwTVxbNb0eWK8KPJZWSeP",
+            "name": "ZIN",
+            "publisher": "Jacqueline van Lieshout \/ Middle Child Media",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f7579b319635caf0ffdd32c23",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/4bwTVxbNb0eWK8KPJZWSeP"
+        },
+        {
+            "rank": 148,
+            "spotify_id": "5kbrf2NkBeLvOECGxsomYh",
+            "name": "Het Misdaadbureau",
+            "publisher": "NPO Luister \/ PowNed",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f74131c3e2632523c1d111176",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/5kbrf2NkBeLvOECGxsomYh"
+        },
+        {
+            "rank": 149,
+            "spotify_id": "6l23Rpe9yhfbMDJxtqt7Qw",
+            "name": "Vik & Gert",
+            "publisher": "Play Media | Tonny Media",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f552be6af564329890b570fa3",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/6l23Rpe9yhfbMDJxtqt7Qw"
+        },
+        {
+            "rank": 150,
+            "spotify_id": "4UU8ZAX0FR03KKfND8cDF0",
+            "name": "Achter de macht",
+            "publisher": "Bas Erlings, Peter Kwint & Splinter Chabot \/ Meer van dit",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fc1e0ebb39aff189b30d12a2f",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/4UU8ZAX0FR03KKfND8cDF0"
+        },
+        {
+            "rank": 151,
+            "spotify_id": "0emTePrzgJJPl7ru5jpHvO",
+            "name": "Sterrin's Dierenencyclopedie",
+            "publisher": "Sterrin Smalbrugge \/ Corti media",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f27aa7e42081aae0ebbc2abf4",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/0emTePrzgJJPl7ru5jpHvO"
+        },
+        {
+            "rank": 152,
+            "spotify_id": "6UKivY62F1Bt1AbtVki0DF",
+            "name": "Eerst dit",
             "publisher": "NPO Luister \/ EO",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f9d7265b7534e7c80f5af83f9",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f82b1eefff98248c306005757",
             "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/0oDH5uAV5EVp9GKjEnlVOo"
+            "url": "https:\/\/open.spotify.com\/show\/6UKivY62F1Bt1AbtVki0DF"
         },
         {
-            "rank": 188,
+            "rank": 153,
+            "spotify_id": "5waTqUd6dDotxYZGYIMBhe",
+            "name": "De Snapchatmoord",
+            "publisher": "Omroep Brabant",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fd23870964269b81225736e4c",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/5waTqUd6dDotxYZGYIMBhe"
+        },
+        {
+            "rank": 154,
+            "spotify_id": "5KqHjjV012gWGA3UewY2MT",
+            "name": "Dès Proat de wielerpodcast",
+            "publisher": "Dès Proat de wielerpodcast",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f5efdb9667e5a469cbbbe01bc",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/5KqHjjV012gWGA3UewY2MT"
+        },
+        {
+            "rank": 155,
+            "spotify_id": "59EKTmNFbbuUT88Ju6t1ws",
+            "name": "Dijkhoff & Segers",
+            "publisher": "Dag en Nacht | Podimo",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f92e99bbc057ad8764f82c7cf",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/59EKTmNFbbuUT88Ju6t1ws"
+        },
+        {
+            "rank": 156,
+            "spotify_id": "0mETJtneCHLsQMNgYowQlc",
+            "name": "Filmpjes Van Fynn",
+            "publisher": "brojofynn",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f3055cd52d49810eb2ba0fc33",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/0mETJtneCHLsQMNgYowQlc"
+        },
+        {
+            "rank": 157,
+            "spotify_id": "4MQW3nZcDVptUDGnln3sIX",
+            "name": "Europa Draait Door",
+            "publisher": "NPO Luister \/ VPRO",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f27c8f0441e6611de53d4156e",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/4MQW3nZcDVptUDGnln3sIX"
+        },
+        {
+            "rank": 158,
+            "spotify_id": "3SXWNylNJCFO1YbpIVdZyJ",
+            "name": "De Gierende Hormonen Show",
+            "publisher": "Vivian Reijs en Tanja Jess ",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fcc10a5461188d73c6fcc4e46",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/3SXWNylNJCFO1YbpIVdZyJ"
+        },
+        {
+            "rank": 159,
             "spotify_id": "033sYVxOslFIZiPgmStXNR",
             "name": "Vrouwen van IS",
             "publisher": "VRT NWS",
@@ -1699,112 +1438,373 @@
             "url": "https:\/\/open.spotify.com\/show\/033sYVxOslFIZiPgmStXNR"
         },
         {
-            "rank": 189,
-            "spotify_id": "5oLIbjbUqQmSMVSm0qNLge",
-            "name": "The Rest Is Science",
-            "publisher": "Goalhanger",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f413640944c8c2234f61cdb83",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/5oLIbjbUqQmSMVSm0qNLge"
-        },
-        {
-            "rank": 190,
-            "spotify_id": "033wARU4qdnsMO5T6VkuSt",
-            "name": "TT Circuit Assen - De Podcast",
-            "publisher": "Bas van Veenendaal en Ronald Molendijk en Mediateam TT Circuit Assen.",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f86a9536a14f457acd5deda02",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/033wARU4qdnsMO5T6VkuSt"
-        },
-        {
-            "rank": 191,
-            "spotify_id": "4UU8ZAX0FR03KKfND8cDF0",
-            "name": "Achter de macht",
-            "publisher": "Bas Erlings, Peter Kwint & Splinter Chabot \/ Meer van dit",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fc1e0ebb39aff189b30d12a2f",
+            "rank": 160,
+            "spotify_id": "32P9KXMaTHAy0IplmGEt4I",
+            "name": "Het geheim van Rijswijk",
+            "publisher": "NRC",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f4d52788d06e6678195db0cd0",
             "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/4UU8ZAX0FR03KKfND8cDF0"
+            "url": "https:\/\/open.spotify.com\/show\/32P9KXMaTHAy0IplmGEt4I"
         },
         {
-            "rank": 192,
-            "spotify_id": "5o7bHj0hehXy5XQjH9ybYF",
-            "name": "Het Rode Noorden",
+            "rank": 161,
+            "spotify_id": "4gV5if5FRtfB1T8G1XfGZP",
+            "name": "Na de bel",
+            "publisher": "HOTSEFLOTS",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f6ffa1e403d34d6292b0de5e9",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/4gV5if5FRtfB1T8G1XfGZP"
+        },
+        {
+            "rank": 162,
+            "spotify_id": "5EeJe2VXLddbALBcvmhOFv",
+            "name": "NRC Onbehaarde Apen",
+            "publisher": "NRC",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f0d6fe59d0037988a2aa9d3a4",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/5EeJe2VXLddbALBcvmhOFv"
+        },
+        {
+            "rank": 163,
+            "spotify_id": "2sqXXRb21xL7ACjX8fHofN",
+            "name": "De Podcast Psycholoog",
+            "publisher": "De Podcast Psycholoog",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f557af2060b492d108933f4b4",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/2sqXXRb21xL7ACjX8fHofN"
+        },
+        {
+            "rank": 164,
+            "spotify_id": "32WjjycKVEV3KJj5h1ml4i",
+            "name": "De Nieuwe Wereld volgens de Grannies",
             "publisher": "NPO Luister \/ Omroep MAX",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fe4b7da82d460c3566fec7f79",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/5o7bHj0hehXy5XQjH9ybYF"
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f274598fe1bfe83bb0e2855d0",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/32WjjycKVEV3KJj5h1ml4i"
         },
         {
-            "rank": 193,
-            "spotify_id": "3hMFBFyrc0971Cvdb16z1h",
-            "name": "Trias Criminalis",
-            "publisher": "Marian Husken, John Pel & Mark Teurlings \/ Audiohuis",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f42ce9ce8d14c650ba7f44615",
+            "rank": 165,
+            "spotify_id": "5vbVGjJcOctreSPqnL29Z3",
+            "name": "Bergsma & Bennink",
+            "publisher": "NPO Luister \/ Ongehoord Nederland",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fb96fe30867ccb4cfc9e3cb53",
             "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/3hMFBFyrc0971Cvdb16z1h"
+            "url": "https:\/\/open.spotify.com\/show\/5vbVGjJcOctreSPqnL29Z3"
         },
         {
-            "rank": 194,
+            "rank": 166,
+            "spotify_id": "1Z8WlhFsSADpjiB4N4Toyp",
+            "name": "Amber Stinissen Podcast",
+            "publisher": "Amber Stinissen",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f49c52241f1112bbc78f7e461",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/1Z8WlhFsSADpjiB4N4Toyp"
+        },
+        {
+            "rank": 167,
+            "spotify_id": "6rXFj4ftMeKoShJLwEsJFA",
+            "name": "#GeenFilter",
+            "publisher": "Maria & Tamara",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f68d330fe2c933707c365feac",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/6rXFj4ftMeKoShJLwEsJFA"
+        },
+        {
+            "rank": 168,
+            "spotify_id": "79CkJF3UJTHFV8Dse3Oy0P",
+            "name": "Huberman Lab",
+            "publisher": "Scicomm Media",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f66aed32f8066a72781b3b12a",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/79CkJF3UJTHFV8Dse3Oy0P"
+        },
+        {
+            "rank": 169,
+            "spotify_id": "33Q2DADF6XoxRCWNs5CgBL",
+            "name": "Het Land van Wierd Duk",
+            "publisher": "De Telegraaf",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fb51dffcba7629ce6ab80b866",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/33Q2DADF6XoxRCWNs5CgBL"
+        },
+        {
+            "rank": 170,
+            "spotify_id": "60p6wTvOHWjeugb0Hy2mtI",
+            "name": "NRC Wereldzaken",
+            "publisher": "NRC",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f1e3e6d119e7918ee3d5f4932",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/60p6wTvOHWjeugb0Hy2mtI"
+        },
+        {
+            "rank": 171,
+            "spotify_id": "26r1Zgg4L55eOkE4RPlpPn",
+            "name": "Life Wisdom - By Words of Taoism",
+            "publisher": "Words of Taoism",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f66f8394ca61472685ad98d2d",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/26r1Zgg4L55eOkE4RPlpPn"
+        },
+        {
+            "rank": 172,
+            "spotify_id": "2iDhYY7pnT56UqiWF7n3AL",
+            "name": "Studio Sedee",
+            "publisher": "De Telegraaf",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f727c8b0338a3fc1430df3f11",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/2iDhYY7pnT56UqiWF7n3AL"
+        },
+        {
+            "rank": 173,
+            "spotify_id": "033DQ6oXkP6e3eyY6g1VkE",
+            "name": "de Meute",
+            "publisher": "De Meute \/ Audiohuis ",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f3be5b3447822b2778608ff11",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/033DQ6oXkP6e3eyY6g1VkE"
+        },
+        {
+            "rank": 174,
+            "spotify_id": "5B2gpk8IPJ9eI8s3XMiWR3",
+            "name": "The Trueman Show",
+            "publisher": "jornluka",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f845f38b27b254cb28cf86c0b",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/5B2gpk8IPJ9eI8s3XMiWR3"
+        },
+        {
+            "rank": 175,
+            "spotify_id": "6NeZWT3AQ2TWzqyMzo9ocx",
+            "name": "Lotgenoten Podcast",
+            "publisher": "Jaro Knoppert & Koen Stam",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f6b255cdff991cf489f7d4c65",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/6NeZWT3AQ2TWzqyMzo9ocx"
+        },
+        {
+            "rank": 176,
+            "spotify_id": "033kAxSw1DtjUDXXBKnPmI",
+            "name": "Moerdijk: dorp van de rekening  ",
+            "publisher": "BNR Nieuwsradio",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fd55b87979cdf8bb249d31ac6",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/033kAxSw1DtjUDXXBKnPmI"
+        },
+        {
+            "rank": 177,
+            "spotify_id": "2BuBhOIFdutoVEmWuX7F6D",
+            "name": "Beurs | BNR",
+            "publisher": "BNR Nieuwsradio",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fce57819cc109091c229040ae",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/2BuBhOIFdutoVEmWuX7F6D"
+        },
+        {
+            "rank": 178,
+            "spotify_id": "7vz4RYsD5MulTCrcH478t1",
+            "name": "The Mel Robbins Podcast",
+            "publisher": "Mel Robbins",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f464250c491dc86ec4316431f",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/7vz4RYsD5MulTCrcH478t1"
+        },
+        {
+            "rank": 179,
+            "spotify_id": "1wSvZT5hagZlyOAP7uRj45",
+            "name": "NOS Wielerpodcast",
+            "publisher": "NPO Luister \/ NOS",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f9ab298dfae43d89f4a4afa97",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/1wSvZT5hagZlyOAP7uRj45"
+        },
+        {
+            "rank": 180,
+            "spotify_id": "5Mm3yOgI48pSz8YaeDlK5c",
+            "name": "De Zwembadmoord",
+            "publisher": "NU.nl",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fa6acefa8ac5f22c4bfaae376",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/5Mm3yOgI48pSz8YaeDlK5c"
+        },
+        {
+            "rank": 181,
+            "spotify_id": "3iBUjUYT1Z9VOxVlZlyoOL",
+            "name": "Misdaad Uitgelegd - in de rechtbank",
+            "publisher": "Omroep Brabant",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fc1c44e62468e7383b7a0d69d",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/3iBUjUYT1Z9VOxVlZlyoOL"
+        },
+        {
+            "rank": 182,
             "spotify_id": "4tfz5HFn5zqCoIVzLy6eR7",
             "name": "Echte politieverhalen",
             "publisher": "Politie Nederland",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f42febf9d7020bf3c92ab4e84",
-            "rank_move": "DOWN",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fb34f20555fa117c3d4b53ee5",
+            "rank_move": "UP",
             "url": "https:\/\/open.spotify.com\/show\/4tfz5HFn5zqCoIVzLy6eR7"
         },
         {
-            "rank": 195,
-            "spotify_id": "2qSSSgyH2uzuAvf9Rf8DTf",
-            "name": "Proces X",
-            "publisher": "HLN",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f92eb9ad71b61e3dfd2df4181",
+            "rank": 183,
+            "spotify_id": "4rOoJ6Egrf8K2IrywzwOMk",
+            "name": "The Joe Rogan Experience",
+            "publisher": "Joe Rogan",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f1e1acaebe06610165612f1ef",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/4rOoJ6Egrf8K2IrywzwOMk"
+        },
+        {
+            "rank": 184,
+            "spotify_id": "2LXzR5QlyYjU7QPJUQxsY7",
+            "name": "Teun en Gijs vertellen alles",
+            "publisher": "Teun van de Keuken & Gijs Groenteman \/ Meer van dit",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f4789b3137911445331e7be6a",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/2LXzR5QlyYjU7QPJUQxsY7"
+        },
+        {
+            "rank": 185,
+            "spotify_id": "1pkTbIArETnsMa8kzzzPWt",
+            "name": "Het Ronde Huis",
+            "publisher": "de Stentor",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f71fd4b52592c530cfff3abd9",
             "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/2qSSSgyH2uzuAvf9Rf8DTf"
+            "url": "https:\/\/open.spotify.com\/show\/1pkTbIArETnsMa8kzzzPWt"
         },
         {
-            "rank": 196,
-            "spotify_id": "7jL9bRhb91qfrQ78PBYTKn",
-            "name": "De Nieuwjaarsmoord",
-            "publisher": "Bureau Dupin",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f4ae6a64ca05b15e5952b50d5",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/7jL9bRhb91qfrQ78PBYTKn"
-        },
-        {
-            "rank": 197,
-            "spotify_id": "6l8WsNN052iwrtisU6k1ds",
-            "name": "In De Waaier",
-            "publisher": "Hidde van Warmerdam en Thijs Zonneveld",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f24e2359cb5ba11f360c7457d",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/6l8WsNN052iwrtisU6k1ds"
-        },
-        {
-            "rank": 198,
-            "spotify_id": "53E6UBBteggQN596427C6w",
-            "name": "Jacob, dood in Qatar",
+            "rank": 186,
+            "spotify_id": "6rz0PtkHkAnjK0jwAkB7AK",
+            "name": "De Brand in het Landhuis",
             "publisher": "NPO Luister \/ NTR",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f531e2c94d0a108c6033cbda1",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/53E6UBBteggQN596427C6w"
-        },
-        {
-            "rank": 199,
-            "spotify_id": "5n7FBODehqKRrnY5fhbghr",
-            "name": "Ruben en Tijl met de botte bijl",
-            "publisher": "RUBEN  TIJL\/ Tonny Media",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fdb43fe9b4fef14dca85a8da1",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f0fc444084a6d6830e33e474e",
             "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/5n7FBODehqKRrnY5fhbghr"
+            "url": "https:\/\/open.spotify.com\/show\/6rz0PtkHkAnjK0jwAkB7AK"
         },
         {
-            "rank": 200,
+            "rank": 187,
+            "spotify_id": "25sP3MQgEEY6wCBgnvsAqw",
+            "name": "Over Leven",
+            "publisher": "NPO Luister \/ HUMAN",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f38d8a3c1fb50697358ea60fb",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/25sP3MQgEEY6wCBgnvsAqw"
+        },
+        {
+            "rank": 188,
+            "spotify_id": "0lcm41E37AFqyOBXBf1Asv",
+            "name": "De Correspondent",
+            "publisher": "De Correspondent",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f4fc1c355478bacf5945e9fed",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/0lcm41E37AFqyOBXBf1Asv"
+        },
+        {
+            "rank": 189,
+            "spotify_id": "6kW7QnjHIiQrqPsNxm4Q1v",
+            "name": "De Spuiten en Slikken podcast",
+            "publisher": "NPO Luister \/ BNNVARA",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fcafb34763f0e0eefa6b3af54",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/6kW7QnjHIiQrqPsNxm4Q1v"
+        },
+        {
+            "rank": 190,
+            "spotify_id": "6jrDLAtdUQxo4KmxvIJis6",
+            "name": "Afvallen in de overgang ",
+            "publisher": "Shirley Verduin",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f1109e14564f17ff73e81a426",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/6jrDLAtdUQxo4KmxvIJis6"
+        },
+        {
+            "rank": 191,
+            "spotify_id": "0h8gUpEmfCSJBEN24RLMqC",
+            "name": "Nooit meer slapen",
+            "publisher": "NPO Radio 1 \/ VPRO",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f5c62c91945350ac195f83a6e",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/0h8gUpEmfCSJBEN24RLMqC"
+        },
+        {
+            "rank": 192,
+            "spotify_id": "7vv1dmgmdebeXOLT4kX3yW",
+            "name": "Groeten uit Grolloo",
+            "publisher": "Johan Derksen ",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f9bba8f46ef6c9113c1e2b3d0",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/7vv1dmgmdebeXOLT4kX3yW"
+        },
+        {
+            "rank": 193,
+            "spotify_id": "6kCE8xt6iN21TROKAuYbtp",
+            "name": "Dit Is Amerika",
+            "publisher": "Humberto Tan & Michiel Vos\/Tonny Media",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f12e6b2f64a2c65a9e0744200",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/6kCE8xt6iN21TROKAuYbtp"
+        },
+        {
+            "rank": 194,
+            "spotify_id": "7dsnf5p0JApXk2uEI0PP55",
+            "name": "Het Tussenuurtje",
+            "publisher": "Jesse, Luuk, Jonas en Lucas",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f19d79b075b3285f36e5b2c52",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/7dsnf5p0JApXk2uEI0PP55"
+        },
+        {
+            "rank": 195,
             "spotify_id": "4cdNllulhQmOkC0FqmbkzF",
             "name": "Geef me de 5 bij Autisme",
             "publisher": "Geef me de 5",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fd5897d4febad8f5a87af5a86",
-            "rank_move": "DOWN",
+            "rank_move": "UP",
             "url": "https:\/\/open.spotify.com\/show\/4cdNllulhQmOkC0FqmbkzF"
+        },
+        {
+            "rank": 196,
+            "spotify_id": "033CJmEdxgrP4ti0f9YSu2",
+            "name": "De Vergeten Ramp",
+            "publisher": "Arie Muller \/ 1Kempen",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f9bf7e3c06b97cd2215faa886",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/033CJmEdxgrP4ti0f9YSu2"
+        },
+        {
+            "rank": 197,
+            "spotify_id": "033ooSQuedYn2QNrZ35e7b",
+            "name": "Youtube Video's Nederlands\/Engels",
+            "publisher": "Youtuber",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f5b3267c7cd32b83c57cd2ec5",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/033ooSQuedYn2QNrZ35e7b"
+        },
+        {
+            "rank": 198,
+            "spotify_id": "5ZsRdjM4dHz2YtMk9BNhws",
+            "name": "Beter Goed Gejat",
+            "publisher": "Rein & Max \/ Tonny Media",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fdcd1f819a5af6dd9b2a8bec5",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/5ZsRdjM4dHz2YtMk9BNhws"
+        },
+        {
+            "rank": 199,
+            "spotify_id": "0UigT49vs8WidjmIv6rkyx",
+            "name": "Zware Jongens",
+            "publisher": "Dag en Nacht Podimo",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fd5cabe722423e936bcfabd33",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/0UigT49vs8WidjmIv6rkyx"
+        },
+        {
+            "rank": 200,
+            "spotify_id": "4uy4f0ajd8nX3mUskSMzY1",
+            "name": "Geschiedenis voor herbeginners",
+            "publisher": "Jonas Goossenaerts, Filip Vekemans, Benjamin Goyvaerts, Laurent Poschet",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fb7ad29ffe7a239b1f982fc24",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/4uy4f0ajd8nX3mUskSMzY1"
         }
     ]
 }

@@ -3,7 +3,7 @@
     "country": "us",
     "genre": "Society & Culture",
     "slug": "society-culture",
-    "fetched_at": "2026-06-24T06:36:22Z",
+    "fetched_at": "2026-07-01T04:43:08Z",
     "count": 50,
     "shows": [
         {
@@ -26,15 +26,24 @@
         },
         {
             "rank": 3,
+            "spotify_id": "0TY5qJWU2bH9DSX9Gsx8VN",
+            "name": "Flightless Bird",
+            "publisher": "David Farrier",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f2b040732ff653fe922696b0f",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/0TY5qJWU2bH9DSX9Gsx8VN"
+        },
+        {
+            "rank": 4,
             "spotify_id": "5Pjt7qlcii0gLqvccowYhs",
             "name": "CreepCast",
             "publisher": "Wendigoon & MeatCanyon",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f567f53dc6ca13c5cd08164ee",
-            "rank_move": "UNCHANGED",
+            "rank_move": "DOWN",
             "url": "https:\/\/open.spotify.com\/show\/5Pjt7qlcii0gLqvccowYhs"
         },
         {
-            "rank": 4,
+            "rank": 5,
             "spotify_id": "2hm3NRGFO5rRVDEhA0stZI",
             "name": "The Why Files: Operation Podcast",
             "publisher": "The Why Files",
@@ -43,7 +52,7 @@
             "url": "https:\/\/open.spotify.com\/show\/2hm3NRGFO5rRVDEhA0stZI"
         },
         {
-            "rank": 5,
+            "rank": 6,
             "spotify_id": "5o8dazxvQt3bdATxWYw3rb",
             "name": "MEMES",
             "publisher": "Dan Ayling",
@@ -52,7 +61,7 @@
             "url": "https:\/\/open.spotify.com\/show\/5o8dazxvQt3bdATxWYw3rb"
         },
         {
-            "rank": 6,
+            "rank": 7,
             "spotify_id": "0ofXAdFIQQRsCYj9754UFx",
             "name": "Stuff You Should Know",
             "publisher": "iHeartPodcasts",
@@ -61,7 +70,7 @@
             "url": "https:\/\/open.spotify.com\/show\/0ofXAdFIQQRsCYj9754UFx"
         },
         {
-            "rank": 7,
+            "rank": 8,
             "spotify_id": "4VTLG0HiIZaCjH9gE6NFPq",
             "name": "Danny Jones Podcast",
             "publisher": "Danny Jones",
@@ -70,115 +79,97 @@
             "url": "https:\/\/open.spotify.com\/show\/4VTLG0HiIZaCjH9gE6NFPq"
         },
         {
-            "rank": 8,
-            "spotify_id": "3oB5noYIwEB2dMAREj2F7S",
-            "name": "The Ezra Klein Show",
-            "publisher": "New York Times Opinion",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fe2838b9dffc9f39be3272540",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/3oB5noYIwEB2dMAREj2F7S"
-        },
-        {
             "rank": 9,
-            "spotify_id": "5f3h5kIP4imtOLs1p3Z6bG",
-            "name": "We Need To Talk with Paul C. Brunson",
-            "publisher": "FlightStory",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f5317f30f782aaef842cd5032",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/5f3h5kIP4imtOLs1p3Z6bG"
-        },
-        {
-            "rank": 10,
             "spotify_id": "41zWZdWCpVQrKj7ykQnXRc",
             "name": "This American Life",
             "publisher": "This American Life",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f91abbd997cff7b9b4497c930",
-            "rank_move": "DOWN",
+            "rank_move": "UNCHANGED",
             "url": "https:\/\/open.spotify.com\/show\/41zWZdWCpVQrKj7ykQnXRc"
         },
         {
-            "rank": 11,
+            "rank": 10,
             "spotify_id": "0rOatMqaG3wB5BF4AdsrSX",
             "name": "Behind the Bastards",
             "publisher": "Cool Zone Media and iHeartPodcasts",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f1fc00b680849500ef7fe5fd8",
-            "rank_move": "UP",
+            "rank_move": "UNCHANGED",
             "url": "https:\/\/open.spotify.com\/show\/0rOatMqaG3wB5BF4AdsrSX"
         },
         {
-            "rank": 12,
-            "spotify_id": "1gtOt4yUGUZNEzJsy2q8Cb",
-            "name": "The Comment Section with Drew Afualo",
-            "publisher": "Drew Afualo",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f5d4d20563e9fcee786a8ce1b",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/1gtOt4yUGUZNEzJsy2q8Cb"
-        },
-        {
-            "rank": 13,
+            "rank": 11,
             "spotify_id": "2dzMey4yRYKX5NWKp8zPrd",
             "name": "Sword and Scale",
             "publisher": "Sword and Scale",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fca4cdbd3d00e196e35f01347",
-            "rank_move": "UNCHANGED",
+            "rank_move": "UP",
             "url": "https:\/\/open.spotify.com\/show\/2dzMey4yRYKX5NWKp8zPrd"
         },
         {
-            "rank": 14,
-            "spotify_id": "2khJBoF73ujIATWUFtSxLD",
-            "name": "If Books Could Kill",
-            "publisher": "Michael Hobbes & Peter Shamshiri",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f10cd4bdfe0e165d9aa3e1349",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/2khJBoF73ujIATWUFtSxLD"
-        },
-        {
-            "rank": 15,
-            "spotify_id": "0TY5qJWU2bH9DSX9Gsx8VN",
-            "name": "Flightless Bird",
-            "publisher": "David Farrier",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f2b040732ff653fe922696b0f",
+            "rank": 12,
+            "spotify_id": "5f3h5kIP4imtOLs1p3Z6bG",
+            "name": "We Need To Talk with Paul C. Brunson",
+            "publisher": "FlightStory",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f5317f30f782aaef842cd5032",
             "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/0TY5qJWU2bH9DSX9Gsx8VN"
+            "url": "https:\/\/open.spotify.com\/show\/5f3h5kIP4imtOLs1p3Z6bG"
         },
         {
-            "rank": 16,
-            "spotify_id": "0tEVrfNp92a7lbjDe6GMLI",
-            "name": "The Oprah Podcast",
-            "publisher": "Harpo",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fd5ec263df18a7aa990255aa9",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/0tEVrfNp92a7lbjDe6GMLI"
+            "rank": 13,
+            "spotify_id": "3oB5noYIwEB2dMAREj2F7S",
+            "name": "The Ezra Klein Show",
+            "publisher": "New York Times Opinion",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fe2838b9dffc9f39be3272540",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/3oB5noYIwEB2dMAREj2F7S"
         },
         {
-            "rank": 17,
-            "spotify_id": "55L3wM2VcsMWxUH9tMJcff",
-            "name": "Last Meals",
-            "publisher": "Mythical",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f6f1b251498beee4641f3aa36",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/55L3wM2VcsMWxUH9tMJcff"
-        },
-        {
-            "rank": 18,
+            "rank": 14,
             "spotify_id": "1ToDA4ufQuWuEgMq07zN6t",
             "name": "The Unplanned Podcast with Matt & Abby",
             "publisher": "Matt & Abby",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fbe3aa76bf620ccf68de261c5",
-            "rank_move": "DOWN",
+            "rank_move": "UP",
             "url": "https:\/\/open.spotify.com\/show\/1ToDA4ufQuWuEgMq07zN6t"
         },
         {
-            "rank": 19,
-            "spotify_id": "18WzIf6SqovUQHHTeZaucQ",
-            "name": "Radio Rental",
-            "publisher": "Tenderfoot TV & Audacy",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f32fd3f8293f43330e5093569",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/18WzIf6SqovUQHHTeZaucQ"
+            "rank": 15,
+            "spotify_id": "2khJBoF73ujIATWUFtSxLD",
+            "name": "If Books Could Kill",
+            "publisher": "Michael Hobbes & Peter Shamshiri",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f10cd4bdfe0e165d9aa3e1349",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/2khJBoF73ujIATWUFtSxLD"
         },
         {
-            "rank": 20,
+            "rank": 16,
+            "spotify_id": "1gtOt4yUGUZNEzJsy2q8Cb",
+            "name": "The Comment Section with Drew Afualo",
+            "publisher": "Drew Afualo",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f5d4d20563e9fcee786a8ce1b",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/1gtOt4yUGUZNEzJsy2q8Cb"
+        },
+        {
+            "rank": 17,
+            "spotify_id": "0tEVrfNp92a7lbjDe6GMLI",
+            "name": "The Oprah Podcast",
+            "publisher": "Harpo",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fd5ec263df18a7aa990255aa9",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/0tEVrfNp92a7lbjDe6GMLI"
+        },
+        {
+            "rank": 18,
+            "spotify_id": "122imavATqSE7eCyXIcqZL",
+            "name": "What Now? with Trevor Noah",
+            "publisher": "Trevor Noah",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f63887779e5ed7bd72d1c42d8",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/122imavATqSE7eCyXIcqZL"
+        },
+        {
+            "rank": 19,
             "spotify_id": "2EjMCqYDzYnYQuuTBRMjJy",
             "name": "Chicks in the Office",
             "publisher": "Barstool Sports",
@@ -187,31 +178,40 @@
             "url": "https:\/\/open.spotify.com\/show\/2EjMCqYDzYnYQuuTBRMjJy"
         },
         {
+            "rank": 20,
+            "spotify_id": "6z4NLXyHPga1UmSJsPK7G1",
+            "name": "Freakonomics Radio",
+            "publisher": "Freakonomics Radio + Stitcher",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fd8cbc1b0e35fb151ae472695",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/6z4NLXyHPga1UmSJsPK7G1"
+        },
+        {
             "rank": 21,
-            "spotify_id": "122imavATqSE7eCyXIcqZL",
-            "name": "What Now? with Trevor Noah",
-            "publisher": "Trevor Noah",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f63887779e5ed7bd72d1c42d8",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/122imavATqSE7eCyXIcqZL"
-        },
-        {
-            "rank": 22,
-            "spotify_id": "74eCEvD5LU56cNRrhzNSAb",
-            "name": "Commotion with Elamin Abdelmahmoud",
-            "publisher": "CBC",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fd1c0532b6bd68b6cb832310b",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/74eCEvD5LU56cNRrhzNSAb"
-        },
-        {
-            "rank": 23,
             "spotify_id": "0kK48l715AImMNbutfHYYG",
             "name": "Baby, this is Keke Palmer",
             "publisher": "Wondery",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f1b442d1613ed89482a2d74ab",
-            "rank_move": "DOWN",
+            "rank_move": "UP",
             "url": "https:\/\/open.spotify.com\/show\/0kK48l715AImMNbutfHYYG"
+        },
+        {
+            "rank": 22,
+            "spotify_id": "6CtugulFFRBXmENyejGX5V",
+            "name": "Engagement Party",
+            "publisher": "CNN",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fad45c65ef78f817074d19389",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/6CtugulFFRBXmENyejGX5V"
+        },
+        {
+            "rank": 23,
+            "spotify_id": "18WzIf6SqovUQHHTeZaucQ",
+            "name": "Radio Rental",
+            "publisher": "Tenderfoot TV & Audacy",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f32fd3f8293f43330e5093569",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/18WzIf6SqovUQHHTeZaucQ"
         },
         {
             "rank": 24,
@@ -219,7 +219,7 @@
             "name": "The Viall Files",
             "publisher": "Nick Viall",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f2540401ec2a59b3ce6ae77c1",
-            "rank_move": "UP",
+            "rank_move": "DOWN",
             "url": "https:\/\/open.spotify.com\/show\/0y8fYhmjVb6fLw1Ogl7ugq"
         },
         {
@@ -228,47 +228,11 @@
             "name": "Brooke and Connor Make A Podcast",
             "publisher": "TMG Studios",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fe9721dc00f5c198619a58bed",
-            "rank_move": "UP",
+            "rank_move": "DOWN",
             "url": "https:\/\/open.spotify.com\/show\/0zzyfgW2qW6y6w5molhrps"
         },
         {
             "rank": 26,
-            "spotify_id": "6z4NLXyHPga1UmSJsPK7G1",
-            "name": "Freakonomics Radio",
-            "publisher": "Freakonomics Radio + Stitcher",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fd8cbc1b0e35fb151ae472695",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/6z4NLXyHPga1UmSJsPK7G1"
-        },
-        {
-            "rank": 27,
-            "spotify_id": "4r5fNsRtIJffpFjAcemzJP",
-            "name": "Timcast IRL",
-            "publisher": "Timcast Media",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f9ef8dd76ba7ae6008e0b5b71",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/4r5fNsRtIJffpFjAcemzJP"
-        },
-        {
-            "rank": 28,
-            "spotify_id": "3mNZyXkaJPLwUwcjkz6Pv2",
-            "name": "Unexplained Encounters",
-            "publisher": "Eeriecast Network",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1ff227e4e4fed2236b39f983ec",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/3mNZyXkaJPLwUwcjkz6Pv2"
-        },
-        {
-            "rank": 29,
-            "spotify_id": "4fm93OGs4upQbKv8hngvmH",
-            "name": "All There Is with Anderson Cooper",
-            "publisher": "CNN",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f408592765204a7d0c2073822",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/4fm93OGs4upQbKv8hngvmH"
-        },
-        {
-            "rank": 30,
             "spotify_id": "2UjiFLVz77x1TQ2V7bsrJv",
             "name": "Locked In with Ian Bick",
             "publisher": "Ian Bick",
@@ -277,22 +241,58 @@
             "url": "https:\/\/open.spotify.com\/show\/2UjiFLVz77x1TQ2V7bsrJv"
         },
         {
-            "rank": 31,
-            "spotify_id": "6gcw7EF2i70vXXXJnhBNgA",
-            "name": "It's Been a Minute",
-            "publisher": "NPR",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fbdddde6fc79aaa60bd4fcd1f",
+            "rank": 27,
+            "spotify_id": "4fm93OGs4upQbKv8hngvmH",
+            "name": "All There Is with Anderson Cooper",
+            "publisher": "CNN",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f408592765204a7d0c2073822",
             "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/6gcw7EF2i70vXXXJnhBNgA"
+            "url": "https:\/\/open.spotify.com\/show\/4fm93OGs4upQbKv8hngvmH"
         },
         {
-            "rank": 32,
+            "rank": 28,
+            "spotify_id": "6f92KNcL2DXQl9mCSwZxXC",
+            "name": "Cleared Hot - Powered by BRCC ",
+            "publisher": "Andy Stumpf ",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fb55de888bd5e7b3c47a957c8",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/6f92KNcL2DXQl9mCSwZxXC"
+        },
+        {
+            "rank": 29,
+            "spotify_id": "3mNZyXkaJPLwUwcjkz6Pv2",
+            "name": "Unexplained Encounters",
+            "publisher": "Eeriecast Network",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1ff227e4e4fed2236b39f983ec",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/3mNZyXkaJPLwUwcjkz6Pv2"
+        },
+        {
+            "rank": 30,
+            "spotify_id": "6eHVj5xWPLDQljOg9mJkWO",
+            "name": "A Bit Fruity with Matt Bernstein",
+            "publisher": "Matt Bernstein",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fb01a19642651195d3c5d9b86",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/6eHVj5xWPLDQljOg9mJkWO"
+        },
+        {
+            "rank": 31,
             "spotify_id": "6bcrqJ6ziTaiLbIgcDXOV7",
             "name": "Good Guys",
             "publisher": "Dear Media",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1feaa7f2964897e88c57fd6dfd",
-            "rank_move": "UP",
+            "rank_move": "DOWN",
             "url": "https:\/\/open.spotify.com\/show\/6bcrqJ6ziTaiLbIgcDXOV7"
+        },
+        {
+            "rank": 32,
+            "spotify_id": "4r5fNsRtIJffpFjAcemzJP",
+            "name": "Timcast IRL",
+            "publisher": "Timcast Media",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f9ef8dd76ba7ae6008e0b5b71",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/4r5fNsRtIJffpFjAcemzJP"
         },
         {
             "rank": 33,
@@ -305,75 +305,75 @@
         },
         {
             "rank": 34,
-            "spotify_id": "4uXizLZjslhw7nyDPocta2",
-            "name": "The Town with Matthew Belloni",
-            "publisher": "The Ringer",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f35201a9b0a493c73f14605e2",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/4uXizLZjslhw7nyDPocta2"
+            "spotify_id": "56JvjzFQgv9SOYKa2dxUXu",
+            "name": "Jack Neel Podcast",
+            "publisher": "Jack Neel",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f0b63164eb641330c3f9bddba",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/56JvjzFQgv9SOYKa2dxUXu"
         },
         {
             "rank": 35,
-            "spotify_id": "6e4HNBdPvjDOHKVf82oMEk",
-            "name": "Dear Hank & John",
-            "publisher": "Complexly",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fb1a0f9d4a1a1eb1eeaf8af20",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/6e4HNBdPvjDOHKVf82oMEk"
-        },
-        {
-            "rank": 36,
-            "spotify_id": "5c26B28vZMN8PG0Nppmn5G",
-            "name": "Heavyweight",
-            "publisher": "Pushkin Industries",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fc37f62883d68e54e3ff249b9",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/5c26B28vZMN8PG0Nppmn5G"
-        },
-        {
-            "rank": 37,
             "spotify_id": "3oEPsPKDhPVoNNL7pH5db6",
             "name": "The Curiosity Shop with Brené Brown and Adam Grant",
             "publisher": "Vox Media Podcast Network",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fe30d5f54c0c0af666db2ab9c",
-            "rank_move": "UP",
+            "rank_move": "DOWN",
             "url": "https:\/\/open.spotify.com\/show\/3oEPsPKDhPVoNNL7pH5db6"
         },
         {
-            "rank": 38,
-            "spotify_id": "6f92KNcL2DXQl9mCSwZxXC",
-            "name": "Cleared Hot - Powered by BRCC ",
-            "publisher": "Andy Stumpf ",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fb55de888bd5e7b3c47a957c8",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/6f92KNcL2DXQl9mCSwZxXC"
-        },
-        {
-            "rank": 39,
-            "spotify_id": "696emFDcbZ6SJWcOMT6Gem",
-            "name": "Trust Me Bro",
-            "publisher": "Trust Me Bro",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fdad2c0cece58fb294d0de8fd",
+            "rank": 36,
+            "spotify_id": "23Xmy3AvSXKIiHDnaysyN8",
+            "name": "Wartime Stories",
+            "publisher": "Wartime Stories",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f646683ce063010b65a862b4e",
             "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/696emFDcbZ6SJWcOMT6Gem"
+            "url": "https:\/\/open.spotify.com\/show\/23Xmy3AvSXKIiHDnaysyN8"
         },
         {
-            "rank": 40,
-            "spotify_id": "29jsdqzu9DgkbUawzYgDN4",
-            "name": "So Supernatural",
-            "publisher": "Audiochuck | Crime House",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fd761d7ae1b1e7b159122ea11",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/29jsdqzu9DgkbUawzYgDN4"
-        },
-        {
-            "rank": 41,
+            "rank": 37,
             "spotify_id": "1tu38pbislZ9IzNzWfNtaL",
             "name": "Brand Safe",
             "publisher": "Tana Mongeau",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fa5ef0b45e0cf01dc5b9f2f02",
-            "rank_move": "DOWN",
+            "rank_move": "UNCHANGED",
             "url": "https:\/\/open.spotify.com\/show\/1tu38pbislZ9IzNzWfNtaL"
+        },
+        {
+            "rank": 38,
+            "spotify_id": "29jsdqzu9DgkbUawzYgDN4",
+            "name": "So Supernatural",
+            "publisher": "Audiochuck | Crime House",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fd761d7ae1b1e7b159122ea11",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/29jsdqzu9DgkbUawzYgDN4"
+        },
+        {
+            "rank": 39,
+            "spotify_id": "5c26B28vZMN8PG0Nppmn5G",
+            "name": "Heavyweight",
+            "publisher": "Pushkin Industries",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fc37f62883d68e54e3ff249b9",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/5c26B28vZMN8PG0Nppmn5G"
+        },
+        {
+            "rank": 40,
+            "spotify_id": "7j8khyNzKe4lPymA1MIEIx",
+            "name": "U Up?",
+            "publisher": "Betches",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fe9ab870083a78828c6468648",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/7j8khyNzKe4lPymA1MIEIx"
+        },
+        {
+            "rank": 41,
+            "spotify_id": "4uXizLZjslhw7nyDPocta2",
+            "name": "The Town with Matthew Belloni",
+            "publisher": "The Ringer",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f35201a9b0a493c73f14605e2",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/4uXizLZjslhw7nyDPocta2"
         },
         {
             "rank": 42,
@@ -386,24 +386,6 @@
         },
         {
             "rank": 43,
-            "spotify_id": "23Xmy3AvSXKIiHDnaysyN8",
-            "name": "Wartime Stories",
-            "publisher": "Wartime Stories",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f646683ce063010b65a862b4e",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/23Xmy3AvSXKIiHDnaysyN8"
-        },
-        {
-            "rank": 44,
-            "spotify_id": "5cqHs2kCabyijuKOSN2QUS",
-            "name": "The Way I Heard It with Mike Rowe",
-            "publisher": "The Way I Heard It with Mike Rowe",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f4cf0d01366e1660625f7f43b",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/5cqHs2kCabyijuKOSN2QUS"
-        },
-        {
-            "rank": 45,
             "spotify_id": "5EFfjKxcZ7AskDVCUcrt7a",
             "name": "The Dating Detectives",
             "publisher": "Dear Media",
@@ -412,22 +394,40 @@
             "url": "https:\/\/open.spotify.com\/show\/5EFfjKxcZ7AskDVCUcrt7a"
         },
         {
-            "rank": 46,
-            "spotify_id": "7j8khyNzKe4lPymA1MIEIx",
-            "name": "U Up?",
-            "publisher": "Betches",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fe9ab870083a78828c6468648",
+            "rank": 44,
+            "spotify_id": "6e4HNBdPvjDOHKVf82oMEk",
+            "name": "Dear Hank & John",
+            "publisher": "Complexly",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fb1a0f9d4a1a1eb1eeaf8af20",
             "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/7j8khyNzKe4lPymA1MIEIx"
+            "url": "https:\/\/open.spotify.com\/show\/6e4HNBdPvjDOHKVf82oMEk"
+        },
+        {
+            "rank": 45,
+            "spotify_id": "6gcw7EF2i70vXXXJnhBNgA",
+            "name": "It's Been a Minute",
+            "publisher": "NPR",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fbdddde6fc79aaa60bd4fcd1f",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/6gcw7EF2i70vXXXJnhBNgA"
+        },
+        {
+            "rank": 46,
+            "spotify_id": "033k4iXZ4TJfxD4PwPTHQL",
+            "name": "The De Los Podcast",
+            "publisher": "L.A. Times Studios",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f816e524b507614e21fc2d2d4",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/033k4iXZ4TJfxD4PwPTHQL"
         },
         {
             "rank": 47,
-            "spotify_id": "51DwdIGLHWgfD2XhAEFSD2",
-            "name": "Macrodosing: Arian Foster and PFT Commenter",
-            "publisher": "Barstool Sports",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fe2cc97bbe2ca60a8f716dcc5",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/51DwdIGLHWgfD2XhAEFSD2"
+            "spotify_id": "0OMab5B3vorLGoViqrXMxI",
+            "name": "Scamfluencers",
+            "publisher": "Audible",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fa55c7e528aa790be009b0715",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/0OMab5B3vorLGoViqrXMxI"
         },
         {
             "rank": 48,
@@ -435,26 +435,26 @@
             "name": "I've Had It",
             "publisher": "Jennifer Welch and Angie Sullivan",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f8e6e6d51a4033d79d841ce36",
-            "rank_move": "UP",
+            "rank_move": "UNCHANGED",
             "url": "https:\/\/open.spotify.com\/show\/5HYmraLuzUrzy7yX5mzMLB"
         },
         {
             "rank": 49,
-            "spotify_id": "6eHVj5xWPLDQljOg9mJkWO",
-            "name": "A Bit Fruity with Matt Bernstein",
-            "publisher": "Matt Bernstein",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fb01a19642651195d3c5d9b86",
+            "spotify_id": "696emFDcbZ6SJWcOMT6Gem",
+            "name": "Trust Me Bro",
+            "publisher": "Trust Me Bro",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fdad2c0cece58fb294d0de8fd",
             "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/6eHVj5xWPLDQljOg9mJkWO"
+            "url": "https:\/\/open.spotify.com\/show\/696emFDcbZ6SJWcOMT6Gem"
         },
         {
             "rank": 50,
-            "spotify_id": "1SrZoaq13IOwJANG13R464",
-            "name": "Ghosteas",
-            "publisher": "Ghosteas",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f2dd7ab71dd9d51f3067070ce",
+            "spotify_id": "6uEoGrg54MzAHY2okUPyJb",
+            "name": "Let's Be Honest with Kristin Cavallari",
+            "publisher": "Dear Media",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fecac7c0ac05feb7508136969",
             "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/1SrZoaq13IOwJANG13R464"
+            "url": "https:\/\/open.spotify.com\/show\/6uEoGrg54MzAHY2okUPyJb"
         }
     ]
 }

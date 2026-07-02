@@ -3,29 +3,11 @@
     "country": "se",
     "genre": "Fiction",
     "slug": "fiction",
-    "fetched_at": "2026-06-24T06:37:51Z",
+    "fetched_at": "2026-07-01T04:44:38Z",
     "count": 50,
     "shows": [
         {
             "rank": 1,
-            "spotify_id": "5j0HZikANMfEL1amgNr39I",
-            "name": "P3 Serie",
-            "publisher": "Sveriges Radio",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fd581a6a9ed5fd90c8f34c222",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/5j0HZikANMfEL1amgNr39I"
-        },
-        {
-            "rank": 2,
-            "spotify_id": "1Ri2FnVO9J7PqQGUvtaWWW",
-            "name": "Nattskiftet ",
-            "publisher": "Per Svensson",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1ff5d55ae58ebc717e4fd6d278",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/1Ri2FnVO9J7PqQGUvtaWWW"
-        },
-        {
-            "rank": 3,
             "spotify_id": "6wEJNHLJmwtx7YWl1vDs0C",
             "name": "CreepyPastaRadion",
             "publisher": "Hemsökt Sverige",
@@ -34,7 +16,7 @@
             "url": "https:\/\/open.spotify.com\/show\/6wEJNHLJmwtx7YWl1vDs0C"
         },
         {
-            "rank": 4,
+            "rank": 2,
             "spotify_id": "4tTkXoTxRbH455q67yYZfW",
             "name": "Jessica Kaylee",
             "publisher": "Jessica Kaylee",
@@ -43,7 +25,16 @@
             "url": "https:\/\/open.spotify.com\/show\/4tTkXoTxRbH455q67yYZfW"
         },
         {
-            "rank": 5,
+            "rank": 3,
+            "spotify_id": "5j0HZikANMfEL1amgNr39I",
+            "name": "P3 Serie",
+            "publisher": "Sveriges Radio",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fd581a6a9ed5fd90c8f34c222",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/5j0HZikANMfEL1amgNr39I"
+        },
+        {
+            "rank": 4,
             "spotify_id": "1BBvil8MWnvm4yXyr0xMJl",
             "name": "Dhar Mann",
             "publisher": "Dhar Mann",
@@ -52,13 +43,22 @@
             "url": "https:\/\/open.spotify.com\/show\/1BBvil8MWnvm4yXyr0xMJl"
         },
         {
-            "rank": 6,
+            "rank": 5,
             "spotify_id": "0ap4yuufxHppjcG7kbXQhx",
             "name": "Horror Stories",
             "publisher": "Horror Stories",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f0819301ebaca7722ffb65822",
             "rank_move": "UNCHANGED",
             "url": "https:\/\/open.spotify.com\/show\/0ap4yuufxHppjcG7kbXQhx"
+        },
+        {
+            "rank": 6,
+            "spotify_id": "1Ri2FnVO9J7PqQGUvtaWWW",
+            "name": "Nattskiftet ",
+            "publisher": "Per Svensson",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1ff5d55ae58ebc717e4fd6d278",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/1Ri2FnVO9J7PqQGUvtaWWW"
         },
         {
             "rank": 7,
@@ -89,69 +89,6 @@
         },
         {
             "rank": 10,
-            "spotify_id": "2Sqi0dJoIudYWq430DXRH5",
-            "name": "Scary Horror Stories by Dr. NoSleep",
-            "publisher": "Dr. NoSleep Studios",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f2309924ac237566f8bb82e96",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/2Sqi0dJoIudYWq430DXRH5"
-        },
-        {
-            "rank": 11,
-            "spotify_id": "6Rhi5u5SOp8fDMkKxQAnNv",
-            "name": "La La Love",
-            "publisher": "TheSoul Publishing",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f22e4b654855c37909171903b",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/6Rhi5u5SOp8fDMkKxQAnNv"
-        },
-        {
-            "rank": 12,
-            "spotify_id": "3ta40JnFwGWdOSBmeCFEu8",
-            "name": "My Story Animated",
-            "publisher": "MSA",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f88c53dca58e308739340f546",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/3ta40JnFwGWdOSBmeCFEu8"
-        },
-        {
-            "rank": 13,
-            "spotify_id": "0DhvyliHrkbbgLwU3vEsrl",
-            "name": "Monsterboxen",
-            "publisher": "Emil Eriksson",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f54374fd2f085809c7a9fabc3",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/0DhvyliHrkbbgLwU3vEsrl"
-        },
-        {
-            "rank": 14,
-            "spotify_id": "15T8pm3JcVIxSGIebmdKDg",
-            "name": "Legends of Avantris",
-            "publisher": "Avantris Entertainment",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f7d39e0f607e7a2273464791b",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/15T8pm3JcVIxSGIebmdKDg"
-        },
-        {
-            "rank": 15,
-            "spotify_id": "7l0iRPdyi5UcHtDVWStxl4",
-            "name": "CreepsMcPasta Creepypasta Radio",
-            "publisher": "Creeps McPasta",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f25278fe25295ac956e9944f8",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/7l0iRPdyi5UcHtDVWStxl4"
-        },
-        {
-            "rank": 16,
-            "spotify_id": "7muqVazvaMe1xmmRMhVxAN",
-            "name": "Sleep Theories",
-            "publisher": "Sleep Theories",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fcb58309c252f0292e3804b89",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/7muqVazvaMe1xmmRMhVxAN"
-        },
-        {
-            "rank": 17,
             "spotify_id": "7kWDJZPChsnD0gxNWZXXng",
             "name": "Knifepoint Horror",
             "publisher": "SpectreVision Radio",
@@ -160,7 +97,79 @@
             "url": "https:\/\/open.spotify.com\/show\/7kWDJZPChsnD0gxNWZXXng"
         },
         {
+            "rank": 11,
+            "spotify_id": "6Rhi5u5SOp8fDMkKxQAnNv",
+            "name": "La La Love",
+            "publisher": "TheSoul Publishing",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f22e4b654855c37909171903b",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/6Rhi5u5SOp8fDMkKxQAnNv"
+        },
+        {
+            "rank": 12,
+            "spotify_id": "2Sqi0dJoIudYWq430DXRH5",
+            "name": "Scary Horror Stories by Dr. NoSleep",
+            "publisher": "Dr. NoSleep Studios",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f2309924ac237566f8bb82e96",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/2Sqi0dJoIudYWq430DXRH5"
+        },
+        {
+            "rank": 13,
+            "spotify_id": "15T8pm3JcVIxSGIebmdKDg",
+            "name": "Legends of Avantris",
+            "publisher": "Avantris Entertainment",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f7d39e0f607e7a2273464791b",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/15T8pm3JcVIxSGIebmdKDg"
+        },
+        {
+            "rank": 14,
+            "spotify_id": "1O4bJHIPsSMHrOzgZzc0ZC",
+            "name": "Lighthouse Horror Podcast",
+            "publisher": "Lighthouse Horror",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f9abf474ac25d4abb94365f7d",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/1O4bJHIPsSMHrOzgZzc0ZC"
+        },
+        {
+            "rank": 15,
+            "spotify_id": "3ta40JnFwGWdOSBmeCFEu8",
+            "name": "My Story Animated",
+            "publisher": "MSA",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f88c53dca58e308739340f546",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/3ta40JnFwGWdOSBmeCFEu8"
+        },
+        {
+            "rank": 16,
+            "spotify_id": "7muqVazvaMe1xmmRMhVxAN",
+            "name": "Sleep Theories",
+            "publisher": "Sleep Theories",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fcb58309c252f0292e3804b89",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/7muqVazvaMe1xmmRMhVxAN"
+        },
+        {
+            "rank": 17,
+            "spotify_id": "7l0iRPdyi5UcHtDVWStxl4",
+            "name": "CreepsMcPasta Creepypasta Radio",
+            "publisher": "Creeps McPasta",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f25278fe25295ac956e9944f8",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/7l0iRPdyi5UcHtDVWStxl4"
+        },
+        {
             "rank": 18,
+            "spotify_id": "0DhvyliHrkbbgLwU3vEsrl",
+            "name": "Monsterboxen",
+            "publisher": "Emil Eriksson",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f54374fd2f085809c7a9fabc3",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/0DhvyliHrkbbgLwU3vEsrl"
+        },
+        {
+            "rank": 19,
             "spotify_id": "3ELCNltCdM1QDCjlS9WZ6T",
             "name": "The SCP Experience",
             "publisher": "Dr. NoSleep Studios",
@@ -169,40 +178,31 @@
             "url": "https:\/\/open.spotify.com\/show\/3ELCNltCdM1QDCjlS9WZ6T"
         },
         {
-            "rank": 19,
+            "rank": 20,
+            "spotify_id": "2mh1jd7nq8BMzl2kjGGBCV",
+            "name": "The Dark Somnium",
+            "publisher": "Bloody FM",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fafd7e222e0173d4514430d5f",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/2mh1jd7nq8BMzl2kjGGBCV"
+        },
+        {
+            "rank": 21,
             "spotify_id": "0o5wIH27KR6w5NsEji2YWf",
             "name": "Insomnia Stories Podcast",
             "publisher": "Insomnia Stories",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fad6acddee7a0112ffc67d12a",
-            "rank_move": "UP",
+            "rank_move": "UNCHANGED",
             "url": "https:\/\/open.spotify.com\/show\/0o5wIH27KR6w5NsEji2YWf"
         },
         {
-            "rank": 20,
-            "spotify_id": "79WsWAZ16yw5qTIUGivEpn",
-            "name": "ROCK SQUAD ",
-            "publisher": "ROCK SQUAD",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f0f0cf510cb2705d26845b31a",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/79WsWAZ16yw5qTIUGivEpn"
-        },
-        {
-            "rank": 21,
-            "spotify_id": "1O4bJHIPsSMHrOzgZzc0ZC",
-            "name": "Lighthouse Horror Podcast",
-            "publisher": "Lighthouse Horror",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f9abf474ac25d4abb94365f7d",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/1O4bJHIPsSMHrOzgZzc0ZC"
-        },
-        {
             "rank": 22,
-            "spotify_id": "6R7MHnK95dyPexoxjkkb76",
-            "name": "Creepy",
-            "publisher": "Be Afraid",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f39f61d0a2f2fd2afa4b78110",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/6R7MHnK95dyPexoxjkkb76"
+            "spotify_id": "46oipvRmiaQaXnbV0J1qz0",
+            "name": "Minifablefever",
+            "publisher": "Diana Orlova",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f9071e7828011cf8fec680808",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/46oipvRmiaQaXnbV0J1qz0"
         },
         {
             "rank": 23,
@@ -215,12 +215,12 @@
         },
         {
             "rank": 24,
-            "spotify_id": "46oipvRmiaQaXnbV0J1qz0",
-            "name": "Minifablefever",
-            "publisher": "Diana Orlova",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f9071e7828011cf8fec680808",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/46oipvRmiaQaXnbV0J1qz0"
+            "spotify_id": "6R7MHnK95dyPexoxjkkb76",
+            "name": "Creepy",
+            "publisher": "Be Afraid",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f39f61d0a2f2fd2afa4b78110",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/6R7MHnK95dyPexoxjkkb76"
         },
         {
             "rank": 25,
@@ -228,35 +228,35 @@
             "name": "Mr. Creeps: Scary Stories & Creepypastas",
             "publisher": "Mr. Creeps",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f5c179ba02ec7f86760a06496",
-            "rank_move": "UNCHANGED",
+            "rank_move": "UP",
             "url": "https:\/\/open.spotify.com\/show\/2rdg1p3kpDgbnDzayMG5Qc"
         },
         {
             "rank": 26,
-            "spotify_id": "2mh1jd7nq8BMzl2kjGGBCV",
-            "name": "The Dark Somnium",
-            "publisher": "Bloody FM",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fafd7e222e0173d4514430d5f",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/2mh1jd7nq8BMzl2kjGGBCV"
+            "spotify_id": "79WsWAZ16yw5qTIUGivEpn",
+            "name": "ROCK SQUAD ",
+            "publisher": "ROCK SQUAD",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f0f0cf510cb2705d26845b31a",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/79WsWAZ16yw5qTIUGivEpn"
         },
         {
             "rank": 27,
-            "spotify_id": "5ErGOilBqiIcPJDO4KOc9f",
-            "name": "123 GO!",
-            "publisher": "TheSoul Publishing",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f0d1ded3e8f62db2756a6ceb6",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/5ErGOilBqiIcPJDO4KOc9f"
+            "spotify_id": "3Ly8jSoMBWNKKLe72kW8R4",
+            "name": "Creepscast",
+            "publisher": "Mr. Creeps",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f7e45de500da4a84c89742ecd",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/3Ly8jSoMBWNKKLe72kW8R4"
         },
         {
             "rank": 28,
-            "spotify_id": "7pmGBIz0wlwMVtVon1wJ03",
-            "name": "Lorekeeper's Librarium",
-            "publisher": "Tobias Weaver",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f3b3a7eab5767f604c454fa7c",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/7pmGBIz0wlwMVtVon1wJ03"
+            "spotify_id": "4LgPAxOlU6s51UvAxJ2bek",
+            "name": "Vikingar",
+            "publisher": "Sveriges Radio",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f74cad7637d2577c2442af291",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/4LgPAxOlU6s51UvAxJ2bek"
         },
         {
             "rank": 29,
@@ -269,12 +269,12 @@
         },
         {
             "rank": 30,
-            "spotify_id": "4LgPAxOlU6s51UvAxJ2bek",
-            "name": "Vikingar",
-            "publisher": "Sveriges Radio",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f74cad7637d2577c2442af291",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/4LgPAxOlU6s51UvAxJ2bek"
+            "spotify_id": "7pmGBIz0wlwMVtVon1wJ03",
+            "name": "Lorekeeper's Librarium",
+            "publisher": "Tobias Weaver",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f3b3a7eab5767f604c454fa7c",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/7pmGBIz0wlwMVtVon1wJ03"
         },
         {
             "rank": 31,
@@ -282,7 +282,7 @@
             "name": "Horror Stories to Fall Asleep To",
             "publisher": "Sleepy Pasta",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fdafe1b96b0df73043745c166",
-            "rank_move": "UNCHANGED",
+            "rank_move": "DOWN",
             "url": "https:\/\/open.spotify.com\/show\/3YhrroKKqB0eBTgZcCBKor"
         },
         {
@@ -296,30 +296,30 @@
         },
         {
             "rank": 33,
-            "spotify_id": "3Ly8jSoMBWNKKLe72kW8R4",
-            "name": "Creepscast",
-            "publisher": "Mr. Creeps",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f7e45de500da4a84c89742ecd",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/3Ly8jSoMBWNKKLe72kW8R4"
+            "spotify_id": "2nKedRmKdZJjVTi3ddHbsZ",
+            "name": "The Ghost Radio",
+            "publisher": "The Ghost Radio",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f212c768e4431923a7b7b81f1",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/2nKedRmKdZJjVTi3ddHbsZ"
         },
         {
             "rank": 34,
-            "spotify_id": "0s6Wc5qf8SIvCtKZNC6N7s",
-            "name": "Welcome to Night Vale",
-            "publisher": "Night Vale Presents",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f0c0effdf4d6de549cf5d9c63",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/0s6Wc5qf8SIvCtKZNC6N7s"
+            "spotify_id": "6OoAQesdLgYBOyfx8ji0bZ",
+            "name": "The Adventure Zone",
+            "publisher": "The McElroys",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fce1e836da6ca7bc5b6f2d92e",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/6OoAQesdLgYBOyfx8ji0bZ"
         },
         {
             "rank": 35,
-            "spotify_id": "01zcicLSkzg7jl31g2YG9C",
-            "name": "Midwest Crypt Horror Podcast",
-            "publisher": "Midwest Crypt Horror Team",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fc3645e4c31c10b5a09defe4d",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/01zcicLSkzg7jl31g2YG9C"
+            "spotify_id": "6OoRL1YsG1izz9fuqI7qVw",
+            "name": "Jordan & Salish Matter",
+            "publisher": "Jordan Matter",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f126d13fe569bef8232fb962d",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/6OoRL1YsG1izz9fuqI7qVw"
         },
         {
             "rank": 36,
@@ -327,56 +327,11 @@
             "name": "Göstas Sagor",
             "publisher": "Isak Gösta Jansson",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f00950bc269bd7abe3234914a",
-            "rank_move": "UP",
+            "rank_move": "DOWN",
             "url": "https:\/\/open.spotify.com\/show\/6o9Fryp8nnjzxMbd21TpNS"
         },
         {
             "rank": 37,
-            "spotify_id": "4dKcigJAH7OaKX75ePr8CL",
-            "name": "Warhammer 40k Lore to Sleep To",
-            "publisher": "The Sleepy Hollow",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f4493fb150ac72636fa431645",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/4dKcigJAH7OaKX75ePr8CL"
-        },
-        {
-            "rank": 38,
-            "spotify_id": "66XCLKbi33MubYTZX2G2jW",
-            "name": "Não Inviabilize",
-            "publisher": "Déia Freitas",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f2179516ddcb6bc6caf115d69",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/66XCLKbi33MubYTZX2G2jW"
-        },
-        {
-            "rank": 39,
-            "spotify_id": "2nKedRmKdZJjVTi3ddHbsZ",
-            "name": "The Ghost Radio",
-            "publisher": "The Ghost Radio",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f212c768e4431923a7b7b81f1",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/2nKedRmKdZJjVTi3ddHbsZ"
-        },
-        {
-            "rank": 40,
-            "spotify_id": "72aUDFGFu1acKQ6noDj7Fm",
-            "name": "SCP Archives",
-            "publisher": "Bloody FM",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1ff9329dd48f87ce8633ccd355",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/72aUDFGFu1acKQ6noDj7Fm"
-        },
-        {
-            "rank": 41,
-            "spotify_id": "0WoLvgeXHbAjtMWcH17LJt",
-            "name": "SCP Explained",
-            "publisher": "SCP Explained",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fb8ea45924faf8672a84a74e4",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/0WoLvgeXHbAjtMWcH17LJt"
-        },
-        {
-            "rank": 42,
             "spotify_id": "4iLIPxpud7zdZIm77ickQL",
             "name": "Mysrys",
             "publisher": "Mysrys",
@@ -385,43 +340,25 @@
             "url": "https:\/\/open.spotify.com\/show\/4iLIPxpud7zdZIm77ickQL"
         },
         {
-            "rank": 43,
-            "spotify_id": "5AgTG0vFB1lUx0XjNNlIWb",
-            "name": "COAST TO COAST AM OFFICIAL",
-            "publisher": "George Noory",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fd0cd01b3eab41cc874b55140",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/5AgTG0vFB1lUx0XjNNlIWb"
-        },
-        {
-            "rank": 44,
-            "spotify_id": "4YChJfyufByaRzekQVKNGG",
-            "name": "Tower 4",
-            "publisher": "Bloody FM",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fc84d816308b0bc4d8cd25984",
+            "rank": 38,
+            "spotify_id": "66XCLKbi33MubYTZX2G2jW",
+            "name": "Não Inviabilize",
+            "publisher": "Déia Freitas",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f2179516ddcb6bc6caf115d69",
             "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/4YChJfyufByaRzekQVKNGG"
+            "url": "https:\/\/open.spotify.com\/show\/66XCLKbi33MubYTZX2G2jW"
         },
         {
-            "rank": 45,
-            "spotify_id": "6OoAQesdLgYBOyfx8ji0bZ",
-            "name": "The Adventure Zone",
-            "publisher": "The McElroys",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fce1e836da6ca7bc5b6f2d92e",
+            "rank": 39,
+            "spotify_id": "3FpOxHqpQSQRhDLoQb2LL4",
+            "name": "Animated Story For Teen",
+            "publisher": "Animated Story For Teen",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fc50ed3678c6a9ce502436973",
             "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/6OoAQesdLgYBOyfx8ji0bZ"
+            "url": "https:\/\/open.spotify.com\/show\/3FpOxHqpQSQRhDLoQb2LL4"
         },
         {
-            "rank": 46,
-            "spotify_id": "3flVB3CeXIfVHwXjcKkNk8",
-            "name": "Midnight Burger",
-            "publisher": "Business Goose Media",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fc17b51068037a3c62dbcfc6f",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/3flVB3CeXIfVHwXjcKkNk8"
-        },
-        {
-            "rank": 47,
+            "rank": 40,
             "spotify_id": "2LYzmtdG03NpJr1kW1ZX2h",
             "name": "Sömnlöspodden",
             "publisher": "Joachim Wilsson",
@@ -430,31 +367,94 @@
             "url": "https:\/\/open.spotify.com\/show\/2LYzmtdG03NpJr1kW1ZX2h"
         },
         {
-            "rank": 48,
-            "spotify_id": "3FpOxHqpQSQRhDLoQb2LL4",
-            "name": "Animated Story For Teen",
-            "publisher": "Animated Story For Teen",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fc50ed3678c6a9ce502436973",
+            "rank": 41,
+            "spotify_id": "4dKcigJAH7OaKX75ePr8CL",
+            "name": "Warhammer 40k Lore to Sleep To",
+            "publisher": "The Sleepy Hollow",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f4493fb150ac72636fa431645",
             "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/3FpOxHqpQSQRhDLoQb2LL4"
+            "url": "https:\/\/open.spotify.com\/show\/4dKcigJAH7OaKX75ePr8CL"
+        },
+        {
+            "rank": 42,
+            "spotify_id": "0s6Wc5qf8SIvCtKZNC6N7s",
+            "name": "Welcome to Night Vale",
+            "publisher": "Night Vale Presents",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f0c0effdf4d6de549cf5d9c63",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/0s6Wc5qf8SIvCtKZNC6N7s"
+        },
+        {
+            "rank": 43,
+            "spotify_id": "72aUDFGFu1acKQ6noDj7Fm",
+            "name": "SCP Archives",
+            "publisher": "Bloody FM",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1ff9329dd48f87ce8633ccd355",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/72aUDFGFu1acKQ6noDj7Fm"
+        },
+        {
+            "rank": 44,
+            "spotify_id": "3bG6sKiDF0G1Dh4efJrPUo",
+            "name": "The Antiquarium of Sinister Happenings",
+            "publisher": "Bloody FM",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fb18c64b2ad00e454c8cb7657",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/3bG6sKiDF0G1Dh4efJrPUo"
+        },
+        {
+            "rank": 45,
+            "spotify_id": "5ErGOilBqiIcPJDO4KOc9f",
+            "name": "123 GO!",
+            "publisher": "TheSoul Publishing",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f0d1ded3e8f62db2756a6ceb6",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/5ErGOilBqiIcPJDO4KOc9f"
+        },
+        {
+            "rank": 46,
+            "spotify_id": "01zcicLSkzg7jl31g2YG9C",
+            "name": "Midwest Crypt Horror Podcast",
+            "publisher": "Midwest Crypt Horror Team",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fc3645e4c31c10b5a09defe4d",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/01zcicLSkzg7jl31g2YG9C"
+        },
+        {
+            "rank": 47,
+            "spotify_id": "4xQ4HKZjIg04Phtj2gaTbi",
+            "name": "Worlds Beyond Number",
+            "publisher": "Worlds Beyond Number",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f6343c3a47b32349555fff69a",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/4xQ4HKZjIg04Phtj2gaTbi"
+        },
+        {
+            "rank": 48,
+            "spotify_id": "0WoLvgeXHbAjtMWcH17LJt",
+            "name": "SCP Explained",
+            "publisher": "SCP Explained",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fb8ea45924faf8672a84a74e4",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/0WoLvgeXHbAjtMWcH17LJt"
         },
         {
             "rank": 49,
-            "spotify_id": "3OVQYMaYPOuePgh5sYOQ1y",
-            "name": "Beauty and the Tea",
-            "publisher": "Kaylie Leas",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fa9d1f9d5696a950927ac53e0",
+            "spotify_id": "4YChJfyufByaRzekQVKNGG",
+            "name": "Tower 4",
+            "publisher": "Bloody FM",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fc84d816308b0bc4d8cd25984",
             "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/3OVQYMaYPOuePgh5sYOQ1y"
+            "url": "https:\/\/open.spotify.com\/show\/4YChJfyufByaRzekQVKNGG"
         },
         {
             "rank": 50,
-            "spotify_id": "18GtjX4JPiyjfKptJvTehP",
-            "name": "Creepy Ghost Stories - Tales From The Grave ",
-            "publisher": "Brett Schumacher",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f284c116d5cc855025de7131c",
+            "spotify_id": "2sNFsS8B0qvIg1jK0Vo7Ns",
+            "name": "Scare You To Sleep",
+            "publisher": "Bloody FM",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1faa9f6ce83dc25981435e170b",
             "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/18GtjX4JPiyjfKptJvTehP"
+            "url": "https:\/\/open.spotify.com\/show\/2sNFsS8B0qvIg1jK0Vo7Ns"
         }
     ]
 }

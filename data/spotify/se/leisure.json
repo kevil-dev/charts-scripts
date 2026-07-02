@@ -3,7 +3,7 @@
     "country": "se",
     "genre": "Leisure",
     "slug": "leisure",
-    "fetched_at": "2026-06-24T06:37:52Z",
+    "fetched_at": "2026-07-01T04:44:39Z",
     "count": 50,
     "shows": [
         {
@@ -26,21 +26,21 @@
         },
         {
             "rank": 3,
-            "spotify_id": "0O5wqlGPiLWiP7oywMv0Gt",
-            "name": "JaktVloggen podcast",
-            "publisher": "JaktVloggen",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f0b6f5117e3c083309d058862",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/0O5wqlGPiLWiP7oywMv0Gt"
-        },
-        {
-            "rank": 4,
             "spotify_id": "0I1Ub8xpfSARvanThUCA8m",
             "name": "Avsuttet med Elsa & Johanna",
             "publisher": "Elsa & Johanna",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f08f2f723e7e469cf117b449b",
-            "rank_move": "DOWN",
+            "rank_move": "UNCHANGED",
             "url": "https:\/\/open.spotify.com\/show\/0I1Ub8xpfSARvanThUCA8m"
+        },
+        {
+            "rank": 4,
+            "spotify_id": "0O5wqlGPiLWiP7oywMv0Gt",
+            "name": "JaktVloggen podcast",
+            "publisher": "JaktVloggen",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f0b6f5117e3c083309d058862",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/0O5wqlGPiLWiP7oywMv0Gt"
         },
         {
             "rank": 5,
@@ -71,30 +71,30 @@
         },
         {
             "rank": 8,
-            "spotify_id": "6fGNwiJ8iRR81UDzM452vj",
-            "name": "Rovdjursjägarna",
-            "publisher": "Nordlander Jakt",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f4588fa593b326f183ccb494a",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/6fGNwiJ8iRR81UDzM452vj"
-        },
-        {
-            "rank": 9,
             "spotify_id": "67KJOmDCLYM1NjPYDssFCH",
             "name": "Älgjägare emellan",
             "publisher": "Algjagare Emellan",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f8c929a89de6117f633fbb7fd",
-            "rank_move": "DOWN",
+            "rank_move": "UNCHANGED",
             "url": "https:\/\/open.spotify.com\/show\/67KJOmDCLYM1NjPYDssFCH"
         },
         {
-            "rank": 10,
+            "rank": 9,
             "spotify_id": "3eCs2WeZ6upd5HNRaiMrVs",
             "name": "Kat",
             "publisher": "Kat",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f5f70e5bcae2304ef813d70c5",
-            "rank_move": "DOWN",
+            "rank_move": "UP",
             "url": "https:\/\/open.spotify.com\/show\/3eCs2WeZ6upd5HNRaiMrVs"
+        },
+        {
+            "rank": 10,
+            "spotify_id": "6fGNwiJ8iRR81UDzM452vj",
+            "name": "Rovdjursjägarna",
+            "publisher": "Nordlander Jakt",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f4588fa593b326f183ccb494a",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/6fGNwiJ8iRR81UDzM452vj"
         },
         {
             "rank": 11,
@@ -107,21 +107,21 @@
         },
         {
             "rank": 12,
-            "spotify_id": "5wM2Cvlu1ffdf7z5fo5NFh",
-            "name": "Lana's Life",
-            "publisher": "Lana Rae",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f2bdb3878e66dc506749d77cf",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/5wM2Cvlu1ffdf7z5fo5NFh"
-        },
-        {
-            "rank": 13,
             "spotify_id": "4gGwgDlJgHgsaiIh2lUwCK",
             "name": "Slime Glitterz",
             "publisher": "Slime Glitterz",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f4b9070e2cff1e52edb9836a1",
-            "rank_move": "DOWN",
+            "rank_move": "UNCHANGED",
             "url": "https:\/\/open.spotify.com\/show\/4gGwgDlJgHgsaiIh2lUwCK"
+        },
+        {
+            "rank": 13,
+            "spotify_id": "5wM2Cvlu1ffdf7z5fo5NFh",
+            "name": "Lana's Life",
+            "publisher": "Lana Rae",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f2bdb3878e66dc506749d77cf",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/5wM2Cvlu1ffdf7z5fo5NFh"
         },
         {
             "rank": 14,
@@ -134,12 +134,12 @@
         },
         {
             "rank": 15,
-            "spotify_id": "2NhPB9IyBTgndGAJY7YcH4",
-            "name": "Vortrox Plays",
-            "publisher": "Joey Vortox",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f6e9209fd2a557c298b6aeee3",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/2NhPB9IyBTgndGAJY7YcH4"
+            "spotify_id": "09a8dvK8r11XV8q8vbv9Jf",
+            "name": "PrestonPlayz",
+            "publisher": "PrestonPlayz",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f83ab804a022bf53e49c6dd79",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/09a8dvK8r11XV8q8vbv9Jf"
         },
         {
             "rank": 16,
@@ -147,98 +147,98 @@
             "name": "Hanna och Rebeccas trädgårdsliv",
             "publisher": "Willab Garden",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fcd503adc7c9ba794347800b0",
-            "rank_move": "UP",
+            "rank_move": "UNCHANGED",
             "url": "https:\/\/open.spotify.com\/show\/4kNVJifCHjR3SpClGhPyMz"
         },
         {
             "rank": 17,
-            "spotify_id": "09a8dvK8r11XV8q8vbv9Jf",
-            "name": "PrestonPlayz",
-            "publisher": "PrestonPlayz",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f83ab804a022bf53e49c6dd79",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/09a8dvK8r11XV8q8vbv9Jf"
+            "spotify_id": "5X5Pr6jtt94qd3u9HjGoRZ",
+            "name": "ODLA!",
+            "publisher": "med Maj-Lis Pettersson & Bella Linde",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f758abed5429e33a0e96637c7",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/5X5Pr6jtt94qd3u9HjGoRZ"
         },
         {
             "rank": 18,
-            "spotify_id": "7njPiGH1QbpEsSuRavhbSl",
-            "name": "Rallysnack - Med Calle & Adam ",
-            "publisher": "Adam Backström",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f305dc9954f1b4c87c5852e32",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/7njPiGH1QbpEsSuRavhbSl"
+            "spotify_id": "0CQkLYbVv2ZZIKvdxV5dkY",
+            "name": "I väntan på upptag",
+            "publisher": "ivpupodcast",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fa63957f6fac0ba77c273f25e",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/0CQkLYbVv2ZZIKvdxV5dkY"
         },
         {
             "rank": 19,
+            "spotify_id": "4hxkyLG4onhzK9VFoxgfHE",
+            "name": "aCookieGod",
+            "publisher": "aCookieSoldier",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f97cfb21e982888a084b3adf4",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/4hxkyLG4onhzK9VFoxgfHE"
+        },
+        {
+            "rank": 20,
+            "spotify_id": "5bSR6kZIAz7kjMPufG9pVR",
+            "name": "xNestorio",
+            "publisher": "xNestorio",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fdaefab1cd4ad1b20dad473cb",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/5bSR6kZIAz7kjMPufG9pVR"
+        },
+        {
+            "rank": 21,
             "spotify_id": "6d19xZP1KanUUhcrVFW4or",
             "name": "Reacts!",
             "publisher": "EYstreem",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f40d342624820a7383cf87302",
-            "rank_move": "UNCHANGED",
+            "rank_move": "DOWN",
             "url": "https:\/\/open.spotify.com\/show\/6d19xZP1KanUUhcrVFW4or"
         },
         {
-            "rank": 20,
-            "spotify_id": "7e8zPFBpW0DtgyrrPnt0xT",
-            "name": "Critical Role",
-            "publisher": "Critical Role",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f23dcde9f02d02d98a228b273",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/7e8zPFBpW0DtgyrrPnt0xT"
-        },
-        {
-            "rank": 21,
+            "rank": 22,
             "spotify_id": "6i9SWtZPb30xVXWVHSKCqq",
             "name": "Trash Taste Podcast",
             "publisher": "Trash Taste Podcast",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fb6cb66e75137f9cce31e4480",
-            "rank_move": "UP",
+            "rank_move": "DOWN",
             "url": "https:\/\/open.spotify.com\/show\/6i9SWtZPb30xVXWVHSKCqq"
         },
         {
-            "rank": 22,
+            "rank": 23,
+            "spotify_id": "7e8zPFBpW0DtgyrrPnt0xT",
+            "name": "Critical Role",
+            "publisher": "Critical Role",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f23dcde9f02d02d98a228b273",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/7e8zPFBpW0DtgyrrPnt0xT"
+        },
+        {
+            "rank": 24,
             "spotify_id": "73Uy5zCfWM0fEufcUDvjMT",
             "name": "Våra klassiker",
             "publisher": "Våra klassiker",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f9cb42739d7e7d6e7da57514d",
-            "rank_move": "UP",
+            "rank_move": "DOWN",
             "url": "https:\/\/open.spotify.com\/show\/73Uy5zCfWM0fEufcUDvjMT"
         },
         {
-            "rank": 23,
-            "spotify_id": "4hxkyLG4onhzK9VFoxgfHE",
-            "name": "aCookieGod",
-            "publisher": "Anonymous",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f97cfb21e982888a084b3adf4",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/4hxkyLG4onhzK9VFoxgfHE"
-        },
-        {
-            "rank": 24,
+            "rank": 25,
             "spotify_id": "6KnaAHvqf0pgTs3Kw3qQTR",
             "name": "Adeptus Ridiculous",
             "publisher": "Adeptus Ridiculous ",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f39a7e5f26a1163751b3cd82e",
-            "rank_move": "UP",
+            "rank_move": "UNCHANGED",
             "url": "https:\/\/open.spotify.com\/show\/6KnaAHvqf0pgTs3Kw3qQTR"
         },
         {
-            "rank": 25,
-            "spotify_id": "0SVhu4DIhxzreelREsWrew",
-            "name": "Trädgårdssurr",
-            "publisher": "Florea Garden AB",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f1e0c1bec89dd5672db4f52ee",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/0SVhu4DIhxzreelREsWrew"
-        },
-        {
             "rank": 26,
-            "spotify_id": "5tOV3HsbVbKh4CLxp6xeBT",
-            "name": "Farex",
-            "publisher": "Farex",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f3dde069c91565ec1bfff73d5",
+            "spotify_id": "2Z8HKiDH3nlvFzO2H18GHI",
+            "name": "The 40k Lorecast",
+            "publisher": "Warhammmer 40k",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fa619119db630e7d1b71ba0ca",
             "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/5tOV3HsbVbKh4CLxp6xeBT"
+            "url": "https:\/\/open.spotify.com\/show\/2Z8HKiDH3nlvFzO2H18GHI"
         },
         {
             "rank": 27,
@@ -246,197 +246,197 @@
             "name": "SLIME 🍁Roblox Stories",
             "publisher": "D.O",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f54609713c1e1fb779d424d64",
-            "rank_move": "DOWN",
+            "rank_move": "UP",
             "url": "https:\/\/open.spotify.com\/show\/0nvVYOTsBuc0qoRJ7cy9qn"
         },
         {
             "rank": 28,
+            "spotify_id": "7njPiGH1QbpEsSuRavhbSl",
+            "name": "Rallysnack - Med Calle & Adam ",
+            "publisher": "Adam Backström",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f305dc9954f1b4c87c5852e32",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/7njPiGH1QbpEsSuRavhbSl"
+        },
+        {
+            "rank": 29,
             "spotify_id": "4luKkeBhvsh4hZ2h8kn5SP",
             "name": "Trädgård Trädgård Trädgård med Dickson och Wilson",
             "publisher": "Dickson och Wilson",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f77605c5044926e44d41b2160",
-            "rank_move": "DOWN",
+            "rank_move": "UP",
             "url": "https:\/\/open.spotify.com\/show\/4luKkeBhvsh4hZ2h8kn5SP"
         },
         {
-            "rank": 29,
+            "rank": 30,
+            "spotify_id": "20kKo4l8F9Ta2JVY8DGfAJ",
+            "name": "Kontrollbehov",
+            "publisher": "Isak Wahlberg & Robin Larsson Asp",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fea1cd3f96459c55a594a8d68",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/20kKo4l8F9Ta2JVY8DGfAJ"
+        },
+        {
+            "rank": 31,
             "spotify_id": "08peMwQrAk384psfizpFe2",
             "name": "Nördigt",
             "publisher": "I LIKE RADIO",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fd6052a28d96aa5bce6d8a20e",
-            "rank_move": "UP",
+            "rank_move": "DOWN",
             "url": "https:\/\/open.spotify.com\/show\/08peMwQrAk384psfizpFe2"
         },
         {
-            "rank": 30,
-            "spotify_id": "2Z8HKiDH3nlvFzO2H18GHI",
-            "name": "The 40k Lorecast",
-            "publisher": "Warhammmer 40k",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fa619119db630e7d1b71ba0ca",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/2Z8HKiDH3nlvFzO2H18GHI"
-        },
-        {
-            "rank": 31,
-            "spotify_id": "5bSR6kZIAz7kjMPufG9pVR",
-            "name": "xNestorio",
-            "publisher": "xNestorio",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fdaefab1cd4ad1b20dad473cb",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/5bSR6kZIAz7kjMPufG9pVR"
-        },
-        {
             "rank": 32,
+            "spotify_id": "033zniAwXBzWtMpvNbukAe",
+            "name": "Rummet Podcast",
+            "publisher": "Rummet Podcast",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1ffdf7ee9abff2f6572280de3e",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/033zniAwXBzWtMpvNbukAe"
+        },
+        {
+            "rank": 33,
             "spotify_id": "4PtCN0EKR9HsF8pOlxhw4N",
             "name": "CaylusBlox",
             "publisher": "Caylus",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f824637a74ec68946773a46b9",
-            "rank_move": "UP",
+            "rank_move": "DOWN",
             "url": "https:\/\/open.spotify.com\/show\/4PtCN0EKR9HsF8pOlxhw4N"
         },
         {
-            "rank": 33,
-            "spotify_id": "0ATzt164KrvPxQbTOXUxP6",
-            "name": "Semiverse",
-            "publisher": "SEmi",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f00676b98873e8be16bb0a5b3",
+            "rank": 34,
+            "spotify_id": "033nFQrc1A7KtBM7PXoUYb",
+            "name": "JudeLow",
+            "publisher": "JudeLow",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fc796e5d368198fc13e93b3d6",
             "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/0ATzt164KrvPxQbTOXUxP6"
+            "url": "https:\/\/open.spotify.com\/show\/033nFQrc1A7KtBM7PXoUYb"
         },
         {
-            "rank": 34,
+            "rank": 35,
             "spotify_id": "37413pViKw9RGIu40p7rsV",
             "name": "Gilla jakt",
             "publisher": "Jägarnas Riksförbund",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f502bb2504f02a9fe4961400a",
-            "rank_move": "UP",
+            "rank_move": "DOWN",
             "url": "https:\/\/open.spotify.com\/show\/37413pViKw9RGIu40p7rsV"
         },
         {
-            "rank": 35,
+            "rank": 36,
+            "spotify_id": "1W76bq3GUxEa9dQS1NY4j3",
+            "name": "Evbo",
+            "publisher": "Evbo",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fb9ce37ef6a9400451bd40eaa",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/1W76bq3GUxEa9dQS1NY4j3"
+        },
+        {
+            "rank": 37,
+            "spotify_id": "2NhPB9IyBTgndGAJY7YcH4",
+            "name": "Vortrox Plays",
+            "publisher": "Joey Vortox",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f6e9209fd2a557c298b6aeee3",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/2NhPB9IyBTgndGAJY7YcH4"
+        },
+        {
+            "rank": 38,
+            "spotify_id": "2so504kmKaYeiPPLv75Fn9",
+            "name": "DALLMYD",
+            "publisher": "DALLMYD",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f9916d8b7c7c95f35ee7fc7ab",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/2so504kmKaYeiPPLv75Fn9"
+        },
+        {
+            "rank": 39,
             "spotify_id": "7cjbjj2v8NmeuIigZMLV2X",
             "name": "Skillnadens av Sara Bäckmo",
             "publisher": "Sara Bäckmo",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1facbe20005daf2f0ed62d4452",
-            "rank_move": "DOWN",
+            "rank_move": "UP",
             "url": "https:\/\/open.spotify.com\/show\/7cjbjj2v8NmeuIigZMLV2X"
         },
         {
-            "rank": 36,
-            "spotify_id": "1arc03qwquSP0kTX3SrcMY",
-            "name": "På Dianas Stigar med Ekberg och Jägare - En jaktpodd",
-            "publisher": "Mikael Jägare",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f2e2c8f1f77aa0fd944d51001",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/1arc03qwquSP0kTX3SrcMY"
-        },
-        {
-            "rank": 37,
-            "spotify_id": "7jcMzC7GEwT4MJ2eBt4kbF",
-            "name": "ROVDJURSRADION",
-            "publisher": "Jimmy Björling",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fd5170a224922ed606c7ee020",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/7jcMzC7GEwT4MJ2eBt4kbF"
-        },
-        {
-            "rank": 38,
-            "spotify_id": "0Zx0nIb4ed9lKvkmUaw5sy",
-            "name": "Joyceful Tingles",
-            "publisher": "Joyceful Tingles",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f3e3e8b5caf7a223c016d4974",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/0Zx0nIb4ed9lKvkmUaw5sy"
-        },
-        {
-            "rank": 39,
-            "spotify_id": "0CQkLYbVv2ZZIKvdxV5dkY",
-            "name": "I väntan på upptag",
-            "publisher": "ivpupodcast",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fa63957f6fac0ba77c273f25e",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/0CQkLYbVv2ZZIKvdxV5dkY"
-        },
-        {
             "rank": 40,
-            "spotify_id": "5X5Pr6jtt94qd3u9HjGoRZ",
-            "name": "ODLA!",
-            "publisher": "med Maj-Lis Pettersson & Bella Linde",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f758abed5429e33a0e96637c7",
+            "spotify_id": "3kupFE4HJtPDPbawmrxa5D",
+            "name": "Game Theory",
+            "publisher": "Game Theory",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1ffbfed74cb574cdef70a4e36d",
             "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/5X5Pr6jtt94qd3u9HjGoRZ"
+            "url": "https:\/\/open.spotify.com\/show\/3kupFE4HJtPDPbawmrxa5D"
         },
         {
             "rank": 41,
-            "spotify_id": "566f4xpWX1YWGsS7e9Lyy7",
-            "name": "Grox",
-            "publisher": "Grox",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f5f403f9ea787efac8612c7f8",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/566f4xpWX1YWGsS7e9Lyy7"
-        },
-        {
-            "rank": 42,
-            "spotify_id": "2LmpGrLdmKgURNRAxkhrax",
-            "name": "Fish's Gd vids",
-            "publisher": "fish7094",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fea36ac93292f0d69610cc578",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/2LmpGrLdmKgURNRAxkhrax"
-        },
-        {
-            "rank": 43,
-            "spotify_id": "5Di4sxk9hIZErxpjKd9bQL",
-            "name": "Mud Flaps",
-            "publisher": "Mud Flaps",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f41eae28afc4bf7ac3a2684f6",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/5Di4sxk9hIZErxpjKd9bQL"
-        },
-        {
-            "rank": 44,
-            "spotify_id": "3VTwVgCxdimS5s0Z4VQmOn",
-            "name": "Kashy Kans",
-            "publisher": "Kashy Kans",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fc2bc815bfaf58d1d19c9a531",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/3VTwVgCxdimS5s0Z4VQmOn"
-        },
-        {
-            "rank": 45,
-            "spotify_id": "6Z1j4hi1byxC9TQ7nneWiF",
-            "name": "Dream Gaming",
-            "publisher": "Dream",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f12d55751aeec310c264f9729",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/6Z1j4hi1byxC9TQ7nneWiF"
-        },
-        {
-            "rank": 46,
-            "spotify_id": "6bvn2vJ02HDsUgOYeGqcfp",
-            "name": "BENOFTHEWEEK",
-            "publisher": "BENOFTHEWEEK",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fb941e438cf9f7a76f3aad4a6",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/6bvn2vJ02HDsUgOYeGqcfp"
-        },
-        {
-            "rank": 47,
-            "spotify_id": "0jhzxblgOYVUlTh2H9h2Ck",
-            "name": "STILSNACK Althin Wistrand",
-            "publisher": "Althin Wistrand",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f34fcb79800fd7d15291a7301",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/0jhzxblgOYVUlTh2H9h2Ck"
-        },
-        {
-            "rank": 48,
             "spotify_id": "6nCPOTTtj9S6OPTtZMVsJS",
             "name": "BeckBroPlays",
             "publisher": "BeckBroPlays",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fe50b2f24b7a9ba8f955b7053",
-            "rank_move": "UNCHANGED",
+            "rank_move": "DOWN",
             "url": "https:\/\/open.spotify.com\/show\/6nCPOTTtj9S6OPTtZMVsJS"
+        },
+        {
+            "rank": 42,
+            "spotify_id": "4eBLXuhzQd1AZ2S50DOvcP",
+            "name": "TIDERNAS",
+            "publisher": "Juhani & Mika Kari",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fa2e86ce2904121593fbaa2cf",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/4eBLXuhzQd1AZ2S50DOvcP"
+        },
+        {
+            "rank": 43,
+            "spotify_id": "0Zx0nIb4ed9lKvkmUaw5sy",
+            "name": "Joyceful Tingles",
+            "publisher": "Joyceful Tingles",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f3e3e8b5caf7a223c016d4974",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/0Zx0nIb4ed9lKvkmUaw5sy"
+        },
+        {
+            "rank": 44,
+            "spotify_id": "4YkcHFY6GzVvX3bdF8z6uw",
+            "name": "Joe Bartolozzi",
+            "publisher": "Joe Bartolozzi",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fa2c52a46218d5e08e7bfcc8d",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/4YkcHFY6GzVvX3bdF8z6uw"
+        },
+        {
+            "rank": 45,
+            "spotify_id": "6bvn2vJ02HDsUgOYeGqcfp",
+            "name": "BENOFTHEWEEK",
+            "publisher": "BENOFTHEWEEK",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fb941e438cf9f7a76f3aad4a6",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/6bvn2vJ02HDsUgOYeGqcfp"
+        },
+        {
+            "rank": 46,
+            "spotify_id": "1QQJ7FElLE0K6CIfZNCxU4",
+            "name": "Tales from the Stinky Dragon",
+            "publisher": "Stinky Dragon",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fb0484f8ee2933eceab32bac0",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/1QQJ7FElLE0K6CIfZNCxU4"
+        },
+        {
+            "rank": 47,
+            "spotify_id": "0z4ahGyJ6w38yr1q0u6zyi",
+            "name": "WelcominTV",
+            "publisher": "WelcominTV",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f7bae982f44e0b454b01d26c6",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/0z4ahGyJ6w38yr1q0u6zyi"
+        },
+        {
+            "rank": 48,
+            "spotify_id": "566f4xpWX1YWGsS7e9Lyy7",
+            "name": "Grox",
+            "publisher": "Grox",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f5f403f9ea787efac8612c7f8",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/566f4xpWX1YWGsS7e9Lyy7"
         },
         {
             "rank": 49,
@@ -444,17 +444,17 @@
             "name": "MYSTIC7",
             "publisher": "MYSTIC7",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fd58ed42124d0a10a35780d6d",
-            "rank_move": "UP",
+            "rank_move": "UNCHANGED",
             "url": "https:\/\/open.spotify.com\/show\/5QxRY24J67oX3n1s7oKSH7"
         },
         {
             "rank": 50,
-            "spotify_id": "4ldZjCEfUs7oXKhIjQTnlW",
-            "name": "LazarBeam (UNOFFICIAL)",
-            "publisher": "FanBeam ",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fcc48f99df4fc8778bc6a6fdd",
+            "spotify_id": "0jhzxblgOYVUlTh2H9h2Ck",
+            "name": "STILSNACK Althin Wistrand",
+            "publisher": "Althin Wistrand",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f34fcb79800fd7d15291a7301",
             "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/4ldZjCEfUs7oXKhIjQTnlW"
+            "url": "https:\/\/open.spotify.com\/show\/0jhzxblgOYVUlTh2H9h2Ck"
         }
     ]
 }

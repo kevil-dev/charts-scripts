@@ -17,6 +17,7 @@ $stages = [
     ['label' => 'apple fetch',   'script' => 'scrapers/apple_test.php'],
     ['label' => 'spotify fetch', 'script' => 'scrapers/spotify_test.php'],
     ['label' => 'youtube fetch', 'script' => 'scrapers/youtube_test.php'],
+    ['label' => 'meta gen',      'script' => 'generate_meta.php'],
     ['label' => 'loader',        'script' => 'loader.php'],
 ];
 

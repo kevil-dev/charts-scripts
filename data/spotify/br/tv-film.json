@@ -3,7 +3,7 @@
     "country": "br",
     "genre": "TV & Film",
     "slug": "tv-film",
-    "fetched_at": "2026-06-24T06:38:04Z",
+    "fetched_at": "2026-07-01T04:44:51Z",
     "count": 50,
     "shows": [
         {
@@ -17,24 +17,33 @@
         },
         {
             "rank": 2,
-            "spotify_id": "0kof6vwnq6i1zlvbh9lwsY",
-            "name": "RapaduraCast - Podcast de Cinema e Streaming",
-            "publisher": "Cinema com Rapadura",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f30c68582ef6e82443075e8fe",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/0kof6vwnq6i1zlvbh9lwsY"
-        },
-        {
-            "rank": 3,
             "spotify_id": "2wzDg5HRUs2Nye9QZqb2ok",
             "name": "Figura Cast",
             "publisher": "Figura Cast",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f057e413dca64801ac7c3cb4e",
-            "rank_move": "UNCHANGED",
+            "rank_move": "UP",
             "url": "https:\/\/open.spotify.com\/show\/2wzDg5HRUs2Nye9QZqb2ok"
         },
         {
+            "rank": 3,
+            "spotify_id": "0kof6vwnq6i1zlvbh9lwsY",
+            "name": "RapaduraCast - Podcast de Cinema e Streaming",
+            "publisher": "Cinema com Rapadura",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f30c68582ef6e82443075e8fe",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/0kof6vwnq6i1zlvbh9lwsY"
+        },
+        {
             "rank": 4,
+            "spotify_id": "0u1NNyOTxann2FI9g72Ob6",
+            "name": "Diferente de outros canais de casos reais, aqui as histórias são contadas pelos olhos de quem viveu.",
+            "publisher": "Casos Reais YT",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f4445718d38fd13ec8d051d56",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/0u1NNyOTxann2FI9g72Ob6"
+        },
+        {
+            "rank": 5,
             "spotify_id": "2x3SmdvVvELojTyOoKprVS",
             "name": "RdMCast",
             "publisher": "República do Medo",
@@ -43,7 +52,7 @@
             "url": "https:\/\/open.spotify.com\/show\/2x3SmdvVvELojTyOoKprVS"
         },
         {
-            "rank": 5,
+            "rank": 6,
             "spotify_id": "2tnGnQPSkQEXK5F0Xd5A54",
             "name": "Cinemático",
             "publisher": "B9",
@@ -52,31 +61,22 @@
             "url": "https:\/\/open.spotify.com\/show\/2tnGnQPSkQEXK5F0Xd5A54"
         },
         {
-            "rank": 6,
-            "spotify_id": "0u1NNyOTxann2FI9g72Ob6",
-            "name": "Diferente de outros canais de casos reais, aqui as histórias são contadas pelos olhos de quem viveu.",
-            "publisher": "Casos Reais YT",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f4445718d38fd13ec8d051d56",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/0u1NNyOTxann2FI9g72Ob6"
-        },
-        {
             "rank": 7,
-            "spotify_id": "6HtSbqdEXTj6rPilBTwUzM",
-            "name": "História e Cinema",
-            "publisher": "História e Cinema",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f82ea48af78250974b2351f43",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/6HtSbqdEXTj6rPilBTwUzM"
-        },
-        {
-            "rank": 8,
             "spotify_id": "2MsTGRXkgN5k0gBBRDV4ok",
             "name": "Reinaldo Jaqueline",
             "publisher": "Agência de Podcast",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fb8f80c215a7cd45b7e6e7c2a",
-            "rank_move": "DOWN",
+            "rank_move": "UP",
             "url": "https:\/\/open.spotify.com\/show\/2MsTGRXkgN5k0gBBRDV4ok"
+        },
+        {
+            "rank": 8,
+            "spotify_id": "6HtSbqdEXTj6rPilBTwUzM",
+            "name": "História e Cinema",
+            "publisher": "História e Cinema",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f82ea48af78250974b2351f43",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/6HtSbqdEXTj6rPilBTwUzM"
         },
         {
             "rank": 9,
@@ -84,17 +84,17 @@
             "name": "MDA Português",
             "publisher": "Meu Diário Animado Português",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1feae4575e254febbb6e38cd6f",
-            "rank_move": "UP",
+            "rank_move": "UNCHANGED",
             "url": "https:\/\/open.spotify.com\/show\/0F9zmFzq1tzfUVENo0jaV2"
         },
         {
             "rank": 10,
-            "spotify_id": "5P4PF0VxKbjcOSjRAF6P6M",
-            "name": "Tremembé: A Vida Real, o podcast",
-            "publisher": "Record",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f14f62502d70f547a2204c7b0",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/5P4PF0VxKbjcOSjRAF6P6M"
+            "spotify_id": "4KrJSAvJQEDNEFe0rN6p65",
+            "name": "Kino | Carol Moreira ",
+            "publisher": "Caról Moreíra",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f19c4d18f60ba60f4e4920018",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/4KrJSAvJQEDNEFe0rN6p65"
         },
         {
             "rank": 11,
@@ -116,15 +116,6 @@
         },
         {
             "rank": 13,
-            "spotify_id": "4KrJSAvJQEDNEFe0rN6p65",
-            "name": "Kino | Carol Moreira ",
-            "publisher": "Caról Moreíra",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f19c4d18f60ba60f4e4920018",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/4KrJSAvJQEDNEFe0rN6p65"
-        },
-        {
-            "rank": 14,
             "spotify_id": "27BUNDQOJ2rTjRulsDOGQp",
             "name": "Seção Reservada - Seu Podcast sobre Harry Potter",
             "publisher": "Caco Cardassi e Thiego Novais",
@@ -133,16 +124,16 @@
             "url": "https:\/\/open.spotify.com\/show\/27BUNDQOJ2rTjRulsDOGQp"
         },
         {
-            "rank": 15,
-            "spotify_id": "3Ui6pmY3gtkggo4cDoqgSw",
-            "name": "Nosso Podcast de Cinema",
-            "publisher": "Marina Person e Gustavo Rosa de Moura",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fceec84c55bf7547e6c57ebef",
+            "rank": 14,
+            "spotify_id": "5P4PF0VxKbjcOSjRAF6P6M",
+            "name": "Tremembé: A Vida Real, o podcast",
+            "publisher": "Record",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f14f62502d70f547a2204c7b0",
             "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/3Ui6pmY3gtkggo4cDoqgSw"
+            "url": "https:\/\/open.spotify.com\/show\/5P4PF0VxKbjcOSjRAF6P6M"
         },
         {
-            "rank": 16,
+            "rank": 15,
             "spotify_id": "1gWMv2W4QjgXz1v7z307c5",
             "name": "Derivado Cast",
             "publisher": "Série Maníacos",
@@ -151,16 +142,16 @@
             "url": "https:\/\/open.spotify.com\/show\/1gWMv2W4QjgXz1v7z307c5"
         },
         {
-            "rank": 17,
-            "spotify_id": "0soZ5m781hTBIQctTE7XM5",
-            "name": "PodBrisa, o podcast do Muita Brisa",
-            "publisher": "Aníta Borges e Fabio Jacques",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f5a2b6b1daba8058e746eb809",
+            "rank": 16,
+            "spotify_id": "3Ui6pmY3gtkggo4cDoqgSw",
+            "name": "Nosso Podcast de Cinema",
+            "publisher": "Marina Person e Gustavo Rosa de Moura",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fceec84c55bf7547e6c57ebef",
             "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/0soZ5m781hTBIQctTE7XM5"
+            "url": "https:\/\/open.spotify.com\/show\/3Ui6pmY3gtkggo4cDoqgSw"
         },
         {
-            "rank": 18,
+            "rank": 17,
             "spotify_id": "6xI5mA1L44kfOVAkGyrvoh",
             "name": "No Meio Disso Tudo",
             "publisher": "EntreMigas",
@@ -169,16 +160,7 @@
             "url": "https:\/\/open.spotify.com\/show\/6xI5mA1L44kfOVAkGyrvoh"
         },
         {
-            "rank": 19,
-            "spotify_id": "2CLZ8TsyK2P4JkNvRXORO1",
-            "name": "Esqueletos no Armário",
-            "publisher": "@esqueletosgays",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f8b7a84bd9f8a9db2cbd3e372",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/2CLZ8TsyK2P4JkNvRXORO1"
-        },
-        {
-            "rank": 20,
+            "rank": 18,
             "spotify_id": "7yJkAgNTUU5BqaoshKqlMR",
             "name": "De Quinta, com Thiago Romariz e Guilherme Jacobs",
             "publisher": "Guilherme Jacobs e Thiago Romariz",
@@ -187,13 +169,31 @@
             "url": "https:\/\/open.spotify.com\/show\/7yJkAgNTUU5BqaoshKqlMR"
         },
         {
+            "rank": 19,
+            "spotify_id": "2r6CGCRahykQIaCZPW2W74",
+            "name": "All Bronze, No Brains!",
+            "publisher": "All Bronze, No Brains!",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1ff25530f93b825eefd038c831",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/2r6CGCRahykQIaCZPW2W74"
+        },
+        {
+            "rank": 20,
+            "spotify_id": "2CLZ8TsyK2P4JkNvRXORO1",
+            "name": "Esqueletos no Armário",
+            "publisher": "@esqueletosgays",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f8b7a84bd9f8a9db2cbd3e372",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/2CLZ8TsyK2P4JkNvRXORO1"
+        },
+        {
             "rank": 21,
-            "spotify_id": "26UNfx5wrMoszm48yKZr63",
-            "name": "Escutar séries",
-            "publisher": "escutar séries",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fb4ad986b334432c5d530a356",
+            "spotify_id": "0soZ5m781hTBIQctTE7XM5",
+            "name": "PodBrisa, o podcast do Muita Brisa",
+            "publisher": "Aníta Borges e Fabio Jacques",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f5a2b6b1daba8058e746eb809",
             "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/26UNfx5wrMoszm48yKZr63"
+            "url": "https:\/\/open.spotify.com\/show\/0soZ5m781hTBIQctTE7XM5"
         },
         {
             "rank": 22,
@@ -206,51 +206,15 @@
         },
         {
             "rank": 23,
-            "spotify_id": "6Qiywley9VqReP9ziTgHA3",
-            "name": "Hora da Maldade",
-            "publisher": "Affonso Solano",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1ffa9093e982f346eab9c97d29",
+            "spotify_id": "26UNfx5wrMoszm48yKZr63",
+            "name": "Escutar séries",
+            "publisher": "escutar séries",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fb4ad986b334432c5d530a356",
             "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/6Qiywley9VqReP9ziTgHA3"
+            "url": "https:\/\/open.spotify.com\/show\/26UNfx5wrMoszm48yKZr63"
         },
         {
             "rank": 24,
-            "spotify_id": "3za88dyh6cpFXLhs76iU3r",
-            "name": "Vídeos do Goularte",
-            "publisher": "rai cumeno raimundão",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f2c4dea4176bf88ceed26c0c7",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/3za88dyh6cpFXLhs76iU3r"
-        },
-        {
-            "rank": 25,
-            "spotify_id": "7zg1uppIPwPsiXiyeZNxi8",
-            "name": "Abominável Podcast ",
-            "publisher": "Dane Taranha e Rodrigo Ramos",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f1ff7981892b4775134836ad6",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/7zg1uppIPwPsiXiyeZNxi8"
-        },
-        {
-            "rank": 26,
-            "spotify_id": "3lUZ8dM6tV8vjxA8kuIbU8",
-            "name": "Cortadas do Firmino",
-            "publisher": "Firmino Cortada",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1ff4f13386f92cb7404e6684cb",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/3lUZ8dM6tV8vjxA8kuIbU8"
-        },
-        {
-            "rank": 27,
-            "spotify_id": "54SB31v13cRXpUo9xa4H9T",
-            "name": "Podtrash",
-            "publisher": "The Dark One",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f015ec8fe0ebb5eb873e64bc9",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/54SB31v13cRXpUo9xa4H9T"
-        },
-        {
-            "rank": 28,
             "spotify_id": "4sNBGof0cXXpg8JQUVrhzc",
             "name": "Plugado Podcast",
             "publisher": "Carlos Mafia ",
@@ -259,7 +223,61 @@
             "url": "https:\/\/open.spotify.com\/show\/4sNBGof0cXXpg8JQUVrhzc"
         },
         {
+            "rank": 25,
+            "spotify_id": "3za88dyh6cpFXLhs76iU3r",
+            "name": "Vídeos do Goularte",
+            "publisher": "rai cumeno raimundão",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f2c4dea4176bf88ceed26c0c7",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/3za88dyh6cpFXLhs76iU3r"
+        },
+        {
+            "rank": 26,
+            "spotify_id": "1lwV8q6X4Aev3su451lTtd",
+            "name": "The Patrick Scott Patterson Project",
+            "publisher": "Patrick Scott Patterson",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f259fbaaa05de906c4f54b13b",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/1lwV8q6X4Aev3su451lTtd"
+        },
+        {
+            "rank": 27,
+            "spotify_id": "7zg1uppIPwPsiXiyeZNxi8",
+            "name": "Abominável Podcast ",
+            "publisher": "Dane Taranha e Rodrigo Ramos",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f1ff7981892b4775134836ad6",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/7zg1uppIPwPsiXiyeZNxi8"
+        },
+        {
+            "rank": 28,
+            "spotify_id": "54SB31v13cRXpUo9xa4H9T",
+            "name": "Podtrash",
+            "publisher": "The Dark One",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f015ec8fe0ebb5eb873e64bc9",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/54SB31v13cRXpUo9xa4H9T"
+        },
+        {
             "rank": 29,
+            "spotify_id": "6Qiywley9VqReP9ziTgHA3",
+            "name": "Hora da Maldade",
+            "publisher": "Affonso Solano",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1ffa9093e982f346eab9c97d29",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/6Qiywley9VqReP9ziTgHA3"
+        },
+        {
+            "rank": 30,
+            "spotify_id": "3lUZ8dM6tV8vjxA8kuIbU8",
+            "name": "Cortadas do Firmino",
+            "publisher": "Firmino Cortada",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1ff4f13386f92cb7404e6684cb",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/3lUZ8dM6tV8vjxA8kuIbU8"
+        },
+        {
+            "rank": 31,
             "spotify_id": "0yjsQiBCNZwWKeELpLF5De",
             "name": "Senta que lá vem Spoiler!",
             "publisher": "Sonica Podcasts Anywhere",
@@ -268,70 +286,16 @@
             "url": "https:\/\/open.spotify.com\/show\/0yjsQiBCNZwWKeELpLF5De"
         },
         {
-            "rank": 30,
-            "spotify_id": "4SkP4V4W4J1wQKZtPKHuGy",
-            "name": "Setealém",
-            "publisher": "Luciano Milici",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fc1c8667d224cd6a89465392a",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/4SkP4V4W4J1wQKZtPKHuGy"
-        },
-        {
-            "rank": 31,
-            "spotify_id": "4iliS7YGfL5ddMEcAeDUh9",
-            "name": "Cinem(ação)",
-            "publisher": "Cinem(ação)",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f89facab1e0a63e7743250893",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/4iliS7YGfL5ddMEcAeDUh9"
-        },
-        {
             "rank": 32,
-            "spotify_id": "63bCw9BJGpGBQLwh8Aa65Z",
-            "name": "LoGGado - Séries, Cinema, TV, Música e Muito Mais",
-            "publisher": "LoGGado Team",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f97f32b4d847c103dfdca4790",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/63bCw9BJGpGBQLwh8Aa65Z"
+            "spotify_id": "033pGhu41F8dXl8Ae530qO",
+            "name": "Ei Nerd Spotify",
+            "publisher": "Ei Nerd",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f0a86eaf3f68fae5ab4ef2f16",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/033pGhu41F8dXl8Ae530qO"
         },
         {
             "rank": 33,
-            "spotify_id": "3Hbj8G86ewV4D7uRxqGlKZ",
-            "name": "OdeioCinema ",
-            "publisher": "AdoroCinema",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f516bbdc7504c9c6fb8fef05e",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/3Hbj8G86ewV4D7uRxqGlKZ"
-        },
-        {
-            "rank": 34,
-            "spotify_id": "0ba8PKf8ems2g4kuzdPnCi",
-            "name": "Recapitulando",
-            "publisher": "Alexandre Almeida e Pedro Gilio",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fa49aa1ec2cfe01cce9802837",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/0ba8PKf8ems2g4kuzdPnCi"
-        },
-        {
-            "rank": 35,
-            "spotify_id": "701uzeRzJExS95L73vn6KN",
-            "name": "Podcast Filmes Clássicos",
-            "publisher": "O Podcast dos Clássicos",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f3440a89550b9054dafa1a253",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/701uzeRzJExS95L73vn6KN"
-        },
-        {
-            "rank": 36,
-            "spotify_id": "6mTel3azvnK8isLs4VujvF",
-            "name": "The Big Picture",
-            "publisher": "The Ringer",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fd68855a4aaacd53818a9078b",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/6mTel3azvnK8isLs4VujvF"
-        },
-        {
-            "rank": 37,
             "spotify_id": "0MrC1IHyDU6jcM3EmWzatO",
             "name": "Casimiro Videos",
             "publisher": "rai cumeno raimundão",
@@ -340,121 +304,157 @@
             "url": "https:\/\/open.spotify.com\/show\/0MrC1IHyDU6jcM3EmWzatO"
         },
         {
-            "rank": 38,
-            "spotify_id": "7snky6USg5GyKBO1E2ifsj",
-            "name": "UNITEDcast",
-            "publisher": "Anime United",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f138174b15468ec815fd6d03c",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/7snky6USg5GyKBO1E2ifsj"
+            "rank": 34,
+            "spotify_id": "3Hbj8G86ewV4D7uRxqGlKZ",
+            "name": "OdeioCinema ",
+            "publisher": "AdoroCinema",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f516bbdc7504c9c6fb8fef05e",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/3Hbj8G86ewV4D7uRxqGlKZ"
         },
         {
-            "rank": 39,
+            "rank": 35,
+            "spotify_id": "4SkP4V4W4J1wQKZtPKHuGy",
+            "name": "Setealém",
+            "publisher": "Luciano Milici",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fc1c8667d224cd6a89465392a",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/4SkP4V4W4J1wQKZtPKHuGy"
+        },
+        {
+            "rank": 36,
+            "spotify_id": "4iliS7YGfL5ddMEcAeDUh9",
+            "name": "Cinem(ação)",
+            "publisher": "Cinem(ação)",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f89facab1e0a63e7743250893",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/4iliS7YGfL5ddMEcAeDUh9"
+        },
+        {
+            "rank": 37,
+            "spotify_id": "0ba8PKf8ems2g4kuzdPnCi",
+            "name": "Recapitulando",
+            "publisher": "Alexandre Almeida e Pedro Gilio",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fa49aa1ec2cfe01cce9802837",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/0ba8PKf8ems2g4kuzdPnCi"
+        },
+        {
+            "rank": 38,
             "spotify_id": "32i8TvtME42cei8K8Zvsti",
             "name": "Não Apague A Luz",
             "publisher": "Não Apague a Luz",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f6d7538d79a885df86d550bef",
-            "rank_move": "DOWN",
+            "rank_move": "UNCHANGED",
             "url": "https:\/\/open.spotify.com\/show\/32i8TvtME42cei8K8Zvsti"
         },
         {
-            "rank": 40,
-            "spotify_id": "5QYlYbBUGHjxVcHWSoxZ65",
-            "name": "SommCast TV",
-            "publisher": "SommCast T V",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fcdf910b492ea639fd7595031",
+            "rank": 39,
+            "spotify_id": "701uzeRzJExS95L73vn6KN",
+            "name": "Podcast Filmes Clássicos",
+            "publisher": "O Podcast dos Clássicos",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f3440a89550b9054dafa1a253",
             "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/5QYlYbBUGHjxVcHWSoxZ65"
+            "url": "https:\/\/open.spotify.com\/show\/701uzeRzJExS95L73vn6KN"
+        },
+        {
+            "rank": 40,
+            "spotify_id": "6mTel3azvnK8isLs4VujvF",
+            "name": "The Big Picture",
+            "publisher": "The Ringer",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fd68855a4aaacd53818a9078b",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/6mTel3azvnK8isLs4VujvF"
         },
         {
             "rank": 41,
-            "spotify_id": "1kVmNuglFd9xLH4k9tdSuc",
-            "name": "Boring History For Sleep | Gentle Storytelling And Ambient Sounds (Official)",
-            "publisher": "HistoryAndSleepOfficial",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fe5f5fb542508c83a420530a3",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/1kVmNuglFd9xLH4k9tdSuc"
+            "spotify_id": "63bCw9BJGpGBQLwh8Aa65Z",
+            "name": "LoGGado - Séries, Cinema, TV, Música e Muito Mais",
+            "publisher": "LoGGado Team",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f97f32b4d847c103dfdca4790",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/63bCw9BJGpGBQLwh8Aa65Z"
         },
         {
             "rank": 42,
+            "spotify_id": "3QPS35nmpessSMWPQy3Az7",
+            "name": "PodMeuNerd",
+            "publisher": "PodMeuNerd",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f253cfa8aa58950c7176ab601",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/3QPS35nmpessSMWPQy3Az7"
+        },
+        {
+            "rank": 43,
             "spotify_id": "1XjQY6l3WfqtfbDF0DMgfD",
             "name": "Sala VIP do RapaduraCast",
             "publisher": "Cinema com Rapadura",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f57b11245f8dda438e83060d9",
-            "rank_move": "UP",
+            "rank_move": "DOWN",
             "url": "https:\/\/open.spotify.com\/show\/1XjQY6l3WfqtfbDF0DMgfD"
         },
         {
-            "rank": 43,
-            "spotify_id": "033kdNnmfNHucxNv7dPjmQ",
-            "name": "Sim Sou Cast",
-            "publisher": "Sim Sou Silva",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1ff5032b3d6866aee0b29b9075",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/033kdNnmfNHucxNv7dPjmQ"
-        },
-        {
             "rank": 44,
-            "spotify_id": "4N66xk8ySTOVphEnZkoWX8",
-            "name": "OPEXCast",
-            "publisher": "OPEXCast",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f9f68212f65d0d58cc4dfdc8c",
+            "spotify_id": "0akPG8f9JVmowjxP1NThOf",
+            "name": "Canções de Gelo & Fogo",
+            "publisher": "Canções de Gelo & Fogo",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f0ed461321dadf1e703a54532",
             "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/4N66xk8ySTOVphEnZkoWX8"
+            "url": "https:\/\/open.spotify.com\/show\/0akPG8f9JVmowjxP1NThOf"
         },
         {
             "rank": 45,
-            "spotify_id": "5a90qPoKCli18oEyooOdW0",
-            "name": "Papo de Cinema",
-            "publisher": "Papo de Cinema",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f4904f16ae706bef83f3a97f7",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/5a90qPoKCli18oEyooOdW0"
-        },
-        {
-            "rank": 46,
-            "spotify_id": "15lonNfWzHLbMepKo0EDjs",
-            "name": "WHAT WENT WRONG",
-            "publisher": "Sad Boom Media",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f9ab01fee24954fa6da19c17a",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/15lonNfWzHLbMepKo0EDjs"
-        },
-        {
-            "rank": 47,
-            "spotify_id": "6K67h2m7JcgYEBvDuOY8y9",
-            "name": "Escolhe o Filme ",
-            "publisher": "Rede Atlântida",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1facb604b4f14553554b346761",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/6K67h2m7JcgYEBvDuOY8y9"
-        },
-        {
-            "rank": 48,
-            "spotify_id": "2BwEplQT1jTDbPCpdUzTPB",
-            "name": "CaveCast",
-            "publisher": "SBT",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fb25b8f09cea845afc3dcfd28",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/2BwEplQT1jTDbPCpdUzTPB"
-        },
-        {
-            "rank": 49,
             "spotify_id": "0DTLIkS03IeqEMT7LmGI3n",
             "name": "FormigaCast",
             "publisher": "Formiga Elétrica",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f16d584fb54b6a3f705e52c67",
-            "rank_move": "DOWN",
+            "rank_move": "UP",
             "url": "https:\/\/open.spotify.com\/show\/0DTLIkS03IeqEMT7LmGI3n"
         },
         {
-            "rank": 50,
-            "spotify_id": "57boNKAYKKbiwYxcA96bFA",
-            "name": "Podcast Cinemaventura",
-            "publisher": "Podcast Cinemaventura",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f78efeb03b63ba2b31b907829",
+            "rank": 46,
+            "spotify_id": "1kVmNuglFd9xLH4k9tdSuc",
+            "name": "Boring History For Sleep | Gentle Storytelling And Ambient Sounds (Official)",
+            "publisher": "HistoryAndSleepOfficial",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fe5f5fb542508c83a420530a3",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/1kVmNuglFd9xLH4k9tdSuc"
+        },
+        {
+            "rank": 47,
+            "spotify_id": "7snky6USg5GyKBO1E2ifsj",
+            "name": "UNITEDcast",
+            "publisher": "Anime United",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f138174b15468ec815fd6d03c",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/7snky6USg5GyKBO1E2ifsj"
+        },
+        {
+            "rank": 48,
+            "spotify_id": "4N66xk8ySTOVphEnZkoWX8",
+            "name": "OPEXCast",
+            "publisher": "OPEXCast",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f9f68212f65d0d58cc4dfdc8c",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/4N66xk8ySTOVphEnZkoWX8"
+        },
+        {
+            "rank": 49,
+            "spotify_id": "033BI2CZNdlpK31qVmO1iJ",
+            "name": "Lanterninha",
+            "publisher": "Hana Khalil e Eduardo Caldas",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f89e83bc8f23de2db0870721a",
             "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/57boNKAYKKbiwYxcA96bFA"
+            "url": "https:\/\/open.spotify.com\/show\/033BI2CZNdlpK31qVmO1iJ"
+        },
+        {
+            "rank": 50,
+            "spotify_id": "5QYlYbBUGHjxVcHWSoxZ65",
+            "name": "SommCast TV",
+            "publisher": "SommCast T V",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fcdf910b492ea639fd7595031",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/5QYlYbBUGHjxVcHWSoxZ65"
         }
     ]
 }

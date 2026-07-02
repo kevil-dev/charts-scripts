@@ -3,7 +3,7 @@
     "country": "us",
     "genre": "News",
     "slug": "news",
-    "fetched_at": "2026-06-24T06:36:21Z",
+    "fetched_at": "2026-07-01T04:43:07Z",
     "count": 50,
     "shows": [
         {
@@ -44,21 +44,21 @@
         },
         {
             "rank": 5,
-            "spotify_id": "6BRSvIBNQnB68GuoXJRCnQ",
-            "name": "NPR News Now",
-            "publisher": "NPR",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fe36b8416f8cfde01313f1c3a",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/6BRSvIBNQnB68GuoXJRCnQ"
-        },
-        {
-            "rank": 6,
             "spotify_id": "0KxdEdeY2Wb3zr28dMlQva",
             "name": "The Journal.",
             "publisher": "The Wall Street Journal",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1ffed98c4fdc504416141e9409",
-            "rank_move": "DOWN",
+            "rank_move": "UNCHANGED",
             "url": "https:\/\/open.spotify.com\/show\/0KxdEdeY2Wb3zr28dMlQva"
+        },
+        {
+            "rank": 6,
+            "spotify_id": "6BRSvIBNQnB68GuoXJRCnQ",
+            "name": "NPR News Now",
+            "publisher": "NPR",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fe36b8416f8cfde01313f1c3a",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/6BRSvIBNQnB68GuoXJRCnQ"
         },
         {
             "rank": 7,
@@ -71,15 +71,6 @@
         },
         {
             "rank": 8,
-            "spotify_id": "1WErgoXiZwgctkHLzqU6nf",
-            "name": "The Ben Shapiro Show",
-            "publisher": "The Daily Wire",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f72ed976790c1f29394a8a87e",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/1WErgoXiZwgctkHLzqU6nf"
-        },
-        {
-            "rank": 9,
             "spotify_id": "3pXx5SXzXwJxnf4A5pWN2A",
             "name": "Today, Explained",
             "publisher": "Vox",
@@ -88,13 +79,22 @@
             "url": "https:\/\/open.spotify.com\/show\/3pXx5SXzXwJxnf4A5pWN2A"
         },
         {
-            "rank": 10,
-            "spotify_id": "0awxEJH88Xur0GHXuteBLw",
-            "name": "The Megyn Kelly Show",
-            "publisher": "SiriusXM",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f7c6928e8b078a02893b97017",
+            "rank": 9,
+            "spotify_id": "1WErgoXiZwgctkHLzqU6nf",
+            "name": "The Ben Shapiro Show",
+            "publisher": "The Daily Wire",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f72ed976790c1f29394a8a87e",
             "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/0awxEJH88Xur0GHXuteBLw"
+            "url": "https:\/\/open.spotify.com\/show\/1WErgoXiZwgctkHLzqU6nf"
+        },
+        {
+            "rank": 10,
+            "spotify_id": "1LeIhhawEPWj4uVLQV8Lkd",
+            "name": "The Matt Walsh Show",
+            "publisher": "The Matt Walsh Show",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fa3397f75ea48fa7910e2d4bf",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/1LeIhhawEPWj4uVLQV8Lkd"
         },
         {
             "rank": 11,
@@ -102,17 +102,17 @@
             "name": "The MeidasTouch Podcast",
             "publisher": "MeidasTouch Network",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f51f1fb71d507aec7ebd71559",
-            "rank_move": "UNCHANGED",
+            "rank_move": "UP",
             "url": "https:\/\/open.spotify.com\/show\/34NcOzUEJs0T5DaUeYLfFl"
         },
         {
             "rank": 12,
-            "spotify_id": "1LeIhhawEPWj4uVLQV8Lkd",
-            "name": "The Matt Walsh Show",
-            "publisher": "The Matt Walsh Show",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fa3397f75ea48fa7910e2d4bf",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/1LeIhhawEPWj4uVLQV8Lkd"
+            "spotify_id": "0awxEJH88Xur0GHXuteBLw",
+            "name": "The Megyn Kelly Show",
+            "publisher": "SiriusXM",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f7c6928e8b078a02893b97017",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/0awxEJH88Xur0GHXuteBLw"
         },
         {
             "rank": 13,
@@ -125,15 +125,6 @@
         },
         {
             "rank": 14,
-            "spotify_id": "5MFujyXSc8DiN8kWVoAnNb",
-            "name": "Breaking News from Pod Save America",
-            "publisher": "Crooked Media",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fc16d11c1dd167a64b9ecbefb",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/5MFujyXSc8DiN8kWVoAnNb"
-        },
-        {
-            "rank": 15,
             "spotify_id": "4Kbsy61zJSzPxNZZ3PKbXl",
             "name": "Breaking Points with Krystal and Saagar",
             "publisher": "iHeartPodcasts",
@@ -142,7 +133,7 @@
             "url": "https:\/\/open.spotify.com\/show\/4Kbsy61zJSzPxNZZ3PKbXl"
         },
         {
-            "rank": 16,
+            "rank": 15,
             "spotify_id": "6VpV9ZlbQTzMngKilhJlZs",
             "name": "The President's Daily Brief",
             "publisher": "The First TV",
@@ -151,25 +142,16 @@
             "url": "https:\/\/open.spotify.com\/show\/6VpV9ZlbQTzMngKilhJlZs"
         },
         {
+            "rank": 16,
+            "spotify_id": "5MFujyXSc8DiN8kWVoAnNb",
+            "name": "Breaking News from Pod Save America",
+            "publisher": "Crooked Media",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fc16d11c1dd167a64b9ecbefb",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/5MFujyXSc8DiN8kWVoAnNb"
+        },
+        {
             "rank": 17,
-            "spotify_id": "3YMFdNqoNtVcCBKSUvjr8n",
-            "name": "Morning Wire",
-            "publisher": "The Daily Wire",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f59f2bfda0f87106e3f2352b9",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/3YMFdNqoNtVcCBKSUvjr8n"
-        },
-        {
-            "rank": 18,
-            "spotify_id": "4sftHO603JaFqpuQBEZReL",
-            "name": "Dan Bongino Show",
-            "publisher": "Cumulus Podcast Network | Dan Bongino",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f016501e7b2cd83b1475c694e",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/4sftHO603JaFqpuQBEZReL"
-        },
-        {
-            "rank": 19,
             "spotify_id": "4MU3RFGELZxPT9XHVwTNPR",
             "name": "Pivot",
             "publisher": "New York Magazine",
@@ -178,7 +160,34 @@
             "url": "https:\/\/open.spotify.com\/show\/4MU3RFGELZxPT9XHVwTNPR"
         },
         {
+            "rank": 18,
+            "spotify_id": "4sftHO603JaFqpuQBEZReL",
+            "name": "Dan Bongino Show",
+            "publisher": "Cumulus Podcast Network | Dan Bongino",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f016501e7b2cd83b1475c694e",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/4sftHO603JaFqpuQBEZReL"
+        },
+        {
+            "rank": 19,
+            "spotify_id": "59176gU8vcFho6Sc1dm3Lu",
+            "name": "WSJ What’s News",
+            "publisher": "The Wall Street Journal",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f4e87c207651b687348dc1a31",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/59176gU8vcFho6Sc1dm3Lu"
+        },
+        {
             "rank": 20,
+            "spotify_id": "3YMFdNqoNtVcCBKSUvjr8n",
+            "name": "Morning Wire",
+            "publisher": "The Daily Wire",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f59f2bfda0f87106e3f2352b9",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/3YMFdNqoNtVcCBKSUvjr8n"
+        },
+        {
+            "rank": 21,
             "spotify_id": "0BDNfTFMPd7o5rhqmUAFz1",
             "name": "The Bulwark Podcast",
             "publisher": "The Bulwark",
@@ -187,25 +196,7 @@
             "url": "https:\/\/open.spotify.com\/show\/0BDNfTFMPd7o5rhqmUAFz1"
         },
         {
-            "rank": 21,
-            "spotify_id": "59176gU8vcFho6Sc1dm3Lu",
-            "name": "WSJ What’s News",
-            "publisher": "The Wall Street Journal",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f4e87c207651b687348dc1a31",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/59176gU8vcFho6Sc1dm3Lu"
-        },
-        {
             "rank": 22,
-            "spotify_id": "3wBfqov60qDZbEVjPHo0a8",
-            "name": "Global News Podcast",
-            "publisher": "BBC World Service",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fb0617b8983fa67ffd9678391",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/3wBfqov60qDZbEVjPHo0a8"
-        },
-        {
-            "rank": 23,
             "spotify_id": "0pymDUChxmrkH41tOT33Uc",
             "name": "The Headlines",
             "publisher": "The New York Times",
@@ -214,16 +205,52 @@
             "url": "https:\/\/open.spotify.com\/show\/0pymDUChxmrkH41tOT33Uc"
         },
         {
+            "rank": 23,
+            "spotify_id": "3wBfqov60qDZbEVjPHo0a8",
+            "name": "Global News Podcast",
+            "publisher": "BBC World Service",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fb0617b8983fa67ffd9678391",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/3wBfqov60qDZbEVjPHo0a8"
+        },
+        {
             "rank": 24,
+            "spotify_id": "3TdABllOVzlzharkEdaiWg",
+            "name": "The Michael Knowles Show",
+            "publisher": "The Michael Knowles Show",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fac62d1c340cbde4c75d7ab87",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/3TdABllOVzlzharkEdaiWg"
+        },
+        {
+            "rank": 25,
             "spotify_id": "1OY3nyGYqjIO4aWMW2feLy",
             "name": "The Rest Is Politics: US",
             "publisher": "Goalhanger",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fd0f81227c68a93552d4f8b51",
-            "rank_move": "UP",
+            "rank_move": "DOWN",
             "url": "https:\/\/open.spotify.com\/show\/1OY3nyGYqjIO4aWMW2feLy"
         },
         {
-            "rank": 25,
+            "rank": 26,
+            "spotify_id": "04A7siemGWqKh1ihsl6Due",
+            "name": "House Guest",
+            "publisher": "Scott Evans",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f1f3cc700b8935cd9e87ce9ad",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/04A7siemGWqKh1ihsl6Due"
+        },
+        {
+            "rank": 27,
+            "spotify_id": "4gnbg5moE7d882Ag5Yhiz2",
+            "name": "IHIP News",
+            "publisher": "Jennifer Welch & Angie Sullivan",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f3941919cb4be55fb547708b4",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/4gnbg5moE7d882Ag5Yhiz2"
+        },
+        {
+            "rank": 28,
             "spotify_id": "1JH26td5UtmKQWHLv0NCZp",
             "name": "TRIGGERnometry",
             "publisher": "Konstantin Kisin & Francis Foster",
@@ -232,67 +259,40 @@
             "url": "https:\/\/open.spotify.com\/show\/1JH26td5UtmKQWHLv0NCZp"
         },
         {
-            "rank": 26,
-            "spotify_id": "3TdABllOVzlzharkEdaiWg",
-            "name": "The Michael Knowles Show",
-            "publisher": "The Michael Knowles Show",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fac62d1c340cbde4c75d7ab87",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/3TdABllOVzlzharkEdaiWg"
-        },
-        {
-            "rank": 27,
-            "spotify_id": "04A7siemGWqKh1ihsl6Due",
-            "name": "House Guest",
-            "publisher": "Scott Evans",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f1f3cc700b8935cd9e87ce9ad",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/04A7siemGWqKh1ihsl6Due"
-        },
-        {
-            "rank": 28,
-            "spotify_id": "4gnbg5moE7d882Ag5Yhiz2",
-            "name": "IHIP News",
-            "publisher": "Jennifer Welch & Angie Sullivan",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f3941919cb4be55fb547708b4",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/4gnbg5moE7d882Ag5Yhiz2"
-        },
-        {
             "rank": 29,
-            "spotify_id": "3fQkNGzE1mBF1VrxVTY0oo",
-            "name": "Plain English with Derek Thompson",
-            "publisher": "The Ringer",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fb26bef3ee0036e834cb7fedb",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/3fQkNGzE1mBF1VrxVTY0oo"
-        },
-        {
-            "rank": 30,
-            "spotify_id": "31ZL74w0W9CUGHFWZPGDf5",
-            "name": "Piers Morgan Uncensored",
-            "publisher": "Piers Morgan Uncensored",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f26157912c2b60ed7f8e7f935",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/31ZL74w0W9CUGHFWZPGDf5"
-        },
-        {
-            "rank": 31,
             "spotify_id": "5wMPFS9B5V7gg6hZ3UZ7hf",
             "name": "Serial",
             "publisher": "Serial Productions & The New York Times",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f02d742743e2ade52c0f1072f",
-            "rank_move": "UP",
+            "rank_move": "UNCHANGED",
             "url": "https:\/\/open.spotify.com\/show\/5wMPFS9B5V7gg6hZ3UZ7hf"
         },
         {
-            "rank": 32,
+            "rank": 30,
             "spotify_id": "2PnWnDNwU3wKesCHCpy252",
             "name": "The NPR Politics Podcast",
             "publisher": "NPR",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fc0ac07038709cc5170161fee",
-            "rank_move": "DOWN",
+            "rank_move": "UNCHANGED",
             "url": "https:\/\/open.spotify.com\/show\/2PnWnDNwU3wKesCHCpy252"
+        },
+        {
+            "rank": 31,
+            "spotify_id": "7gGJDxfhTfMnZawXVbsO1C",
+            "name": "Real Baron Podcast",
+            "publisher": "Baron Coleman",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f1373e19b62ebc335461145bf",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/7gGJDxfhTfMnZawXVbsO1C"
+        },
+        {
+            "rank": 32,
+            "spotify_id": "3fQkNGzE1mBF1VrxVTY0oo",
+            "name": "Plain English with Derek Thompson",
+            "publisher": "The Ringer",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fb26bef3ee0036e834cb7fedb",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/3fQkNGzE1mBF1VrxVTY0oo"
         },
         {
             "rank": 33,
@@ -300,17 +300,17 @@
             "name": "Pod Save the World",
             "publisher": "Pod Save the World",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f2c5a3d6a50befcf6099253c5",
-            "rank_move": "DOWN",
+            "rank_move": "UNCHANGED",
             "url": "https:\/\/open.spotify.com\/show\/0H9o8kgwaWo2jEVdyMFWzz"
         },
         {
             "rank": 34,
-            "spotify_id": "7zINMAgGlyZYQAYIHRBuoe",
-            "name": "NPR's Newsmakers",
-            "publisher": "NPR",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f3e64c4c7f766d104d2d76c86",
+            "spotify_id": "2iOoN0xoOoSNvDFlpLLYGY",
+            "name": "Victor Davis Hanson: In His Own Words",
+            "publisher": "Jennifer Hayne",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f5424499719f7131bc89e927c",
             "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/7zINMAgGlyZYQAYIHRBuoe"
+            "url": "https:\/\/open.spotify.com\/show\/2iOoN0xoOoSNvDFlpLLYGY"
         },
         {
             "rank": 35,
@@ -318,7 +318,7 @@
             "name": "Raging Moderates with Scott Galloway and Jessica Tarlov",
             "publisher": "Vox Media Podcast Network",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fb618d2f4d535089c05aca772",
-            "rank_move": "UNCHANGED",
+            "rank_move": "DOWN",
             "url": "https:\/\/open.spotify.com\/show\/2Kh9t2fiR7kE601GH36ajN"
         },
         {
@@ -327,83 +327,11 @@
             "name": "The Harry Sisson Show",
             "publisher": "Harry Sisson",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f3a43bcabe66788ddf7043531",
-            "rank_move": "DOWN",
+            "rank_move": "UNCHANGED",
             "url": "https:\/\/open.spotify.com\/show\/6O29HJ8mF6hGRGITeITRnY"
         },
         {
             "rank": 37,
-            "spotify_id": "7gGJDxfhTfMnZawXVbsO1C",
-            "name": "Real Baron Podcast",
-            "publisher": "Baron Coleman",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f1373e19b62ebc335461145bf",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/7gGJDxfhTfMnZawXVbsO1C"
-        },
-        {
-            "rank": 38,
-            "spotify_id": "2iOoN0xoOoSNvDFlpLLYGY",
-            "name": "Victor Davis Hanson: In His Own Words",
-            "publisher": "Jennifer Hayne",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f5424499719f7131bc89e927c",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/2iOoN0xoOoSNvDFlpLLYGY"
-        },
-        {
-            "rank": 39,
-            "spotify_id": "2blgbg4OaN5dqFhkBy12ii",
-            "name": "The Trish Regan Show",
-            "publisher": "Trish Regan",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f4b5d6fe9923ec28cce1c6942",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/2blgbg4OaN5dqFhkBy12ii"
-        },
-        {
-            "rank": 40,
-            "spotify_id": "1alpjXkCUjn3Y9fR5xl8fZ",
-            "name": "Reuters World News ",
-            "publisher": "Reuters",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f9b223b9db7838b52f792a9c1",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/1alpjXkCUjn3Y9fR5xl8fZ"
-        },
-        {
-            "rank": 41,
-            "spotify_id": "2HQ0xANSYpBvxvsEMuYxP9",
-            "name": "Louder with Crowder",
-            "publisher": "Louder with Crowder",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f10f8dd6ac9615d3bbbb6e71b",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/2HQ0xANSYpBvxvsEMuYxP9"
-        },
-        {
-            "rank": 42,
-            "spotify_id": "7yfYvyKNKAuuqSX3PVyRYi",
-            "name": "The Rachel Maddow Show",
-            "publisher": "Rachel Maddow, MS NOW",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f777c7ddab41d720230467a98",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/7yfYvyKNKAuuqSX3PVyRYi"
-        },
-        {
-            "rank": 43,
-            "spotify_id": "3ljAZqaEXyT2MAC8hfO0cR",
-            "name": "The Glenn Beck Program",
-            "publisher": "Mercury Radio Arts",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f5d3be1eee86b4c93932c91af",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/3ljAZqaEXyT2MAC8hfO0cR"
-        },
-        {
-            "rank": 44,
-            "spotify_id": "1chmgsT4aUJPmFlyGXIDGN",
-            "name": "The Keith Edwards Show",
-            "publisher": "Keith Edwards",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fbeae7141c322eb61ceb5f324",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/1chmgsT4aUJPmFlyGXIDGN"
-        },
-        {
-            "rank": 45,
             "spotify_id": "7nqJajzyZo3gdisGk7XhQx",
             "name": "Real Time with Bill Maher",
             "publisher": "HBO Podcasts",
@@ -412,49 +340,121 @@
             "url": "https:\/\/open.spotify.com\/show\/7nqJajzyZo3gdisGk7XhQx"
         },
         {
-            "rank": 46,
-            "spotify_id": "1Olcd45drMZhcfvBB5ug3c",
-            "name": "Bulwark Takes",
-            "publisher": "The Bulwark",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f2310bfab7aed066947f3b2c7",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/1Olcd45drMZhcfvBB5ug3c"
+            "rank": 38,
+            "spotify_id": "1chmgsT4aUJPmFlyGXIDGN",
+            "name": "The Keith Edwards Show",
+            "publisher": "Keith Edwards",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fbeae7141c322eb61ceb5f324",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/1chmgsT4aUJPmFlyGXIDGN"
         },
         {
-            "rank": 47,
+            "rank": 39,
+            "spotify_id": "1alpjXkCUjn3Y9fR5xl8fZ",
+            "name": "Reuters World News ",
+            "publisher": "Reuters",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f9b223b9db7838b52f792a9c1",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/1alpjXkCUjn3Y9fR5xl8fZ"
+        },
+        {
+            "rank": 40,
+            "spotify_id": "31ZL74w0W9CUGHFWZPGDf5",
+            "name": "Piers Morgan Uncensored",
+            "publisher": "Piers Morgan Uncensored",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f26157912c2b60ed7f8e7f935",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/31ZL74w0W9CUGHFWZPGDf5"
+        },
+        {
+            "rank": 41,
+            "spotify_id": "2blgbg4OaN5dqFhkBy12ii",
+            "name": "The Trish Regan Show",
+            "publisher": "Trish Regan",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f4b5d6fe9923ec28cce1c6942",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/2blgbg4OaN5dqFhkBy12ii"
+        },
+        {
+            "rank": 42,
             "spotify_id": "7ILdz7rW4cEobzdeKK3jpV",
             "name": "Liberty Vault",
             "publisher": "Liberty Vault",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f67d7340a96dfdf55089e264a",
-            "rank_move": "UNCHANGED",
+            "rank_move": "DOWN",
             "url": "https:\/\/open.spotify.com\/show\/7ILdz7rW4cEobzdeKK3jpV"
         },
         {
-            "rank": 48,
-            "spotify_id": "3Z6JdCS2d0eFEpXHKI6WqH",
-            "name": "Consider This from NPR",
-            "publisher": "NPR",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fe3533442766461166989e5c8",
+            "rank": 43,
+            "spotify_id": "2HQ0xANSYpBvxvsEMuYxP9",
+            "name": "Louder with Crowder",
+            "publisher": "Louder with Crowder",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f10f8dd6ac9615d3bbbb6e71b",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/2HQ0xANSYpBvxvsEMuYxP9"
+        },
+        {
+            "rank": 44,
+            "spotify_id": "7yfYvyKNKAuuqSX3PVyRYi",
+            "name": "The Rachel Maddow Show",
+            "publisher": "Rachel Maddow, MS NOW",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f777c7ddab41d720230467a98",
             "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/3Z6JdCS2d0eFEpXHKI6WqH"
+            "url": "https:\/\/open.spotify.com\/show\/7yfYvyKNKAuuqSX3PVyRYi"
+        },
+        {
+            "rank": 45,
+            "spotify_id": "581OhiIm69lqSyNRbBkXnf",
+            "name": "The Opinions",
+            "publisher": "The New York Times Opinion",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fc29144c88fd1daa0ad675581",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/581OhiIm69lqSyNRbBkXnf"
+        },
+        {
+            "rank": 46,
+            "spotify_id": "3ljAZqaEXyT2MAC8hfO0cR",
+            "name": "The Glenn Beck Program",
+            "publisher": "Mercury Radio Arts",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f5d3be1eee86b4c93932c91af",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/3ljAZqaEXyT2MAC8hfO0cR"
+        },
+        {
+            "rank": 47,
+            "spotify_id": "6bmhSFLKtApYClEuSH8q42",
+            "name": "Interesting Times with Ross Douthat",
+            "publisher": "New York Times Opinion",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f5aed55f1d69c1c6ac5d90d7c",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/6bmhSFLKtApYClEuSH8q42"
+        },
+        {
+            "rank": 48,
+            "spotify_id": "1Olcd45drMZhcfvBB5ug3c",
+            "name": "Bulwark Takes",
+            "publisher": "The Bulwark",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f2310bfab7aed066947f3b2c7",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/1Olcd45drMZhcfvBB5ug3c"
         },
         {
             "rank": 49,
-            "spotify_id": "68DPd6QU2iOqcmtyCVzo4C",
-            "name": " The Adam Mockler Show",
-            "publisher": "MeidasTouch Network",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f8c30f544e56ff424b435a3f1",
+            "spotify_id": "4ZTHlQzCm7ipnRn1ypnl1Z",
+            "name": "The New Yorker Radio Hour",
+            "publisher": "WNYC Studios and The New Yorker",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f7a23ded4012188dcd04bce3c",
             "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/68DPd6QU2iOqcmtyCVzo4C"
+            "url": "https:\/\/open.spotify.com\/show\/4ZTHlQzCm7ipnRn1ypnl1Z"
         },
         {
             "rank": 50,
-            "spotify_id": "4K2gvVKzxlEx636qMFSooj",
-            "name": "Every Town",
-            "publisher": "Every Town",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f4717391706a63dd8ef4cd433",
+            "spotify_id": "5iFH0T9NXwxpD5PYVNV3NU",
+            "name": "The Daily Beast Podcast",
+            "publisher": "The Daily Beast",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f445623d636f924a8d3e1b733",
             "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/4K2gvVKzxlEx636qMFSooj"
+            "url": "https:\/\/open.spotify.com\/show\/5iFH0T9NXwxpD5PYVNV3NU"
         }
     ]
 }

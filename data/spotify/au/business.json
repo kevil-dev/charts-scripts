@@ -3,7 +3,7 @@
     "country": "au",
     "genre": "Business",
     "slug": "business",
-    "fetched_at": "2026-06-24T06:36:42Z",
+    "fetched_at": "2026-07-01T04:43:29Z",
     "count": 50,
     "shows": [
         {
@@ -17,6 +17,15 @@
         },
         {
             "rank": 2,
+            "spotify_id": "0W3GWublEOW75ufTa8vAGq",
+            "name": "Straight Talk with Mark Bouris",
+            "publisher": "Mentored.com.au",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fc0dd41a10ff2987f60f88693",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/0W3GWublEOW75ufTa8vAGq"
+        },
+        {
+            "rank": 3,
             "spotify_id": "3S1XdTyuhErGDAEgLEjl9c",
             "name": "She's On The Money",
             "publisher": "Victoria Devine",
@@ -25,21 +34,12 @@
             "url": "https:\/\/open.spotify.com\/show\/3S1XdTyuhErGDAEgLEjl9c"
         },
         {
-            "rank": 3,
-            "spotify_id": "0W3GWublEOW75ufTa8vAGq",
-            "name": "Straight Talk with Mark Bouris",
-            "publisher": "Mentored.com.au",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fc0dd41a10ff2987f60f88693",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/0W3GWublEOW75ufTa8vAGq"
-        },
-        {
             "rank": 4,
             "spotify_id": "2ZzAxuxFmQ1U78pL3RMxns",
             "name": "Equity Mates Investing Podcast",
             "publisher": "Equity Mates Media",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f940efddd6366be259c5ef0c2",
-            "rank_move": "DOWN",
+            "rank_move": "UNCHANGED",
             "url": "https:\/\/open.spotify.com\/show\/2ZzAxuxFmQ1U78pL3RMxns"
         },
         {
@@ -48,20 +48,11 @@
             "name": "Chanticleer",
             "publisher": "Australian Financial Review",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f747eadec39e61ff485dd41f3",
-            "rank_move": "UP",
+            "rank_move": "UNCHANGED",
             "url": "https:\/\/open.spotify.com\/show\/27y0OzlKNTUmdxTb8gcnok"
         },
         {
             "rank": 6,
-            "spotify_id": "6PdBKikfwpMZVdDMre5xPN",
-            "name": "How We Got Here with Chris Kohler",
-            "publisher": "Kohler Media",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f11c5ae5cb217536c2629cd55",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/6PdBKikfwpMZVdDMre5xPN"
-        },
-        {
-            "rank": 7,
             "spotify_id": "1Ii04MZEAoxLdHnjRtd5cG",
             "name": "Financial Audit",
             "publisher": "Caleb Hammer",
@@ -70,16 +61,16 @@
             "url": "https:\/\/open.spotify.com\/show\/1Ii04MZEAoxLdHnjRtd5cG"
         },
         {
-            "rank": 8,
-            "spotify_id": "6N6KqZOQeu7srMoEzSjNj2",
-            "name": "BigDeal",
-            "publisher": "Codie Sanchez",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f90aad320fdc5fb68aca0ddb9",
+            "rank": 7,
+            "spotify_id": "3FVOp5guWNV4b0S9pfuVcw",
+            "name": "PBD Podcast",
+            "publisher": "PBD Podcast",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f8acb2759f389a24949c57b2a",
             "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/6N6KqZOQeu7srMoEzSjNj2"
+            "url": "https:\/\/open.spotify.com\/show\/3FVOp5guWNV4b0S9pfuVcw"
         },
         {
-            "rank": 9,
+            "rank": 8,
             "spotify_id": "1E7URRrjKQScOnEfYmHylr",
             "name": "The Money Café with Alan Kohler",
             "publisher": "Intelligent Investor",
@@ -88,61 +79,61 @@
             "url": "https:\/\/open.spotify.com\/show\/1E7URRrjKQScOnEfYmHylr"
         },
         {
+            "rank": 9,
+            "spotify_id": "24kFVm2nDcDkXY5Rx4siev",
+            "name": "Big Business with Brittney Saunders",
+            "publisher": "Nova Podcasts",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f05cf2eb1404afb0f1f5da512",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/24kFVm2nDcDkXY5Rx4siev"
+        },
+        {
             "rank": 10,
-            "spotify_id": "3FVOp5guWNV4b0S9pfuVcw",
-            "name": "PBD Podcast",
-            "publisher": "PBD Podcast",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f8acb2759f389a24949c57b2a",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/3FVOp5guWNV4b0S9pfuVcw"
+            "spotify_id": "6N6KqZOQeu7srMoEzSjNj2",
+            "name": "BigDeal",
+            "publisher": "Codie Sanchez",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f90aad320fdc5fb68aca0ddb9",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/6N6KqZOQeu7srMoEzSjNj2"
         },
         {
             "rank": 11,
-            "spotify_id": "0KEsqdQgVCL6BKomPoNVOz",
-            "name": "Australian Finance Podcast",
-            "publisher": "Rask",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f307e560c38a499779cce779d",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/0KEsqdQgVCL6BKomPoNVOz"
-        },
-        {
-            "rank": 12,
-            "spotify_id": "0wjYlCNxLDgFUUjZMaP6Dx",
-            "name": "A Bit of Optimism",
-            "publisher": "The Optimism Company from Simon Sinek",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f886f282ed75375faff7e9cb4",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/0wjYlCNxLDgFUUjZMaP6Dx"
-        },
-        {
-            "rank": 13,
             "spotify_id": "4Akt4N53zsb4ldzFNlTwad",
             "name": "The Follio Property Podcast",
             "publisher": "Lachlan Delahunty and Reece Beddall",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f058a73e51ef56415f5df22e0",
-            "rank_move": "UP",
+            "rank_move": "UNCHANGED",
             "url": "https:\/\/open.spotify.com\/show\/4Akt4N53zsb4ldzFNlTwad"
         },
         {
-            "rank": 14,
+            "rank": 12,
+            "spotify_id": "0KEsqdQgVCL6BKomPoNVOz",
+            "name": "Australian Finance Podcast",
+            "publisher": "Rask",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f8dba29b37269df35fb5abac6",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/0KEsqdQgVCL6BKomPoNVOz"
+        },
+        {
+            "rank": 13,
             "spotify_id": "4rEvblIzyDs6WqH6mfH6lL",
             "name": "ABC Business Daily",
             "publisher": "ABC Australia",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1ff552d644922edad052602648",
-            "rank_move": "UP",
+            "rank_move": "UNCHANGED",
             "url": "https:\/\/open.spotify.com\/show\/4rEvblIzyDs6WqH6mfH6lL"
         },
         {
-            "rank": 15,
+            "rank": 14,
             "spotify_id": "30Uj92DHhMF2hP0uXyFt3l",
             "name": "CommSec Market Update",
             "publisher": "CommSec",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f09eab039b9378f333ed27bda",
-            "rank_move": "UP",
+            "rank_move": "UNCHANGED",
             "url": "https:\/\/open.spotify.com\/show\/30Uj92DHhMF2hP0uXyFt3l"
         },
         {
-            "rank": 16,
+            "rank": 15,
             "spotify_id": "6YNopzKDGDwf0auIpPTIID",
             "name": "The Game with Alex Hormozi",
             "publisher": "Alex Hormozi",
@@ -151,70 +142,70 @@
             "url": "https:\/\/open.spotify.com\/show\/6YNopzKDGDwf0auIpPTIID"
         },
         {
-            "rank": 17,
-            "spotify_id": "3xLKbESE2oU2yIwzUpQRt9",
-            "name": "Money Mentor Podcast",
-            "publisher": "Graeme Holm",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f424f8c17addda7b68a39a1cb",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/3xLKbESE2oU2yIwzUpQRt9"
-        },
-        {
-            "rank": 18,
-            "spotify_id": "09ofZB3Y6309Q88HZSzlop",
-            "name": "The Property Couch",
-            "publisher": "Bryce Holdaway & Ben Kingsley",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f63ee6fc3d820f0382cb6dc70",
+            "rank": 16,
+            "spotify_id": "0wjYlCNxLDgFUUjZMaP6Dx",
+            "name": "A Bit of Optimism",
+            "publisher": "The Optimism Company from Simon Sinek",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f886f282ed75375faff7e9cb4",
             "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/09ofZB3Y6309Q88HZSzlop"
+            "url": "https:\/\/open.spotify.com\/show\/0wjYlCNxLDgFUUjZMaP6Dx"
         },
         {
-            "rank": 19,
+            "rank": 17,
             "spotify_id": "6En4QYQReKYE5BQvpyvw4C",
             "name": "FEAR & GREED | Business News",
             "publisher": "Fear and Greed",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fad51bead84a08da684990269",
-            "rank_move": "UP",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fde7450a2c99d94ee3e97e709",
+            "rank_move": "UNCHANGED",
             "url": "https:\/\/open.spotify.com\/show\/6En4QYQReKYE5BQvpyvw4C"
         },
         {
-            "rank": 20,
+            "rank": 18,
+            "spotify_id": "1Uh7KMBji1BptMsUS4tNNM",
+            "name": "Working Hard with Grace Beverley",
+            "publisher": "Grace Beverley",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f30bec3f052c237bdb996877e",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/1Uh7KMBji1BptMsUS4tNNM"
+        },
+        {
+            "rank": 19,
             "spotify_id": "1XflIryhmXHszEXC3M6Az1",
             "name": "money money money",
             "publisher": "Glen James",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f043dcf7942f52f39e8dad53b",
-            "rank_move": "UP",
+            "rank_move": "UNCHANGED",
             "url": "https:\/\/open.spotify.com\/show\/1XflIryhmXHszEXC3M6Az1"
         },
         {
-            "rank": 21,
-            "spotify_id": "5K4NkKXa8Cqxuoed1jBGwO",
-            "name": "In The Blink of AI with Georgie Healy",
-            "publisher": "Day One®",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f68f95b087ebac797e444467f",
+            "rank": 20,
+            "spotify_id": "09ofZB3Y6309Q88HZSzlop",
+            "name": "The Property Couch",
+            "publisher": "Ben Kingsley, Opti & The Couch Crew",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f63ee6fc3d820f0382cb6dc70",
             "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/5K4NkKXa8Cqxuoed1jBGwO"
+            "url": "https:\/\/open.spotify.com\/show\/09ofZB3Y6309Q88HZSzlop"
+        },
+        {
+            "rank": 21,
+            "spotify_id": "6PdBKikfwpMZVdDMre5xPN",
+            "name": "How We Got Here with Chris Kohler",
+            "publisher": "Kohler Media",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f11c5ae5cb217536c2629cd55",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/6PdBKikfwpMZVdDMre5xPN"
         },
         {
             "rank": 22,
-            "spotify_id": "24kFVm2nDcDkXY5Rx4siev",
-            "name": "Big Business with Brittney Saunders",
-            "publisher": "Nova Podcasts",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f05cf2eb1404afb0f1f5da512",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/24kFVm2nDcDkXY5Rx4siev"
+            "spotify_id": "3xLKbESE2oU2yIwzUpQRt9",
+            "name": "Money Mentor Podcast",
+            "publisher": "Graeme Holm",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f424f8c17addda7b68a39a1cb",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/3xLKbESE2oU2yIwzUpQRt9"
         },
         {
             "rank": 23,
-            "spotify_id": "5exfRPDNCBHmntEkJrlLmX",
-            "name": "The Ramsey Show",
-            "publisher": "Ramsey Network",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1ffb6a67da4acead131c6a5516",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/5exfRPDNCBHmntEkJrlLmX"
-        },
-        {
-            "rank": 24,
             "spotify_id": "4GSSCIvCMhhTOj1WmP0uE8",
             "name": "UNEMPLOYABLE",
             "publisher": "Unemployable Media",
@@ -223,133 +214,79 @@
             "url": "https:\/\/open.spotify.com\/show\/4GSSCIvCMhhTOj1WmP0uE8"
         },
         {
-            "rank": 25,
-            "spotify_id": "7syF2ry9j6nqYc656WHBA7",
-            "name": "Prof G Markets",
-            "publisher": "Vox Media Podcast Network",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f52960336b940e96fb6c74d4c",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/7syF2ry9j6nqYc656WHBA7"
-        },
-        {
-            "rank": 26,
+            "rank": 24,
             "spotify_id": "6RhitW2pBXlhKnXPVFF5Ok",
             "name": "Australian Investors Podcast",
             "publisher": "Rask",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fa641655ac85672d10b772dab",
-            "rank_move": "UP",
+            "rank_move": "UNCHANGED",
             "url": "https:\/\/open.spotify.com\/show\/6RhitW2pBXlhKnXPVFF5Ok"
         },
         {
-            "rank": 27,
-            "spotify_id": "6dovtoi26Hopway71ZdWGK",
-            "name": "Aussie FIRE | Financial Independence Retire Early",
-            "publisher": "Hayden Smith & Dave Gow",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f24e0404bc63f61d3424588e1",
+            "rank": 25,
+            "spotify_id": "5exfRPDNCBHmntEkJrlLmX",
+            "name": "The Ramsey Show",
+            "publisher": "Ramsey Network",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1ffb6a67da4acead131c6a5516",
             "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/6dovtoi26Hopway71ZdWGK"
+            "url": "https:\/\/open.spotify.com\/show\/5exfRPDNCBHmntEkJrlLmX"
+        },
+        {
+            "rank": 26,
+            "spotify_id": "7syF2ry9j6nqYc656WHBA7",
+            "name": "Prof G Markets",
+            "publisher": "Vox Media Podcast Network",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f52960336b940e96fb6c74d4c",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/7syF2ry9j6nqYc656WHBA7"
+        },
+        {
+            "rank": 27,
+            "spotify_id": "5d56fHpiYdxjQGQAdEH2f6",
+            "name": "Hot Smart Rich with Maggie Sellers Reum",
+            "publisher": "FlightStory",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f0070093753efdc904f101bd2",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/5d56fHpiYdxjQGQAdEH2f6"
         },
         {
             "rank": 28,
-            "spotify_id": "57F7k7o79fFKSk5o5DWWLq",
-            "name": "Australian Property Podcast",
-            "publisher": "Rask",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f583e09afa126747fab2cd2bc",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/57F7k7o79fFKSk5o5DWWLq"
-        },
-        {
-            "rank": 29,
-            "spotify_id": "0LsIJIsFh7AhvtAZ09EPcK",
-            "name": "Money of Mine",
-            "publisher": "Mineral Media",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f811629e33b50788373debe1e",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/0LsIJIsFh7AhvtAZ09EPcK"
-        },
-        {
-            "rank": 30,
             "spotify_id": "0HckzceL2rzplaJ22LMooN",
             "name": "Get Started Investing",
             "publisher": "Equity Mates Media",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fb4da1e9daff6daf34ced021d",
-            "rank_move": "UNCHANGED",
+            "rank_move": "DOWN",
             "url": "https:\/\/open.spotify.com\/show\/0HckzceL2rzplaJ22LMooN"
         },
         {
+            "rank": 29,
+            "spotify_id": "57F7k7o79fFKSk5o5DWWLq",
+            "name": "Australian Property Podcast",
+            "publisher": "Rask",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f583e09afa126747fab2cd2bc",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/57F7k7o79fFKSk5o5DWWLq"
+        },
+        {
+            "rank": 30,
+            "spotify_id": "6dovtoi26Hopway71ZdWGK",
+            "name": "Aussie FIRE | Financial Independence Retire Early",
+            "publisher": "Hayden Smith & Dave Gow",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f24e0404bc63f61d3424588e1",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/6dovtoi26Hopway71ZdWGK"
+        },
+        {
             "rank": 31,
-            "spotify_id": "0Yz44z9z3t8VQu4WRmsrs6",
-            "name": "Lemonade Stand",
-            "publisher": "Vox Media Podcast Network",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f45219dbc5b24e2f702a56613",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/0Yz44z9z3t8VQu4WRmsrs6"
-        },
-        {
-            "rank": 32,
-            "spotify_id": "2807p01KIe4RRFjRTB5o25",
-            "name": "Garys Economics",
-            "publisher": "Gary Stevenson",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f6f6d1571fdfd92772296b411",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/2807p01KIe4RRFjRTB5o25"
-        },
-        {
-            "rank": 33,
-            "spotify_id": "4VFZ2Xodgh5tAJ3HxZoWPu",
-            "name": "Motley Fool Money",
-            "publisher": "LiSTNR",
-            "artwork": "https:\/\/i.scdn.co\/image\/6c75525b1dec194f1652024e1e307ae844ce7fa2",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/4VFZ2Xodgh5tAJ3HxZoWPu"
-        },
-        {
-            "rank": 34,
-            "spotify_id": "1V0NXT2ofFcnIP3MGEHjU1",
-            "name": "No Bullsh!t Leadership",
-            "publisher": "Martin G Moore",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f5625353268d77a9c0de5278c",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/1V0NXT2ofFcnIP3MGEHjU1"
-        },
-        {
-            "rank": 35,
-            "spotify_id": "1MV1uXp6AO1sDgMzMpjjQg",
-            "name": "Scouting Australia Podcast",
-            "publisher": "Australian Property Scout",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f9e0d47af0bedf49b16ffd6e6",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/1MV1uXp6AO1sDgMzMpjjQg"
-        },
-        {
-            "rank": 36,
             "spotify_id": "4hwfvVZmwQC9hckPABZtiG",
             "name": "The Money Puzzle",
             "publisher": "The Australian",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f7c5e93638e1581b27d1d23d2",
-            "rank_move": "UP",
+            "rank_move": "UNCHANGED",
             "url": "https:\/\/open.spotify.com\/show\/4hwfvVZmwQC9hckPABZtiG"
         },
         {
-            "rank": 37,
-            "spotify_id": "1Uh7KMBji1BptMsUS4tNNM",
-            "name": "Working Hard with Grace Beverley",
-            "publisher": "Grace Beverley",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f30bec3f052c237bdb996877e",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/1Uh7KMBji1BptMsUS4tNNM"
-        },
-        {
-            "rank": 38,
-            "spotify_id": "5Y1NyT6srGx38f5LINbH6c",
-            "name": "Moonshots with Peter Diamandis",
-            "publisher": "PHD Ventures",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f2c33a17267fd1e99d551f2b4",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/5Y1NyT6srGx38f5LINbH6c"
-        },
-        {
-            "rank": 39,
+            "rank": 32,
             "spotify_id": "7CWEEu0rCWgtxeSOak65Hm",
             "name": "The Flamingo Property Investing Podcast with Jack Henderson",
             "publisher": "Jack Henderson",
@@ -358,43 +295,52 @@
             "url": "https:\/\/open.spotify.com\/show\/7CWEEu0rCWgtxeSOak65Hm"
         },
         {
-            "rank": 40,
-            "spotify_id": "1vtu7Z7duC9qPdjRKNWWmO",
-            "name": "I Want Your Job",
-            "publisher": "Camille Allen",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fac616193dfb8147c03984890",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/1vtu7Z7duC9qPdjRKNWWmO"
+            "rank": 33,
+            "spotify_id": "0Yz44z9z3t8VQu4WRmsrs6",
+            "name": "Lemonade Stand",
+            "publisher": "Vox Media Podcast Network",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f45219dbc5b24e2f702a56613",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/0Yz44z9z3t8VQu4WRmsrs6"
         },
         {
-            "rank": 41,
-            "spotify_id": "5bPX8C8gQLUtvZkPVSp7ss",
-            "name": "The Curve",
-            "publisher": "The Curve Platform",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f2805432e9c1a45db3f7752a7",
+            "rank": 34,
+            "spotify_id": "0LsIJIsFh7AhvtAZ09EPcK",
+            "name": "Money of Mine",
+            "publisher": "Mineral Media",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f811629e33b50788373debe1e",
             "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/5bPX8C8gQLUtvZkPVSp7ss"
+            "url": "https:\/\/open.spotify.com\/show\/0LsIJIsFh7AhvtAZ09EPcK"
         },
         {
-            "rank": 42,
-            "spotify_id": "6UEj6JvBGvxCNw4z44nV6m",
-            "name": "Get Rich Slow Club",
-            "publisher": "Ana Kresina & Natasha Etschmann",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f34abc54df195d5a4e487408d",
+            "rank": 35,
+            "spotify_id": "1MV1uXp6AO1sDgMzMpjjQg",
+            "name": "Scouting Australia Podcast",
+            "publisher": "Australian Property Scout",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f9e0d47af0bedf49b16ffd6e6",
             "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/6UEj6JvBGvxCNw4z44nV6m"
+            "url": "https:\/\/open.spotify.com\/show\/1MV1uXp6AO1sDgMzMpjjQg"
         },
         {
-            "rank": 43,
-            "spotify_id": "2hGCdojNmrJYUg5TpU3VVN",
-            "name": "Open Book with Anthony Scaramucci",
-            "publisher": "SALT  & Goalhanger ",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f4855b022cdb62af26d6fec96",
+            "rank": 36,
+            "spotify_id": "4VFZ2Xodgh5tAJ3HxZoWPu",
+            "name": "Motley Fool Money",
+            "publisher": "LiSTNR",
+            "artwork": "https:\/\/i.scdn.co\/image\/6c75525b1dec194f1652024e1e307ae844ce7fa2",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/4VFZ2Xodgh5tAJ3HxZoWPu"
+        },
+        {
+            "rank": 37,
+            "spotify_id": "4RQFlH3nGMgXrEsM3ZTBgS",
+            "name": "Jimmy Talks Construction",
+            "publisher": "James Starbuck",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f4bf3a410a303382ef0633b86",
             "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/2hGCdojNmrJYUg5TpU3VVN"
+            "url": "https:\/\/open.spotify.com\/show\/4RQFlH3nGMgXrEsM3ZTBgS"
         },
         {
-            "rank": 44,
+            "rank": 38,
             "spotify_id": "6fWXbLsTriqegmmJKWH8eS",
             "name": "Investopoly",
             "publisher": "Stuart Wemyss & Campbell Wallace",
@@ -403,22 +349,76 @@
             "url": "https:\/\/open.spotify.com\/show\/6fWXbLsTriqegmmJKWH8eS"
         },
         {
-            "rank": 45,
-            "spotify_id": "5jZWXx9QpPaE0VQYFoBBnt",
-            "name": "Dirt and All",
-            "publisher": "Dirt and All",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1ffb6f5b18b6514442344aa434",
+            "rank": 39,
+            "spotify_id": "1V0NXT2ofFcnIP3MGEHjU1",
+            "name": "No Bullsh!t Leadership",
+            "publisher": "Martin G Moore",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f5625353268d77a9c0de5278c",
             "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/5jZWXx9QpPaE0VQYFoBBnt"
+            "url": "https:\/\/open.spotify.com\/show\/1V0NXT2ofFcnIP3MGEHjU1"
         },
         {
-            "rank": 46,
+            "rank": 40,
+            "spotify_id": "2807p01KIe4RRFjRTB5o25",
+            "name": "Garys Economics",
+            "publisher": "Gary Stevenson",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f6f6d1571fdfd92772296b411",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/2807p01KIe4RRFjRTB5o25"
+        },
+        {
+            "rank": 41,
+            "spotify_id": "5Y1NyT6srGx38f5LINbH6c",
+            "name": "Moonshots with Peter Diamandis",
+            "publisher": "PHD Ventures",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f2c33a17267fd1e99d551f2b4",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/5Y1NyT6srGx38f5LINbH6c"
+        },
+        {
+            "rank": 42,
+            "spotify_id": "6UEj6JvBGvxCNw4z44nV6m",
+            "name": "Get Rich Slow Club",
+            "publisher": "Ana Kresina & Natasha Etschmann",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f34abc54df195d5a4e487408d",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/6UEj6JvBGvxCNw4z44nV6m"
+        },
+        {
+            "rank": 43,
             "spotify_id": "39poaGO6oBRFN6cVOIl4yL",
             "name": "Aspire with Emma Grede",
             "publisher": "Emma Grede | Audacy",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f23b127ec638a5dfe1572fb84",
-            "rank_move": "UNCHANGED",
+            "rank_move": "UP",
             "url": "https:\/\/open.spotify.com\/show\/39poaGO6oBRFN6cVOIl4yL"
+        },
+        {
+            "rank": 44,
+            "spotify_id": "1jLSVe8IIeOdecOdHV7Puz",
+            "name": "Retire Right",
+            "publisher": "Glen James",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f8d75bd3b520c7a89f3690235",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/1jLSVe8IIeOdecOdHV7Puz"
+        },
+        {
+            "rank": 45,
+            "spotify_id": "7sIQ2t8MqpSq4lix18jI2I",
+            "name": "Life Wide Open with CboysTV",
+            "publisher": "CboysTV",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f780ca4c80a0cd3381c0581aa",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/7sIQ2t8MqpSq4lix18jI2I"
+        },
+        {
+            "rank": 46,
+            "spotify_id": "6ll0MwobDt1JW9gYaOONEo",
+            "name": "Think Fast Talk Smart: Communication Techniques",
+            "publisher": "Think Fast Talk Smart",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1feb3cad87ca9039312ea461a5",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/6ll0MwobDt1JW9gYaOONEo"
         },
         {
             "rank": 47,
@@ -426,35 +426,35 @@
             "name": "The Prof G Pod with Scott Galloway",
             "publisher": "Vox Media Podcast Network",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fd3fc7e5bbb2cd7ada59b7a68",
-            "rank_move": "UNCHANGED",
+            "rank_move": "UP",
             "url": "https:\/\/open.spotify.com\/show\/5Ob5psTjoUtIGYxKUp2QVy"
         },
         {
             "rank": 48,
-            "spotify_id": "1jLSVe8IIeOdecOdHV7Puz",
-            "name": "Retire Right",
-            "publisher": "Glen James",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f8d75bd3b520c7a89f3690235",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/1jLSVe8IIeOdecOdHV7Puz"
+            "spotify_id": "4uAbxfFjKd2uaKJzbDV1QX",
+            "name": "15 Minutes with the Boss",
+            "publisher": "The Australian Financial Review",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f0ca8cc4fc13ca261d496f03c",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/4uAbxfFjKd2uaKJzbDV1QX"
         },
         {
             "rank": 49,
-            "spotify_id": "7sIQ2t8MqpSq4lix18jI2I",
-            "name": "Life Wide Open with CboysTV",
-            "publisher": "CboysTV",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f780ca4c80a0cd3381c0581aa",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/7sIQ2t8MqpSq4lix18jI2I"
+            "spotify_id": "1VyK52NSZHaDKeMJzT4TSM",
+            "name": "The Knowledge Project",
+            "publisher": "Shane Parrish",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f193bfd4c1f7a5b7f1f312fac",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/1VyK52NSZHaDKeMJzT4TSM"
         },
         {
             "rank": 50,
-            "spotify_id": "4RQFlH3nGMgXrEsM3ZTBgS",
-            "name": "Jimmy Talks Construction",
-            "publisher": "James Starbuck",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f4bf3a410a303382ef0633b86",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/4RQFlH3nGMgXrEsM3ZTBgS"
+            "spotify_id": "7irxBvxNqGYnUdFo1c2gMc",
+            "name": "Jocko Podcast",
+            "publisher": "Jocko DEFCOR Network",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f0537dba138113eef7649f3d8",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/7irxBvxNqGYnUdFo1c2gMc"
         }
     ]
 }

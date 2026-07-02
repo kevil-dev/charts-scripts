@@ -3,20 +3,29 @@
     "country": "gb",
     "genre": "Health & Fitness",
     "slug": "health-fitness",
-    "fetched_at": "2026-06-24T06:36:27Z",
+    "fetched_at": "2026-07-01T04:43:13Z",
     "count": 50,
     "shows": [
         {
             "rank": 1,
-            "spotify_id": "5EqqB52m2bsr4k1Ii7sStc",
-            "name": "On Purpose with Jay Shetty",
-            "publisher": "iHeartPodcasts",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fd9624e2ec50d7c5eb6213d21",
+            "spotify_id": "50dXIlgv3fZYUXWJLfjkUR",
+            "name": "Lottie Murphy Pilates",
+            "publisher": "Lottie Murphy Pilates",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f3aae9cc5a708f2c0101f7a54",
             "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/5EqqB52m2bsr4k1Ii7sStc"
+            "url": "https:\/\/open.spotify.com\/show\/50dXIlgv3fZYUXWJLfjkUR"
         },
         {
             "rank": 2,
+            "spotify_id": "0A4wuGuqnetkeBwxPdcyqn",
+            "name": "MAN ALIVE with Dr Jeff Foster | Men's Health Podcast",
+            "publisher": "Voy Men's Health and Wellness",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f2e632a1c829d3cc3b3dd9eb6",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/0A4wuGuqnetkeBwxPdcyqn"
+        },
+        {
+            "rank": 3,
             "spotify_id": "79CkJF3UJTHFV8Dse3Oy0P",
             "name": "Huberman Lab",
             "publisher": "Scicomm Media",
@@ -25,7 +34,7 @@
             "url": "https:\/\/open.spotify.com\/show\/79CkJF3UJTHFV8Dse3Oy0P"
         },
         {
-            "rank": 3,
+            "rank": 4,
             "spotify_id": "6NyPQfcSR9nj0DPDr2ixrK",
             "name": "Feel Better, Live More with Dr Rangan Chatterjee",
             "publisher": "Dr Rangan Chatterjee: GP & Author",
@@ -34,7 +43,7 @@
             "url": "https:\/\/open.spotify.com\/show\/6NyPQfcSR9nj0DPDr2ixrK"
         },
         {
-            "rank": 4,
+            "rank": 5,
             "spotify_id": "5mSCDO2x32DwnwDdtYvM6L",
             "name": "Guided Sleep Meditation & Sleep Hypnosis from Sleep Cove",
             "publisher": "Sleep Hypnosis, Meditations and Bedtime Stories",
@@ -43,7 +52,16 @@
             "url": "https:\/\/open.spotify.com\/show\/5mSCDO2x32DwnwDdtYvM6L"
         },
         {
-            "rank": 5,
+            "rank": 6,
+            "spotify_id": "5EqqB52m2bsr4k1Ii7sStc",
+            "name": "On Purpose with Jay Shetty",
+            "publisher": "iHeartPodcasts",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fd9624e2ec50d7c5eb6213d21",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/5EqqB52m2bsr4k1Ii7sStc"
+        },
+        {
+            "rank": 7,
             "spotify_id": "1xDawqT8Cgm6HAnbpFX5T5",
             "name": "ZOE Science & Nutrition",
             "publisher": "ZOE",
@@ -52,16 +70,7 @@
             "url": "https:\/\/open.spotify.com\/show\/1xDawqT8Cgm6HAnbpFX5T5"
         },
         {
-            "rank": 6,
-            "spotify_id": "0RxsgH2rGo40esXKht3A7o",
-            "name": "UNTAPPED with Spencer Matthews",
-            "publisher": "High Performance",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f141c9c3e71450466a6b19a06",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/0RxsgH2rGo40esXKht3A7o"
-        },
-        {
-            "rank": 7,
+            "rank": 8,
             "spotify_id": "1J6Ddy4dcXjFZDmWQs3Pu0",
             "name": "Happy Place",
             "publisher": "Fearne Cotton",
@@ -70,7 +79,16 @@
             "url": "https:\/\/open.spotify.com\/show\/1J6Ddy4dcXjFZDmWQs3Pu0"
         },
         {
-            "rank": 8,
+            "rank": 9,
+            "spotify_id": "0RxsgH2rGo40esXKht3A7o",
+            "name": "UNTAPPED with Spencer Matthews",
+            "publisher": "High Performance",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f141c9c3e71450466a6b19a06",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/0RxsgH2rGo40esXKht3A7o"
+        },
+        {
+            "rank": 10,
             "spotify_id": "654O6jq7R0rG4qnPP3bQnD",
             "name": "Sleep Escape: Sleep Meditation & Hypnosis",
             "publisher": "Sleepy Tyler",
@@ -79,16 +97,16 @@
             "url": "https:\/\/open.spotify.com\/show\/654O6jq7R0rG4qnPP3bQnD"
         },
         {
-            "rank": 9,
-            "spotify_id": "371UdLohffgSlWAEuQ55Hi",
-            "name": "ADHD Chatter",
-            "publisher": "Alex Partridge",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f23e69d054d5a0ea5fd93797d",
+            "rank": 11,
+            "spotify_id": "4otE9cHbDy6zGBr9k9Maen",
+            "name": "No Appointment Necessary ",
+            "publisher": "Made You Look Studios",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f02e38f1f6e97cb7eaaee9475",
             "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/371UdLohffgSlWAEuQ55Hi"
+            "url": "https:\/\/open.spotify.com\/show\/4otE9cHbDy6zGBr9k9Maen"
         },
         {
-            "rank": 10,
+            "rank": 12,
             "spotify_id": "69Jm0pfRlpnaBDaioynNaX",
             "name": "A Zen Mind Guided Meditations",
             "publisher": "Jo Rose | A Zen Mind",
@@ -97,34 +115,34 @@
             "url": "https:\/\/open.spotify.com\/show\/69Jm0pfRlpnaBDaioynNaX"
         },
         {
-            "rank": 11,
-            "spotify_id": "4otE9cHbDy6zGBr9k9Maen",
-            "name": "No Appointment Necessary ",
-            "publisher": "Made You Look Studios",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f02e38f1f6e97cb7eaaee9475",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/4otE9cHbDy6zGBr9k9Maen"
-        },
-        {
-            "rank": 12,
+            "rank": 13,
             "spotify_id": "7F6YqGJ06UEuD7qG81tFHw",
             "name": "The Wellness Scoop",
             "publisher": "The Wellness Scoop",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fc3a83d3051ea65cc71f28969",
-            "rank_move": "UNCHANGED",
+            "rank_move": "UP",
             "url": "https:\/\/open.spotify.com\/show\/7F6YqGJ06UEuD7qG81tFHw"
         },
         {
-            "rank": 13,
+            "rank": 14,
             "spotify_id": "0n5EkuynTmtA3ZckiZ5C7J",
             "name": "On The Mend",
             "publisher": "High Performance",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f0b8860506a6fd42b9460b54b",
-            "rank_move": "UNCHANGED",
+            "rank_move": "DOWN",
             "url": "https:\/\/open.spotify.com\/show\/0n5EkuynTmtA3ZckiZ5C7J"
         },
         {
-            "rank": 14,
+            "rank": 15,
+            "spotify_id": "371UdLohffgSlWAEuQ55Hi",
+            "name": "ADHD Chatter",
+            "publisher": "Alex Partridge",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f23e69d054d5a0ea5fd93797d",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/371UdLohffgSlWAEuQ55Hi"
+        },
+        {
+            "rank": 16,
             "spotify_id": "2HGcJRYrjGnpce6bRp8UXm",
             "name": "The Psychology of your 20s",
             "publisher": "iHeartPodcasts",
@@ -133,7 +151,7 @@
             "url": "https:\/\/open.spotify.com\/show\/2HGcJRYrjGnpce6bRp8UXm"
         },
         {
-            "rank": 15,
+            "rank": 17,
             "spotify_id": "706hylM6zaDW8LrrYxcggQ",
             "name": "The Mindset Mentor",
             "publisher": "Rob Dial",
@@ -142,7 +160,7 @@
             "url": "https:\/\/open.spotify.com\/show\/706hylM6zaDW8LrrYxcggQ"
         },
         {
-            "rank": 16,
+            "rank": 18,
             "spotify_id": "0edOBjruWV6Juxf42WjGxw",
             "name": "Get Sleepy: Sleep meditation and stories",
             "publisher": "Slumber Studios",
@@ -151,7 +169,7 @@
             "url": "https:\/\/open.spotify.com\/show\/0edOBjruWV6Juxf42WjGxw"
         },
         {
-            "rank": 17,
+            "rank": 19,
             "spotify_id": "5viLYizHD4Zy6J42iqtPRo",
             "name": "Her Discussions by Dr Faye",
             "publisher": "Dr Faye Bate",
@@ -160,34 +178,25 @@
             "url": "https:\/\/open.spotify.com\/show\/5viLYizHD4Zy6J42iqtPRo"
         },
         {
-            "rank": 18,
-            "spotify_id": "6rmydpcCvLzN4744S1fCsW",
-            "name": "Meditation Mountain",
-            "publisher": "Guided Meditation",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fabfeab8784dccdf9e1bc22aa",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/6rmydpcCvLzN4744S1fCsW"
-        },
-        {
-            "rank": 19,
+            "rank": 20,
             "spotify_id": "6wegpF4BHu5dQG7sTg1Cz9",
             "name": "Nothing much happens: bedtime stories to help you sleep",
             "publisher": "Wellness Loud",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1faedfaf17c40a23a11460ab2a",
-            "rank_move": "UP",
+            "rank_move": "UNCHANGED",
             "url": "https:\/\/open.spotify.com\/show\/6wegpF4BHu5dQG7sTg1Cz9"
         },
         {
-            "rank": 20,
-            "spotify_id": "3rDR8CfpIEMpITG2UC3w5W",
-            "name": "Maintenance Phase",
-            "publisher": "Aubrey Gordon & Michael Hobbes",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fb24e61585e295154984d25d8",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/3rDR8CfpIEMpITG2UC3w5W"
+            "rank": 21,
+            "spotify_id": "6rmydpcCvLzN4744S1fCsW",
+            "name": "Meditation Mountain",
+            "publisher": "Guided Meditation",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fabfeab8784dccdf9e1bc22aa",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/6rmydpcCvLzN4744S1fCsW"
         },
         {
-            "rank": 21,
+            "rank": 22,
             "spotify_id": "5eTzsIIlMeamYqJfsvNnuU",
             "name": "8 Hour Sleep Music",
             "publisher": "8 Hour Sleep Music",
@@ -196,7 +205,7 @@
             "url": "https:\/\/open.spotify.com\/show\/5eTzsIIlMeamYqJfsvNnuU"
         },
         {
-            "rank": 22,
+            "rank": 23,
             "spotify_id": "7iAVJ3zVTGv9omVDXrqlyG",
             "name": "Audice Wellness Services",
             "publisher": "Audice Nasser, Ph.D. Clinical Counselling Hypnotherapist",
@@ -205,7 +214,16 @@
             "url": "https:\/\/open.spotify.com\/show\/7iAVJ3zVTGv9omVDXrqlyG"
         },
         {
-            "rank": 23,
+            "rank": 24,
+            "spotify_id": "3rDR8CfpIEMpITG2UC3w5W",
+            "name": "Maintenance Phase",
+            "publisher": "Aubrey Gordon & Michael Hobbes",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fb24e61585e295154984d25d8",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/3rDR8CfpIEMpITG2UC3w5W"
+        },
+        {
+            "rank": 25,
             "spotify_id": "0E1xId0kQ1IDGCcf0JADQQ",
             "name": "The Hypnotist",
             "publisher": "Adam Cox",
@@ -214,16 +232,7 @@
             "url": "https:\/\/open.spotify.com\/show\/0E1xId0kQ1IDGCcf0JADQQ"
         },
         {
-            "rank": 24,
-            "spotify_id": "7dCctfyI9bODGDaFnjfKhg",
-            "name": "The Dr Louise Newson Podcast",
-            "publisher": "Dr Louise Newson",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fe875a2fde4e8b4eab62adfae",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/7dCctfyI9bODGDaFnjfKhg"
-        },
-        {
-            "rank": 25,
+            "rank": 26,
             "spotify_id": "60UBEVwVlYmVIoFvuqcCBA",
             "name": "Boho Beautiful Meditation",
             "publisher": "Boho Beautiful Meditation",
@@ -232,7 +241,7 @@
             "url": "https:\/\/open.spotify.com\/show\/60UBEVwVlYmVIoFvuqcCBA"
         },
         {
-            "rank": 26,
+            "rank": 27,
             "spotify_id": "6h64SmfrxlbE0CoAPRGCjF",
             "name": "The Jake Dearden Podcast",
             "publisher": "Jake Dearden",
@@ -241,43 +250,7 @@
             "url": "https:\/\/open.spotify.com\/show\/6h64SmfrxlbE0CoAPRGCjF"
         },
         {
-            "rank": 27,
-            "spotify_id": "1nOcSqZp6UMA1Dg9sbZmVe",
-            "name": "What's Up Docs?",
-            "publisher": "BBC Radio 4",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fec771db21a37fa63332da0da",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/1nOcSqZp6UMA1Dg9sbZmVe"
-        },
-        {
             "rank": 28,
-            "spotify_id": "5slNbyLCLd1DbVY5p19Liw",
-            "name": "Best Noise Labs",
-            "publisher": "Best Noise",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f8adc42035bc4b44292b505e1",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/5slNbyLCLd1DbVY5p19Liw"
-        },
-        {
-            "rank": 29,
-            "spotify_id": "0Qr9q8pJ94QFWF4C9IkO0M",
-            "name": "Wake Me Up: Morning Positivity",
-            "publisher": "Good People Stuff",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f4e81db61898f6aadc21e3851",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/0Qr9q8pJ94QFWF4C9IkO0M"
-        },
-        {
-            "rank": 30,
-            "spotify_id": "4Hc1Iyw09pA7FgYxatHfji",
-            "name": "Just As Well, The Women's Health Podcast",
-            "publisher": "Gemma Atkinson",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fc8166517184b848420516d71",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/4Hc1Iyw09pA7FgYxatHfji"
-        },
-        {
-            "rank": 31,
             "spotify_id": "0kToYjBezGVp3B15I0vzA8",
             "name": "ASMR by GentleWhispering",
             "publisher": "Maria Gentlewhispering",
@@ -286,22 +259,49 @@
             "url": "https:\/\/open.spotify.com\/show\/0kToYjBezGVp3B15I0vzA8"
         },
         {
-            "rank": 32,
-            "spotify_id": "4EnAzuR4gnjEyGUYic70Qy",
-            "name": "Your World Within Podcast by Eddie Pinero",
-            "publisher": "Eddie Pinero",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fc24675fe8ff21cb72b87b05a",
+            "rank": 29,
+            "spotify_id": "5slNbyLCLd1DbVY5p19Liw",
+            "name": "Best Noise Labs",
+            "publisher": "Best Noise",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f8adc42035bc4b44292b505e1",
             "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/4EnAzuR4gnjEyGUYic70Qy"
+            "url": "https:\/\/open.spotify.com\/show\/5slNbyLCLd1DbVY5p19Liw"
+        },
+        {
+            "rank": 30,
+            "spotify_id": "1nOcSqZp6UMA1Dg9sbZmVe",
+            "name": "What's Up Docs?",
+            "publisher": "BBC Radio 4",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fec771db21a37fa63332da0da",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/1nOcSqZp6UMA1Dg9sbZmVe"
+        },
+        {
+            "rank": 31,
+            "spotify_id": "7dCctfyI9bODGDaFnjfKhg",
+            "name": "The Dr Louise Newson Podcast",
+            "publisher": "Dr Louise Newson",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fe875a2fde4e8b4eab62adfae",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/7dCctfyI9bODGDaFnjfKhg"
+        },
+        {
+            "rank": 32,
+            "spotify_id": "7xnF3c1yDVUkBCl7mVRmmv",
+            "name": "How To Be 60 with Kaye Adams",
+            "publisher": "Kaye Adams",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f34a548383085dc9c47de0dbf",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/7xnF3c1yDVUkBCl7mVRmmv"
         },
         {
             "rank": 33,
-            "spotify_id": "342RutGS6Q6hmFGQr8MMye",
-            "name": "How Do You Cope?",
-            "publisher": "Significant Productions",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f7fffabc008fbe2cf27aeef6b",
+            "spotify_id": "0Qr9q8pJ94QFWF4C9IkO0M",
+            "name": "Wake Me Up: Morning Positivity",
+            "publisher": "Good People Stuff",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f4e81db61898f6aadc21e3851",
             "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/342RutGS6Q6hmFGQr8MMye"
+            "url": "https:\/\/open.spotify.com\/show\/0Qr9q8pJ94QFWF4C9IkO0M"
         },
         {
             "rank": 34,
@@ -314,15 +314,51 @@
         },
         {
             "rank": 35,
-            "spotify_id": "7xnF3c1yDVUkBCl7mVRmmv",
-            "name": "How To Be 60 with Kaye Adams",
-            "publisher": "Kaye Adams",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f34a548383085dc9c47de0dbf",
+            "spotify_id": "4Hc1Iyw09pA7FgYxatHfji",
+            "name": "Just As Well, The Women's Health Podcast",
+            "publisher": "Gemma Atkinson",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fc8166517184b848420516d71",
             "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/7xnF3c1yDVUkBCl7mVRmmv"
+            "url": "https:\/\/open.spotify.com\/show\/4Hc1Iyw09pA7FgYxatHfji"
         },
         {
             "rank": 36,
+            "spotify_id": "342RutGS6Q6hmFGQr8MMye",
+            "name": "How Do You Cope?",
+            "publisher": "Significant Productions",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f7fffabc008fbe2cf27aeef6b",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/342RutGS6Q6hmFGQr8MMye"
+        },
+        {
+            "rank": 37,
+            "spotify_id": "7FevBPboXDSB4K90BJ54pA",
+            "name": "Sleepy Stories: To help you sleep",
+            "publisher": "Sleepy Studios",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f793da3c206dd7bb54928d1cc",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/7FevBPboXDSB4K90BJ54pA"
+        },
+        {
+            "rank": 38,
+            "spotify_id": "4EnAzuR4gnjEyGUYic70Qy",
+            "name": "Your World Within Podcast by Eddie Pinero",
+            "publisher": "Eddie Pinero",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fc24675fe8ff21cb72b87b05a",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/4EnAzuR4gnjEyGUYic70Qy"
+        },
+        {
+            "rank": 39,
+            "spotify_id": "2AmaVhTQgqumz2Rvb2wqx2",
+            "name": "Huberman Labs",
+            "publisher": "Scicomm Media",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fc8f77ec33bb28a30dfad09ec",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/2AmaVhTQgqumz2Rvb2wqx2"
+        },
+        {
+            "rank": 40,
             "spotify_id": "5YLl0cJmNFUzP6Ow5Uiroo",
             "name": "Age Better with Liz Earle",
             "publisher": "Liz Earle",
@@ -331,79 +367,7 @@
             "url": "https:\/\/open.spotify.com\/show\/5YLl0cJmNFUzP6Ow5Uiroo"
         },
         {
-            "rank": 37,
-            "spotify_id": "3Snkj6OUc5NFt58pggtQeo",
-            "name": "Sliced Bread",
-            "publisher": "BBC Radio 4",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f129977ba13a8de3408887d9f",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/3Snkj6OUc5NFt58pggtQeo"
-        },
-        {
-            "rank": 38,
-            "spotify_id": "7FevBPboXDSB4K90BJ54pA",
-            "name": "Sleepy Stories: To help you sleep",
-            "publisher": "Sleepy Studios",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f793da3c206dd7bb54928d1cc",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/7FevBPboXDSB4K90BJ54pA"
-        },
-        {
-            "rank": 39,
-            "spotify_id": "0WZGsEtujbA7DqCmvnaoIg",
-            "name": "This Jungian Life Podcast",
-            "publisher": "Joseph Lee, Deborah Stewart, Lisa Marchiano",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f748f91e04bd5dac3cf7fe727",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/0WZGsEtujbA7DqCmvnaoIg"
-        },
-        {
-            "rank": 40,
-            "spotify_id": "7t5XLALjl222hLeykwBclW",
-            "name": "The Doctor's Kitchen Podcast",
-            "publisher": "Dr Rupy Aujla",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f439006bcb86ee3ce449a7032",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/7t5XLALjl222hLeykwBclW"
-        },
-        {
             "rank": 41,
-            "spotify_id": "6UtKJixvYC9QhBXcfo5MOg",
-            "name": "We're All Insane",
-            "publisher": "Devorah Roloff",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f5c9c317018da5bdbd9c29181",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/6UtKJixvYC9QhBXcfo5MOg"
-        },
-        {
-            "rank": 42,
-            "spotify_id": "2AmaVhTQgqumz2Rvb2wqx2",
-            "name": "Huberman Labs",
-            "publisher": "Scicomm Media",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fc8f77ec33bb28a30dfad09ec",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/2AmaVhTQgqumz2Rvb2wqx2"
-        },
-        {
-            "rank": 43,
-            "spotify_id": "07GQhOZboEZOE1ysnFLipT",
-            "name": "The School of Greatness",
-            "publisher": "Lewis Howes",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fe7313bf43e8734b0a8f6c146",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/07GQhOZboEZOE1ysnFLipT"
-        },
-        {
-            "rank": 44,
-            "spotify_id": "4pGoo1XFnPZ4CKkoZ2DRum",
-            "name": "The Resus Room",
-            "publisher": "Simon Laing, Rob Fenwick & James Yates",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f48ea05e9401cfe31a23b1b2a",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/4pGoo1XFnPZ4CKkoZ2DRum"
-        },
-        {
-            "rank": 45,
             "spotify_id": "6iF84hpggR2NZLTOwBUlwu",
             "name": "Browney",
             "publisher": "Browney",
@@ -412,12 +376,48 @@
             "url": "https:\/\/open.spotify.com\/show\/6iF84hpggR2NZLTOwBUlwu"
         },
         {
+            "rank": 42,
+            "spotify_id": "3Snkj6OUc5NFt58pggtQeo",
+            "name": "Sliced Bread",
+            "publisher": "BBC Radio 4",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f9f45bcb273662378731bd39e",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/3Snkj6OUc5NFt58pggtQeo"
+        },
+        {
+            "rank": 43,
+            "spotify_id": "0WZGsEtujbA7DqCmvnaoIg",
+            "name": "This Jungian Life Podcast",
+            "publisher": "Joseph Lee, Deborah Stewart, Lisa Marchiano",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f748f91e04bd5dac3cf7fe727",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/0WZGsEtujbA7DqCmvnaoIg"
+        },
+        {
+            "rank": 44,
+            "spotify_id": "1i8VkevO9XNHdgpKpOvTmP",
+            "name": "Payton Delu",
+            "publisher": "Play.Works",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f0156642158c3b514fb8443e6",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/1i8VkevO9XNHdgpKpOvTmP"
+        },
+        {
+            "rank": 45,
+            "spotify_id": "07GQhOZboEZOE1ysnFLipT",
+            "name": "The School of Greatness",
+            "publisher": "Lewis Howes",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fe7313bf43e8734b0a8f6c146",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/07GQhOZboEZOE1ysnFLipT"
+        },
+        {
             "rank": 46,
             "spotify_id": "3q3Uzj7jdndNfvKlMXuN9J",
             "name": "The Dr. John Delony Show",
             "publisher": "Ramsey Network",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fbbb6b7ebeafe0a7ddda1a44b",
-            "rank_move": "UNCHANGED",
+            "rank_move": "DOWN",
             "url": "https:\/\/open.spotify.com\/show\/3q3Uzj7jdndNfvKlMXuN9J"
         },
         {
@@ -426,35 +426,35 @@
             "name": "Mind Pump: Raw Fitness Truth",
             "publisher": "Sal Di Stefano, Adam Schafer, Justin Andrews, Doug Egge",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1faa721a454843231e710796bf",
-            "rank_move": "UP",
+            "rank_move": "DOWN",
             "url": "https:\/\/open.spotify.com\/show\/4D3JFAh4ebj9lks9WOE2Vs"
         },
         {
             "rank": 48,
+            "spotify_id": "6UtKJixvYC9QhBXcfo5MOg",
+            "name": "We're All Insane",
+            "publisher": "Devorah Roloff",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f5c9c317018da5bdbd9c29181",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/6UtKJixvYC9QhBXcfo5MOg"
+        },
+        {
+            "rank": 49,
+            "spotify_id": "0FqNvRhcHYBtfxnmhDSt2r",
+            "name": "The Nick Bare Podcast",
+            "publisher": "Nick Bare",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fbf809ec21bc6132d3e2b5852",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/0FqNvRhcHYBtfxnmhDSt2r"
+        },
+        {
+            "rank": 50,
             "spotify_id": "2kH3ec1ljTia7VmwYsm8Xt",
             "name": "Let's Talk About Mental Health",
             "publisher": "Jeremy Godwin",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1ffcf50c8623d26528a459b6d2",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/2kH3ec1ljTia7VmwYsm8Xt"
-        },
-        {
-            "rank": 49,
-            "spotify_id": "5UpW6xIk0Hk51f5pOMrQc2",
-            "name": "Sleep Magic: Sleep Hypnosis & Meditation for Sleep Podcast",
-            "publisher": "Sleepiest",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fc1ca80e014e88da646a34e8c",
             "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/5UpW6xIk0Hk51f5pOMrQc2"
-        },
-        {
-            "rank": 50,
-            "spotify_id": "5qO3csQiXUltbwFk0ejVIw",
-            "name": "Is It Hot In Here? Midlife Podcast",
-            "publisher": "Dr Naomi Potter",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f9f5b012d503c9f30da42b09c",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/5qO3csQiXUltbwFk0ejVIw"
+            "url": "https:\/\/open.spotify.com\/show\/2kH3ec1ljTia7VmwYsm8Xt"
         }
     ]
 }

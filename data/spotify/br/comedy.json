@@ -3,7 +3,7 @@
     "country": "br",
     "genre": "Comedy",
     "slug": "comedy",
-    "fetched_at": "2026-06-24T06:37:59Z",
+    "fetched_at": "2026-07-01T04:44:45Z",
     "count": 50,
     "shows": [
         {
@@ -44,12 +44,12 @@
         },
         {
             "rank": 5,
-            "spotify_id": "2HV8GNm05Fn8RorKnL7hM2",
-            "name": "Divã da Diva",
-            "publisher": "Diva Depressão",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f18c5f9d7a211624dce7b51e4",
+            "spotify_id": "5WlYDuAy95HR70mLGMoH4X",
+            "name": "Café Frio Show com Victor Vaz",
+            "publisher": "Zamunda Studio",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f313920688370082934973206",
             "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/2HV8GNm05Fn8RorKnL7hM2"
+            "url": "https:\/\/open.spotify.com\/show\/5WlYDuAy95HR70mLGMoH4X"
         },
         {
             "rank": 6,
@@ -57,7 +57,7 @@
             "name": "Café com Leute",
             "publisher": "Leuriscleia",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f21935b4519efd299f19f031b",
-            "rank_move": "UP",
+            "rank_move": "UNCHANGED",
             "url": "https:\/\/open.spotify.com\/show\/4FahMSSSma0qObLjcV1iPn"
         },
         {
@@ -66,11 +66,29 @@
             "name": "Pretinho Básico",
             "publisher": "Rede Atlântida ",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f16a5f806952a143116db8765",
-            "rank_move": "DOWN",
+            "rank_move": "UP",
             "url": "https:\/\/open.spotify.com\/show\/13zR6wiTJW4w1T5srY3lHb"
         },
         {
             "rank": 8,
+            "spotify_id": "2HV8GNm05Fn8RorKnL7hM2",
+            "name": "Divã da Diva",
+            "publisher": "Diva Depressão",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f18c5f9d7a211624dce7b51e4",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/2HV8GNm05Fn8RorKnL7hM2"
+        },
+        {
+            "rank": 9,
+            "spotify_id": "7sn8jupXVysG7jiumetrCJ",
+            "name": "ELA É PIOR QUE EU",
+            "publisher": "PORTA DOS FUNDOS",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fd7de6c3f8e62d6545aef9216",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/7sn8jupXVysG7jiumetrCJ"
+        },
+        {
+            "rank": 10,
             "spotify_id": "05mXtsHUlelamU3w0nGJ8a",
             "name": "Um Milkshake Chamado Wanda",
             "publisher": "Papelpop",
@@ -79,16 +97,16 @@
             "url": "https:\/\/open.spotify.com\/show\/05mXtsHUlelamU3w0nGJ8a"
         },
         {
-            "rank": 9,
-            "spotify_id": "7sn8jupXVysG7jiumetrCJ",
-            "name": "ELA É PIOR QUE EU",
-            "publisher": "PORTA DOS FUNDOS",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fd7de6c3f8e62d6545aef9216",
+            "rank": 11,
+            "spotify_id": "1P34AeIBR4JhyvFkdfOQkw",
+            "name": "Quanto Vale Essa História?",
+            "publisher": "Bianca DellaFancy",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fe0ddfd27ad90a79f6556c88d",
             "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/7sn8jupXVysG7jiumetrCJ"
+            "url": "https:\/\/open.spotify.com\/show\/1P34AeIBR4JhyvFkdfOQkw"
         },
         {
-            "rank": 10,
+            "rank": 12,
             "spotify_id": "4Rc0ZXgYLd0NZucIKYjurg",
             "name": "PODDELAS ",
             "publisher": "PODDELAS",
@@ -97,34 +115,34 @@
             "url": "https:\/\/open.spotify.com\/show\/4Rc0ZXgYLd0NZucIKYjurg"
         },
         {
-            "rank": 11,
+            "rank": 13,
             "spotify_id": "68pZRcoMuq0DTgsc0DJXB9",
             "name": "Joguei no Grupo",
             "publisher": "Joguei no Grupo",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fe0061d6d3a76799885375ff9",
-            "rank_move": "UNCHANGED",
+            "rank_move": "UP",
             "url": "https:\/\/open.spotify.com\/show\/68pZRcoMuq0DTgsc0DJXB9"
         },
         {
-            "rank": 12,
-            "spotify_id": "1P34AeIBR4JhyvFkdfOQkw",
-            "name": "Quanto Vale Essa História?",
-            "publisher": "Bianca DellaFancy",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fe0ddfd27ad90a79f6556c88d",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/1P34AeIBR4JhyvFkdfOQkw"
-        },
-        {
-            "rank": 13,
+            "rank": 14,
             "spotify_id": "13UuAPyNnP63GWCzn62vpO",
             "name": "AchismosTV",
             "publisher": "Maurício Meirelles",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f68115904a20c1ff1cc5ec03e",
-            "rank_move": "UNCHANGED",
+            "rank_move": "DOWN",
             "url": "https:\/\/open.spotify.com\/show\/13UuAPyNnP63GWCzn62vpO"
         },
         {
-            "rank": 14,
+            "rank": 15,
+            "spotify_id": "2w3IfCyn2cAVrSrzVkwTcj",
+            "name": "Hoje Tem Podcast",
+            "publisher": "Hoje Tem Podcast",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fc57c11edb8d66b2119ace8ca",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/2w3IfCyn2cAVrSrzVkwTcj"
+        },
+        {
+            "rank": 16,
             "spotify_id": "07I5NMZ9wktSOMp6e1RVL6",
             "name": "Pânico",
             "publisher": "Jovem Pan",
@@ -133,31 +151,13 @@
             "url": "https:\/\/open.spotify.com\/show\/07I5NMZ9wktSOMp6e1RVL6"
         },
         {
-            "rank": 15,
-            "spotify_id": "2w3IfCyn2cAVrSrzVkwTcj",
-            "name": "Hoje Tem Podcast",
-            "publisher": "Hoje Tem Podcast",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fc57c11edb8d66b2119ace8ca",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/2w3IfCyn2cAVrSrzVkwTcj"
-        },
-        {
-            "rank": 16,
+            "rank": 17,
             "spotify_id": "3a1WyamVPbkOTzGdcWFBv9",
             "name": "Donos da Razão",
             "publisher": "Dia Estúdio",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f5c67465aa0246baf339ab2e5",
-            "rank_move": "DOWN",
+            "rank_move": "UNCHANGED",
             "url": "https:\/\/open.spotify.com\/show\/3a1WyamVPbkOTzGdcWFBv9"
-        },
-        {
-            "rank": 17,
-            "spotify_id": "5WlYDuAy95HR70mLGMoH4X",
-            "name": "Café Frio Show com Victor Vaz",
-            "publisher": "Zamunda Studio",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f313920688370082934973206",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/5WlYDuAy95HR70mLGMoH4X"
         },
         {
             "rank": 18,
@@ -165,7 +165,7 @@
             "name": "POR TRÁS DA PORTA",
             "publisher": "PORTA DOS FUNDOS",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f1ba4be2eb44f6cab110c6f1b",
-            "rank_move": "UP",
+            "rank_move": "UNCHANGED",
             "url": "https:\/\/open.spotify.com\/show\/0phc9auanx6F8ReAO7eGa3"
         },
         {
@@ -174,20 +174,11 @@
             "name": "A magia do buteco",
             "publisher": "Emerson Ceará",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f8293897052592e7316631e5f",
-            "rank_move": "UP",
+            "rank_move": "UNCHANGED",
             "url": "https:\/\/open.spotify.com\/show\/4wO75TatZUib8f1kNHgZGR"
         },
         {
             "rank": 20,
-            "spotify_id": "4OxjY3aHZsr1GescvXtHxn",
-            "name": "Só no Brasil",
-            "publisher": "Pipoca Sound",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fbaeeb7c535725619df6de79b",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/4OxjY3aHZsr1GescvXtHxn"
-        },
-        {
-            "rank": 21,
             "spotify_id": "56jz3rLtCaKEBfPmxZkT8E",
             "name": "DIÁRIO DE BORDO",
             "publisher": "Diário de Bordo",
@@ -196,142 +187,7 @@
             "url": "https:\/\/open.spotify.com\/show\/56jz3rLtCaKEBfPmxZkT8E"
         },
         {
-            "rank": 22,
-            "spotify_id": "7HwgXGqX6Mrm6CXDT4LLWD",
-            "name": "Cortina de Fumaça",
-            "publisher": "Ribeiro, Jorge e Bruno",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f966badd3df4a763905722048",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/7HwgXGqX6Mrm6CXDT4LLWD"
-        },
-        {
-            "rank": 23,
-            "spotify_id": "4b5P4Tq5loWnl139Uw853q",
-            "name": "POGRAMA",
-            "publisher": "Sofia Santino",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f497b6962b79813b70270c0de",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/4b5P4Tq5loWnl139Uw853q"
-        },
-        {
-            "rank": 24,
-            "spotify_id": "4rOoJ6Egrf8K2IrywzwOMk",
-            "name": "The Joe Rogan Experience",
-            "publisher": "Joe Rogan",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f1e1acaebe06610165612f1ef",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/4rOoJ6Egrf8K2IrywzwOMk"
-        },
-        {
-            "rank": 25,
-            "spotify_id": "033keBoBwvwgcl5K9waXOl",
-            "name": "Isso Não É Um Talk Show",
-            "publisher": "Jovem Pan",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fc3945f67726399102d7766b2",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/033keBoBwvwgcl5K9waXOl"
-        },
-        {
-            "rank": 26,
-            "spotify_id": "6eMairLQRdKPPKVbcoxSIV",
-            "name": "Frango Fino",
-            "publisher": "Frango Fino",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fe231d74c0937513390bd4c0a",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/6eMairLQRdKPPKVbcoxSIV"
-        },
-        {
-            "rank": 27,
-            "spotify_id": "5XS7E0imfD2EuwH3uuQDON",
-            "name": "Dois Empregos",
-            "publisher": "Klaus e Caio",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f10d471ecb9729013dd8598ee",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/5XS7E0imfD2EuwH3uuQDON"
-        },
-        {
-            "rank": 28,
-            "spotify_id": "3SHWfVfU5XYzHQFbXGCZeu",
-            "name": "THIS IS BRAZIL",
-            "publisher": "Nícolas Queiros e Pedro Duarte",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fdea9e62e2d87af2b1a51335f",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/3SHWfVfU5XYzHQFbXGCZeu"
-        },
-        {
-            "rank": 29,
-            "spotify_id": "7DCIyMhLAPXf01UTAOyutU",
-            "name": "Helena, o podcast tá pronto",
-            "publisher": "Alana Azevedo e Raíla Azevedo",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f2d79b72b928e66091ba2eff1",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/7DCIyMhLAPXf01UTAOyutU"
-        },
-        {
-            "rank": 30,
-            "spotify_id": "1QrMXzBqJt5WAlzCsUmHNu",
-            "name": "Estavu Show",
-            "publisher": "Estavu",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f421d78abbc79118207738bfc",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/1QrMXzBqJt5WAlzCsUmHNu"
-        },
-        {
-            "rank": 31,
-            "spotify_id": "0ROXxMtJoKBprqh2YACkdr",
-            "name": "Não Inviabilize apresenta: Histórias da Firma",
-            "publisher": "Amazon Music",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f6342b5ca40ac31da10910188",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/0ROXxMtJoKBprqh2YACkdr"
-        },
-        {
-            "rank": 32,
-            "spotify_id": "033pgBfPwrV2xQCipQFIaY",
-            "name": "Diguinho Coruja",
-            "publisher": "Diguinho Coruja",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f2087a6cea80c69fa834a1a3c",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/033pgBfPwrV2xQCipQFIaY"
-        },
-        {
-            "rank": 33,
-            "spotify_id": "2epGmU5E47xlTJ4kc5Cevs",
-            "name": "Decrépitos",
-            "publisher": "Decrépitos Podcast",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1ff2506c87e5f56cff5b20e1fa",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/2epGmU5E47xlTJ4kc5Cevs"
-        },
-        {
-            "rank": 34,
-            "spotify_id": "093Fw7y25574mTdECe7Iwi",
-            "name": "Jujubacast",
-            "publisher": "Parasol Storytelling",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f15261f47edecd74f3e232f1b",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/093Fw7y25574mTdECe7Iwi"
-        },
-        {
-            "rank": 35,
-            "spotify_id": "3NAqgvjFqgOQZhCO7i8nAr",
-            "name": "De Sola a Dez",
-            "publisher": "RafaSantBR",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f6d963bf4df81d76789dc1e09",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/3NAqgvjFqgOQZhCO7i8nAr"
-        },
-        {
-            "rank": 36,
-            "spotify_id": "7KgCZAhfZx1YAabWmgZvp8",
-            "name": "Desculpa Qualquer Coisa",
-            "publisher": "Desculpa Qualquer Coisa",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f783ad6167bcd8f7d5804e5c0",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/7KgCZAhfZx1YAabWmgZvp8"
-        },
-        {
-            "rank": 37,
+            "rank": 21,
             "spotify_id": "6U6zYXkyjlaq3PkCXzNk2U",
             "name": "soundbuttonsspace",
             "publisher": "soundbuttonsspace",
@@ -340,34 +196,187 @@
             "url": "https:\/\/open.spotify.com\/show\/6U6zYXkyjlaq3PkCXzNk2U"
         },
         {
-            "rank": 38,
-            "spotify_id": "3p39CTdikhTFJqoxelHYBs",
-            "name": "Áudios Personalizados para Alexa",
-            "publisher": "Adriel Wesley S Alves",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1ffcf70e96085828996e6795c5",
+            "rank": 22,
+            "spotify_id": "033keBoBwvwgcl5K9waXOl",
+            "name": "Isso Não É Um Talk Show",
+            "publisher": "Jovem Pan",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fc3945f67726399102d7766b2",
             "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/3p39CTdikhTFJqoxelHYBs"
+            "url": "https:\/\/open.spotify.com\/show\/033keBoBwvwgcl5K9waXOl"
         },
         {
-            "rank": 39,
-            "spotify_id": "7bnjJ7Va1nM07Um4Od55dW",
-            "name": "Call Her Daddy",
-            "publisher": "Alex Cooper",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fce6737d721152c35d2932a24",
+            "rank": 23,
+            "spotify_id": "7HwgXGqX6Mrm6CXDT4LLWD",
+            "name": "Cortina de Fumaça",
+            "publisher": "Ribeiro, Jorge e Bruno",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f966badd3df4a763905722048",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/7HwgXGqX6Mrm6CXDT4LLWD"
+        },
+        {
+            "rank": 24,
+            "spotify_id": "6eMairLQRdKPPKVbcoxSIV",
+            "name": "Frango Fino",
+            "publisher": "Frango Fino",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fe231d74c0937513390bd4c0a",
             "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/7bnjJ7Va1nM07Um4Od55dW"
+            "url": "https:\/\/open.spotify.com\/show\/6eMairLQRdKPPKVbcoxSIV"
         },
         {
-            "rank": 40,
+            "rank": 25,
+            "spotify_id": "4rOoJ6Egrf8K2IrywzwOMk",
+            "name": "The Joe Rogan Experience",
+            "publisher": "Joe Rogan",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f1e1acaebe06610165612f1ef",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/4rOoJ6Egrf8K2IrywzwOMk"
+        },
+        {
+            "rank": 26,
+            "spotify_id": "4b5P4Tq5loWnl139Uw853q",
+            "name": "POGRAMA",
+            "publisher": "Sofia Santino",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f497b6962b79813b70270c0de",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/4b5P4Tq5loWnl139Uw853q"
+        },
+        {
+            "rank": 27,
+            "spotify_id": "7DCIyMhLAPXf01UTAOyutU",
+            "name": "Helena, o podcast tá pronto",
+            "publisher": "Alana Azevedo e Raíla Azevedo",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f2d79b72b928e66091ba2eff1",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/7DCIyMhLAPXf01UTAOyutU"
+        },
+        {
+            "rank": 28,
+            "spotify_id": "3SHWfVfU5XYzHQFbXGCZeu",
+            "name": "THIS IS BRAZIL",
+            "publisher": "Nícolas Queiros e Pedro Duarte",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fdea9e62e2d87af2b1a51335f",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/3SHWfVfU5XYzHQFbXGCZeu"
+        },
+        {
+            "rank": 29,
+            "spotify_id": "5XS7E0imfD2EuwH3uuQDON",
+            "name": "Dois Empregos",
+            "publisher": "Klaus e Caio",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f10d471ecb9729013dd8598ee",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/5XS7E0imfD2EuwH3uuQDON"
+        },
+        {
+            "rank": 30,
+            "spotify_id": "4OxjY3aHZsr1GescvXtHxn",
+            "name": "Só no Brasil",
+            "publisher": "Pipoca Sound",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fbaeeb7c535725619df6de79b",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/4OxjY3aHZsr1GescvXtHxn"
+        },
+        {
+            "rank": 31,
+            "spotify_id": "1QrMXzBqJt5WAlzCsUmHNu",
+            "name": "Estavu Show",
+            "publisher": "Estavu",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f421d78abbc79118207738bfc",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/1QrMXzBqJt5WAlzCsUmHNu"
+        },
+        {
+            "rank": 32,
+            "spotify_id": "0ROXxMtJoKBprqh2YACkdr",
+            "name": "Não Inviabilize apresenta: Histórias da Firma",
+            "publisher": "Amazon Music",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f6342b5ca40ac31da10910188",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/0ROXxMtJoKBprqh2YACkdr"
+        },
+        {
+            "rank": 33,
+            "spotify_id": "2epGmU5E47xlTJ4kc5Cevs",
+            "name": "Decrépitos",
+            "publisher": "Decrépitos Podcast",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1ff2506c87e5f56cff5b20e1fa",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/2epGmU5E47xlTJ4kc5Cevs"
+        },
+        {
+            "rank": 34,
+            "spotify_id": "033pgBfPwrV2xQCipQFIaY",
+            "name": "Diguinho Coruja",
+            "publisher": "Diguinho Coruja",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f2087a6cea80c69fa834a1a3c",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/033pgBfPwrV2xQCipQFIaY"
+        },
+        {
+            "rank": 35,
+            "spotify_id": "093Fw7y25574mTdECe7Iwi",
+            "name": "Jujubacast",
+            "publisher": "Parasol Storytelling",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f15261f47edecd74f3e232f1b",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/093Fw7y25574mTdECe7Iwi"
+        },
+        {
+            "rank": 36,
+            "spotify_id": "1fJ1Aj0yVzjuU7Oyk1eosz",
+            "name": "chá com rapadura",
+            "publisher": "chá com rapadura",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f17431612f02a693acd285f8c",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/1fJ1Aj0yVzjuU7Oyk1eosz"
+        },
+        {
+            "rank": 37,
+            "spotify_id": "7KgCZAhfZx1YAabWmgZvp8",
+            "name": "Desculpa Qualquer Coisa",
+            "publisher": "Desculpa Qualquer Coisa",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f783ad6167bcd8f7d5804e5c0",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/7KgCZAhfZx1YAabWmgZvp8"
+        },
+        {
+            "rank": 38,
             "spotify_id": "1HivBcT1lIwcmnbdKWncEn",
             "name": "Carecas de Saber",
             "publisher": "Chico Barney e Aline Ramos ",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f8930b9a4ecedb9f443b32876",
-            "rank_move": "DOWN",
+            "rank_move": "UNCHANGED",
             "url": "https:\/\/open.spotify.com\/show\/1HivBcT1lIwcmnbdKWncEn"
         },
         {
+            "rank": 39,
+            "spotify_id": "3NAqgvjFqgOQZhCO7i8nAr",
+            "name": "De Sola a Dez - (RafaSantBR)",
+            "publisher": "RafaSantBR",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f6d963bf4df81d76789dc1e09",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/3NAqgvjFqgOQZhCO7i8nAr"
+        },
+        {
+            "rank": 40,
+            "spotify_id": "2RSgQsR0Ur7bnRSgLctbIR",
+            "name": "Caixa Preta",
+            "publisher": "Caixa Preta",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f45553d4b22bb0eee4e2eae3d",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/2RSgQsR0Ur7bnRSgLctbIR"
+        },
+        {
             "rank": 41,
+            "spotify_id": "3p39CTdikhTFJqoxelHYBs",
+            "name": "Áudios Personalizados para Alexa",
+            "publisher": "Adriel Wesley S Alves",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1ffcf70e96085828996e6795c5",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/3p39CTdikhTFJqoxelHYBs"
+        },
+        {
+            "rank": 42,
             "spotify_id": "0znjxREK2kgs1iL0i7W46V",
             "name": "Respondendo em Voz Alta",
             "publisher": "Laurinha Lero",
@@ -376,52 +385,34 @@
             "url": "https:\/\/open.spotify.com\/show\/0znjxREK2kgs1iL0i7W46V"
         },
         {
-            "rank": 42,
-            "spotify_id": "2RSgQsR0Ur7bnRSgLctbIR",
-            "name": "Caixa Preta",
-            "publisher": "Caixa Preta",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f45553d4b22bb0eee4e2eae3d",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/2RSgQsR0Ur7bnRSgLctbIR"
-        },
-        {
             "rank": 43,
             "spotify_id": "2zg9IPaR2t54OhyjCf8x4j",
             "name": "Bocadinhas",
             "publisher": "Lucas Inutilismo",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1febb8be633fc89f1582dc18fe",
-            "rank_move": "DOWN",
+            "rank_move": "UNCHANGED",
             "url": "https:\/\/open.spotify.com\/show\/2zg9IPaR2t54OhyjCf8x4j"
         },
         {
             "rank": 44,
-            "spotify_id": "0wIB8YBPtqOjAPyLJttM6T",
-            "name": "Só Rindo",
-            "publisher": "Só Rindo",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f5a2e48d0f7f6b7803f9e2945",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/0wIB8YBPtqOjAPyLJttM6T"
-        },
-        {
-            "rank": 45,
             "spotify_id": "1z20EiwuKoDiftKxMVLde1",
             "name": "Good Hang with Amy Poehler",
             "publisher": "The Ringer",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1faee1957f2176b367c36be8e6",
-            "rank_move": "UNCHANGED",
+            "rank_move": "UP",
             "url": "https:\/\/open.spotify.com\/show\/1z20EiwuKoDiftKxMVLde1"
         },
         {
-            "rank": 46,
-            "spotify_id": "31r4CejOtpTtjEKIKNJslt",
-            "name": "FOFOCAS QUE EDIFICAM",
-            "publisher": "Aline Castro - @casalda61",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f07964183879d6766f1954451",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/31r4CejOtpTtjEKIKNJslt"
+            "rank": 45,
+            "spotify_id": "0wIB8YBPtqOjAPyLJttM6T",
+            "name": "Só Rindo",
+            "publisher": "Só Rindo",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f5a2e48d0f7f6b7803f9e2945",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/0wIB8YBPtqOjAPyLJttM6T"
         },
         {
-            "rank": 47,
+            "rank": 46,
             "spotify_id": "6502uTeJ9hRqbaS6NVuEOc",
             "name": "Mancada Minha",
             "publisher": "Silvia Niffinegger",
@@ -430,31 +421,40 @@
             "url": "https:\/\/open.spotify.com\/show\/6502uTeJ9hRqbaS6NVuEOc"
         },
         {
-            "rank": 48,
+            "rank": 47,
             "spotify_id": "359c2DpU0ZFfUO4o6qkVXk",
             "name": "2 Gordos e Uma Madrugada",
             "publisher": "Rede Atlântida",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f1889ac7f4ce6e8ee75fae55f",
-            "rank_move": "DOWN",
+            "rank_move": "UP",
             "url": "https:\/\/open.spotify.com\/show\/359c2DpU0ZFfUO4o6qkVXk"
         },
         {
+            "rank": 48,
+            "spotify_id": "4JqZchMGUyVn3zpWk001bP",
+            "name": "História de Faxineira",
+            "publisher": "Clarissa Flores",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fbe8a4aa5336b85a1b6ab74cd",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/4JqZchMGUyVn3zpWk001bP"
+        },
+        {
             "rank": 49,
+            "spotify_id": "08kk3SYhqXvEEH26Pc243s",
+            "name": "Clube do Erro",
+            "publisher": "Posto Zero",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f0bd743778800ba50d3ea2e86",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/08kk3SYhqXvEEH26Pc243s"
+        },
+        {
+            "rank": 50,
             "spotify_id": "2zpVWa3niGK0V0EIUA1EDm",
             "name": "Choque de Cultura - Ambiente de Música",
             "publisher": "Canal Brasil",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1ff70c5331e1934409fc686a08",
-            "rank_move": "UNCHANGED",
+            "rank_move": "DOWN",
             "url": "https:\/\/open.spotify.com\/show\/2zpVWa3niGK0V0EIUA1EDm"
-        },
-        {
-            "rank": 50,
-            "spotify_id": "11gtedMlsqbbGNxwvzIMkC",
-            "name": "Cortes da Alma",
-            "publisher": "Guilherme Braz",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fd435fd19eae99a084f6c6b2f",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/11gtedMlsqbbGNxwvzIMkC"
         }
     ]
 }

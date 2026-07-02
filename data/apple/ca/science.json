@@ -4,7 +4,7 @@
     "genre": "Science",
     "genre_id": "1533",
     "slug": "science",
-    "fetched_at": "2026-06-24T06:35:09Z",
+    "fetched_at": "2026-07-01T04:41:52Z",
     "count": 200,
     "shows": [
         {
@@ -29,16 +29,6 @@
         },
         {
             "rank": 3,
-            "apple_id": "151485804",
-            "name": "Quirks and Quarks",
-            "artist": "CBC",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/85\/f7\/ba\/85f7ba72-086e-8e43-4d8f-9eede3746e76\/mza_6861425230992311577.jpg\/170x170bb.png",
-            "genre": "Earth Sciences",
-            "genre_id": "1540",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/quirks-and-quarks\/id151485804?uo=2"
-        },
-        {
-            "rank": 4,
             "apple_id": "325404506",
             "name": "StarTalk Radio",
             "artist": "Neil deGrasse Tyson",
@@ -48,7 +38,7 @@
             "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/startalk-radio\/id325404506?uo=2"
         },
         {
-            "rank": 5,
+            "rank": 4,
             "apple_id": "152249110",
             "name": "Radiolab",
             "artist": "WNYC Studios",
@@ -58,14 +48,24 @@
             "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/radiolab\/id152249110?uo=2"
         },
         {
+            "rank": 5,
+            "apple_id": "151485804",
+            "name": "Quirks and Quarks",
+            "artist": "CBC",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/85\/f7\/ba\/85f7ba72-086e-8e43-4d8f-9eede3746e76\/mza_6861425230992311577.jpg\/170x170bb.png",
+            "genre": "Earth Sciences",
+            "genre_id": "1540",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/quirks-and-quarks\/id151485804?uo=2"
+        },
+        {
             "rank": 6,
-            "apple_id": "1663974629",
-            "name": "Health Optimization Medicine Podcast",
-            "artist": "Health Optimization Medicine and Practice",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/0f\/0c\/94\/0f0c9449-70c4-69d5-a3e0-c25df3dcfa30\/mza_17754862318168047684.png\/170x170bb.png",
-            "genre": "Life Sciences",
-            "genre_id": "1541",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/health-optimization-medicine-podcast\/id1663974629?uo=2"
+            "apple_id": "1051557000",
+            "name": "Science Vs",
+            "artist": "Spotify Studios",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/62\/15\/18\/621518e5-8eb3-392b-25a7-e7444aab86b6\/mza_815589518502039493.jpg\/170x170bb.png",
+            "genre": "Science",
+            "genre_id": "1533",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/science-vs\/id1051557000?uo=2"
         },
         {
             "rank": 7,
@@ -79,16 +79,6 @@
         },
         {
             "rank": 8,
-            "apple_id": "1051557000",
-            "name": "Science Vs",
-            "artist": "Spotify Studios",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/8a\/5c\/e5\/8a5ce5b7-aa70-b841-38dd-4e7ae572caac\/mza_17212608166076908905.jpg\/170x170bb.png",
-            "genre": "Science",
-            "genre_id": "1533",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/science-vs\/id1051557000?uo=2"
-        },
-        {
-            "rank": 9,
             "apple_id": "1853007888",
             "name": "The Rest Is Science",
             "artist": "Goalhanger",
@@ -98,37 +88,7 @@
             "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/the-rest-is-science\/id1853007888?uo=2"
         },
         {
-            "rank": 10,
-            "apple_id": "1406534739",
-            "name": "Sean Carroll's Mindscape: Science, Society, Philosophy, Culture, Arts, and Ideas",
-            "artist": "Sean Carroll",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts125\/v4\/d3\/22\/95\/d32295a0-f278-1807-9fde-5698c30aac30\/mza_16649100911920251614.jpeg\/170x170bb.png",
-            "genre": "Physics",
-            "genre_id": "1542",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/sean-carrolls-mindscape-science-society-philosophy\/id1406534739?uo=2"
-        },
-        {
-            "rank": 11,
-            "apple_id": "1383086982",
-            "name": "Sidenote by AsapSCIENCE",
-            "artist": "AsapSCIENCE",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts116\/v4\/60\/03\/4a\/60034abc-e63e-dbf8-3709-386f51ded220\/mza_6750920573754953080.jpg\/170x170bb.png",
-            "genre": "Life Sciences",
-            "genre_id": "1541",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/sidenote-by-asapscience\/id1383086982?uo=2"
-        },
-        {
-            "rank": 12,
-            "apple_id": "604656349",
-            "name": "Sasquatch Chronicles",
-            "artist": "Sasquatch Chronicles - Bigfoot Encounters",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts115\/v4\/bf\/4c\/04\/bf4c0485-bed0-3206-ce8b-3332433433c0\/mza_849656122803846986.png\/170x170bb.png",
-            "genre": "Natural Sciences",
-            "genre_id": "1534",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/sasquatch-chronicles\/id604656349?uo=2"
-        },
-        {
-            "rank": 13,
+            "rank": 9,
             "apple_id": "733163012",
             "name": "Making Sense with Sam Harris",
             "artist": "Sam Harris",
@@ -138,17 +98,27 @@
             "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/making-sense-with-sam-harris\/id733163012?uo=2"
         },
         {
-            "rank": 14,
-            "apple_id": "1471581521",
-            "name": "DarkHorse Podcast",
-            "artist": "Bret Weinstein & Heather Heying",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/70\/fc\/69\/70fc69dc-2b93-9d06-d1df-5556aec6515c\/mza_3075224734357125200.jpg\/170x170bb.png",
-            "genre": "Natural Sciences",
-            "genre_id": "1534",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/darkhorse-podcast\/id1471581521?uo=2"
+            "rank": 10,
+            "apple_id": "1299915173",
+            "name": "This Podcast Will Kill You",
+            "artist": "Exactly Right and iHeartPodcasts",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/31\/fc\/17\/31fc17a4-78dc-a4ec-ed10-909b8aa0a67b\/mza_1082798024989117655.jpg\/170x170bb.png",
+            "genre": "Science",
+            "genre_id": "1533",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/this-podcast-will-kill-you\/id1299915173?uo=2"
         },
         {
-            "rank": 15,
+            "rank": 11,
+            "apple_id": "604656349",
+            "name": "Sasquatch Chronicles",
+            "artist": "Sasquatch Chronicles - Bigfoot Encounters",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts115\/v4\/bf\/4c\/04\/bf4c0485-bed0-3206-ce8b-3332433433c0\/mza_849656122803846986.png\/170x170bb.png",
+            "genre": "Natural Sciences",
+            "genre_id": "1534",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/sasquatch-chronicles\/id604656349?uo=2"
+        },
+        {
+            "rank": 12,
             "apple_id": "1530064872",
             "name": "Tooth & Claw: True Stories of Animal Attacks",
             "artist": "Wes Larson, Jeff Larson, Mike Smith | Daylight Media",
@@ -156,6 +126,36 @@
             "genre": "Nature",
             "genre_id": "1537",
             "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/tooth-claw-true-stories-of-animal-attacks\/id1530064872?uo=2"
+        },
+        {
+            "rank": 13,
+            "apple_id": "1406534739",
+            "name": "Sean Carroll's Mindscape: Science, Society, Philosophy, Culture, Arts, and Ideas",
+            "artist": "Sean Carroll",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts125\/v4\/d3\/22\/95\/d32295a0-f278-1807-9fde-5698c30aac30\/mza_16649100911920251614.jpeg\/170x170bb.png",
+            "genre": "Physics",
+            "genre_id": "1542",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/sean-carrolls-mindscape-science-society-philosophy\/id1406534739?uo=2"
+        },
+        {
+            "rank": 14,
+            "apple_id": "1554578197",
+            "name": "Unexplainable",
+            "artist": "Vox",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/eb\/87\/4d\/eb874d60-4424-62df-a136-d5b5f32c451b\/mza_11680166435885601347.jpg\/170x170bb.png",
+            "genre": "Life Sciences",
+            "genre_id": "1541",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/unexplainable\/id1554578197?uo=2"
+        },
+        {
+            "rank": 15,
+            "apple_id": "1383086982",
+            "name": "Sidenote by AsapSCIENCE",
+            "artist": "AsapSCIENCE",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts116\/v4\/60\/03\/4a\/60034abc-e63e-dbf8-3709-386f51ded220\/mza_6750920573754953080.jpg\/170x170bb.png",
+            "genre": "Life Sciences",
+            "genre_id": "1541",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/sidenote-by-asapscience\/id1383086982?uo=2"
         },
         {
             "rank": 16,
@@ -169,16 +169,6 @@
         },
         {
             "rank": 17,
-            "apple_id": "1554578197",
-            "name": "Unexplainable",
-            "artist": "Vox",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/eb\/87\/4d\/eb874d60-4424-62df-a136-d5b5f32c451b\/mza_11680166435885601347.jpg\/170x170bb.png",
-            "genre": "Life Sciences",
-            "genre_id": "1541",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/unexplainable\/id1554578197?uo=2"
-        },
-        {
-            "rank": 18,
             "apple_id": "128859062",
             "name": "The Skeptics' Guide to the Universe",
             "artist": "Dr. Steven Novella",
@@ -188,14 +178,24 @@
             "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/the-skeptics-guide-to-the-universe\/id128859062?uo=2"
         },
         {
-            "rank": 19,
-            "apple_id": "1299915173",
-            "name": "This Podcast Will Kill You",
-            "artist": "Exactly Right and iHeartPodcasts",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/31\/fc\/17\/31fc17a4-78dc-a4ec-ed10-909b8aa0a67b\/mza_1082798024989117655.jpg\/170x170bb.png",
+            "rank": 18,
+            "apple_id": "1893359212",
+            "name": "Are We Doomed?",
+            "artist": "NPR Network",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/7e\/95\/62\/7e956271-9e5f-2940-9036-6326ca9a8214\/mza_16476233168860020197.jpg\/170x170bb.png",
             "genre": "Science",
             "genre_id": "1533",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/this-podcast-will-kill-you\/id1299915173?uo=2"
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/are-we-doomed\/id1893359212?uo=2"
+        },
+        {
+            "rank": 19,
+            "apple_id": "1838417520",
+            "name": "پادکست اتاق تراپی | The Therapy Room",
+            "artist": "Ali Shahab",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/62\/f7\/e9\/62f7e968-0380-9aed-b255-892d4d8236a7\/mza_16896914362568082386.jpg\/170x170bb.png",
+            "genre": "Life Sciences",
+            "genre_id": "1541",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/%D9%BE%D8%A7%D8%AF%DA%A9%D8%B3%D8%AA-%D8%A7%D8%AA%D8%A7%D9%82-%D8%AA%D8%B1%D8%A7%D9%BE%DB%8C-the-therapy-room\/id1838417520?uo=2"
         },
         {
             "rank": 20,
@@ -209,23 +209,23 @@
         },
         {
             "rank": 21,
-            "apple_id": "1896636265",
-            "name": "Change Your Mind with New Scientist",
-            "artist": "New Scientist",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/c9\/9b\/6e\/c99b6ed2-58e2-0a3c-25ef-1064f4faf673\/mza_3186664055472983481.jpeg\/170x170bb.png",
-            "genre": "Science",
-            "genre_id": "1533",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/change-your-mind-with-new-scientist\/id1896636265?uo=2"
+            "apple_id": "1471581521",
+            "name": "DarkHorse Podcast",
+            "artist": "Bret Weinstein & Heather Heying",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/70\/fc\/69\/70fc69dc-2b93-9d06-d1df-5556aec6515c\/mza_3075224734357125200.jpg\/170x170bb.png",
+            "genre": "Natural Sciences",
+            "genre_id": "1534",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/darkhorse-podcast\/id1471581521?uo=2"
         },
         {
             "rank": 22,
-            "apple_id": "1893359212",
-            "name": "Are We Doomed?",
-            "artist": "NPR Network",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/7e\/95\/62\/7e956271-9e5f-2940-9036-6326ca9a8214\/mza_16476233168860020197.jpg\/170x170bb.png",
-            "genre": "Science",
-            "genre_id": "1533",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/are-we-doomed\/id1893359212?uo=2"
+            "apple_id": "1526885135",
+            "name": "Blurry Creatures",
+            "artist": "Blurry Creatures",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/85\/25\/ad\/8525adf3-be9a-7963-a08e-ff24771b9327\/mza_14013259081946136509.jpg\/170x170bb.png",
+            "genre": "Nature",
+            "genre_id": "1537",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/blurry-creatures\/id1526885135?uo=2"
         },
         {
             "rank": 23,
@@ -239,46 +239,6 @@
         },
         {
             "rank": 24,
-            "apple_id": "1436616330",
-            "name": "Daniel and Kelly’s Extraordinary Universe",
-            "artist": "iHeartPodcasts",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/ca\/09\/45\/ca094502-397c-5b9b-4958-08f92491f15c\/mza_12615068519024329012.jpg\/170x170bb.png",
-            "genre": "Natural Sciences",
-            "genre_id": "1534",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/daniel-and-kellys-extraordinary-universe\/id1436616330?uo=2"
-        },
-        {
-            "rank": 25,
-            "apple_id": "1800758497",
-            "name": "The Nature Of with Willow Defebaugh",
-            "artist": "Atmos",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/3e\/81\/a8\/3e81a88a-fea6-be8b-7bbb-431d9c685bd0\/mza_8248505836165703838.jpg\/170x170bb.png",
-            "genre": "Nature",
-            "genre_id": "1537",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/the-nature-of-with-willow-defebaugh\/id1800758497?uo=2"
-        },
-        {
-            "rank": 26,
-            "apple_id": "1206175991",
-            "name": "The Best of Coast to Coast AM",
-            "artist": "iHeartPodcasts and Coast to Coast AM",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts126\/v4\/2c\/86\/4e\/2c864e7c-beb9-8088-b0cf-919131a8bec2\/mza_11913273163357553802.jpg\/170x170bb.png",
-            "genre": "Science",
-            "genre_id": "1533",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/the-best-of-coast-to-coast-am\/id1206175991?uo=2"
-        },
-        {
-            "rank": 27,
-            "apple_id": "1604218333",
-            "name": "The Great Simplification with Nate Hagens",
-            "artist": "Nate Hagens",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/3c\/be\/97\/3cbe97fb-f542-6271-7c4f-c986b5f4c51f\/mza_8932915024380387774.jpg\/170x170bb.png",
-            "genre": "Earth Sciences",
-            "genre_id": "1540",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/the-great-simplification-with-nate-hagens\/id1604218333?uo=2"
-        },
-        {
-            "rank": 28,
             "apple_id": "1887262733",
             "name": "Good Nature with Megan Leslie",
             "artist": "Antica Productions, WWF-Canada",
@@ -288,84 +248,124 @@
             "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/good-nature-with-megan-leslie\/id1887262733?uo=2"
         },
         {
+            "rank": 25,
+            "apple_id": "1511121397",
+            "name": "That UFO Podcast",
+            "artist": "That UFO Podcast",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/ff\/b6\/6b\/ffb66b7d-88f8-88f3-b67c-9189f5167ec1\/mza_9140250549875290339.png\/170x170bb.png",
+            "genre": "Social Sciences",
+            "genre_id": "1535",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/that-ufo-podcast\/id1511121397?uo=2"
+        },
+        {
+            "rank": 26,
+            "apple_id": "1772739634",
+            "name": "Bite Back with Abbey Sharp",
+            "artist": "Abbey Sharp \/ Frequency Podcast Network",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/22\/e8\/60\/22e86081-9fe9-65f2-442b-658a6ef417ad\/mza_3677446199581817385.jpg\/170x170bb.png",
+            "genre": "Science",
+            "genre_id": "1533",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/bite-back-with-abbey-sharp\/id1772739634?uo=2"
+        },
+        {
+            "rank": 27,
+            "apple_id": "1436616330",
+            "name": "Daniel and Kelly’s Extraordinary Universe",
+            "artist": "iHeartPodcasts",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/ca\/09\/45\/ca094502-397c-5b9b-4958-08f92491f15c\/mza_12615068519024329012.jpg\/170x170bb.png",
+            "genre": "Natural Sciences",
+            "genre_id": "1534",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/daniel-and-kellys-extraordinary-universe\/id1436616330?uo=2"
+        },
+        {
+            "rank": 28,
+            "apple_id": "1604218333",
+            "name": "The Great Simplification with Nate Hagens",
+            "artist": "Nate Hagens",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/3c\/be\/97\/3cbe97fb-f542-6271-7c4f-c986b5f4c51f\/mza_8932915024380387774.jpg\/170x170bb.png",
+            "genre": "Earth Sciences",
+            "genre_id": "1540",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/the-great-simplification-with-nate-hagens\/id1604218333?uo=2"
+        },
+        {
             "rank": 29,
-            "apple_id": "705934263",
-            "name": "Speaking of Psychology",
-            "artist": "American Psychological Association",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/be\/52\/9f\/be529f1d-d6a8-6984-9af1-9de24cd0bf04\/mza_11958825769474457449.jpg\/170x170bb.png",
-            "genre": "Life Sciences",
-            "genre_id": "1541",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/speaking-of-psychology\/id705934263?uo=2"
+            "apple_id": "1844631307",
+            "name": "Suspicious Minds: AI and the Apocalypse",
+            "artist": "Agoric Media",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/66\/c9\/5d\/66c95da6-3ed6-20fc-7a54-8fd6cdf3c237\/mza_81406979434027984.jpeg\/170x170bb.png",
+            "genre": "Social Sciences",
+            "genre_id": "1535",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/suspicious-minds-ai-and-the-apocalypse\/id1844631307?uo=2"
         },
         {
             "rank": 30,
-            "apple_id": "1895834900",
-            "name": "Phenomena Podcast: The Science & Stories of Energy Healing",
-            "artist": "Merraki Media LLC",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/b7\/a2\/1a\/b7a21a1e-0d4e-e804-e588-0bad31ebed06\/mza_2813117412021529672.jpg\/170x170bb.png",
-            "genre": "Life Sciences",
-            "genre_id": "1541",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/phenomena-podcast-the-science-stories-of-energy-healing\/id1895834900?uo=2"
+            "apple_id": "1837162757",
+            "name": "A Question of Science",
+            "artist": "The Francis Crick Institute",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/b0\/ba\/55\/b0ba5538-c2b9-020e-ce15-ce6391b51d26\/mza_11426264276487813755.jpg\/170x170bb.png",
+            "genre": "Science",
+            "genre_id": "1533",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/a-question-of-science\/id1837162757?uo=2"
         },
         {
             "rank": 31,
-            "apple_id": "1551111133",
-            "name": "Get Birding",
-            "artist": "Peanut & Crumb",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/bd\/c9\/1d\/bdc91d73-a8f4-d1cd-f370-c4f1abe81e67\/mza_4596331658095187546.jpeg\/170x170bb.png",
-            "genre": "Nature",
-            "genre_id": "1537",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/get-birding\/id1551111133?uo=2"
+            "apple_id": "1740594155",
+            "name": "Crash Course Pods: The Universe",
+            "artist": "Crash Course Pods, Complexly",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/a9\/86\/23\/a986234f-6b1c-19e7-672b-f8a844949aec\/mza_14267107433940438286.jpeg\/170x170bb.png",
+            "genre": "Astronomy",
+            "genre_id": "1538",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/crash-course-pods-the-universe\/id1740594155?uo=2"
         },
         {
             "rank": 32,
-            "apple_id": "1532606850",
-            "name": "The Science of Birds",
-            "artist": "Ivan Phillipsen",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/96\/f6\/aa\/96f6aadd-5a1d-f589-4aac-e50587ee3d91\/mza_2190820532439210193.jpg\/170x170bb.png",
-            "genre": "Nature",
-            "genre_id": "1537",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/the-science-of-birds\/id1532606850?uo=2"
+            "apple_id": "343580439",
+            "name": "The Infinite Monkey Cage",
+            "artist": "BBC Radio 4",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/d5\/f8\/17\/d5f817c7-5144-5c68-dafb-1c2db82a913b\/mza_5990309251420587222.jpg\/170x170bb.png",
+            "genre": "Science",
+            "genre_id": "1533",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/the-infinite-monkey-cage\/id343580439?uo=2"
         },
         {
             "rank": 33,
-            "apple_id": "1231828055",
-            "name": "Paranormal Mysteries",
-            "artist": "Nic Ryan | Paranormal Mysteries Podcast",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/b3\/2a\/e5\/b32ae588-29fa-a46d-d5cb-7c1e99aee9af\/mza_13148469068921859246.jpg\/170x170bb.png",
-            "genre": "Natural Sciences",
-            "genre_id": "1534",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/paranormal-mysteries\/id1231828055?uo=2"
+            "apple_id": "1800758497",
+            "name": "The Nature Of with Willow Defebaugh",
+            "artist": "Atmos",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/3e\/81\/a8\/3e81a88a-fea6-be8b-7bbb-431d9c685bd0\/mza_8248505836165703838.jpg\/170x170bb.png",
+            "genre": "Nature",
+            "genre_id": "1537",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/the-nature-of-with-willow-defebaugh\/id1800758497?uo=2"
         },
         {
             "rank": 34,
-            "apple_id": "203844864",
-            "name": "Skeptoid",
-            "artist": "Brian Dunning",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts126\/v4\/8e\/ca\/a2\/8ecaa2ba-b088-3c75-4da1-f23ed58b9939\/mza_10078299685339114494.png\/170x170bb.png",
-            "genre": "Social Sciences",
-            "genre_id": "1535",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/skeptoid\/id203844864?uo=2"
+            "apple_id": "350359306",
+            "name": "Stuff To Blow Your Mind",
+            "artist": "iHeartPodcasts",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/29\/71\/6c\/29716c28-c923-3934-e3be-8f185ab59eae\/mza_2212534510427103234.jpg\/170x170bb.png",
+            "genre": "Life Sciences",
+            "genre_id": "1541",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/stuff-to-blow-your-mind\/id350359306?uo=2"
         },
         {
             "rank": 35,
-            "apple_id": "1709972584",
-            "name": "Astrum Space",
-            "artist": "Astrum",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/d8\/57\/5b\/d8575b8f-0e36-cb99-b483-ddc5dc0d76b9\/mza_4259592719811012647.jpg\/170x170bb.png",
-            "genre": "Astronomy",
-            "genre_id": "1538",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/astrum-space\/id1709972584?uo=2"
+            "apple_id": "136697669",
+            "name": "Science Weekly",
+            "artist": "The Guardian",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/8c\/a5\/9a\/8ca59ae4-a596-7ff1-a939-074bd85d5513\/mza_9730644779736703088.jpg\/170x170bb.png",
+            "genre": "Science",
+            "genre_id": "1533",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/science-weekly\/id136697669?uo=2"
         },
         {
             "rank": 36,
-            "apple_id": "1466697207",
-            "name": "Overheard at National Geographic",
-            "artist": "National Geographic",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/2a\/ae\/20\/2aae2007-74b2-401b-1646-59a739cf7e89\/mza_12480586362706763162.jpg\/170x170bb.png",
-            "genre": "Science",
-            "genre_id": "1533",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/overheard-at-national-geographic\/id1466697207?uo=2"
+            "apple_id": "794058155",
+            "name": "Universe Today Podcast",
+            "artist": "Fraser Cain",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/9d\/da\/d1\/9ddad1d0-0fe2-8920-84c5-be44d60da9ac\/mza_18224578741291508246.jpg\/170x170bb.png",
+            "genre": "Astronomy",
+            "genre_id": "1538",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/universe-today-podcast\/id794058155?uo=2"
         },
         {
             "rank": 37,
@@ -379,166 +379,6 @@
         },
         {
             "rank": 38,
-            "apple_id": "1740594155",
-            "name": "Crash Course Pods: The Universe",
-            "artist": "Crash Course Pods, Complexly",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/a9\/86\/23\/a986234f-6b1c-19e7-672b-f8a844949aec\/mza_14267107433940438286.jpeg\/170x170bb.png",
-            "genre": "Astronomy",
-            "genre_id": "1538",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/crash-course-pods-the-universe\/id1740594155?uo=2"
-        },
-        {
-            "rank": 39,
-            "apple_id": "1526885135",
-            "name": "Blurry Creatures",
-            "artist": "Blurry Creatures",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/85\/25\/ad\/8525adf3-be9a-7963-a08e-ff24771b9327\/mza_14013259081946136509.jpg\/170x170bb.png",
-            "genre": "Nature",
-            "genre_id": "1537",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/blurry-creatures\/id1526885135?uo=2"
-        },
-        {
-            "rank": 40,
-            "apple_id": "343580439",
-            "name": "The Infinite Monkey Cage",
-            "artist": "BBC Radio 4",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/d5\/f8\/17\/d5f817c7-5144-5c68-dafb-1c2db82a913b\/mza_5990309251420587222.jpg\/170x170bb.png",
-            "genre": "Science",
-            "genre_id": "1533",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/the-infinite-monkey-cage\/id343580439?uo=2"
-        },
-        {
-            "rank": 41,
-            "apple_id": "521594713",
-            "name": "You Are Not So Smart",
-            "artist": "You Are Not So Smart",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/90\/f3\/e5\/90f3e5da-d661-3581-4474-6e14f342c86a\/mza_8266442694079680437.jpg\/170x170bb.png",
-            "genre": "Social Sciences",
-            "genre_id": "1535",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/you-are-not-so-smart\/id521594713?uo=2"
-        },
-        {
-            "rank": 42,
-            "apple_id": "1340505607",
-            "name": "The Science of Happiness",
-            "artist": "PRX and Greater Good Science Center",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts115\/v4\/0b\/ea\/af\/0beaaf0e-6f94-997a-b595-686844ea208a\/mza_714436907127715928.jpg\/170x170bb.png",
-            "genre": "Social Sciences",
-            "genre_id": "1535",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/the-science-of-happiness\/id1340505607?uo=2"
-        },
-        {
-            "rank": 43,
-            "apple_id": "1837162757",
-            "name": "A Question of Science",
-            "artist": "The Francis Crick Institute",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/b0\/ba\/55\/b0ba5538-c2b9-020e-ce15-ce6391b51d26\/mza_11426264276487813755.jpg\/170x170bb.png",
-            "genre": "Science",
-            "genre_id": "1533",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/a-question-of-science\/id1837162757?uo=2"
-        },
-        {
-            "rank": 44,
-            "apple_id": "350359306",
-            "name": "Stuff To Blow Your Mind",
-            "artist": "iHeartPodcasts",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/29\/71\/6c\/29716c28-c923-3934-e3be-8f185ab59eae\/mza_2212534510427103234.jpg\/170x170bb.png",
-            "genre": "Life Sciences",
-            "genre_id": "1541",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/stuff-to-blow-your-mind\/id350359306?uo=2"
-        },
-        {
-            "rank": 45,
-            "apple_id": "1664299388",
-            "name": "WEAPONIZED with Jeremy Corbell & George Knapp",
-            "artist": "Jeremy Corbell and George Knapp",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/9b\/76\/5f\/9b765f34-697f-21db-84cf-dec0b7ffae20\/mza_3087953755133007069.jpg\/170x170bb.png",
-            "genre": "Science",
-            "genre_id": "1533",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/weaponized-with-jeremy-corbell-george-knapp\/id1664299388?uo=2"
-        },
-        {
-            "rank": 46,
-            "apple_id": "284012446",
-            "name": "Discovery",
-            "artist": "BBC World Service",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/9a\/bd\/99\/9abd9922-f92c-02ac-9f5b-d49b937095b6\/mza_16474469207743393548.jpg\/170x170bb.png",
-            "genre": "Science",
-            "genre_id": "1533",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/discovery\/id284012446?uo=2"
-        },
-        {
-            "rank": 47,
-            "apple_id": "1455418690",
-            "name": "The Wild with Chris Morgan",
-            "artist": "KUOW News and Information",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/27\/e1\/e4\/27e1e4ea-7651-0516-6a41-77e9aac87a0a\/mza_7312234160712970066.jpg\/170x170bb.png",
-            "genre": "Nature",
-            "genre_id": "1537",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/the-wild-with-chris-morgan\/id1455418690?uo=2"
-        },
-        {
-            "rank": 48,
-            "apple_id": "794058155",
-            "name": "Universe Today Podcast",
-            "artist": "Fraser Cain",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/9d\/da\/d1\/9ddad1d0-0fe2-8920-84c5-be44d60da9ac\/mza_18224578741291508246.jpg\/170x170bb.png",
-            "genre": "Astronomy",
-            "genre_id": "1538",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/universe-today-podcast\/id794058155?uo=2"
-        },
-        {
-            "rank": 49,
-            "apple_id": "1335892956",
-            "name": "Psychiatry & Psychotherapy Podcast",
-            "artist": "David Puder, M.D.",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts124\/v4\/b4\/ab\/6f\/b4ab6fae-2f39-04ad-2435-0044c31c0ef4\/mza_4983201995313024590.png\/170x170bb.png",
-            "genre": "Science",
-            "genre_id": "1533",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/psychiatry-psychotherapy-podcast\/id1335892956?uo=2"
-        },
-        {
-            "rank": 50,
-            "apple_id": "136697669",
-            "name": "Science Weekly",
-            "artist": "The Guardian",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/8c\/a5\/9a\/8ca59ae4-a596-7ff1-a939-074bd85d5513\/mza_9730644779736703088.jpg\/170x170bb.png",
-            "genre": "Science",
-            "genre_id": "1533",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/science-weekly\/id136697669?uo=2"
-        },
-        {
-            "rank": 51,
-            "apple_id": "508376907",
-            "name": "Babbage from The Economist",
-            "artist": "The Economist",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/2e\/bc\/9a\/2ebc9af0-24d3-3851-0403-8c87fd90a9b0\/mza_18385153408864727033.jpeg\/170x170bb.png",
-            "genre": "Science",
-            "genre_id": "1533",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/babbage-from-the-economist\/id508376907?uo=2"
-        },
-        {
-            "rank": 52,
-            "apple_id": "1146941306",
-            "name": "Therapist Uncensored Podcast",
-            "artist": "Sue Marriott LCSW, CGP & Ann Kelley PhD",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts126\/v4\/22\/d8\/fd\/22d8fdc2-16f5-a4ec-cb43-5a2d4b92ffa6\/mza_5288490312746447040.png\/170x170bb.png",
-            "genre": "Social Sciences",
-            "genre_id": "1535",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/therapist-uncensored-podcast\/id1146941306?uo=2"
-        },
-        {
-            "rank": 53,
-            "apple_id": "1736397134",
-            "name": "Bedtime Astronomy",
-            "artist": "Synthetic Universe",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts112\/v4\/09\/e2\/ff\/09e2ff86-a927-7624-54ec-c2c6aeb0b42e\/mza_9282112868472252898.jpg\/170x170bb.png",
-            "genre": "Astronomy",
-            "genre_id": "1538",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/bedtime-astronomy\/id1736397134?uo=2"
-        },
-        {
-            "rank": 54,
             "apple_id": "1439735906",
             "name": "Drilled",
             "artist": "Pushkin Industries",
@@ -548,77 +388,17 @@
             "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/drilled\/id1439735906?uo=2"
         },
         {
-            "rank": 55,
-            "apple_id": "670199157",
-            "name": "BBC Inside Science",
-            "artist": "BBC Radio 4",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/84\/5a\/71\/845a71dc-4b13-a401-c27f-9fc21cbc4b17\/mza_4130918271651654085.jpg\/170x170bb.png",
-            "genre": "Science",
-            "genre_id": "1533",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/bbc-inside-science\/id670199157?uo=2"
-        },
-        {
-            "rank": 56,
-            "apple_id": "1521758802",
-            "name": "Theories of Everything with Curt Jaimungal",
-            "artist": "Theories of Everything",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/2a\/6c\/4a\/2a6c4a61-4ae0-809b-ca09-ce2adede4cef\/mza_13635592988277147456.jpeg\/170x170bb.png",
-            "genre": "Physics",
-            "genre_id": "1542",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/theories-of-everything-with-curt-jaimungal\/id1521758802?uo=2"
-        },
-        {
-            "rank": 57,
-            "apple_id": "1296673906",
-            "name": "Instant Genius",
-            "artist": "Our Media",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts116\/v4\/db\/eb\/4a\/dbeb4ac4-17b6-338d-634a-ba9027474f2f\/mza_9562697052515527349.jpeg\/170x170bb.png",
-            "genre": "Science",
-            "genre_id": "1533",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/instant-genius\/id1296673906?uo=2"
-        },
-        {
-            "rank": 58,
-            "apple_id": "1227858637",
-            "name": "Somewhere in the Skies",
-            "artist": "SpectreVision Radio",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/4f\/a9\/42\/4fa94207-331c-049d-ec67-09485c56c2ed\/mza_7021853075306410661.jpg\/170x170bb.png",
+            "rank": 39,
+            "apple_id": "1340505607",
+            "name": "The Science of Happiness",
+            "artist": "PRX and Greater Good Science Center",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts115\/v4\/0b\/ea\/af\/0beaaf0e-6f94-997a-b595-686844ea208a\/mza_714436907127715928.jpg\/170x170bb.png",
             "genre": "Social Sciences",
             "genre_id": "1535",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/somewhere-in-the-skies\/id1227858637?uo=2"
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/the-science-of-happiness\/id1340505607?uo=2"
         },
         {
-            "rank": 59,
-            "apple_id": "1511121397",
-            "name": "That UFO Podcast",
-            "artist": "That UFO Podcast",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/ff\/b6\/6b\/ffb66b7d-88f8-88f3-b67c-9189f5167ec1\/mza_9140250549875290339.png\/170x170bb.png",
-            "genre": "Social Sciences",
-            "genre_id": "1535",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/that-ufo-podcast\/id1511121397?uo=2"
-        },
-        {
-            "rank": 60,
-            "apple_id": "1794372591",
-            "name": "Ancient Aliens",
-            "artist": "PodcastOne",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/25\/2e\/3f\/252e3f73-ad93-63fb-960f-523cf251920b\/mza_5394236316254685068.jpeg\/170x170bb.png",
-            "genre": "Science",
-            "genre_id": "1533",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/ancient-aliens\/id1794372591?uo=2"
-        },
-        {
-            "rank": 61,
-            "apple_id": "1453429066",
-            "name": "Bigfoot Society",
-            "artist": "Jeremiah Byron",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/30\/78\/7e\/30787e9e-f34d-3894-18a7-c8175cd318f4\/mza_2430765012205420185.jpg\/170x170bb.png",
-            "genre": "Nature",
-            "genre_id": "1537",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/bigfoot-society\/id1453429066?uo=2"
-        },
-        {
-            "rank": 62,
+            "rank": 40,
             "apple_id": "267300884",
             "name": "More or Less",
             "artist": "BBC Radio 4",
@@ -628,297 +408,7 @@
             "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/more-or-less\/id267300884?uo=2"
         },
         {
-            "rank": 63,
-            "apple_id": "1706843972",
-            "name": "Mystères et étoiles",
-            "artist": "Zebroloss",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/34\/12\/50\/3412501d-32c8-7442-d538-7f79b8447faf\/mza_11195541802681384194.jpg\/170x170bb.png",
-            "genre": "Astronomy",
-            "genre_id": "1538",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/myst%C3%A8res-et-%C3%A9toiles\/id1706843972?uo=2"
-        },
-        {
-            "rank": 64,
-            "apple_id": "1772739634",
-            "name": "Bite Back with Abbey Sharp",
-            "artist": "Abbey Sharp \/ Frequency Podcast Network",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/22\/e8\/60\/22e86081-9fe9-65f2-442b-658a6ef417ad\/mza_3677446199581817385.jpg\/170x170bb.png",
-            "genre": "Science",
-            "genre_id": "1533",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/bite-back-with-abbey-sharp\/id1772739634?uo=2"
-        },
-        {
-            "rank": 65,
-            "apple_id": "1496847791",
-            "name": "The World, the Universe and Us",
-            "artist": "New Scientist",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/1a\/8e\/96\/1a8e9649-ad0a-2893-35fb-b6596fe8cffa\/mza_13559693527331785872.jpeg\/170x170bb.png",
-            "genre": "Science",
-            "genre_id": "1533",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/the-world-the-universe-and-us\/id1496847791?uo=2"
-        },
-        {
-            "rank": 66,
-            "apple_id": "1505624059",
-            "name": "NASA's Curious Universe",
-            "artist": "National Aeronautics and Space Administration (NASA)",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/e8\/1c\/8c\/e81c8c2f-a54e-5e7c-3600-22d37012e5a1\/mza_10563171041006909060.jpeg\/170x170bb.png",
-            "genre": "Science",
-            "genre_id": "1533",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/nasas-curious-universe\/id1505624059?uo=2"
-        },
-        {
-            "rank": 67,
-            "apple_id": "1084340508",
-            "name": "Curious Cases",
-            "artist": "BBC Radio 4",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/f1\/a7\/c1\/f1a7c13c-5dfd-e768-af87-b197f1f8bcd7\/mza_14528757192547412287.jpg\/170x170bb.png",
-            "genre": "Science",
-            "genre_id": "1533",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/curious-cases\/id1084340508?uo=2"
-        },
-        {
-            "rank": 68,
-            "apple_id": "1432369172",
-            "name": "People Who Read People: A Behavior and Psychology Podcast",
-            "artist": "Zachary Elwood",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/9b\/dc\/cf\/9bdccf78-a9da-67bc-5097-067ff9ef806d\/mza_15964796734776038703.jpg\/170x170bb.png",
-            "genre": "Social Sciences",
-            "genre_id": "1535",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/people-who-read-people-a-behavior-and-psychology-podcast\/id1432369172?uo=2"
-        },
-        {
-            "rank": 69,
-            "apple_id": "1852295289",
-            "name": "Emonthebrain",
-            "artist": "Emily McDonald",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/cf\/92\/f3\/cf92f310-266e-847e-8958-2ed5b32fd821\/mza_13703023371170673022.jpeg\/170x170bb.png",
-            "genre": "Science",
-            "genre_id": "1533",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/emonthebrain\/id1852295289?uo=2"
-        },
-        {
-            "rank": 70,
-            "apple_id": "1569661214",
-            "name": "The Warblers by Birds Canada",
-            "artist": "Birds Canada",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/ff\/8e\/39\/ff8e397f-ac7b-4a9c-78b1-dabebe7a95bc\/mza_16929835999201487867.jpg\/170x170bb.png",
-            "genre": "Nature",
-            "genre_id": "1537",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/the-warblers-by-birds-canada\/id1569661214?uo=2"
-        },
-        {
-            "rank": 71,
-            "apple_id": "412308695",
-            "name": "TheThinkingAtheist",
-            "artist": "The Thinking Atheist",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/54\/bf\/88\/54bf8805-bba5-2449-1a8f-cb39b1915dd3\/mza_14822634690800243779.jpg\/170x170bb.png",
-            "genre": "Science",
-            "genre_id": "1533",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/thethinkingatheist\/id412308695?uo=2"
-        },
-        {
-            "rank": 72,
-            "apple_id": "73330911",
-            "name": "All In The Mind",
-            "artist": "ABC Australia",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/5a\/33\/a8\/5a33a853-6490-bc66-2886-f611c5526a41\/mza_2107792835079420452.jpg\/170x170bb.png",
-            "genre": "Life Sciences",
-            "genre_id": "1541",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/all-in-the-mind\/id73330911?uo=2"
-        },
-        {
-            "rank": 73,
-            "apple_id": "1207586509",
-            "name": "The Common Descent Podcast",
-            "artist": "Common Descent",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts113\/v4\/2d\/ad\/58\/2dad5885-6566-fdd4-6b52-f87b69af3688\/mza_3078482384516892224.png\/170x170bb.png",
-            "genre": "Natural Sciences",
-            "genre_id": "1534",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/the-common-descent-podcast\/id1207586509?uo=2"
-        },
-        {
-            "rank": 74,
-            "apple_id": "1574802514",
-            "name": "Stanford Psychology Podcast",
-            "artist": "Stanford Psychology",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/0d\/78\/7e\/0d787eda-dabb-1e35-6eaa-53cb53306c89\/mza_6107642233241530607.jpg\/170x170bb.png",
-            "genre": "Social Sciences",
-            "genre_id": "1535",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/stanford-psychology-podcast\/id1574802514?uo=2"
-        },
-        {
-            "rank": 75,
-            "apple_id": "1461719659",
-            "name": "Bigfoot Terror in the Woods Sightings and Encounters",
-            "artist": "W.J. Sheehan",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts113\/v4\/e1\/2d\/07\/e12d0778-7036-ea3d-4207-fe669384f9ab\/mza_11638582080806314243.jpg\/170x170bb.png",
-            "genre": "Nature",
-            "genre_id": "1537",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/bigfoot-terror-in-the-woods-sightings-and-encounters\/id1461719659?uo=2"
-        },
-        {
-            "rank": 76,
-            "apple_id": "1616723640",
-            "name": "Nerdy About Nature",
-            "artist": "Nerdy About Nature",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/PodcastSource126\/v4\/39\/82\/70\/398270d7-1bb8-23d4-6bd1-d849e1a1bfcd\/2e3b8911-fda7-45e0-a3d0-5b21656d7265.jpg\/170x170bb.png",
-            "genre": "Nature",
-            "genre_id": "1537",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/nerdy-about-nature\/id1616723640?uo=2"
-        },
-        {
-            "rank": 77,
-            "apple_id": "1555937394",
-            "name": "Dose de psy: le podcast",
-            "artist": "Dre Janick Coutu, psychologue",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts115\/v4\/b0\/61\/44\/b0614469-7733-f3c8-2902-86defcdcc096\/mza_18085597142404304588.png\/170x170bb.png",
-            "genre": "Social Sciences",
-            "genre_id": "1535",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/dose-de-psy-le-podcast\/id1555937394?uo=2"
-        },
-        {
-            "rank": 78,
-            "apple_id": "1866633166",
-            "name": "Safe to Drink",
-            "artist": "NHPR",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/5e\/9d\/8a\/5e9d8a51-1449-6982-2369-017f6491b354\/mza_11980131711332894743.jpeg\/170x170bb.png",
-            "genre": "Science",
-            "genre_id": "1533",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/safe-to-drink\/id1866633166?uo=2"
-        },
-        {
-            "rank": 79,
-            "apple_id": "1844631307",
-            "name": "Suspicious Minds: AI and the Apocalypse",
-            "artist": "Agoric Media",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/66\/c9\/5d\/66c95da6-3ed6-20fc-7a54-8fd6cdf3c237\/mza_81406979434027984.jpeg\/170x170bb.png",
-            "genre": "Social Sciences",
-            "genre_id": "1535",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/suspicious-minds-ai-and-the-apocalypse\/id1844631307?uo=2"
-        },
-        {
-            "rank": 80,
-            "apple_id": "1352860989",
-            "name": "The Michael Shermer Show",
-            "artist": "Michael Shermer",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts116\/v4\/b1\/1b\/5a\/b11b5ad4-b160-7284-5b7c-cdc8daf251d7\/mza_556097899631146588.jpg\/170x170bb.png",
-            "genre": "Natural Sciences",
-            "genre_id": "1534",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/the-michael-shermer-show\/id1352860989?uo=2"
-        },
-        {
-            "rank": 81,
-            "apple_id": "79155128",
-            "name": "BirdNote Daily",
-            "artist": "BirdNote",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts114\/v4\/02\/de\/46\/02de4691-73b9-7389-bddd-a885d76ccba8\/mza_16541683471026933118.jpg\/170x170bb.png",
-            "genre": "Natural Sciences",
-            "genre_id": "1534",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/birdnote-daily\/id79155128?uo=2"
-        },
-        {
-            "rank": 82,
-            "apple_id": "1608948873",
-            "name": "The Joy of Why",
-            "artist": "Steven Strogatz, Janna Levin and Quanta Magazine",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/ee\/23\/34\/ee233467-3753-a5f0-f8ef-10d7f9d7ff9a\/mza_14532243109804651298.jpg\/170x170bb.png",
-            "genre": "Life Sciences",
-            "genre_id": "1541",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/the-joy-of-why\/id1608948873?uo=2"
-        },
-        {
-            "rank": 83,
-            "apple_id": "1172855980",
-            "name": "CrowdScience",
-            "artist": "BBC World Service",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/ec\/ae\/9d\/ecae9d25-dc22-82a5-b9ce-b111eaa9ae6f\/mza_8551651165632973453.jpg\/170x170bb.png",
-            "genre": "Science",
-            "genre_id": "1533",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/crowdscience\/id1172855980?uo=2"
-        },
-        {
-            "rank": 84,
-            "apple_id": "253428066",
-            "name": "Science unscripted",
-            "artist": "DW",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/24\/23\/62\/242362c2-d069-475c-d9bb-18d71c4c26a2\/mza_6892749484850828603.jpg\/170x170bb.png",
-            "genre": "Natural Sciences",
-            "genre_id": "1534",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/science-unscripted\/id253428066?uo=2"
-        },
-        {
-            "rank": 85,
-            "apple_id": "329937558",
-            "name": "Mysterious Universe",
-            "artist": "8th Kind",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts112\/v4\/1e\/33\/f9\/1e33f91a-edfa-0e84-2c12-e9eb3e464b07\/mza_4914288206950426810.jpg\/170x170bb.png",
-            "genre": "Social Sciences",
-            "genre_id": "1535",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/mysterious-universe\/id329937558?uo=2"
-        },
-        {
-            "rank": 86,
-            "apple_id": "83814321",
-            "name": "Les années lumière",
-            "artist": "Radio-Canada",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/d9\/3c\/48\/d93c485d-86ce-3e78-32da-155a3f387b29\/mza_8885104784148552969.jpg\/170x170bb.png",
-            "genre": "Science",
-            "genre_id": "1533",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/les-ann%C3%A9es-lumi%C3%A8re\/id83814321?uo=2"
-        },
-        {
-            "rank": 87,
-            "apple_id": "1169885840",
-            "name": "Into the Impossible With Brian Keating",
-            "artist": "Big Bang Productions Inc.",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/78\/8f\/3d\/788f3d7c-c500-155d-f41e-7485b97f2e4f\/mza_9070847447093751851.jpg\/170x170bb.png",
-            "genre": "Natural Sciences",
-            "genre_id": "1534",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/into-the-impossible-with-brian-keating\/id1169885840?uo=2"
-        },
-        {
-            "rank": 88,
-            "apple_id": "1587816694",
-            "name": "Let's Learn Everything!",
-            "artist": "Maximum Fun",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts122\/v4\/ac\/d6\/f5\/acd6f52e-f259-4fee-f6b1-45b8849139a8\/mza_7116547261740367713.jpg\/170x170bb.png",
-            "genre": "Science",
-            "genre_id": "1533",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/lets-learn-everything\/id1587816694?uo=2"
-        },
-        {
-            "rank": 89,
-            "apple_id": "1678137024",
-            "name": "Le Détecteur de rumeurs",
-            "artist": "Le Détecteur de rumeurs de Science-Presse",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/a5\/68\/6f\/a5686f24-6bad-05ce-c562-23c83cc58915\/mza_13903233602187826474.jpg\/170x170bb.png",
-            "genre": "Science",
-            "genre_id": "1533",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/le-d%C3%A9tecteur-de-rumeurs\/id1678137024?uo=2"
-        },
-        {
-            "rank": 90,
-            "apple_id": "634849863",
-            "name": "Unexpected Elements",
-            "artist": "BBC World Service",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts116\/v4\/87\/17\/61\/8717611f-a0ad-dbe9-b763-59326940eec2\/mza_2728337113689690539.jpg\/170x170bb.png",
-            "genre": "Science",
-            "genre_id": "1533",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/unexpected-elements\/id634849863?uo=2"
-        },
-        {
-            "rank": 91,
-            "apple_id": "942777522",
-            "name": "The Psychology Podcast",
-            "artist": "iHeartPodcasts",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/cf\/5a\/f0\/cf5af016-6056-30f0-be09-f29351430893\/mza_3453059785950812097.jpeg\/170x170bb.png",
-            "genre": "Social Sciences",
-            "genre_id": "1535",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/the-psychology-podcast\/id942777522?uo=2"
-        },
-        {
-            "rank": 92,
+            "rank": 41,
             "apple_id": "81934659",
             "name": "Nature Podcast",
             "artist": "Springer Nature Limited",
@@ -928,107 +418,77 @@
             "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/nature-podcast\/id81934659?uo=2"
         },
         {
-            "rank": 93,
-            "apple_id": "1461725746",
-            "name": "Paranormal Portal",
-            "artist": "Brent Thomas",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts112\/v4\/a7\/21\/65\/a7216587-5257-9a56-6a50-962036629ead\/mza_5122439218737014158.jpg\/170x170bb.png",
-            "genre": "Natural Sciences",
-            "genre_id": "1534",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/paranormal-portal\/id1461725746?uo=2"
+            "rank": 42,
+            "apple_id": "1146941306",
+            "name": "Therapist Uncensored Podcast",
+            "artist": "Sue Marriott LCSW, CGP & Ann Kelley PhD",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts126\/v4\/22\/d8\/fd\/22d8fdc2-16f5-a4ec-cb43-5a2d4b92ffa6\/mza_5288490312746447040.png\/170x170bb.png",
+            "genre": "Social Sciences",
+            "genre_id": "1535",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/therapist-uncensored-podcast\/id1146941306?uo=2"
         },
         {
-            "rank": 94,
-            "apple_id": "1080090608",
-            "name": "Space Nuts: Astronomy Insights & Cosmic Discoveries",
-            "artist": "Professor Fred Watson and Andrew Dunkley",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/84\/57\/41\/84574188-27bd-e116-ef88-2ca493966691\/mza_17326849945998137175.jpg\/170x170bb.png",
-            "genre": "Astronomy",
-            "genre_id": "1538",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/space-nuts-astronomy-insights-cosmic-discoveries\/id1080090608?uo=2"
+            "rank": 43,
+            "apple_id": "1569661214",
+            "name": "The Warblers by Birds Canada",
+            "artist": "Birds Canada",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/ff\/8e\/39\/ff8e397f-ac7b-4a9c-78b1-dabebe7a95bc\/mza_16929835999201487867.jpg\/170x170bb.png",
+            "genre": "Nature",
+            "genre_id": "1537",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/the-warblers-by-birds-canada\/id1569661214?uo=2"
         },
         {
-            "rank": 95,
-            "apple_id": "120329020",
-            "name": "Science Magazine Podcast",
-            "artist": "Science Magazine",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/b0\/d3\/a3\/b0d3a397-8a33-3cd1-9cb7-91808b893ee2\/mza_6969596256435242856.jpg\/170x170bb.png",
-            "genre": "Science",
-            "genre_id": "1533",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/science-magazine-podcast\/id120329020?uo=2"
+            "rank": 44,
+            "apple_id": "1532606850",
+            "name": "The Science of Birds",
+            "artist": "Ivan Phillipsen",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/96\/f6\/aa\/96f6aadd-5a1d-f589-4aac-e50587ee3d91\/mza_2190820532439210193.jpg\/170x170bb.png",
+            "genre": "Nature",
+            "genre_id": "1537",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/the-science-of-birds\/id1532606850?uo=2"
         },
         {
-            "rank": 96,
-            "apple_id": "191636169",
-            "name": "Astronomy Cast",
-            "artist": "Fraser Cain and Dr. Pamela Gay",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Features\/v4\/dd\/dd\/ad\/ddddad15-13df-6813-7d05-d81e45d88d9e\/mza_5442136597615139731.jpg\/170x170bb.png",
-            "genre": "Astronomy",
-            "genre_id": "1538",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/astronomy-cast\/id191636169?uo=2"
-        },
-        {
-            "rank": 97,
-            "apple_id": "1495324190",
-            "name": "The Supermassive Podcast",
-            "artist": "The Royal Astronomical Society",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/8d\/03\/a0\/8d03a0e5-3cdc-baff-e911-047a8a88c26a\/mza_13003647509919591255.png\/170x170bb.png",
-            "genre": "Astronomy",
-            "genre_id": "1538",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/the-supermassive-podcast\/id1495324190?uo=2"
-        },
-        {
-            "rank": 98,
-            "apple_id": "1245995247",
-            "name": "In Defense of Plants Podcast",
-            "artist": "In Defense of Plants",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/9c\/82\/ed\/9c82ed49-f3e0-2395-bca5-1fabfaab175a\/mza_11269029609610254600.jpeg\/170x170bb.png",
-            "genre": "Natural Sciences",
-            "genre_id": "1534",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/in-defense-of-plants-podcast\/id1245995247?uo=2"
-        },
-        {
-            "rank": 99,
-            "apple_id": "189330872",
-            "name": "Science Quickly",
-            "artist": "Scientific American",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/14\/01\/90\/140190a6-f86e-f0b5-8d22-33e4d3728638\/mza_11503669622119701029.jpeg\/170x170bb.png",
-            "genre": "Science",
-            "genre_id": "1533",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/science-quickly\/id189330872?uo=2"
-        },
-        {
-            "rank": 100,
-            "apple_id": "1134937775",
-            "name": "La Science CQFD",
-            "artist": "France Culture",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts122\/v4\/be\/26\/59\/be2659b1-3aca-5551-1a0c-74e2f386531c\/mza_1344899384136776745.jpg\/170x170bb.png",
-            "genre": "Science",
-            "genre_id": "1533",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/la-science-cqfd\/id1134937775?uo=2"
-        },
-        {
-            "rank": 101,
-            "apple_id": "1488874171",
-            "name": "UFO Chronicles Podcast",
-            "artist": "Nik Hunter",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/22\/72\/33\/227233bf-0e7b-4d2a-d2bd-402d810dea89\/mza_17727488661588768146.jpg\/170x170bb.png",
-            "genre": "Natural Sciences",
-            "genre_id": "1534",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/ufo-chronicles-podcast\/id1488874171?uo=2"
-        },
-        {
-            "rank": 102,
-            "apple_id": "74171648",
-            "name": "The Naked Scientists Podcast",
-            "artist": "The Naked Scientists",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts115\/v4\/be\/24\/f6\/be24f688-140b-e4d5-4fd3-b6467a88c2fa\/mza_13747746262101790232.png\/170x170bb.png",
+            "rank": 45,
+            "apple_id": "73330911",
+            "name": "All In The Mind",
+            "artist": "ABC Australia",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/5a\/33\/a8\/5a33a853-6490-bc66-2886-f611c5526a41\/mza_2107792835079420452.jpg\/170x170bb.png",
             "genre": "Life Sciences",
             "genre_id": "1541",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/the-naked-scientists-podcast\/id74171648?uo=2"
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/all-in-the-mind\/id73330911?uo=2"
         },
         {
-            "rank": 103,
+            "rank": 46,
+            "apple_id": "1496847791",
+            "name": "The World, the Universe and Us",
+            "artist": "New Scientist",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/1a\/8e\/96\/1a8e9649-ad0a-2893-35fb-b6596fe8cffa\/mza_13559693527331785872.jpeg\/170x170bb.png",
+            "genre": "Science",
+            "genre_id": "1533",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/the-world-the-universe-and-us\/id1496847791?uo=2"
+        },
+        {
+            "rank": 47,
+            "apple_id": "1709972584",
+            "name": "Astrum Space",
+            "artist": "Astrum",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/d8\/57\/5b\/d8575b8f-0e36-cb99-b483-ddc5dc0d76b9\/mza_4259592719811012647.jpg\/170x170bb.png",
+            "genre": "Astronomy",
+            "genre_id": "1538",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/astrum-space\/id1709972584?uo=2"
+        },
+        {
+            "rank": 48,
+            "apple_id": "670199157",
+            "name": "BBC Inside Science",
+            "artist": "BBC Radio 4",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/84\/5a\/71\/845a71dc-4b13-a401-c27f-9fc21cbc4b17\/mza_4130918271651654085.jpg\/170x170bb.png",
+            "genre": "Science",
+            "genre_id": "1533",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/bbc-inside-science\/id670199157?uo=2"
+        },
+        {
+            "rank": 49,
             "apple_id": "1021340531",
             "name": "The Quanta Podcast",
             "artist": "Quanta Magazine",
@@ -1038,497 +498,177 @@
             "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/the-quanta-podcast\/id1021340531?uo=2"
         },
         {
-            "rank": 104,
-            "apple_id": "593872749",
-            "name": "New Books in Critical Theory",
-            "artist": "Marshall Poe",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts112\/v4\/c1\/f6\/8e\/c1f68e0f-1249-2de2-c3b9-6048de76064d\/mza_340435763471568584.jpeg\/170x170bb.png",
-            "genre": "Social Sciences",
-            "genre_id": "1535",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/new-books-in-critical-theory\/id593872749?uo=2"
-        },
-        {
-            "rank": 105,
-            "apple_id": "1437682381",
-            "name": "The End Of The World with Josh Clark",
-            "artist": "iHeartPodcasts",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/c7\/42\/1b\/c7421b19-25ce-9c89-d1cd-801566753e15\/mza_519576920609695828.jpg\/170x170bb.png",
-            "genre": "Science",
-            "genre_id": "1533",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/the-end-of-the-world-with-josh-clark\/id1437682381?uo=2"
-        },
-        {
-            "rank": 106,
-            "apple_id": "1653035613",
-            "name": "Earthfiles Podcast with Linda Moulton Howe",
-            "artist": "Linda Moulton Howe",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts112\/v4\/af\/51\/fc\/af51fc79-a1e1-d676-4253-a6498fb1f523\/mza_6721373513478433654.jpg\/170x170bb.png",
-            "genre": "Science",
-            "genre_id": "1533",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/earthfiles-podcast-with-linda-moulton-howe\/id1653035613?uo=2"
-        },
-        {
-            "rank": 107,
-            "apple_id": "1506561489",
-            "name": "Wild Times: Wildlife Education",
-            "artist": "Wildlife Educator - Forrest Galante",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/43\/e3\/b8\/43e3b889-f33d-d9cf-5c48-23a2d56143bd\/mza_15580187369589756731.jpg\/170x170bb.png",
-            "genre": "Nature",
-            "genre_id": "1537",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/wild-times-wildlife-education\/id1506561489?uo=2"
-        },
-        {
-            "rank": 108,
-            "apple_id": "1080935752",
-            "name": "SpaceTime with Stuart Gary",
-            "artist": "Stuart Gary",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/98\/f3\/c0\/98f3c08a-f70b-7ebf-c1f2-348a150b8ec7\/mza_5803984397987918705.jpg\/170x170bb.png",
-            "genre": "Astronomy",
-            "genre_id": "1538",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/spacetime-with-stuart-gary\/id1080935752?uo=2"
-        },
-        {
-            "rank": 109,
-            "apple_id": "1677842672",
-            "name": "Inner Cosmos with David Eagleman",
-            "artist": "iHeartPodcasts",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/ef\/95\/2b\/ef952bc2-fa88-1793-83d3-8681d8d42243\/mza_12714652057320277614.jpg\/170x170bb.png",
-            "genre": "Science",
-            "genre_id": "1533",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/inner-cosmos-with-david-eagleman\/id1677842672?uo=2"
-        },
-        {
-            "rank": 110,
-            "apple_id": "1660969118",
-            "name": "Les idées larges",
-            "artist": "ARTE Radio",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/24\/50\/fe\/2450fe2b-eb25-fad0-3382-e1c60a3ad1de\/mza_9416313209984923213.png\/170x170bb.png",
-            "genre": "Science",
-            "genre_id": "1533",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/les-id%C3%A9es-larges\/id1660969118?uo=2"
-        },
-        {
-            "rank": 111,
-            "apple_id": "1460805013",
-            "name": "Bigfoot and Beyond with Cliff and Bobo",
-            "artist": "Bigfoot and Beyond LLC",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/2b\/7e\/e1\/2b7ee14f-6d70-5f5c-83ab-3062f5ebf95e\/mza_2096434061232653106.jpg\/170x170bb.png",
-            "genre": "Science",
-            "genre_id": "1533",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/bigfoot-and-beyond-with-cliff-and-bobo\/id1460805013?uo=2"
-        },
-        {
-            "rank": 112,
-            "apple_id": "1850002930",
-            "name": "Operation Night Cat",
-            "artist": "New Hampshire Public Radio",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/fe\/ca\/00\/feca006e-3757-6f6c-cf1a-d4abe0b68a09\/mza_14414141835369209575.jpeg\/170x170bb.png",
-            "genre": "Nature",
-            "genre_id": "1537",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/operation-night-cat\/id1850002930?uo=2"
-        },
-        {
-            "rank": 113,
-            "apple_id": "958825741",
-            "name": "Ask a Spaceman!",
-            "artist": "Paul M. Sutter",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts116\/v4\/a6\/70\/d1\/a670d1d6-d59d-294c-d581-16ab054cf907\/mza_8560280661781209120.jpg\/170x170bb.png",
+            "rank": 50,
+            "apple_id": "1245995247",
+            "name": "In Defense of Plants Podcast",
+            "artist": "In Defense of Plants",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/9c\/82\/ed\/9c82ed49-f3e0-2395-bca5-1fabfaab175a\/mza_11269029609610254600.jpeg\/170x170bb.png",
             "genre": "Natural Sciences",
             "genre_id": "1534",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/ask-a-spaceman\/id958825741?uo=2"
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/in-defense-of-plants-podcast\/id1245995247?uo=2"
         },
         {
-            "rank": 114,
-            "apple_id": "1730984252",
-            "name": "Your Brain On",
-            "artist": "Drs. Ayesha and Dean Sherzai",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts116\/v4\/08\/ac\/d4\/08acd476-37d6-3d9b-b3f5-375b582b9601\/mza_7867299351691683020.jpg\/170x170bb.png",
+            "rank": 51,
+            "apple_id": "83814321",
+            "name": "Les années lumière",
+            "artist": "Radio-Canada",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/d9\/3c\/48\/d93c485d-86ce-3e78-32da-155a3f387b29\/mza_8885104784148552969.jpg\/170x170bb.png",
             "genre": "Science",
             "genre_id": "1533",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/your-brain-on\/id1730984252?uo=2"
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/les-ann%C3%A9es-lumi%C3%A8re\/id83814321?uo=2"
         },
         {
-            "rank": 115,
-            "apple_id": "1723724928",
-            "name": "The Astrophysics Podcast",
-            "artist": "Paul Duffell",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts116\/v4\/a6\/18\/73\/a6187302-d104-9d1a-1697-93947237601b\/mza_16825509288327642892.jpg\/170x170bb.png",
-            "genre": "Astronomy",
-            "genre_id": "1538",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/the-astrophysics-podcast\/id1723724928?uo=2"
-        },
-        {
-            "rank": 116,
-            "apple_id": "327034166",
-            "name": "Skeptics with a K",
-            "artist": "Skeptic Media Limited",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts115\/v4\/59\/58\/28\/59582872-249d-edee-095f-0bf349bbe234\/mza_12097649494809319643.jpg\/170x170bb.png",
-            "genre": "Science",
-            "genre_id": "1533",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/skeptics-with-a-k\/id327034166?uo=2"
-        },
-        {
-            "rank": 117,
-            "apple_id": "1281853816",
-            "name": "The Couples Therapist Couch",
-            "artist": "Shane Birkel",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts125\/v4\/b8\/44\/53\/b84453b7-6238-181e-3a32-7ae698214e01\/mza_14720016661591539463.jpg\/170x170bb.png",
-            "genre": "Social Sciences",
-            "genre_id": "1535",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/the-couples-therapist-couch\/id1281853816?uo=2"
-        },
-        {
-            "rank": 118,
-            "apple_id": "1886706035",
-            "name": "PBS Space Time",
-            "artist": "PBS",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/7a\/42\/fb\/7a42fb7e-02d4-2ed7-b68b-d1f399217703\/mza_15571087608435605150.jpeg\/170x170bb.png",
-            "genre": "Astronomy",
-            "genre_id": "1538",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/pbs-space-time\/id1886706035?uo=2"
-        },
-        {
-            "rank": 119,
-            "apple_id": "1775839058",
-            "name": "Public Health is Dead",
-            "artist": "Public Health is Dead",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/2b\/cc\/c3\/2bccc324-8c17-eabb-f5d5-4a214f3fc09d\/mza_5326851708637132218.jpg\/170x170bb.png",
-            "genre": "Life Sciences",
-            "genre_id": "1541",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/public-health-is-dead\/id1775839058?uo=2"
-        },
-        {
-            "rank": 120,
-            "apple_id": "1225096382",
-            "name": "The House of Pod",
-            "artist": "Kaveh MD",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts125\/v4\/53\/a7\/cc\/53a7cc23-9b29-21e5-a815-998e4356890c\/mza_2399456255396101973.jpg\/170x170bb.png",
-            "genre": "Science",
-            "genre_id": "1533",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/the-house-of-pod\/id1225096382?uo=2"
-        },
-        {
-            "rank": 121,
-            "apple_id": "1262594123",
-            "name": "Houston We Have a Podcast",
-            "artist": "National Aeronautics and Space Administration (NASA)",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/67\/4f\/8e\/674f8ee2-f4c9-d85f-e8d0-4c5a73caadde\/mza_3452039001076393270.jpeg\/170x170bb.png",
-            "genre": "Science",
-            "genre_id": "1533",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/houston-we-have-a-podcast\/id1262594123?uo=2"
-        },
-        {
-            "rank": 122,
-            "apple_id": "385427377",
-            "name": "The Science of Everything Podcast",
-            "artist": "James Fodor",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts115\/v4\/d3\/39\/01\/d33901e5-1b3b-70df-1919-7b0c69d0ab5a\/mza_2129224243813628994.jpg\/170x170bb.png",
+            "rank": 52,
+            "apple_id": "1207586509",
+            "name": "The Common Descent Podcast",
+            "artist": "Common Descent",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts113\/v4\/2d\/ad\/58\/2dad5885-6566-fdd4-6b52-f87b69af3688\/mza_3078482384516892224.png\/170x170bb.png",
             "genre": "Natural Sciences",
             "genre_id": "1534",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/the-science-of-everything-podcast\/id385427377?uo=2"
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/the-common-descent-podcast\/id1207586509?uo=2"
         },
         {
-            "rank": 123,
-            "apple_id": "1853347080",
-            "name": "Okay, But... Birds",
-            "artist": "Dr. Scott Taylor",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/b3\/81\/65\/b3816563-d9d0-7d35-54b8-51c1331241f9\/mza_6457331073810178374.png\/170x170bb.png",
-            "genre": "Nature",
-            "genre_id": "1537",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/okay-but-birds\/id1853347080?uo=2"
-        },
-        {
-            "rank": 124,
-            "apple_id": "425414426",
-            "name": "New Books in Political Science",
-            "artist": "New Books Network",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts112\/v4\/bf\/e3\/e7\/bfe3e7fa-c55c-a11d-f7fa-641c0a3afa3a\/mza_12686822547892204607.jpeg\/170x170bb.png",
-            "genre": "Social Sciences",
-            "genre_id": "1535",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/new-books-in-political-science\/id425414426?uo=2"
-        },
-        {
-            "rank": 125,
-            "apple_id": "1452382842",
-            "name": "ELI5 Explain Like I'm 5: Bite sized answers to stuff you should know about - in a mini podcast",
-            "artist": "ELI5 Explain Like I'm Five Podcast",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/9c\/0f\/6e\/9c0f6eaf-90db-61cb-4c5c-b24cab653d09\/mza_2901619618420904062.jpeg\/170x170bb.png",
-            "genre": "Earth Sciences",
-            "genre_id": "1540",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/eli5-explain-like-im-5-bite-sized-answers-to-stuff\/id1452382842?uo=2"
-        },
-        {
-            "rank": 126,
-            "apple_id": "1813405582",
-            "name": "Mythfits",
-            "artist": "Pionaire Podcasting",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/ef\/22\/9a\/ef229a4f-abd4-a4b0-a077-ab71a5c31648\/mza_18222999597141068031.jpg\/170x170bb.png",
+            "rank": 53,
+            "apple_id": "1235836821",
+            "name": "The Future of Everything",
+            "artist": "Stanford Engineering",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts125\/v4\/ce\/00\/b9\/ce00b95d-6a13-587f-417b-c750ec0a432c\/mza_7524670328668388617.jpg\/170x170bb.png",
             "genre": "Science",
             "genre_id": "1533",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/mythfits\/id1813405582?uo=2"
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/the-future-of-everything\/id1235836821?uo=2"
         },
         {
-            "rank": 127,
-            "apple_id": "1428091619",
-            "name": "Navigating Neuropsychology",
-            "artist": "John Bellone & Ryan Van Patten - NavNeuro",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts115\/v4\/81\/87\/7e\/81877ea5-34db-99dd-3b76-7777c785d46a\/mza_14761550180922975137.png\/170x170bb.png",
-            "genre": "Social Sciences",
-            "genre_id": "1535",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/navigating-neuropsychology\/id1428091619?uo=2"
-        },
-        {
-            "rank": 128,
-            "apple_id": "1676750079",
-            "name": "The Good Trouble Show | Unidentified Flying Objects & UFO Disclosure",
-            "artist": "Matt Ford | Investigative Journalist on UFOs & Alien Encounters",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/e7\/c9\/80\/e7c9809e-d8f0-3ae2-6f85-0393f65edb42\/mza_12316384502778056244.jpg\/170x170bb.png",
-            "genre": "Science",
-            "genre_id": "1533",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/the-good-trouble-show-unidentified-flying-objects-ufo\/id1676750079?uo=2"
-        },
-        {
-            "rank": 129,
-            "apple_id": "1757327783",
-            "name": "SASQUATCH THEORY",
-            "artist": "SASQUATCH THEORY",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/6e\/46\/fb\/6e46fb33-cf5a-98bd-9f6c-410ccca72b13\/mza_16855889660914338013.jpg\/170x170bb.png",
-            "genre": "Nature",
-            "genre_id": "1537",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/sasquatch-theory\/id1757327783?uo=2"
-        },
-        {
-            "rank": 130,
-            "apple_id": "1435735981",
-            "name": "The Horse First: A Veterinary Sport Horse Podcast",
-            "artist": "Audrey DeClue, DVM",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts115\/v4\/5e\/c6\/5e\/5ec65ebb-0df2-f015-d80f-8049574b077c\/mza_16694948735222225676.png\/170x170bb.png",
-            "genre": "Life Sciences",
-            "genre_id": "1541",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/the-horse-first-a-veterinary-sport-horse-podcast\/id1435735981?uo=2"
-        },
-        {
-            "rank": 131,
-            "apple_id": "1854862065",
-            "name": "Saving Salmon",
-            "artist": "Atlantic Salmon Federation",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/69\/0b\/d4\/690bd4cf-15a2-f132-be63-941aa882ae04\/mza_12160792951467906552.jpg\/170x170bb.png",
+            "rank": 54,
+            "apple_id": "1231828055",
+            "name": "Paranormal Mysteries",
+            "artist": "Nic Ryan | Paranormal Mysteries Podcast",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/b3\/2a\/e5\/b32ae588-29fa-a46d-d5cb-7c1e99aee9af\/mza_13148469068921859246.jpg\/170x170bb.png",
             "genre": "Natural Sciences",
             "genre_id": "1534",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/saving-salmon\/id1854862065?uo=2"
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/paranormal-mysteries\/id1231828055?uo=2"
         },
         {
-            "rank": 132,
-            "apple_id": "1520680479",
-            "name": "SERious EPI",
-            "artist": "Sue Bevan - Society for Epidemiologic Research",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts125\/v4\/c6\/28\/9e\/c6289e43-6c6d-6e19-1a38-6ab04b36bcb3\/mza_6569102078907432670.jpg\/170x170bb.png",
+            "rank": 55,
+            "apple_id": "1664299388",
+            "name": "WEAPONIZED with Jeremy Corbell & George Knapp",
+            "artist": "Jeremy Corbell and George Knapp",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/9b\/76\/5f\/9b765f34-697f-21db-84cf-dec0b7ffae20\/mza_3087953755133007069.jpg\/170x170bb.png",
             "genre": "Science",
             "genre_id": "1533",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/serious-epi\/id1520680479?uo=2"
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/weaponized-with-jeremy-corbell-george-knapp\/id1664299388?uo=2"
         },
         {
-            "rank": 133,
-            "apple_id": "73330054",
-            "name": "The Science Show",
-            "artist": "ABC Australia",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/c9\/f2\/b7\/c9f2b724-c281-8c35-8abc-d67f7494d099\/mza_17080243363837095423.jpg\/170x170bb.png",
-            "genre": "Natural Sciences",
-            "genre_id": "1534",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/the-science-show\/id73330054?uo=2"
-        },
-        {
-            "rank": 134,
-            "apple_id": "1145222943",
-            "name": "Mysterious Radio: Paranormal, UFO and Lore Interviews",
-            "artist": "Podcast Audio House",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/68\/75\/26\/6875264e-4671-2cd3-486c-cce6fc012742\/mza_17846632532913818315.jpg\/170x170bb.png",
-            "genre": "Social Sciences",
-            "genre_id": "1535",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/mysterious-radio-paranormal-ufo-and-lore-interviews\/id1145222943?uo=2"
-        },
-        {
-            "rank": 135,
-            "apple_id": "1294529191",
-            "name": "GraveYard Tales",
-            "artist": "Adam Ballinger & Matt Rudolph",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/ca\/07\/ae\/ca07ae7c-e26f-8b05-c2cc-776c4a41366d\/mza_16753247311956366825.png\/170x170bb.png",
-            "genre": "Social Sciences",
-            "genre_id": "1535",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/graveyard-tales\/id1294529191?uo=2"
-        },
-        {
-            "rank": 136,
-            "apple_id": "294060079",
-            "name": "La Terre au carré",
-            "artist": "France Inter",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/ef\/74\/34\/ef7434f6-2807-be78-707e-72da1c0669bb\/mza_299305326742185823.jpg\/170x170bb.png",
-            "genre": "Nature",
-            "genre_id": "1537",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/la-terre-au-carr%C3%A9\/id294060079?uo=2"
-        },
-        {
-            "rank": 137,
-            "apple_id": "300973784",
-            "name": "This Week in Virology",
-            "artist": "Vincent Racaniello",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts115\/v4\/c7\/e7\/47\/c7e747a8-1a13-0d35-21df-d1c2a25b4053\/mza_11929035314781021438.jpg\/170x170bb.png",
+            "rank": 56,
+            "apple_id": "412308695",
+            "name": "TheThinkingAtheist",
+            "artist": "The Thinking Atheist",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/54\/bf\/88\/54bf8805-bba5-2449-1a8f-cb39b1915dd3\/mza_14822634690800243779.jpg\/170x170bb.png",
             "genre": "Science",
             "genre_id": "1533",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/this-week-in-virology\/id300973784?uo=2"
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/thethinkingatheist\/id412308695?uo=2"
         },
         {
-            "rank": 138,
-            "apple_id": "1617116535",
-            "name": "پادکست آذرخش مکری - azarakhsh mokri",
-            "artist": "nimac",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts122\/v4\/23\/9d\/51\/239d5155-a4fe-50af-7b72-bb09c90fd9cf\/mza_4702294573463643102.jpg\/170x170bb.png",
-            "genre": "Life Sciences",
-            "genre_id": "1541",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/%D9%BE%D8%A7%D8%AF%DA%A9%D8%B3%D8%AA-%D8%A2%D8%B0%D8%B1%D8%AE%D8%B4-%D9%85%DA%A9%D8%B1%DB%8C-azarakhsh-mokri\/id1617116535?uo=2"
-        },
-        {
-            "rank": 139,
-            "apple_id": "1474045170",
-            "name": "پادکست هشتگ زندگی",
-            "artist": "Akbar Sharabyani",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts115\/v4\/f8\/56\/b3\/f856b3bd-f50b-18cf-8129-20aaa10f855a\/mza_10820929458324682319.jpg\/170x170bb.png",
-            "genre": "Science",
-            "genre_id": "1533",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/%D9%BE%D8%A7%D8%AF%DA%A9%D8%B3%D8%AA-%D9%87%D8%B4%D8%AA%DA%AF-%D8%B2%D9%86%D8%AF%DA%AF%DB%8C\/id1474045170?uo=2"
-        },
-        {
-            "rank": 140,
-            "apple_id": "1575781850",
-            "name": "UAP Unidentified Alien Podcast",
-            "artist": "Gamut Podcast Network",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/85\/46\/0b\/85460b87-87da-a462-1d27-1f8bfd738d40\/mza_17424257385107162398.jpeg\/170x170bb.png",
-            "genre": "Science",
-            "genre_id": "1533",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/uap-unidentified-alien-podcast\/id1575781850?uo=2"
-        },
-        {
-            "rank": 141,
-            "apple_id": "1614222671",
-            "name": "The Sociology of Everything Podcast",
-            "artist": "Eric Hsu & Louis Everuss (Lou & the Hsu)",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/68\/e4\/e6\/68e4e6b0-10aa-1a1c-2587-ab596906c0c6\/mza_275702056994214134.jpg\/170x170bb.png",
-            "genre": "Social Sciences",
-            "genre_id": "1535",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/the-sociology-of-everything-podcast\/id1614222671?uo=2"
-        },
-        {
-            "rank": 142,
-            "apple_id": "706518211",
-            "name": "Expanded Perspectives",
-            "artist": "Expanded Perspectives",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts115\/v4\/89\/d3\/4e\/89d34e56-6a38-4675-d6f9-642fc9aa1ae6\/mza_3983309729878184125.jpg\/170x170bb.png",
-            "genre": "Science",
-            "genre_id": "1533",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/expanded-perspectives\/id706518211?uo=2"
-        },
-        {
-            "rank": 143,
-            "apple_id": "1809458930",
-            "name": "Unearthing",
-            "artist": "ORCA",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/PodcastSource221\/v4\/41\/19\/4c\/41194cd3-4900-4a5a-2599-40e98870b945\/3163946e-a633-4b3e-b59f-0165f8ba2315.jpg\/170x170bb.png",
-            "genre": "Nature",
-            "genre_id": "1537",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/unearthing\/id1809458930?uo=2"
-        },
-        {
-            "rank": 144,
-            "apple_id": "1492827360",
-            "name": "Accidental Gods",
-            "artist": "Accidental Gods",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/97\/a6\/1a\/97a61abf-8cdf-8988-a3e9-f259d50ca2dc\/mza_326589647621440258.jpg\/170x170bb.png",
-            "genre": "Nature",
-            "genre_id": "1537",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/accidental-gods\/id1492827360?uo=2"
-        },
-        {
-            "rank": 145,
-            "apple_id": "1186056137",
-            "name": "Lingthusiasm - A podcast that's enthusiastic about linguistics",
-            "artist": "Gretchen McCulloch and Lauren Gawne",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/76\/cf\/ad\/76cfad4d-692b-aa33-d43f-76aa0bc54338\/mza_14324813511257672417.jpg\/170x170bb.png",
-            "genre": "Science",
-            "genre_id": "1533",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/lingthusiasm-a-podcast-thats-enthusiastic-about\/id1186056137?uo=2"
-        },
-        {
-            "rank": 146,
-            "apple_id": "6783333783",
-            "name": "Not Your Average Garden Club Podcast",
-            "artist": "Ecoversity",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/e5\/73\/74\/e57374e6-dcea-231b-1b75-84c755d60ea2\/mza_13945837249096622285.jpg\/170x170bb.png",
-            "genre": "Nature",
-            "genre_id": "1537",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/not-your-average-garden-club-podcast\/id6783333783?uo=2"
-        },
-        {
-            "rank": 147,
-            "apple_id": "1413365130",
-            "name": "Future Ecologies",
-            "artist": "Future Ecologies",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts113\/v4\/99\/3c\/54\/993c5456-8cba-1906-5d2d-95db40fd4770\/mza_11900099725948198962.png\/170x170bb.png",
-            "genre": "Nature",
-            "genre_id": "1537",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/future-ecologies\/id1413365130?uo=2"
-        },
-        {
-            "rank": 148,
-            "apple_id": "1606314974",
-            "name": "What The Duck?!",
-            "artist": "ABC Australia",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/1c\/92\/96\/1c929674-6544-565b-7439-6452f471c8ce\/mza_8947123577604624179.jpg\/170x170bb.png",
-            "genre": "Natural Sciences",
-            "genre_id": "1534",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/what-the-duck\/id1606314974?uo=2"
-        },
-        {
-            "rank": 149,
-            "apple_id": "1061222770",
-            "name": "Outside\/In",
+            "rank": 57,
+            "apple_id": "1866633166",
+            "name": "Safe to Drink",
             "artist": "NHPR",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/95\/f4\/83\/95f483c7-aabf-7af3-2a2b-a4bcfff0ff07\/mza_13150561802849169759.jpg\/170x170bb.png",
-            "genre": "Natural Sciences",
-            "genre_id": "1534",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/outside-in\/id1061222770?uo=2"
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/5e\/9d\/8a\/5e9d8a51-1449-6982-2369-017f6491b354\/mza_11980131711332894743.jpeg\/170x170bb.png",
+            "genre": "Science",
+            "genre_id": "1533",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/safe-to-drink\/id1866633166?uo=2"
         },
         {
-            "rank": 150,
-            "apple_id": "291668879",
-            "name": "The Skeptic Zone",
-            "artist": "Richard Saunders",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts125\/v4\/2d\/78\/7d\/2d787d01-eb6d-723a-b8e5-8b2151162863\/mza_10427441484095615892.jpg\/170x170bb.png",
+            "rank": 58,
+            "apple_id": "1794372591",
+            "name": "Ancient Aliens",
+            "artist": "PodcastOne",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/25\/2e\/3f\/252e3f73-ad93-63fb-960f-523cf251920b\/mza_5394236316254685068.jpeg\/170x170bb.png",
+            "genre": "Science",
+            "genre_id": "1533",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/ancient-aliens\/id1794372591?uo=2"
+        },
+        {
+            "rank": 59,
+            "apple_id": "1466697207",
+            "name": "Overheard at National Geographic",
+            "artist": "National Geographic",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/2a\/ae\/20\/2aae2007-74b2-401b-1646-59a739cf7e89\/mza_12480586362706763162.jpg\/170x170bb.png",
+            "genre": "Science",
+            "genre_id": "1533",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/overheard-at-national-geographic\/id1466697207?uo=2"
+        },
+        {
+            "rank": 60,
+            "apple_id": "942777522",
+            "name": "The Psychology Podcast",
+            "artist": "iHeartPodcasts",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/cf\/5a\/f0\/cf5af016-6056-30f0-be09-f29351430893\/mza_3453059785950812097.jpeg\/170x170bb.png",
             "genre": "Social Sciences",
             "genre_id": "1535",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/the-skeptic-zone\/id291668879?uo=2"
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/the-psychology-podcast\/id942777522?uo=2"
         },
         {
-            "rank": 151,
-            "apple_id": "260335249",
-            "name": "BrainStuff",
-            "artist": "iHeartPodcasts",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/63\/48\/1b\/63481bf1-e2d1-4a79-bd58-a124ad856ce2\/mza_11759188184699808876.jpg\/170x170bb.png",
-            "genre": "Natural Sciences",
-            "genre_id": "1534",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/brainstuff\/id260335249?uo=2"
+            "rank": 61,
+            "apple_id": "203844864",
+            "name": "Skeptoid",
+            "artist": "Brian Dunning",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts126\/v4\/8e\/ca\/a2\/8ecaa2ba-b088-3c75-4da1-f23ed58b9939\/mza_10078299685339114494.png\/170x170bb.png",
+            "genre": "Social Sciences",
+            "genre_id": "1535",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/skeptoid\/id203844864?uo=2"
         },
         {
-            "rank": 152,
-            "apple_id": "1572495128",
-            "name": "Planet Visionaries – SEASON 5",
-            "artist": "A podcast in partnership with The Rolex Perpetual Planet Initiative",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/04\/b7\/d1\/04b7d1c5-814e-5e13-ff0a-e85ce72fc14c\/mza_9303323377271842316.jpeg\/170x170bb.png",
+            "rank": 62,
+            "apple_id": "1084340508",
+            "name": "Curious Cases",
+            "artist": "BBC Radio 4",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/f1\/a7\/c1\/f1a7c13c-5dfd-e768-af87-b197f1f8bcd7\/mza_14528757192547412287.jpg\/170x170bb.png",
+            "genre": "Science",
+            "genre_id": "1533",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/curious-cases\/id1084340508?uo=2"
+        },
+        {
+            "rank": 63,
+            "apple_id": "1736397134",
+            "name": "Bedtime Astronomy",
+            "artist": "Synthetic Universe",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts112\/v4\/09\/e2\/ff\/09e2ff86-a927-7624-54ec-c2c6aeb0b42e\/mza_9282112868472252898.jpg\/170x170bb.png",
+            "genre": "Astronomy",
+            "genre_id": "1538",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/bedtime-astronomy\/id1736397134?uo=2"
+        },
+        {
+            "rank": 64,
+            "apple_id": "1706843972",
+            "name": "Mystères et étoiles",
+            "artist": "Zebroloss",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/34\/12\/50\/3412501d-32c8-7442-d538-7f79b8447faf\/mza_11195541802681384194.jpg\/170x170bb.png",
+            "genre": "Astronomy",
+            "genre_id": "1538",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/myst%C3%A8res-et-%C3%A9toiles\/id1706843972?uo=2"
+        },
+        {
+            "rank": 65,
+            "apple_id": "1608948873",
+            "name": "The Joy of Why",
+            "artist": "Steven Strogatz, Janna Levin and Quanta Magazine",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/ee\/23\/34\/ee233467-3753-a5f0-f8ef-10d7f9d7ff9a\/mza_14532243109804651298.jpg\/170x170bb.png",
+            "genre": "Life Sciences",
+            "genre_id": "1541",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/the-joy-of-why\/id1608948873?uo=2"
+        },
+        {
+            "rank": 66,
+            "apple_id": "1551111133",
+            "name": "Get Birding",
+            "artist": "Peanut & Crumb",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/bd\/c9\/1d\/bdc91d73-a8f4-d1cd-f370-c4f1abe81e67\/mza_4596331658095187546.jpeg\/170x170bb.png",
             "genre": "Nature",
             "genre_id": "1537",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/planet-visionaries-season-5\/id1572495128?uo=2"
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/get-birding\/id1551111133?uo=2"
         },
         {
-            "rank": 153,
+            "rank": 67,
             "apple_id": "1325638028",
             "name": "The Episodic Table of Elements",
             "artist": "T. R. Appleton",
@@ -1538,127 +678,107 @@
             "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/the-episodic-table-of-elements\/id1325638028?uo=2"
         },
         {
-            "rank": 154,
-            "apple_id": "1434465245",
-            "name": "Wild Thing",
-            "artist": "Foxtopus Ink",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts112\/v4\/c4\/c5\/ed\/c4c5ed62-4907-0117-9b99-d7dd11c946d9\/mza_9526866889025700191.jpg\/170x170bb.png",
-            "genre": "Science",
-            "genre_id": "1533",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/wild-thing\/id1434465245?uo=2"
-        },
-        {
-            "rank": 155,
-            "apple_id": "1467481703",
-            "name": "The Origins Podcast with Lawrence Krauss",
-            "artist": "Lawrence M. Krauss",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/38\/6d\/45\/386d45ca-9452-08ad-50d5-e68810c3d132\/mza_14583393606803528299.jpeg\/170x170bb.png",
+            "rank": 68,
+            "apple_id": "1521758802",
+            "name": "Theories of Everything with Curt Jaimungal",
+            "artist": "Theories of Everything",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/2a\/6c\/4a\/2a6c4a61-4ae0-809b-ca09-ce2adede4cef\/mza_13635592988277147456.jpeg\/170x170bb.png",
             "genre": "Physics",
             "genre_id": "1542",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/the-origins-podcast-with-lawrence-krauss\/id1467481703?uo=2"
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/theories-of-everything-with-curt-jaimungal\/id1521758802?uo=2"
         },
         {
-            "rank": 156,
-            "apple_id": "1176349237",
-            "name": "Bigfoot Eyewitness Radio",
-            "artist": "Vic Cundiff",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/f0\/8c\/7d\/f08c7dae-5ca7-757b-0aa9-5caa999e0ab6\/mza_11144861692307753541.jpg\/170x170bb.png",
-            "genre": "Nature",
-            "genre_id": "1537",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/bigfoot-eyewitness-radio\/id1176349237?uo=2"
-        },
-        {
-            "rank": 157,
-            "apple_id": "880791662",
-            "name": "Real Ghost Stories Online",
-            "artist": "Real Ghost Stories Online | Paranormal, Supernatural & Horror Radio",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/6e\/44\/98\/6e4498e0-f689-a43b-0594-ffb7f2a787eb\/mza_3521021896468381939.jpg\/170x170bb.png",
-            "genre": "Natural Sciences",
-            "genre_id": "1534",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/real-ghost-stories-online\/id880791662?uo=2"
-        },
-        {
-            "rank": 158,
-            "apple_id": "1344239847",
-            "name": "Voyage dans l'espace",
-            "artist": "Claude Lafleur",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts115\/v4\/cf\/a1\/8a\/cfa18a4a-75e0-9f9a-27fe-d016f884d439\/mza_10325015228758252747.jpg\/170x170bb.png",
+            "rank": 69,
+            "apple_id": "1134937775",
+            "name": "La Science CQFD",
+            "artist": "France Culture",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts122\/v4\/be\/26\/59\/be2659b1-3aca-5551-1a0c-74e2f386531c\/mza_1344899384136776745.jpg\/170x170bb.png",
             "genre": "Science",
             "genre_id": "1533",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/voyage-dans-lespace\/id1344239847?uo=2"
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/la-science-cqfd\/id1134937775?uo=2"
         },
         {
-            "rank": 159,
-            "apple_id": "1446531822",
-            "name": "The Sports MAP Network",
-            "artist": "The Sports Map Network | Nick Kane",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts112\/v4\/61\/ee\/8b\/61ee8b17-b818-dca3-da13-9bfcb6b82ac0\/mza_15379489504482015299.jpg\/170x170bb.png",
-            "genre": "Science",
-            "genre_id": "1533",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/the-sports-map-network\/id1446531822?uo=2"
-        },
-        {
-            "rank": 160,
-            "apple_id": "1706337131",
-            "name": "playing god?",
-            "artist": "Johns Hopkins Berman Institute of Bioethics",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/2d\/2d\/75\/2d2d75c8-6ed5-5aca-fe3f-aa908ee635aa\/mza_8981713549404433804.jpg\/170x170bb.png",
-            "genre": "Science",
-            "genre_id": "1533",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/playing-god\/id1706337131?uo=2"
-        },
-        {
-            "rank": 161,
-            "apple_id": "960976813",
-            "name": "I Know Dino: The Big Dinosaur Podcast",
-            "artist": "I KNOW DINO, LLC",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/49\/6c\/4c\/496c4c91-e216-77d6-64a4-8096e6f89f48\/mza_14223214653639207080.jpeg\/170x170bb.png",
-            "genre": "Natural Sciences",
-            "genre_id": "1534",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/i-know-dino-the-big-dinosaur-podcast\/id960976813?uo=2"
-        },
-        {
-            "rank": 162,
-            "apple_id": "1744434731",
-            "name": "MissPerceived",
-            "artist": "Audiocrafty",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/f6\/08\/75\/f60875cd-d221-3cbc-4277-075ea3b8b7f0\/mza_11746671135095650392.jpg\/170x170bb.png",
+            "rank": 70,
+            "apple_id": "1574802514",
+            "name": "Stanford Psychology Podcast",
+            "artist": "Stanford Psychology",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/0d\/78\/7e\/0d787eda-dabb-1e35-6eaa-53cb53306c89\/mza_6107642233241530607.jpg\/170x170bb.png",
             "genre": "Social Sciences",
             "genre_id": "1535",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/missperceived\/id1744434731?uo=2"
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/stanford-psychology-podcast\/id1574802514?uo=2"
         },
         {
-            "rank": 163,
-            "apple_id": "1516526694",
-            "name": "Decouple",
-            "artist": "Dr. Chris Keefer",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts113\/v4\/bf\/ee\/9e\/bfee9eb4-250d-dd6c-68e0-ce05fb36ef16\/mza_4586750394303482471.jpg\/170x170bb.png",
+            "rank": 71,
+            "apple_id": "1172855980",
+            "name": "CrowdScience",
+            "artist": "BBC World Service",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/ec\/ae\/9d\/ecae9d25-dc22-82a5-b9ce-b111eaa9ae6f\/mza_8551651165632973453.jpg\/170x170bb.png",
             "genre": "Science",
             "genre_id": "1533",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/decouple\/id1516526694?uo=2"
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/crowdscience\/id1172855980?uo=2"
         },
         {
-            "rank": 164,
-            "apple_id": "210065679",
-            "name": "Brain Science with Ginger Campbell, MD: Neuroscience for Everyone",
-            "artist": "Ginger Campbell, MD",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts115\/v4\/9a\/0b\/47\/9a0b4702-83c8-7f53-1601-ddac5b9ca3f1\/mza_8512868454558602061.jpg\/170x170bb.png",
-            "genre": "Life Sciences",
-            "genre_id": "1541",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/brain-science-with-ginger-campbell-md-neuroscience-for\/id210065679?uo=2"
-        },
-        {
-            "rank": 165,
-            "apple_id": "1872438725",
-            "name": "NOVA Remix",
-            "artist": "GBH",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/21\/e1\/3b\/21e13b2a-33cb-53e1-ffc7-2a26909bbcd3\/mza_2216363214871571531.jpg\/170x170bb.png",
+            "rank": 72,
+            "apple_id": "1830375095",
+            "name": "From First Principles",
+            "artist": "Krishna Choudhary and Lester Nare",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/63\/ae\/9e\/63ae9e35-0c33-dfa8-fee3-355774aaf039\/mza_6737424472661252452.jpg\/170x170bb.png",
             "genre": "Science",
             "genre_id": "1533",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/nova-remix\/id1872438725?uo=2"
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/from-first-principles\/id1830375095?uo=2"
         },
         {
-            "rank": 166,
+            "rank": 73,
+            "apple_id": "1352860989",
+            "name": "The Michael Shermer Show",
+            "artist": "Michael Shermer",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts116\/v4\/b1\/1b\/5a\/b11b5ad4-b160-7284-5b7c-cdc8daf251d7\/mza_556097899631146588.jpg\/170x170bb.png",
+            "genre": "Natural Sciences",
+            "genre_id": "1534",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/the-michael-shermer-show\/id1352860989?uo=2"
+        },
+        {
+            "rank": 74,
+            "apple_id": "1169885840",
+            "name": "Into the Impossible With Brian Keating",
+            "artist": "Big Bang Productions Inc.",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/78\/8f\/3d\/788f3d7c-c500-155d-f41e-7485b97f2e4f\/mza_9070847447093751851.jpg\/170x170bb.png",
+            "genre": "Natural Sciences",
+            "genre_id": "1534",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/into-the-impossible-with-brian-keating\/id1169885840?uo=2"
+        },
+        {
+            "rank": 75,
+            "apple_id": "1852295289",
+            "name": "Emonthebrain",
+            "artist": "Emily McDonald",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/cf\/92\/f3\/cf92f310-266e-847e-8958-2ed5b32fd821\/mza_13703023371170673022.jpeg\/170x170bb.png",
+            "genre": "Science",
+            "genre_id": "1533",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/emonthebrain\/id1852295289?uo=2"
+        },
+        {
+            "rank": 76,
+            "apple_id": "1506561489",
+            "name": "Wild Times: Wildlife Education",
+            "artist": "Wildlife Educator - Forrest Galante",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/43\/e3\/b8\/43e3b889-f33d-d9cf-5c48-23a2d56143bd\/mza_15580187369589756731.jpg\/170x170bb.png",
+            "genre": "Nature",
+            "genre_id": "1537",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/wild-times-wildlife-education\/id1506561489?uo=2"
+        },
+        {
+            "rank": 77,
+            "apple_id": "1460805013",
+            "name": "Bigfoot and Beyond with Cliff and Bobo",
+            "artist": "Bigfoot and Beyond LLC",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/2b\/7e\/e1\/2b7ee14f-6d70-5f5c-83ab-3062f5ebf95e\/mza_2096434061232653106.jpg\/170x170bb.png",
+            "genre": "Science",
+            "genre_id": "1533",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/bigfoot-and-beyond-with-cliff-and-bobo\/id1460805013?uo=2"
+        },
+        {
+            "rank": 78,
             "apple_id": "73329638",
             "name": "Big Picture Science",
             "artist": "Big Picture Science",
@@ -1668,127 +788,97 @@
             "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/big-picture-science\/id73329638?uo=2"
         },
         {
-            "rank": 167,
-            "apple_id": "1567763923",
-            "name": "Cognitive Dissonance",
-            "artist": "John Tjards",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts125\/v4\/d7\/c3\/55\/d7c35505-c54d-ba06-3f20-d0879241d044\/mza_908770131693899548.jpg\/170x170bb.png",
-            "genre": "Social Sciences",
-            "genre_id": "1535",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/cognitive-dissonance\/id1567763923?uo=2"
-        },
-        {
-            "rank": 168,
-            "apple_id": "1725984063",
-            "name": "Rare Earth",
-            "artist": "BBC Radio 4",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/b7\/62\/9a\/b7629a94-8b53-19ec-9229-5a6b5532f03b\/mza_3656450992708708513.jpg\/170x170bb.png",
-            "genre": "Earth Sciences",
-            "genre_id": "1540",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/rare-earth\/id1725984063?uo=2"
-        },
-        {
-            "rank": 169,
-            "apple_id": "1535406429",
-            "name": "Clearer Thinking with Spencer Greenberg",
-            "artist": "Spencer Greenberg",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/c4\/c4\/d1\/c4c4d15a-b0e7-f7b9-ef9b-db18b5cfa1f2\/mza_10312608696498399155.png\/170x170bb.png",
-            "genre": "Social Sciences",
-            "genre_id": "1535",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/clearer-thinking-with-spencer-greenberg\/id1535406429?uo=2"
-        },
-        {
-            "rank": 170,
-            "apple_id": "1571270718",
-            "name": "A Life More Wild",
-            "artist": "Canopy & Stars",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/8c\/6c\/ce\/8c6cce69-2e9a-0810-afc9-8838d71ed5d1\/mza_2152273644469554221.jpeg\/170x170bb.png",
+            "rank": 79,
+            "apple_id": "1453429066",
+            "name": "Bigfoot Society",
+            "artist": "Jeremiah Byron",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/30\/78\/7e\/30787e9e-f34d-3894-18a7-c8175cd318f4\/mza_2430765012205420185.jpg\/170x170bb.png",
             "genre": "Nature",
             "genre_id": "1537",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/a-life-more-wild\/id1571270718?uo=2"
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/bigfoot-society\/id1453429066?uo=2"
         },
         {
-            "rank": 171,
-            "apple_id": "1595590107",
-            "name": "Inquiry with Kelly Chase",
-            "artist": "Kelly Chase",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/10\/14\/21\/1014210f-bfd9-404b-f78b-56fd6b8b414b\/mza_3696233863464239417.jpeg\/170x170bb.png",
-            "genre": "Social Sciences",
-            "genre_id": "1535",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/inquiry-with-kelly-chase\/id1595590107?uo=2"
-        },
-        {
-            "rank": 172,
-            "apple_id": "261779638",
-            "name": "Farming Today",
-            "artist": "BBC Radio 4",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/20\/fd\/df\/20fddf3d-c5b1-e3a8-de1b-1fd165e0855e\/mza_16873845661559749984.jpg\/170x170bb.png",
-            "genre": "Science",
-            "genre_id": "1533",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/farming-today\/id261779638?uo=2"
-        },
-        {
-            "rank": 173,
-            "apple_id": "1480167042",
-            "name": "Songbirding",
-            "artist": "Rob Porter",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/7e\/6e\/b6\/7e6eb60d-334b-b945-8649-f649ce160ee8\/mza_497682049541564053.jpg\/170x170bb.png",
-            "genre": "Nature",
-            "genre_id": "1537",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/songbirding\/id1480167042?uo=2"
-        },
-        {
-            "rank": 174,
-            "apple_id": "1589077549",
-            "name": "My Bigfoot Sighting",
-            "artist": "Vic Cundiff",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts115\/v4\/d7\/96\/31\/d796313c-3d86-453c-f841-b9f552945afc\/mza_14553120990435814485.jpg\/170x170bb.png",
-            "genre": "Nature",
-            "genre_id": "1537",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/my-bigfoot-sighting\/id1589077549?uo=2"
-        },
-        {
-            "rank": 175,
-            "apple_id": "6782247472",
-            "name": "Balado Vibe Check",
-            "artist": "Balado Vibe Check",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/0a\/42\/c3\/0a42c328-39cc-c6e9-5652-b1f73851afea\/mza_3466668099806044152.jpg\/170x170bb.png",
-            "genre": "Social Sciences",
-            "genre_id": "1535",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/balado-vibe-check\/id6782247472?uo=2"
-        },
-        {
-            "rank": 176,
-            "apple_id": "1660231257",
-            "name": "Naturebang",
-            "artist": "BBC Radio 4",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts112\/v4\/26\/18\/fe\/2618fea0-d877-fa94-de93-91cf46eabbf0\/mza_870897605908083518.jpg\/170x170bb.png",
-            "genre": "Nature",
-            "genre_id": "1537",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/naturebang\/id1660231257?uo=2"
-        },
-        {
-            "rank": 177,
-            "apple_id": "261779480",
-            "name": "Scotland Outdoors",
-            "artist": "BBC Radio Scotland",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts126\/v4\/8d\/3e\/c6\/8d3ec640-4904-2727-8882-df4842cfcac1\/mza_5806027577886718375.jpg\/170x170bb.png",
-            "genre": "Nature",
-            "genre_id": "1537",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/scotland-outdoors\/id261779480?uo=2"
-        },
-        {
-            "rank": 178,
-            "apple_id": "1646054565",
-            "name": "Reinvent Yourself with Dr. Tara",
-            "artist": "Dr. Tara Swart Bieber",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts116\/v4\/17\/66\/c6\/1766c611-2acd-2585-7226-459cd0388ab9\/mza_436196615054979020.jpg\/170x170bb.png",
+            "rank": 80,
+            "apple_id": "1568911820",
+            "name": "Biotech Hangout",
+            "artist": "Daphne Zohar, Josh Schimmer, Brad Loncar, Tim Opler and more",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts125\/v4\/33\/e4\/17\/33e41777-1715-de84-12a9-769ac2340c6c\/mza_15029894228347015687.jpg\/170x170bb.png",
             "genre": "Life Sciences",
             "genre_id": "1541",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/reinvent-yourself-with-dr-tara\/id1646054565?uo=2"
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/biotech-hangout\/id1568911820?uo=2"
         },
         {
-            "rank": 179,
+            "rank": 81,
+            "apple_id": "1538415261",
+            "name": "The Climate Question",
+            "artist": "BBC World Service",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/01\/df\/2c\/01df2ccf-20c9-3b11-57b9-769e3a47f019\/mza_16369763762216998597.jpg\/170x170bb.png",
+            "genre": "Science",
+            "genre_id": "1533",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/the-climate-question\/id1538415261?uo=2"
+        },
+        {
+            "rank": 82,
+            "apple_id": "1206175991",
+            "name": "The Best of Coast to Coast AM",
+            "artist": "iHeartPodcasts and Coast to Coast AM",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts126\/v4\/2c\/86\/4e\/2c864e7c-beb9-8088-b0cf-919131a8bec2\/mza_11913273163357553802.jpg\/170x170bb.png",
+            "genre": "Science",
+            "genre_id": "1533",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/the-best-of-coast-to-coast-am\/id1206175991?uo=2"
+        },
+        {
+            "rank": 83,
+            "apple_id": "1296673906",
+            "name": "Instant Genius",
+            "artist": "Our Media",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts116\/v4\/db\/eb\/4a\/dbeb4ac4-17b6-338d-634a-ba9027474f2f\/mza_9562697052515527349.jpeg\/170x170bb.png",
+            "genre": "Science",
+            "genre_id": "1533",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/instant-genius\/id1296673906?uo=2"
+        },
+        {
+            "rank": 84,
+            "apple_id": "284012446",
+            "name": "Discovery",
+            "artist": "BBC World Service",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/9a\/bd\/99\/9abd9922-f92c-02ac-9f5b-d49b937095b6\/mza_16474469207743393548.jpg\/170x170bb.png",
+            "genre": "Science",
+            "genre_id": "1533",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/discovery\/id284012446?uo=2"
+        },
+        {
+            "rank": 85,
+            "apple_id": "80106872",
+            "name": "Living Planet",
+            "artist": "DW",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/5f\/9b\/b1\/5f9bb10c-bde8-4baf-2c4d-1f98bb24ab83\/mza_1291454380184166140.jpg\/170x170bb.png",
+            "genre": "Nature",
+            "genre_id": "1537",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/living-planet\/id80106872?uo=2"
+        },
+        {
+            "rank": 86,
+            "apple_id": "705934263",
+            "name": "Speaking of Psychology",
+            "artist": "American Psychological Association",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/be\/52\/9f\/be529f1d-d6a8-6984-9af1-9de24cd0bf04\/mza_11958825769474457449.jpg\/170x170bb.png",
+            "genre": "Life Sciences",
+            "genre_id": "1541",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/speaking-of-psychology\/id705934263?uo=2"
+        },
+        {
+            "rank": 87,
+            "apple_id": "120329020",
+            "name": "Science Magazine Podcast",
+            "artist": "Science Magazine",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/b0\/d3\/a3\/b0d3a397-8a33-3cd1-9cb7-91808b893ee2\/mza_6969596256435242856.jpg\/170x170bb.png",
+            "genre": "Science",
+            "genre_id": "1533",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/science-magazine-podcast\/id120329020?uo=2"
+        },
+        {
+            "rank": 88,
             "apple_id": "1448973714",
             "name": "MCAT Basics (from MedSchoolCoach)",
             "artist": "MedSchoolCoach",
@@ -1798,67 +888,267 @@
             "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/mcat-basics-from-medschoolcoach\/id1448973714?uo=2"
         },
         {
-            "rank": 180,
-            "apple_id": "1545536782",
-            "name": "Completely Arbortrary",
-            "artist": "Completely Arbortrary",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts126\/v4\/b3\/85\/22\/b385223d-d86b-4b55-1a0a-25dd58659ae8\/mza_12179788881716029192.jpeg\/170x170bb.png",
-            "genre": "Science",
-            "genre_id": "1533",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/completely-arbortrary\/id1545536782?uo=2"
-        },
-        {
-            "rank": 181,
-            "apple_id": "1460284725",
-            "name": "Sci Guys",
-            "artist": "The Sci Guys",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts112\/v4\/cb\/ea\/ac\/cbeaac29-943e-d89e-8432-b00a1da95878\/mza_16628804019119426643.png\/170x170bb.png",
-            "genre": "Science",
-            "genre_id": "1533",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/sci-guys\/id1460284725?uo=2"
-        },
-        {
-            "rank": 182,
-            "apple_id": "1759229231",
-            "name": "Connected",
-            "artist": "Parks Canada",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/ab\/e7\/37\/abe73789-b625-1b6f-af18-d95c8547cf84\/mza_13316975279327227640.png\/170x170bb.png",
+            "rank": 89,
+            "apple_id": "960976813",
+            "name": "I Know Dino: The Big Dinosaur Podcast",
+            "artist": "I KNOW DINO, LLC",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/49\/6c\/4c\/496c4c91-e216-77d6-64a4-8096e6f89f48\/mza_14223214653639207080.jpeg\/170x170bb.png",
             "genre": "Natural Sciences",
             "genre_id": "1534",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/connected\/id1759229231?uo=2"
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/i-know-dino-the-big-dinosaur-podcast\/id960976813?uo=2"
         },
         {
-            "rank": 183,
-            "apple_id": "1570672723",
-            "name": "Du coq à l‘âne, le podcast des vétérinaires  embêtants",
-            "artist": "ducoqalanepodcast",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts126\/v4\/c6\/7d\/cc\/c67dcc13-6f6c-9851-500f-6b1e6fa95330\/mza_15751457298331172281.jpg\/170x170bb.png",
+            "rank": 90,
+            "apple_id": "1813405582",
+            "name": "Mythfits",
+            "artist": "Pionaire Podcasting",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/ef\/22\/9a\/ef229a4f-abd4-a4b0-a077-ab71a5c31648\/mza_18222999597141068031.jpg\/170x170bb.png",
             "genre": "Science",
             "genre_id": "1533",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/du-coq-%C3%A0-l-%C3%A2ne-le-podcast-des-v%C3%A9t%C3%A9rinaires-emb%C3%AAtants\/id1570672723?uo=2"
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/mythfits\/id1813405582?uo=2"
         },
         {
-            "rank": 184,
-            "apple_id": "1509074261",
-            "name": "The Pie: An Economics Podcast",
-            "artist": "Becker Friedman Institute at UChicago",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/ac\/64\/e1\/ac64e1a4-3899-1951-62af-1c0305a6c571\/mza_8229032481127246153.jpeg\/170x170bb.png",
+            "rank": 91,
+            "apple_id": "385427377",
+            "name": "The Science of Everything Podcast",
+            "artist": "James Fodor",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts115\/v4\/d3\/39\/01\/d33901e5-1b3b-70df-1919-7b0c69d0ab5a\/mza_2129224243813628994.jpg\/170x170bb.png",
+            "genre": "Natural Sciences",
+            "genre_id": "1534",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/the-science-of-everything-podcast\/id385427377?uo=2"
+        },
+        {
+            "rank": 92,
+            "apple_id": "1677842672",
+            "name": "Inner Cosmos with David Eagleman",
+            "artist": "iHeartPodcasts",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/ef\/95\/2b\/ef952bc2-fa88-1793-83d3-8681d8d42243\/mza_12714652057320277614.jpg\/170x170bb.png",
+            "genre": "Science",
+            "genre_id": "1533",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/inner-cosmos-with-david-eagleman\/id1677842672?uo=2"
+        },
+        {
+            "rank": 93,
+            "apple_id": "1505624059",
+            "name": "NASA's Curious Universe",
+            "artist": "National Aeronautics and Space Administration (NASA)",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/e8\/1c\/8c\/e81c8c2f-a54e-5e7c-3600-22d37012e5a1\/mza_10563171041006909060.jpeg\/170x170bb.png",
+            "genre": "Science",
+            "genre_id": "1533",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/nasas-curious-universe\/id1505624059?uo=2"
+        },
+        {
+            "rank": 94,
+            "apple_id": "1495324190",
+            "name": "The Supermassive Podcast",
+            "artist": "The Royal Astronomical Society",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/8d\/03\/a0\/8d03a0e5-3cdc-baff-e911-047a8a88c26a\/mza_13003647509919591255.png\/170x170bb.png",
+            "genre": "Astronomy",
+            "genre_id": "1538",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/the-supermassive-podcast\/id1495324190?uo=2"
+        },
+        {
+            "rank": 95,
+            "apple_id": "253428066",
+            "name": "Science unscripted",
+            "artist": "DW",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/24\/23\/62\/242362c2-d069-475c-d9bb-18d71c4c26a2\/mza_6892749484850828603.jpg\/170x170bb.png",
+            "genre": "Natural Sciences",
+            "genre_id": "1534",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/science-unscripted\/id253428066?uo=2"
+        },
+        {
+            "rank": 96,
+            "apple_id": "508376907",
+            "name": "Babbage from The Economist",
+            "artist": "The Economist",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/2e\/bc\/9a\/2ebc9af0-24d3-3851-0403-8c87fd90a9b0\/mza_18385153408864727033.jpeg\/170x170bb.png",
+            "genre": "Science",
+            "genre_id": "1533",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/babbage-from-the-economist\/id508376907?uo=2"
+        },
+        {
+            "rank": 97,
+            "apple_id": "1335892956",
+            "name": "Psychiatry & Psychotherapy Podcast",
+            "artist": "David Puder, M.D.",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts124\/v4\/b4\/ab\/6f\/b4ab6fae-2f39-04ad-2435-0044c31c0ef4\/mza_4983201995313024590.png\/170x170bb.png",
+            "genre": "Science",
+            "genre_id": "1533",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/psychiatry-psychotherapy-podcast\/id1335892956?uo=2"
+        },
+        {
+            "rank": 98,
+            "apple_id": "1587816694",
+            "name": "Let's Learn Everything!",
+            "artist": "Maximum Fun",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts122\/v4\/ac\/d6\/f5\/acd6f52e-f259-4fee-f6b1-45b8849139a8\/mza_7116547261740367713.jpg\/170x170bb.png",
+            "genre": "Science",
+            "genre_id": "1533",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/lets-learn-everything\/id1587816694?uo=2"
+        },
+        {
+            "rank": 99,
+            "apple_id": "1350586048",
+            "name": "The Grave Talks | Haunted, Paranormal & Supernatural",
+            "artist": "Ghost Stores, Haunted, Paranormal & Supernatural Stories",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts112\/v4\/25\/2a\/78\/252a781e-3e4d-e2d4-7296-2b08262c23a0\/mza_13587127555026008314.jpg\/170x170bb.png",
+            "genre": "Natural Sciences",
+            "genre_id": "1534",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/the-grave-talks-haunted-paranormal-supernatural\/id1350586048?uo=2"
+        },
+        {
+            "rank": 100,
+            "apple_id": "1886706035",
+            "name": "PBS Space Time",
+            "artist": "PBS",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/7a\/42\/fb\/7a42fb7e-02d4-2ed7-b68b-d1f399217703\/mza_15571087608435605150.jpeg\/170x170bb.png",
+            "genre": "Astronomy",
+            "genre_id": "1538",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/pbs-space-time\/id1886706035?uo=2"
+        },
+        {
+            "rank": 101,
+            "apple_id": "958825741",
+            "name": "Ask a Spaceman!",
+            "artist": "Paul M. Sutter",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts116\/v4\/a6\/70\/d1\/a670d1d6-d59d-294c-d581-16ab054cf907\/mza_8560280661781209120.jpg\/170x170bb.png",
+            "genre": "Natural Sciences",
+            "genre_id": "1534",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/ask-a-spaceman\/id958825741?uo=2"
+        },
+        {
+            "rank": 102,
+            "apple_id": "79155128",
+            "name": "BirdNote Daily",
+            "artist": "BirdNote",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts114\/v4\/02\/de\/46\/02de4691-73b9-7389-bddd-a885d76ccba8\/mza_16541683471026933118.jpg\/170x170bb.png",
+            "genre": "Natural Sciences",
+            "genre_id": "1534",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/birdnote-daily\/id79155128?uo=2"
+        },
+        {
+            "rank": 103,
+            "apple_id": "1575781850",
+            "name": "UAP Unidentified Alien Podcast",
+            "artist": "Gamut Podcast Network",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/85\/46\/0b\/85460b87-87da-a462-1d27-1f8bfd738d40\/mza_17424257385107162398.jpeg\/170x170bb.png",
+            "genre": "Science",
+            "genre_id": "1533",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/uap-unidentified-alien-podcast\/id1575781850?uo=2"
+        },
+        {
+            "rank": 104,
+            "apple_id": "1455418690",
+            "name": "The Wild with Chris Morgan",
+            "artist": "KUOW News and Information",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/27\/e1\/e4\/27e1e4ea-7651-0516-6a41-77e9aac87a0a\/mza_7312234160712970066.jpg\/170x170bb.png",
+            "genre": "Nature",
+            "genre_id": "1537",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/the-wild-with-chris-morgan\/id1455418690?uo=2"
+        },
+        {
+            "rank": 105,
+            "apple_id": "1432369172",
+            "name": "People Who Read People: A Behavior and Psychology Podcast",
+            "artist": "Zachary Elwood",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/9b\/dc\/cf\/9bdccf78-a9da-67bc-5097-067ff9ef806d\/mza_15964796734776038703.jpg\/170x170bb.png",
             "genre": "Social Sciences",
             "genre_id": "1535",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/the-pie-an-economics-podcast\/id1509074261?uo=2"
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/people-who-read-people-a-behavior-and-psychology-podcast\/id1432369172?uo=2"
         },
         {
-            "rank": 185,
-            "apple_id": "1501210104",
-            "name": "The Immaculate Deception",
-            "artist": "Somethin' Else \/ Sony Music Entertainment",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/85\/f2\/d3\/85f2d3c6-1ba5-60f0-5dc2-a80ef4b7d7e4\/mza_18017268232528779886.jpeg\/170x170bb.png",
+            "rank": 106,
+            "apple_id": "1061222770",
+            "name": "Outside\/In",
+            "artist": "NHPR",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/95\/f4\/83\/95f483c7-aabf-7af3-2a2b-a4bcfff0ff07\/mza_13150561802849169759.jpg\/170x170bb.png",
+            "genre": "Natural Sciences",
+            "genre_id": "1534",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/outside-in\/id1061222770?uo=2"
+        },
+        {
+            "rank": 107,
+            "apple_id": "191636169",
+            "name": "Astronomy Cast",
+            "artist": "Fraser Cain and Dr. Pamela Gay",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Features\/v4\/dd\/dd\/ad\/ddddad15-13df-6813-7d05-d81e45d88d9e\/mza_5442136597615139731.jpg\/170x170bb.png",
+            "genre": "Astronomy",
+            "genre_id": "1538",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/astronomy-cast\/id191636169?uo=2"
+        },
+        {
+            "rank": 108,
+            "apple_id": "294060079",
+            "name": "La Terre au carré",
+            "artist": "France Inter",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/12\/36\/3c\/12363c30-c2f6-7ad5-d913-2ef4e74c8cf1\/mza_12902193722203466429.jpg\/170x170bb.png",
+            "genre": "Nature",
+            "genre_id": "1537",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/la-terre-au-carr%C3%A9\/id294060079?uo=2"
+        },
+        {
+            "rank": 109,
+            "apple_id": "1707808635",
+            "name": "Uncharted with Hannah Fry",
+            "artist": "BBC Radio 4",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/ce\/63\/91\/ce63912d-55e2-b19d-02ba-3024d982f7ee\/mza_16860916426439720500.jpg\/170x170bb.png",
             "genre": "Science",
             "genre_id": "1533",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/the-immaculate-deception\/id1501210104?uo=2"
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/uncharted-with-hannah-fry\/id1707808635?uo=2"
         },
         {
-            "rank": 186,
+            "rank": 110,
+            "apple_id": "1472282344",
+            "name": "Chemistry For Your Life",
+            "artist": "Melissa and Jam, Bleav",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/ac\/16\/60\/ac16601a-44db-8832-90b0-3a0f4beb2ec8\/mza_6055975092757845929.jpg\/170x170bb.png",
+            "genre": "Chemistry",
+            "genre_id": "1539",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/chemistry-for-your-life\/id1472282344?uo=2"
+        },
+        {
+            "rank": 111,
+            "apple_id": "74171648",
+            "name": "The Naked Scientists Podcast",
+            "artist": "The Naked Scientists",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts115\/v4\/be\/24\/f6\/be24f688-140b-e4d5-4fd3-b6467a88c2fa\/mza_13747746262101790232.png\/170x170bb.png",
+            "genre": "Life Sciences",
+            "genre_id": "1541",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/the-naked-scientists-podcast\/id74171648?uo=2"
+        },
+        {
+            "rank": 112,
+            "apple_id": "329937558",
+            "name": "Mysterious Universe",
+            "artist": "8th Kind",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts112\/v4\/1e\/33\/f9\/1e33f91a-edfa-0e84-2c12-e9eb3e464b07\/mza_4914288206950426810.jpg\/170x170bb.png",
+            "genre": "Social Sciences",
+            "genre_id": "1535",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/mysterious-universe\/id329937558?uo=2"
+        },
+        {
+            "rank": 113,
+            "apple_id": "1896636265",
+            "name": "Change Your Mind with New Scientist",
+            "artist": "New Scientist",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/c9\/9b\/6e\/c99b6ed2-58e2-0a3c-25ef-1064f4faf673\/mza_3186664055472983481.jpeg\/170x170bb.png",
+            "genre": "Science",
+            "genre_id": "1533",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/change-your-mind-with-new-scientist\/id1896636265?uo=2"
+        },
+        {
+            "rank": 114,
+            "apple_id": "1463568273",
+            "name": "Cold Steel: Canadian Journal of Surgery Podcast",
+            "artist": "Canadian Journal of Surgery",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/76\/83\/e4\/7683e4a3-b1c9-d366-b32c-f0d2a910289a\/mza_11166589881037747681.jpg\/170x170bb.png",
+            "genre": "Life Sciences",
+            "genre_id": "1541",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/cold-steel-canadian-journal-of-surgery-podcast\/id1463568273?uo=2"
+        },
+        {
+            "rank": 115,
             "apple_id": "1463896106",
             "name": "Just the Zoo of Us",
             "artist": "Ellen & Christian Weatherford",
@@ -1868,107 +1158,27 @@
             "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/just-the-zoo-of-us\/id1463896106?uo=2"
         },
         {
-            "rank": 187,
-            "apple_id": "1525620301",
-            "name": "Geology Bites",
-            "artist": "Oliver Strimpel",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts116\/v4\/ae\/51\/7b\/ae517b55-4fc5-430e-29a3-227d8bfce933\/mza_8769318646279676626.jpg\/170x170bb.png",
-            "genre": "Earth Sciences",
-            "genre_id": "1540",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/geology-bites\/id1525620301?uo=2"
-        },
-        {
-            "rank": 188,
-            "apple_id": "1592855440",
-            "name": "The Hamilton Morris Podcast",
-            "artist": "Hamilton Morris",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/8e\/47\/a8\/8e47a805-2ea6-c27b-2960-e0b29a6304da\/mza_2155162312797402359.jpg\/170x170bb.png",
+            "rank": 116,
+            "apple_id": "1377843908",
+            "name": "The Weirdest Thing I Learned This Week",
+            "artist": "Popular Science",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/1c\/2a\/77\/1c2a77aa-cee9-3660-0878-e8940b3dd83c\/mza_5236019928167195745.jpg\/170x170bb.png",
             "genre": "Science",
             "genre_id": "1533",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/the-hamilton-morris-podcast\/id1592855440?uo=2"
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/the-weirdest-thing-i-learned-this-week\/id1377843908?uo=2"
         },
         {
-            "rank": 189,
-            "apple_id": "1599884695",
-            "name": "Cryptids Of The Corn",
-            "artist": "Cryptids of the Corn Podcast",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts126\/v4\/e7\/ae\/b7\/e7aeb752-99a8-18f2-0b22-2b2a0b4868eb\/mza_7645292614964118212.jpg\/170x170bb.png",
-            "genre": "Nature",
-            "genre_id": "1537",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/cryptids-of-the-corn\/id1599884695?uo=2"
+            "rank": 117,
+            "apple_id": "1515782219",
+            "name": "Path to Zero",
+            "artist": "Propane Education & Research Council",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts122\/v4\/ae\/6c\/ff\/ae6cff2f-4a98-3b33-c250-f619b74290c4\/mza_4195474013341011474.png\/170x170bb.png",
+            "genre": "Natural Sciences",
+            "genre_id": "1534",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/path-to-zero\/id1515782219?uo=2"
         },
         {
-            "rank": 190,
-            "apple_id": "1896946765",
-            "name": "Practicing Reform",
-            "artist": "Jean-Michel Marcoux",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/40\/7f\/2f\/407f2f18-b36e-0098-f451-1b71de33cc91\/mza_14900807854549550809.jpg\/170x170bb.png",
-            "genre": "Social Sciences",
-            "genre_id": "1535",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/practicing-reform\/id1896946765?uo=2"
-        },
-        {
-            "rank": 191,
-            "apple_id": "1734318570",
-            "name": "Psychotherapy and Applied Psychology",
-            "artist": "Dr. Daniel W Cox",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/d8\/8b\/0b\/d88b0b13-35b5-58ff-2066-4558aaa14a27\/mza_12701929502346569735.jpg\/170x170bb.png",
-            "genre": "Social Sciences",
-            "genre_id": "1535",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/psychotherapy-and-applied-psychology\/id1734318570?uo=2"
-        },
-        {
-            "rank": 192,
-            "apple_id": "1688883209",
-            "name": "Ancestral Science",
-            "artist": "Ancestral Science of \"Relational Science Circle\"",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts116\/v4\/96\/e6\/9d\/96e69dd5-4a93-9006-99aa-9ce9a1e14491\/mza_10733302953876331386.jpg\/170x170bb.png",
-            "genre": "Science",
-            "genre_id": "1533",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/ancestral-science\/id1688883209?uo=2"
-        },
-        {
-            "rank": 193,
-            "apple_id": "396452781",
-            "name": "The Story Collider",
-            "artist": "Story Collider, Inc.",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/41\/fc\/6c\/41fc6ca9-c684-4cdc-b724-87edecd5e52f\/mza_10698685801704294214.jpeg\/170x170bb.png",
-            "genre": "Science",
-            "genre_id": "1533",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/the-story-collider\/id396452781?uo=2"
-        },
-        {
-            "rank": 194,
-            "apple_id": "1823027687",
-            "name": "Beyond the Human",
-            "artist": "Beyond the Human",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/00\/7a\/d0\/007ad0a1-f99a-b4d5-da15-d826cd25a145\/mza_5470414496737037541.jpg\/170x170bb.png",
-            "genre": "Social Sciences",
-            "genre_id": "1535",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/beyond-the-human\/id1823027687?uo=2"
-        },
-        {
-            "rank": 195,
-            "apple_id": "946786296",
-            "name": "99 Topics for the CCFP",
-            "artist": "Dr. Brady Bouchard",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts123\/v4\/85\/73\/22\/857322ca-49e3-aa39-1fb6-b65bffc0fa8a\/mza_3881357218869874046.jpg\/170x170bb.png",
-            "genre": "Science",
-            "genre_id": "1533",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/99-topics-for-the-ccfp\/id946786296?uo=2"
-        },
-        {
-            "rank": 196,
-            "apple_id": "1782280922",
-            "name": "Robert Sapolsky | Father-Offspring Interviews",
-            "artist": "Robert Sapolsky",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/2a\/a6\/c2\/2aa6c2d8-cf7a-8fef-c491-563f44ea9546\/mza_8713177129272308288.jpg\/170x170bb.png",
-            "genre": "Science",
-            "genre_id": "1533",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/robert-sapolsky-father-offspring-interviews\/id1782280922?uo=2"
-        },
-        {
-            "rank": 197,
+            "rank": 118,
             "apple_id": "916500028",
             "name": "La Conversation scientifique",
             "artist": "France Culture",
@@ -1978,34 +1188,824 @@
             "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/la-conversation-scientifique\/id916500028?uo=2"
         },
         {
-            "rank": 198,
-            "apple_id": "1857696977",
-            "name": "SST Sans Tabou",
-            "artist": "SST Sans Tabou",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/PodcastSource221\/v4\/c3\/d9\/04\/c3d9044f-f1b5-78ad-3603-cf8bb0e0b86f\/e15445e2-b0f8-45b1-86a1-3f23e455de83.png\/170x170bb.png",
+            "rank": 119,
+            "apple_id": "300973784",
+            "name": "This Week in Virology",
+            "artist": "Vincent Racaniello",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts115\/v4\/c7\/e7\/47\/c7e747a8-1a13-0d35-21df-d1c2a25b4053\/mza_11929035314781021438.jpg\/170x170bb.png",
             "genre": "Science",
             "genre_id": "1533",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/sst-sans-tabou\/id1857696977?uo=2"
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/this-week-in-virology\/id300973784?uo=2"
+        },
+        {
+            "rank": 120,
+            "apple_id": "706518211",
+            "name": "Expanded Perspectives",
+            "artist": "Expanded Perspectives",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts115\/v4\/89\/d3\/4e\/89d34e56-6a38-4675-d6f9-642fc9aa1ae6\/mza_3983309729878184125.jpg\/170x170bb.png",
+            "genre": "Science",
+            "genre_id": "1533",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/expanded-perspectives\/id706518211?uo=2"
+        },
+        {
+            "rank": 121,
+            "apple_id": "1262594123",
+            "name": "Houston We Have a Podcast",
+            "artist": "National Aeronautics and Space Administration (NASA)",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/3b\/d5\/7a\/3bd57a91-a0b7-70d4-29a7-7b963031c5be\/mza_8206877657992562329.jpeg\/170x170bb.png",
+            "genre": "Science",
+            "genre_id": "1533",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/houston-we-have-a-podcast\/id1262594123?uo=2"
+        },
+        {
+            "rank": 122,
+            "apple_id": "1080935752",
+            "name": "SpaceTime with Stuart Gary",
+            "artist": "Stuart Gary",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/98\/f3\/c0\/98f3c08a-f70b-7ebf-c1f2-348a150b8ec7\/mza_5803984397987918705.jpg\/170x170bb.png",
+            "genre": "Astronomy",
+            "genre_id": "1538",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/spacetime-with-stuart-gary\/id1080935752?uo=2"
+        },
+        {
+            "rank": 123,
+            "apple_id": "1811906918",
+            "name": "Talking Precarity",
+            "artist": "Vannina Sztainbok and Zoe Newman",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/ae\/99\/d5\/ae99d5ed-703f-9777-c22b-5d6d973dc745\/mza_14438838491234301916.png\/170x170bb.png",
+            "genre": "Social Sciences",
+            "genre_id": "1535",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/talking-precarity\/id1811906918?uo=2"
+        },
+        {
+            "rank": 124,
+            "apple_id": "1413365130",
+            "name": "Future Ecologies",
+            "artist": "Future Ecologies",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts113\/v4\/99\/3c\/54\/993c5456-8cba-1906-5d2d-95db40fd4770\/mza_11900099725948198962.png\/170x170bb.png",
+            "genre": "Nature",
+            "genre_id": "1537",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/future-ecologies\/id1413365130?uo=2"
+        },
+        {
+            "rank": 125,
+            "apple_id": "1080090608",
+            "name": "Space Nuts: Astronomy Insights & Cosmic Discoveries",
+            "artist": "Professor Fred Watson and Andrew Dunkley",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/84\/57\/41\/84574188-27bd-e116-ef88-2ca493966691\/mza_17326849945998137175.jpg\/170x170bb.png",
+            "genre": "Astronomy",
+            "genre_id": "1538",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/space-nuts-astronomy-insights-cosmic-discoveries\/id1080090608?uo=2"
+        },
+        {
+            "rank": 126,
+            "apple_id": "1595590107",
+            "name": "Inquiry with Kelly Chase",
+            "artist": "Kelly Chase",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/10\/14\/21\/1014210f-bfd9-404b-f78b-56fd6b8b414b\/mza_3696233863464239417.jpeg\/170x170bb.png",
+            "genre": "Social Sciences",
+            "genre_id": "1535",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/inquiry-with-kelly-chase\/id1595590107?uo=2"
+        },
+        {
+            "rank": 127,
+            "apple_id": "1872438725",
+            "name": "NOVA Remix",
+            "artist": "GBH",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/21\/e1\/3b\/21e13b2a-33cb-53e1-ffc7-2a26909bbcd3\/mza_2216363214871571531.jpg\/170x170bb.png",
+            "genre": "Science",
+            "genre_id": "1533",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/nova-remix\/id1872438725?uo=2"
+        },
+        {
+            "rank": 128,
+            "apple_id": "260335249",
+            "name": "BrainStuff",
+            "artist": "iHeartPodcasts",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/63\/48\/1b\/63481bf1-e2d1-4a79-bd58-a124ad856ce2\/mza_11759188184699808876.jpg\/170x170bb.png",
+            "genre": "Natural Sciences",
+            "genre_id": "1534",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/brainstuff\/id260335249?uo=2"
+        },
+        {
+            "rank": 129,
+            "apple_id": "1476316441",
+            "name": "Google DeepMind: The Podcast",
+            "artist": "Hannah Fry",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/ba\/f3\/63\/baf363d0-598a-cc22-34a9-52ba955cb1c3\/mza_14017418948880786929.jpg\/170x170bb.png",
+            "genre": "Science",
+            "genre_id": "1533",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/google-deepmind-the-podcast\/id1476316441?uo=2"
+        },
+        {
+            "rank": 130,
+            "apple_id": "634849863",
+            "name": "Unexpected Elements",
+            "artist": "BBC World Service",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts116\/v4\/87\/17\/61\/8717611f-a0ad-dbe9-b763-59326940eec2\/mza_2728337113689690539.jpg\/170x170bb.png",
+            "genre": "Science",
+            "genre_id": "1533",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/unexpected-elements\/id634849863?uo=2"
+        },
+        {
+            "rank": 131,
+            "apple_id": "1504112670",
+            "name": "Mind & Life",
+            "artist": "Mind & Life Institute",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts112\/v4\/8d\/1e\/ac\/8d1eac5a-fc4a-52d0-3462-23c4ce18d44d\/mza_9976919030398370026.png\/170x170bb.png",
+            "genre": "Science",
+            "genre_id": "1533",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/mind-life\/id1504112670?uo=2"
+        },
+        {
+            "rank": 132,
+            "apple_id": "1224204194",
+            "name": "Science & Futurism with Isaac Arthur",
+            "artist": "Isaac Arthur",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts122\/v4\/4b\/78\/7c\/4b787ce1-1d44-bf37-3c65-260798dc6f6e\/mza_11437749360196536378.jpeg\/170x170bb.png",
+            "genre": "Science",
+            "genre_id": "1533",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/science-futurism-with-isaac-arthur\/id1224204194?uo=2"
+        },
+        {
+            "rank": 133,
+            "apple_id": "1435735981",
+            "name": "The Horse First: A Veterinary Sport Horse Podcast",
+            "artist": "Audrey DeClue, DVM",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts115\/v4\/5e\/c6\/5e\/5ec65ebb-0df2-f015-d80f-8049574b077c\/mza_16694948735222225676.png\/170x170bb.png",
+            "genre": "Life Sciences",
+            "genre_id": "1541",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/the-horse-first-a-veterinary-sport-horse-podcast\/id1435735981?uo=2"
+        },
+        {
+            "rank": 134,
+            "apple_id": "1454850590",
+            "name": "Crazy Town",
+            "artist": "Post Carbon Institute",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/57\/5f\/a5\/575fa5bb-00a5-1965-c0bb-fb7f61387c6c\/mza_8354000102376745010.jpg\/170x170bb.png",
+            "genre": "Earth Sciences",
+            "genre_id": "1540",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/crazy-town\/id1454850590?uo=2"
+        },
+        {
+            "rank": 135,
+            "apple_id": "1723724928",
+            "name": "The Astrophysics Podcast",
+            "artist": "Paul Duffell",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts116\/v4\/a6\/18\/73\/a6187302-d104-9d1a-1697-93947237601b\/mza_16825509288327642892.jpg\/170x170bb.png",
+            "genre": "Astronomy",
+            "genre_id": "1538",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/the-astrophysics-podcast\/id1723724928?uo=2"
+        },
+        {
+            "rank": 136,
+            "apple_id": "1091448948",
+            "name": "ABA Inside Track",
+            "artist": "ABA Inside Track",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/6e\/a0\/5a\/6ea05a9e-8ce3-6138-f0cc-d2fa573acff7\/mza_14908180474955659595.png\/170x170bb.png",
+            "genre": "Social Sciences",
+            "genre_id": "1535",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/aba-inside-track\/id1091448948?uo=2"
+        },
+        {
+            "rank": 137,
+            "apple_id": "327034166",
+            "name": "Skeptics with a K",
+            "artist": "Skeptic Media Limited",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts115\/v4\/59\/58\/28\/59582872-249d-edee-095f-0bf349bbe234\/mza_12097649494809319643.jpg\/170x170bb.png",
+            "genre": "Science",
+            "genre_id": "1533",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/skeptics-with-a-k\/id327034166?uo=2"
+        },
+        {
+            "rank": 138,
+            "apple_id": "1525620301",
+            "name": "Geology Bites",
+            "artist": "Oliver Strimpel",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts116\/v4\/ae\/51\/7b\/ae517b55-4fc5-430e-29a3-227d8bfce933\/mza_8769318646279676626.jpg\/170x170bb.png",
+            "genre": "Earth Sciences",
+            "genre_id": "1540",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/geology-bites\/id1525620301?uo=2"
+        },
+        {
+            "rank": 139,
+            "apple_id": "1654006346",
+            "name": "Pale Blue Pod",
+            "artist": "Multitude",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/1b\/d0\/01\/1bd001f4-4381-a447-d43c-57cc90da4179\/mza_17469162991255376143.jpeg\/170x170bb.png",
+            "genre": "Astronomy",
+            "genre_id": "1538",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/pale-blue-pod\/id1654006346?uo=2"
+        },
+        {
+            "rank": 140,
+            "apple_id": "1895834900",
+            "name": "Phenomena Podcast: The Science & Stories of Energy Healing",
+            "artist": "Merraki Media LLC",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/b7\/a2\/1a\/b7a21a1e-0d4e-e804-e588-0bad31ebed06\/mza_2813117412021529672.jpg\/170x170bb.png",
+            "genre": "Life Sciences",
+            "genre_id": "1541",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/phenomena-podcast-the-science-stories-of-energy-healing\/id1895834900?uo=2"
+        },
+        {
+            "rank": 141,
+            "apple_id": "1546630514",
+            "name": "Fish of the Week!",
+            "artist": "U.S. Fish and Wildlife Service",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/a5\/4a\/e2\/a54ae2ae-f7b3-5de2-6d7c-0b6e4b259600\/mza_14255329771416756035.jpg\/170x170bb.png",
+            "genre": "Nature",
+            "genre_id": "1537",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/fish-of-the-week\/id1546630514?uo=2"
+        },
+        {
+            "rank": 142,
+            "apple_id": "1494780335",
+            "name": "The Medbullets Step 2 & 3 Podcast",
+            "artist": "Medbullets",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts125\/v4\/02\/93\/3f\/02933f23-8841-e2d2-5f49-f034640dbe56\/mza_7111639418256111630.jpg\/170x170bb.png",
+            "genre": "Science",
+            "genre_id": "1533",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/the-medbullets-step-2-3-podcast\/id1494780335?uo=2"
+        },
+        {
+            "rank": 143,
+            "apple_id": "1437682381",
+            "name": "The End Of The World with Josh Clark",
+            "artist": "iHeartPodcasts",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/c7\/42\/1b\/c7421b19-25ce-9c89-d1cd-801566753e15\/mza_519576920609695828.jpg\/170x170bb.png",
+            "genre": "Science",
+            "genre_id": "1533",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/the-end-of-the-world-with-josh-clark\/id1437682381?uo=2"
+        },
+        {
+            "rank": 144,
+            "apple_id": "1504006978",
+            "name": "Public Health Insight",
+            "artist": "PHI Media",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/e6\/34\/5d\/e6345d7e-66bb-5787-b837-4c01d504c50f\/mza_4705338674995770629.jpg\/170x170bb.png",
+            "genre": "Social Sciences",
+            "genre_id": "1535",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/public-health-insight\/id1504006978?uo=2"
+        },
+        {
+            "rank": 145,
+            "apple_id": "880791662",
+            "name": "Real Ghost Stories Online",
+            "artist": "Real Ghost Stories Online | Paranormal, Supernatural & Horror Radio",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/6e\/44\/98\/6e4498e0-f689-a43b-0594-ffb7f2a787eb\/mza_3521021896468381939.jpg\/170x170bb.png",
+            "genre": "Natural Sciences",
+            "genre_id": "1534",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/real-ghost-stories-online\/id880791662?uo=2"
+        },
+        {
+            "rank": 146,
+            "apple_id": "1227858637",
+            "name": "Somewhere in the Skies",
+            "artist": "SpectreVision Radio",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/4f\/a9\/42\/4fa94207-331c-049d-ec67-09485c56c2ed\/mza_7021853075306410661.jpg\/170x170bb.png",
+            "genre": "Social Sciences",
+            "genre_id": "1535",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/somewhere-in-the-skies\/id1227858637?uo=2"
+        },
+        {
+            "rank": 147,
+            "apple_id": "1337886873",
+            "name": "Choiceology with Katy Milkman",
+            "artist": "Charles Schwab",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/d4\/dd\/1a\/d4dd1a96-3d19-d117-049a-e7efb67e15cc\/mza_5642620100423641543.jpg\/170x170bb.png",
+            "genre": "Social Sciences",
+            "genre_id": "1535",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/choiceology-with-katy-milkman\/id1337886873?uo=2"
+        },
+        {
+            "rank": 148,
+            "apple_id": "1614222671",
+            "name": "The Sociology of Everything Podcast",
+            "artist": "Eric Hsu & Louis Everuss (Lou & the Hsu)",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/68\/e4\/e6\/68e4e6b0-10aa-1a1c-2587-ab596906c0c6\/mza_275702056994214134.jpg\/170x170bb.png",
+            "genre": "Social Sciences",
+            "genre_id": "1535",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/the-sociology-of-everything-podcast\/id1614222671?uo=2"
+        },
+        {
+            "rank": 149,
+            "apple_id": "1617116535",
+            "name": "پادکست آذرخش مکری - azarakhsh mokri",
+            "artist": "nimac",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts122\/v4\/23\/9d\/51\/239d5155-a4fe-50af-7b72-bb09c90fd9cf\/mza_4702294573463643102.jpg\/170x170bb.png",
+            "genre": "Life Sciences",
+            "genre_id": "1541",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/%D9%BE%D8%A7%D8%AF%DA%A9%D8%B3%D8%AA-%D8%A2%D8%B0%D8%B1%D8%AE%D8%B4-%D9%85%DA%A9%D8%B1%DB%8C-azarakhsh-mokri\/id1617116535?uo=2"
+        },
+        {
+            "rank": 150,
+            "apple_id": "521594713",
+            "name": "You Are Not So Smart",
+            "artist": "You Are Not So Smart",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/90\/f3\/e5\/90f3e5da-d661-3581-4474-6e14f342c86a\/mza_8266442694079680437.jpg\/170x170bb.png",
+            "genre": "Social Sciences",
+            "genre_id": "1535",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/you-are-not-so-smart\/id521594713?uo=2"
+        },
+        {
+            "rank": 151,
+            "apple_id": "1775839058",
+            "name": "Public Health is Dead",
+            "artist": "Public Health is Dead",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/2b\/cc\/c3\/2bccc324-8c17-eabb-f5d5-4a214f3fc09d\/mza_5326851708637132218.jpg\/170x170bb.png",
+            "genre": "Life Sciences",
+            "genre_id": "1541",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/public-health-is-dead\/id1775839058?uo=2"
+        },
+        {
+            "rank": 152,
+            "apple_id": "1516526694",
+            "name": "Decouple",
+            "artist": "Dr. Chris Keefer",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts113\/v4\/bf\/ee\/9e\/bfee9eb4-250d-dd6c-68e0-ce05fb36ef16\/mza_4586750394303482471.jpg\/170x170bb.png",
+            "genre": "Science",
+            "genre_id": "1533",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/decouple\/id1516526694?uo=2"
+        },
+        {
+            "rank": 153,
+            "apple_id": "1688883209",
+            "name": "Ancestral Science",
+            "artist": "Ancestral Science of \"Relational Science Circle\"",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts116\/v4\/96\/e6\/9d\/96e69dd5-4a93-9006-99aa-9ce9a1e14491\/mza_10733302953876331386.jpg\/170x170bb.png",
+            "genre": "Science",
+            "genre_id": "1533",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/ancestral-science\/id1688883209?uo=2"
+        },
+        {
+            "rank": 154,
+            "apple_id": "1545536782",
+            "name": "Completely Arbortrary",
+            "artist": "Completely Arbortrary",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts126\/v4\/b3\/85\/22\/b385223d-d86b-4b55-1a0a-25dd58659ae8\/mza_12179788881716029192.jpeg\/170x170bb.png",
+            "genre": "Science",
+            "genre_id": "1533",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/completely-arbortrary\/id1545536782?uo=2"
+        },
+        {
+            "rank": 155,
+            "apple_id": "442136254",
+            "name": "The Micah Hanks Program",
+            "artist": "Micah Hanks",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts123\/v4\/28\/2c\/cb\/282ccb37-0142-842a-2260-5a524145a86f\/mza_13546852026473678573.jpg\/170x170bb.png",
+            "genre": "Science",
+            "genre_id": "1533",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/the-micah-hanks-program\/id442136254?uo=2"
+        },
+        {
+            "rank": 156,
+            "apple_id": "1606314974",
+            "name": "What The Duck?!",
+            "artist": "ABC Australia",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/1c\/92\/96\/1c929674-6544-565b-7439-6452f471c8ce\/mza_8947123577604624179.jpg\/170x170bb.png",
+            "genre": "Natural Sciences",
+            "genre_id": "1534",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/what-the-duck\/id1606314974?uo=2"
+        },
+        {
+            "rank": 157,
+            "apple_id": "1690950960",
+            "name": "Cool Worlds Podcast",
+            "artist": "coolworldslab",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts116\/v4\/d9\/30\/3c\/d9303cd7-add3-9970-f2be-d97f4478ba62\/mza_5122458071964964805.jpg\/170x170bb.png",
+            "genre": "Science",
+            "genre_id": "1533",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/cool-worlds-podcast\/id1690950960?uo=2"
+        },
+        {
+            "rank": 158,
+            "apple_id": "1523312400",
+            "name": "Why This Universe?",
+            "artist": "Dan Hooper, Shalma Wegsman",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/00\/c1\/cf\/00c1cf59-90c5-5be4-c13d-d944182340b2\/mza_12212945952805023441.jpg\/170x170bb.png",
+            "genre": "Physics",
+            "genre_id": "1542",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/why-this-universe\/id1523312400?uo=2"
+        },
+        {
+            "rank": 159,
+            "apple_id": "1706127479",
+            "name": "Hiçbir Şey Tesadüf Değil",
+            "artist": "Podbee Media",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/6d\/6e\/9e\/6d6e9e14-95aa-e93f-53f9-19feab952bf5\/mza_17166684974696430967.jpeg\/170x170bb.png",
+            "genre": "Physics",
+            "genre_id": "1542",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/hi%C3%A7bir-%C5%9Fey-tesad%C3%BCf-de%C4%9Fil\/id1706127479?uo=2"
+        },
+        {
+            "rank": 160,
+            "apple_id": "1535406429",
+            "name": "Clearer Thinking with Spencer Greenberg",
+            "artist": "Spencer Greenberg",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/c4\/c4\/d1\/c4c4d15a-b0e7-f7b9-ef9b-db18b5cfa1f2\/mza_10312608696498399155.png\/170x170bb.png",
+            "genre": "Social Sciences",
+            "genre_id": "1535",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/clearer-thinking-with-spencer-greenberg\/id1535406429?uo=2"
+        },
+        {
+            "rank": 161,
+            "apple_id": "1757327783",
+            "name": "SASQUATCH THEORY",
+            "artist": "SASQUATCH THEORY",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/6e\/46\/fb\/6e46fb33-cf5a-98bd-9f6c-410ccca72b13\/mza_16855889660914338013.jpg\/170x170bb.png",
+            "genre": "Nature",
+            "genre_id": "1537",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/sasquatch-theory\/id1757327783?uo=2"
+        },
+        {
+            "rank": 162,
+            "apple_id": "1057845085",
+            "name": "Choses à Savoir SCIENCES",
+            "artist": "Choses à Savoir",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts122\/v4\/12\/17\/9d\/12179dad-ec1d-4ea1-b01f-08e27c9309d6\/mza_4402351276845487088.jpg\/170x170bb.png",
+            "genre": "Science",
+            "genre_id": "1533",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/choses-%C3%A0-savoir-sciences\/id1057845085?uo=2"
+        },
+        {
+            "rank": 163,
+            "apple_id": "1338378584",
+            "name": "The Intern At Work: Internal Medicine",
+            "artist": "Medicine Pods: The Intern at Work",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/1d\/91\/28\/1d91287d-7268-c817-dc8e-14f38a01a641\/mza_8979910849190468038.jpg\/170x170bb.png",
+            "genre": "Science",
+            "genre_id": "1533",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/the-intern-at-work-internal-medicine\/id1338378584?uo=2"
+        },
+        {
+            "rank": 164,
+            "apple_id": "1529845451",
+            "name": "braincast | پادکست علوم شناختی و مغز",
+            "artist": "Pouya Paknejad",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts125\/v4\/bf\/4f\/9f\/bf4f9f70-1178-83a5-2e26-62512df0a0fc\/mza_12748223427322450446.jpg\/170x170bb.png",
+            "genre": "Science",
+            "genre_id": "1533",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/braincast-%D9%BE%D8%A7%D8%AF%DA%A9%D8%B3%D8%AA-%D8%B9%D9%84%D9%88%D9%85-%D8%B4%D9%86%D8%A7%D8%AE%D8%AA%DB%8C-%D9%88-%D9%85%D8%BA%D8%B2\/id1529845451?uo=2"
+        },
+        {
+            "rank": 165,
+            "apple_id": "1808860055",
+            "name": "AI News Podcast | Latest AI News, Analysis & Events | Daily Inference",
+            "artist": "AI Daily",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/76\/56\/53\/76565394-392d-a576-60ab-9c94574df18a\/mza_5274906324928173581.jpg\/170x170bb.png",
+            "genre": "Science",
+            "genre_id": "1533",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/ai-news-podcast-latest-ai-news-analysis-events-daily\/id1808860055?uo=2"
+        },
+        {
+            "rank": 166,
+            "apple_id": "1186824033",
+            "name": "The American Birding Podcast",
+            "artist": "American Birding Association",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts113\/v4\/32\/40\/bb\/3240bb6b-de4b-0690-ab91-c01650b74d79\/mza_5105100870224745336.jpg\/170x170bb.png",
+            "genre": "Nature",
+            "genre_id": "1537",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/the-american-birding-podcast\/id1186824033?uo=2"
+        },
+        {
+            "rank": 167,
+            "apple_id": "1459416461",
+            "name": "Outrage + Optimism: The Climate Podcast",
+            "artist": "Persephonica and Global Optimism",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/ff\/fa\/33\/fffa336a-814d-a128-f834-bb4b778500ee\/mza_4516823945662398049.jpeg\/170x170bb.png",
+            "genre": "Science",
+            "genre_id": "1533",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/outrage-optimism-the-climate-podcast\/id1459416461?uo=2"
+        },
+        {
+            "rank": 168,
+            "apple_id": "1461719659",
+            "name": "Bigfoot Terror in the Woods Sightings and Encounters",
+            "artist": "W.J. Sheehan",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts113\/v4\/e1\/2d\/07\/e12d0778-7036-ea3d-4207-fe669384f9ab\/mza_11638582080806314243.jpg\/170x170bb.png",
+            "genre": "Nature",
+            "genre_id": "1537",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/bigfoot-terror-in-the-woods-sightings-and-encounters\/id1461719659?uo=2"
+        },
+        {
+            "rank": 169,
+            "apple_id": "1616723640",
+            "name": "Nerdy About Nature",
+            "artist": "Nerdy About Nature",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/PodcastSource126\/v4\/39\/82\/70\/398270d7-1bb8-23d4-6bd1-d849e1a1bfcd\/2e3b8911-fda7-45e0-a3d0-5b21656d7265.jpg\/170x170bb.png",
+            "genre": "Nature",
+            "genre_id": "1537",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/nerdy-about-nature\/id1616723640?uo=2"
+        },
+        {
+            "rank": 170,
+            "apple_id": "1461725746",
+            "name": "Paranormal Portal",
+            "artist": "Brent Thomas",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts112\/v4\/a7\/21\/65\/a7216587-5257-9a56-6a50-962036629ead\/mza_5122439218737014158.jpg\/170x170bb.png",
+            "genre": "Natural Sciences",
+            "genre_id": "1534",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/paranormal-portal\/id1461725746?uo=2"
+        },
+        {
+            "rank": 171,
+            "apple_id": "423338807",
+            "name": "New Books in Psychoanalysis",
+            "artist": "Marshall Poe",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts112\/v4\/f8\/77\/f9\/f877f9a4-70ef-0d07-5852-efedf8475100\/mza_5508259566896249959.jpeg\/170x170bb.png",
+            "genre": "Science",
+            "genre_id": "1533",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/new-books-in-psychoanalysis\/id423338807?uo=2"
+        },
+        {
+            "rank": 172,
+            "apple_id": "1639606507",
+            "name": "Mind The Disruption",
+            "artist": "National Collaborating Centre for Determinants of Health",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts122\/v4\/da\/48\/44\/da48445e-7d38-f0c2-e913-11b0597a68c3\/mza_5372838685798230406.jpg\/170x170bb.png",
+            "genre": "Social Sciences",
+            "genre_id": "1535",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/mind-the-disruption\/id1639606507?uo=2"
+        },
+        {
+            "rank": 173,
+            "apple_id": "1344239847",
+            "name": "Voyage dans l'espace",
+            "artist": "Claude Lafleur",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts115\/v4\/cf\/a1\/8a\/cfa18a4a-75e0-9f9a-27fe-d016f884d439\/mza_10325015228758252747.jpg\/170x170bb.png",
+            "genre": "Science",
+            "genre_id": "1533",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/voyage-dans-lespace\/id1344239847?uo=2"
+        },
+        {
+            "rank": 174,
+            "apple_id": "1590670779",
+            "name": "Lost Women of Science",
+            "artist": "Lost Women of Science",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts116\/v4\/10\/58\/fb\/1058fb8c-fbf8-11e8-85e7-0cc5d2e75372\/mza_12865866013116503023.jpg\/170x170bb.png",
+            "genre": "Science",
+            "genre_id": "1533",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/lost-women-of-science\/id1590670779?uo=2"
+        },
+        {
+            "rank": 175,
+            "apple_id": "1243228877",
+            "name": "Project Oncology®",
+            "artist": "ReachMD",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts115\/v4\/32\/43\/8d\/32438d12-f214-2b84-a090-4cb5c1fd55ff\/mza_1588204697638323759.jpg\/170x170bb.png",
+            "genre": "Science",
+            "genre_id": "1533",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/project-oncology\/id1243228877?uo=2"
+        },
+        {
+            "rank": 176,
+            "apple_id": "1848218214",
+            "name": "Entre Profs",
+            "artist": "CHOQ.ca",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/1d\/b0\/fb\/1db0fb73-5333-243a-b587-b052b531fc67\/mza_681576429066943607.png\/170x170bb.png",
+            "genre": "Education",
+            "genre_id": "1304",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/entre-profs\/id1848218214?uo=2"
+        },
+        {
+            "rank": 177,
+            "apple_id": "1774757962",
+            "name": "On a fait nos recherches",
+            "artist": "Fred Savard",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/a8\/d7\/c3\/a8d7c312-b7e9-1ecd-ebc7-536288c052cf\/mza_8836169366409247363.jpg\/170x170bb.png",
+            "genre": "Social Sciences",
+            "genre_id": "1535",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/on-a-fait-nos-recherches\/id1774757962?uo=2"
+        },
+        {
+            "rank": 178,
+            "apple_id": "1402378177",
+            "name": "The Bulletproof Musician",
+            "artist": "Noa Kageyama",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/bd\/3f\/a2\/bd3fa2de-e2b3-047b-edac-1cd5d9c877f7\/mza_10805800959809556696.jpg\/170x170bb.png",
+            "genre": "Social Sciences",
+            "genre_id": "1535",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/the-bulletproof-musician\/id1402378177?uo=2"
+        },
+        {
+            "rank": 179,
+            "apple_id": "1488874171",
+            "name": "UFO Chronicles Podcast",
+            "artist": "Nik Hunter",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/22\/72\/33\/227233bf-0e7b-4d2a-d2bd-402d810dea89\/mza_17727488661588768146.jpg\/170x170bb.png",
+            "genre": "Natural Sciences",
+            "genre_id": "1534",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/ufo-chronicles-podcast\/id1488874171?uo=2"
+        },
+        {
+            "rank": 180,
+            "apple_id": "1781240842",
+            "name": "Science Radio",
+            "artist": "Studio SF",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/78\/24\/a5\/7824a5d4-d6dd-fb44-57eb-89dcbe46d837\/mza_3696440514429113967.jpg\/170x170bb.png",
+            "genre": "Science",
+            "genre_id": "1533",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/science-radio\/id1781240842?uo=2"
+        },
+        {
+            "rank": 181,
+            "apple_id": "1628833551",
+            "name": "What Remains",
+            "artist": "WRAL News | Raleigh, North Carolina",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts126\/v4\/5d\/1e\/2b\/5d1e2b3b-26ba-7377-e049-8b0536ca768c\/mza_16441760059109831809.jpg\/170x170bb.png",
+            "genre": "Science",
+            "genre_id": "1533",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/what-remains\/id1628833551?uo=2"
+        },
+        {
+            "rank": 182,
+            "apple_id": "1886010341",
+            "name": "4 Ever Wild: Stories of the Salish Sea and Beyond",
+            "artist": "Eagle Wing Tours",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/08\/04\/40\/080440f1-2c74-c833-228b-adf8f3800176\/mza_1926612961028966099.jpg\/170x170bb.png",
+            "genre": "Nature",
+            "genre_id": "1537",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/4-ever-wild-stories-of-the-salish-sea-and-beyond\/id1886010341?uo=2"
+        },
+        {
+            "rank": 183,
+            "apple_id": "1176349237",
+            "name": "Bigfoot Eyewitness Radio",
+            "artist": "Vic Cundiff",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/f0\/8c\/7d\/f08c7dae-5ca7-757b-0aa9-5caa999e0ab6\/mza_11144861692307753541.jpg\/170x170bb.png",
+            "genre": "Nature",
+            "genre_id": "1537",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/bigfoot-eyewitness-radio\/id1176349237?uo=2"
+        },
+        {
+            "rank": 184,
+            "apple_id": "1730984252",
+            "name": "Your Brain On",
+            "artist": "Drs. Ayesha and Dean Sherzai",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts116\/v4\/08\/ac\/d4\/08acd476-37d6-3d9b-b3f5-375b582b9601\/mza_7867299351691683020.jpg\/170x170bb.png",
+            "genre": "Science",
+            "genre_id": "1533",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/your-brain-on\/id1730984252?uo=2"
+        },
+        {
+            "rank": 185,
+            "apple_id": "436133392",
+            "name": "Because Language - a podcast about linguistics, the science of language.",
+            "artist": "Daniel Midgley, Ben Ainslie, and Hedvig Skirgård",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts125\/v4\/4e\/0d\/64\/4e0d6416-abe6-39f9-c62f-e3d63b5bcc54\/mza_17260962357745416321.png\/170x170bb.png",
+            "genre": "Social Sciences",
+            "genre_id": "1535",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/because-language-a-podcast-about-linguistics\/id436133392?uo=2"
+        },
+        {
+            "rank": 186,
+            "apple_id": "1086413253",
+            "name": "The Behavioral Observations Podcast with Matt Cicoria",
+            "artist": "Matt Cicoria",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts113\/v4\/94\/4f\/5e\/944f5efc-2d8e-777d-7da8-bd5642b4df8c\/mza_6782355827452210090.jpg\/170x170bb.png",
+            "genre": "Social Sciences",
+            "genre_id": "1535",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/the-behavioral-observations-podcast-with-matt-cicoria\/id1086413253?uo=2"
+        },
+        {
+            "rank": 187,
+            "apple_id": "1801750608",
+            "name": "Le podcast du jardinier-maraîcher",
+            "artist": "Le jardinier-maraîcher",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/76\/eb\/11\/76eb115b-e417-ce41-9314-c0d753bc6e9d\/mza_8274004633341023744.jpg\/170x170bb.png",
+            "genre": "Earth Sciences",
+            "genre_id": "1540",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/le-podcast-du-jardinier-mara%C3%AEcher\/id1801750608?uo=2"
+        },
+        {
+            "rank": 188,
+            "apple_id": "1225096382",
+            "name": "The House of Pod",
+            "artist": "Kaveh MD",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts125\/v4\/53\/a7\/cc\/53a7cc23-9b29-21e5-a815-998e4356890c\/mza_2399456255396101973.jpg\/170x170bb.png",
+            "genre": "Science",
+            "genre_id": "1533",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/the-house-of-pod\/id1225096382?uo=2"
+        },
+        {
+            "rank": 189,
+            "apple_id": "1663974629",
+            "name": "Health Optimization Medicine Podcast",
+            "artist": "Health Optimization Medicine and Practice",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/0f\/0c\/94\/0f0c9449-70c4-69d5-a3e0-c25df3dcfa30\/mza_17754862318168047684.png\/170x170bb.png",
+            "genre": "Life Sciences",
+            "genre_id": "1541",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/health-optimization-medicine-podcast\/id1663974629?uo=2"
+        },
+        {
+            "rank": 190,
+            "apple_id": "1505804327",
+            "name": "The Deep-Sea Podcast",
+            "artist": "Thomas Linley",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/8f\/0c\/ab\/8f0cab00-cda9-b7a6-42d9-d189e2227cea\/mza_2886922769834665465.jpg\/170x170bb.png",
+            "genre": "Life Sciences",
+            "genre_id": "1541",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/the-deep-sea-podcast\/id1505804327?uo=2"
+        },
+        {
+            "rank": 191,
+            "apple_id": "1853347080",
+            "name": "Okay, But... Birds",
+            "artist": "Dr. Scott Taylor",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/b3\/81\/65\/b3816563-d9d0-7d35-54b8-51c1331241f9\/mza_6457331073810178374.png\/170x170bb.png",
+            "genre": "Nature",
+            "genre_id": "1537",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/okay-but-birds\/id1853347080?uo=2"
+        },
+        {
+            "rank": 192,
+            "apple_id": "1809194651",
+            "name": "Extremely Accurate Bird Songs (The Podcast)",
+            "artist": "Extremely Accurate Bird Songs",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/13\/a7\/16\/13a7166a-6511-d988-d409-4cf916b0d8a4\/mza_12790518597850466043.jpeg\/170x170bb.png",
+            "genre": "Nature",
+            "genre_id": "1537",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/extremely-accurate-bird-songs-the-podcast\/id1809194651?uo=2"
+        },
+        {
+            "rank": 193,
+            "apple_id": "1635374265",
+            "name": "The History of Chemistry",
+            "artist": "Steve Cohen",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/7f\/ac\/18\/7fac1875-e0b6-2e2f-654e-696e60f829c1\/mza_2056554343087846423.jpg\/170x170bb.png",
+            "genre": "Chemistry",
+            "genre_id": "1539",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/the-history-of-chemistry\/id1635374265?uo=2"
+        },
+        {
+            "rank": 194,
+            "apple_id": "1599884695",
+            "name": "Cryptids Of The Corn",
+            "artist": "Cryptids of the Corn Podcast",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts126\/v4\/e7\/ae\/b7\/e7aeb752-99a8-18f2-0b22-2b2a0b4868eb\/mza_7645292614964118212.jpg\/170x170bb.png",
+            "genre": "Nature",
+            "genre_id": "1537",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/cryptids-of-the-corn\/id1599884695?uo=2"
+        },
+        {
+            "rank": 195,
+            "apple_id": "1896769943",
+            "name": "Tree Science today",
+            "artist": "Christopher Hodge",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/4a\/90\/9e\/4a909ef9-3e4f-2c51-3831-5c1431e4a0ff\/mza_11365838357321983460.jpeg\/170x170bb.png",
+            "genre": "Nature",
+            "genre_id": "1537",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/tree-science-today\/id1896769943?uo=2"
+        },
+        {
+            "rank": 196,
+            "apple_id": "1804147797",
+            "name": "Inflection Point",
+            "artist": "C&EN",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/46\/8d\/d5\/468dd5ec-c889-77a8-dcee-e6a2d892100b\/mza_14049889936727773309.jpg\/170x170bb.png",
+            "genre": "Chemistry",
+            "genre_id": "1539",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/inflection-point\/id1804147797?uo=2"
+        },
+        {
+            "rank": 197,
+            "apple_id": "91689834",
+            "name": "Planetary Radio: Space Exploration, Astronomy and Science",
+            "artist": "The Planetary Society",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts116\/v4\/12\/9d\/e6\/129de6c3-8048-078a-e054-751af12fdcd1\/mza_5394175969927495016.jpg\/170x170bb.png",
+            "genre": "Science",
+            "genre_id": "1533",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/planetary-radio-space-exploration-astronomy-and-science\/id91689834?uo=2"
+        },
+        {
+            "rank": 198,
+            "apple_id": "1850900599",
+            "name": "跨国串门儿计划",
+            "artist": "yikai",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/90\/9e\/4c\/909e4cb0-d57c-f14f-6cab-36a7364e6bf4\/mza_5345648791325918502.png\/170x170bb.png",
+            "genre": "Science",
+            "genre_id": "1533",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/%E8%B7%A8%E5%9B%BD%E4%B8%B2%E9%97%A8%E5%84%BF%E8%AE%A1%E5%88%92\/id1850900599?uo=2"
         },
         {
             "rank": 199,
-            "apple_id": "1853991306",
-            "name": "In Our Nature: Saint John",
-            "artist": "NatureSaintJohn",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/ce\/88\/81\/ce888112-26fe-6207-1530-390b1fff879a\/mza_11950929653480686673.png\/170x170bb.png",
-            "genre": "Nature",
-            "genre_id": "1537",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/in-our-nature-saint-john\/id1853991306?uo=2"
+            "apple_id": "1660969118",
+            "name": "Les idées larges",
+            "artist": "ARTE Radio",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts221\/v4\/24\/50\/fe\/2450fe2b-eb25-fad0-3382-e1c60a3ad1de\/mza_9416313209984923213.png\/170x170bb.png",
+            "genre": "Science",
+            "genre_id": "1533",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/les-id%C3%A9es-larges\/id1660969118?uo=2"
         },
         {
             "rank": 200,
-            "apple_id": "1567856820",
-            "name": "Le Trio Économique",
-            "artist": "Présenté par Ian et Frank",
-            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts125\/v4\/87\/05\/48\/87054849-669c-634b-c422-f5c8802c7cb1\/mza_5153988279465672170.jpg\/170x170bb.png",
-            "genre": "Social Sciences",
-            "genre_id": "1535",
-            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/le-trio-%C3%A9conomique\/id1567856820?uo=2"
+            "apple_id": "1506577607",
+            "name": "SickKids VS",
+            "artist": "SickKids Foundation",
+            "artwork": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts211\/v4\/1c\/1b\/d8\/1c1bd823-e74e-8a21-bda6-47c84caaa14a\/mza_17949850037208292336.jpg\/170x170bb.png",
+            "genre": "Science",
+            "genre_id": "1533",
+            "url": "https:\/\/podcasts.apple.com\/ca\/podcast\/sickkids-vs\/id1506577607?uo=2"
         }
     ]
 }

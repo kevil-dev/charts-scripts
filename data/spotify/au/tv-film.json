@@ -3,7 +3,7 @@
     "country": "au",
     "genre": "TV & Film",
     "slug": "tv-film",
-    "fetched_at": "2026-06-24T06:36:48Z",
+    "fetched_at": "2026-07-01T04:43:34Z",
     "count": 50,
     "shows": [
         {
@@ -30,20 +30,11 @@
             "name": "MAFS Funny Podcast",
             "publisher": "AIIMS Creator Hub",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f6e9a2ff7941524b3bb2fef80",
-            "rank_move": "UP",
+            "rank_move": "DOWN",
             "url": "https:\/\/open.spotify.com\/show\/06i5y9dGSTr3hkqajCIels"
         },
         {
             "rank": 4,
-            "spotify_id": "0miPYZLvYFv6Ghgo9WRXqC",
-            "name": "hello82",
-            "publisher": "hello82",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f816bb2784d9aade8ab679609",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/0miPYZLvYFv6Ghgo9WRXqC"
-        },
-        {
-            "rank": 5,
             "spotify_id": "0UetHF8bYSGBtDsjVl4GDv",
             "name": "48 Hours",
             "publisher": "CBS News",
@@ -52,13 +43,22 @@
             "url": "https:\/\/open.spotify.com\/show\/0UetHF8bYSGBtDsjVl4GDv"
         },
         {
-            "rank": 6,
+            "rank": 5,
             "spotify_id": "1lUPomulZRPquVAOOd56EW",
             "name": "The Rewatchables",
             "publisher": "The Ringer",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1faeaffe8827e92d870857cddf",
             "rank_move": "UNCHANGED",
             "url": "https:\/\/open.spotify.com\/show\/1lUPomulZRPquVAOOd56EW"
+        },
+        {
+            "rank": 6,
+            "spotify_id": "6mTel3azvnK8isLs4VujvF",
+            "name": "The Big Picture",
+            "publisher": "The Ringer",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fd68855a4aaacd53818a9078b",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/6mTel3azvnK8isLs4VujvF"
         },
         {
             "rank": 7,
@@ -80,12 +80,12 @@
         },
         {
             "rank": 9,
-            "spotify_id": "6mTel3azvnK8isLs4VujvF",
-            "name": "The Big Picture",
-            "publisher": "The Ringer",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fd68855a4aaacd53818a9078b",
+            "spotify_id": "1Z3J2eVU1xJi2vaveABzK9",
+            "name": "Love Island: The Debrief",
+            "publisher": "Lifted Entertainment part of ITV Studios",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fbcaeeff5ab8823bbde3eaf7e",
             "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/6mTel3azvnK8isLs4VujvF"
+            "url": "https:\/\/open.spotify.com\/show\/1Z3J2eVU1xJi2vaveABzK9"
         },
         {
             "rank": 10,
@@ -98,15 +98,6 @@
         },
         {
             "rank": 11,
-            "spotify_id": "1Z3J2eVU1xJi2vaveABzK9",
-            "name": "Love Island: The Debrief",
-            "publisher": "Lifted Entertainment part of ITV Studios",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fbcaeeff5ab8823bbde3eaf7e",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/1Z3J2eVU1xJi2vaveABzK9"
-        },
-        {
-            "rank": 12,
             "spotify_id": "5Sj288Dj8bafNfNTVrJq2p",
             "name": "Back to the Barre",
             "publisher": "Christi Lukasiak & Kelly Hyland",
@@ -115,22 +106,31 @@
             "url": "https:\/\/open.spotify.com\/show\/5Sj288Dj8bafNfNTVrJq2p"
         },
         {
+            "rank": 12,
+            "spotify_id": "5PJAKCxOsNYxyNNxe7KmsE",
+            "name": "The Royalty Family ",
+            "publisher": "The Royalty Family",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fb8640312d1b45c5a5ae0b6db",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/5PJAKCxOsNYxyNNxe7KmsE"
+        },
+        {
             "rank": 13,
-            "spotify_id": "6bAvAAcvAWUAbwgxhbJhUi",
-            "name": "So Dramatic! with Megan Pustetto",
-            "publisher": "Megan Pustetto",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fe1d07bd7628fdfa0757bf2d3",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/6bAvAAcvAWUAbwgxhbJhUi"
+            "spotify_id": "3IcA76e8ZV0NNSJ81XHQUg",
+            "name": "The Watch",
+            "publisher": "The Ringer",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f78879c522a673a8984872b28",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/3IcA76e8ZV0NNSJ81XHQUg"
         },
         {
             "rank": 14,
-            "spotify_id": "3iSZPuQ8T8Msh0N33ZD7No",
-            "name": "Watch What Crappens",
-            "publisher": "Ben Mandelker & Ronnie Karam ",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f69f97c883ae7365a8a79b778",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/3iSZPuQ8T8Msh0N33ZD7No"
+            "spotify_id": "4GyqecnSWZxUGNEUqJNNT7",
+            "name": "House of R",
+            "publisher": "The Ringer",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f36da642a551a274b01e1b67e",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/4GyqecnSWZxUGNEUqJNNT7"
         },
         {
             "rank": 15,
@@ -143,141 +143,6 @@
         },
         {
             "rank": 16,
-            "spotify_id": "4Tg9dYP7NDiU3ZjrY3kRPG",
-            "name": " My Diary Animated Official",
-            "publisher": "My Diary Animated (MDA)",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f2cc24fbe4a0a4c5b7c57f52f",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/4Tg9dYP7NDiU3ZjrY3kRPG"
-        },
-        {
-            "rank": 17,
-            "spotify_id": "03cp5qwpSvb9two5JHIg9y",
-            "name": "Not Skinny But Not Fat",
-            "publisher": "Dear Media, Amanda Hirsch",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fb9ebe1dced22a0ec634da5be",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/03cp5qwpSvb9two5JHIg9y"
-        },
-        {
-            "rank": 18,
-            "spotify_id": "3IcA76e8ZV0NNSJ81XHQUg",
-            "name": "The Watch",
-            "publisher": "The Ringer",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f78879c522a673a8984872b28",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/3IcA76e8ZV0NNSJ81XHQUg"
-        },
-        {
-            "rank": 19,
-            "spotify_id": "5PJAKCxOsNYxyNNxe7KmsE",
-            "name": "The Royalty Family ",
-            "publisher": "The Royalty Family",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fb8640312d1b45c5a5ae0b6db",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/5PJAKCxOsNYxyNNxe7KmsE"
-        },
-        {
-            "rank": 20,
-            "spotify_id": "5gS211turPsDslAmOnyo9x",
-            "name": "Private Diary - Stories For Teen",
-            "publisher": "Private Diary",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f78091e2d23a51486a9d5b81b",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/5gS211turPsDslAmOnyo9x"
-        },
-        {
-            "rank": 21,
-            "spotify_id": "2pJvYcYBD6A4MPkWagUtb7",
-            "name": "Race Chaser with Alaska & Willam",
-            "publisher": "Moguls of Media",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f880a1b7dc8ee7edb52d71c2f",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/2pJvYcYBD6A4MPkWagUtb7"
-        },
-        {
-            "rank": 22,
-            "spotify_id": "5A6NnCMx4Or5zwywagmTZB",
-            "name": "The Moment with Myf Warhurst",
-            "publisher": "MIK Made & Myf Warhurst",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f9a42ad04f839194136d1b00a",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/5A6NnCMx4Or5zwywagmTZB"
-        },
-        {
-            "rank": 23,
-            "spotify_id": "4GyqecnSWZxUGNEUqJNNT7",
-            "name": "House of R",
-            "publisher": "The Ringer",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f36da642a551a274b01e1b67e",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/4GyqecnSWZxUGNEUqJNNT7"
-        },
-        {
-            "rank": 24,
-            "spotify_id": "5tObaoAimbLiA7vtj3f7RS",
-            "name": "The Prestige TV Podcast",
-            "publisher": "The Ringer",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f8672bbcc928f8b5b522db81d",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/5tObaoAimbLiA7vtj3f7RS"
-        },
-        {
-            "rank": 25,
-            "spotify_id": "4zmVd1CGeUCxAAMwGAwsFD",
-            "name": "Blank Check with Griffin & David",
-            "publisher": "Blank Check Productions",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f36292be9d098d934da772b10",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/4zmVd1CGeUCxAAMwGAwsFD"
-        },
-        {
-            "rank": 26,
-            "spotify_id": "15Hm7iU9RKSrl9o4pR7rre",
-            "name": "True Crime & Cocktails",
-            "publisher": "Art19",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f81cd6a4c6c892a609ad1fe8a",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/15Hm7iU9RKSrl9o4pR7rre"
-        },
-        {
-            "rank": 27,
-            "spotify_id": "6yPN9365C6u1KeoNqSd2pD",
-            "name": "Beyond The Blinds",
-            "publisher": "Cloud10",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f6f2467a788e7306891ab7658",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/6yPN9365C6u1KeoNqSd2pD"
-        },
-        {
-            "rank": 28,
-            "spotify_id": "5wc3m2A6mlcxPxVM86i4LO",
-            "name": "No Filter With Zack Peter",
-            "publisher": "Zack Peter",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f7c10bf64016855994919e921",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/5wc3m2A6mlcxPxVM86i4LO"
-        },
-        {
-            "rank": 29,
-            "spotify_id": "5BdtLZwyCvIpUxJastR2xM",
-            "name": "Film Theory",
-            "publisher": "Film Theory",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f9ce873c07717c4ed7be1745b",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/5BdtLZwyCvIpUxJastR2xM"
-        },
-        {
-            "rank": 30,
-            "spotify_id": "3z9QIZzDR4o34uBBbsxb0z",
-            "name": "The Ringer-Verse",
-            "publisher": "The Ringer",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fd23321d863b4efcc37c1fc81",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/3z9QIZzDR4o34uBBbsxb0z"
-        },
-        {
-            "rank": 31,
             "spotify_id": "033cveVepMVnbD2vVCL4ec",
             "name": "tadc . . . i guess?",
             "publisher": "_jaded_",
@@ -286,52 +151,115 @@
             "url": "https:\/\/open.spotify.com\/show\/033cveVepMVnbD2vVCL4ec"
         },
         {
-            "rank": 32,
+            "rank": 17,
+            "spotify_id": "3iSZPuQ8T8Msh0N33ZD7No",
+            "name": "Watch What Crappens",
+            "publisher": "Ben Mandelker & Ronnie Karam ",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f69f97c883ae7365a8a79b778",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/3iSZPuQ8T8Msh0N33ZD7No"
+        },
+        {
+            "rank": 18,
+            "spotify_id": "5gS211turPsDslAmOnyo9x",
+            "name": "Private Diary - Stories For Teen",
+            "publisher": "Private Diary",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fc246f510b8f4dba381c76847",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/5gS211turPsDslAmOnyo9x"
+        },
+        {
+            "rank": 19,
+            "spotify_id": "2pJvYcYBD6A4MPkWagUtb7",
+            "name": "Race Chaser with Alaska & Willam",
+            "publisher": "Moguls of Media",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f880a1b7dc8ee7edb52d71c2f",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/2pJvYcYBD6A4MPkWagUtb7"
+        },
+        {
+            "rank": 20,
+            "spotify_id": "4Tg9dYP7NDiU3ZjrY3kRPG",
+            "name": " My Diary Animated Official",
+            "publisher": "My Diary Animated (MDA)",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f2cc24fbe4a0a4c5b7c57f52f",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/4Tg9dYP7NDiU3ZjrY3kRPG"
+        },
+        {
+            "rank": 21,
+            "spotify_id": "4zmVd1CGeUCxAAMwGAwsFD",
+            "name": "Blank Check with Griffin & David",
+            "publisher": "Blank Check Productions",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f36292be9d098d934da772b10",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/4zmVd1CGeUCxAAMwGAwsFD"
+        },
+        {
+            "rank": 22,
+            "spotify_id": "5BdtLZwyCvIpUxJastR2xM",
+            "name": "Film Theory",
+            "publisher": "Film Theory",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f9ce873c07717c4ed7be1745b",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/5BdtLZwyCvIpUxJastR2xM"
+        },
+        {
+            "rank": 23,
+            "spotify_id": "5A6NnCMx4Or5zwywagmTZB",
+            "name": "The Moment with Myf Warhurst",
+            "publisher": "MIK Made & Myf Warhurst",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f9a42ad04f839194136d1b00a",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/5A6NnCMx4Or5zwywagmTZB"
+        },
+        {
+            "rank": 24,
+            "spotify_id": "15Hm7iU9RKSrl9o4pR7rre",
+            "name": "True Crime & Cocktails",
+            "publisher": "Art19",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f81cd6a4c6c892a609ad1fe8a",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/15Hm7iU9RKSrl9o4pR7rre"
+        },
+        {
+            "rank": 25,
+            "spotify_id": "6yPN9365C6u1KeoNqSd2pD",
+            "name": "Beyond The Blinds",
+            "publisher": "Cloud10",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f6f2467a788e7306891ab7658",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/6yPN9365C6u1KeoNqSd2pD"
+        },
+        {
+            "rank": 26,
+            "spotify_id": "03cp5qwpSvb9two5JHIg9y",
+            "name": "Not Skinny But Not Fat",
+            "publisher": "Dear Media, Amanda Hirsch",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fb9ebe1dced22a0ec634da5be",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/03cp5qwpSvb9two5JHIg9y"
+        },
+        {
+            "rank": 27,
+            "spotify_id": "3z9QIZzDR4o34uBBbsxb0z",
+            "name": "The Ringer-Verse",
+            "publisher": "The Ringer",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fd23321d863b4efcc37c1fc81",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/3z9QIZzDR4o34uBBbsxb0z"
+        },
+        {
+            "rank": 28,
             "spotify_id": "09cBVDZiE861DIHlEdcuac",
             "name": "Dead Meat Podcast",
             "publisher": "Chelsea Rebecca, James A. Janisse",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f87c50be31e41928192840661",
-            "rank_move": "DOWN",
+            "rank_move": "UP",
             "url": "https:\/\/open.spotify.com\/show\/09cBVDZiE861DIHlEdcuac"
         },
         {
-            "rank": 33,
-            "spotify_id": "3WECCX4SDoAJ5rmd0zr60l",
-            "name": "Virtual Reali-Tea by Page Six",
-            "publisher": "Page Six",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f5495454001aa5d82552881f7",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/3WECCX4SDoAJ5rmd0zr60l"
-        },
-        {
-            "rank": 34,
-            "spotify_id": "6cQa5xnTYHaIh6SAK4gW3w",
-            "name": "Happy Sad Confused",
-            "publisher": "Joshua Horowitz",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fddfc800b23c449d9aedba432",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/6cQa5xnTYHaIh6SAK4gW3w"
-        },
-        {
-            "rank": 35,
-            "spotify_id": "0SljizgqERMCPo9Dp9IjqZ",
-            "name": "How We Made Your Mother",
-            "publisher": "Audacy & Josh Radnor and Craig Thomas",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f0654b7e4ba4cc3df3edc67bb",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/0SljizgqERMCPo9Dp9IjqZ"
-        },
-        {
-            "rank": 36,
-            "spotify_id": "0m29HsLyVuj7w3uUNlLOUJ",
-            "name": "The Last Video Store",
-            "publisher": "DM Podcats",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fa5244d9726e7c13a55f9e4e6",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/0m29HsLyVuj7w3uUNlLOUJ"
-        },
-        {
-            "rank": 37,
+            "rank": 29,
             "spotify_id": "2HDaqExFABugadHFKWbgms",
             "name": "Films To Be Buried With with Brett Goldstein",
             "publisher": "Brett Goldstein | Daylight Media",
@@ -340,52 +268,115 @@
             "url": "https:\/\/open.spotify.com\/show\/2HDaqExFABugadHFKWbgms"
         },
         {
-            "rank": 38,
-            "spotify_id": "02HqhNz1ZYMeOPUCs9NOAK",
-            "name": "My Inspired Animated Story",
-            "publisher": "My Inspired Animated Story (MIA)",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fd1e0779b32edb297cb254b2c",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/02HqhNz1ZYMeOPUCs9NOAK"
-        },
-        {
-            "rank": 39,
-            "spotify_id": "7JijH9JGlcLvG30E20NhJS",
-            "name": "Everything Iconic with Danny Pellegrino",
-            "publisher": "Danny Pellegrino",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f236eae8ac759d0b54aa1ad0d",
+            "rank": 30,
+            "spotify_id": "5tObaoAimbLiA7vtj3f7RS",
+            "name": "The Prestige TV Podcast",
+            "publisher": "The Ringer",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f8672bbcc928f8b5b522db81d",
             "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/7JijH9JGlcLvG30E20NhJS"
+            "url": "https:\/\/open.spotify.com\/show\/5tObaoAimbLiA7vtj3f7RS"
         },
         {
-            "rank": 40,
-            "spotify_id": "6qCirTlW8P0Jl7t6Pd3CqR",
-            "name": "The Graham Norton Show",
-            "publisher": "ITV Studios",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f9e660f0f30a059eb84c2315e",
+            "rank": 31,
+            "spotify_id": "3WECCX4SDoAJ5rmd0zr60l",
+            "name": "Virtual Reali-Tea by Page Six",
+            "publisher": "Page Six",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f5495454001aa5d82552881f7",
             "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/6qCirTlW8P0Jl7t6Pd3CqR"
+            "url": "https:\/\/open.spotify.com\/show\/3WECCX4SDoAJ5rmd0zr60l"
         },
         {
-            "rank": 41,
+            "rank": 32,
+            "spotify_id": "2rkvYan0ApmxJVe35tXdiC",
+            "name": "The Official Game of Thrones Podcast: House of the Dragon",
+            "publisher": "HBO Max Podcasts",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f5ebeba3784d6161a4fb81d08",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/2rkvYan0ApmxJVe35tXdiC"
+        },
+        {
+            "rank": 33,
+            "spotify_id": "5wc3m2A6mlcxPxVM86i4LO",
+            "name": "No Filter With Zack Peter",
+            "publisher": "Zack Peter",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f7c10bf64016855994919e921",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/5wc3m2A6mlcxPxVM86i4LO"
+        },
+        {
+            "rank": 34,
             "spotify_id": "4NEr4s1r0QYVTGiE29NyjS",
             "name": "Nora Diary - Teen Stories",
             "publisher": "Nora Diary",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f90129155ab2670542b2dc025",
-            "rank_move": "DOWN",
+            "rank_move": "UP",
             "url": "https:\/\/open.spotify.com\/show\/4NEr4s1r0QYVTGiE29NyjS"
         },
         {
-            "rank": 42,
+            "rank": 35,
+            "spotify_id": "02HqhNz1ZYMeOPUCs9NOAK",
+            "name": "MIA - My Inspired Animated Story",
+            "publisher": "MIA Podcast",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fd08265901c47cf15a5ff1894",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/02HqhNz1ZYMeOPUCs9NOAK"
+        },
+        {
+            "rank": 36,
+            "spotify_id": "0SljizgqERMCPo9Dp9IjqZ",
+            "name": "How We Made Your Mother",
+            "publisher": "Audacy & Josh Radnor and Craig Thomas",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f0654b7e4ba4cc3df3edc67bb",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/0SljizgqERMCPo9Dp9IjqZ"
+        },
+        {
+            "rank": 37,
+            "spotify_id": "6bAvAAcvAWUAbwgxhbJhUi",
+            "name": "So Dramatic! with Megan Pustetto",
+            "publisher": "Megan Pustetto",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fe1d07bd7628fdfa0757bf2d3",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/6bAvAAcvAWUAbwgxhbJhUi"
+        },
+        {
+            "rank": 38,
+            "spotify_id": "6cQa5xnTYHaIh6SAK4gW3w",
+            "name": "Happy Sad Confused",
+            "publisher": "Joshua Horowitz",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fddfc800b23c449d9aedba432",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/6cQa5xnTYHaIh6SAK4gW3w"
+        },
+        {
+            "rank": 39,
+            "spotify_id": "2qjSjgVMOFAxwimWWn4WPg",
+            "name": "Naxon - Stories For Men",
+            "publisher": "Naxon Podcast",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f1bbad6ef95b3eb26a2b1d7fb",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/2qjSjgVMOFAxwimWWn4WPg"
+        },
+        {
+            "rank": 40,
+            "spotify_id": "2Gzh1krILyf62nggggJ2y0",
+            "name": "Class of 09",
+            "publisher": "Frank1e",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f67d78c975569825a309cc1d1",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/2Gzh1krILyf62nggggJ2y0"
+        },
+        {
+            "rank": 41,
             "spotify_id": "1o9NeDdSs6UBKE6ahJBvl0",
             "name": "The People’s Court Podcast",
             "publisher": "The People’s Court Podcast",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1ff4eecc80c563cb9518ad2c4f",
-            "rank_move": "UNCHANGED",
+            "rank_move": "DOWN",
             "url": "https:\/\/open.spotify.com\/show\/1o9NeDdSs6UBKE6ahJBvl0"
         },
         {
-            "rank": 43,
+            "rank": 42,
             "spotify_id": "4jLKhdBDjkcUt7w84a6jKR",
             "name": "The Rewatcher",
             "publisher": "Morbid Network",
@@ -394,22 +385,31 @@
             "url": "https:\/\/open.spotify.com\/show\/4jLKhdBDjkcUt7w84a6jKR"
         },
         {
+            "rank": 43,
+            "spotify_id": "7JijH9JGlcLvG30E20NhJS",
+            "name": "Everything Iconic with Danny Pellegrino",
+            "publisher": "Danny Pellegrino",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f236eae8ac759d0b54aa1ad0d",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/7JijH9JGlcLvG30E20NhJS"
+        },
+        {
             "rank": 44,
-            "spotify_id": "0ZD43YPKer9ZWsZKAry5Rg",
-            "name": "BravBros",
-            "publisher": "Big IP | Realm",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f01aaa9af3a9afba770eaef0c",
+            "spotify_id": "6qCirTlW8P0Jl7t6Pd3CqR",
+            "name": "The Graham Norton Show",
+            "publisher": "ITV Studios",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f9e660f0f30a059eb84c2315e",
             "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/0ZD43YPKer9ZWsZKAry5Rg"
+            "url": "https:\/\/open.spotify.com\/show\/6qCirTlW8P0Jl7t6Pd3CqR"
         },
         {
             "rank": 45,
-            "spotify_id": "2qjSjgVMOFAxwimWWn4WPg",
-            "name": "Naxon - Stories For Men",
-            "publisher": "Naxon",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f540fb3bfc8b4fb7efd7be557",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/2qjSjgVMOFAxwimWWn4WPg"
+            "spotify_id": "4uBZD4jTYmMm5pSdVKX1if",
+            "name": "My Secret Story",
+            "publisher": "My Secret Story",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fdc9fb36d94b13a332196bbce",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/4uBZD4jTYmMm5pSdVKX1if"
         },
         {
             "rank": 46,
@@ -417,29 +417,20 @@
             "name": "That's Messed Up: An SVU Podcast",
             "publisher": "Exactly Right and iHeartPodcasts",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f861ca52fc33f476f19600409",
-            "rank_move": "UP",
+            "rank_move": "UNCHANGED",
             "url": "https:\/\/open.spotify.com\/show\/5Dxdua9QzV2LADwvduuDp6"
         },
         {
             "rank": 47,
-            "spotify_id": "4qCN2D5BraNwDIpfP0iHKE",
-            "name": "Eyes on Screen",
-            "publisher": "Second Look Media",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f3f88263021dc6ca8aa5bd337",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/4qCN2D5BraNwDIpfP0iHKE"
+            "spotify_id": "12zdmewpbxupRKp9yZY2Lx",
+            "name": "Alex Meyers",
+            "publisher": "Alex Meyers",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f447ab6a91b84d89451474fbe",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/12zdmewpbxupRKp9yZY2Lx"
         },
         {
             "rank": 48,
-            "spotify_id": "5fyjEiSnR6yuJkYWULrrSQ",
-            "name": "LADbible Entertainment",
-            "publisher": "LADbible",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f9c51390233e3dc56ac4c6c0c",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/5fyjEiSnR6yuJkYWULrrSQ"
-        },
-        {
-            "rank": 49,
             "spotify_id": "5lxICd9MFvyJbnGH4G7xrM",
             "name": "Talk Ville",
             "publisher": "Tom Welling & Michael Rosenbaum",
@@ -448,13 +439,22 @@
             "url": "https:\/\/open.spotify.com\/show\/5lxICd9MFvyJbnGH4G7xrM"
         },
         {
-            "rank": 50,
-            "spotify_id": "2uoimYayKaJkPNp1a5OZrC",
-            "name": "Two Judgey Girls",
-            "publisher": "Two Judgey Girls",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f08749eb78b2be96d6a766ac6",
+            "rank": 49,
+            "spotify_id": "0ZD43YPKer9ZWsZKAry5Rg",
+            "name": "BravBros",
+            "publisher": "Big IP | Realm",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f01aaa9af3a9afba770eaef0c",
             "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/2uoimYayKaJkPNp1a5OZrC"
+            "url": "https:\/\/open.spotify.com\/show\/0ZD43YPKer9ZWsZKAry5Rg"
+        },
+        {
+            "rank": 50,
+            "spotify_id": "3bDde7PbruHlPvyppS0EpC",
+            "name": "Unspooled",
+            "publisher": "Paul Scheer & Amy Nicholson | Realm",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f3632dc12ff7f34ab02cc223c",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/3bDde7PbruHlPvyppS0EpC"
         }
     ]
 }

@@ -3,7 +3,7 @@
     "country": "de",
     "genre": "Technology",
     "slug": "technology",
-    "fetched_at": "2026-06-24T06:37:12Z",
+    "fetched_at": "2026-07-01T04:44:00Z",
     "count": 50,
     "shows": [
         {
@@ -17,51 +17,24 @@
         },
         {
             "rank": 2,
-            "spotify_id": "6pkzDlBn4D49B8Ki7n8cKH",
-            "name": "KI REVOLUTION - Der Business Podcast von Everlast AI | Künstliche Intelligenz | Zukunft | Automation",
-            "publisher": "Everlast AI - Leonard Schmedding",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f5a335e04c6091a5bb4e5241a",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/6pkzDlBn4D49B8Ki7n8cKH"
-        },
-        {
-            "rank": 3,
-            "spotify_id": "1fDCcyPc3CUfKLKay15AuG",
-            "name": "Doppelter Espresso ",
-            "publisher": "Torben Platzer",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f2d0613a5d29c37ef96182788",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/1fDCcyPc3CUfKLKay15AuG"
-        },
-        {
-            "rank": 4,
             "spotify_id": "4a1NJHw6V4yRo8nJZt6PTg",
             "name": "KI TALK by Maxi Raabe und Niklas Volland",
             "publisher": "Maxi Raabe und Niklas Volland",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fc65ec8d222fad4462c086def",
-            "rank_move": "UNCHANGED",
+            "rank_move": "UP",
             "url": "https:\/\/open.spotify.com\/show\/4a1NJHw6V4yRo8nJZt6PTg"
         },
         {
-            "rank": 5,
-            "spotify_id": "2MAi0BvDc6GTFvKFPXnkCL",
-            "name": "Lex Fridman Podcast",
-            "publisher": "Lex Fridman",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f563ebb538d297875b10114b7",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/2MAi0BvDc6GTFvKFPXnkCL"
+            "rank": 3,
+            "spotify_id": "6pkzDlBn4D49B8Ki7n8cKH",
+            "name": "KI REVOLUTION - Der Business Podcast von Everlast AI | Künstliche Intelligenz | Zukunft | Automation",
+            "publisher": "Everlast AI - Leonard Schmedding",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f5a335e04c6091a5bb4e5241a",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/6pkzDlBn4D49B8Ki7n8cKH"
         },
         {
-            "rank": 6,
-            "spotify_id": "2IqXAVFR4e0Bmyjsdc8QzF",
-            "name": "All-In with Chamath, Jason, Sacks & Friedberg",
-            "publisher": "All-In Podcast, LLC",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1ff662927adc2c9d6505e05b51",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/2IqXAVFR4e0Bmyjsdc8QzF"
-        },
-        {
-            "rank": 7,
+            "rank": 4,
             "spotify_id": "5KlYjpj6RhYTP8L8k4bzi4",
             "name": "Tech, KI & Schmetterlinge",
             "publisher": "Sascha Lobo, Schwarz Digits",
@@ -70,7 +43,7 @@
             "url": "https:\/\/open.spotify.com\/show\/5KlYjpj6RhYTP8L8k4bzi4"
         },
         {
-            "rank": 8,
+            "rank": 5,
             "spotify_id": "32NViv1m1HmHRNQg0opNVB",
             "name": "c't 4004 – der c't-3003-Podcast",
             "publisher": "Christian Lutz-Weicken und Jan-Keno Janssen",
@@ -79,16 +52,52 @@
             "url": "https:\/\/open.spotify.com\/show\/32NViv1m1HmHRNQg0opNVB"
         },
         {
+            "rank": 6,
+            "spotify_id": "2MAi0BvDc6GTFvKFPXnkCL",
+            "name": "Lex Fridman Podcast",
+            "publisher": "Lex Fridman",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f563ebb538d297875b10114b7",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/2MAi0BvDc6GTFvKFPXnkCL"
+        },
+        {
+            "rank": 7,
+            "spotify_id": "1fDCcyPc3CUfKLKay15AuG",
+            "name": "Doppelter Espresso ",
+            "publisher": "Torben Platzer",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f2d0613a5d29c37ef96182788",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/1fDCcyPc3CUfKLKay15AuG"
+        },
+        {
+            "rank": 8,
+            "spotify_id": "2IqXAVFR4e0Bmyjsdc8QzF",
+            "name": "All-In with Chamath, Jason, Sacks & Friedberg",
+            "publisher": "All-In Podcast, LLC",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1ff662927adc2c9d6505e05b51",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/2IqXAVFR4e0Bmyjsdc8QzF"
+        },
+        {
             "rank": 9,
             "spotify_id": "5eYTEL27Xp8dnObTDbeNPq",
             "name": "KREWKAST",
             "publisher": "Felix Bahlinger, Julian Völzke",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f04e9912b0d4effa4bbdd5f54",
-            "rank_move": "DOWN",
+            "rank_move": "UNCHANGED",
             "url": "https:\/\/open.spotify.com\/show\/5eYTEL27Xp8dnObTDbeNPq"
         },
         {
             "rank": 10,
+            "spotify_id": "19bl5vTEa65vLlLdLWhiDY",
+            "name": "ARD Klima Update",
+            "publisher": "ARD",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f2ae4a3678398b63b3669a708",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/19bl5vTEa65vLlLdLWhiDY"
+        },
+        {
+            "rank": 11,
             "spotify_id": "7gKwwMLFLc6RmjmRpbMtEO",
             "name": "The AI Daily Brief: Artificial Intelligence News and Analysis",
             "publisher": "Nathaniel Whittemore",
@@ -97,7 +106,43 @@
             "url": "https:\/\/open.spotify.com\/show\/7gKwwMLFLc6RmjmRpbMtEO"
         },
         {
-            "rank": 11,
+            "rank": 12,
+            "spotify_id": "4XPl3uEEL9hvqMkoZrzbx5",
+            "name": "Darknet Diaries",
+            "publisher": "Jack Rhysider",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fd27c58dc12f1c25fb933dd86",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/4XPl3uEEL9hvqMkoZrzbx5"
+        },
+        {
+            "rank": 13,
+            "spotify_id": "7Fj0XEuUQLUqoMZQdsLXqp",
+            "name": "Acquired",
+            "publisher": "Ben Gilbert and David Rosenthal",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f27464794f6c50cc5faf0313e",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/7Fj0XEuUQLUqoMZQdsLXqp"
+        },
+        {
+            "rank": 14,
+            "spotify_id": "4JH4tybY1zX6e5hjCwU6gF",
+            "name": "Dwarkesh Podcast",
+            "publisher": "Dwarkesh Patel",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fec6420b46053b5d1786dbe05",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/4JH4tybY1zX6e5hjCwU6gF"
+        },
+        {
+            "rank": 15,
+            "spotify_id": "6pNXsGqD0rThrodInwnlQR",
+            "name": "byte",
+            "publisher": "Kilian und Joel - iKnowReview und JOCR",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f8496a761ab025d39b8f7c95b",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/6pNXsGqD0rThrodInwnlQR"
+        },
+        {
+            "rank": 16,
             "spotify_id": "033rrGB8hyzLmWtNAEvOJU",
             "name": "Europe 2031",
             "publisher": "Europe 2031",
@@ -106,67 +151,22 @@
             "url": "https:\/\/open.spotify.com\/show\/033rrGB8hyzLmWtNAEvOJU"
         },
         {
-            "rank": 12,
-            "spotify_id": "4JH4tybY1zX6e5hjCwU6gF",
-            "name": "Dwarkesh Podcast",
-            "publisher": "Dwarkesh Patel",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fec6420b46053b5d1786dbe05",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/4JH4tybY1zX6e5hjCwU6gF"
-        },
-        {
-            "rank": 13,
-            "spotify_id": "4XPl3uEEL9hvqMkoZrzbx5",
-            "name": "Darknet Diaries",
-            "publisher": "Jack Rhysider",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fd27c58dc12f1c25fb933dd86",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/4XPl3uEEL9hvqMkoZrzbx5"
-        },
-        {
-            "rank": 14,
-            "spotify_id": "6pNXsGqD0rThrodInwnlQR",
-            "name": "Byte",
-            "publisher": "Kilian und Joel aka iKnowReview und JOCR",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f9072a609372827790b4db0c0",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/6pNXsGqD0rThrodInwnlQR"
-        },
-        {
-            "rank": 15,
-            "spotify_id": "4LdN7lGr9winLtQSqoIjVD",
-            "name": "c’t uplink - der IT-Podcast aus Nerdistan",
-            "publisher": "c’t Magazin",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1ffa3951da8426be33ff4244ee",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/4LdN7lGr9winLtQSqoIjVD"
-        },
-        {
-            "rank": 16,
+            "rank": 17,
             "spotify_id": "2dR1MUZEHCOnz1LVfNac0j",
             "name": "Lenny's Podcast: Product | Career | Growth",
             "publisher": "Lenny Rachitsky",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1ff45f22d94c8aea326e8bf861",
-            "rank_move": "UNCHANGED",
+            "rank_move": "UP",
             "url": "https:\/\/open.spotify.com\/show\/2dR1MUZEHCOnz1LVfNac0j"
         },
         {
-            "rank": 17,
-            "spotify_id": "7Fj0XEuUQLUqoMZQdsLXqp",
-            "name": "Acquired",
-            "publisher": "Ben Gilbert and David Rosenthal",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f27464794f6c50cc5faf0313e",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/7Fj0XEuUQLUqoMZQdsLXqp"
-        },
-        {
             "rank": 18,
-            "spotify_id": "44fllCS2FTFr2x2kjP9xeT",
-            "name": "Hard Fork",
-            "publisher": "The New York Times",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f37a4c8e5a5f95c3a81f36eb7",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/44fllCS2FTFr2x2kjP9xeT"
+            "spotify_id": "4LdN7lGr9winLtQSqoIjVD",
+            "name": "c’t uplink - der IT-Podcast aus Nerdistan",
+            "publisher": "c’t Magazin",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1ffa3951da8426be33ff4244ee",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/4LdN7lGr9winLtQSqoIjVD"
         },
         {
             "rank": 19,
@@ -179,21 +179,21 @@
         },
         {
             "rank": 20,
-            "spotify_id": "0aG1QAgC5wK5uYBfKxp6JB",
-            "name": "Digitale Anomalien",
-            "publisher": "Wolfgang Schoch",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f0435b717bf72f9a6a918a2c8",
+            "spotify_id": "44fllCS2FTFr2x2kjP9xeT",
+            "name": "Hard Fork",
+            "publisher": "The New York Times",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f37a4c8e5a5f95c3a81f36eb7",
             "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/0aG1QAgC5wK5uYBfKxp6JB"
+            "url": "https:\/\/open.spotify.com\/show\/44fllCS2FTFr2x2kjP9xeT"
         },
         {
             "rank": 21,
-            "spotify_id": "1Ndr3k4tpCbElZ4WnMpu1A",
-            "name": "White Hat Café",
-            "publisher": "Hoodinformatik",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fbb5210b51ca38da28fa73765",
+            "spotify_id": "6rcl0oUlnxVzsD1GyllQkP",
+            "name": "AI FIRST Podcast",
+            "publisher": "Felix Schlenther",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fcfa8711ecb7872710249793a",
             "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/1Ndr3k4tpCbElZ4WnMpu1A"
+            "url": "https:\/\/open.spotify.com\/show\/6rcl0oUlnxVzsD1GyllQkP"
         },
         {
             "rank": 22,
@@ -201,7 +201,7 @@
             "name": "Search Engine",
             "publisher": "PJ Vogt",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f742adcb6bf3b982d816d13e1",
-            "rank_move": "DOWN",
+            "rank_move": "UP",
             "url": "https:\/\/open.spotify.com\/show\/76VOmPpOHaTyA1OaRc4BDv"
         },
         {
@@ -215,87 +215,60 @@
         },
         {
             "rank": 24,
-            "spotify_id": "19bl5vTEa65vLlLdLWhiDY",
-            "name": "ARD Klima Update",
-            "publisher": "ARD",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f2ae4a3678398b63b3669a708",
+            "spotify_id": "0aG1QAgC5wK5uYBfKxp6JB",
+            "name": "Digitale Anomalien",
+            "publisher": "Wolfgang Schoch",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f0435b717bf72f9a6a918a2c8",
             "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/19bl5vTEa65vLlLdLWhiDY"
+            "url": "https:\/\/open.spotify.com\/show\/0aG1QAgC5wK5uYBfKxp6JB"
         },
         {
             "rank": 25,
-            "spotify_id": "2tKSpYEvw02J8Bl19ZXStB",
-            "name": "F.A.Z. Digitalwirtschaft",
-            "publisher": "Frankfurter Allgemeine Zeitung",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fdec312eec8c2a63b361b1796",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/2tKSpYEvw02J8Bl19ZXStB"
-        },
-        {
-            "rank": 26,
             "spotify_id": "4uy56W83RGe8SKmzNpyfAc",
             "name": "Computer und Kommunikation",
             "publisher": "Deutschlandfunk",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f6fd55b737cd86f1906961164",
-            "rank_move": "UNCHANGED",
+            "rank_move": "UP",
             "url": "https:\/\/open.spotify.com\/show\/4uy56W83RGe8SKmzNpyfAc"
         },
         {
-            "rank": 27,
-            "spotify_id": "6JD6gwqgVR27GYZACrWOT1",
-            "name": "Bit-Rauschen: Der Prozessor-Podcast von c’t",
-            "publisher": "c't Magazin",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1ff63aa0328151b7dfec30dfe9",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/6JD6gwqgVR27GYZACrWOT1"
-        },
-        {
-            "rank": 28,
-            "spotify_id": "6rcl0oUlnxVzsD1GyllQkP",
-            "name": "AI FIRST Podcast",
-            "publisher": "Felix Schlenther",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fcfa8711ecb7872710249793a",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/6rcl0oUlnxVzsD1GyllQkP"
-        },
-        {
-            "rank": 29,
+            "rank": 26,
             "spotify_id": "2etf1jog8leNHbnhIArM9Z",
             "name": "kurz informiert by heise online",
             "publisher": "heise online",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f428159b6228e1607c2d02a01",
-            "rank_move": "UNCHANGED",
+            "rank_move": "UP",
             "url": "https:\/\/open.spotify.com\/show\/2etf1jog8leNHbnhIArM9Z"
         },
         {
-            "rank": 30,
-            "spotify_id": "0tjJmK4Tz6l3q9TA83eO8b",
-            "name": "ClassicPodCars - das Oldtimer Magazin",
-            "publisher": "ClassicPodCars",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f7e88dd412765a9fc31dff8dd",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/0tjJmK4Tz6l3q9TA83eO8b"
-        },
-        {
-            "rank": 31,
+            "rank": 27,
             "spotify_id": "0vgZKlXhSZ12WovlEAgCgX",
             "name": "t3n MeisterPrompter",
             "publisher": "t3n Digital Pioneers & Susanne Renate Schneider",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fef283908fa42af6b3cb81762",
-            "rank_move": "DOWN",
+            "rank_move": "UP",
             "url": "https:\/\/open.spotify.com\/show\/0vgZKlXhSZ12WovlEAgCgX"
         },
         {
-            "rank": 32,
-            "spotify_id": "4eTpBCjUos9xUXtX294CnY",
-            "name": "Einfach Komplex – Der Software- und IT-Podcast",
-            "publisher": "heisenware.com",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f48a6adeb69e3d16a21e75bff",
+            "rank": 28,
+            "spotify_id": "1Ndr3k4tpCbElZ4WnMpu1A",
+            "name": "White Hat Café",
+            "publisher": "Hoodinformatik",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fbb5210b51ca38da28fa73765",
             "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/4eTpBCjUos9xUXtX294CnY"
+            "url": "https:\/\/open.spotify.com\/show\/1Ndr3k4tpCbElZ4WnMpu1A"
         },
         {
-            "rank": 33,
+            "rank": 29,
+            "spotify_id": "2tKSpYEvw02J8Bl19ZXStB",
+            "name": "F.A.Z. Digitalwirtschaft",
+            "publisher": "Frankfurter Allgemeine Zeitung",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fdec312eec8c2a63b361b1796",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/2tKSpYEvw02J8Bl19ZXStB"
+        },
+        {
+            "rank": 30,
             "spotify_id": "6o81QuW22s5m2nfcXWjucc",
             "name": "Waveform: The MKBHD Podcast",
             "publisher": "MKBHD",
@@ -304,52 +277,34 @@
             "url": "https:\/\/open.spotify.com\/show\/6o81QuW22s5m2nfcXWjucc"
         },
         {
-            "rank": 34,
-            "spotify_id": "02ZRsvu61y1C2GIc8J2gsY",
-            "name": "Silicon Valley Girl: AI, Tech and Career Growth",
-            "publisher": "Marina Mogilko",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fb663730e9aaa46fb91b3eb95",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/02ZRsvu61y1C2GIc8J2gsY"
-        },
-        {
-            "rank": 35,
-            "spotify_id": "2uOoib8L55l46SfiB12Ubt",
-            "name": "Technik aufs Ohr - Der Podcast für Ingenieur*innen und Technikfans",
-            "publisher": "VDI e.V.",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f1ddda492e87221be902972f2",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/2uOoib8L55l46SfiB12Ubt"
-        },
-        {
-            "rank": 36,
-            "spotify_id": "0ik0sXv9paTQCeThcOLCCJ",
-            "name": "programmier.bar – der Podcast für App- und Webentwicklung",
-            "publisher": "programmier.bar",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f16d0cf26a8f69dcfa09c630b",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/0ik0sXv9paTQCeThcOLCCJ"
-        },
-        {
-            "rank": 37,
+            "rank": 31,
             "spotify_id": "7iMjJRAHcOAumvPbdGDavJ",
             "name": "heiseshow",
             "publisher": "heise online",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f406e717aeb2eaadacf1eb512",
-            "rank_move": "UP",
+            "rank_move": "UNCHANGED",
             "url": "https:\/\/open.spotify.com\/show\/7iMjJRAHcOAumvPbdGDavJ"
         },
         {
-            "rank": 38,
-            "spotify_id": "1ypoEKKWUhnSOjZU02oUve",
-            "name": "Darknet Diaries Deutsch",
-            "publisher": "heise online",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fda1b4e4e9bee4cedecdfc5b4",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/1ypoEKKWUhnSOjZU02oUve"
+            "rank": 32,
+            "spotify_id": "5OD0uqQbQyrW2vtLrxMNCj",
+            "name": "Passwort - der Podcast von heise security",
+            "publisher": "Dr. Christopher Kunz, Sylvester Tremmel",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fc26c6bfda9565982330b6dce",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/5OD0uqQbQyrW2vtLrxMNCj"
         },
         {
-            "rank": 39,
+            "rank": 33,
+            "spotify_id": "02ZRsvu61y1C2GIc8J2gsY",
+            "name": "Silicon Valley Girl: AI, Tech and Career Growth",
+            "publisher": "Marina Mogilko",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fb663730e9aaa46fb91b3eb95",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/02ZRsvu61y1C2GIc8J2gsY"
+        },
+        {
+            "rank": 34,
             "spotify_id": "0e9lFr3AdJByoBpM6tAbxD",
             "name": "Deep Questions with Cal Newport",
             "publisher": "Cal Newport",
@@ -358,16 +313,25 @@
             "url": "https:\/\/open.spotify.com\/show\/0e9lFr3AdJByoBpM6tAbxD"
         },
         {
-            "rank": 40,
-            "spotify_id": "1tgqafxZAB0Bjd8nkwVtE4",
-            "name": "Y Combinator Startup Podcast",
-            "publisher": "Y Combinator",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f79fbc83dff3315e5a12e325d",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/1tgqafxZAB0Bjd8nkwVtE4"
+            "rank": 35,
+            "spotify_id": "0ik0sXv9paTQCeThcOLCCJ",
+            "name": "programmier.bar – der Podcast für App- und Webentwicklung",
+            "publisher": "programmier.bar",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f16d0cf26a8f69dcfa09c630b",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/0ik0sXv9paTQCeThcOLCCJ"
         },
         {
-            "rank": 41,
+            "rank": 36,
+            "spotify_id": "2uOoib8L55l46SfiB12Ubt",
+            "name": "Technik aufs Ohr - Der Podcast für Ingenieur*innen und Technikfans",
+            "publisher": "VDI e.V.",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f1ddda492e87221be902972f2",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/2uOoib8L55l46SfiB12Ubt"
+        },
+        {
+            "rank": 37,
             "spotify_id": "6Xoa3ek9xMpWHEGvq3WUib",
             "name": "KI - und jetzt? Wie wir Künstliche Intelligenz leben wollen",
             "publisher": "SR",
@@ -376,7 +340,25 @@
             "url": "https:\/\/open.spotify.com\/show\/6Xoa3ek9xMpWHEGvq3WUib"
         },
         {
-            "rank": 42,
+            "rank": 38,
+            "spotify_id": "4eTpBCjUos9xUXtX294CnY",
+            "name": "Einfach Komplex – Der Software- und IT-Podcast",
+            "publisher": "heisenware.com",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f48a6adeb69e3d16a21e75bff",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/4eTpBCjUos9xUXtX294CnY"
+        },
+        {
+            "rank": 39,
+            "spotify_id": "2dBPt1j2DoNij1kVdx8Ig6",
+            "name": "Better Offline",
+            "publisher": "Cool Zone Media and iHeartPodcasts",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f004b4154828c7f2443e2a56c",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/2dBPt1j2DoNij1kVdx8Ig6"
+        },
+        {
+            "rank": 40,
             "spotify_id": "4aRP2XSavdtrLG5FZoonOK",
             "name": "How I AI",
             "publisher": "Claire Vo",
@@ -385,7 +367,34 @@
             "url": "https:\/\/open.spotify.com\/show\/4aRP2XSavdtrLG5FZoonOK"
         },
         {
+            "rank": 41,
+            "spotify_id": "01hnqNt188UXyyHLgY7izL",
+            "name": "Prompt mich mal! — Der Podcast über KI, ChatGPT & kreative Prompts",
+            "publisher": "Tobias Wachtel",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fe210971cf493ee47cbea02c4",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/01hnqNt188UXyyHLgY7izL"
+        },
+        {
+            "rank": 42,
+            "spotify_id": "0tjJmK4Tz6l3q9TA83eO8b",
+            "name": "ClassicPodCars - das Oldtimer Magazin",
+            "publisher": "ClassicPodCars",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f7e88dd412765a9fc31dff8dd",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/0tjJmK4Tz6l3q9TA83eO8b"
+        },
+        {
             "rank": 43,
+            "spotify_id": "1ypoEKKWUhnSOjZU02oUve",
+            "name": "Darknet Diaries Deutsch",
+            "publisher": "heise online",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fda1b4e4e9bee4cedecdfc5b4",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/1ypoEKKWUhnSOjZU02oUve"
+        },
+        {
+            "rank": 44,
             "spotify_id": "00a97qRya1ZZJrZxq5ApkU",
             "name": "AI to the DNA",
             "publisher": "Christoph Magnussen",
@@ -394,52 +403,25 @@
             "url": "https:\/\/open.spotify.com\/show\/00a97qRya1ZZJrZxq5ApkU"
         },
         {
-            "rank": 44,
-            "spotify_id": "2dBPt1j2DoNij1kVdx8Ig6",
-            "name": "Better Offline",
-            "publisher": "Cool Zone Media and iHeartPodcasts",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f004b4154828c7f2443e2a56c",
+            "rank": 45,
+            "spotify_id": "01A062kejnXFkJE01bjN5J",
+            "name": "The Standup with ThePrimeagen",
+            "publisher": "ThePrimeagen",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fbeb3d138ec4af28d3f4a0729",
             "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/2dBPt1j2DoNij1kVdx8Ig6"
+            "url": "https:\/\/open.spotify.com\/show\/01A062kejnXFkJE01bjN5J"
         },
         {
-            "rank": 45,
+            "rank": 46,
             "spotify_id": "2Bho9xCbOQMWMJ7UKmqCzD",
             "name": "The Pragmatic Engineer",
             "publisher": "Gergely Orosz",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f237bc6fede1622de07d9adef",
-            "rank_move": "UP",
+            "rank_move": "UNCHANGED",
             "url": "https:\/\/open.spotify.com\/show\/2Bho9xCbOQMWMJ7UKmqCzD"
         },
         {
-            "rank": 46,
-            "spotify_id": "7mb89erts0dhIsuWllsb7O",
-            "name": "LUFTRAUM",
-            "publisher": "Christopher Scheffelmeier",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fb3067d4705dc14932c3725d7",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/7mb89erts0dhIsuWllsb7O"
-        },
-        {
             "rank": 47,
-            "spotify_id": "08zQP2peZmM9GrcKShLZvC",
-            "name": "The Vergecast",
-            "publisher": "The Verge",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fa286bd2a0d621ee99d72cf56",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/08zQP2peZmM9GrcKShLZvC"
-        },
-        {
-            "rank": 48,
-            "spotify_id": "01hnqNt188UXyyHLgY7izL",
-            "name": "Prompt mich mal! — Der Podcast über KI, ChatGPT & kreative Prompts",
-            "publisher": "Tobias Wachtel",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fe210971cf493ee47cbea02c4",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/01hnqNt188UXyyHLgY7izL"
-        },
-        {
-            "rank": 49,
             "spotify_id": "1EVNkVB86BuCqyRg91BaD2",
             "name": "CB-Funk - der ComputerBase-Podcast",
             "publisher": "ComputerBase GmbH",
@@ -448,13 +430,31 @@
             "url": "https:\/\/open.spotify.com\/show\/1EVNkVB86BuCqyRg91BaD2"
         },
         {
+            "rank": 48,
+            "spotify_id": "6JD6gwqgVR27GYZACrWOT1",
+            "name": "Bit-Rauschen: Der Prozessor-Podcast von c’t",
+            "publisher": "c't Magazin",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1ff63aa0328151b7dfec30dfe9",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/6JD6gwqgVR27GYZACrWOT1"
+        },
+        {
+            "rank": 49,
+            "spotify_id": "16poJAtyWLDi998Ch8h6OP",
+            "name": "Besser Wissen",
+            "publisher": "Golem.de",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f7b3b53aa3e3aafe142150dcc",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/16poJAtyWLDi998Ch8h6OP"
+        },
+        {
             "rank": 50,
-            "spotify_id": "7obTbZaywhQEiUUOMswQBQ",
-            "name": "t3n Arbeit in Progress",
-            "publisher": "t3n Digital Pioneers",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f5eafe91cfe59458fda9477da",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/7obTbZaywhQEiUUOMswQBQ"
+            "spotify_id": "5DaiBkAgQBt8DRCcwZY8xT",
+            "name": "Coding Buddies | Tech & Dev-Mindset",
+            "publisher": "Fabi und Tino",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f37eed7ab340297dc5a8594b3",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/5DaiBkAgQBt8DRCcwZY8xT"
         }
     ]
 }

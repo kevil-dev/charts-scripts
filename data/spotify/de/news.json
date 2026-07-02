@@ -3,7 +3,7 @@
     "country": "de",
     "genre": "News",
     "slug": "news",
-    "fetched_at": "2026-06-24T06:37:10Z",
+    "fetched_at": "2026-07-01T04:43:58Z",
     "count": 50,
     "shows": [
         {
@@ -17,15 +17,6 @@
         },
         {
             "rank": 2,
-            "spotify_id": "0mi8KO06p8FFIYAaJny55z",
-            "name": "Politik mit Anne Will",
-            "publisher": "Anne Will",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fcca9d527f79b547fc1d42801",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/0mi8KO06p8FFIYAaJny55z"
-        },
-        {
-            "rank": 3,
             "spotify_id": "29KPXEEBRNMUxy6H97nZYL",
             "name": "RONZHEIMER.",
             "publisher": "Paul Ronzheimer",
@@ -34,34 +25,25 @@
             "url": "https:\/\/open.spotify.com\/show\/29KPXEEBRNMUxy6H97nZYL"
         },
         {
-            "rank": 4,
+            "rank": 3,
             "spotify_id": "6kyGUIbKUH7G506XGX4lNk",
             "name": "Apokalypse & Filterkaffee",
             "publisher": "Micky Beisenherz & Studio Bummens",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f489af6398625706031067f17",
-            "rank_move": "UNCHANGED",
+            "rank_move": "UP",
             "url": "https:\/\/open.spotify.com\/show\/6kyGUIbKUH7G506XGX4lNk"
         },
         {
+            "rank": 4,
+            "spotify_id": "0mi8KO06p8FFIYAaJny55z",
+            "name": "Politik mit Anne Will",
+            "publisher": "Anne Will",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fcca9d527f79b547fc1d42801",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/0mi8KO06p8FFIYAaJny55z"
+        },
+        {
             "rank": 5,
-            "spotify_id": "7a3LWj5xSFhFRYmztS8wgK",
-            "name": "Lage der Nation - der Politik-Podcast aus Berlin",
-            "publisher": "Philip Banse & Ulf Buermeyer",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f254c424f6ca683db7d816578",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/7a3LWj5xSFhFRYmztS8wgK"
-        },
-        {
-            "rank": 6,
-            "spotify_id": "4ymTKvZm5SGMtk4NlmRyKv",
-            "name": "Was jetzt?",
-            "publisher": "DIE ZEIT",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f06589a3ba7d697ab4257ab5a",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/4ymTKvZm5SGMtk4NlmRyKv"
-        },
-        {
-            "rank": 7,
             "spotify_id": "48aQhA7feepHv967yLEp1k",
             "name": "Machtwechsel",
             "publisher": "Dagmar Rosenfeld und Robin Alexander",
@@ -70,25 +52,25 @@
             "url": "https:\/\/open.spotify.com\/show\/48aQhA7feepHv967yLEp1k"
         },
         {
-            "rank": 8,
-            "spotify_id": "4eYPgoQH9VLTfgAxIbwHqs",
-            "name": "Die Nachrichten",
-            "publisher": "Deutschlandfunk",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f06093e7e52471d551b62835e",
+            "rank": 6,
+            "spotify_id": "7a3LWj5xSFhFRYmztS8wgK",
+            "name": "Lage der Nation - der Politik-Podcast aus Berlin",
+            "publisher": "Philip Banse & Ulf Buermeyer",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f254c424f6ca683db7d816578",
             "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/4eYPgoQH9VLTfgAxIbwHqs"
+            "url": "https:\/\/open.spotify.com\/show\/7a3LWj5xSFhFRYmztS8wgK"
         },
         {
-            "rank": 9,
-            "spotify_id": "4wikwNKqPMwX4oawNttW6D",
-            "name": "OK, America?",
+            "rank": 7,
+            "spotify_id": "4ymTKvZm5SGMtk4NlmRyKv",
+            "name": "Was jetzt?",
             "publisher": "DIE ZEIT",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f1faa6274c99586f49a25d0ef",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f06589a3ba7d697ab4257ab5a",
             "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/4wikwNKqPMwX4oawNttW6D"
+            "url": "https:\/\/open.spotify.com\/show\/4ymTKvZm5SGMtk4NlmRyKv"
         },
         {
-            "rank": 10,
+            "rank": 8,
             "spotify_id": "3LvgkjCjA3I49mfzrHtxmV",
             "name": "0630 - der News-Podcast",
             "publisher": "1LIVE für die ARD",
@@ -97,61 +79,43 @@
             "url": "https:\/\/open.spotify.com\/show\/3LvgkjCjA3I49mfzrHtxmV"
         },
         {
-            "rank": 11,
-            "spotify_id": "1WA1U25dsygLz3GjTfLHS3",
-            "name": "11KM: der tagesschau-Podcast",
-            "publisher": "tagesschau",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f61a30c6b7f6d380330d6d83b",
+            "rank": 9,
+            "spotify_id": "4eYPgoQH9VLTfgAxIbwHqs",
+            "name": "Die Nachrichten",
+            "publisher": "Deutschlandfunk",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f06093e7e52471d551b62835e",
             "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/1WA1U25dsygLz3GjTfLHS3"
+            "url": "https:\/\/open.spotify.com\/show\/4eYPgoQH9VLTfgAxIbwHqs"
         },
         {
-            "rank": 12,
+            "rank": 10,
+            "spotify_id": "4wikwNKqPMwX4oawNttW6D",
+            "name": "OK, America?",
+            "publisher": "DIE ZEIT",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f1faa6274c99586f49a25d0ef",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/4wikwNKqPMwX4oawNttW6D"
+        },
+        {
+            "rank": 11,
             "spotify_id": "6wSE4lw2azBvT1Zfoq0yIB",
             "name": "15 Minuten. Der tagesschau-Podcast am Morgen",
             "publisher": "tagesschau",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fa1b1c209705fea47bc25339b",
-            "rank_move": "UNCHANGED",
+            "rank_move": "UP",
             "url": "https:\/\/open.spotify.com\/show\/6wSE4lw2azBvT1Zfoq0yIB"
         },
         {
+            "rank": 12,
+            "spotify_id": "0ApW6Pg0iubYAUZc1zlKKH",
+            "name": "Wir reden die Welt Podcast",
+            "publisher": "Ini und Jong",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f1f8c6435ad90bca425d9479e",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/0ApW6Pg0iubYAUZc1zlKKH"
+        },
+        {
             "rank": 13,
-            "spotify_id": "29yPBRjgN4JsbADpG2YojL",
-            "name": "Das Politikteil",
-            "publisher": "DIE ZEIT",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f66b7052cd66836ca89ab2e02",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/29yPBRjgN4JsbADpG2YojL"
-        },
-        {
-            "rank": 14,
-            "spotify_id": "7hJU02u7OFqdFMxSrSDN5U",
-            "name": "tagesschau: Die 20 Uhr Nachrichten (Audio)",
-            "publisher": "tagesschau",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f6db7d3d1b6f83b4f9cdaf289",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/7hJU02u7OFqdFMxSrSDN5U"
-        },
-        {
-            "rank": 15,
-            "spotify_id": "0VD0P2KFHMsZNLdf9uHbDe",
-            "name": "DER TRUMP EFFEKT",
-            "publisher": "ZDF auslandsjournal",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f037eda7f188f7def0ff04cfa",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/0VD0P2KFHMsZNLdf9uHbDe"
-        },
-        {
-            "rank": 16,
-            "spotify_id": "7vFmyZR3rDf61V69UpRXbA",
-            "name": "Auf den Punkt",
-            "publisher": "Süddeutsche Zeitung",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fd8802f1e9cf10d2afe88cf53",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/7vFmyZR3rDf61V69UpRXbA"
-        },
-        {
-            "rank": 17,
             "spotify_id": "4zQKHBLkM3puG5n3jAU2H4",
             "name": "Jung & Naiv",
             "publisher": "Tilo Jung",
@@ -160,31 +124,67 @@
             "url": "https:\/\/open.spotify.com\/show\/4zQKHBLkM3puG5n3jAU2H4"
         },
         {
-            "rank": 18,
-            "spotify_id": "3tMwolVmLPxyXuZPQu26kQ",
-            "name": "The Pioneer Morning Briefing - Nachrichten aus Politik und Wirtschaft",
-            "publisher": "The Pioneer",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fcf4810151b910c731dc1b8ec",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/3tMwolVmLPxyXuZPQu26kQ"
+            "rank": 14,
+            "spotify_id": "1WA1U25dsygLz3GjTfLHS3",
+            "name": "11KM: der tagesschau-Podcast",
+            "publisher": "tagesschau",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f61a30c6b7f6d380330d6d83b",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/1WA1U25dsygLz3GjTfLHS3"
         },
         {
-            "rank": 19,
+            "rank": 15,
+            "spotify_id": "29yPBRjgN4JsbADpG2YojL",
+            "name": "Das Politikteil",
+            "publisher": "DIE ZEIT",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f66b7052cd66836ca89ab2e02",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/29yPBRjgN4JsbADpG2YojL"
+        },
+        {
+            "rank": 16,
+            "spotify_id": "7hJU02u7OFqdFMxSrSDN5U",
+            "name": "tagesschau: Die 20 Uhr Nachrichten (Audio)",
+            "publisher": "tagesschau",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f6db7d3d1b6f83b4f9cdaf289",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/7hJU02u7OFqdFMxSrSDN5U"
+        },
+        {
+            "rank": 17,
             "spotify_id": "7JySWeA3XdcaaFa6AWfnb2",
             "name": "Der Tag",
             "publisher": "Deutschlandfunk",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f4bc270926b228f964793bfa9",
-            "rank_move": "DOWN",
+            "rank_move": "UNCHANGED",
             "url": "https:\/\/open.spotify.com\/show\/7JySWeA3XdcaaFa6AWfnb2"
         },
         {
-            "rank": 20,
-            "spotify_id": "033fjk6GnM2lKlHImiZd1X",
-            "name": "Amann Unframed",
-            "publisher": "Dr. Melanie Amann",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f89b4ee9b5c31dcf3d0d8cbaa",
+            "rank": 18,
+            "spotify_id": "7vFmyZR3rDf61V69UpRXbA",
+            "name": "Auf den Punkt",
+            "publisher": "Süddeutsche Zeitung",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fd8802f1e9cf10d2afe88cf53",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/7vFmyZR3rDf61V69UpRXbA"
+        },
+        {
+            "rank": 19,
+            "spotify_id": "0VD0P2KFHMsZNLdf9uHbDe",
+            "name": "DER TRUMP EFFEKT",
+            "publisher": "ZDF auslandsjournal",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f037eda7f188f7def0ff04cfa",
             "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/033fjk6GnM2lKlHImiZd1X"
+            "url": "https:\/\/open.spotify.com\/show\/0VD0P2KFHMsZNLdf9uHbDe"
+        },
+        {
+            "rank": 20,
+            "spotify_id": "3tMwolVmLPxyXuZPQu26kQ",
+            "name": "The Pioneer Morning Briefing - Nachrichten aus Politik und Wirtschaft",
+            "publisher": "The Pioneer",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fcf4810151b910c731dc1b8ec",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/3tMwolVmLPxyXuZPQu26kQ"
         },
         {
             "rank": 21,
@@ -192,17 +192,17 @@
             "name": "Streitkräfte und Strategien",
             "publisher": "NDR Info",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f795d98d5ce7f1d19dd22a651",
-            "rank_move": "UNCHANGED",
+            "rank_move": "DOWN",
             "url": "https:\/\/open.spotify.com\/show\/1i8el4WnNwgu0BWS1K6SdP"
         },
         {
             "rank": 22,
-            "spotify_id": "0Z37n2amasUB9fHTghric8",
-            "name": "F.A.Z. Frühdenker - Die Nachrichten am Morgen",
-            "publisher": "Frankfurter Allgemeine Zeitung",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1ff4a041c47a374cd2983ec480",
+            "spotify_id": "7iZEp9f2Gg8JvKNqK3t905",
+            "name": "Acht Milliarden",
+            "publisher": "DER SPIEGEL",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f33cd4ccc2eca63bd36a17e7d",
             "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/0Z37n2amasUB9fHTghric8"
+            "url": "https:\/\/open.spotify.com\/show\/7iZEp9f2Gg8JvKNqK3t905"
         },
         {
             "rank": 23,
@@ -219,17 +219,17 @@
             "name": "Was tun, Herr General? - Der Podcast zum Ukraine-Krieg",
             "publisher": "Mitteldeutscher Rundfunk",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f817d8e105308c97a123c972b",
-            "rank_move": "UP",
+            "rank_move": "UNCHANGED",
             "url": "https:\/\/open.spotify.com\/show\/5jWcQ7WNI61S9ufyKqEMbb"
         },
         {
             "rank": 25,
-            "spotify_id": "7iZEp9f2Gg8JvKNqK3t905",
-            "name": "Acht Milliarden",
-            "publisher": "DER SPIEGEL",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f33cd4ccc2eca63bd36a17e7d",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/7iZEp9f2Gg8JvKNqK3t905"
+            "spotify_id": "0Z37n2amasUB9fHTghric8",
+            "name": "F.A.Z. Frühdenker - Die Nachrichten am Morgen",
+            "publisher": "Frankfurter Allgemeine Zeitung",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1ff4a041c47a374cd2983ec480",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/0Z37n2amasUB9fHTghric8"
         },
         {
             "rank": 26,
@@ -242,51 +242,6 @@
         },
         {
             "rank": 27,
-            "spotify_id": "6PUM2yObwAVke7VOkSQt2O",
-            "name": "Table Today – mit Michael Bröcker und Helene Bubrowski",
-            "publisher": "Table.Briefings",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f79c01ed29f041f0a6c75213a",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/6PUM2yObwAVke7VOkSQt2O"
-        },
-        {
-            "rank": 28,
-            "spotify_id": "7bKkc7yt7C6GRPABEW8Og4",
-            "name": "Inside Austria",
-            "publisher": "DER SPIEGEL",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f2bfddf1833358c5b9bef0842",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/7bKkc7yt7C6GRPABEW8Og4"
-        },
-        {
-            "rank": 29,
-            "spotify_id": "4QwUbrMJZ27DpjuYmN4Tun",
-            "name": "tagesschau in 100 Sekunden: Das aktuelle News-Update (Audio)",
-            "publisher": "tagesschau",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fc514ca657ca84995c49a0460",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/4QwUbrMJZ27DpjuYmN4Tun"
-        },
-        {
-            "rank": 30,
-            "spotify_id": "5olKMwMY3d1FhYXG9HksMy",
-            "name": "Weltspiegel Podcast",
-            "publisher": "ARD Weltspiegel",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f8c02d4d57478736113a6df66",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/5olKMwMY3d1FhYXG9HksMy"
-        },
-        {
-            "rank": 31,
-            "spotify_id": "68C4rvgEDoxArhvC1BB64Z",
-            "name": "Augstein & Blome",
-            "publisher": "Jakob Augstein, Nikolaus Blome \/ RTL+",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fdccfb6ab31f5a1e1eb437293",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/68C4rvgEDoxArhvC1BB64Z"
-        },
-        {
-            "rank": 32,
             "spotify_id": "4OBhPNRVO5ZZbcefJNo2Pk",
             "name": "Spitzengespräch",
             "publisher": "DER SPIEGEL",
@@ -295,34 +250,70 @@
             "url": "https:\/\/open.spotify.com\/show\/4OBhPNRVO5ZZbcefJNo2Pk"
         },
         {
-            "rank": 33,
-            "spotify_id": "49twRK0zHtLovSES4ZkU3k",
-            "name": "POV",
-            "publisher": "Jule Lobo, Sascha Lobo",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1ff08e85684b9108a490265a74",
+            "rank": 28,
+            "spotify_id": "6PUM2yObwAVke7VOkSQt2O",
+            "name": "Table Today – mit Michael Bröcker und Helene Bubrowski",
+            "publisher": "Table.Briefings",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f79c01ed29f041f0a6c75213a",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/6PUM2yObwAVke7VOkSQt2O"
+        },
+        {
+            "rank": 29,
+            "spotify_id": "720vBHQfLXde5ZmGnL0fbt",
+            "name": "Heidi trifft...",
+            "publisher": "Heidi Reichinnek, MdB",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fedca3c5e5e336064ff8cc026",
             "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/49twRK0zHtLovSES4ZkU3k"
+            "url": "https:\/\/open.spotify.com\/show\/720vBHQfLXde5ZmGnL0fbt"
+        },
+        {
+            "rank": 30,
+            "spotify_id": "5RmBdRkubf1Pya1C3PqsjF",
+            "name": "Clare on Air",
+            "publisher": "Yana Clare & arc.studio",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f9c3114e98879a8cd975855c3",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/5RmBdRkubf1Pya1C3PqsjF"
+        },
+        {
+            "rank": 31,
+            "spotify_id": "5olKMwMY3d1FhYXG9HksMy",
+            "name": "Weltspiegel Podcast",
+            "publisher": "ARD Weltspiegel",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f8c02d4d57478736113a6df66",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/5olKMwMY3d1FhYXG9HksMy"
+        },
+        {
+            "rank": 32,
+            "spotify_id": "4QwUbrMJZ27DpjuYmN4Tun",
+            "name": "tagesschau in 100 Sekunden: Das aktuelle News-Update (Audio)",
+            "publisher": "tagesschau",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fc514ca657ca84995c49a0460",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/4QwUbrMJZ27DpjuYmN4Tun"
+        },
+        {
+            "rank": 33,
+            "spotify_id": "68C4rvgEDoxArhvC1BB64Z",
+            "name": "Augstein & Blome",
+            "publisher": "Jakob Augstein, Nikolaus Blome \/ RTL+",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fdccfb6ab31f5a1e1eb437293",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/68C4rvgEDoxArhvC1BB64Z"
         },
         {
             "rank": 34,
-            "spotify_id": "4rwOyGAKD2MDnmrxyeUakF",
-            "name": "Das Thema",
-            "publisher": "Süddeutsche Zeitung",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f4103fc30a139493a57474ee2",
+            "spotify_id": "2WbSCoNbxETCXQV45Dyk9h",
+            "name": "F.A.Z. Podcast für Deutschland",
+            "publisher": "Frankfurter Allgemeine Zeitung",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f14d1460dfc83c0dc658f3cfa",
             "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/4rwOyGAKD2MDnmrxyeUakF"
+            "url": "https:\/\/open.spotify.com\/show\/2WbSCoNbxETCXQV45Dyk9h"
         },
         {
             "rank": 35,
-            "spotify_id": "4mY3aquNQCJfD80QkKyuFC",
-            "name": "Sicherheitshalber",
-            "publisher": "Der Podcast zur sicherheitspolitischen Lage in Deutschland, Europa und der Welt.",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fefda8c9a8d846b0d4c4897ef",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/4mY3aquNQCJfD80QkKyuFC"
-        },
-        {
-            "rank": 36,
             "spotify_id": "44BjJ1tkcQHVNlDf6sIrel",
             "name": "Die Lage",
             "publisher": "DER SPIEGEL",
@@ -331,7 +322,7 @@
             "url": "https:\/\/open.spotify.com\/show\/44BjJ1tkcQHVNlDf6sIrel"
         },
         {
-            "rank": 37,
+            "rank": 36,
             "spotify_id": "5gVdL6NPGGnefxUCdBNhR6",
             "name": "Gysi gegen Guttenberg – Der Deutschland Podcast",
             "publisher": "Open Minds Media, Karl-Theodor zu Guttenberg & Gregor Gysi",
@@ -340,34 +331,16 @@
             "url": "https:\/\/open.spotify.com\/show\/5gVdL6NPGGnefxUCdBNhR6"
         },
         {
-            "rank": 38,
-            "spotify_id": "2WbSCoNbxETCXQV45Dyk9h",
-            "name": "F.A.Z. Podcast für Deutschland",
-            "publisher": "Frankfurter Allgemeine Zeitung",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f14d1460dfc83c0dc658f3cfa",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/2WbSCoNbxETCXQV45Dyk9h"
-        },
-        {
-            "rank": 39,
-            "spotify_id": "3IM0lmZxpFAY7CwMuv9H4g",
-            "name": "The Daily",
-            "publisher": "The New York Times",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fc209144b2c67a524fcbaa70c",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/3IM0lmZxpFAY7CwMuv9H4g"
-        },
-        {
-            "rank": 40,
-            "spotify_id": "5RmBdRkubf1Pya1C3PqsjF",
-            "name": "Clare on Air",
-            "publisher": "Yana Clare & arc.studio",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f9c3114e98879a8cd975855c3",
+            "rank": 37,
+            "spotify_id": "49twRK0zHtLovSES4ZkU3k",
+            "name": "POV",
+            "publisher": "Jule Lobo, Sascha Lobo",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1ff08e85684b9108a490265a74",
             "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/5RmBdRkubf1Pya1C3PqsjF"
+            "url": "https:\/\/open.spotify.com\/show\/49twRK0zHtLovSES4ZkU3k"
         },
         {
-            "rank": 41,
+            "rank": 38,
             "spotify_id": "0zyxZvuTUUCHUhtIxzoMHf",
             "name": "Der schwarze Kanal",
             "publisher": "FOCUS",
@@ -376,22 +349,49 @@
             "url": "https:\/\/open.spotify.com\/show\/0zyxZvuTUUCHUhtIxzoMHf"
         },
         {
-            "rank": 42,
-            "spotify_id": "7kUsuGxOLqMg2ecqHCVPGZ",
-            "name": "Richard, wo erreiche ich Dich?",
-            "publisher": "Ingmar Stadelmann & Andreas O. Loff",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f23781861221a6a38b4c15063",
+            "rank": 39,
+            "spotify_id": "033fjk6GnM2lKlHImiZd1X",
+            "name": "Amann Unframed",
+            "publisher": "Dr. Melanie Amann",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f89b4ee9b5c31dcf3d0d8cbaa",
             "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/7kUsuGxOLqMg2ecqHCVPGZ"
+            "url": "https:\/\/open.spotify.com\/show\/033fjk6GnM2lKlHImiZd1X"
+        },
+        {
+            "rank": 40,
+            "spotify_id": "3IM0lmZxpFAY7CwMuv9H4g",
+            "name": "The Daily",
+            "publisher": "The New York Times",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fc209144b2c67a524fcbaa70c",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/3IM0lmZxpFAY7CwMuv9H4g"
+        },
+        {
+            "rank": 41,
+            "spotify_id": "7bKkc7yt7C6GRPABEW8Og4",
+            "name": "Inside Austria",
+            "publisher": "DER SPIEGEL",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f2bfddf1833358c5b9bef0842",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/7bKkc7yt7C6GRPABEW8Og4"
+        },
+        {
+            "rank": 42,
+            "spotify_id": "1s1UgeXHVXRz8UOJbalf78",
+            "name": "MrWissen2go",
+            "publisher": "funk – von ARD und ZDF",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f0c2089edef63a4942912e473",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/1s1UgeXHVXRz8UOJbalf78"
         },
         {
             "rank": 43,
-            "spotify_id": "7iuaAYmNQPmSiQVf0J56Bf",
-            "name": "MDR Investigativ – Hinter der Recherche",
-            "publisher": "Mitteldeutscher Rundfunk",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f1ab33efa24432cd1bba00d9d",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/7iuaAYmNQPmSiQVf0J56Bf"
+            "spotify_id": "4rwOyGAKD2MDnmrxyeUakF",
+            "name": "Das Thema",
+            "publisher": "Süddeutsche Zeitung",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f4103fc30a139493a57474ee2",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/4rwOyGAKD2MDnmrxyeUakF"
         },
         {
             "rank": 44,
@@ -404,33 +404,24 @@
         },
         {
             "rank": 45,
-            "spotify_id": "5D4qaXzDSdLPS1A8flbSQk",
-            "name": "heute journal - der Podcast",
-            "publisher": "heute journal",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f86647296d3aa24fc84552e23",
+            "spotify_id": "7kUsuGxOLqMg2ecqHCVPGZ",
+            "name": "Richard, wo erreiche ich Dich?",
+            "publisher": "Ingmar Stadelmann & Andreas O. Loff",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f23781861221a6a38b4c15063",
             "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/5D4qaXzDSdLPS1A8flbSQk"
+            "url": "https:\/\/open.spotify.com\/show\/7kUsuGxOLqMg2ecqHCVPGZ"
         },
         {
             "rank": 46,
-            "spotify_id": "1s1UgeXHVXRz8UOJbalf78",
-            "name": "MrWissen2go",
-            "publisher": "funk – von ARD und ZDF",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f0c2089edef63a4942912e473",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/1s1UgeXHVXRz8UOJbalf78"
+            "spotify_id": "16tl1FvAVvWWktGLLfavcm",
+            "name": "Der Ostcast",
+            "publisher": "DIE ZEIT",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f693f3cec6bf7b835face3c22",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/16tl1FvAVvWWktGLLfavcm"
         },
         {
             "rank": 47,
-            "spotify_id": "4XjfsxQId9bEDLvsN71qP6",
-            "name": "Der Politikpodcast",
-            "publisher": "Deutschlandfunk",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f9794c82438deb6d3cce75a76",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/4XjfsxQId9bEDLvsN71qP6"
-        },
-        {
-            "rank": 48,
             "spotify_id": "0pJNzwAS1KiyBNUD2qb9oh",
             "name": "Die Lage international mit Christian Mölling",
             "publisher": "stern \/ Steffen Gassel, Moritz Gathmann, Christian Mölling",
@@ -439,22 +430,31 @@
             "url": "https:\/\/open.spotify.com\/show\/0pJNzwAS1KiyBNUD2qb9oh"
         },
         {
-            "rank": 49,
-            "spotify_id": "3wBfqov60qDZbEVjPHo0a8",
-            "name": "Global News Podcast",
-            "publisher": "BBC World Service",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fb0617b8983fa67ffd9678391",
+            "rank": 48,
+            "spotify_id": "4XjfsxQId9bEDLvsN71qP6",
+            "name": "Der Politikpodcast",
+            "publisher": "Deutschlandfunk",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f9794c82438deb6d3cce75a76",
             "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/3wBfqov60qDZbEVjPHo0a8"
+            "url": "https:\/\/open.spotify.com\/show\/4XjfsxQId9bEDLvsN71qP6"
         },
         {
-            "rank": 50,
+            "rank": 49,
             "spotify_id": "36NNPmy7czeq4V2TKKHZmX",
             "name": "Hintergrund",
             "publisher": "Deutschlandfunk",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fd95336fc8386e8fc9f4c1354",
             "rank_move": "DOWN",
             "url": "https:\/\/open.spotify.com\/show\/36NNPmy7czeq4V2TKKHZmX"
+        },
+        {
+            "rank": 50,
+            "spotify_id": "5D4qaXzDSdLPS1A8flbSQk",
+            "name": "heute journal - der Podcast",
+            "publisher": "heute journal",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f86647296d3aa24fc84552e23",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/5D4qaXzDSdLPS1A8flbSQk"
         }
     ]
 }

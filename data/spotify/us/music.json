@@ -3,20 +3,11 @@
     "country": "us",
     "genre": "Music",
     "slug": "music",
-    "fetched_at": "2026-06-24T06:36:21Z",
+    "fetched_at": "2026-07-01T04:43:07Z",
     "count": 50,
     "shows": [
         {
             "rank": 1,
-            "spotify_id": "5DEZxew4BhRi9mw53MOzgj",
-            "name": "RADAR",
-            "publisher": "Spotify",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fe5bc8162865bb755309448de",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/5DEZxew4BhRi9mw53MOzgj"
-        },
-        {
-            "rank": 2,
             "spotify_id": "3omhMGYtZccPsAoTNsBwzJ",
             "name": "BBM 2F",
             "publisher": "Thickums Johnson",
@@ -25,7 +16,7 @@
             "url": "https:\/\/open.spotify.com\/show\/3omhMGYtZccPsAoTNsBwzJ"
         },
         {
-            "rank": 3,
+            "rank": 2,
             "spotify_id": "7G8X3uikqwAmvr92MHFZO6",
             "name": "The Joe Budden Podcast",
             "publisher": "The Joe Budden Network",
@@ -34,43 +25,61 @@
             "url": "https:\/\/open.spotify.com\/show\/7G8X3uikqwAmvr92MHFZO6"
         },
         {
+            "rank": 3,
+            "spotify_id": "5VjSRHdISZZnT9WkZC4xBb",
+            "name": "Behind The Wall",
+            "publisher": "Daniel Wall",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f3fbb4aaea4f34d11f4cfa9ee",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/5VjSRHdISZZnT9WkZC4xBb"
+        },
+        {
             "rank": 4,
+            "spotify_id": "3mNzAtzbx87dJmkrz7HtS5",
+            "name": "STAN:A",
+            "publisher": "HYBE MEDIA STUDIO",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fbb1c5260bbd9bee237fda4d7",
+            "rank_move": "UP",
+            "url": "https:\/\/open.spotify.com\/show\/3mNzAtzbx87dJmkrz7HtS5"
+        },
+        {
+            "rank": 5,
             "spotify_id": "1d5i6AQX4dZaO4MDCbdhjR",
             "name": "The Track Star Podcast",
             "publisher": "Jack Coyne",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f736c60ab7acc279b2c7b536f",
-            "rank_move": "UNCHANGED",
+            "rank_move": "DOWN",
             "url": "https:\/\/open.spotify.com\/show\/1d5i6AQX4dZaO4MDCbdhjR"
         },
         {
-            "rank": 5,
-            "spotify_id": "3mNzAtzbx87dJmkrz7HtS5",
-            "name": "STAN:A",
-            "publisher": "HYBE MEDIA STUDIO",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f21e47d5addfd3329e40533b7",
+            "rank": 6,
+            "spotify_id": "5HHEFjbW196ymwEuDa2BAx",
+            "name": "One Song",
+            "publisher": "Hartbeat",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f8b6e0a726a5188164a942f2d",
             "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/3mNzAtzbx87dJmkrz7HtS5"
+            "url": "https:\/\/open.spotify.com\/show\/5HHEFjbW196ymwEuDa2BAx"
         },
         {
-            "rank": 6,
+            "rank": 7,
+            "spotify_id": "0WBq7fRaeCEDGNh9pcYG7a",
+            "name": "Day in the Life",
+            "publisher": "Spotify",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f8a51a46592f5fda64cd91717",
+            "rank_move": "NEW",
+            "url": "https:\/\/open.spotify.com\/show\/0WBq7fRaeCEDGNh9pcYG7a"
+        },
+        {
+            "rank": 8,
             "spotify_id": "0EwDk36KVbO6d6Rbjacf4Z",
             "name": "Billions Club: The Series",
             "publisher": "Spotify",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f467ed87c8b7ed76d7d990ca8",
-            "rank_move": "UP",
+            "rank_move": "UNCHANGED",
             "url": "https:\/\/open.spotify.com\/show\/0EwDk36KVbO6d6Rbjacf4Z"
         },
         {
-            "rank": 7,
-            "spotify_id": "5KYTveuTY4nydCKG8yTxjJ",
-            "name": "Living for the City ",
-            "publisher": "Side Stage",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fbb97ecd5c4f08fb8ebc1754d",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/5KYTveuTY4nydCKG8yTxjJ"
-        },
-        {
-            "rank": 8,
+            "rank": 9,
             "spotify_id": "1Svv9Yv4WXxjKZLfFh8upX",
             "name": "BBM 2F",
             "publisher": "Thickums Johnson",
@@ -79,58 +88,49 @@
             "url": "https:\/\/open.spotify.com\/show\/1Svv9Yv4WXxjKZLfFh8upX"
         },
         {
-            "rank": 9,
-            "spotify_id": "5F2paD6s6Wg77GdhKanAVg",
-            "name": "Unfamous with Justin Tranter",
-            "publisher": "Justin Tranter + Morgan Stuart",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fb8f13c6d74307df0731980d3",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/5F2paD6s6Wg77GdhKanAVg"
-        },
-        {
             "rank": 10,
-            "spotify_id": "7yOItp0P3MZIVLYyFB2SnH",
-            "name": "Every Single Album",
-            "publisher": "The Ringer",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fe61fba1ad761386d301e6f51",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/7yOItp0P3MZIVLYyFB2SnH"
-        },
-        {
-            "rank": 11,
-            "spotify_id": "0PQ2BNfTrA4NlXNm94mD8H",
-            "name": "New Rory & MAL",
-            "publisher": "iHeartPodcasts and The Volume",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f663d2d1f2eb97c25f6663cc1",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/0PQ2BNfTrA4NlXNm94mD8H"
-        },
-        {
-            "rank": 12,
             "spotify_id": "033wN3Tl0eziT0gvBI0L7u",
             "name": " 𓈒🖥🎹💿 ̣̣ ۟    ―     愛     ꓄𝗲𝗮𝗹'𝘀 𝗺𝘂𝘀𝗶𝗰 𝘀𝘁𝘂𝗱𝗶𝗼 𖦹",
             "publisher": "🖥📎 ﹫  𝙏𝙚𝙖𝙡  ／  𝙏𝙚𝙖𝙡𝙞𝙤    ݂      𓄳   🎹💿",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fce99970613d57cc518912a1b",
-            "rank_move": "NEW",
+            "rank_move": "UNCHANGED",
             "url": "https:\/\/open.spotify.com\/show\/033wN3Tl0eziT0gvBI0L7u"
         },
         {
-            "rank": 13,
-            "spotify_id": "0QORyVQIR6eXZO2I8uFml2",
-            "name": "Trap Lore Ross",
-            "publisher": "Trap Lore Ross",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f9c8179955fde464d3810e1fe",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/0QORyVQIR6eXZO2I8uFml2"
+            "rank": 11,
+            "spotify_id": "5DEZxew4BhRi9mw53MOzgj",
+            "name": "RADAR",
+            "publisher": "Spotify",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fe5bc8162865bb755309448de",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/5DEZxew4BhRi9mw53MOzgj"
         },
         {
-            "rank": 14,
+            "rank": 12,
             "spotify_id": "2b025hq3gJ17tQdxS3aV43",
             "name": "Dissect",
             "publisher": "Spotify Studios",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fb1bddf54d0effae5e91ba12a",
-            "rank_move": "UP",
+            "rank_move": "UNCHANGED",
             "url": "https:\/\/open.spotify.com\/show\/2b025hq3gJ17tQdxS3aV43"
+        },
+        {
+            "rank": 13,
+            "spotify_id": "0PQ2BNfTrA4NlXNm94mD8H",
+            "name": "New Rory & MAL",
+            "publisher": "iHeartPodcasts and The Volume",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f663d2d1f2eb97c25f6663cc1",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/0PQ2BNfTrA4NlXNm94mD8H"
+        },
+        {
+            "rank": 14,
+            "spotify_id": "7yOItp0P3MZIVLYyFB2SnH",
+            "name": "Every Single Album",
+            "publisher": "The Ringer",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fe61fba1ad761386d301e6f51",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/7yOItp0P3MZIVLYyFB2SnH"
         },
         {
             "rank": 15,
@@ -138,47 +138,20 @@
             "name": "Two Friends",
             "publisher": "Two Friends",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f4aa68bbd1be6bbf49b8f9366",
-            "rank_move": "UP",
+            "rank_move": "UNCHANGED",
             "url": "https:\/\/open.spotify.com\/show\/6wP5JPE6cvEoP8WDD5hvRh"
         },
         {
             "rank": 16,
-            "spotify_id": "26gzyiPD2ix1VaO1fHDKCk",
-            "name": "And The Writer Is...with Ross Golan",
-            "publisher": "And The Writer Is",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f0ca53ca21c17252201e6ab3b",
+            "spotify_id": "0QORyVQIR6eXZO2I8uFml2",
+            "name": "Trap Lore Ross",
+            "publisher": "Trap Lore Ross",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f9c8179955fde464d3810e1fe",
             "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/26gzyiPD2ix1VaO1fHDKCk"
+            "url": "https:\/\/open.spotify.com\/show\/0QORyVQIR6eXZO2I8uFml2"
         },
         {
             "rank": 17,
-            "spotify_id": "5VmqScZECoj6jLS43S32ff",
-            "name": "Artist Friendly with Joel Madden",
-            "publisher": "Artist Friendly Media",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fb1660d7ca3da07e001cd52d5",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/5VmqScZECoj6jLS43S32ff"
-        },
-        {
-            "rank": 18,
-            "spotify_id": "5HHEFjbW196ymwEuDa2BAx",
-            "name": "One Song",
-            "publisher": "Hartbeat",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f8b6e0a726a5188164a942f2d",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/5HHEFjbW196ymwEuDa2BAx"
-        },
-        {
-            "rank": 19,
-            "spotify_id": "1sgWaKtQxwfjUpZnnK8r7J",
-            "name": "Switched on Pop",
-            "publisher": "Vulture",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f66bde32cb648c3650db98902",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/1sgWaKtQxwfjUpZnnK8r7J"
-        },
-        {
-            "rank": 20,
             "spotify_id": "3uKSgODaDrtWOulcJp57h7",
             "name": "Bandsplain",
             "publisher": "The Ringer",
@@ -187,25 +160,7 @@
             "url": "https:\/\/open.spotify.com\/show\/3uKSgODaDrtWOulcJp57h7"
         },
         {
-            "rank": 21,
-            "spotify_id": "2HeA7PGBai6TQrZLOLzcEi",
-            "name": "DISGRACELAND",
-            "publisher": "Exactly Right and iHeartPodcasts",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f3f874e08c369e5232964541e",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/2HeA7PGBai6TQrZLOLzcEi"
-        },
-        {
-            "rank": 22,
-            "spotify_id": "10LYbliXlNZe1VStsTkcC0",
-            "name": "NPR Music",
-            "publisher": "NPR",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f22b9a6fc111a7e865f6cba1e",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/10LYbliXlNZe1VStsTkcC0"
-        },
-        {
-            "rank": 23,
+            "rank": 18,
             "spotify_id": "43rIEYMKaVoZD0rAlGc4oP",
             "name": "Joe and Jada",
             "publisher": "iHeartPodcasts and The Volume",
@@ -214,16 +169,16 @@
             "url": "https:\/\/open.spotify.com\/show\/43rIEYMKaVoZD0rAlGc4oP"
         },
         {
-            "rank": 24,
-            "spotify_id": "28Oo4qf29ebvFYFQ2iQ68E",
-            "name": "HardLore",
-            "publisher": "Colin Young, Bo Lueders, Knotfest",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f53484e2b980b210a61cde0c1",
+            "rank": 19,
+            "spotify_id": "2HeA7PGBai6TQrZLOLzcEi",
+            "name": "DISGRACELAND",
+            "publisher": "Exactly Right and iHeartPodcasts",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f3f874e08c369e5232964541e",
             "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/28Oo4qf29ebvFYFQ2iQ68E"
+            "url": "https:\/\/open.spotify.com\/show\/2HeA7PGBai6TQrZLOLzcEi"
         },
         {
-            "rank": 25,
+            "rank": 20,
             "spotify_id": "0tnFAOk1lPpo3yC0lwme5J",
             "name": "Brown Bag Mornings",
             "publisher": "Power 106, Rosecrans Vic, Concrete, Letty, DJ Greg C, Angie",
@@ -232,79 +187,61 @@
             "url": "https:\/\/open.spotify.com\/show\/0tnFAOk1lPpo3yC0lwme5J"
         },
         {
-            "rank": 26,
-            "spotify_id": "4z4yCTjwXa4an6sBGIe7m5",
-            "name": "No Jumper",
-            "publisher": "No Jumper",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1ffe4362c29eb9bbcbb6ae3766",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/4z4yCTjwXa4an6sBGIe7m5"
-        },
-        {
-            "rank": 27,
-            "spotify_id": "0njxeKJKFtoJhCRF1ShmL4",
-            "name": "60 Songs That Explain the '90s",
-            "publisher": "The Ringer",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fdd526e51999c9c4b9098ab93",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/0njxeKJKFtoJhCRF1ShmL4"
-        },
-        {
-            "rank": 28,
-            "spotify_id": "10lMwCjvzLCLwth2AW6cLG",
-            "name": "Song Exploder",
-            "publisher": "Hrishikesh Hirway",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fd10df910a507806f8c559542",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/10lMwCjvzLCLwth2AW6cLG"
-        },
-        {
-            "rank": 29,
+            "rank": 21,
             "spotify_id": "2Mzn2CScIh1ebkDQRHkqXC",
             "name": "pop culture & music explored - mattycast",
             "publisher": "mattyballz",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fcb628e51ade75bb66f771999",
-            "rank_move": "UP",
+            "rank_move": "UNCHANGED",
             "url": "https:\/\/open.spotify.com\/show\/2Mzn2CScIh1ebkDQRHkqXC"
         },
         {
-            "rank": 30,
-            "spotify_id": "1CtRqrNGqpAttWyft6nVss",
-            "name": "Drink Champs",
-            "publisher": "The Black Effect Podcast Network and iHeartPodcasts",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f7adb78da5bf721ca626684c8",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/1CtRqrNGqpAttWyft6nVss"
+            "rank": 22,
+            "spotify_id": "10lMwCjvzLCLwth2AW6cLG",
+            "name": "Song Exploder",
+            "publisher": "Hrishikesh Hirway",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fd10df910a507806f8c559542",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/10lMwCjvzLCLwth2AW6cLG"
         },
         {
-            "rank": 31,
-            "spotify_id": "5TOVf1Lqb3KofWPOHAb2hk",
-            "name": "93X Half-Assed Morning Show",
-            "publisher": "93X | Cumulus Media Minneapolis | KXXR-FM",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fee309754591c0caf9f3c8eaa",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/5TOVf1Lqb3KofWPOHAb2hk"
+            "rank": 23,
+            "spotify_id": "4z4yCTjwXa4an6sBGIe7m5",
+            "name": "No Jumper",
+            "publisher": "No Jumper",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1ffe4362c29eb9bbcbb6ae3766",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/4z4yCTjwXa4an6sBGIe7m5"
         },
         {
-            "rank": 32,
-            "spotify_id": "7HEe4JUdCW8qtNr1hAXqHk",
-            "name": "Analytic Dreamz: Notorious Mass Effect",
-            "publisher": "Analytic_Dreamz",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fe1631bc9bacc8ca8e3a16e38",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/7HEe4JUdCW8qtNr1hAXqHk"
+            "rank": 24,
+            "spotify_id": "28Oo4qf29ebvFYFQ2iQ68E",
+            "name": "HardLore",
+            "publisher": "Colin Young, Bo Lueders, Knotfest",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f53484e2b980b210a61cde0c1",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/28Oo4qf29ebvFYFQ2iQ68E"
         },
         {
-            "rank": 33,
-            "spotify_id": "2OtF7GsDi7B7GFZiYUOyZ7",
-            "name": "God's Country",
-            "publisher": "The Brothers Hunt",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fbe4883cafef9430209182210",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/2OtF7GsDi7B7GFZiYUOyZ7"
+            "rank": 25,
+            "spotify_id": "10LYbliXlNZe1VStsTkcC0",
+            "name": "NPR Music",
+            "publisher": "NPR",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f22b9a6fc111a7e865f6cba1e",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/10LYbliXlNZe1VStsTkcC0"
         },
         {
-            "rank": 34,
+            "rank": 26,
+            "spotify_id": "0njxeKJKFtoJhCRF1ShmL4",
+            "name": "60 Songs That Explain the '90s",
+            "publisher": "The Ringer",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f7658519db7e6cdeafd9fa35a",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/0njxeKJKFtoJhCRF1ShmL4"
+        },
+        {
+            "rank": 27,
             "spotify_id": "3ugDIELXIU7erW5Xp49tWp",
             "name": "Popcast",
             "publisher": "The New York Times",
@@ -313,25 +250,70 @@
             "url": "https:\/\/open.spotify.com\/show\/3ugDIELXIU7erW5Xp49tWp"
         },
         {
-            "rank": 35,
+            "rank": 28,
+            "spotify_id": "5TOVf1Lqb3KofWPOHAb2hk",
+            "name": "93X Half-Assed Morning Show",
+            "publisher": "93X | Cumulus Media Minneapolis | KXXR-FM",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fee309754591c0caf9f3c8eaa",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/5TOVf1Lqb3KofWPOHAb2hk"
+        },
+        {
+            "rank": 29,
+            "spotify_id": "7HEe4JUdCW8qtNr1hAXqHk",
+            "name": "Analytic Dreamz: Notorious Mass Effect",
+            "publisher": "Analytic_Dreamz",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fe1631bc9bacc8ca8e3a16e38",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/7HEe4JUdCW8qtNr1hAXqHk"
+        },
+        {
+            "rank": 30,
+            "spotify_id": "5F2paD6s6Wg77GdhKanAVg",
+            "name": "Unfamous with Justin Tranter",
+            "publisher": "Justin Tranter + Morgan Stuart",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fb8f13c6d74307df0731980d3",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/5F2paD6s6Wg77GdhKanAVg"
+        },
+        {
+            "rank": 31,
+            "spotify_id": "1sgWaKtQxwfjUpZnnK8r7J",
+            "name": "Switched on Pop",
+            "publisher": "Vulture",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f66bde32cb648c3650db98902",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/1sgWaKtQxwfjUpZnnK8r7J"
+        },
+        {
+            "rank": 32,
+            "spotify_id": "6X0ThBWpiPUplNxoaa7SMx",
+            "name": "The Questlove Show",
+            "publisher": "iHeartPodcasts",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fa85470c125b655f0a9f237d9",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/6X0ThBWpiPUplNxoaa7SMx"
+        },
+        {
+            "rank": 33,
             "spotify_id": "6nQp0redV9AFU5YtSdIekU",
             "name": "2F BBMs",
             "publisher": "2F",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f01f8d5bca44dacfe326a80f3",
-            "rank_move": "DOWN",
+            "rank_move": "UNCHANGED",
             "url": "https:\/\/open.spotify.com\/show\/6nQp0redV9AFU5YtSdIekU"
         },
         {
-            "rank": 36,
-            "spotify_id": "033uD8AJRTF7cogr0i4Tug",
-            "name": "HeartsPod",
-            "publisher": "Hearts2Hearts",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f9abf7cb2946741df1ab3961a",
+            "rank": 34,
+            "spotify_id": "1CtRqrNGqpAttWyft6nVss",
+            "name": "Drink Champs",
+            "publisher": "The Black Effect Podcast Network and iHeartPodcasts",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f7adb78da5bf721ca626684c8",
             "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/033uD8AJRTF7cogr0i4Tug"
+            "url": "https:\/\/open.spotify.com\/show\/1CtRqrNGqpAttWyft6nVss"
         },
         {
-            "rank": 37,
+            "rank": 35,
             "spotify_id": "7BopIybXuBlm1Xo5k3850V",
             "name": "bakerbaker",
             "publisher": "Naomi Baker",
@@ -340,43 +322,52 @@
             "url": "https:\/\/open.spotify.com\/show\/7BopIybXuBlm1Xo5k3850V"
         },
         {
-            "rank": 38,
-            "spotify_id": "7KGhTDsEpOgBAT24WfpTkk",
-            "name": "A History of Rock Music in 500 Songs",
-            "publisher": "Andrew Hickey",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fd46d0d5b83ef1c77e1c57da5",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/7KGhTDsEpOgBAT24WfpTkk"
+            "rank": 36,
+            "spotify_id": "2OtF7GsDi7B7GFZiYUOyZ7",
+            "name": "God's Country",
+            "publisher": "The Brothers Hunt",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fbe4883cafef9430209182210",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/2OtF7GsDi7B7GFZiYUOyZ7"
         },
         {
-            "rank": 39,
+            "rank": 37,
             "spotify_id": "4Re2Ss3prlxFXgX0PsFzjk",
             "name": "Garza Podcast",
             "publisher": "Chris Garza",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f6f8f253fdb6dfc866af09ae5",
-            "rank_move": "DOWN",
+            "rank_move": "UP",
             "url": "https:\/\/open.spotify.com\/show\/4Re2Ss3prlxFXgX0PsFzjk"
         },
         {
-            "rank": 40,
-            "spotify_id": "015FnGMuczOXnpFEMbrlu5",
-            "name": "Big Bro with Kid Cudi",
-            "publisher": "Wave",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f9ac908c85f1d2a8abccf2a71",
+            "rank": 38,
+            "spotify_id": "6UsuhRMTD9O71DznRP8540",
+            "name": "Broken Record with Rick Rubin, Malcolm Gladwell, Bruce Headlam and Justin Richmond",
+            "publisher": "Pushkin Industries",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1ff54cb362c0270c6c68bc5b25",
             "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/015FnGMuczOXnpFEMbrlu5"
+            "url": "https:\/\/open.spotify.com\/show\/6UsuhRMTD9O71DznRP8540"
+        },
+        {
+            "rank": 39,
+            "spotify_id": "7KGhTDsEpOgBAT24WfpTkk",
+            "name": "A History of Rock Music in 500 Songs",
+            "publisher": "Andrew Hickey",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fd46d0d5b83ef1c77e1c57da5",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/7KGhTDsEpOgBAT24WfpTkk"
+        },
+        {
+            "rank": 40,
+            "spotify_id": "4Dl5YBd2Cca2Oc9NvGaSVF",
+            "name": "Dissect DJs",
+            "publisher": "Dissect DJs",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f38c50232bc0a0a44818eedb7",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/4Dl5YBd2Cca2Oc9NvGaSVF"
         },
         {
             "rank": 41,
-            "spotify_id": "6QRSZ1xqP5uUMgmHw3gBPL",
-            "name": "Zach Sang Show",
-            "publisher": "Sangasong, LLC",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f89df83518cccfec577a98c4e",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/6QRSZ1xqP5uUMgmHw3gBPL"
-        },
-        {
-            "rank": 42,
             "spotify_id": "70xT4aA9FayuPmrRAbMrSn",
             "name": "Evolution of a Snake: The Taylor Swift Fan Podcast",
             "publisher": "Evolution of a Snake: The Taylor Swift Fan Podcast",
@@ -385,22 +376,31 @@
             "url": "https:\/\/open.spotify.com\/show\/70xT4aA9FayuPmrRAbMrSn"
         },
         {
+            "rank": 42,
+            "spotify_id": "6QRSZ1xqP5uUMgmHw3gBPL",
+            "name": "Zach Sang Show",
+            "publisher": "Sangasong, LLC",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f89df83518cccfec577a98c4e",
+            "rank_move": "DOWN",
+            "url": "https:\/\/open.spotify.com\/show\/6QRSZ1xqP5uUMgmHw3gBPL"
+        },
+        {
             "rank": 43,
-            "spotify_id": "033zyz1ywWEfaRYUmeI7G2",
-            "name": "lukkyluk ",
-            "publisher": "lukk ",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f2b6d231e231443b3b94d816d",
+            "spotify_id": "6Jzbtj0r3sPiNWsPSkjrOR",
+            "name": "GOOD OL' GRATEFUL DEADCAST",
+            "publisher": "Grateful Dead",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fcd9161a4cab11fee0aa1cf8c",
             "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/033zyz1ywWEfaRYUmeI7G2"
+            "url": "https:\/\/open.spotify.com\/show\/6Jzbtj0r3sPiNWsPSkjrOR"
         },
         {
             "rank": 44,
-            "spotify_id": "3MpBhEWOmV6FnbRALwhYhZ",
-            "name": "Batala's ASMR",
-            "publisher": "Batala's ASMR",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fe484f4ca6ba930b961b98e60",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/3MpBhEWOmV6FnbRALwhYhZ"
+            "spotify_id": "015FnGMuczOXnpFEMbrlu5",
+            "name": "Big Bro with Kid Cudi",
+            "publisher": "Wave",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f9ac908c85f1d2a8abccf2a71",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/015FnGMuczOXnpFEMbrlu5"
         },
         {
             "rank": 45,
@@ -408,53 +408,53 @@
             "name": "The Downbeat",
             "publisher": "Craig Reynolds",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fe130507cdd29235f83a41381",
-            "rank_move": "UNCHANGED",
+            "rank_move": "UP",
             "url": "https:\/\/open.spotify.com\/show\/1YwPfCDf1rJiyT48tYZgxl"
         },
         {
             "rank": 46,
-            "spotify_id": "6X0ThBWpiPUplNxoaa7SMx",
-            "name": "The Questlove Show",
-            "publisher": "iHeartPodcasts",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fa85470c125b655f0a9f237d9",
-            "rank_move": "UP",
-            "url": "https:\/\/open.spotify.com\/show\/6X0ThBWpiPUplNxoaa7SMx"
-        },
-        {
-            "rank": 47,
-            "spotify_id": "1XoYmezf71A4ifqAZYgndG",
-            "name": "You'll Hear It: Full Album Deep Dives with Jazz Musicians",
-            "publisher": "Peter Martin & Adam Maness",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f7793303f12dca783ea7925a7",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/1XoYmezf71A4ifqAZYgndG"
-        },
-        {
-            "rank": 48,
-            "spotify_id": "6UsuhRMTD9O71DznRP8540",
-            "name": "Broken Record with Rick Rubin, Malcolm Gladwell, Bruce Headlam and Justin Richmond",
-            "publisher": "Pushkin Industries",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1ff54cb362c0270c6c68bc5b25",
-            "rank_move": "UNCHANGED",
-            "url": "https:\/\/open.spotify.com\/show\/6UsuhRMTD9O71DznRP8540"
-        },
-        {
-            "rank": 49,
-            "spotify_id": "6pYA7xSkQ8T7v3oAp60Jl4",
-            "name": "DJ Akademiks Live Streams",
-            "publisher": "The Akademy",
-            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fb18ddc24f3ad6663b8c2a6ed",
-            "rank_move": "DOWN",
-            "url": "https:\/\/open.spotify.com\/show\/6pYA7xSkQ8T7v3oAp60Jl4"
-        },
-        {
-            "rank": 50,
             "spotify_id": "2pBM5JEmMJ4DE7xddtXdZm",
             "name": "Million Dollaz Worth Of Game",
             "publisher": "Barstool Sports",
             "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f7c7d48d77ac8fa0fa65d4f96",
-            "rank_move": "UNCHANGED",
+            "rank_move": "DOWN",
             "url": "https:\/\/open.spotify.com\/show\/2pBM5JEmMJ4DE7xddtXdZm"
+        },
+        {
+            "rank": 47,
+            "spotify_id": "3MpBhEWOmV6FnbRALwhYhZ",
+            "name": "Batala's ASMR",
+            "publisher": "Batala's ASMR",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fe484f4ca6ba930b961b98e60",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/3MpBhEWOmV6FnbRALwhYhZ"
+        },
+        {
+            "rank": 48,
+            "spotify_id": "42ehVWDSUY06RN5Eimenhw",
+            "name": "DTMF Bad Bunny",
+            "publisher": "Dent Maynard",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1fefc051fe123c3050553d648b",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/42ehVWDSUY06RN5Eimenhw"
+        },
+        {
+            "rank": 49,
+            "spotify_id": "2LtHch5JoATENjnNgDLAXE",
+            "name": "RapFlix",
+            "publisher": "Brandon Bauer",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f1fcd3b4e1eb9cfd2f49cb0bd",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/2LtHch5JoATENjnNgDLAXE"
+        },
+        {
+            "rank": 50,
+            "spotify_id": "2tbkgRH7TSYT93QanfJ3Rz",
+            "name": "Indiecast",
+            "publisher": "Amazon Music",
+            "artwork": "https:\/\/i.scdn.co\/image\/ab67656300005f1f086641460bf3301b41f628ce",
+            "rank_move": "UNCHANGED",
+            "url": "https:\/\/open.spotify.com\/show\/2tbkgRH7TSYT93QanfJ3Rz"
         }
     ]
 }
